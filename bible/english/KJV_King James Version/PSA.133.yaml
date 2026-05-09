@@ -1,100 +1,97 @@
-document_id: PSA.133,1
+document_id: PSA.133
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: A Song of degrees of David.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: d
+    marker: vlbl
     children:
     - type: text
-      text: A Song of degrees of David.
+      text: '1'
+  - type: text
+    text: 'Behold, how good and how pleasant '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: 'Behold, how good and how pleasant '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: it is
-  - type: usfm
-    marker: q2
+    marker: add
     children:
     - type: text
-      text: For brethren to dwell together in unity!
-  '2':
+      text: it is
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: For brethren to dwell together in unity!
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: It is
-    - type: text
-      text: ' like the precious ointment upon the head, that ran down upon the beard,'
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: Even
-    - type: text
-      text: ' Aaron''s beard: That went down to the skirts of his garments;'
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: As the dew of Hermon,
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: And as the dew
-    - type: text
-      text: ' that descended upon the mountains of Zion:'
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: 'For there the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: LORD
-    - type: text
-      text: ' commanded the blessing,'
+      text: '2'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: q2
+    marker: add
     children:
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: Even
     - type: text
-      text: ' life for evermore.'
+      text: It is
+  - type: text
+    text: ' like the precious ointment upon the head, that ran down upon the beard,'
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: add
+    children:
+    - type: text
+      text: Even
+  - type: text
+    text: ' Aaron''s beard: That went down to the skirts of his garments;'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: As the dew of Hermon,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: add
+    children:
+    - type: text
+      text: And as the dew
+  - type: text
+    text: ' that descended upon the mountains of Zion:'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'For there the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: LORD
+  - type: text
+    text: ' commanded the blessing,'
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: add
+    children:
+    - type: text
+      text: Even
+  - type: text
+    text: ' life for evermore.'

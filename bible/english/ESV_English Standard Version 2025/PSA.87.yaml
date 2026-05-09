@@ -1,416 +1,447 @@
-document_id: PSA.87,59
+document_id: PSA.87
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Glorious Things of You Are Spoken
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: 'A Psalm of '
   - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Glorious Things of You Are Spoken
-    marker-yv: yv-h
-  - type: usfm
-    marker: d
-    children:
-    - type: text
-      text: 'A Psalm of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 42
-      - type: text
-        text: ', title'
-      marker-yv: yv-n
-    - type: text
-      text: the Sons of Korah. A Song.
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Ps. 42
+      metadata:
+        usfm: PSA.42
     - type: text
-      text: 'On '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 48:1
-      marker-yv: yv-n
-    - type: text
-      text: 'the holy mount '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 28:16
-      marker-yv: yv-n
-    - type: text
-      text: stands the city he founded;
-  '2':
+      text: ', title'
+    marker-yv: yv-n
+  - type: text
+    text: the Sons of Korah. A Song.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
+    children:
+    - type: text
+      text: '1'
+  - type: text
+    text: 'On '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: 'the '
+        text: 'See '
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: Ps. 48:1
+      metadata:
+        usfm: PSA.48.1
+    marker-yv: yv-n
+  - type: text
+    text: 'the holy mount '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 28:16
+      metadata:
+        usfm: ISA.28.16
+    marker-yv: yv-n
+  - type: text
+    text: stands the city he founded;
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 78:67
+      metadata:
+        usfm: PSA.78.67
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '68'
+      metadata:
+        usfm: PSA.78.68
+    marker-yv: yv-n
+  - type: text
+    text: loves the gates of Zion
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: more than all the dwelling places of Jacob.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 78:67
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '68'
-      marker-yv: yv-n
-    - type: text
-      text: loves the gates of Zion
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: more than all the dwelling places of Jacob.
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '3'
+        text: Isa. 60:1
+      metadata:
+        usfm: ISA.60.1
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
       - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 60:1
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']; See Isa. 54:1-3'
-      marker-yv: yv-n
-    - type: text
-      text: Glorious things of you are spoken,
+        text: ']; See Isa. 54:1-3'
+    marker-yv: yv-n
+  - type: text
+    text: Glorious things of you are spoken,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'O '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'O '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 46:4
-      marker-yv: yv-n
-    - type: text
-      text: 'city of God. '
-    - type: usfm
-      marker: qs
-      children:
-      - type: text
-        text: Selah
-  '4':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '4'
-    - type: text
-      text: 'Among those who '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 36:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 10:14
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'know me I mention '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 9:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 19:22-25
-      marker-yv: yv-n
-    - type: text
-      text: Rahab and Babylon;
+        text: Ps. 46:4
+      metadata:
+        usfm: PSA.46.4
+    marker-yv: yv-n
+  - type: text
+    text: 'city of God. '
   - type: usfm
-    marker: q2
+    marker: qs
     children:
     - type: text
-      text: 'behold, Philistia and Tyre, with '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 68:31
-      marker-yv: yv-n
-    - type: text
-      text: Cush
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '87:4 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Probably '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: Nubia
-      marker-yv: yv-n
-    - type: text
-      text: —
+      text: Selah
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: “This one was born there,” they say.
-  '5':
+      text: '4'
+  - type: text
+    text: 'Among those who '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
+        text: Ps. 36:10
+      metadata:
+        usfm: PSA.36.10
     - type: text
-      text: And of Zion it shall be said,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: “This one and that one were born in her”;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'for the Most High himself will '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 48:8
-      marker-yv: yv-n
-    - type: text
-      text: establish her.
-  '6':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '6'
-    - type: text
-      text: 'The '
+        text: '['
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' records as he '
+        text: John 10:14
+      metadata:
+        usfm: JHN.10.14
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 69:28
-      marker-yv: yv-n
-    - type: text
-      text: registers the peoples,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: '“This one was born there.” '
-    - type: usfm
-      marker: qs
+      marker: xta
       children:
       - type: text
-        text: Selah
-  '7':
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'know me I mention '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '7'
-    - type: text
-      text: ' '
+        text: 'See '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 68:25
-      marker-yv: yv-n
+      - type: text
+        text: Job 9:13
+      metadata:
+        usfm: JOB.9.13
     - type: text
-      text: 'Singers and '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Sam. 6:14
-      marker-yv: yv-n
-    - type: text
-      text: dancers alike say,
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 19:22-25
+      metadata:
+        usfm: ISA.19.22+ISA.19.23+ISA.19.24+ISA.19.25
+    marker-yv: yv-n
+  - type: text
+    text: Rahab and Babylon;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'behold, Philistia and Tyre, with '
   - type: usfm
-    marker: q2
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 68:31
+      metadata:
+        usfm: PSA.68.31
+    marker-yv: yv-n
+  - type: text
+    text: Cush
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '87:4 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Probably '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: Nubia
+    marker-yv: yv-n
+  - type: text
+    text: —
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: “This one was born there,” they say.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
     children:
     - type: text
-      text: '“All my '
+      text: '5'
+  - type: text
+    text: And of Zion it shall be said,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: “This one and that one were born in her”;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'for the Most High himself will '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 36:9
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 12:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 21:6
-      marker-yv: yv-n
+        text: Ps. 48:8
+      metadata:
+        usfm: PSA.48.8
+    marker-yv: yv-n
+  - type: text
+    text: establish her.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
     - type: text
-      text: springs are in you.”
+      text: '6'
+  - type: text
+    text: 'The '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' records as he '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 69:28
+      metadata:
+        usfm: PSA.69.28
+    marker-yv: yv-n
+  - type: text
+    text: registers the peoples,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: '“This one was born there.” '
+  - type: usfm
+    marker: qs
+    children:
+    - type: text
+      text: Selah
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 68:25
+      metadata:
+        usfm: PSA.68.25
+    marker-yv: yv-n
+  - type: text
+    text: 'Singers and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Sam. 6:14
+      metadata:
+        usfm: 2SA.6.14
+    marker-yv: yv-n
+  - type: text
+    text: dancers alike say,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: '“All my '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 36:9
+      metadata:
+        usfm: PSA.36.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 12:3
+      metadata:
+        usfm: ISA.12.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rev. 21:6
+      metadata:
+        usfm: REV.21.6
+    marker-yv: yv-n
+  - type: text
+    text: springs are in you.”

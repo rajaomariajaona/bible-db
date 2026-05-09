@@ -1,1017 +1,1090 @@
-document_id: ISA.61,59
+document_id: ISA.61
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: 'The Year of the '
   - type: usfm
-    marker: s1
+    marker: nd
     children:
     - type: text
-      text: 'The Year of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ’s Favor
-    marker-yv: yv-h
+      text: Lord
+  - type: text
+    text: ’s Favor
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 11:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 42:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 48:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 4:18
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '19'
-      marker-yv: yv-n
-    - type: text
-      text: 'The Spirit of the Lord '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: God
-    - type: text
-      text: ' is upon me,'
-  - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'because the '
+      text: '1'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' has '
+        text: 'ch. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 45:7
-      marker-yv: yv-n
-    - type: text
-      text: anointed me
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: to bring good news to the poor;
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '61:1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: afflicted
-      marker-yv: yv-n
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: he has sent me to bind up the brokenhearted,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: to proclaim liberty to the captives,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 45:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 146:7
-      marker-yv: yv-n
-    - type: text
-      text: the opening of the prison to those who are bound;
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '61:1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'the opening '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: '[of the eyes] '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: to those who are blind
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: '; Septuagint '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: and recovery of sight to the blind
-      marker-yv: yv-n
-  '10':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
+        text: 11:2
+      metadata:
+        usfm: ISA.11.2
     - type: text
-      text: ' '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hab. 3:18
-      marker-yv: yv-n
-    - type: text
-      text: 'I will greatly rejoice in the '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: 42:1
+      metadata:
+        usfm: ISA.42.1
     - type: text
-      text: ;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: my soul shall exult in my God,
-  - type: usfm
-    marker: q1
-    children:
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 59:17
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Zech. 3:4
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: for he has clothed me with the garments of salvation;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: he has covered me with the robe of righteousness,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'as a bridegroom decks himself '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '3'
-      marker-yv: yv-n
-    - type: text
-      text: like a priest with a beautiful headdress,
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 49:18
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 21:2
-      marker-yv: yv-n
-    - type: text
-      text: and as a bride adorns herself with her jewels.
-  '11':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
+        text: 48:16
+      metadata:
+        usfm: ISA.48.16
     - type: text
-      text: For as the earth brings forth its sprouts,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and as a garden causes what is sown in it to sprout up,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'so the Lord '
+      text: '; '
     - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: God
-    - type: text
-      text: ' will cause '
+        text: 'Cited '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 60:18
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 62:7
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: righteousness and praise
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: to sprout up before all the nations.
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 25:10
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'to proclaim the year of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ’s favor,
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 34:8
-      marker-yv: yv-n
-    - type: text
-      text: and the day of vengeance of our God;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: to comfort all who mourn;
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: to grant to those who mourn in Zion—
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '10'
-      - type: text
-        text: ' ; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 28:5
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: to give them a beautiful headdress instead of ashes,
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 45:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 1:9
-      marker-yv: yv-n
-    - type: text
-      text: the oil of gladness instead of mourning,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: the garment of praise instead of a faint spirit;
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 60:21
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: that they may be called oaks of righteousness,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'the planting of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
+        text: Luke 4:18
+      metadata:
+        usfm: LUK.4.18
     - type: text
       text: ', '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 15:8
-      marker-yv: yv-n
-    - type: text
-      text: that he may be glorified.
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '61:3 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: that he may display his beauty
-      marker-yv: yv-n
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '4'
+        text: '19'
+      metadata:
+        usfm: LUK.4.19
+    marker-yv: yv-n
+  - type: text
+    text: 'The Spirit of the Lord '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: God
+  - type: text
+    text: ' is upon me,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'because the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' has '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 45:7
+      metadata:
+        usfm: PSA.45.7
+    marker-yv: yv-n
+  - type: text
+    text: anointed me
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: to bring good news to the poor;
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '61:1 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: afflicted
+    marker-yv: yv-n
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: he has sent me to bind up the brokenhearted,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: to proclaim liberty to the captives,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 45:13
+      metadata:
+        usfm: ISA.45.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 146:7
+      metadata:
+        usfm: PSA.146.7
+    marker-yv: yv-n
+  - type: text
+    text: the opening of the prison to those who are bound;
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '61:1 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: 'the opening '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: '[of the eyes] '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: to those who are blind
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: '; Septuagint '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: and recovery of sight to the blind
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Amos 9:14
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: text
-        text: 58:12
-      marker-yv: yv-n
-    - type: text
-      text: They shall build up the ancient ruins;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: they shall raise up the former devastations;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: they shall repair the ruined cities,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: the devastations of many generations.
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
+        text: Lev. 25:10
+      metadata:
+        usfm: LEV.25.10
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 14:2
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 60:10
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: Strangers shall stand and tend your flocks;
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'to proclaim the year of the '
   - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: foreigners shall be your plowmen and vinedressers;
-  '6':
+      text: Lord
+  - type: text
+    text: ’s favor,
+- type: usfm
+  marker: q2
+  children:
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '6'
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 34:8
+      metadata:
+        usfm: ISA.34.8
+    marker-yv: yv-n
+  - type: text
+    text: and the day of vengeance of our God;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: to comfort all who mourn;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: to grant to those who mourn in Zion—
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '10'
+      metadata:
+        usfm: ISA.61.10
+    - type: text
+      text: ' ; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 28:5
+      metadata:
+        usfm: ISA.28.5
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: to give them a beautiful headdress instead of ashes,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 45:7
+      metadata:
+        usfm: PSA.45.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 1:9
+      metadata:
+        usfm: HEB.1.9
+    marker-yv: yv-n
+  - type: text
+    text: the oil of gladness instead of mourning,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: the garment of praise instead of a faint spirit;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 60:21
+      metadata:
+        usfm: ISA.60.21
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 19:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 2:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Joel 1:9
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'but you shall be called the priests of the '
-    - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ;
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: that they may be called oaks of righteousness,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'the planting of the '
   - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: they shall speak of you as the ministers of our God;
+      text: Lord
+  - type: text
+    text: ', '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 60:5
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '11'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '16'
-      marker-yv: yv-n
-    - type: text
-      text: you shall eat the wealth of the nations,
+        text: John 15:8
+      metadata:
+        usfm: JHN.15.8
+    marker-yv: yv-n
+  - type: text
+    text: that he may be glorified.
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and in their glory you shall boast.
-  '7':
-  - type: usfm
-    marker: q1
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '7'
+        text: '61:3 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: that he may display his beauty
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Amos 9:14
+      metadata:
+        usfm: AMO.9.14
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: text
+      text: 58:12
+    marker-yv: yv-n
+  - type: text
+    text: They shall build up the ancient ruins;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: they shall raise up the former devastations;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: they shall repair the ruined cities,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: the devastations of many generations.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 14:2
+      metadata:
+        usfm: ISA.14.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 60:10
+      metadata:
+        usfm: ISA.60.10
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 40:2
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 54:7
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '8'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Zech. 9:12
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: Instead of your shame there shall be a double portion;
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Strangers shall stand and tend your flocks;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: foreigners shall be your plowmen and vinedressers;
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: instead of dishonor they shall rejoice in their lot;
+      text: '6'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: therefore in their land they shall possess a double portion;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: they shall have everlasting joy.
-  '8':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 19:6
+      metadata:
+        usfm: EXO.19.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pet. 2:9
+      metadata:
+        usfm: 1PE.2.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Joel 1:9
+      metadata:
+        usfm: JOL.1.9
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'but you shall be called the priests of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: they shall speak of you as the ministers of our God;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 60:5
+      metadata:
+        usfm: ISA.60.5
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '11'
+      metadata:
+        usfm: ISA.60.11
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '16'
+      metadata:
+        usfm: ISA.60.16
+    marker-yv: yv-n
+  - type: text
+    text: you shall eat the wealth of the nations,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and in their glory you shall boast.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 40:2
+      metadata:
+        usfm: ISA.40.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 54:7
+      metadata:
+        usfm: ISA.54.7
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '8'
+      metadata:
+        usfm: ISA.54.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Zech. 9:12
+      metadata:
+        usfm: ZEC.9.12
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 11:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 59:15
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'For I the '
-    - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' love justice;'
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Instead of your shame there shall be a double portion;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: instead of dishonor they shall rejoice in their lot;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: therefore in their land they shall possess a double portion;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: they shall have everlasting joy.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: I hate robbery and wrong;
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '61:8 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: robbery with a burnt offering
-      marker-yv: yv-n
+      text: '8'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 40:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 49:4
-      marker-yv: yv-n
-    - type: text
-      text: I will faithfully give them their recompense,
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 55:3
-      marker-yv: yv-n
-    - type: text
-      text: and I will make an everlasting covenant with them.
-  '9':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '9'
+        text: Ps. 11:7
+      metadata:
+        usfm: PSA.11.7
     - type: text
-      text: Their offspring shall be known among the nations,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and their descendants in the midst of the peoples;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: all who see them shall acknowledge them,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'that they are an offspring the '
+      text: '; '
     - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 59:15
+      metadata:
+        usfm: PSA.59.15
     - type: text
-      text: ' has blessed.'
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'For I the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' love justice;'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: I hate robbery and wrong;
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '61:8 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: robbery with a burnt offering
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 40:10
+      metadata:
+        usfm: ISA.40.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 49:4
+      metadata:
+        usfm: ISA.49.4
+    marker-yv: yv-n
+  - type: text
+    text: I will faithfully give them their recompense,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 55:3
+      metadata:
+        usfm: ISA.55.3
+    marker-yv: yv-n
+  - type: text
+    text: and I will make an everlasting covenant with them.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: Their offspring shall be known among the nations,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and their descendants in the midst of the peoples;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: all who see them shall acknowledge them,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'that they are an offspring the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' has blessed.'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hab. 3:18
+      metadata:
+        usfm: HAB.3.18
+    marker-yv: yv-n
+  - type: text
+    text: 'I will greatly rejoice in the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: my soul shall exult in my God,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 59:17
+      metadata:
+        usfm: ISA.59.17
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Zech. 3:4
+      metadata:
+        usfm: ZEC.3.4
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: for he has clothed me with the garments of salvation;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: he has covered me with the robe of righteousness,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'as a bridegroom decks himself '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '3'
+      metadata:
+        usfm: ISA.61.3
+    marker-yv: yv-n
+  - type: text
+    text: like a priest with a beautiful headdress,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 49:18
+      metadata:
+        usfm: ISA.49.18
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rev. 21:2
+      metadata:
+        usfm: REV.21.2
+    marker-yv: yv-n
+  - type: text
+    text: and as a bride adorns herself with her jewels.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: For as the earth brings forth its sprouts,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and as a garden causes what is sown in it to sprout up,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'so the Lord '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: God
+  - type: text
+    text: ' will cause '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 60:18
+      metadata:
+        usfm: ISA.60.18
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 62:7
+      metadata:
+        usfm: ISA.62.7
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: righteousness and praise
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: to sprout up before all the nations.

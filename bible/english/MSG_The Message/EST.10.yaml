@@ -1,30 +1,28 @@
-document_id: EST.10,97
+document_id: EST.10
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: 1-2
     - type: text
-      text: 'King Xerxes imposed taxes from one end of his empire to the other. For the rest of it, King Xerxes’ extensive accomplishments, along with a detailed account of the brilliance of Mordecai, whom the king had promoted, that’s all written in '
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: The Chronicles of the Kings of Media and Persia.
-  '3':
+      text: 1-2
+  - type: text
+    text: 'King Xerxes imposed taxes from one end of his empire to the other. For the rest of it, King Xerxes’ extensive accomplishments, along with a detailed account of the brilliance of Mordecai, whom the king had promoted, that’s all written in '
   - type: usfm
-    marker: p
+    marker: it
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
     - type: text
-      text: Mordecai the Jew ranked second in command to King Xerxes. He was popular among the Jews and greatly respected by them. He worked hard for the good of his people; he cared for the peace and prosperity of his race.
+      text: The Chronicles of the Kings of Media and Persia.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: Mordecai the Jew ranked second in command to King Xerxes. He was popular among the Jews and greatly respected by them. He worked hard for the good of his people; he cared for the peace and prosperity of his race.

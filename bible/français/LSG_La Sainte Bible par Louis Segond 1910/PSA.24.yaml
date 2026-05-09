@@ -1,282 +1,290 @@
-document_id: PSA.24,93
+document_id: PSA.24
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: Ps 15; 25:14. 2 S 6. (Ps 68:17-19. Ép 4:8-10.)
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: Ps 15; 25:14. 2 S 6. (Ps 68:17-19. Ép 4:8-10.)
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: Psaume de David.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: Psaume de David.
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex 19:5
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: De 10:14
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 41:2
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps 50:12
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Co 10:26
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '28'
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: A l’Éternel la terre et ce qu’elle renferme,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Le monde et ceux qui l’habitent!
-  '10':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
+        text: Ex 19:5
+      metadata:
+        usfm: EXO.19.5
     - type: text
-      text: Qui donc est ce roi de gloire?
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'L’Éternel des armées:'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'Voilà le roi de gloire! '
+      text: '. '
     - type: usfm
-      marker: qs
+      marker: ref
       children:
       - type: text
-        text: — Pause.
-  '2':
-  - type: usfm
-    marker: q1
-    children:
+        text: De 10:14
+      metadata:
+        usfm: DEU.10.14
+    - type: text
+      text: '. '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '2'
+        text: Job 41:2
+      metadata:
+        usfm: JOB.41.2
     - type: text
-      text: Car il l’a fondée sur les mers,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Et affermie sur les fleuves.
-  '3':
-  - type: usfm
-    marker: q1
-    children:
+      text: '. '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '3'
+        text: Ps 50:12
+      metadata:
+        usfm: PSA.50.12
     - type: text
-      text: ' '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps 15:1
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 33:14
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '15'
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: 1 Co 10:26
+      metadata:
+        usfm: 1CO.10.26
     - type: text
-      text: Qui pourra monter à la montagne de l’Éternel?
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Qui s’élèvera jusqu’à son lieu saint?
-  '4':
-  - type: usfm
-    marker: q1
-    children:
+      text: ', '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '4'
+        text: '28'
+      metadata:
+        usfm: 1CO.10.28
     - type: text
-      text: Celui qui a les mains innocentes et le cœur pur;
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: A l’Éternel la terre et ce qu’elle renferme,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Le monde et ceux qui l’habitent!
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Celui qui ne livre pas son âme au mensonge,
+      text: '2'
+  - type: text
+    text: Car il l’a fondée sur les mers,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et affermie sur les fleuves.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Et qui ne jure pas pour tromper.
-  '5':
+      text: '3'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
+        text: Ps 15:1
+      metadata:
+        usfm: PSA.15.1
     - type: text
-      text: Il obtiendra la bénédiction de l’Éternel,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: La miséricorde du Dieu de son salut.
-  '6':
-  - type: usfm
-    marker: q1
-    children:
+      text: '. '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '6'
+        text: És 33:14
+      metadata:
+        usfm: ISA.33.14
     - type: text
-      text: Voilà le partage de la génération qui l’invoque,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'De ceux qui cherchent ta face, Dieu de Jacob! '
+      text: ', '
     - type: usfm
-      marker: qs
+      marker: ref
       children:
       - type: text
-        text: — Pause.
-  '7':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
+        text: '15'
+      metadata:
+        usfm: ISA.33.15
     - type: text
-      text: Portes, élevez vos linteaux;
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: Qui pourra monter à la montagne de l’Éternel?
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Qui s’élèvera jusqu’à son lieu saint?
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Élevez-vous, portes éternelles!
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Que le roi de gloire fasse son entrée!
-  '8':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: Qui est ce roi de gloire?
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: L’Éternel fort et puissant,
+      text: '4'
+  - type: text
+    text: Celui qui a les mains innocentes et le cœur pur;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Celui qui ne livre pas son âme au mensonge,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et qui ne jure pas pour tromper.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: L’Éternel puissant dans les combats.
-  '9':
+      text: '5'
+  - type: text
+    text: Il obtiendra la bénédiction de l’Éternel,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: La miséricorde du Dieu de son salut.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: Portes, élevez vos linteaux;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Élevez-les, portes éternelles!
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Que le roi de gloire fasse son entrée!
+      text: '6'
+  - type: text
+    text: Voilà le partage de la génération qui l’invoque,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'De ceux qui cherchent ta face, Dieu de Jacob! '
+  - type: usfm
+    marker: qs
+    children:
+    - type: text
+      text: — Pause.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: Portes, élevez vos linteaux;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Élevez-vous, portes éternelles!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Que le roi de gloire fasse son entrée!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: Qui est ce roi de gloire?
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: L’Éternel fort et puissant,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: L’Éternel puissant dans les combats.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: Portes, élevez vos linteaux;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Élevez-les, portes éternelles!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Que le roi de gloire fasse son entrée!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: Qui donc est ce roi de gloire?
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'L’Éternel des armées:'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Voilà le roi de gloire! '
+  - type: usfm
+    marker: qs
+    children:
+    - type: text
+      text: — Pause.

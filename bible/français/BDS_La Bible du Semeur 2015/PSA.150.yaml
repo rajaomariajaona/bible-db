@@ -1,133 +1,129 @@
-document_id: PSA.150,21
+document_id: PSA.150
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Louez Dieu en musique
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Louez Dieu en musique
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: Louez l’Eternel !
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Louez Dieu ╵dans son sanctuaire !
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Louez-le dans l’étendue céleste ╵où éclate sa puissance !
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: Louez-le pour ses hauts faits,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: louez-le ╵pour son immense grandeur !
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: Louez-le au son du cor
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: Louez l’Eternel !
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Louez Dieu ╵dans son sanctuaire !
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Louez-le dans l’étendue céleste ╵où éclate sa puissance !
-  '2':
-  - type: usfm
-    marker: q1
-    children:
+        text: '150.3 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: Louez-le pour ses hauts faits,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: louez-le ╵pour son immense grandeur !
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: Louez-le au son du cor
-    - type: usfm
-      marker: f
-      children:
+        text: 'Voir note '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '150.3 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Voir note '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: '98.6'
-        - type: text
-          text: .
-      marker-yv: yv-n
-    - type: text
-      text: ','
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: louez-le au son du luth, ╵au son de la lyre !
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
+          text: '98.6'
+        metadata:
+          usfm: PSA.98.6
       - type: text
-        text: '4'
-    - type: text
-      text: Louez-le avec des danses ╵et au son des tambourins !
+        text: .
+    marker-yv: yv-n
+  - type: text
+    text: ','
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: louez-le au son du luth, ╵au son de la lyre !
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Louez-le avec le luth ╵et avec la flûte !
-  '5':
+      text: '4'
+  - type: text
+    text: Louez-le avec des danses ╵et au son des tambourins !
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Louez-le avec le luth ╵et avec la flûte !
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: Louez-le par les cymbales ╵bien retentissantes !
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Louez-le par les cymbales ╵résonnant avec éclat !
-  '6':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: Que tout ce qui vit ╵loue donc l’Eternel !
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Louez l’Eternel !
+      text: '5'
+  - type: text
+    text: Louez-le par les cymbales ╵bien retentissantes !
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Louez-le par les cymbales ╵résonnant avec éclat !
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: Que tout ce qui vit ╵loue donc l’Eternel !
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Louez l’Eternel !

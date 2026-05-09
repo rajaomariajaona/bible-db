@@ -1,3690 +1,4050 @@
-document_id: ACT.7,59
+document_id: ACT.7
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Stephen’s Speech
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Stephen’s Speech
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'And the high priest said, “Are these things so?” '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'And Stephen said:'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: 'And the high priest said, “Are these things so?” '
-  '10':
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 22:1
+      metadata:
+        usfm: ACT.22.1
+    marker-yv: yv-n
+  - type: text
+    text: '“Brothers and fathers, hear me. '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: 'and rescued him out of all his afflictions and '
+        text: '['
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 41:37-40
-      marker-yv: yv-n
+      - type: text
+        text: Gen. 15:7
+      metadata:
+        usfm: GEN.15.7
     - type: text
-      text: 'gave him favor and wisdom before Pharaoh, king of Egypt, '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 41:41
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '43'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '46'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 42:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 105:21
-      marker-yv: yv-n
+        text: Josh. 24:3
+      metadata:
+        usfm: JOS.24.3
     - type: text
-      text: 'who made him ruler over Egypt and over all his household. '
-  '11':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Neh. 9:7
+      metadata:
+        usfm: NEH.9.7
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'The God '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
+        text: Ps. 29:3
+      metadata:
+        usfm: PSA.29.3
     - type: text
-      text: 'Now '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 41:54
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '55'
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 42:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 105:16
-      marker-yv: yv-n
+        text: 1 Cor. 2:8
+      metadata:
+        usfm: 1CO.2.8
     - type: text
-      text: 'there came a famine throughout all Egypt and Canaan, and great affliction, and our fathers could find no food. '
-  '12':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: James 2:1
+      metadata:
+        usfm: JAS.2.1
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'of glory appeared to our father Abraham when he was in Mesopotamia, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '12'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 42:1-3
-      marker-yv: yv-n
-    - type: text
-      text: 'But when Jacob heard that there was grain in Egypt, he sent out our fathers on their first visit. '
-  '13':
+        text: Gen. 11:31
+      metadata:
+        usfm: GEN.11.31
+    marker-yv: yv-n
+  - type: text
+    text: 'before he lived in Haran, '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'and said to him, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '13'
-    - type: text
-      text: 'And '
+        text: 'Cited from '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 43:2-15
-      marker-yv: yv-n
-    - type: text
-      text: 'on the second visit '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 45:1-4
-      marker-yv: yv-n
-    - type: text
-      text: 'Joseph made himself known to his brothers, and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 45:16
-      marker-yv: yv-n
-    - type: text
-      text: 'Joseph’s family became known to Pharaoh. '
-  '14':
+      - type: text
+        text: Gen. 12:1
+      metadata:
+        usfm: GEN.12.1
+    marker-yv: yv-n
+  - type: text
+    text: '‘Go out from your land and from your kindred and go into the land that I will show you.’ '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '14'
-    - type: text
-      text: 'And '
+        text: '[See ver. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 45:9
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '10'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '27'
-      marker-yv: yv-n
-    - type: text
-      text: 'Joseph sent and summoned Jacob his father and all his kindred, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 46:26
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '27'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 1:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 10:22
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'seventy-five persons in all. '
-  '15':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '15'
-    - type: text
-      text: 'And '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 46:5
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '28'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 105:23
-      marker-yv: yv-n
-    - type: text
-      text: 'Jacob went down into Egypt, and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 49:33
-      marker-yv: yv-n
-    - type: text
-      text: 'he died, he '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 1:6
-      marker-yv: yv-n
-    - type: text
-      text: 'and our fathers, '
-  '16':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 50:25
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 13:19
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 24:32
-      marker-yv: yv-n
-    - type: text
-      text: 'they were carried back to Shechem and laid in the tomb that '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 23:16
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'with '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 33:19
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 24:32
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: Abraham had bought for a sum of silver from the sons of Hamor in Shechem.
-  '17':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: text
-      text: '“But '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 5-7
-      marker-yv: yv-n
-    - type: text
-      text: 'as the time of the promise drew near, which God had granted to Abraham, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 13:17
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 1:7
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '12'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 105:24
-      marker-yv: yv-n
-    - type: text
-      text: 'the people increased and multiplied in Egypt '
-  '18':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
-    - type: text
-      text: 'until there arose over Egypt another king '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited from '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 1:8
-      marker-yv: yv-n
-    - type: text
-      text: 'who did not know Joseph. '
-  '19':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 1:9
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '10'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 105:25
-      marker-yv: yv-n
-    - type: text
-      text: 'He dealt shrewdly with our race and forced our fathers to expose their infants, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 1:16-18
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '22'
-      marker-yv: yv-n
-    - type: text
-      text: 'so that they would not be kept alive. '
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '2'
-    - type: text
-      text: 'And Stephen said:'
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 22:1
-      marker-yv: yv-n
-    - type: text
-      text: '“Brothers and fathers, hear me. '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 15:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 24:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Neh. 9:7
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'The God '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 29:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 2:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: James 2:1
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'of glory appeared to our father Abraham when he was in Mesopotamia, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 11:31
-      marker-yv: yv-n
-    - type: text
-      text: 'before he lived in Haran, '
-  '20':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '20'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 2:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 11:23
-      marker-yv: yv-n
-    - type: text
-      text: 'At this time Moses was born; and he was beautiful in God’s sight. And he was brought up for three months in his father’s house, '
-  '21':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '21'
-    - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 2:3-10
-      marker-yv: yv-n
-    - type: text
-      text: 'when he was exposed, Pharaoh’s daughter adopted him and brought him up as her own son. '
-  '22':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '22'
-    - type: text
-      text: 'And Moses '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Dan. 1:4
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '17'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'was instructed in '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Kgs. 4:30
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 19:11
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'all the wisdom of the Egyptians, and he was '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 24:19
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: mighty in his words and deeds.
-  '23':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '23'
-    - type: text
-      text: '“When he was forty years old, it came into his heart '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 2:11
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '12'
-      marker-yv: yv-n
-    - type: text
-      text: 'to visit his brothers, the children of Israel. '
-  '24':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '24'
-    - type: text
-      text: 'And seeing one of them being wronged, he defended the oppressed man and avenged him by striking down the Egyptian. '
-  '25':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '25'
-    - type: text
-      text: 'He supposed that his brothers would understand that God was giving them salvation by his hand, but they did not understand. '
-  '26':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '26'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 2:13
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '14'
-      marker-yv: yv-n
-    - type: text
-      text: 'And on the following day he appeared to them as they were quarreling and tried to reconcile them, saying, ‘Men, you are brothers. Why do you wrong each other?’ '
-  '27':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '27'
-    - type: text
-      text: 'But the man who was wronging his neighbor thrust him aside, saying, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '35'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 12:14
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: '‘Who made you a ruler and a judge over us? '
-  '28':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '28'
-    - type: text
-      text: 'Do you want to kill me as you killed the Egyptian yesterday?’ '
-  '29':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '29'
-    - type: text
-      text: 'At this retort '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 2:15
-      marker-yv: yv-n
-    - type: text
-      text: 'Moses fled and became an exile in the land of Midian, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 2:22
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 18:3
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '4'
-      marker-yv: yv-n
-    - type: text
-      text: where he became the father of two sons.
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'and said to him, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited from '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 12:1
-      marker-yv: yv-n
-    - type: text
-      text: '‘Go out from your land and from your kindred and go into the land that I will show you.’ '
-  '30':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '30'
-    - type: text
-      text: '“Now when forty years had passed, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 3:2
-      marker-yv: yv-n
-    - type: text
-      text: 'an angel appeared to him '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 3:1
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'in the wilderness of Mount Sinai, in a flame of fire in a bush. '
-  '31':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '31'
-    - type: text
-      text: 'When Moses saw it, he was amazed at the sight, and as he drew near to look, there came the voice of the Lord: '
-  '32':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '32'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited from '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 3:6
-      marker-yv: yv-n
-    - type: text
-      text: '‘I am the God of your fathers, the God of Abraham and of Isaac and of Jacob.’ And Moses trembled and did not dare to look. '
-  '33':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '33'
-    - type: text
-      text: 'Then the Lord said to him, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 3:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 5:15
-      marker-yv: yv-n
-    - type: text
-      text: '‘Take off the sandals from your feet, for the place where you are standing is holy ground. '
-  '34':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '34'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 3:7
-      marker-yv: yv-n
-    - type: text
-      text: 'I have surely seen the affliction of my people who are in Egypt, and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 2:24
-      marker-yv: yv-n
-    - type: text
-      text: 'have heard their groaning, and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 3:8
-      marker-yv: yv-n
-    - type: text
-      text: 'I have come down to deliver them. '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 3:10
-      marker-yv: yv-n
-    - type: text
-      text: And now come, I will send you to Egypt.’
-  '35':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '35'
-    - type: text
-      text: '“This Moses, whom they rejected, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '27'
-      marker-yv: yv-n
-    - type: text
-      text: 'saying, ‘Who made you a ruler and a judge?’—this man God sent as both ruler and redeemer '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 3:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 14:19
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 23:20
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Num. 20:16
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'by the hand of the angel who appeared to him in the bush. '
-  '36':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '36'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 12:41
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 33:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 8:9
-      marker-yv: yv-n
-    - type: text
-      text: 'This man led them out, performing '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 7:3
-      marker-yv: yv-n
-    - type: text
-      text: 'wonders and signs '
-    - type: usfm
-      marker: x
-      children:
-      - type: text
-        text: 'Ex. 7–12; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 78:43-51
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 105:27-36
-      marker-yv: yv-n
-    - type: text
-      text: 'in Egypt and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 14:21
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 27-31
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 78:53
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 106:9
-      marker-yv: yv-n
-    - type: text
-      text: 'at the Red Sea and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 16:1
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '35'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 17:1-6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 78:15
-      marker-yv: yv-n
-    - type: text
-      text: 'in the wilderness for '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '42'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 13:18
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 16:35
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Num. 14:33
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '34'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 95:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 3:9
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '17'
-      marker-yv: yv-n
-    - type: text
-      text: 'forty years. '
-  '37':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '37'
-    - type: text
-      text: 'This is the Moses who said to the Israelites, ‘God will raise up for you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 3:22
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited from '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 18:15
-      marker-yv: yv-n
-    - type: text
-      text: 'a prophet like me from your brothers.’ '
-  '38':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '38'
-    - type: text
-      text: 'This is the one '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 19:3
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '17'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '18'
-      marker-yv: yv-n
-    - type: text
-      text: 'who was in the congregation in the wilderness with '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ver. 53; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 63:9
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'the angel who spoke to him at Mount Sinai, and with our fathers. '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 5:27
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '31'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 33:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 1:17
-      marker-yv: yv-n
-    - type: text
-      text: 'He received '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 32:47
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'living '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 3:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 5:12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 4:11
-      marker-yv: yv-n
-    - type: text
-      text: 'oracles to give to us. '
-  '39':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '39'
-    - type: text
-      text: 'Our fathers refused to obey him, but thrust him aside, and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 16:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Num. 11:4
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '5'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 14:3
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '4'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezek. 20:8
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '24'
-      marker-yv: yv-n
-    - type: text
-      text: 'in their hearts they turned to Egypt, '
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '2'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: above]
-      marker-yv: yv-n
-    - type: text
-      text: 'Then he went out from the land of the Chaldeans and lived in Haran. And '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 11:32
-      marker-yv: yv-n
-    - type: text
-      text: 'after his father died, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 12:4
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '5'
-      marker-yv: yv-n
-    - type: text
-      text: 'God removed him from there into this land in which you are now living. '
-  '40':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '40'
-    - type: text
-      text: 'saying to Aaron, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited from '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 32:1
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '23'
-      marker-yv: yv-n
-    - type: text
-      text: '‘Make for us gods who will go before us. As for this Moses who led us out from the land of Egypt, we do not know what has become of him.’ '
-  '41':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '41'
-    - type: text
-      text: 'And '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 32:4-6
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '35'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 9:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 106:19
-      marker-yv: yv-n
-    - type: text
-      text: 'they made a calf in those days, and offered a sacrifice to the idol and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Amos 6:13
-      marker-yv: yv-n
-    - type: text
-      text: 'were rejoicing in '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 2:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 1:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 25:6
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '7'
-      marker-yv: yv-n
-    - type: text
-      text: 'the works of their hands. '
-  '42':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '42'
-    - type: text
-      text: 'But '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 24:20
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 63:10
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'God turned away and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 81:12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezek. 20:39
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 1:28
-      marker-yv: yv-n
-    - type: text
-      text: 'gave them over to worship '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 4:19
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Kgs. 17:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 21:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 23:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 19:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Zeph. 1:5
-      marker-yv: yv-n
-    - type: text
-      text: 'the host of heaven, as it is written in the book of the prophets:'
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited from '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Amos 5:25-27
-      marker-yv: yv-n
-    - type: text
-      text: “‘Did you bring to me slain beasts and sacrifices,
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '36'
-      marker-yv: yv-n
-    - type: text
-      text: during the forty years in the wilderness, O house of Israel?
-  '43':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '43'
-    - type: text
-      text: 'You took up the tent of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Kgs. 11:7
-      marker-yv: yv-n
-    - type: text
-      text: Moloch
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and the star of your god Rephan,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: the images that you made to worship;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: and I will send you into exile beyond Babylon.’
-  '44':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '44'
-    - type: text
-      text: '“Our fathers had '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 15:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 38:21
-      marker-yv: yv-n
-    - type: text
-      text: 'the tent of witness in the wilderness, just as he who spoke to Moses '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 25:40
-      marker-yv: yv-n
-    - type: text
-      text: 'directed him to make it, according to the pattern that he had seen. '
-  '45':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '45'
-    - type: text
-      text: 'Our fathers in turn '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 3:14-17
-      marker-yv: yv-n
-    - type: text
-      text: 'brought it in with Joshua when they '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Num. 32:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 32:49
-      marker-yv: yv-n
-    - type: text
-      text: 'dispossessed the nations '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 13:19
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 3:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 23:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 24:18
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Chr. 20:7
-      marker-yv: yv-n
-    - type: text
-      text: 'that God drove out before our fathers. So it was '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Sam. 7:1
-      marker-yv: yv-n
-    - type: text
-      text: 'until the days of David, '
-  '46':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '46'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 13:22
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Sam. 16:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 89:19
-      marker-yv: yv-n
-    - type: text
-      text: 'who found favor in the sight of God and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Kgs. 8:17
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Chr. 22:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 132:5
-      marker-yv: yv-n
-    - type: text
-      text: 'asked to find a dwelling place for '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 49:24
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 49:26
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the God of Jacob.
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '7:46 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Some manuscripts '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: for the house of Jacob
-      marker-yv: yv-n
-    - type: text
-      text: ' '
-  '47':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '47'
-    - type: text
-      text: 'But it was '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Sam. 7:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Kgs. 6:1
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '2'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 8:20
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Chr. 3:1
-      marker-yv: yv-n
-    - type: text
-      text: 'Solomon who built a house for him. '
-  '48':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '48'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Kgs. 8:27
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Chr. 2:6
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'Yet the Most High does not dwell '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 17:24
-      marker-yv: yv-n
-    - type: text
-      text: in houses made by hands, as the prophet says,
-  '49':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '49'
+      metadata:
+        usfm: ACT.2
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
       - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 11:4
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: “‘Heaven is my throne,
+        text: above]
+    marker-yv: yv-n
+  - type: text
+    text: 'Then he went out from the land of the Chaldeans and lived in Haran. And '
   - type: usfm
-    marker: q2
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 5:34
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '35'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited from '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 66:1
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '2'
-      marker-yv: yv-n
-    - type: text
-      text: and the earth is my footstool.
+        text: Gen. 11:32
+      metadata:
+        usfm: GEN.11.32
+    marker-yv: yv-n
+  - type: text
+    text: 'after his father died, '
   - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: What kind of house will you build for me, says the Lord,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: or what is the place of my rest?
-  '5':
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 12:4
+      metadata:
+        usfm: GEN.12.4
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '5'
-    - type: text
-      text: 'Yet he gave him no inheritance in it, not even a foot’s length, but promised '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 12:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 13:15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 15:18
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 17:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 48:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 11:8
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '9'
-      marker-yv: yv-n
-    - type: text
-      text: 'to give it to him as a possession and to his offspring after him, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 15:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 18:10
-      marker-yv: yv-n
-    - type: text
-      text: 'though he had no child. '
-  '50':
+      metadata:
+        usfm: GEN.12.5
+    marker-yv: yv-n
+  - type: text
+    text: 'God removed him from there into this land in which you are now living. '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '50'
-    - type: text
-      text: Did not my hand make all these things?’
-  '51':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '51'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 10:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 32:9
-      marker-yv: yv-n
-    - type: text
-      text: '“You stiff-necked people, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 26:41
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 6:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 9:26
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezek. 44:7
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '9'
-      marker-yv: yv-n
-    - type: text
-      text: 'uncircumcised in heart and ears, you always resist the Holy Spirit. '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mal. 3:7
-      marker-yv: yv-n
-    - type: text
-      text: 'As your fathers did, so do you. '
-  '52':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '52'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Kgs. 19:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Chr. 36:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 2:30
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 23:31
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '37'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 5:12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 21:35
-      marker-yv: yv-n
-    - type: text
-      text: 'Which of the prophets did your fathers not persecute? And they killed those who announced beforehand the coming of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 3:14
-      marker-yv: yv-n
-    - type: text
-      text: 'the Righteous One, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 5:28
-      marker-yv: yv-n
-    - type: text
-      text: 'whom you have now betrayed and murdered, '
-  '53':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '53'
-    - type: text
-      text: 'you who received the law '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gal. 3:19
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 2:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ver. 38; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 33:2
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'as delivered by angels and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 7:19
-      marker-yv: yv-n
-    - type: text
-      text: did not keep it.”
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: The Stoning of Stephen
-    marker-yv: yv-h
-  '54':
+      text: '5'
+  - type: text
+    text: 'Yet he gave him no inheritance in it, not even a foot’s length, but promised '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '54'
+        text: Gen. 12:7
+      metadata:
+        usfm: GEN.12.7
     - type: text
-      text: 'Now when they heard these things '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 5:33
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:37
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'they were enraged, and they '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 16:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 35:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 37:12
-      marker-yv: yv-n
-    - type: text
-      text: 'ground their teeth at him. '
-  '55':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '55'
+        text: 13:15
+      metadata:
+        usfm: GEN.13.15
     - type: text
-      text: 'But he, '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 6:5
-      marker-yv: yv-n
-    - type: text
-      text: 'full of the Holy Spirit, gazed into heaven and saw '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 24:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 2:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 12:41
-      marker-yv: yv-n
-    - type: text
-      text: 'the glory of God, and Jesus standing '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 110:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 16:19
-      marker-yv: yv-n
-    - type: text
-      text: 'at the right hand of God. '
-  '56':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '56'
+        text: 15:18
+      metadata:
+        usfm: GEN.15.18
     - type: text
-      text: 'And he said, “Behold, I see '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 1:51
-      marker-yv: yv-n
-    - type: text
-      text: 'the heavens opened, and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Dan. 7:13
-      marker-yv: yv-n
-    - type: text
-      text: 'the Son of Man standing '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '55'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: above]
-      marker-yv: yv-n
-    - type: text
-      text: 'at the right hand of God.” '
-  '57':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '57'
+        text: 17:8
+      metadata:
+        usfm: GEN.17.8
     - type: text
-      text: But they cried out with a loud voice and stopped their ears and rushed together
+      text: '; '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '7:57 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: rushed with one mind
-      marker-yv: yv-n
-    - type: text
-      text: ' at him. '
-  '58':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '58'
+        text: 48:4
+      metadata:
+        usfm: GEN.48.4
     - type: text
-      text: 'Then '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 24:14-16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Num. 15:35
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Kgs. 21:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 4:29
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 13:12
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'they cast him out of the city and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 21:35
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 23:37
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 11:37
-      marker-yv: yv-n
-    - type: text
-      text: 'stoned him. And '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 6:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 13:9
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '10'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 17:7
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'the witnesses laid down their garments '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 8:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 22:20
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 22:4
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'at the feet of a young man named Saul. '
-  '59':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '59'
+        text: Heb. 11:8
+      metadata:
+        usfm: HEB.11.8
     - type: text
-      text: 'And as they were stoning Stephen, '
+      text: ', '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 9:14
-      marker-yv: yv-n
-    - type: text
-      text: 'he called out, “Lord Jesus, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 31:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 23:46
-      marker-yv: yv-n
-    - type: text
-      text: 'receive my spirit.” '
-  '6':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'And God spoke to this effect—that '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited from '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 15:13
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '14'
-      marker-yv: yv-n
-    - type: text
-      text: 'his offspring would '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 2:22
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 11:9
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'be sojourners in a land belonging to others, who would enslave them and afflict them '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '17'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 12:40
-      marker-yv: yv-n
-    - type: text
-      text: 'four hundred years. '
-  '60':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '60'
-    - type: text
-      text: 'And '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 9:40
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 20:36
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 21:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 22:41
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 3:14
-      marker-yv: yv-n
-    - type: text
-      text: 'falling to his knees he cried out with a loud voice, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 5:44
-      marker-yv: yv-n
-    - type: text
-      text: '“Lord, do not hold this sin against them.” And when he had said this, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 27:52
-      marker-yv: yv-n
-    - type: text
-      text: he fell asleep.
-  '7':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: '‘But '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 25:12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 30:20
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'I will judge the nation that they serve,’ said God, ‘and after that they shall come out '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 3:12
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'and worship me in this place.’ '
-  '8':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: 'And '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 17:9-12
-      marker-yv: yv-n
-    - type: text
-      text: 'he gave him the covenant of circumcision. And '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 21:2-4
-      marker-yv: yv-n
-    - type: text
-      text: 'so Abraham became the father of Isaac, and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 1:59
-      marker-yv: yv-n
-    - type: text
-      text: 'circumcised him on the eighth day, and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 25:26
-      marker-yv: yv-n
-    - type: text
-      text: 'Isaac became the father of Jacob, and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 29:31-35
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 30:5-24
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 35:18
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 23-26
-      marker-yv: yv-n
-    - type: text
-      text: Jacob of the twelve patriarchs.
-  '9':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '9'
-    - type: text
-      text: '“And the patriarchs, '
+      metadata:
+        usfm: HEB.11.9
+    marker-yv: yv-n
+  - type: text
+    text: 'to give it to him as a possession and to his offspring after him, '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 37:11
-      marker-yv: yv-n
+      - type: text
+        text: Gen. 15:3
+      metadata:
+        usfm: GEN.15.3
     - type: text
-      text: 'jealous of Joseph, '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 37:28
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 45:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 105:17
-      marker-yv: yv-n
+        text: 18:10
+      metadata:
+        usfm: GEN.18.10
+    marker-yv: yv-n
+  - type: text
+    text: 'though he had no child. '
+  - type: usfm
+    marker: vlbl
+    children:
     - type: text
-      text: 'sold him into Egypt; but '
+      text: '6'
+  - type: text
+    text: 'And God spoke to this effect—that '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 39:2
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '21'
+        text: 'Cited from '
+    - type: usfm
+      marker: ref
+      children:
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '23'
-      marker-yv: yv-n
+        text: Gen. 15:13
+      metadata:
+        usfm: GEN.15.13
     - type: text
-      text: 'God was with him '
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '14'
+      metadata:
+        usfm: GEN.15.14
+    marker-yv: yv-n
+  - type: text
+    text: 'his offspring would '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 2:22
+      metadata:
+        usfm: EXO.2.22
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 11:9
+      metadata:
+        usfm: HEB.11.9
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'be sojourners in a land belonging to others, who would enslave them and afflict them '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '17'
+      metadata:
+        usfm: ACT.7.17
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 12:40
+      metadata:
+        usfm: EXO.12.40
+    marker-yv: yv-n
+  - type: text
+    text: 'four hundred years. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: '‘But '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 25:12
+      metadata:
+        usfm: JER.25.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 30:20
+      metadata:
+        usfm: JER.30.20
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'I will judge the nation that they serve,’ said God, ‘and after that they shall come out '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 3:12
+      metadata:
+        usfm: EXO.3.12
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'and worship me in this place.’ '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'And '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 17:9-12
+      metadata:
+        usfm: GEN.17.9+GEN.17.10+GEN.17.11+GEN.17.12
+    marker-yv: yv-n
+  - type: text
+    text: 'he gave him the covenant of circumcision. And '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 21:2-4
+      metadata:
+        usfm: GEN.21.2+GEN.21.3+GEN.21.4
+    marker-yv: yv-n
+  - type: text
+    text: 'so Abraham became the father of Isaac, and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 1:59
+      metadata:
+        usfm: LUK.1.59
+    marker-yv: yv-n
+  - type: text
+    text: 'circumcised him on the eighth day, and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 25:26
+      metadata:
+        usfm: GEN.25.26
+    marker-yv: yv-n
+  - type: text
+    text: 'Isaac became the father of Jacob, and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 29:31-35
+      metadata:
+        usfm: GEN.29.31+GEN.29.32+GEN.29.33+GEN.29.34+GEN.29.35
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 30:5-24
+      metadata:
+        usfm: GEN.30.5+GEN.30.6+GEN.30.7+GEN.30.8+GEN.30.9+GEN.30.10+GEN.30.11+GEN.30.12+GEN.30.13+GEN.30.14+GEN.30.15+GEN.30.16+GEN.30.17+GEN.30.18+GEN.30.19+GEN.30.20+GEN.30.21+GEN.30.22+GEN.30.23+GEN.30.24
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 35:18
+      metadata:
+        usfm: GEN.35.18
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 23-26
+      metadata:
+        usfm: GEN.35.23+GEN.35.24+GEN.35.25+GEN.35.26
+    marker-yv: yv-n
+  - type: text
+    text: Jacob of the twelve patriarchs.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: '“And the patriarchs, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 37:11
+      metadata:
+        usfm: GEN.37.11
+    marker-yv: yv-n
+  - type: text
+    text: 'jealous of Joseph, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 37:28
+      metadata:
+        usfm: GEN.37.28
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 45:4
+      metadata:
+        usfm: GEN.45.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 105:17
+      metadata:
+        usfm: PSA.105.17
+    marker-yv: yv-n
+  - type: text
+    text: 'sold him into Egypt; but '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 39:2
+      metadata:
+        usfm: GEN.39.2
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '21'
+      metadata:
+        usfm: GEN.39.21
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '23'
+      metadata:
+        usfm: GEN.39.23
+    marker-yv: yv-n
+  - type: text
+    text: 'God was with him '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'and rescued him out of all his afflictions and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 41:37-40
+      metadata:
+        usfm: GEN.41.37+GEN.41.38+GEN.41.39+GEN.41.40
+    marker-yv: yv-n
+  - type: text
+    text: 'gave him favor and wisdom before Pharaoh, king of Egypt, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 41:41
+      metadata:
+        usfm: GEN.41.41
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '43'
+      metadata:
+        usfm: GEN.41.43
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '46'
+      metadata:
+        usfm: GEN.41.46
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 42:6
+      metadata:
+        usfm: GEN.42.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 105:21
+      metadata:
+        usfm: PSA.105.21
+    marker-yv: yv-n
+  - type: text
+    text: 'who made him ruler over Egypt and over all his household. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'Now '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 41:54
+      metadata:
+        usfm: GEN.41.54
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '55'
+      metadata:
+        usfm: GEN.41.55
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 42:5
+      metadata:
+        usfm: GEN.42.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 105:16
+      metadata:
+        usfm: PSA.105.16
+    marker-yv: yv-n
+  - type: text
+    text: 'there came a famine throughout all Egypt and Canaan, and great affliction, and our fathers could find no food. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 42:1-3
+      metadata:
+        usfm: GEN.42.1+GEN.42.2+GEN.42.3
+    marker-yv: yv-n
+  - type: text
+    text: 'But when Jacob heard that there was grain in Egypt, he sent out our fathers on their first visit. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'And '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 43:2-15
+      metadata:
+        usfm: GEN.43.2+GEN.43.3+GEN.43.4+GEN.43.5+GEN.43.6+GEN.43.7+GEN.43.8+GEN.43.9+GEN.43.10+GEN.43.11+GEN.43.12+GEN.43.13+GEN.43.14+GEN.43.15
+    marker-yv: yv-n
+  - type: text
+    text: 'on the second visit '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 45:1-4
+      metadata:
+        usfm: GEN.45.1+GEN.45.2+GEN.45.3+GEN.45.4
+    marker-yv: yv-n
+  - type: text
+    text: 'Joseph made himself known to his brothers, and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 45:16
+      metadata:
+        usfm: GEN.45.16
+    marker-yv: yv-n
+  - type: text
+    text: 'Joseph’s family became known to Pharaoh. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: 'And '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 45:9
+      metadata:
+        usfm: GEN.45.9
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '10'
+      metadata:
+        usfm: GEN.45.10
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '27'
+      metadata:
+        usfm: GEN.45.27
+    marker-yv: yv-n
+  - type: text
+    text: 'Joseph sent and summoned Jacob his father and all his kindred, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 46:26
+      metadata:
+        usfm: GEN.46.26
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '27'
+      metadata:
+        usfm: GEN.46.27
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 1:5
+      metadata:
+        usfm: EXO.1.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 10:22
+      metadata:
+        usfm: DEU.10.22
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'seventy-five persons in all. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: 'And '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 46:5
+      metadata:
+        usfm: GEN.46.5
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '28'
+      metadata:
+        usfm: GEN.46.28
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 105:23
+      metadata:
+        usfm: PSA.105.23
+    marker-yv: yv-n
+  - type: text
+    text: 'Jacob went down into Egypt, and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 49:33
+      metadata:
+        usfm: GEN.49.33
+    marker-yv: yv-n
+  - type: text
+    text: 'he died, he '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 1:6
+      metadata:
+        usfm: EXO.1.6
+    marker-yv: yv-n
+  - type: text
+    text: 'and our fathers, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 50:25
+      metadata:
+        usfm: GEN.50.25
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 13:19
+      metadata:
+        usfm: EXO.13.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Josh. 24:32
+      metadata:
+        usfm: JOS.24.32
+    marker-yv: yv-n
+  - type: text
+    text: 'they were carried back to Shechem and laid in the tomb that '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 23:16
+      metadata:
+        usfm: GEN.23.16
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'with '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 33:19
+      metadata:
+        usfm: GEN.33.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Josh. 24:32
+      metadata:
+        usfm: JOS.24.32
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Abraham had bought for a sum of silver from the sons of Hamor in Shechem.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: '“But '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 5-7
+      metadata:
+        usfm: ACT.7.5
+    marker-yv: yv-n
+  - type: text
+    text: 'as the time of the promise drew near, which God had granted to Abraham, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 13:17
+      metadata:
+        usfm: ACT.13.17
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 1:7
+      metadata:
+        usfm: EXO.1.7
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '12'
+      metadata:
+        usfm: EXO.1.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 105:24
+      metadata:
+        usfm: PSA.105.24
+    marker-yv: yv-n
+  - type: text
+    text: 'the people increased and multiplied in Egypt '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: 'until there arose over Egypt another king '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'Cited from '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 1:8
+      metadata:
+        usfm: EXO.1.8
+    marker-yv: yv-n
+  - type: text
+    text: 'who did not know Joseph. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 1:9
+      metadata:
+        usfm: EXO.1.9
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '10'
+      metadata:
+        usfm: EXO.1.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 105:25
+      metadata:
+        usfm: PSA.105.25
+    marker-yv: yv-n
+  - type: text
+    text: 'He dealt shrewdly with our race and forced our fathers to expose their infants, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 1:16-18
+      metadata:
+        usfm: EXO.1.16+EXO.1.17+EXO.1.18
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '22'
+      metadata:
+        usfm: EXO.1.22
+    marker-yv: yv-n
+  - type: text
+    text: 'so that they would not be kept alive. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 2:2
+      metadata:
+        usfm: EXO.2.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 11:23
+      metadata:
+        usfm: HEB.11.23
+    marker-yv: yv-n
+  - type: text
+    text: 'At this time Moses was born; and he was beautiful in God’s sight. And he was brought up for three months in his father’s house, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 2:3-10
+      metadata:
+        usfm: EXO.2.3+EXO.2.4+EXO.2.5+EXO.2.6+EXO.2.7+EXO.2.8+EXO.2.9+EXO.2.10
+    marker-yv: yv-n
+  - type: text
+    text: 'when he was exposed, Pharaoh’s daughter adopted him and brought him up as her own son. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: 'And Moses '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Dan. 1:4
+      metadata:
+        usfm: DAN.1.4
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '17'
+      metadata:
+        usfm: DAN.1.17
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'was instructed in '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Kgs. 4:30
+      metadata:
+        usfm: 1KI.4.30
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 19:11
+      metadata:
+        usfm: ISA.19.11
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'all the wisdom of the Egyptians, and he was '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 24:19
+      metadata:
+        usfm: LUK.24.19
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: mighty in his words and deeds.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: text
+    text: '“When he was forty years old, it came into his heart '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 2:11
+      metadata:
+        usfm: EXO.2.11
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '12'
+      metadata:
+        usfm: EXO.2.12
+    marker-yv: yv-n
+  - type: text
+    text: 'to visit his brothers, the children of Israel. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '24'
+  - type: text
+    text: 'And seeing one of them being wronged, he defended the oppressed man and avenged him by striking down the Egyptian. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '25'
+  - type: text
+    text: 'He supposed that his brothers would understand that God was giving them salvation by his hand, but they did not understand. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '26'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 2:13
+      metadata:
+        usfm: EXO.2.13
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '14'
+      metadata:
+        usfm: EXO.2.14
+    marker-yv: yv-n
+  - type: text
+    text: 'And on the following day he appeared to them as they were quarreling and tried to reconcile them, saying, ‘Men, you are brothers. Why do you wrong each other?’ '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '27'
+  - type: text
+    text: 'But the man who was wronging his neighbor thrust him aside, saying, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '35'
+      metadata:
+        usfm: ACT.7.35
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 12:14
+      metadata:
+        usfm: LUK.12.14
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: '‘Who made you a ruler and a judge over us? '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '28'
+  - type: text
+    text: 'Do you want to kill me as you killed the Egyptian yesterday?’ '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '29'
+  - type: text
+    text: 'At this retort '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 2:15
+      metadata:
+        usfm: EXO.2.15
+    marker-yv: yv-n
+  - type: text
+    text: 'Moses fled and became an exile in the land of Midian, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 2:22
+      metadata:
+        usfm: EXO.2.22
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 18:3
+      metadata:
+        usfm: EXO.18.3
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '4'
+      metadata:
+        usfm: EXO.18.4
+    marker-yv: yv-n
+  - type: text
+    text: where he became the father of two sons.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '30'
+  - type: text
+    text: '“Now when forty years had passed, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 3:2
+      metadata:
+        usfm: EXO.3.2
+    marker-yv: yv-n
+  - type: text
+    text: 'an angel appeared to him '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 3:1
+      metadata:
+        usfm: EXO.3.1
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'in the wilderness of Mount Sinai, in a flame of fire in a bush. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '31'
+  - type: text
+    text: 'When Moses saw it, he was amazed at the sight, and as he drew near to look, there came the voice of the Lord: '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '32'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'Cited from '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 3:6
+      metadata:
+        usfm: EXO.3.6
+    marker-yv: yv-n
+  - type: text
+    text: '‘I am the God of your fathers, the God of Abraham and of Isaac and of Jacob.’ And Moses trembled and did not dare to look. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '33'
+  - type: text
+    text: 'Then the Lord said to him, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 3:5
+      metadata:
+        usfm: EXO.3.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Josh. 5:15
+      metadata:
+        usfm: JOS.5.15
+    marker-yv: yv-n
+  - type: text
+    text: '‘Take off the sandals from your feet, for the place where you are standing is holy ground. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '34'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 3:7
+      metadata:
+        usfm: EXO.3.7
+    marker-yv: yv-n
+  - type: text
+    text: 'I have surely seen the affliction of my people who are in Egypt, and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 2:24
+      metadata:
+        usfm: EXO.2.24
+    marker-yv: yv-n
+  - type: text
+    text: 'have heard their groaning, and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 3:8
+      metadata:
+        usfm: EXO.3.8
+    marker-yv: yv-n
+  - type: text
+    text: 'I have come down to deliver them. '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 3:10
+      metadata:
+        usfm: EXO.3.10
+    marker-yv: yv-n
+  - type: text
+    text: And now come, I will send you to Egypt.’
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '35'
+  - type: text
+    text: '“This Moses, whom they rejected, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '27'
+      metadata:
+        usfm: ACT.7.27
+    marker-yv: yv-n
+  - type: text
+    text: 'saying, ‘Who made you a ruler and a judge?’—this man God sent as both ruler and redeemer '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 3:2
+      metadata:
+        usfm: EXO.3.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 14:19
+      metadata:
+        usfm: EXO.14.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 23:20
+      metadata:
+        usfm: EXO.23.20
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Num. 20:16
+      metadata:
+        usfm: NUM.20.16
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'by the hand of the angel who appeared to him in the bush. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '36'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 12:41
+      metadata:
+        usfm: EXO.12.41
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 33:1
+      metadata:
+        usfm: EXO.33.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 8:9
+      metadata:
+        usfm: HEB.8.9
+    marker-yv: yv-n
+  - type: text
+    text: 'This man led them out, performing '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 7:3
+      metadata:
+        usfm: EXO.7.3
+    marker-yv: yv-n
+  - type: text
+    text: 'wonders and signs '
+  - type: usfm
+    marker: x
+    children:
+    - type: text
+      text: 'Ex. 7–12; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 78:43-51
+      metadata:
+        usfm: PSA.78.43+PSA.78.44+PSA.78.45+PSA.78.46+PSA.78.47+PSA.78.48+PSA.78.49+PSA.78.50+PSA.78.51
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 105:27-36
+      metadata:
+        usfm: PSA.105.27+PSA.105.28+PSA.105.29+PSA.105.30+PSA.105.31+PSA.105.32+PSA.105.33+PSA.105.34+PSA.105.35+PSA.105.36
+    marker-yv: yv-n
+  - type: text
+    text: 'in Egypt and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 14:21
+      metadata:
+        usfm: EXO.14.21
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 27-31
+      metadata:
+        usfm: EXO.14.27+EXO.14.28+EXO.14.29+EXO.14.30+EXO.14.31
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 78:53
+      metadata:
+        usfm: PSA.78.53
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 106:9
+      metadata:
+        usfm: PSA.106.9
+    marker-yv: yv-n
+  - type: text
+    text: 'at the Red Sea and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 16:1
+      metadata:
+        usfm: EXO.16.1
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '35'
+      metadata:
+        usfm: EXO.16.35
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 17:1-6
+      metadata:
+        usfm: EXO.17.1+EXO.17.2+EXO.17.3+EXO.17.4+EXO.17.5+EXO.17.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 78:15
+      metadata:
+        usfm: PSA.78.15
+    marker-yv: yv-n
+  - type: text
+    text: 'in the wilderness for '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '42'
+      metadata:
+        usfm: ACT.7.42
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 13:18
+      metadata:
+        usfm: ACT.13.18
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 16:35
+      metadata:
+        usfm: EXO.16.35
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Num. 14:33
+      metadata:
+        usfm: NUM.14.33
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '34'
+      metadata:
+        usfm: NUM.14.34
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 95:10
+      metadata:
+        usfm: PSA.95.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 3:9
+      metadata:
+        usfm: HEB.3.9
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '17'
+      metadata:
+        usfm: HEB.3.17
+    marker-yv: yv-n
+  - type: text
+    text: 'forty years. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '37'
+  - type: text
+    text: 'This is the Moses who said to the Israelites, ‘God will raise up for you '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 3:22
+      metadata:
+        usfm: ACT.3.22
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'Cited from '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 18:15
+      metadata:
+        usfm: DEU.18.15
+    marker-yv: yv-n
+  - type: text
+    text: 'a prophet like me from your brothers.’ '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '38'
+  - type: text
+    text: 'This is the one '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 19:3
+      metadata:
+        usfm: EXO.19.3
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '17'
+      metadata:
+        usfm: EXO.19.17
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '18'
+      metadata:
+        usfm: EXO.19.18
+    marker-yv: yv-n
+  - type: text
+    text: 'who was in the congregation in the wilderness with '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ver. 53; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 63:9
+      metadata:
+        usfm: ISA.63.9
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'the angel who spoke to him at Mount Sinai, and with our fathers. '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 5:27
+      metadata:
+        usfm: DEU.5.27
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '31'
+      metadata:
+        usfm: DEU.5.31
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 33:4
+      metadata:
+        usfm: DEU.33.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 1:17
+      metadata:
+        usfm: JHN.1.17
+    marker-yv: yv-n
+  - type: text
+    text: 'He received '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 32:47
+      metadata:
+        usfm: DEU.32.47
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'living '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 3:2
+      metadata:
+        usfm: ROM.3.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 5:12
+      metadata:
+        usfm: HEB.5.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pet. 4:11
+      metadata:
+        usfm: 1PE.4.11
+    marker-yv: yv-n
+  - type: text
+    text: 'oracles to give to us. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '39'
+  - type: text
+    text: 'Our fathers refused to obey him, but thrust him aside, and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 16:3
+      metadata:
+        usfm: EXO.16.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Num. 11:4
+      metadata:
+        usfm: NUM.11.4
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '5'
+      metadata:
+        usfm: NUM.11.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 14:3
+      metadata:
+        usfm: NUM.14.3
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '4'
+      metadata:
+        usfm: NUM.14.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ezek. 20:8
+      metadata:
+        usfm: EZK.20.8
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '24'
+      metadata:
+        usfm: EZK.20.24
+    marker-yv: yv-n
+  - type: text
+    text: 'in their hearts they turned to Egypt, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '40'
+  - type: text
+    text: 'saying to Aaron, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'Cited from '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 32:1
+      metadata:
+        usfm: EXO.32.1
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '23'
+      metadata:
+        usfm: EXO.32.23
+    marker-yv: yv-n
+  - type: text
+    text: '‘Make for us gods who will go before us. As for this Moses who led us out from the land of Egypt, we do not know what has become of him.’ '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '41'
+  - type: text
+    text: 'And '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 32:4-6
+      metadata:
+        usfm: EXO.32.4+EXO.32.5+EXO.32.6
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '35'
+      metadata:
+        usfm: EXO.32.35
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 9:16
+      metadata:
+        usfm: DEU.9.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 106:19
+      metadata:
+        usfm: PSA.106.19
+    marker-yv: yv-n
+  - type: text
+    text: 'they made a calf in those days, and offered a sacrifice to the idol and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Amos 6:13
+      metadata:
+        usfm: AMO.6.13
+    marker-yv: yv-n
+  - type: text
+    text: 'were rejoicing in '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 2:8
+      metadata:
+        usfm: ISA.2.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 1:16
+      metadata:
+        usfm: JER.1.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 25:6
+      metadata:
+        usfm: JER.25.6
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '7'
+      metadata:
+        usfm: JER.25.7
+    marker-yv: yv-n
+  - type: text
+    text: 'the works of their hands. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '42'
+  - type: text
+    text: 'But '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Josh. 24:20
+      metadata:
+        usfm: JOS.24.20
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 63:10
+      metadata:
+        usfm: ISA.63.10
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'God turned away and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 81:12
+      metadata:
+        usfm: PSA.81.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ezek. 20:39
+      metadata:
+        usfm: EZK.20.39
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 1:28
+      metadata:
+        usfm: ROM.1.28
+    marker-yv: yv-n
+  - type: text
+    text: 'gave them over to worship '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 4:19
+      metadata:
+        usfm: DEU.4.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Kgs. 17:16
+      metadata:
+        usfm: 2KI.17.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 21:3
+      metadata:
+        usfm: 2KI.21.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 23:5
+      metadata:
+        usfm: 2KI.23.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 19:13
+      metadata:
+        usfm: JER.19.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Zeph. 1:5
+      metadata:
+        usfm: ZEP.1.5
+    marker-yv: yv-n
+  - type: text
+    text: 'the host of heaven, as it is written in the book of the prophets:'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'Cited from '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Amos 5:25-27
+      metadata:
+        usfm: AMO.5.25+AMO.5.26+AMO.5.27
+    marker-yv: yv-n
+  - type: text
+    text: “‘Did you bring to me slain beasts and sacrifices,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '36'
+      metadata:
+        usfm: ACT.7.36
+    marker-yv: yv-n
+  - type: text
+    text: during the forty years in the wilderness, O house of Israel?
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '43'
+  - type: text
+    text: 'You took up the tent of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Kgs. 11:7
+      metadata:
+        usfm: 1KI.11.7
+    marker-yv: yv-n
+  - type: text
+    text: Moloch
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and the star of your god Rephan,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: the images that you made to worship;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: and I will send you into exile beyond Babylon.’
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '44'
+  - type: text
+    text: '“Our fathers had '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rev. 15:5
+      metadata:
+        usfm: REV.15.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 38:21
+      metadata:
+        usfm: EXO.38.21
+    marker-yv: yv-n
+  - type: text
+    text: 'the tent of witness in the wilderness, just as he who spoke to Moses '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 25:40
+      metadata:
+        usfm: EXO.25.40
+    marker-yv: yv-n
+  - type: text
+    text: 'directed him to make it, according to the pattern that he had seen. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '45'
+  - type: text
+    text: 'Our fathers in turn '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Josh. 3:14-17
+      metadata:
+        usfm: JOS.3.14+JOS.3.15+JOS.3.16+JOS.3.17
+    marker-yv: yv-n
+  - type: text
+    text: 'brought it in with Joshua when they '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Num. 32:5
+      metadata:
+        usfm: NUM.32.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 32:49
+      metadata:
+        usfm: DEU.32.49
+    marker-yv: yv-n
+  - type: text
+    text: 'dispossessed the nations '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 13:19
+      metadata:
+        usfm: ACT.13.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Josh. 3:10
+      metadata:
+        usfm: JOS.3.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 23:9
+      metadata:
+        usfm: JOS.23.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 24:18
+      metadata:
+        usfm: JOS.24.18
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Chr. 20:7
+      metadata:
+        usfm: 2CH.20.7
+    marker-yv: yv-n
+  - type: text
+    text: 'that God drove out before our fathers. So it was '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Sam. 7:1
+      metadata:
+        usfm: 2SA.7.1
+    marker-yv: yv-n
+  - type: text
+    text: 'until the days of David, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '46'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 13:22
+      metadata:
+        usfm: ACT.13.22
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Sam. 16:1
+      metadata:
+        usfm: 1SA.16.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 89:19
+      metadata:
+        usfm: PSA.89.19
+    marker-yv: yv-n
+  - type: text
+    text: 'who found favor in the sight of God and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Kgs. 8:17
+      metadata:
+        usfm: 1KI.8.17
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Chr. 22:7
+      metadata:
+        usfm: 1CH.22.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 132:5
+      metadata:
+        usfm: PSA.132.5
+    marker-yv: yv-n
+  - type: text
+    text: 'asked to find a dwelling place for '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 49:24
+      metadata:
+        usfm: GEN.49.24
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 49:26
+      metadata:
+        usfm: ISA.49.26
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the God of Jacob.
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '7:46 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Some manuscripts '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: for the house of Jacob
+    marker-yv: yv-n
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '47'
+  - type: text
+    text: 'But it was '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Sam. 7:13
+      metadata:
+        usfm: 2SA.7.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Kgs. 6:1
+      metadata:
+        usfm: 1KI.6.1
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '2'
+      metadata:
+        usfm: 1KI.6.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 8:20
+      metadata:
+        usfm: 1KI.8.20
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Chr. 3:1
+      metadata:
+        usfm: 2CH.3.1
+    marker-yv: yv-n
+  - type: text
+    text: 'Solomon who built a house for him. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '48'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Kgs. 8:27
+      metadata:
+        usfm: 1KI.8.27
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Chr. 2:6
+      metadata:
+        usfm: 2CH.2.6
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'Yet the Most High does not dwell '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 17:24
+      metadata:
+        usfm: ACT.17.24
+    marker-yv: yv-n
+  - type: text
+    text: in houses made by hands, as the prophet says,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '49'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 11:4
+      metadata:
+        usfm: PSA.11.4
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: “‘Heaven is my throne,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 5:34
+      metadata:
+        usfm: MAT.5.34
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '35'
+      metadata:
+        usfm: MAT.5.35
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'Cited from '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 66:1
+      metadata:
+        usfm: ISA.66.1
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '2'
+      metadata:
+        usfm: ISA.66.2
+    marker-yv: yv-n
+  - type: text
+    text: and the earth is my footstool.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: What kind of house will you build for me, says the Lord,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: or what is the place of my rest?
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '50'
+  - type: text
+    text: Did not my hand make all these things?’
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '51'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 10:16
+      metadata:
+        usfm: DEU.10.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 32:9
+      metadata:
+        usfm: EXO.32.9
+    marker-yv: yv-n
+  - type: text
+    text: '“You stiff-necked people, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lev. 26:41
+      metadata:
+        usfm: LEV.26.41
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 6:10
+      metadata:
+        usfm: JER.6.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 9:26
+      metadata:
+        usfm: JER.9.26
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ezek. 44:7
+      metadata:
+        usfm: EZK.44.7
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '9'
+      metadata:
+        usfm: EZK.44.9
+    marker-yv: yv-n
+  - type: text
+    text: 'uncircumcised in heart and ears, you always resist the Holy Spirit. '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mal. 3:7
+      metadata:
+        usfm: MAL.3.7
+    marker-yv: yv-n
+  - type: text
+    text: 'As your fathers did, so do you. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '52'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Kgs. 19:10
+      metadata:
+        usfm: 1KI.19.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Chr. 36:16
+      metadata:
+        usfm: 2CH.36.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 2:30
+      metadata:
+        usfm: JER.2.30
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 23:31
+      metadata:
+        usfm: MAT.23.31
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '37'
+      metadata:
+        usfm: MAT.23.37
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 5:12
+      metadata:
+        usfm: MAT.5.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 21:35
+      metadata:
+        usfm: MAT.21.35
+    marker-yv: yv-n
+  - type: text
+    text: 'Which of the prophets did your fathers not persecute? And they killed those who announced beforehand the coming of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 3:14
+      metadata:
+        usfm: ACT.3.14
+    marker-yv: yv-n
+  - type: text
+    text: 'the Righteous One, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 5:28
+      metadata:
+        usfm: ACT.5.28
+    marker-yv: yv-n
+  - type: text
+    text: 'whom you have now betrayed and murdered, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '53'
+  - type: text
+    text: 'you who received the law '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gal. 3:19
+      metadata:
+        usfm: GAL.3.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 2:2
+      metadata:
+        usfm: HEB.2.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ver. 38; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 33:2
+      metadata:
+        usfm: DEU.33.2
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'as delivered by angels and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 7:19
+      metadata:
+        usfm: JHN.7.19
+    marker-yv: yv-n
+  - type: text
+    text: did not keep it.”
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: The Stoning of Stephen
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '54'
+  - type: text
+    text: 'Now when they heard these things '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 5:33
+      metadata:
+        usfm: ACT.5.33
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:37
+      metadata:
+        usfm: ACT.2.37
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'they were enraged, and they '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 16:9
+      metadata:
+        usfm: JOB.16.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 35:16
+      metadata:
+        usfm: PSA.35.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 37:12
+      metadata:
+        usfm: PSA.37.12
+    marker-yv: yv-n
+  - type: text
+    text: 'ground their teeth at him. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '55'
+  - type: text
+    text: 'But he, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 6:5
+      metadata:
+        usfm: ACT.6.5
+    marker-yv: yv-n
+  - type: text
+    text: 'full of the Holy Spirit, gazed into heaven and saw '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 24:16
+      metadata:
+        usfm: EXO.24.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 2:9
+      metadata:
+        usfm: LUK.2.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 12:41
+      metadata:
+        usfm: JHN.12.41
+    marker-yv: yv-n
+  - type: text
+    text: 'the glory of God, and Jesus standing '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 110:1
+      metadata:
+        usfm: PSA.110.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mark 16:19
+      metadata:
+        usfm: MRK.16.19
+    marker-yv: yv-n
+  - type: text
+    text: 'at the right hand of God. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '56'
+  - type: text
+    text: 'And he said, “Behold, I see '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 1:51
+      metadata:
+        usfm: JHN.1.51
+    marker-yv: yv-n
+  - type: text
+    text: 'the heavens opened, and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Dan. 7:13
+      metadata:
+        usfm: DAN.7.13
+    marker-yv: yv-n
+  - type: text
+    text: 'the Son of Man standing '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[See ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '55'
+      metadata:
+        usfm: ACT.7.55
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: above]
+    marker-yv: yv-n
+  - type: text
+    text: 'at the right hand of God.” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '57'
+  - type: text
+    text: But they cried out with a loud voice and stopped their ears and rushed together
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '7:57 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: rushed with one mind
+    marker-yv: yv-n
+  - type: text
+    text: ' at him. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '58'
+  - type: text
+    text: 'Then '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lev. 24:14-16
+      metadata:
+        usfm: LEV.24.14+LEV.24.15+LEV.24.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Num. 15:35
+      metadata:
+        usfm: NUM.15.35
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Kgs. 21:13
+      metadata:
+        usfm: 1KI.21.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 4:29
+      metadata:
+        usfm: LUK.4.29
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 13:12
+      metadata:
+        usfm: HEB.13.12
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'they cast him out of the city and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 21:35
+      metadata:
+        usfm: MAT.21.35
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 23:37
+      metadata:
+        usfm: MAT.23.37
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 11:37
+      metadata:
+        usfm: HEB.11.37
+    marker-yv: yv-n
+  - type: text
+    text: 'stoned him. And '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 6:13
+      metadata:
+        usfm: ACT.6.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 13:9
+      metadata:
+        usfm: DEU.13.9
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '10'
+      metadata:
+        usfm: DEU.13.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 17:7
+      metadata:
+        usfm: DEU.17.7
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'the witnesses laid down their garments '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 8:1
+      metadata:
+        usfm: ACT.8.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 22:20
+      metadata:
+        usfm: ACT.22.20
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 22:4
+      metadata:
+        usfm: ACT.22.4
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'at the feet of a young man named Saul. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '59'
+  - type: text
+    text: 'And as they were stoning Stephen, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 9:14
+      metadata:
+        usfm: ACT.9.14
+    marker-yv: yv-n
+  - type: text
+    text: 'he called out, “Lord Jesus, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 31:5
+      metadata:
+        usfm: PSA.31.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 23:46
+      metadata:
+        usfm: LUK.23.46
+    marker-yv: yv-n
+  - type: text
+    text: 'receive my spirit.” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '60'
+  - type: text
+    text: 'And '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 9:40
+      metadata:
+        usfm: ACT.9.40
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 20:36
+      metadata:
+        usfm: ACT.20.36
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 21:5
+      metadata:
+        usfm: ACT.21.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 22:41
+      metadata:
+        usfm: LUK.22.41
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eph. 3:14
+      metadata:
+        usfm: EPH.3.14
+    marker-yv: yv-n
+  - type: text
+    text: 'falling to his knees he cried out with a loud voice, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 5:44
+      metadata:
+        usfm: MAT.5.44
+    marker-yv: yv-n
+  - type: text
+    text: '“Lord, do not hold this sin against them.” And when he had said this, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 27:52
+      metadata:
+        usfm: MAT.27.52
+    marker-yv: yv-n
+  - type: text
+    text: he fell asleep.

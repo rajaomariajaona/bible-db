@@ -1,184 +1,177 @@
-document_id: PSA.87,1
+document_id: PSA.87
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: 'A Psalm '
   - type: usfm
-    marker: d
+    marker: add
     children:
     - type: text
-      text: 'A Psalm '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: or
-    - type: text
-      text: ' Song for the sons of Korah.'
+      text: or
+  - type: text
+    text: ' Song for the sons of Korah.'
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: 'His foundation '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: is
-    - type: text
-      text: ' in the holy mountains.'
-  '2':
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'The '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: LORD
-    - type: text
-      text: ' loveth the gates of Zion more than all the dwellings of Jacob.'
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: Glorious things are spoken of thee,
-  - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'O city of God. '
-    - type: usfm
-      marker: qs
-      children:
-      - type: text
-        text: Selah.
-  '4':
+      text: '1'
+  - type: text
+    text: 'His foundation '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'I will make mention of Rahab and Babylon to them that know me:'
-  - type: usfm
-    marker: q1
+    marker: add
     children:
     - type: text
-      text: Behold Philistia, and Tyre, with Ethiopia;
+      text: is
+  - type: text
+    text: ' in the holy mountains.'
+- type: usfm
+  marker: q2
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'This '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: man
-    - type: text
-      text: ' was born there.'
-  '5':
+      text: '2'
+  - type: text
+    text: 'The '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: 'And of Zion it shall be said, This and that man was born in her:'
-  - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: And the highest himself shall establish her.
-  '6':
+      text: LORD
+  - type: text
+    text: ' loveth the gates of Zion more than all the dwellings of Jacob.'
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'The '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: LORD
-    - type: text
-      text: ' shall count, when he writeth up the people,'
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: That
-    - type: text
-      text: ' this '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: man
-    - type: text
-      text: ' was born there. '
-    - type: usfm
-      marker: qs
-      children:
-      - type: text
-        text: Selah.
-  '7':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: 'As well the singers as the players on instruments '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: 'shall be there:'
-  - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'All my springs '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: are
+      text: '3'
+  - type: text
+    text: Glorious things are spoken of thee,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'O city of God. '
+  - type: usfm
+    marker: qs
+    children:
     - type: text
-      text: ' in thee.'
+      text: Selah.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'I will make mention of Rahab and Babylon to them that know me:'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Behold Philistia, and Tyre, with Ethiopia;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'This '
+  - type: usfm
+    marker: add
+    children:
+    - type: text
+      text: man
+  - type: text
+    text: ' was born there.'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'And of Zion it shall be said, This and that man was born in her:'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: And the highest himself shall establish her.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'The '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: LORD
+  - type: text
+    text: ' shall count, when he writeth up the people,'
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: add
+    children:
+    - type: text
+      text: That
+  - type: text
+    text: ' this '
+  - type: usfm
+    marker: add
+    children:
+    - type: text
+      text: man
+  - type: text
+    text: ' was born there. '
+  - type: usfm
+    marker: qs
+    children:
+    - type: text
+      text: Selah.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'As well the singers as the players on instruments '
+  - type: usfm
+    marker: add
+    children:
+    - type: text
+      text: 'shall be there:'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'All my springs '
+  - type: usfm
+    marker: add
+    children:
+    - type: text
+      text: are
+  - type: text
+    text: ' in thee.'

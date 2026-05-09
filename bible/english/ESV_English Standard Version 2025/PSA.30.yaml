@@ -1,901 +1,971 @@
-document_id: PSA.30,59
+document_id: PSA.30
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Joy Comes with the Morning
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: 'A Psalm of David. A song at the dedication of '
   - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Joy Comes with the Morning
-    marker-yv: yv-h
-  - type: usfm
-    marker: d
-    children:
-    - type: text
-      text: 'A Psalm of David. A song at the dedication of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Sam. 5:11
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Chr. 22:1
-      marker-yv: yv-n
-    - type: text
-      text: the temple.
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: 2 Sam. 5:11
+      metadata:
+        usfm: 2SA.5.11
     - type: text
-      text: 'I will '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 107:32
-      marker-yv: yv-n
-    - type: text
-      text: 'extol you, O '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ', for you have drawn me up'
+        text: 1 Chr. 22:1
+      metadata:
+        usfm: 1CH.22.1
+    marker-yv: yv-n
+  - type: text
+    text: the temple.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'and have not let my foes '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 25:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 35:19
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '24'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 13:4
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: rejoice over me.
-  '10':
+      text: '1'
+  - type: text
+    text: 'I will '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
+        text: Ps. 107:32
+      metadata:
+        usfm: PSA.107.32
+    marker-yv: yv-n
+  - type: text
+    text: 'extol you, O '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ', for you have drawn me up'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and have not let my foes '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 25:2
+      metadata:
+        usfm: PSA.25.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 35:19
+      metadata:
+        usfm: PSA.35.19
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '24'
+      metadata:
+        usfm: PSA.35.24
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 13:4
+      metadata:
+        usfm: PSA.13.4
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: rejoice over me.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'O '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' my God, I '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 88:13
+      metadata:
+        usfm: PSA.88.13
+    marker-yv: yv-n
+  - type: text
+    text: cried to you for help,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and you have '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 6:2
+      metadata:
+        usfm: PSA.6.2
+    marker-yv: yv-n
+  - type: text
+    text: healed me.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'O '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ', you have brought up my soul from '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 16:10
+      metadata:
+        usfm: PSA.16.10
+    marker-yv: yv-n
+  - type: text
+    text: Sheol;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'you restored me to life from among those who '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 28:1
+      metadata:
+        usfm: PSA.28.1
+    marker-yv: yv-n
+  - type: text
+    text: go down to the pit.
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '30:3 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: to life, that I should not go down to the pit
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'Sing praises to the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ', O you '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 50:5
+      metadata:
+        usfm: PSA.50.5
+    marker-yv: yv-n
+  - type: text
+    text: his saints,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 97:12
+      metadata:
+        usfm: PSA.97.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Chr. 16:4
+      metadata:
+        usfm: 1CH.16.4
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: give thanks to his holy name.
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '30:4 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Hebrew '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: 'to the memorial of his holiness '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: (see Exodus 3:15)
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 27:7
-      marker-yv: yv-n
-    - type: text
-      text: 'Hear, O '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: Ps. 103:9
+      metadata:
+        usfm: PSA.103.9
     - type: text
-      text: ', and be merciful to me!'
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'O '
+      text: '; '
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: Job 33:26
+      metadata:
+        usfm: JOB.33.26
     - type: text
-      text: ', be my helper!”'
-  '11':
-  - type: usfm
-    marker: q1
-    children:
+      text: '; '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
+        text: Isa. 26:20
+      metadata:
+        usfm: ISA.26.20
     - type: text
-      text: 'You have turned for me my mourning into '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 15:20
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Sam. 6:14
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 31:4
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '13'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 149:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 150:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lam. 5:15
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: dancing;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: you have loosed my sackcloth
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and clothed me with gladness,
-  '12':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '12'
+        text: 54:7
+      metadata:
+        usfm: ISA.54.7
     - type: text
-      text: 'that my '
+      text: ', '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 16:9
-      marker-yv: yv-n
-    - type: text
-      text: glory may sing your praise and not be silent.
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'O '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' my God, I will give thanks to you forever!'
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'O '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' my God, I '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 88:13
-      marker-yv: yv-n
-    - type: text
-      text: cried to you for help,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and you have '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 6:2
-      marker-yv: yv-n
-    - type: text
-      text: healed me.
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'O '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ', you have brought up my soul from '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 16:10
-      marker-yv: yv-n
-    - type: text
-      text: Sheol;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'you restored me to life from among those who '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 28:1
-      marker-yv: yv-n
-    - type: text
-      text: go down to the pit.
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '30:3 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: to life, that I should not go down to the pit
-      marker-yv: yv-n
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'Sing praises to the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ', O you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 50:5
-      marker-yv: yv-n
-    - type: text
-      text: his saints,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 97:12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Chr. 16:4
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: give thanks to his holy name.
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '30:4 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Hebrew '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'to the memorial of his holiness '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: (see Exodus 3:15)
-      marker-yv: yv-n
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 103:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 33:26
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 26:20
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 54:7
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '8'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: For his anger is but for a moment,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 63:3
-      marker-yv: yv-n
-    - type: text
-      text: his favor is for a lifetime.
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '30:5 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: and in his favor is life
-      marker-yv: yv-n
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Cor. 4:17
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '18'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: Weeping may tarry for the night,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'but '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 126:5
-      - type: text
-        text: ' (Heb.)'
-      marker-yv: yv-n
-    - type: text
-      text: joy comes with the morning.
-  '6':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'As for me, I said in my '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 29:18
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 1:32
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: prosperity,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: '“I shall never be '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 10:6
-      marker-yv: yv-n
-    - type: text
-      text: moved.”
-  '7':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: 'By your favor, O '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ','
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'you made my '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Sam. 5:9
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: mountain stand strong;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 104:29
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 31:17
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: hid your face;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'I was '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Sam. 24:10
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: dismayed.
-  '8':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '8'
+      metadata:
+        usfm: ISA.54.8
     - type: text
-      text: 'To you, O '
+      text: ' '
     - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ', I cry,'
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: For his anger is but for a moment,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 142:1
-      marker-yv: yv-n
-    - type: text
-      text: 'to the Lord I plead for mercy:'
-  '9':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '9'
-    - type: text
-      text: “What profit is there in my death,
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '30:9 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Hebrew '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: in my blood
-      marker-yv: yv-n
+        text: Ps. 63:3
+      metadata:
+        usfm: PSA.63.3
+    marker-yv: yv-n
+  - type: text
+    text: his favor is for a lifetime.
   - type: usfm
-    marker: q2
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '30:5 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: and in his favor is life
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Cor. 4:17
+      metadata:
+        usfm: 2CO.4.17
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '18'
+      metadata:
+        usfm: 2CO.4.18
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Weeping may tarry for the night,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'but '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 126:5
+      metadata:
+        usfm: PSA.126.5
+    - type: text
+      text: ' (Heb.)'
+    marker-yv: yv-n
+  - type: text
+    text: joy comes with the morning.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
     children:
     - type: text
-      text: if I go down to the pit?
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '30:9 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: to corruption
-      marker-yv: yv-n
+      text: '6'
+  - type: text
+    text: 'As for me, I said in my '
   - type: usfm
-    marker: q1
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 29:18
+      metadata:
+        usfm: JOB.29.18
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 1:32
+      metadata:
+        usfm: PRO.1.32
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: prosperity,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: '“I shall never be '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 10:6
+      metadata:
+        usfm: PSA.10.6
+    marker-yv: yv-n
+  - type: text
+    text: moved.”
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
     children:
     - type: text
-      text: 'Will '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 6:5
-      marker-yv: yv-n
-    - type: text
-      text: the dust praise you?
+      text: '7'
+  - type: text
+    text: 'By your favor, O '
   - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: Will it tell of your faithfulness?
+      text: Lord
+  - type: text
+    text: ','
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'you made my '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Sam. 5:9
+      metadata:
+        usfm: 2SA.5.9
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: mountain stand strong;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'you '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 104:29
+      metadata:
+        usfm: PSA.104.29
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 31:17
+      metadata:
+        usfm: DEU.31.17
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: hid your face;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'I was '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Sam. 24:10
+      metadata:
+        usfm: 2SA.24.10
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: dismayed.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'To you, O '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ', I cry,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 142:1
+      metadata:
+        usfm: PSA.142.1
+    marker-yv: yv-n
+  - type: text
+    text: 'to the Lord I plead for mercy:'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: “What profit is there in my death,
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '30:9 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Hebrew '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: in my blood
+    marker-yv: yv-n
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: if I go down to the pit?
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '30:9 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: to corruption
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Will '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 6:5
+      metadata:
+        usfm: PSA.6.5
+    marker-yv: yv-n
+  - type: text
+    text: the dust praise you?
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: Will it tell of your faithfulness?
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 27:7
+      metadata:
+        usfm: PSA.27.7
+    marker-yv: yv-n
+  - type: text
+    text: 'Hear, O '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ', and be merciful to me!'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'O '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ', be my helper!”'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'You have turned for me my mourning into '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 15:20
+      metadata:
+        usfm: EXO.15.20
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Sam. 6:14
+      metadata:
+        usfm: 2SA.6.14
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 31:4
+      metadata:
+        usfm: JER.31.4
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '13'
+      metadata:
+        usfm: JER.31.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 149:3
+      metadata:
+        usfm: PSA.149.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 150:4
+      metadata:
+        usfm: PSA.150.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lam. 5:15
+      metadata:
+        usfm: LAM.5.15
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: dancing;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: you have loosed my sackcloth
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and clothed me with gladness,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'that my '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 16:9
+      metadata:
+        usfm: PSA.16.9
+    marker-yv: yv-n
+  - type: text
+    text: glory may sing your praise and not be silent.
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'O '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' my God, I will give thanks to you forever!'

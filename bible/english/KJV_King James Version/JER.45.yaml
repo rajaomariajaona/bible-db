@@ -1,106 +1,89 @@
-document_id: JER.45,1
+document_id: JER.45
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s2
+  children:
+  - type: text
+    text: A Word for Baruch
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s2
+    marker: vlbl
     children:
     - type: text
-      text: A Word for Baruch
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying, '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
     - type: text
-      text: 'The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying, '
-  '2':
+      text: '2'
+  - type: text
+    text: 'Thus saith the '
   - type: usfm
-    marker: p
+    marker: nd
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
     - type: text
-      text: 'Thus saith the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: LORD
-    - type: text
-      text: ', the God of Israel, unto thee, O Baruch; '
-  '3':
+      text: LORD
+  - type: text
+    text: ', the God of Israel, unto thee, O Baruch; '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
     - type: text
-      text: 'Thou didst say, Woe is me now! for the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: LORD
-    - type: text
-      text: ' hath added grief to my sorrow; I fainted in my sighing, and I find no rest. '
-  '4':
+      text: '3'
+  - type: text
+    text: 'Thou didst say, Woe is me now! for the '
   - type: usfm
-    marker: p
+    marker: nd
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
     - type: text
-      text: 'Thus shalt thou say unto him, The '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: LORD
-    - type: text
-      text: ' saith thus; Behold, '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: that
-    - type: text
-      text: ' which I have built will I break down, and that which I have planted I will pluck up, even this whole land. '
-  '5':
+      text: LORD
+  - type: text
+    text: ' hath added grief to my sorrow; I fainted in my sighing, and I find no rest. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
     - type: text
-      text: 'And seekest thou great things for thyself? seek '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: them
+      text: '4'
+  - type: text
+    text: 'Thus shalt thou say unto him, The '
+  - type: usfm
+    marker: nd
+    children:
     - type: text
-      text: ' not: for, behold, I will bring evil upon all flesh, saith the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: LORD
+      text: LORD
+  - type: text
+    text: ' saith thus; Behold, '
+  - type: usfm
+    marker: add
+    children:
     - type: text
-      text: ': but thy life will I give unto thee for a prey in all places whither thou goest.'
+      text: that
+  - type: text
+    text: ' which I have built will I break down, and that which I have planted I will pluck up, even this whole land. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'And seekest thou great things for thyself? seek '
+  - type: usfm
+    marker: add
+    children:
+    - type: text
+      text: them
+  - type: text
+    text: ' not: for, behold, I will bring evil upon all flesh, saith the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: LORD
+  - type: text
+    text: ': but thy life will I give unto thee for a prey in all places whither thou goest.'

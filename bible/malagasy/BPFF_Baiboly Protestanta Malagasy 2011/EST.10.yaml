@@ -1,49 +1,40 @@
-document_id: EST.10,3103
+document_id: EST.10
 type_code: plt
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Ny fisandratan’i Mordekay tamin’ny farany
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Ny fisandratan’i Mordekay tamin’ny farany
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Nampandoa hetra ny tany sy ny nosin-dranomasina i Ahasoerosy mpanjaka. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
     - type: text
-      text: 'Nampandoa hetra ny tany sy ny nosin-dranomasina i Ahasoerosy mpanjaka. '
-  '2':
+      text: '2'
+  - type: text
+    text: 'Ary izay rehetra nataony araka ny fahefany sy ny heriny mbamin’ny filazana ny fahalehibiazan’i Mordekay, araka izay nanandratan’ny mpanjaka azy, tsy voasoratra ao amin’ny bokin’ny tantaran’ny mpanjakan’i Media sy i Persia va izany? '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
     - type: text
-      text: 'Ary izay rehetra nataony araka ny fahefany sy ny heriny mbamin’ny filazana ny fahalehibiazan’i Mordekay, araka izay nanandratan’ny mpanjaka azy, tsy voasoratra ao amin’ny bokin’ny tantaran’ny mpanjakan’i Media sy i Persia va izany? '
-  '3':
+      text: '3'
+  - type: text
+    text: 'Fa i Mordekay jiosy no nanarakaraka an’i Ahasoerosy mpanjaka tamin’ny fahefana, sady nalaza tamin’ny '
   - type: usfm
-    marker: p
+    marker: w
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
     - type: text
-      text: 'Fa i Mordekay jiosy no nanarakaraka an’i Ahasoerosy mpanjaka tamin’ny fahefana, sady nalaza tamin’ny '
-    - type: usfm
-      marker: w
-      children:
-      - type: text
-        text: Jiosy
-    - type: text
-      text: ' ka nankasitrahan’ny rahalahiny maro, satria nitady izay hahasoa ny fireneny izy sady nilaza fiadanana tamin’ny olona rehetra iray firazanana taminy.'
+      text: Jiosy
+  - type: text
+    text: ' ka nankasitrahan’ny rahalahiny maro, satria nitady izay hahasoa ny fireneny izy sady nilaza fiadanana tamin’ny olona rehetra iray firazanana taminy.'

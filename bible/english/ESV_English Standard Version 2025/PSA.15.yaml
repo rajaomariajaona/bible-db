@@ -1,412 +1,455 @@
-document_id: PSA.15,59
+document_id: PSA.15
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Who Shall Dwell on Your Holy Hill?
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: A Psalm of David.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Who Shall Dwell on Your Holy Hill?
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'O '
   - type: usfm
-    marker: d
+    marker: nd
     children:
     - type: text
-      text: A Psalm of David.
+      text: Lord
+  - type: text
+    text: ', '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: 'O '
+        text: 'For ver. 1-5, see '
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: Ps. 24:3-5
+      metadata:
+        usfm: PSA.24.3+PSA.24.4+PSA.24.5
     - type: text
-      text: ', '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'For ver. 1-5, see '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 24:3-5
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 33:14-16
-      marker-yv: yv-n
-    - type: text
-      text: 'who shall sojourn in your '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 61:4
-      marker-yv: yv-n
-    - type: text
-      text: tent?
+        text: Isa. 33:14-16
+      metadata:
+        usfm: ISA.33.14+ISA.33.15+ISA.33.16
+    marker-yv: yv-n
+  - type: text
+    text: 'who shall sojourn in your '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'Who shall dwell on your '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 2:6
-      marker-yv: yv-n
-    - type: text
-      text: holy hill?
-  '2':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: 'He who '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 28:18
-      marker-yv: yv-n
-    - type: text
-      text: 'walks blamelessly and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 106:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 6:1
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: does what is right
+        text: Ps. 61:4
+      metadata:
+        usfm: PSA.61.4
+    marker-yv: yv-n
+  - type: text
+    text: tent?
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'Who shall dwell on your '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Zech. 8:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 4:25
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 1:47
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col. 3:9
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: speaks truth in his heart;
-  '3':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: 'who '
+        text: 'See '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 19:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 34:13
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: does not slander with his tongue
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and does no evil to his neighbor,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'nor '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 23:1
-      marker-yv: yv-n
-    - type: text
-      text: takes up a reproach against his friend;
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '4'
+        text: Ps. 2:6
+      metadata:
+        usfm: PSA.2.6
+    marker-yv: yv-n
+  - type: text
+    text: holy hill?
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'He who '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 28:18
+      metadata:
+        usfm: PRO.28.18
+    marker-yv: yv-n
+  - type: text
+    text: 'walks blamelessly and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 106:3
+      metadata:
+        usfm: PSA.106.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 6:1
+      metadata:
+        usfm: MAT.6.1
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: does what is right
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Zech. 8:16
+      metadata:
+        usfm: ZEC.8.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eph. 4:25
+      metadata:
+        usfm: EPH.4.25
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 1:47
+      metadata:
+        usfm: JHN.1.47
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Col. 3:9
+      metadata:
+        usfm: COL.3.9
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: speaks truth in his heart;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'who '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lev. 19:16
+      metadata:
+        usfm: LEV.19.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 34:13
+      metadata:
+        usfm: PSA.34.13
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: does not slander with his tongue
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and does no evil to his neighbor,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'nor '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 23:1
+      metadata:
+        usfm: EXO.23.1
+    marker-yv: yv-n
+  - type: text
+    text: takes up a reproach against his friend;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
       - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Esth. 3:2
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: Esth. 3:2
+      metadata:
+        usfm: EST.3.2
     - type: text
-      text: in whose eyes a vile person is despised,
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: in whose eyes a vile person is despised,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'but who honors those who fear the '
   - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: 'but who honors those who fear the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ;
+      text: Lord
+  - type: text
+    text: ;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'who '
   - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'who '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Judg. 11:35
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: swears to his own hurt and does not change;
-  '5':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: 'who '
+        text: '['
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 22:25
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 25:36
+        text: Judg. 11:35
+      metadata:
+        usfm: JDG.11.35
+    - type: usfm
+      marker: xta
+      children:
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 23:19
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezek. 18:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 22:12
-      marker-yv: yv-n
-    - type: text
-      text: does not put out his money at interest
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: swears to his own hurt and does not change;
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 23:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 16:19
-      marker-yv: yv-n
-    - type: text
-      text: does not take a bribe against the innocent.
+      text: '5'
+  - type: text
+    text: 'who '
   - type: usfm
-    marker: q1
+    marker: x
     children:
-    - type: text
-      text: 'He who does these things shall never be '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 10:6
-      marker-yv: yv-n
+      - type: text
+        text: Ex. 22:25
+      metadata:
+        usfm: EXO.22.25
     - type: text
-      text: moved.
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lev. 25:36
+      metadata:
+        usfm: LEV.25.36
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 23:19
+      metadata:
+        usfm: DEU.23.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ezek. 18:8
+      metadata:
+        usfm: EZK.18.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 22:12
+      metadata:
+        usfm: EZK.22.12
+    marker-yv: yv-n
+  - type: text
+    text: does not put out his money at interest
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 23:8
+      metadata:
+        usfm: EXO.23.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 16:19
+      metadata:
+        usfm: DEU.16.19
+    marker-yv: yv-n
+  - type: text
+    text: does not take a bribe against the innocent.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'He who does these things shall never be '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 10:6
+      metadata:
+        usfm: PSA.10.6
+    marker-yv: yv-n
+  - type: text
+    text: moved.

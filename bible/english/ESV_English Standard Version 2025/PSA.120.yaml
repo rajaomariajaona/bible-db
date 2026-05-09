@@ -1,357 +1,390 @@
-document_id: PSA.120,59
+document_id: PSA.120
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: 'Deliver Me, O '
   - type: usfm
-    marker: s1
+    marker: nd
     children:
     - type: text
-      text: 'Deliver Me, O '
+      text: Lord
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: 'A Song of '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
-    marker-yv: yv-h
-  - type: usfm
-    marker: d
-    children:
+        text: Ex. 34:24
+      metadata:
+        usfm: EXO.34.24
     - type: text
-      text: 'A Song of '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 34:24
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Kgs. 12:27
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 30:29
-      marker-yv: yv-n
-    - type: text
-      text: Ascents.
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: 1 Kgs. 12:27
+      metadata:
+        usfm: 1KI.12.27
     - type: text
-      text: 'In my distress I called to the '
+      text: '; '
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ','
+        text: Isa. 30:29
+      metadata:
+        usfm: ISA.30.29
+    marker-yv: yv-n
+  - type: text
+    text: Ascents.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: and he answered me.
-  '2':
+      text: '1'
+  - type: text
+    text: 'In my distress I called to the '
   - type: usfm
-    marker: q1
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ','
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and he answered me.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'Deliver me, O '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ','
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: from lying lips,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: from a deceitful tongue.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: What shall be given to you,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '2'
+        text: '['
     - type: text
-      text: 'Deliver me, O '
+      text: ' '
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: 1 Sam. 3:17
+      metadata:
+        usfm: 1SA.3.17
     - type: text
-      text: ','
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: and what more shall be done to you,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: you deceitful tongue?
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: from lying lips,
+      text: '4'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: from a deceitful tongue.
-  '3':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 127:4
+      metadata:
+        usfm: PSA.127.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 50:9
+      metadata:
+        usfm: JER.50.9
+    marker-yv: yv-n
+  - type: text
+    text: 'A warrior’s '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 45:5
+      metadata:
+        usfm: PSA.45.5
+    marker-yv: yv-n
+  - type: text
+    text: sharp arrows,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'with glowing '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 140:10
+      metadata:
+        usfm: PSA.140.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 25:22
+      metadata:
+        usfm: PRO.25.22
+    marker-yv: yv-n
+  - type: text
+    text: coals of the broom tree!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'Woe to me, that I sojourn in '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 10:2
+      metadata:
+        usfm: GEN.10.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ezek. 27:13
+      metadata:
+        usfm: EZK.27.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 38:2
+      metadata:
+        usfm: EZK.38.2
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '3'
+      metadata:
+        usfm: EZK.38.3
     - type: text
-      text: What shall be given to you,
-  - type: usfm
-    marker: q2
-    children:
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Sam. 3:17
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: and what more shall be done to you,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: you deceitful tongue?
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '4'
+        text: 39:1
+      metadata:
+        usfm: EZK.39.1
+    marker-yv: yv-n
+  - type: text
+    text: Meshech,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'that I dwell among '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Song 1:5
+      metadata:
+        usfm: SNG.1.5
+    marker-yv: yv-n
+  - type: text
+    text: 'the tents of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 25:13
+      metadata:
+        usfm: GEN.25.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 60:7
+      metadata:
+        usfm: ISA.60.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 49:28
+      metadata:
+        usfm: JER.49.28
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ezek. 27:21
+      metadata:
+        usfm: EZK.27.21
+    marker-yv: yv-n
+  - type: text
+    text: Kedar!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: Too long have I had my dwelling
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: among those who hate peace.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 127:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 50:9
-      marker-yv: yv-n
-    - type: text
-      text: 'A warrior’s '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 45:5
-      marker-yv: yv-n
-    - type: text
-      text: sharp arrows,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'with glowing '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 140:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 25:22
-      marker-yv: yv-n
-    - type: text
-      text: coals of the broom tree!
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: 'Woe to me, that I sojourn in '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 10:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezek. 27:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 38:2
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '3'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 39:1
-      marker-yv: yv-n
-    - type: text
-      text: Meshech,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'that I dwell among '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Song 1:5
-      marker-yv: yv-n
-    - type: text
-      text: 'the tents of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 25:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 60:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 49:28
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezek. 27:21
-      marker-yv: yv-n
-    - type: text
-      text: Kedar!
-  '6':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: Too long have I had my dwelling
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: among those who hate peace.
-  '7':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
+        text: Ps. 109:4
+      metadata:
+        usfm: PSA.109.4
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
       - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 109:4
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: I am for peace,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: but when I speak, they are for war!
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: I am for peace,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: but when I speak, they are for war!

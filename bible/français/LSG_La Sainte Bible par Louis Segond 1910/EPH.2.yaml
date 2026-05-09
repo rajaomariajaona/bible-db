@@ -1,697 +1,710 @@
-document_id: EPH.2,93
+document_id: EPH.2
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Le salut par la grâce
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 1-10: cf. Ép 1:19, 20. Col 2:12, 13; 3:1-3. Tit 3:3-8. 2 Co 5:17.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Le salut par la grâce
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 1-10: cf. Ép 1:19, 20. Col 2:12, 13; 3:1-3. Tit 3:3-8. 2 Co 5:17.'
-    marker-yv: yv-h
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Ro 5:6
+      metadata:
+        usfm: ROM.5.6
     - type: text
-      text: ' '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 5:6
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col 2:13
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Col 2:13
+      metadata:
+        usfm: COL.2.13
     - type: text
-      text: 'Vous étiez morts par vos offenses et par vos péchés, '
-  '10':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Vous étiez morts par vos offenses et par vos péchés, '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '10'
-    - type: text
-      text: 'Car nous sommes son ouvrage, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Co 5:17
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ép 1:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:24
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Tit 2:14
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: ayant été créés en Jésus-Christ pour de bonnes œuvres, que Dieu a préparées d’avance, afin que nous les pratiquions.
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Les païens et les Juifs unis ensemble avec Dieu par la croix de Christ
-    marker-yv: yv-h
+      text: '2'
   - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 11-18: cf. Col 2:13, 14; 1:20-22. Ga 3:28, 29. Hé 10:19-22. Za 6:15.'
-    marker-yv: yv-h
-  '11':
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
+        text: 1 Co 6:11
+      metadata:
+        usfm: 1CO.6.11
     - type: text
-      text: 'C’est pourquoi, vous autrefois païens dans la chair, appelés incirconcis par ceux qu’on appelle circoncis et qui le sont en la chair par la main de l’homme, '
-  '12':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Col 3:7
+      metadata:
+        usfm: COL.3.7
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Tit 3:3
+      metadata:
+        usfm: TIT.3.3
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'dans lesquels vous marchiez autrefois, selon le train de ce monde, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '12'
+        text: Jn 12:31
+      metadata:
+        usfm: JHN.12.31
     - type: text
-      text: 'souvenez-vous que vous étiez en ce temps-là sans Christ, privés du droit de cité en Israël, étrangers '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 9:4
       - type: text
-        text: .
-      marker-yv: yv-n
+        text: 14:30
+      metadata:
+        usfm: JHN.14.30
     - type: text
-      text: 'aux alliances de la promesse, sans espérance et sans Dieu dans le monde. '
-  '13':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 16:11
+      metadata:
+        usfm: JHN.16.11
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ép 6:12
+      metadata:
+        usfm: EPH.6.12
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'selon le prince de la puissance de l’air, de l’esprit qui agit maintenant dans les fils de la rébellion. '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '13'
-    - type: text
-      text: 'Mais maintenant, en Jésus-Christ, vous qui étiez jadis éloignés, vous avez été rapprochés par le sang de Christ. '
-  '14':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '14'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 9:5
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mi 5:4
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 16:33
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ac 10:36
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 5:1
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col 1:20
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Car il est notre paix, lui qui des deux n’en a fait qu’un, et qui a renversé le mur de séparation, l’inimitié, '
-  '15':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '15'
-    - type: text
-      text: 'ayant anéanti par sa chair la loi des ordonnances dans ses prescriptions, afin de créer en lui-même avec les deux un seul homme nouveau, en établissant la paix, '
-  '16':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: text
-      text: 'et de les réconcilier, l’un et l’autre en un seul corps, avec Dieu par la croix, en détruisant par elle l’inimitié. '
-  '17':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 57:19
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ép 3:12
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Il est venu annoncer la paix à vous qui étiez loin, et la paix à ceux qui étaient près; '
-  '18':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
-    - type: usfm
-      marker: x
-      children:
-      - type: text
-        text: 'Jn 10:9, 14, 6. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 5:2
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ép 3:12
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hé 10:19
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: car par lui nous avons les uns et les autres accès auprès du Père, dans un même Esprit.
-  - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 19-22: cf. Ép 3:6. (1 Pi 2:4-7. 1 Co 3:9-11, 16, 17.)'
-    marker-yv: yv-h
-  '19':
+      text: '3'
+  - type: text
+    text: 'Nous tous aussi, nous étions de leur nombre, et nous vivions autrefois selon les convoitises de notre chair, accomplissant les volontés de la chair et de nos pensées, et nous étions par nature des enfants de colère, comme les autres… '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'Mais Dieu, qui est riche en miséricorde, à cause du grand amour dont il nous a aimés, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'nous qui étions morts par nos offenses, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '19'
+        text: Ro 6:8
+      metadata:
+        usfm: ROM.6.8
     - type: text
-      text: 'Ainsi donc, vous n’êtes plus des étrangers, ni des gens du dehors; mais vous êtes concitoyens des saints, '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ga 6:10
       - type: text
-        text: .
-      marker-yv: yv-n
+        text: 8:11
+      metadata:
+        usfm: ROM.8.11
     - type: text
-      text: 'gens de la maison de Dieu. '
-  '2':
-  - type: usfm
-    marker: p
-    children:
+      text: '. '
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: Col 3:1
+      metadata:
+        usfm: COL.3.1
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '2'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Co 6:11
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col 3:7
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Tit 3:3
-      - type: text
-        text: .
-      marker-yv: yv-n
+      metadata:
+        usfm: COL.3.2
     - type: text
-      text: 'dans lesquels vous marchiez autrefois, selon le train de ce monde, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 12:31
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 14:30
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 16:11
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ép 6:12
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'selon le prince de la puissance de l’air, de l’esprit qui agit maintenant dans les fils de la rébellion. '
-  '20':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: nous a rendus à la vie avec Christ (
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '20'
+        text: Ac 15:11
+      metadata:
+        usfm: ACT.15.11
     - type: text
-      text: 'Vous avez été '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Co 3:9
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '10'
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Tit 3:5
+      metadata:
+        usfm: TIT.3.5
     - type: text
-      text: 'édifiés '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 28:16
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mt 16:18
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Co 3:10
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ap 21:14
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'sur le fondement des apôtres et des prophètes, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pi 2:4
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Jésus-Christ lui-même étant la pierre angulaire. '
-  '21':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'c’est par grâce que vous êtes sauvés); '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'il nous a ressuscités ensemble, et nous a fait asseoir ensemble dans les lieux célestes, en Jésus-Christ, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'afin de montrer dans les siècles à venir l’infinie richesse de sa grâce par sa bonté envers nous en Jésus-Christ. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'Car c’est par la grâce que vous êtes sauvés, par le moyen de la foi. Et cela ne vient pas de vous, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '21'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ép 4:16
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Mt 16:17
+      metadata:
+        usfm: MAT.16.17
     - type: text
-      text: 'En lui tout l’édifice, bien coordonné, s’élève pour être '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Co 6:19
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Co 6:16
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Ép 1:19
+      metadata:
+        usfm: EPH.1.19
     - type: text
-      text: 'un temple saint dans le Seigneur. '
-  '22':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'c’est le don de Dieu. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'Ce n’est point par les œuvres, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '22'
+        text: Ro 3:27
+      metadata:
+        usfm: ROM.3.27
     - type: text
-      text: En lui vous êtes aussi édifiés pour être une habitation de Dieu en Esprit.
-  '3':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Co 1:29
+      metadata:
+        usfm: 1CO.1.29
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'afin que personne ne se glorifie. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'Car nous sommes son ouvrage, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '3'
+        text: 2 Co 5:17
+      metadata:
+        usfm: 2CO.5.17
     - type: text
-      text: 'Nous tous aussi, nous étions de leur nombre, et nous vivions autrefois selon les convoitises de notre chair, accomplissant les volontés de la chair et de nos pensées, et nous étions par nature des enfants de colère, comme les autres… '
-  '4':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ép 1:4
+      metadata:
+        usfm: EPH.1.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:24
+      metadata:
+        usfm: EPH.4.24
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Tit 2:14
+      metadata:
+        usfm: TIT.2.14
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: ayant été créés en Jésus-Christ pour de bonnes œuvres, que Dieu a préparées d’avance, afin que nous les pratiquions.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Les païens et les Juifs unis ensemble avec Dieu par la croix de Christ
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 11-18: cf. Col 2:13, 14; 1:20-22. Ga 3:28, 29. Hé 10:19-22. Za 6:15.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'C’est pourquoi, vous autrefois païens dans la chair, appelés incirconcis par ceux qu’on appelle circoncis et qui le sont en la chair par la main de l’homme, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'souvenez-vous que vous étiez en ce temps-là sans Christ, privés du droit de cité en Israël, étrangers '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '4'
+        text: Ro 9:4
+      metadata:
+        usfm: ROM.9.4
     - type: text
-      text: 'Mais Dieu, qui est riche en miséricorde, à cause du grand amour dont il nous a aimés, '
-  '5':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'aux alliances de la promesse, sans espérance et sans Dieu dans le monde. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'Mais maintenant, en Jésus-Christ, vous qui étiez jadis éloignés, vous avez été rapprochés par le sang de Christ. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
+        text: És 9:5
+      metadata:
+        usfm: ISA.9.5
     - type: text
-      text: 'nous qui étions morts par nos offenses, '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 6:8
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 8:11
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col 3:1
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '2'
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Mi 5:4
+      metadata:
+        usfm: MIC.5.4
     - type: text
-      text: nous a rendus à la vie avec Christ (
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ac 15:11
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Tit 3:5
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Jn 16:33
+      metadata:
+        usfm: JHN.16.33
     - type: text
-      text: 'c’est par grâce que vous êtes sauvés); '
-  '6':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ac 10:36
+      metadata:
+        usfm: ACT.10.36
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ro 5:1
+      metadata:
+        usfm: ROM.5.1
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Col 1:20
+      metadata:
+        usfm: COL.1.20
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Car il est notre paix, lui qui des deux n’en a fait qu’un, et qui a renversé le mur de séparation, l’inimitié, '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: 'ayant anéanti par sa chair la loi des ordonnances dans ses prescriptions, afin de créer en lui-même avec les deux un seul homme nouveau, en établissant la paix, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'et de les réconcilier, l’un et l’autre en un seul corps, avec Dieu par la croix, en détruisant par elle l’inimitié. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '6'
+        text: És 57:19
+      metadata:
+        usfm: ISA.57.19
     - type: text
-      text: 'il nous a ressuscités ensemble, et nous a fait asseoir ensemble dans les lieux célestes, en Jésus-Christ, '
-  '7':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ép 3:12
+      metadata:
+        usfm: EPH.3.12
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Il est venu annoncer la paix à vous qui étiez loin, et la paix à ceux qui étaient près; '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: usfm
+    marker: x
+    children:
+    - type: text
+      text: 'Jn 10:9, 14, 6. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ro 5:2
+      metadata:
+        usfm: ROM.5.2
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ép 3:12
+      metadata:
+        usfm: EPH.3.12
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hé 10:19
+      metadata:
+        usfm: HEB.10.19
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: car par lui nous avons les uns et les autres accès auprès du Père, dans un même Esprit.
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 19-22: cf. Ép 3:6. (1 Pi 2:4-7. 1 Co 3:9-11, 16, 17.)'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: 'Ainsi donc, vous n’êtes plus des étrangers, ni des gens du dehors; mais vous êtes concitoyens des saints, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '7'
+        text: Ga 6:10
+      metadata:
+        usfm: GAL.6.10
     - type: text
-      text: 'afin de montrer dans les siècles à venir l’infinie richesse de sa grâce par sa bonté envers nous en Jésus-Christ. '
-  '8':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'gens de la maison de Dieu. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: text
+    text: 'Vous avez été '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '8'
+        text: 1 Co 3:9
+      metadata:
+        usfm: 1CO.3.9
     - type: text
-      text: 'Car c’est par la grâce que vous êtes sauvés, par le moyen de la foi. Et cela ne vient pas de vous, '
+      text: ', '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mt 16:17
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ép 1:19
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: '10'
+      metadata:
+        usfm: 1CO.3.10
     - type: text
-      text: 'c’est le don de Dieu. '
-  '9':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'édifiés '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '9'
+        text: És 28:16
+      metadata:
+        usfm: ISA.28.16
     - type: text
-      text: 'Ce n’est point par les œuvres, '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 3:27
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Co 1:29
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Mt 16:18
+      metadata:
+        usfm: MAT.16.18
     - type: text
-      text: 'afin que personne ne se glorifie. '
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Co 3:10
+      metadata:
+        usfm: 1CO.3.10
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ap 21:14
+      metadata:
+        usfm: REV.21.14
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'sur le fondement des apôtres et des prophètes, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pi 2:4
+      metadata:
+        usfm: 1PE.2.4
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Jésus-Christ lui-même étant la pierre angulaire. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ép 4:16
+      metadata:
+        usfm: EPH.4.16
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'En lui tout l’édifice, bien coordonné, s’élève pour être '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Co 6:19
+      metadata:
+        usfm: 1CO.6.19
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Co 6:16
+      metadata:
+        usfm: 2CO.6.16
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'un temple saint dans le Seigneur. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: En lui vous êtes aussi édifiés pour être une habitation de Dieu en Esprit.

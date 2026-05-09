@@ -1,49 +1,40 @@
-document_id: EST.10,116
+document_id: EST.10
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: The Greatness of Xerxes and Mordecai
+  marker-yv: yv-h
+- type: usfm
+  marker: m
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: The Greatness of Xerxes and Mordecai
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'King Xerxes imposed a tribute throughout his empire, even to the distant coastlands. '
   - type: usfm
-    marker: m
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
     - type: text
-      text: 'King Xerxes imposed a tribute throughout his empire, even to the distant coastlands. '
-  '2':
+      text: '2'
+  - type: text
+    text: 'His great achievements and the full account of the greatness of Mordecai, whom the king had promoted, are recorded in '
   - type: usfm
-    marker: m
+    marker: it
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
     - type: text
-      text: 'His great achievements and the full account of the greatness of Mordecai, whom the king had promoted, are recorded in '
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: The Book of the History of the Kings of Media and Persia.
-    - type: text
-      text: ' '
-  '3':
+      text: The Book of the History of the Kings of Media and Persia.
+  - type: text
+    text: ' '
   - type: usfm
-    marker: m
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
     - type: text
-      text: Mordecai the Jew became the prime minister, with authority next to that of King Xerxes himself. He was very great among the Jews, who held him in high esteem, because he continued to work for the good of his people and to speak up for the welfare of all their descendants.
+      text: '3'
+  - type: text
+    text: Mordecai the Jew became the prime minister, with authority next to that of King Xerxes himself. He was very great among the Jews, who held him in high esteem, because he continued to work for the good of his people and to speak up for the welfare of all their descendants.

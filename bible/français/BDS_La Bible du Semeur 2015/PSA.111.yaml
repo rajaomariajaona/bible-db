@@ -1,327 +1,325 @@
-document_id: PSA.111,21
+document_id: PSA.111
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Il a fait des merveilles
   - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Il a fait des merveilles
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '111 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Psaume alphabétique (cf. note '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: '9.1'
-        - type: text
-          text: ).
-      marker-yv: yv-n
-    marker-yv: yv-h
-  - type: usfm
-    marker: q1
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: Louez l’Eternel
+        text: '111 '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '111.1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Voir '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: '112.1'
-        - type: text
-          text: .
-      marker-yv: yv-n
-    - type: text
-      text: '  !'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Je mettrai tout mon cœur ╵à louer l’Eternel
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: dans l’assemblée, ╵dans le conseil des justes.
-  '10':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: La sagesse commence ╵par la crainte de l’Eternel
-    - type: usfm
-      marker: f
-      children:
+        text: 'Psaume alphabétique (cf. note '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '111.10 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: Voir Jb 28.28 ; Pr 1.7 ; 9.10.
-      marker-yv: yv-n
-    - type: text
-      text: .
+          text: '9.1'
+        metadata:
+          usfm: PSA.9.1
+      - type: text
+        text: ).
+    marker-yv: yv-n
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Qui observe ses lois ╵a une saine intelligence.
+      text: '1'
+  - type: text
+    text: Louez l’Eternel
   - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Sa louange subsiste ╵jusqu’en l’éternité.
-  '2':
-  - type: usfm
-    marker: q1
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: L’Eternel accomplit ╵des œuvres admirables,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: elles sont méditées ╵par tous ceux qui les aiment.
-  '3':
-  - type: usfm
-    marker: q1
-    children:
+        text: '111.1 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: Ses actes manifestent ╵sa gloire et sa splendeur.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Et sa justice ╵subsiste pour l’éternité
-    - type: usfm
-      marker: f
-      children:
+        text: 'Voir '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '111.3 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Voir '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: '112.3'
-        - type: text
-          text: .
-      marker-yv: yv-n
-    - type: text
-      text: .
-  '4':
+          text: '112.1'
+        metadata:
+          usfm: PSA.112.1
+      - type: text
+        text: .
+    marker-yv: yv-n
+  - type: text
+    text: '  !'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Je mettrai tout mon cœur ╵à louer l’Eternel
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: dans l’assemblée, ╵dans le conseil des justes.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: L’Eternel accomplit ╵des œuvres admirables,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: elles sont méditées ╵par tous ceux qui les aiment.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: Ses actes manifestent ╵sa gloire et sa splendeur.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et sa justice ╵subsiste pour l’éternité
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '4'
-    - type: text
-      text: Il fait qu’on se souvienne ╵de ses prodiges.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: L’Eternel est compatissant, ╵et il fait grâce
+        text: '111.3 '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '111.4 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Voir '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: '112.4'
-        - type: text
-          text: .
-      marker-yv: yv-n
-    - type: text
-      text: .
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: Il a pourvu de quoi manger ╵pour ceux qui le craignaient
-    - type: usfm
-      marker: f
-      children:
+        text: 'Voir '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '111.5 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: Il s’agit sans doute ici d’une référence à la manne.
-      marker-yv: yv-n
-    - type: text
-      text: .
+          text: '112.3'
+        metadata:
+          usfm: PSA.112.3
+      - type: text
+        text: .
+    marker-yv: yv-n
+  - type: text
+    text: .
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Il se souvient toujours ╵de son alliance.
-  '6':
+      text: '4'
+  - type: text
+    text: Il fait qu’on se souvienne ╵de ses prodiges.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: L’Eternel est compatissant, ╵et il fait grâce
   - type: usfm
-    marker: q1
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '6'
-    - type: text
-      text: Il a manifesté ╵sa puissance à son peuple ╵en agissant pour lui
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: quand il lui a donné ╵le pays d’autres peuples.
-  '7':
-  - type: usfm
-    marker: q1
-    children:
+        text: '111.4 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '7'
-    - type: text
-      text: Tout ce qu’il fait témoigne ╵qu’il est fidèle et juste ;
+        text: 'Voir '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '112.4'
+        metadata:
+          usfm: PSA.112.4
+      - type: text
+        text: .
+    marker-yv: yv-n
+  - type: text
+    text: .
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: tous ses commandements ╵sont dignes de confiance ;
-  '8':
+      text: '5'
+  - type: text
+    text: Il a pourvu de quoi manger ╵pour ceux qui le craignaient
   - type: usfm
-    marker: q1
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '8'
-    - type: text
-      text: ils sont bien établis ╵pour toute éternité,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et fondés sur la vérité ╵et la droiture
+        text: '111.5 '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '111.8 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Autre traduction : '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: et destinés à être obéis avec vérité et droiture.
-      marker-yv: yv-n
-    - type: text
-      text: .
-  '9':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '9'
-    - type: text
-      text: Il a accordé la délivrance à son peuple,
+        text: Il s’agit sans doute ici d’une référence à la manne.
+    marker-yv: yv-n
+  - type: text
+    text: .
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Il se souvient toujours ╵de son alliance.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: et il a conclu avec lui ╵une alliance éternelle.
+      text: '6'
+  - type: text
+    text: Il a manifesté ╵sa puissance à son peuple ╵en agissant pour lui
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: quand il lui a donné ╵le pays d’autres peuples.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: C’est un Dieu saint et redoutable.
+      text: '7'
+  - type: text
+    text: Tout ce qu’il fait témoigne ╵qu’il est fidèle et juste ;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: tous ses commandements ╵sont dignes de confiance ;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: ils sont bien établis ╵pour toute éternité,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et fondés sur la vérité ╵et la droiture
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '111.8 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Autre traduction : '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: et destinés à être obéis avec vérité et droiture.
+    marker-yv: yv-n
+  - type: text
+    text: .
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: Il a accordé la délivrance à son peuple,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et il a conclu avec lui ╵une alliance éternelle.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: C’est un Dieu saint et redoutable.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: La sagesse commence ╵par la crainte de l’Eternel
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '111.10 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: Voir Jb 28.28 ; Pr 1.7 ; 9.10.
+    marker-yv: yv-n
+  - type: text
+    text: .
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Qui observe ses lois ╵a une saine intelligence.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Sa louange subsiste ╵jusqu’en l’éternité.

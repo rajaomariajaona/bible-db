@@ -1,625 +1,661 @@
-document_id: DEU.34,59
+document_id: DEU.34
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: The Death of Moses
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: The Death of Moses
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Then Moses went up from the plains of Moab '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: 'Then Moses went up from the plains of Moab '
+        text: 'See '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Num. 27:12
-      marker-yv: yv-n
-    - type: text
-      text: 'to Mount Nebo, to the top of Pisgah, which is opposite Jericho. And the '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' showed him all the land, Gilead as far as Dan, '
-  '10':
+        text: Num. 27:12
+      metadata:
+        usfm: NUM.27.12
+    marker-yv: yv-n
+  - type: text
+    text: 'to Mount Nebo, to the top of Pisgah, which is opposite Jericho. And the '
   - type: usfm
-    marker: p
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' showed him all the land, Gilead as far as Dan, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'all Naphtali, the land of Ephraim and Manasseh, all the land of Judah '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: 'And there has not '
+        text: 'See ch. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 18:15
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '18'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'arisen a prophet since in Israel like Moses, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 5:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 33:11
-      marker-yv: yv-n
-    - type: text
-      text: 'whom the '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' knew face to face, '
-  '11':
+        text: 11:24
+      metadata:
+        usfm: DEU.11.24
+    marker-yv: yv-n
+  - type: text
+    text: 'as far as the western sea, '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1:7
+      metadata:
+        usfm: DEU.1.7
+    marker-yv: yv-n
+  - type: text
+    text: 'the Negeb, and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 13:12
+      metadata:
+        usfm: GEN.13.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:17
+      metadata:
+        usfm: GEN.19.17
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '25'
+      metadata:
+        usfm: GEN.19.25
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '28'
+      metadata:
+        usfm: GEN.19.28
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '29'
+      metadata:
+        usfm: GEN.19.29
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Sam. 18:23
+      metadata:
+        usfm: 2SA.18.23
+    marker-yv: yv-n
+  - type: text
+    text: 'the Plain, that is, the Valley of Jericho '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Judg. 1:16
+      metadata:
+        usfm: JDG.1.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 3:13
+      metadata:
+        usfm: JDG.3.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Chr. 28:15
+      metadata:
+        usfm: 2CH.28.15
+    marker-yv: yv-n
+  - type: text
+    text: 'the city of palm trees, as far as '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 14:2
+      metadata:
+        usfm: GEN.14.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:22
+      metadata:
+        usfm: GEN.19.22
+    marker-yv: yv-n
+  - type: text
+    text: 'Zoar. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'And the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' said to him, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 12:7
+      metadata:
+        usfm: GEN.12.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 50:24
+      metadata:
+        usfm: GEN.50.24
+    marker-yv: yv-n
+  - type: text
+    text: '“This is the land of which I swore to Abraham, to Isaac, and to Jacob, ‘I will give it to your offspring.’ '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 3:27
+      metadata:
+        usfm: DEU.3.27
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 32:52
+      metadata:
+        usfm: DEU.32.52
+    marker-yv: yv-n
+  - type: text
+    text: 'I have let you see it with your eyes, but '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1:37
+      metadata:
+        usfm: DEU.1.37
+    marker-yv: yv-n
+  - type: text
+    text: 'you shall not go over there.” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'So Moses the servant of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' died there in the land of Moab, according to the word of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ', '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'and he buried him in the valley in the land of Moab opposite Beth-peor; but '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jude 9
+      metadata:
+        usfm: JUD.1.9
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'no one knows the place of his burial to this day. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 31:2
+      metadata:
+        usfm: DEU.31.2
+    marker-yv: yv-n
+  - type: text
+    text: 'Moses was 120 years old when he died. '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 27:1
+      metadata:
+        usfm: GEN.27.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 48:10
+      metadata:
+        usfm: GEN.48.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Josh. 14:10
+      metadata:
+        usfm: JOS.14.10
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '11'
+      metadata:
+        usfm: JOS.14.11
     - type: text
-      text: 'none like him for all '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:34
-      marker-yv: yv-n
-    - type: text
-      text: 'the signs and the wonders that the '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: 1 Sam. 3:2
+      metadata:
+        usfm: 1SA.3.2
     - type: text
-      text: ' sent him to do in the land of Egypt, to Pharaoh and to all his servants and to all his land, '
-  '12':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:15
+      metadata:
+        usfm: 1SA.4.15
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'His eye was undimmed, and his vigor unabated. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'And the people of Israel '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '12'
+        text: Num. 20:29
+      metadata:
+        usfm: NUM.20.29
     - type: text
-      text: and for all the mighty power and all the great deeds of terror that Moses did in the sight of all Israel.
-  '2':
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 50:3
+      metadata:
+        usfm: GEN.50.3
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: wept for Moses in the plains of Moab thirty days. Then the days of weeping and mourning for Moses were ended.
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'And Joshua the son of Nun was full of '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '2'
+        text: Ex. 28:3
+      metadata:
+        usfm: EXO.28.3
     - type: text
-      text: 'all Naphtali, the land of Ephraim and Manasseh, all the land of Judah '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 11:24
-      marker-yv: yv-n
-    - type: text
-      text: 'as far as the western sea, '
-  '3':
+      - type: text
+        text: Isa. 11:2
+      metadata:
+        usfm: ISA.11.2
+    marker-yv: yv-n
+  - type: text
+    text: 'the spirit of wisdom, for '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '3'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1:7
-      marker-yv: yv-n
-    - type: text
-      text: 'the Negeb, and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 13:12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:17
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '25'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '28'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '29'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Sam. 18:23
-      marker-yv: yv-n
-    - type: text
-      text: 'the Plain, that is, the Valley of Jericho '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Judg. 1:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 3:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Chr. 28:15
-      marker-yv: yv-n
-    - type: text
-      text: 'the city of palm trees, as far as '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 14:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:22
-      marker-yv: yv-n
-    - type: text
-      text: 'Zoar. '
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'And the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' said to him, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 12:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 50:24
-      marker-yv: yv-n
-    - type: text
-      text: '“This is the land of which I swore to Abraham, to Isaac, and to Jacob, ‘I will give it to your offspring.’ '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 3:27
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 32:52
-      marker-yv: yv-n
-    - type: text
-      text: 'I have let you see it with your eyes, but '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1:37
-      marker-yv: yv-n
-    - type: text
-      text: 'you shall not go over there.” '
-  '5':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: 'So Moses the servant of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' died there in the land of Moab, according to the word of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
+        text: Num. 27:18
+      metadata:
+        usfm: NUM.27.18
     - type: text
       text: ', '
-  '6':
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '23'
+      metadata:
+        usfm: NUM.27.23
+    marker-yv: yv-n
+  - type: text
+    text: 'Moses had laid his hands on him. So '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '6'
-    - type: text
-      text: 'and he buried him in the valley in the land of Moab opposite Beth-peor; but '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jude 9
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'no one knows the place of his burial to this day. '
-  '7':
+        text: Josh. 1:17
+      metadata:
+        usfm: JOS.1.17
+    marker-yv: yv-n
+  - type: text
+    text: 'the people of Israel obeyed him and did as the '
   - type: usfm
-    marker: p
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' had commanded Moses. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'And there has not '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '7'
+        text: '[ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 31:2
-      marker-yv: yv-n
+      - type: text
+        text: 18:15
+      metadata:
+        usfm: DEU.18.15
     - type: text
-      text: 'Moses was 120 years old when he died. '
+      text: ', '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 27:1
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 48:10
+        text: '18'
+      metadata:
+        usfm: DEU.18.18
+    - type: usfm
+      marker: xta
+      children:
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 14:10
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '11'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Sam. 3:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:15
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'His eye was undimmed, and his vigor unabated. '
-  '8':
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'arisen a prophet since in Israel like Moses, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '8'
-    - type: text
-      text: 'And the people of Israel '
+        text: 'ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Num. 20:29
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 50:3
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: 5:4
+      metadata:
+        usfm: DEU.5.4
     - type: text
-      text: wept for Moses in the plains of Moab thirty days. Then the days of weeping and mourning for Moses were ended.
-  '9':
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 33:11
+      metadata:
+        usfm: EXO.33.11
+    marker-yv: yv-n
+  - type: text
+    text: 'whom the '
   - type: usfm
-    marker: p
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' knew face to face, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'none like him for all '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '9'
-    - type: text
-      text: 'And Joshua the son of Nun was full of '
+        text: 'See ch. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 28:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 11:2
-      marker-yv: yv-n
-    - type: text
-      text: 'the spirit of wisdom, for '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Num. 27:18
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '23'
-      marker-yv: yv-n
-    - type: text
-      text: 'Moses had laid his hands on him. So '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 1:17
-      marker-yv: yv-n
-    - type: text
-      text: 'the people of Israel obeyed him and did as the '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: 4:34
+      metadata:
+        usfm: DEU.4.34
+    marker-yv: yv-n
+  - type: text
+    text: 'the signs and the wonders that the '
+  - type: usfm
+    marker: nd
+    children:
     - type: text
-      text: ' had commanded Moses. '
+      text: Lord
+  - type: text
+    text: ' sent him to do in the land of Egypt, to Pharaoh and to all his servants and to all his land, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: and for all the mighty power and all the great deeds of terror that Moses did in the sight of all Israel.

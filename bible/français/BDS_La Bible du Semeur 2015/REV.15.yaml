@@ -1,237 +1,228 @@
-document_id: REV.15,21
+document_id: REV.15
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Le signe des sept derniers fléaux
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Le signe des sept derniers fléaux
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Puis je vis dans le ciel un autre signe grandiose qui me remplit d’étonnement : sept anges portant sept fléaux, les sept derniers par lesquels se manifeste la colère de Dieu. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'Je vis aussi comme une mer cristalline mêlée de feu. Ceux qui avaient vaincu la bête, son image et le nombre de son nom se tenaient sur la mer de cristal. S’accompagnant de harpes divines, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: ils chantaient le cantique de Moïse
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: 'Puis je vis dans le ciel un autre signe grandiose qui me remplit d’étonnement : sept anges portant sept fléaux, les sept derniers par lesquels se manifeste la colère de Dieu. '
-  '2':
-  - type: usfm
-    marker: p
-    children:
+        text: '15.3 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: 'Je vis aussi comme une mer cristalline mêlée de feu. Ceux qui avaient vaincu la bête, son image et le nombre de son nom se tenaient sur la mer de cristal. S’accompagnant de harpes divines, '
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: ils chantaient le cantique de Moïse
-    - type: usfm
-      marker: f
-      children:
+        text: 'Voir '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '15.3 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Voir '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ex 15
-        - type: text
-          text: .
-      marker-yv: yv-n
-    - type: text
-      text: ', le serviteur de Dieu, et le cantique de l’Agneau. Ils chantaient :'
+          text: Ex 15
+        metadata:
+          usfm: EXO.15
+      - type: text
+        text: .
+    marker-yv: yv-n
+  - type: text
+    text: ', le serviteur de Dieu, et le cantique de l’Agneau. Ils chantaient :'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Seigneur, Dieu, Tout-Puissant,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: tes œuvres sont grandes et admirables.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Roi de tous les peuples,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: ce que tu fais est juste
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et conforme à la vérité !
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Seigneur, Dieu, Tout-Puissant,
+      text: '4'
+  - type: text
+    text: Qui oserait, Seigneur,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: refuser de te craindre
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et de te rendre gloire ?
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Car toi seul tu es saint ;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: tous les peuples viendront
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: pour se prosterner devant toi,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: car il deviendra manifeste
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: que tes actions sont justes.
+- type: usfm
+  marker: ms1
+  children:
+  - type: text
+    text: Les sept coupes de la colère de Dieu
   - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: tes œuvres sont grandes et admirables.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Roi de tous les peuples,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: ce que tu fais est juste
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et conforme à la vérité !
-  '4':
-  - type: usfm
-    marker: q1
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '4'
-    - type: text
-      text: Qui oserait, Seigneur,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: refuser de te craindre
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et de te rendre gloire ?
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Car toi seul tu es saint ;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: tous les peuples viendront
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: pour se prosterner devant toi,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: car il deviendra manifeste
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: que tes actions sont justes.
-  - type: usfm
-    marker: ms1
-    children:
-    - type: text
-      text: Les sept coupes de la colère de Dieu
+        text: '15.5 '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '15.5 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Voir '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Es 6.4
-        - type: text
-          text: .
-      marker-yv: yv-n
-    marker-yv: yv-h
-  '5':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: Après cela je vis s’ouvrir dans le ciel le Temple qui abritait le tabernacle du témoignage.
-  '6':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: Les sept anges porteurs des sept fléaux sortirent du Temple. Ils étaient vêtus de tuniques d’un lin pur, éclatant, et leur taille était serrée par une ceinture d’or.
-  '7':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: 'L’un des quatre êtres vivants remit aux sept anges sept coupes d’or remplies de la colère du Dieu qui vit éternellement. '
-  '8':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: Alors la gloire et la puissance de Dieu remplirent le Temple de fumée
-    - type: usfm
-      marker: f
-      children:
+        text: 'Voir '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '15.8 '
+          text: Es 6.4
+        metadata:
+          usfm: ISA.6.4
+      - type: text
+        text: .
+    marker-yv: yv-n
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: Après cela je vis s’ouvrir dans le ciel le Temple qui abritait le tabernacle du témoignage.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: Les sept anges porteurs des sept fléaux sortirent du Temple. Ils étaient vêtus de tuniques d’un lin pur, éclatant, et leur taille était serrée par une ceinture d’or.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'L’un des quatre êtres vivants remit aux sept anges sept coupes d’or remplies de la colère du Dieu qui vit éternellement. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: Alors la gloire et la puissance de Dieu remplirent le Temple de fumée
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '15.8 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Comparer '
       - type: usfm
-        marker: ft
+        marker: ref
         children:
         - type: text
-          text: 'Comparer '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ap 8
+          text: Ap 8
+        metadata:
+          usfm: REV.8
+      - type: text
+        text: ' et '
+      - type: usfm
+        marker: ref
+        children:
         - type: text
-          text: ' et '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: '9'
-        - type: text
-          text: . Les fléaux rappellent les plaies d’Egypte.
-      marker-yv: yv-n
-    - type: text
-      text: ', en sorte que personne ne put y pénétrer tant que les sept fléaux, déclenchés par les sept anges, ne s’étaient pas accomplis.'
+          text: '9'
+        metadata:
+          usfm: REV.9
+      - type: text
+        text: . Les fléaux rappellent les plaies d’Egypte.
+    marker-yv: yv-n
+  - type: text
+    text: ', en sorte que personne ne put y pénétrer tant que les sept fléaux, déclenchés par les sept anges, ne s’étaient pas accomplis.'

@@ -1,329 +1,334 @@
-document_id: JON.2,93
+document_id: JON.2
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Jonas dans le ventre d’un poisson. Prière et délivrance
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 1-11: cf. Mt 12:38-40. És 38:9, etc. Da 4:37.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Jonas dans le ventre d’un poisson. Prière et délivrance
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'L’Éternel fit venir un grand poisson pour engloutir Jonas, et Jonas fut dans le ventre du poisson '
   - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 1-11: cf. Mt 12:38-40. És 38:9, etc. Da 4:37.'
-    marker-yv: yv-h
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: 'L’Éternel fit venir un grand poisson pour engloutir Jonas, et Jonas fut dans le ventre du poisson '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mt 12:40
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 16:4
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lu 11:30
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'trois jours et trois nuits. '
-  '10':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
+        text: Mt 12:40
+      metadata:
+        usfm: MAT.12.40
     - type: text
-      text: 'Pour moi, je t’offrirai des sacrifices avec un cri d’actions de '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps 50:14
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '23'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 116:17
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Os 14:3
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hé 13:15
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: 16:4
+      metadata:
+        usfm: MAT.16.4
     - type: text
-      text: grâces,
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lu 11:30
+      metadata:
+        usfm: LUK.11.30
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'trois jours et trois nuits. '
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: 'J’accomplirai les vœux que j’ai faits:'
+      text: '2'
+  - type: text
+    text: 'Jonas, dans le ventre du poisson, pria l’Éternel, son Dieu. '
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'Il dit:'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps 3:9
       - type: text
-        text: .
-      marker-yv: yv-n
+        text: Ps 120:1
+      metadata:
+        usfm: PSA.120.1
     - type: text
-      text: Le salut vient de l’Éternel.
-  '11':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: Dans ma détresse, j’ai invoqué l’Éternel,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et il m’a exaucé;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Du sein du séjour des morts j’ai crié,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et tu as entendu ma voix.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: Tu m’as jeté dans l’abîme, dans le cœur de la mer,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et les courants d’eau m’ont environné;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Toutes tes '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
+        text: Ps 42:8
+      metadata:
+        usfm: PSA.42.8
     - type: text
-      text: L’Éternel parla au poisson, et le poisson vomit Jonas sur la terre.
-  '2':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: vagues et tous tes flots ont passé sur moi.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'Je disais: Je suis chassé loin de ton regard!'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Mais je verrai encore ton saint temple.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: Les eaux m’ont couvert jusqu’à m’ôter la vie,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: L’abîme m’a enveloppé,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Les roseaux ont entouré ma tête.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: Je suis descendu jusqu’aux racines des montagnes,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Les barres de la terre m’enfermaient pour toujours;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Mais tu m’as fait remonter vivant de la fosse,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Éternel, mon Dieu!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: Quand mon âme était abattue au-dedans de moi,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Je me suis souvenu de l’Éternel,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et ma prière est parvenue jusqu’à toi,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Dans ton saint temple.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: Ceux qui s’attachent à de vaines idoles
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Éloignent d’eux la miséricorde.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'Pour moi, je t’offrirai des sacrifices avec un cri d’actions de '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '2'
+        text: Ps 50:14
+      metadata:
+        usfm: PSA.50.14
     - type: text
-      text: 'Jonas, dans le ventre du poisson, pria l’Éternel, son Dieu. '
-  '3':
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '23'
+      metadata:
+        usfm: PSA.50.23
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 116:17
+      metadata:
+        usfm: PSA.116.17
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Os 14:3
+      metadata:
+        usfm: HOS.14.3
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hé 13:15
+      metadata:
+        usfm: HEB.13.15
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: grâces,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'J’accomplirai les vœux que j’ai faits:'
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '3'
+        text: Ps 3:9
+      metadata:
+        usfm: PSA.3.9
     - type: text
-      text: 'Il dit:'
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: Le salut vient de l’Éternel.
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps 120:1
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: Dans ma détresse, j’ai invoqué l’Éternel,
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Et il m’a exaucé;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Du sein du séjour des morts j’ai crié,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Et tu as entendu ma voix.
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: Tu m’as jeté dans l’abîme, dans le cœur de la mer,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Et les courants d’eau m’ont environné;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'Toutes tes '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps 42:8
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: vagues et tous tes flots ont passé sur moi.
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: 'Je disais: Je suis chassé loin de ton regard!'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Mais je verrai encore ton saint temple.
-  '6':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: Les eaux m’ont couvert jusqu’à m’ôter la vie,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: L’abîme m’a enveloppé,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Les roseaux ont entouré ma tête.
-  '7':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: Je suis descendu jusqu’aux racines des montagnes,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Les barres de la terre m’enfermaient pour toujours;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Mais tu m’as fait remonter vivant de la fosse,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Éternel, mon Dieu!
-  '8':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: Quand mon âme était abattue au-dedans de moi,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Je me suis souvenu de l’Éternel,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Et ma prière est parvenue jusqu’à toi,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Dans ton saint temple.
-  '9':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: Ceux qui s’attachent à de vaines idoles
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Éloignent d’eux la miséricorde.
+      text: '11'
+  - type: text
+    text: L’Éternel parla au poisson, et le poisson vomit Jonas sur la terre.

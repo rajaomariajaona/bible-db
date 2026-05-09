@@ -1,31 +1,26 @@
-document_id: PSA.117,96
+document_id: PSA.117
 type_code: plt
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Fiantsoana izao firenena rehetra izao hidera an'i Jehovah
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Fiantsoana izao firenena rehetra izao hidera an'i Jehovah
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Miderà an''i Jehovah ry firenena rehetra; Miderà Azy, ry olona rehetra. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
     - type: text
-      text: 'Miderà an''i Jehovah ry firenena rehetra; Miderà Azy, ry olona rehetra. '
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: Fa lehibe ny famindram-pony amintsika; Ary mandrakizay ny fahamarinan'i Jehovah. Haleloia.
+      text: '2'
+  - type: text
+    text: Fa lehibe ny famindram-pony amintsika; Ary mandrakizay ny fahamarinan'i Jehovah. Haleloia.

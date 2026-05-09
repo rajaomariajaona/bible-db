@@ -1,453 +1,484 @@
-document_id: PSA.20,59
+document_id: PSA.20
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: 'Trust in the Name of the '
   - type: usfm
-    marker: s1
+    marker: nd
     children:
     - type: text
-      text: 'Trust in the Name of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' Our God'
-    marker-yv: yv-h
+      text: Lord
+  - type: text
+    text: ' Our God'
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: To the choirmaster. A Psalm of David.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: d
+    marker: vlbl
     children:
     - type: text
-      text: To the choirmaster. A Psalm of David.
+      text: '1'
+  - type: text
+    text: 'May the '
   - type: usfm
-    marker: q1
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: 'May the '
+        text: '['
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: Gen. 35:3
+      metadata:
+        usfm: GEN.35.3
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: answer you in the day of trouble!
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'May '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 18:10
+      metadata:
+        usfm: PRO.18.10
+    marker-yv: yv-n
+  - type: text
+    text: 'the name of the God of Jacob '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 59:1
+      metadata:
+        usfm: PSA.59.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 69:29
+      metadata:
+        usfm: PSA.69.29
+    marker-yv: yv-n
+  - type: text
+    text: protect you!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'May he send you help from '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 73:17
+      metadata:
+        usfm: PSA.73.17
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Chr. 20:8
+      metadata:
+        usfm: 2CH.20.8
+    marker-yv: yv-n
+  - type: text
+    text: the sanctuary
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and give you support from '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 128:5
+      metadata:
+        usfm: PSA.128.5
+    marker-yv: yv-n
+  - type: text
+    text: Zion!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'May he '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 10:4
+      metadata:
+        usfm: ACT.10.4
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: remember all your offerings
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and regard with favor your burnt sacrifices! '
+  - type: usfm
+    marker: qs
+    children:
+    - type: text
+      text: Selah
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'May he '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 21:2
+      metadata:
+        usfm: PSA.21.2
+    marker-yv: yv-n
+  - type: text
+    text: grant you your heart’s desire
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and fulfill all your plans!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'May we shout for joy over '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 9:14
+      metadata:
+        usfm: PSA.9.14
+    marker-yv: yv-n
+  - type: text
+    text: your salvation,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and in the name of our God set up our '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 60:4
+      metadata:
+        usfm: PSA.60.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Song 6:4
+      metadata:
+        usfm: SNG.6.4
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '10'
+      metadata:
+        usfm: SNG.6.10
+    marker-yv: yv-n
+  - type: text
+    text: banners!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'May the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' fulfill all your petitions!'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'Now I know that the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' saves his anointed;'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: he will answer him from his holy heaven
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'with '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 28:8
+      metadata:
+        usfm: PSA.28.8
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the saving might of his right hand.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'Some trust in '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 31:1
+      metadata:
+        usfm: ISA.31.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 36:9
+      metadata:
+        usfm: ISA.36.9
+    marker-yv: yv-n
+  - type: text
+    text: 'chariots and some in '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 21:31
+      metadata:
+        usfm: PRO.21.31
+    marker-yv: yv-n
+  - type: text
+    text: horses,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 35:3
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+      - type: text
+        text: 1 Sam. 17:45
+      metadata:
+        usfm: 1SA.17.45
     - type: text
-      text: answer you in the day of trouble!
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Chr. 32:8
+      metadata:
+        usfm: 2CH.32.8
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'but we trust in the name of the '
   - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: 'May '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 18:10
-      marker-yv: yv-n
-    - type: text
-      text: 'the name of the God of Jacob '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 59:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 69:29
-      marker-yv: yv-n
-    - type: text
-      text: protect you!
-  '2':
+      text: Lord
+  - type: text
+    text: ' our God.'
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'May he send you help from '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 73:17
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Chr. 20:8
-      marker-yv: yv-n
-    - type: text
-      text: the sanctuary
-  - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'and give you support from '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 128:5
-      marker-yv: yv-n
-    - type: text
-      text: Zion!
-  '3':
+      text: '8'
+  - type: text
+    text: They collapse and fall,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: but we rise and stand upright.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'May he '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 10:4
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: remember all your offerings
-  - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'and regard with favor your burnt sacrifices! '
-    - type: usfm
-      marker: qs
-      children:
-      - type: text
-        text: Selah
-  '4':
+      text: '9'
+  - type: text
+    text: 'O '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'May he '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 21:2
-      marker-yv: yv-n
-    - type: text
-      text: grant you your heart’s desire
-  - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: and fulfill all your plans!
-  '5':
+      text: Lord
+  - type: text
+    text: ', save '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: 'May we shout for joy over '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 9:14
-      marker-yv: yv-n
-    - type: text
-      text: your salvation,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and in the name of our God set up our '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 60:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Song 6:4
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '10'
-      marker-yv: yv-n
-    - type: text
-      text: banners!
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'May the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' fulfill all your petitions!'
-  '6':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'Now I know that the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' saves his anointed;'
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: he will answer him from his holy heaven
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'with '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 28:8
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the saving might of his right hand.
-  '7':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: 'Some trust in '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 31:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 36:9
-      marker-yv: yv-n
-    - type: text
-      text: 'chariots and some in '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 21:31
-      marker-yv: yv-n
-    - type: text
-      text: horses,
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Sam. 17:45
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Chr. 32:8
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'but we trust in the name of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' our God.'
-  '8':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: They collapse and fall,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: but we rise and stand upright.
-  '9':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: 'O '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ', save '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 48:2
-      marker-yv: yv-n
-    - type: text
-      text: the king!
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: May he answer us when we call.
+        text: Ps. 48:2
+      metadata:
+        usfm: PSA.48.2
+    marker-yv: yv-n
+  - type: text
+    text: the king!
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: May he answer us when we call.

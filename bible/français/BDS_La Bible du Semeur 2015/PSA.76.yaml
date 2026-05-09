@@ -1,335 +1,326 @@
-document_id: PSA.76,21
+document_id: PSA.76
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Dieu est vainqueur
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Dieu est vainqueur
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: Au chef de chœur. Un psaume d’Asaph
   - type: usfm
-    marker: d
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: Au chef de chœur. Un psaume d’Asaph
+        text: '76.1 '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '76.1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Voir note '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: '50.1'
-        - type: text
-          text: '. La version grecque ajoute : '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: contre l’Assyrien.
-      marker-yv: yv-n
-    - type: text
-      text: . A chanter avec accompagnement d’instruments à cordes.
-  '10':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: quand toi, ô Dieu, tu interviens ╵pour exercer le jugement
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et pour apporter le salut ╵à tous les humbles de la terre.
-  - type: usfm
-    marker: q4
-    children:
-    - type: text
-      text: Pause
-  '11':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '11'
-    - type: text
-      text: Car même la fureur des hommes ╵tournera à ta gloire
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et tu t’attacheras ╵les rescapés de ta colère
-    - type: usfm
-      marker: f
-      children:
+        text: 'Voir note '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '76.11 '
+          text: '50.1'
+        metadata:
+          usfm: PSA.50.1
+      - type: text
+        text: '. La version grecque ajoute : '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: contre l’Assyrien.
+    marker-yv: yv-n
+  - type: text
+    text: . A chanter avec accompagnement d’instruments à cordes.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: Dieu s’est fait connaître en Juda,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: son nom est grand en Israël.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: Sa résidence est à Salem
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '76.3 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: Ancien nom de Jérusalem (
       - type: usfm
-        marker: ft
+        marker: ref
         children:
         - type: text
-          text: 'Hébreu de sens incertain. Autre traduction : '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: et tu te pareras des restes de (leur ?) fureur.
-      marker-yv: yv-n
-    - type: text
-      text: .
-  '12':
-  - type: usfm
-    marker: q1
-    children:
+          text: Gn 14.18
+        metadata:
+          usfm: GEN.14.18
+      - type: text
+        text: ') choisi ici peut-être à cause de son assonance avec '
     - type: usfm
-      marker: vlbl
+      marker: fqa
       children:
       - type: text
-        text: '12'
-    - type: text
-      text: Vous tous qui entourez ╵l’Eternel votre Dieu,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: faites des vœux ╵et accomplissez-les !
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Apportez vos présents ╵à ce Dieu redoutable.
-  '13':
-  - type: usfm
-    marker: q1
-    children:
+        text: 'shalom, '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '13'
-    - type: text
-      text: Il brise l’esprit résolu des princes,
+        text: « paix ».
+    marker-yv: yv-n
+  - type: text
+    text: ','
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et sa demeure est en Sion.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: il se rend redoutable ╵pour les rois de la terre.
-  '2':
+      text: '4'
+  - type: text
+    text: C’est là qu’il a brisé ╵les flèches fulgurantes,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: les boucliers, les glaives, ╵toutes armes de guerre.
+- type: usfm
+  marker: q4
+  children:
+  - type: text
+    text: Pause
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: Tu es resplendissant, ╵plus éclatant
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: que les monts éternels
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: Dieu s’est fait connaître en Juda,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: son nom est grand en Israël.
-  '3':
-  - type: usfm
-    marker: q1
-    children:
+        text: '76.5 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: Sa résidence est à Salem
+        text: 'D’après l’ancienne version grecque. Texte hébreu traditionnel : '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '76.3 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: Ancien nom de Jérusalem (
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Gn 14.18
-        - type: text
-          text: ') choisi ici peut-être à cause de son assonance avec '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'shalom, '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: « paix ».
-      marker-yv: yv-n
-    - type: text
-      text: ','
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et sa demeure est en Sion.
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: fqa
       children:
       - type: text
-        text: '4'
-    - type: text
-      text: C’est là qu’il a brisé ╵les flèches fulgurantes,
+        text: les montagnes de butin.
+    marker-yv: yv-n
+  - type: text
+    text: .
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: les boucliers, les glaives, ╵toutes armes de guerre.
+      text: '6'
+  - type: text
+    text: Tous les vaillants guerriers ╵ont été dépouillés,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: ils se sont endormis ╵de leur dernier sommeil.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Tous ces valeureux hommes ╵n’ont pas su retrouver ╵la vigueur de leurs mains.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q4
+    marker: vlbl
     children:
     - type: text
-      text: Pause
-  '5':
+      text: '7'
+  - type: text
+    text: Dieu de Jacob, à ta menace
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: les chars et les chevaux ╵se sont figés sur place.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: Que tu es redoutable !
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Qui tiendrait devant toi ╵quand ta colère éclate ?
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: Du ciel, tu fais entendre ton verdict,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et la terre, effrayée, ╵se tient dans le silence
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: quand toi, ô Dieu, tu interviens ╵pour exercer le jugement
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et pour apporter le salut ╵à tous les humbles de la terre.
+- type: usfm
+  marker: q4
+  children:
+  - type: text
+    text: Pause
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: Car même la fureur des hommes ╵tournera à ta gloire
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et tu t’attacheras ╵les rescapés de ta colère
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: Tu es resplendissant, ╵plus éclatant
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: que les monts éternels
+        text: '76.11 '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '76.5 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'D’après l’ancienne version grecque. Texte hébreu traditionnel : '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: les montagnes de butin.
-      marker-yv: yv-n
-    - type: text
-      text: .
-  '6':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '6'
-    - type: text
-      text: Tous les vaillants guerriers ╵ont été dépouillés,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: ils se sont endormis ╵de leur dernier sommeil.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Tous ces valeureux hommes ╵n’ont pas su retrouver ╵la vigueur de leurs mains.
-  '7':
-  - type: usfm
-    marker: q1
-    children:
+        text: 'Hébreu de sens incertain. Autre traduction : '
     - type: usfm
-      marker: vlbl
+      marker: fqa
       children:
       - type: text
-        text: '7'
-    - type: text
-      text: Dieu de Jacob, à ta menace
+        text: et tu te pareras des restes de (leur ?) fureur.
+    marker-yv: yv-n
+  - type: text
+    text: .
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: les chars et les chevaux ╵se sont figés sur place.
-  '8':
+      text: '12'
+  - type: text
+    text: Vous tous qui entourez ╵l’Eternel votre Dieu,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: faites des vœux ╵et accomplissez-les !
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Apportez vos présents ╵à ce Dieu redoutable.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: Que tu es redoutable !
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Qui tiendrait devant toi ╵quand ta colère éclate ?
-  '9':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: Du ciel, tu fais entendre ton verdict,
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: et la terre, effrayée, ╵se tient dans le silence
+      text: '13'
+  - type: text
+    text: Il brise l’esprit résolu des princes,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: il se rend redoutable ╵pour les rois de la terre.

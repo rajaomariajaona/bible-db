@@ -1,1597 +1,1737 @@
-document_id: ROM.12,59
+document_id: ROM.12
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: A Living Sacrifice
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: A Living Sacrifice
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: 1 Cor. 1:10
+      metadata:
+        usfm: 1CO.1.10
     - type: text
-      text: ' '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 1:10
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Cor. 10:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 4:1
-      marker-yv: yv-n
+        text: 2 Cor. 10:1
+      metadata:
+        usfm: 2CO.10.1
     - type: text
-      text: I appeal to you therefore, brothers,
+      text: '; '
     - type: usfm
-      marker: f
+      marker: ref
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '12:1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: brothers and sisters
-      marker-yv: yv-n
-    - type: text
-      text: ' by the mercies of God, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 6:13
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '16'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '19'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 50:13
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '14'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 6:20
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']; See 1 Pet. 2:5'
-      marker-yv: yv-n
-    - type: text
-      text: 'to present your bodies '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 10:20
-      marker-yv: yv-n
-    - type: text
-      text: as a living sacrifice, holy and acceptable to God, which is your spiritual worship.
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '12:1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: your rational service
-      marker-yv: yv-n
-    - type: text
-      text: ' '
-  '10':
+        text: Eph. 4:1
+      metadata:
+        usfm: EPH.4.1
+    marker-yv: yv-n
+  - type: text
+    text: I appeal to you therefore, brothers,
   - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '10'
+        text: '12:1 '
     - type: usfm
-      marker: x
+      marker: ft
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 13:1
-      marker-yv: yv-n
-    - type: text
-      text: 'Love one another with brotherly affection. '
+      - type: text
+        text: 'Or '
     - type: usfm
-      marker: x
+      marker: fqa
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 13:7
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Phil. 2:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 2:17
-      marker-yv: yv-n
-    - type: text
-      text: 'Outdo one another in showing honor. '
-  '11':
+        text: brothers and sisters
+    marker-yv: yv-n
+  - type: text
+    text: ' by the mercies of God, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '11'
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 6:13
+      metadata:
+        usfm: ROM.6.13
     - type: text
-      text: 'Do not be slothful in zeal, '
+      text: ', '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 18:25
-      marker-yv: yv-n
-    - type: text
-      text: be fervent in spirit,
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '12:11 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: fervent in the Spirit
-      marker-yv: yv-n
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 20:19
-      marker-yv: yv-n
-    - type: text
-      text: 'serve the Lord. '
-  '12':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '12'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 5:2
-      marker-yv: yv-n
-    - type: text
-      text: 'Rejoice in hope, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 10:36
-      marker-yv: yv-n
-    - type: text
-      text: 'be patient in tribulation, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 1:14
-      marker-yv: yv-n
-    - type: text
-      text: 'be constant in prayer. '
-  '13':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '13'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 15:25
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 16:1
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '15'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Cor. 9:1
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '12'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 6:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 13:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 6:18
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'Contribute to the needs of the saints and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 25:35
-      marker-yv: yv-n
-    - type: text
-      text: seek to show hospitality.
-  '14':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '14'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 5:44
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 3:9
-      marker-yv: yv-n
-    - type: text
-      text: 'Bless those who persecute you; bless and do not curse them. '
-  '15':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '15'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 12:26
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 30:25
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 13:3
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'Rejoice with those who rejoice, weep with those who weep. '
-  '16':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '16'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 15:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Cor. 13:11
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Phil. 2:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 3:8
-      marker-yv: yv-n
+      metadata:
+        usfm: ROM.6.16
     - type: text
-      text: 'Live in harmony with one another. '
+      text: ', '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '3'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 131:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 45:5
-      marker-yv: yv-n
-    - type: text
-      text: Do not be haughty, but associate with the lowly.
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '12:16 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: give yourselves to humble tasks
-      marker-yv: yv-n
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 11:25
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 3:7
-      marker-yv: yv-n
-    - type: text
-      text: 'Never be wise in your own sight. '
-  '17':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 20:22
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 5:39
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 14:19
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'Repay no one evil for evil, but '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Cor. 8:21
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: text
-        text: 14:16
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'give thought to do what is honorable in the sight of all. '
-  '18':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
-    - type: text
-      text: 'If possible, so far as it depends on you, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 9:50
-      marker-yv: yv-n
-    - type: text
-      text: 'live peaceably with all. '
-  '19':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '19'
+      metadata:
+        usfm: ROM.6.19
     - type: text
-      text: 'Beloved, '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 20:22
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 5:39
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 14:19
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: never avenge yourselves, but leave it
+        text: '['
     - type: usfm
-      marker: f
+      marker: ref
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '12:19 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Greek '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: give place
-      marker-yv: yv-n
+      - type: text
+        text: Ps. 50:13
+      metadata:
+        usfm: PSA.50.13
     - type: text
-      text: ' to the wrath of God, for it is written, '
+      text: ', '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 10:30
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited from '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 32:35
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 94:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Thess. 4:6
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: '14'
+      metadata:
+        usfm: PSA.50.14
     - type: text
-      text: '“Vengeance is mine, I will repay, says the Lord.” '
-  '2':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 6:20
+      metadata:
+        usfm: 1CO.6.20
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']; See 1 Pet. 2:5'
+    marker-yv: yv-n
+  - type: text
+    text: 'to present your bodies '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '2'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 1:14
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 John 2:15
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: Do not be conformed to this world,
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '12:2 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Greek '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: age
-      marker-yv: yv-n
-    - type: text
-      text: ' but be transformed by '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Titus 3:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 51:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Cor. 4:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 4:23
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col. 3:10
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'the renewal of your mind, that by testing you may '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 5:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Thess. 4:3
-      marker-yv: yv-n
-    - type: text
-      text: discern what is the will of God, what is good and acceptable and perfect.
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '12:2 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: what is the good and acceptable and perfect will of God
-      marker-yv: yv-n
+        text: Heb. 10:20
+      metadata:
+        usfm: HEB.10.20
+    marker-yv: yv-n
+  - type: text
+    text: as a living sacrifice, holy and acceptable to God, which is your spiritual worship.
   - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Gifts of Grace
-    marker-yv: yv-h
-  '20':
-  - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '20'
-    - type: text
-      text: 'To the contrary, '
+        text: '12:1 '
     - type: usfm
-      marker: x
+      marker: ft
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited from '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 25:21
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '22'
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 23:4
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '5'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Kgs. 6:22
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 6:27
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: '“if your enemy is hungry, feed him; if he is thirsty, give him something to drink; for by so doing you will heap burning coals on his head.” '
-  '21':
+        text: your rational service
+    marker-yv: yv-n
+  - type: text
+    text: ' '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '21'
+        text: 1 Pet. 1:14
+      metadata:
+        usfm: 1PE.1.14
     - type: text
-      text: Do not be overcome by evil, but overcome evil with good.
-  '3':
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 John 2:15
+      metadata:
+        usfm: 1JN.2.15
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Do not be conformed to this world,
   - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
+      children:
+      - type: text
+        text: '12:2 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Greek '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: age
+    marker-yv: yv-n
+  - type: text
+    text: ' but be transformed by '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Titus 3:5
+      metadata:
+        usfm: TIT.3.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 51:10
+      metadata:
+        usfm: PSA.51.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Cor. 4:16
+      metadata:
+        usfm: 2CO.4.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eph. 4:23
+      metadata:
+        usfm: EPH.4.23
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Col. 3:10
+      metadata:
+        usfm: COL.3.10
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'the renewal of your mind, that by testing you may '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eph. 5:10
+      metadata:
+        usfm: EPH.5.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Thess. 4:3
+      metadata:
+        usfm: 1TH.4.3
+    marker-yv: yv-n
+  - type: text
+    text: discern what is the will of God, what is good and acceptable and perfect.
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '12:2 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: what is the good and acceptable and perfect will of God
+    marker-yv: yv-n
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Gifts of Grace
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'For '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1:5
+      metadata:
+        usfm: ROM.1.5
+    marker-yv: yv-n
+  - type: text
+    text: 'by the grace given to me I say to everyone among you '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '16'
+      metadata:
+        usfm: ROM.12.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 11:20
+      metadata:
+        usfm: ROM.11.20
+    marker-yv: yv-n
+  - type: text
+    text: 'not to think of himself more highly than he ought to think, but to think with sober judgment, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 7:17
+      metadata:
+        usfm: 1CO.7.17
+    marker-yv: yv-n
+  - type: text
+    text: 'each according to '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eph. 4:7
+      metadata:
+        usfm: EPH.4.7
+    marker-yv: yv-n
+  - type: text
+    text: 'the measure of faith that God has assigned. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'For '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 12:12-14
+      metadata:
+        usfm: 1CO.12.12+1CO.12.13+1CO.12.14
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eph. 4:4
+      metadata:
+        usfm: EPH.4.4
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '16'
+      metadata:
+        usfm: EPH.4.16
+    marker-yv: yv-n
+  - type: text
+    text: as in one body we have many members,
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '12:4 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Greek '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: parts
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: ; also verse 5
+    marker-yv: yv-n
+  - type: text
+    text: ' and the members do not all have the same function, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'so we, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 10:17
+      metadata:
+        usfm: 1CO.10.17
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '33'
+      metadata:
+        usfm: 1CO.10.33
+    marker-yv: yv-n
+  - type: text
+    text: 'though many, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 12:20
+      metadata:
+        usfm: 1CO.12.20
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eph. 4:13
+      metadata:
+        usfm: EPH.4.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 17:11
+      metadata:
+        usfm: JHN.17.11
+    marker-yv: yv-n
+  - type: text
+    text: 'are one body in Christ, and individually '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eph. 4:25
+      metadata:
+        usfm: EPH.4.25
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 6:15
+      metadata:
+        usfm: 1CO.6.15
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 12:27
+      metadata:
+        usfm: 1CO.12.27
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'members one of another. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 12:4
+      metadata:
+        usfm: 1CO.12.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pet. 4:10
+      metadata:
+        usfm: 1PE.4.10
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '11'
+      metadata:
+        usfm: 1PE.4.11
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 7:7
+      metadata:
+        usfm: 1CO.7.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 12:7-11
+      metadata:
+        usfm: 1CO.12.7+1CO.12.8+1CO.12.9+1CO.12.10+1CO.12.11
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'Having gifts that differ according to the grace given to us, let us use them: if '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 12:10
+      metadata:
+        usfm: 1CO.12.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 13:1
+      metadata:
+        usfm: ACT.13.1
+    marker-yv: yv-n
+  - type: text
+    text: 'prophecy, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Tim. 2:15
+      metadata:
+        usfm: 2TI.2.15
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'in proportion to our faith; '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'if '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 6:1
+      metadata:
+        usfm: ACT.6.1
+    marker-yv: yv-n
+  - type: text
+    text: 'service, in our serving; the one who teaches, in his teaching; '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'the one who exhorts, in his exhortation; the one who contributes, in generosity; '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 5:17
+      metadata:
+        usfm: 1TI.5.17
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 12:28
+      metadata:
+        usfm: 1CO.12.28
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the one who leads,
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '12:8 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: gives aid
+    marker-yv: yv-n
+  - type: text
+    text: ' with zeal; the one who does acts of mercy, with '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Cor. 9:7
+      metadata:
+        usfm: 2CO.9.7
+    marker-yv: yv-n
+  - type: text
+    text: cheerfulness.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Marks of the True Christian
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Cor. 6:6
+      metadata:
+        usfm: 2CO.6.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 1:5
+      metadata:
+        usfm: 1TI.1.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pet. 1:22
+      metadata:
+        usfm: 1PE.1.22
+    marker-yv: yv-n
+  - type: text
+    text: 'Let love be genuine. '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 97:10
+      metadata:
+        usfm: PSA.97.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 101:3
+      metadata:
+        usfm: PSA.101.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Amos 5:15
+      metadata:
+        usfm: AMO.5.15
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Thess. 5:21
+      metadata:
+        usfm: 1TH.5.21
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '22'
+      metadata:
+        usfm: 1TH.5.22
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'Abhor what is evil; hold fast to what is good. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 13:1
+      metadata:
+        usfm: HEB.13.1
+    marker-yv: yv-n
+  - type: text
+    text: 'Love one another with brotherly affection. '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 13:7
+      metadata:
+        usfm: ROM.13.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Phil. 2:3
+      metadata:
+        usfm: PHP.2.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pet. 2:17
+      metadata:
+        usfm: 1PE.2.17
+    marker-yv: yv-n
+  - type: text
+    text: 'Outdo one another in showing honor. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'Do not be slothful in zeal, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 18:25
+      metadata:
+        usfm: ACT.18.25
+    marker-yv: yv-n
+  - type: text
+    text: be fervent in spirit,
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '12:11 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: fervent in the Spirit
+    marker-yv: yv-n
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 20:19
+      metadata:
+        usfm: ACT.20.19
+    marker-yv: yv-n
+  - type: text
+    text: 'serve the Lord. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 5:2
+      metadata:
+        usfm: ROM.5.2
+    marker-yv: yv-n
+  - type: text
+    text: 'Rejoice in hope, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 10:36
+      metadata:
+        usfm: HEB.10.36
+    marker-yv: yv-n
+  - type: text
+    text: 'be patient in tribulation, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 1:14
+      metadata:
+        usfm: ACT.1.14
+    marker-yv: yv-n
+  - type: text
+    text: 'be constant in prayer. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 15:25
+      metadata:
+        usfm: ROM.15.25
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 16:1
+      metadata:
+        usfm: 1CO.16.1
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '15'
+      metadata:
+        usfm: 1CO.16.15
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Cor. 9:1
+      metadata:
+        usfm: 2CO.9.1
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '12'
+      metadata:
+        usfm: 2CO.9.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 6:10
+      metadata:
+        usfm: HEB.6.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 13:16
+      metadata:
+        usfm: HEB.13.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 6:18
+      metadata:
+        usfm: 1TI.6.18
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'Contribute to the needs of the saints and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 25:35
+      metadata:
+        usfm: MAT.25.35
+    marker-yv: yv-n
+  - type: text
+    text: seek to show hospitality.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 5:44
+      metadata:
+        usfm: MAT.5.44
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pet. 3:9
+      metadata:
+        usfm: 1PE.3.9
+    marker-yv: yv-n
+  - type: text
+    text: 'Bless those who persecute you; bless and do not curse them. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 12:26
+      metadata:
+        usfm: 1CO.12.26
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 30:25
+      metadata:
+        usfm: JOB.30.25
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 13:3
+      metadata:
+        usfm: HEB.13.3
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'Rejoice with those who rejoice, weep with those who weep. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 15:5
+      metadata:
+        usfm: ROM.15.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Cor. 13:11
+      metadata:
+        usfm: 2CO.13.11
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Phil. 2:2
+      metadata:
+        usfm: PHP.2.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:2
+      metadata:
+        usfm: PHP.4.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pet. 3:8
+      metadata:
+        usfm: 1PE.3.8
+    marker-yv: yv-n
+  - type: text
+    text: 'Live in harmony with one another. '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '3'
+      metadata:
+        usfm: ROM.12.3
     - type: text
-      text: 'For '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1:5
-      marker-yv: yv-n
-    - type: text
-      text: 'by the grace given to me I say to everyone among you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '16'
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 11:20
-      marker-yv: yv-n
+        text: Ps. 131:1
+      metadata:
+        usfm: PSA.131.1
     - type: text
-      text: 'not to think of himself more highly than he ought to think, but to think with sober judgment, '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 7:17
-      marker-yv: yv-n
-    - type: text
-      text: 'each according to '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 4:7
-      marker-yv: yv-n
-    - type: text
-      text: 'the measure of faith that God has assigned. '
-  '4':
+      - type: text
+        text: Jer. 45:5
+      metadata:
+        usfm: JER.45.5
+    marker-yv: yv-n
+  - type: text
+    text: Do not be haughty, but associate with the lowly.
   - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '4'
-    - type: text
-      text: 'For '
+        text: '12:16 '
     - type: usfm
-      marker: x
+      marker: ft
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 12:12-14
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 4:4
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '16'
-      marker-yv: yv-n
-    - type: text
-      text: as in one body we have many members,
+        text: 'Or '
     - type: usfm
-      marker: f
+      marker: fqa
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '12:4 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Greek '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: parts
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ; also verse 5
-      marker-yv: yv-n
-    - type: text
-      text: ' and the members do not all have the same function, '
-  '5':
+      - type: text
+        text: give yourselves to humble tasks
+    marker-yv: yv-n
+  - type: text
+    text: ' '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 11:25
+      metadata:
+        usfm: ROM.11.25
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 3:7
+      metadata:
+        usfm: PRO.3.7
+    marker-yv: yv-n
+  - type: text
+    text: 'Never be wise in your own sight. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 20:22
+      metadata:
+        usfm: PRO.20.22
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 5:39
+      metadata:
+        usfm: MAT.5.39
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 14:19
+      metadata:
+        usfm: MAT.14.19
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'Repay no one evil for evil, but '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Cor. 8:21
+      metadata:
+        usfm: 2CO.8.21
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: text
+      text: 14:16
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'give thought to do what is honorable in the sight of all. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: 'If possible, so far as it depends on you, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mark 9:50
+      metadata:
+        usfm: MRK.9.50
+    marker-yv: yv-n
+  - type: text
+    text: 'live peaceably with all. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: 'Beloved, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 20:22
+      metadata:
+        usfm: PRO.20.22
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 5:39
+      metadata:
+        usfm: MAT.5.39
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 14:19
+      metadata:
+        usfm: MAT.14.19
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: never avenge yourselves, but leave it
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '12:19 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Greek '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: give place
+    marker-yv: yv-n
+  - type: text
+    text: ' to the wrath of God, for it is written, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 10:30
+      metadata:
+        usfm: HEB.10.30
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'Cited from '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 32:35
+      metadata:
+        usfm: DEU.32.35
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 94:1
+      metadata:
+        usfm: PSA.94.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Thess. 4:6
+      metadata:
+        usfm: 1TH.4.6
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: '“Vengeance is mine, I will repay, says the Lord.” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: text
+    text: 'To the contrary, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'Cited from '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 25:21
+      metadata:
+        usfm: PRO.25.21
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '22'
+      metadata:
+        usfm: PRO.25.22
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 23:4
+      metadata:
+        usfm: EXO.23.4
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '5'
+      metadata:
+        usfm: EXO.23.5
     - type: text
-      text: 'so we, '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 10:17
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '33'
-      marker-yv: yv-n
+        text: 2 Kgs. 6:22
+      metadata:
+        usfm: 2KI.6.22
     - type: text
-      text: 'though many, '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 12:20
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 4:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 17:11
-      marker-yv: yv-n
-    - type: text
-      text: 'are one body in Christ, and individually '
+        text: Luke 6:27
+      metadata:
+        usfm: LUK.6.27
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 4:25
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 6:15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 12:27
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'members one of another. '
-  '6':
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: '“if your enemy is hungry, feed him; if he is thirsty, give him something to drink; for by so doing you will heap burning coals on his head.” '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 12:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 4:10
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '11'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 7:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 12:7-11
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'Having gifts that differ according to the grace given to us, let us use them: if '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 12:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 13:1
-      marker-yv: yv-n
-    - type: text
-      text: 'prophecy, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Tim. 2:15
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'in proportion to our faith; '
-  '7':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: 'if '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 6:1
-      marker-yv: yv-n
-    - type: text
-      text: 'service, in our serving; the one who teaches, in his teaching; '
-  '8':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: 'the one who exhorts, in his exhortation; the one who contributes, in generosity; '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 5:17
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 12:28
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the one who leads,
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '12:8 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: gives aid
-      marker-yv: yv-n
-    - type: text
-      text: ' with zeal; the one who does acts of mercy, with '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Cor. 9:7
-      marker-yv: yv-n
-    - type: text
-      text: cheerfulness.
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Marks of the True Christian
-    marker-yv: yv-h
-  '9':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Cor. 6:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 1:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 1:22
-      marker-yv: yv-n
-    - type: text
-      text: 'Let love be genuine. '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 97:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 101:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Amos 5:15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Thess. 5:21
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '22'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'Abhor what is evil; hold fast to what is good. '
+      text: '21'
+  - type: text
+    text: Do not be overcome by evil, but overcome evil with good.

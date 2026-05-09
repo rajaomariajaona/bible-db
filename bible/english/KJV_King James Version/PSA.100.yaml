@@ -1,167 +1,162 @@
-document_id: PSA.100,1
+document_id: PSA.100
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: A Psalm of praise.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: d
+    marker: vlbl
     children:
     - type: text
-      text: A Psalm of praise.
+      text: '1'
+  - type: text
+    text: 'Make a joyful noise unto the '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: 'Make a joyful noise unto the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: LORD
-    - type: text
-      text: ', all ye lands.'
-  '2':
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'Serve the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: LORD
-    - type: text
-      text: ' with gladness: Come before his presence with singing.'
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'Know ye that the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: LORD
-    - type: text
-      text: ' he '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: is
-    - type: text
-      text: ' God:'
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: It is
-    - type: text
-      text: ' he '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: that
-    - type: text
-      text: ' hath made us, and not we ourselves; '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: We are
-    - type: text
-      text: ' his people, and the sheep of his pasture.'
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'Enter into his gates with thanksgiving, '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: And
-    - type: text
-      text: ' into his courts with praise:'
-  - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: 'Be thankful unto him, '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: and
-    - type: text
-      text: ' bless his name.'
-  '5':
+      text: LORD
+  - type: text
+    text: ', all ye lands.'
+- type: usfm
+  marker: q2
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: 'For the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: LORD
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: is
-    - type: text
-      text: ' good; his mercy '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: is
-    - type: text
-      text: ' everlasting;'
-  - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'And his truth '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: endureth
+      text: '2'
+  - type: text
+    text: 'Serve the '
+  - type: usfm
+    marker: nd
+    children:
     - type: text
-      text: ' to all generations.'
+      text: LORD
+  - type: text
+    text: ' with gladness: Come before his presence with singing.'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'Know ye that the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: LORD
+  - type: text
+    text: ' he '
+  - type: usfm
+    marker: add
+    children:
+    - type: text
+      text: is
+  - type: text
+    text: ' God:'
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: add
+    children:
+    - type: text
+      text: It is
+  - type: text
+    text: ' he '
+  - type: usfm
+    marker: add
+    children:
+    - type: text
+      text: that
+  - type: text
+    text: ' hath made us, and not we ourselves; '
+  - type: usfm
+    marker: add
+    children:
+    - type: text
+      text: We are
+  - type: text
+    text: ' his people, and the sheep of his pasture.'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'Enter into his gates with thanksgiving, '
+  - type: usfm
+    marker: add
+    children:
+    - type: text
+      text: And
+  - type: text
+    text: ' into his courts with praise:'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'Be thankful unto him, '
+  - type: usfm
+    marker: add
+    children:
+    - type: text
+      text: and
+  - type: text
+    text: ' bless his name.'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'For the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: LORD
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: add
+    children:
+    - type: text
+      text: is
+  - type: text
+    text: ' good; his mercy '
+  - type: usfm
+    marker: add
+    children:
+    - type: text
+      text: is
+  - type: text
+    text: ' everlasting;'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'And his truth '
+  - type: usfm
+    marker: add
+    children:
+    - type: text
+      text: endureth
+  - type: text
+    text: ' to all generations.'

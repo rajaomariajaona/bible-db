@@ -1,95 +1,93 @@
-document_id: PSA.117,114
+document_id: PSA.117
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: 'Let All Peoples Praise the '
   - type: usfm
-    marker: s1
+    marker: sc
     children:
     - type: text
-      text: 'Let All Peoples Praise the '
-    - type: usfm
-      marker: sc
-      children:
-      - type: text
-        text: Lord
-    marker-yv: yv-h
+      text: Lord
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: 'Praise '
-    - type: usfm
-      marker: x
-      children:
-      - type: text
-        text: Rom. 15:11
-      marker-yv: yv-n
-    - type: text
-      text: 'the '
-    - type: usfm
-      marker: sc
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ', all you Gentiles!'
-  - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: Laud Him, all you peoples!
-  '2':
+      text: '1'
+  - type: text
+    text: 'Praise '
   - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: For His merciful kindness is great toward us,
-  - type: usfm
-    marker: q2
+    marker: x
     children:
     - type: text
-      text: 'And '
-    - type: usfm
-      marker: x
-      children:
-      - type: text
-        text: (Ps. 100:5)
-      marker-yv: yv-n
-    - type: text
-      text: 'the truth of the '
-    - type: usfm
-      marker: sc
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: endures
-    - type: text
-      text: ' forever.'
+      text: Rom. 15:11
+    marker-yv: yv-n
+  - type: text
+    text: 'the '
   - type: usfm
-    marker: q1
+    marker: sc
     children:
     - type: text
-      text: 'Praise the '
-    - type: usfm
-      marker: sc
-      children:
-      - type: text
-        text: Lord
+      text: Lord
+  - type: text
+    text: ', all you Gentiles!'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: Laud Him, all you peoples!
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
     - type: text
-      text: '!'
+      text: '2'
+  - type: text
+    text: For His merciful kindness is great toward us,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'And '
+  - type: usfm
+    marker: x
+    children:
+    - type: text
+      text: (Ps. 100:5)
+    marker-yv: yv-n
+  - type: text
+    text: 'the truth of the '
+  - type: usfm
+    marker: sc
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: it
+    children:
+    - type: text
+      text: endures
+  - type: text
+    text: ' forever.'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Praise the '
+  - type: usfm
+    marker: sc
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: '!'

@@ -1,113 +1,99 @@
-document_id: JER.45,116
+document_id: JER.45
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: A Message for Baruch
+  marker-yv: yv-h
+- type: usfm
+  marker: m
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: A Message for Baruch
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: The prophet Jeremiah gave a message to Baruch son of Neriah in the fourth year of the reign of Jehoiakim son of Josiah,
   - type: usfm
-    marker: m
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: The prophet Jeremiah gave a message to Baruch son of Neriah in the fourth year of the reign of Jehoiakim son of Josiah,
+        text: '45:1 '
     - type: usfm
-      marker: f
+      marker: ft
       children:
+      - type: text
+        text: 'The fourth year of Jehoiakim’s reign was 605 '
       - type: usfm
-        marker: fr
+        marker: sc
         children:
         - type: text
-          text: '45:1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'The fourth year of Jehoiakim’s reign was 605 '
-        - type: usfm
-          marker: sc
-          children:
-          - type: text
-            text: b.c.
-      marker-yv: yv-n
-    - type: text
-      text: ' after Baruch had written down everything Jeremiah had dictated to him. He said, '
-  '2':
+          text: b.c.
+    marker-yv: yv-n
+  - type: text
+    text: ' after Baruch had written down everything Jeremiah had dictated to him. He said, '
   - type: usfm
-    marker: m
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
     - type: text
-      text: '“This is what the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ', the God of Israel, says to you, Baruch: '
-  '3':
+      text: '2'
+  - type: text
+    text: '“This is what the '
   - type: usfm
-    marker: m
+    marker: nd
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
     - type: text
-      text: 'You have said, ‘I am overwhelmed with trouble! Haven’t I had enough pain already? And now the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' has added more! I am worn out from sighing and can find no rest.’'
-  '4':
+      text: Lord
+  - type: text
+    text: ', the God of Israel, says to you, Baruch: '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
     - type: text
-      text: '“Baruch, this is what the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' says: ‘I will destroy this nation that I built. I will uproot what I planted. '
-  '5':
+      text: '3'
+  - type: text
+    text: 'You have said, ‘I am overwhelmed with trouble! Haven’t I had enough pain already? And now the '
   - type: usfm
-    marker: p
+    marker: nd
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
     - type: text
-      text: 'Are you seeking great things for yourself? Don’t do it! I will bring great disaster upon all these people; but I will give you your life as a reward wherever you go. I, the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
+      text: Lord
+  - type: text
+    text: ' has added more! I am worn out from sighing and can find no rest.’'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
     - type: text
-      text: ', have spoken!’”'
+      text: '4'
+  - type: text
+    text: '“Baruch, this is what the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' says: ‘I will destroy this nation that I built. I will uproot what I planted. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'Are you seeking great things for yourself? Don’t do it! I will bring great disaster upon all these people; but I will give you your life as a reward wherever you go. I, the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ', have spoken!’”'

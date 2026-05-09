@@ -1,743 +1,782 @@
-document_id: PSA.29,59
+document_id: PSA.29
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: 'Ascribe to the '
   - type: usfm
-    marker: s1
+    marker: nd
     children:
     - type: text
-      text: 'Ascribe to the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' Glory'
-    marker-yv: yv-h
+      text: Lord
+  - type: text
+    text: ' Glory'
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: A Psalm of David.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: d
+    marker: vlbl
     children:
     - type: text
-      text: A Psalm of David.
+      text: '1'
+  - type: text
+    text: 'Ascribe to the '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: 'Ascribe to the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ', O heavenly beings,'
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '29:1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Hebrew '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: sons of God
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ', or '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: sons of might
-      marker-yv: yv-n
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 96:7
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '8'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Chr. 16:28
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '29'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 68:34
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'ascribe to the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' glory and strength.'
-  '10':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '10'
-    - type: text
-      text: 'The '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' sits enthroned over '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 6:17
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the flood;
-  - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: 'the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' sits enthroned '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 10:16
-      marker-yv: yv-n
-    - type: text
-      text: as king forever.
-  '11':
+      text: Lord
+  - type: text
+    text: ', O heavenly beings,'
   - type: usfm
-    marker: q1
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '11'
-    - type: text
-      text: 'May the '
+        text: '29:1 '
     - type: usfm
-      marker: nd
+      marker: ft
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' give '
+        text: 'Hebrew '
     - type: usfm
-      marker: x
+      marker: fq
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 68:35
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 40:29
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: strength to his people!
+        text: sons of God
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: ', or '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: sons of might
+    marker-yv: yv-n
+- type: usfm
+  marker: q2
+  children:
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'May the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' bless'
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '29:11 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'The '
-      - type: usfm
-        marker: bdit
-        children:
-        - type: text
-          text: Lord
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ' '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'will give . . . The '
-      - type: usfm
-        marker: bdit
-        children:
-        - type: text
-          text: Lord
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ' '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: will bless
-      marker-yv: yv-n
-    - type: text
-      text: ' his people with '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Phil. 4:7
-      marker-yv: yv-n
-    - type: text
-      text: peace!
-  '2':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '2'
+        text: Ps. 96:7
+      metadata:
+        usfm: PSA.96.7
     - type: text
-      text: 'Ascribe to the '
+      text: ', '
     - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' the glory due his name;'
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'worship the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' in '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 110:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Chr. 16:29
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 28:2
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the splendor of holiness.
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '29:2 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: in holy attire
-      marker-yv: yv-n
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'The voice of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' is over '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 18:11
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the waters;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'the God of glory '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 37:4
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '5'
-      marker-yv: yv-n
-    - type: text
-      text: thunders,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ', over many waters.'
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'The voice of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' is '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 68:33
-      marker-yv: yv-n
-    - type: text
-      text: powerful;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'the voice of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' is full of majesty.'
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: 'The voice of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' breaks the cedars;'
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' breaks '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 104:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Judg. 9:15
-      marker-yv: yv-n
-    - type: text
-      text: the cedars of Lebanon.
-  '6':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'He makes Lebanon to '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 114:4
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '6'
-      marker-yv: yv-n
-    - type: text
-      text: skip like a calf,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 3:9
-      marker-yv: yv-n
-    - type: text
-      text: 'Sirion like a young '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Num. 23:22
-      marker-yv: yv-n
-    - type: text
-      text: wild ox.
-  '7':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: 'The voice of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' flashes forth flames of fire.'
-  '8':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '8'
+      metadata:
+        usfm: PSA.96.8
     - type: text
-      text: 'The voice of the '
+      text: '; '
     - type: usfm
-      marker: nd
+      marker: ref
+      children:
+      - type: text
+        text: 1 Chr. 16:28
+      metadata:
+        usfm: 1CH.16.28
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '29'
+      metadata:
+        usfm: 1CH.16.29
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 68:34
+      metadata:
+        usfm: PSA.68.34
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'ascribe to the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' glory and strength.'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'Ascribe to the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' the glory due his name;'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'worship the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' in '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 110:3
+      metadata:
+        usfm: PSA.110.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Chr. 16:29
+      metadata:
+        usfm: 1CH.16.29
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 28:2
+      metadata:
+        usfm: EXO.28.2
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the splendor of holiness.
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '29:2 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: in holy attire
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'The voice of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' is over '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 18:11
+      metadata:
+        usfm: PSA.18.11
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the waters;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'the God of glory '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 37:4
+      metadata:
+        usfm: JOB.37.4
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '5'
+      metadata:
+        usfm: JOB.37.5
+    marker-yv: yv-n
+  - type: text
+    text: thunders,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ', over many waters.'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'The voice of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' is '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 68:33
+      metadata:
+        usfm: PSA.68.33
+    marker-yv: yv-n
+  - type: text
+    text: powerful;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'the voice of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' is full of majesty.'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'The voice of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' breaks the cedars;'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' breaks '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 104:16
+      metadata:
+        usfm: PSA.104.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Judg. 9:15
+      metadata:
+        usfm: JDG.9.15
+    marker-yv: yv-n
+  - type: text
+    text: the cedars of Lebanon.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'He makes Lebanon to '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 114:4
+      metadata:
+        usfm: PSA.114.4
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '6'
+      metadata:
+        usfm: PSA.114.6
+    marker-yv: yv-n
+  - type: text
+    text: skip like a calf,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 3:9
+      metadata:
+        usfm: DEU.3.9
+    marker-yv: yv-n
+  - type: text
+    text: 'Sirion like a young '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Num. 23:22
+      metadata:
+        usfm: NUM.23.22
+    marker-yv: yv-n
+  - type: text
+    text: wild ox.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'The voice of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' flashes forth flames of fire.'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'The voice of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' shakes the wilderness;'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' shakes the wilderness of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Num. 13:26
+      metadata:
+        usfm: NUM.13.26
+    marker-yv: yv-n
+  - type: text
+    text: Kadesh.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'The voice of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' makes '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 39:1-3
+      metadata:
+        usfm: JOB.39.1+JOB.39.2+JOB.39.3
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the deer give birth
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '29:9 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Revocalization yields '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: makes the oaks to shake
+    marker-yv: yv-n
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and strips the forests bare,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and in his temple all cry, “Glory!”
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'The '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' sits enthroned over '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 6:17
+      metadata:
+        usfm: GEN.6.17
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the flood;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' sits enthroned '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 10:16
+      metadata:
+        usfm: PSA.10.16
+    marker-yv: yv-n
+  - type: text
+    text: as king forever.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'May the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' give '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 68:35
+      metadata:
+        usfm: PSA.68.35
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 40:29
+      metadata:
+        usfm: ISA.40.29
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: strength to his people!
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'May the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' bless'
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '29:11 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: 'The '
+    - type: usfm
+      marker: bdit
       children:
       - type: text
         text: Lord
-    - type: text
-      text: ' shakes the wilderness;'
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'the '
     - type: usfm
-      marker: nd
+      marker: ft
+      children:
+      - type: text
+        text: ' '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: 'will give . . . The '
+    - type: usfm
+      marker: bdit
       children:
       - type: text
         text: Lord
-    - type: text
-      text: ' shakes the wilderness of '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Num. 13:26
-      marker-yv: yv-n
-    - type: text
-      text: Kadesh.
-  '9':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '9'
-    - type: text
-      text: 'The voice of the '
+        text: ' '
     - type: usfm
-      marker: nd
+      marker: fq
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' makes '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 39:1-3
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the deer give birth
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '29:9 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Revocalization yields '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: makes the oaks to shake
-      marker-yv: yv-n
+        text: will bless
+    marker-yv: yv-n
+  - type: text
+    text: ' his people with '
   - type: usfm
-    marker: q2
+    marker: x
     children:
-    - type: text
-      text: and strips the forests bare,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and in his temple all cry, “Glory!”
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Phil. 4:7
+      metadata:
+        usfm: PHP.4.7
+    marker-yv: yv-n
+  - type: text
+    text: peace!

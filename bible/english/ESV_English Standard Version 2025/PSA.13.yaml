@@ -1,407 +1,445 @@
-document_id: PSA.13,59
+document_id: PSA.13
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: 'How Long, O '
   - type: usfm
-    marker: s1
+    marker: nd
     children:
     - type: text
-      text: 'How Long, O '
+      text: Lord
+  - type: text
+    text: '?'
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: To the choirmaster. A Psalm of David.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '1'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: Ps. 79:5
+      metadata:
+        usfm: PSA.79.5
     - type: text
-      text: '?'
-    marker-yv: yv-h
-  - type: usfm
-    marker: d
-    children:
-    - type: text
-      text: To the choirmaster. A Psalm of David.
-  - type: usfm
-    marker: q1
-    children:
+      text: '; '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: 89:46
+      metadata:
+        usfm: PSA.89.46
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 79:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 89:46
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 6:10
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'How long, O '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: '? Will you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 10:12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 44:24
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 74:19
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '23'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lam. 5:20
-      marker-yv: yv-n
-    - type: text
-      text: forget me forever?
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'How long will you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 13:24
-      marker-yv: yv-n
-    - type: text
-      text: hide your face from me?
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'How long must I take '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 77:6
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: counsel in my soul
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and have sorrow in my heart all the day?
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: How long shall my enemy be exalted over me?
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
+        text: Rev. 6:10
+      metadata:
+        usfm: REV.6.10
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 5:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 119:153
-      marker-yv: yv-n
-    - type: text
-      text: 'Consider and answer me, O '
-    - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' my God;'
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'How long, O '
   - type: usfm
-    marker: q2
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: '? Will you '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 19:8
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezra 9:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 29:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 1:18
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Sam. 14:27
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: Ps. 10:12
+      metadata:
+        usfm: PSA.10.12
     - type: text
-      text: 'light up my eyes, lest '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 51:39
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+      - type: text
+        text: 44:24
+      metadata:
+        usfm: PSA.44.24
     - type: text
-      text: I sleep the sleep of death,
-  '4':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 74:19
+      metadata:
+        usfm: PSA.74.19
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '23'
+      metadata:
+        usfm: PSA.74.23
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lam. 5:20
+      metadata:
+        usfm: LAM.5.20
+    marker-yv: yv-n
+  - type: text
+    text: forget me forever?
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'How long will you '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '4'
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 13:24
+      metadata:
+        usfm: JOB.13.24
+    marker-yv: yv-n
+  - type: text
+    text: hide your face from me?
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'How long must I take '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 77:6
+      metadata:
+        usfm: PSA.77.6
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: counsel in my soul
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and have sorrow in my heart all the day?
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: How long shall my enemy be exalted over me?
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 5:1
+      metadata:
+        usfm: PSA.5.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 119:153
+      metadata:
+        usfm: PSA.119.153
+    marker-yv: yv-n
+  - type: text
+    text: 'Consider and answer me, O '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' my God;'
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 19:8
+      metadata:
+        usfm: PSA.19.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ezra 9:8
+      metadata:
+        usfm: EZR.9.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 29:13
+      metadata:
+        usfm: PRO.29.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eph. 1:18
+      metadata:
+        usfm: EPH.1.18
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 32:27
-      marker-yv: yv-n
-    - type: text
-      text: lest my enemy say, “I have prevailed over him,”
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'lest my foes rejoice because I am '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 10:6
-      marker-yv: yv-n
-    - type: text
-      text: shaken.
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
+        text: 1 Sam. 14:27
+      metadata:
+        usfm: 1SA.14.27
     - type: text
-      text: 'But I have '
+      text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 11:1
-      marker-yv: yv-n
-    - type: text
-      text: trusted in your steadfast love;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'my heart shall '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 9:14
-      marker-yv: yv-n
-    - type: text
-      text: rejoice in your salvation.
-  '6':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '6'
-    - type: text
-      text: 'I will sing to the '
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'light up my eyes, lest '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ','
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 51:39
+      metadata:
+        usfm: JER.51.39
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: I sleep the sleep of death,
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: because he has dealt bountifully with me.
+      text: '4'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 32:27
+      metadata:
+        usfm: DEU.32.27
+    marker-yv: yv-n
+  - type: text
+    text: lest my enemy say, “I have prevailed over him,”
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'lest my foes rejoice because I am '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 10:6
+      metadata:
+        usfm: PSA.10.6
+    marker-yv: yv-n
+  - type: text
+    text: shaken.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'But I have '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 11:1
+      metadata:
+        usfm: PSA.11.1
+    marker-yv: yv-n
+  - type: text
+    text: trusted in your steadfast love;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'my heart shall '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 9:14
+      metadata:
+        usfm: PSA.9.14
+    marker-yv: yv-n
+  - type: text
+    text: rejoice in your salvation.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'I will sing to the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ','
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: because he has dealt bountifully with me.

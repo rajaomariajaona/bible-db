@@ -1,283 +1,274 @@
-document_id: PSA.32,21
+document_id: PSA.32
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Joie du pardon
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Joie du pardon
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: Méditation
   - type: usfm
-    marker: d
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: Méditation
+        text: '32.1 '
     - type: usfm
-      marker: f
+      marker: ft
       children:
+      - type: text
+        text: Traduction incertaine.
+    marker-yv: yv-n
+  - type: text
+    text: ' de David.'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Heureux l’homme ╵dont la faute est effacée,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et le péché pardonné !
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: Heureux l’homme ╵au compte de qui ╵l’Eternel ╵ne porte pas le péché
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '32.2 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Cité en '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '32.1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: Traduction incertaine.
-      marker-yv: yv-n
-    - type: text
-      text: ' de David.'
+          text: Rm 4.7-8
+        metadata:
+          usfm: ROM.4.7+ROM.4.8
+      - type: text
+        text: .
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et qui est exempt ╵de duplicité !
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Heureux l’homme ╵dont la faute est effacée,
+      text: '3'
+  - type: text
+    text: Tant que je taisais ma faute,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: je m’épuisais à gémir ╵sans cesse, à longueur de jour.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: et le péché pardonné !
-  '10':
+      text: '4'
+  - type: text
+    text: Sur moi, le jour et la nuit, ╵ta main s’appesantissait,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: ma vigueur m’abandonnait ╵comme l’herbe se dessèche ╵lors des ardeurs de l’été.
+- type: usfm
+  marker: q4
+  children:
+  - type: text
+    text: Pause
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: Je t’ai avoué ma faute,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: je n’ai plus caché mes torts,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'j’ai dit : « Je reconnaîtrai ╵devant l’Eternel ╵les péchés que j’ai commis. »'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Alors tu m’as déchargé ╵du poids de ma faute.
+- type: usfm
+  marker: q4
+  children:
+  - type: text
+    text: Pause
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: Ainsi, que tout homme ╵qui t’est attaché ╵te prie au temps opportun.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Si les grandes eaux déferlent,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: leurs flots ne l’atteignent pas.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: Tu es un abri pour moi, ╵tu me gardes du danger.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Autour de moi retentissent ╵les chants de la délivrance.
+- type: usfm
+  marker: q4
+  children:
+  - type: text
+    text: Pause
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'Tu as dit : « Je t’instruirai, ╵je t’indiquerai ╵le chemin ╵que tu devras emprunter,'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: je serai ton conseiller, ╵mes yeux veilleront sur toi.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: Ne soyez donc pas stupides ╵comme un cheval, un mulet ╵dépourvus d’intelligence
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: dont il faut dompter la fougue ╵par la bride et par le mors
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: sans quoi ils ne viendront pas vers toi
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: Ils sont nombreux les tourments ╵qui attendent les méchants,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: mais les hommes qui ont mis ╵leur confiance en l’Eternel ╵sont comblés par son amour.
-  '11':
-  - type: usfm
-    marker: q1
-    children:
+        text: '32.9 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '11'
-    - type: text
-      text: Justes, réjouissez-vous ! ╵Mettez votre joie en l’Eternel
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et poussez des cris de joie, ╵vous qui êtes droits de cœur !
-  '2':
-  - type: usfm
-    marker: q1
-    children:
+        text: 'L’hébreu n’est pas clair. Autre traduction : '
     - type: usfm
-      marker: vlbl
+      marker: fqa
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: Heureux l’homme ╵au compte de qui ╵l’Eternel ╵ne porte pas le péché
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '32.2 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Cité en '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Rm 4.7-8
-        - type: text
-          text: .
-      marker-yv: yv-n
+        text: pour qu’ils ne s’approchent pas de toi.
+    marker-yv: yv-n
+  - type: text
+    text: '  ! »'
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: et qui est exempt ╵de duplicité !
-  '3':
+      text: '10'
+  - type: text
+    text: Ils sont nombreux les tourments ╵qui attendent les méchants,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: mais les hommes qui ont mis ╵leur confiance en l’Eternel ╵sont comblés par son amour.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: Tant que je taisais ma faute,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: je m’épuisais à gémir ╵sans cesse, à longueur de jour.
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: Sur moi, le jour et la nuit, ╵ta main s’appesantissait,
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: ma vigueur m’abandonnait ╵comme l’herbe se dessèche ╵lors des ardeurs de l’été.
-  - type: usfm
-    marker: q4
-    children:
-    - type: text
-      text: Pause
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: Je t’ai avoué ma faute,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: je n’ai plus caché mes torts,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'j’ai dit : « Je reconnaîtrai ╵devant l’Eternel ╵les péchés que j’ai commis. »'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Alors tu m’as déchargé ╵du poids de ma faute.
-  - type: usfm
-    marker: q4
-    children:
-    - type: text
-      text: Pause
-  '6':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: Ainsi, que tout homme ╵qui t’est attaché ╵te prie au temps opportun.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Si les grandes eaux déferlent,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: leurs flots ne l’atteignent pas.
-  '7':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: Tu es un abri pour moi, ╵tu me gardes du danger.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Autour de moi retentissent ╵les chants de la délivrance.
-  - type: usfm
-    marker: q4
-    children:
-    - type: text
-      text: Pause
-  '8':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: 'Tu as dit : « Je t’instruirai, ╵je t’indiquerai ╵le chemin ╵que tu devras emprunter,'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: je serai ton conseiller, ╵mes yeux veilleront sur toi.
-  '9':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: Ne soyez donc pas stupides ╵comme un cheval, un mulet ╵dépourvus d’intelligence
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: dont il faut dompter la fougue ╵par la bride et par le mors
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: sans quoi ils ne viendront pas vers toi
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '32.9 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'L’hébreu n’est pas clair. Autre traduction : '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: pour qu’ils ne s’approchent pas de toi.
-      marker-yv: yv-n
-    - type: text
-      text: '  ! »'
+      text: '11'
+  - type: text
+    text: Justes, réjouissez-vous ! ╵Mettez votre joie en l’Eternel
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et poussez des cris de joie, ╵vous qui êtes droits de cœur !

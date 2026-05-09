@@ -1,1117 +1,1180 @@
-document_id: HAB.1,59
+document_id: HAB.1
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '1'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: ' '
+        text: 'See '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Nah. 1:1
-      marker-yv: yv-n
-    - type: text
-      text: The oracle that Habakkuk the prophet saw.
-  - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Habakkuk’s Complaint
-    marker-yv: yv-h
-  '10':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: At kings they scoff,
+        text: Nah. 1:1
+      metadata:
+        usfm: NAM.1.1
+    marker-yv: yv-n
+  - type: text
+    text: The oracle that Habakkuk the prophet saw.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Habakkuk’s Complaint
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: and at rulers they laugh.
+      text: '2'
+  - type: text
+    text: 'O '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Nah. 3:12
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: They laugh at every fortress,
-  - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: 'for '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezek. 4:2
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: they pile up earth and take it.
-  '11':
+      text: Lord
+  - type: text
+    text: ', '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
+        text: Ps. 13:1
+      metadata:
+        usfm: PSA.13.1
     - type: text
-      text: Then they sweep by like the wind and go on,
-  - type: usfm
-    marker: q2
-    children:
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hos. 13:16
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'guilty men, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '7'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: whose own might is their god!”
-  - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Habakkuk’s Second Complaint
-    marker-yv: yv-h
-  '12':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '12'
-    - type: text
-      text: 'Are you not '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 33:27
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 90:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 93:2
-      marker-yv: yv-n
-    - type: text
-      text: from everlasting,
+        text: 89:46
+      metadata:
+        usfm: PSA.89.46
+    marker-yv: yv-n
+  - type: text
+    text: how long shall I cry for help,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and you will not hear?
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Or cry to you '
   - type: usfm
-    marker: q2
+    marker: x
     children:
-    - type: text
-      text: 'O '
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' my God, my Holy One?'
+        text: Mic. 6:12
+      metadata:
+        usfm: MIC.6.12
+    marker-yv: yv-n
+  - type: text
+    text: “Violence!”
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and you will not save?
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mal. 3:6
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: We shall not die.
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: 'O '
+      text: '3'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ', '
+        text: 'See '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 10:5-7
-      marker-yv: yv-n
-    - type: text
-      text: you have ordained them as a judgment,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and you, O '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 32:4
-      marker-yv: yv-n
-    - type: text
-      text: Rock, have established them for reproof.
-  '13':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '13'
-    - type: text
-      text: 'You who are '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 5:5
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: of purer eyes than to see evil
+        text: Jer. 9:2-6
+      metadata:
+        usfm: JER.9.2+JER.9.3+JER.9.4+JER.9.5+JER.9.6
+    marker-yv: yv-n
+  - type: text
+    text: Why do you make me see iniquity,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and why do you idly look at wrong?
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Destruction '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and cannot look at wrong,
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 12:1
-      marker-yv: yv-n
-    - type: text
-      text: why do you idly look at traitors
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 35:22
-      marker-yv: yv-n
-    - type: text
-      text: remain silent when the wicked swallows up
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: the man more righteous than he?
-  '14':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '14'
-    - type: text
-      text: You make mankind like the fish of the sea,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: like crawling things that have no ruler.
-  '15':
-  - type: usfm
-    marker: q1
-    children:
+        text: '[See ver. '
     - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '15'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 16:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Amos 4:2
-      marker-yv: yv-n
-    - type: text
-      text: He
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1:15 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: That is, the wicked foe
-      marker-yv: yv-n
-    - type: text
-      text: ' brings all of them up '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 19:8
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: with a hook;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: he drags them out with his net;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: he gathers them in his dragnet;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: so he rejoices and is glad.
-  '16':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '11'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: Therefore he sacrifices to his net
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and makes offerings to his dragnet;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: for by them he lives in luxury,
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1:16 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Hebrew '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: his portion is fat
-      marker-yv: yv-n
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and his food is rich.
-  '17':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: text
-      text: Is he then to keep on emptying his net
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:10
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: and mercilessly killing nations forever?
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '2'
-    - type: text
-      text: 'O '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ', '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 13:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 89:46
-      marker-yv: yv-n
-    - type: text
-      text: how long shall I cry for help,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and you will not hear?
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'Or cry to you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mic. 6:12
-      marker-yv: yv-n
-    - type: text
-      text: “Violence!”
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and you will not save?
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
+      metadata:
+        usfm: HAB.2
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 9:2-6
-      marker-yv: yv-n
-    - type: text
-      text: Why do you make me see iniquity,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and why do you idly look at wrong?
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'Destruction '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '2'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: above]
-      marker-yv: yv-n
-    - type: text
-      text: and violence are before me;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: strife and contention arise.
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '4'
+        text: above]
+    marker-yv: yv-n
+  - type: text
+    text: and violence are before me;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: strife and contention arise.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mic. 7:3
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: So the law is paralyzed,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and justice never goes forth.
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 21:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 12:1
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: For the wicked surround the righteous;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: so justice goes forth perverted.
-  - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: 'The '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ’s Answer
-    marker-yv: yv-h
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
+        text: Mic. 7:3
+      metadata:
+        usfm: MIC.7.3
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 13:41
-      marker-yv: yv-n
-    - type: text
-      text: “Look among the nations, and see;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: wonder and be astounded.
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 28:21
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 29:14
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: For I am doing a work in your days
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: that you would not believe if told.
-  '6':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '6'
-    - type: text
-      text: 'For behold, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 5:15
-      marker-yv: yv-n
-    - type: text
-      text: I am raising up the Chaldeans,
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: So the law is paralyzed,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and justice never goes forth.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: that bitter and hasty nation,
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:5
       - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: '['
     - type: text
-      text: who march through the breadth of the earth,
-  - type: usfm
-    marker: q2
-    children:
+      text: ' '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:6
       - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: Job 21:7
+      metadata:
+        usfm: JOB.21.7
     - type: text
-      text: to seize dwellings not their own.
-  '7':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 12:1
+      metadata:
+        usfm: JER.12.1
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: For the wicked surround the righteous;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: so justice goes forth perverted.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: 'The '
   - type: usfm
-    marker: q1
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ’s Answer
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
+      children:
+      - type: text
+        text: 'Cited '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 13:41
+      metadata:
+        usfm: ACT.13.41
+    marker-yv: yv-n
+  - type: text
+    text: “Look among the nations, and see;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: wonder and be astounded.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 28:21
+      metadata:
+        usfm: ISA.28.21
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 29:14
+      metadata:
+        usfm: ISA.29.14
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: For I am doing a work in your days
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: that you would not believe if told.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'For behold, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 5:15
+      metadata:
+        usfm: JER.5.15
+    marker-yv: yv-n
+  - type: text
+    text: I am raising up the Chaldeans,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: that bitter and hasty nation,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:5
+      metadata:
+        usfm: HAB.2.5
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: who march through the breadth of the earth,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:6
+      metadata:
+        usfm: HAB.2.6
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: to seize dwellings not their own.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: They are dreaded and fearsome;
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 10, 11
+      metadata:
+        usfm: HAB.1.10
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: their justice and dignity go forth from themselves.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 4:13
+      metadata:
+        usfm: JER.4.13
+    marker-yv: yv-n
+  - type: text
+    text: Their horses are swifter than leopards,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'more fierce than '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 5:6
+      metadata:
+        usfm: JER.5.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Zeph. 3:3
+      metadata:
+        usfm: ZEP.3.3
+    marker-yv: yv-n
+  - type: text
+    text: the evening wolves;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: their horsemen press proudly on.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Their horsemen come from afar;
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 28:49
+      metadata:
+        usfm: DEU.28.49
+    marker-yv: yv-n
+  - type: text
+    text: they fly like an eagle swift to devour.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'They all come '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:17
+      metadata:
+        usfm: HAB.2.17
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: for violence,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: all their faces forward.
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'They gather captives '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Josh. 11:4
+      metadata:
+        usfm: JOS.11.4
+    marker-yv: yv-n
+  - type: text
+    text: like sand.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: At kings they scoff,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and at rulers they laugh.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Nah. 3:12
+      metadata:
+        usfm: NAM.3.12
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: They laugh at every fortress,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'for '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ezek. 4:2
+      metadata:
+        usfm: EZK.4.2
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: they pile up earth and take it.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: Then they sweep by like the wind and go on,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hos. 13:16
+      metadata:
+        usfm: HOS.13.16
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'guilty men, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ver. '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '7'
-    - type: text
-      text: They are dreaded and fearsome;
-  - type: usfm
-    marker: q2
-    children:
+      metadata:
+        usfm: HAB.1.7
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 10, 11
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: their justice and dignity go forth from themselves.
-  '8':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '8'
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: whose own might is their god!”
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Habakkuk’s Second Complaint
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'Are you not '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 33:27
+      metadata:
+        usfm: DEU.33.27
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 90:2
+      metadata:
+        usfm: PSA.90.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 93:2
+      metadata:
+        usfm: PSA.93.2
+    marker-yv: yv-n
+  - type: text
+    text: from everlasting,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'O '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' my God, my Holy One?'
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 4:13
-      marker-yv: yv-n
-    - type: text
-      text: Their horses are swifter than leopards,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'more fierce than '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 5:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Zeph. 3:3
-      marker-yv: yv-n
-    - type: text
-      text: the evening wolves;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: their horsemen press proudly on.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Their horsemen come from afar;
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 28:49
-      marker-yv: yv-n
-    - type: text
-      text: they fly like an eagle swift to devour.
-  '9':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '9'
+        text: Mal. 3:6
+      metadata:
+        usfm: MAL.3.6
     - type: text
-      text: 'They all come '
+      text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:17
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: for violence,
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: We shall not die.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'O '
   - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: all their faces forward.
+      text: Lord
+  - type: text
+    text: ', '
   - type: usfm
-    marker: q2
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 10:5-7
+      metadata:
+        usfm: ISA.10.5+ISA.10.6+ISA.10.7
+    marker-yv: yv-n
+  - type: text
+    text: you have ordained them as a judgment,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and you, O '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 32:4
+      metadata:
+        usfm: DEU.32.4
+    marker-yv: yv-n
+  - type: text
+    text: Rock, have established them for reproof.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
     children:
     - type: text
-      text: 'They gather captives '
+      text: '13'
+  - type: text
+    text: 'You who are '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 11:4
-      marker-yv: yv-n
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 5:5
+      metadata:
+        usfm: PSA.5.5
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: of purer eyes than to see evil
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and cannot look at wrong,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 12:1
+      metadata:
+        usfm: JER.12.1
+    marker-yv: yv-n
+  - type: text
+    text: why do you idly look at traitors
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 35:22
+      metadata:
+        usfm: PSA.35.22
+    marker-yv: yv-n
+  - type: text
+    text: remain silent when the wicked swallows up
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: the man more righteous than he?
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
     - type: text
-      text: like sand.
+      text: '14'
+  - type: text
+    text: You make mankind like the fish of the sea,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: like crawling things that have no ruler.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 16:16
+      metadata:
+        usfm: JER.16.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Amos 4:2
+      metadata:
+        usfm: AMO.4.2
+    marker-yv: yv-n
+  - type: text
+    text: He
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1:15 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: That is, the wicked foe
+    marker-yv: yv-n
+  - type: text
+    text: ' brings all of them up '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 19:8
+      metadata:
+        usfm: ISA.19.8
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: with a hook;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: he drags them out with his net;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: he gathers them in his dragnet;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: so he rejoices and is glad.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '11'
+      metadata:
+        usfm: HAB.1.11
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Therefore he sacrifices to his net
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and makes offerings to his dragnet;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: for by them he lives in luxury,
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1:16 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Hebrew '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: his portion is fat
+    marker-yv: yv-n
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and his food is rich.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: Is he then to keep on emptying his net
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:10
+      metadata:
+        usfm: HAB.2.10
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: and mercilessly killing nations forever?

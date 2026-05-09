@@ -1,993 +1,1077 @@
-document_id: HOS.12,59
+document_id: HOS.12
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '1'
+  - type: text
+    text: Ephraim feeds on the wind
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and pursues '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: Ephraim feeds on the wind
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and pursues '
+        text: '[ch. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 13:15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 18:17
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the east wind all day long;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'they multiply '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 11:12
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: above]
-      marker-yv: yv-n
-    - type: text
-      text: falsehood and violence;
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 5:13
-      marker-yv: yv-n
-    - type: text
-      text: they make a covenant with Assyria,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 7:11
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Kgs. 17:4
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: oil is carried to Egypt.
-  - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: 'The '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: 13:15
+      metadata:
+        usfm: HOS.13.15
     - type: text
-      text: ’s Indictment of Israel and Judah
-    marker-yv: yv-h
-  '10':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 18:17
+      metadata:
+        usfm: JER.18.17
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the east wind all day long;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'they multiply '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
+      children:
+      - type: text
+        text: '[See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 11:12
+      metadata:
+        usfm: HOS.11.12
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: above]
+    marker-yv: yv-n
+  - type: text
+    text: falsehood and violence;
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 5:13
+      metadata:
+        usfm: HOS.5.13
+    marker-yv: yv-n
+  - type: text
+    text: they make a covenant with Assyria,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 7:11
+      metadata:
+        usfm: HOS.7.11
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Kgs. 17:4
+      metadata:
+        usfm: 2KI.17.4
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: oil is carried to Egypt.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: 'The '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ’s Indictment of Israel and Judah
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:1
+      metadata:
+        usfm: HOS.4.1
+    marker-yv: yv-n
+  - type: text
+    text: 'The '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' has an indictment against Judah'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and will punish Jacob according to his ways;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: he will repay him according to his deeds.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 25:26
+      metadata:
+        usfm: GEN.25.26
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 27:36
+      metadata:
+        usfm: GEN.27.36
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: In the womb he took his brother by the heel,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and in his manhood he strove with God.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: He strove with the angel and prevailed;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: he wept and sought his favor.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 28:12
+      metadata:
+        usfm: GEN.28.12
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '19'
+      metadata:
+        usfm: GEN.28.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 35:9
+      metadata:
+        usfm: GEN.35.9
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '10'
+      metadata:
+        usfm: GEN.35.10
     - type: text
-      text: ' '
+      text: ', '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Kgs. 17:13
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: I spoke to the prophets;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'it was I who multiplied '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Joel 2:28
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: visions,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and through the prophets gave parables.
-  '11':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 6:8
-      marker-yv: yv-n
-    - type: text
-      text: If there is iniquity in Gilead,
+        text: '15'
+      metadata:
+        usfm: GEN.35.15
+    marker-yv: yv-n
+  - type: text
+    text: He met God
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'they shall surely come to nothing:'
-  - type: usfm
-    marker: q1
+    marker: f
     children:
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 9:15
-      marker-yv: yv-n
-    - type: text
-      text: in Gilgal they sacrifice bulls;
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 8:11
-      marker-yv: yv-n
-    - type: text
-      text: their altars also are like stone heaps
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 10:4
-      marker-yv: yv-n
-    - type: text
-      text: on the furrows of the field.
-  '12':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '12'
-    - type: text
-      text: ' '
+        text: '12:4 '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 28:5
-      marker-yv: yv-n
-    - type: text
-      text: Jacob fled to the land of Aram;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'there Israel '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 29:20
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '28'
-      marker-yv: yv-n
-    - type: text
-      text: served for a wife,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and for a wife he guarded sheep.
-  '13':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '13'
-    - type: text
-      text: 'By '
+        text: 'Hebrew '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 18:15
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'a prophet '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 12:50
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '51'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 77:20
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 63:11-14
-      marker-yv: yv-n
-    - type: text
-      text: 'the '
-    - type: usfm
-      marker: nd
+      marker: fq
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' brought Israel up from Egypt,'
+        text: him
+    marker-yv: yv-n
+  - type: text
+    text: ' at Bethel,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and there God spoke with us—
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: and by a prophet he was guarded.
-  '14':
+      text: '5'
+  - type: text
+    text: 'the '
   - type: usfm
-    marker: q1
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ', the God of hosts,'
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '14'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Kgs. 17:17
-      marker-yv: yv-n
-    - type: text
-      text: Ephraim has given bitter provocation;
+        text: Ex. 3:15
+      metadata:
+        usfm: EXO.3.15
+    marker-yv: yv-n
+  - type: text
+    text: 'the '
   - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: 'so his Lord '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:2
-      marker-yv: yv-n
-    - type: text
-      text: will leave his bloodguilt on him
+      text: Lord
+  - type: text
+    text: ' is his memorial name:'
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: '“So you, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '2'
-      marker-yv: yv-n
-    - type: text
-      text: and will repay him for his disgraceful deeds.
-  '2':
-  - type: usfm
-    marker: q1
-    children:
+      - type: text
+        text: 'ch. '
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: 14:1
+      metadata:
+        usfm: HOS.14.1
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '2'
+      metadata:
+        usfm: HOS.14.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Joel 2:12
+      metadata:
+        usfm: JOL.2.12
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '13'
+      metadata:
+        usfm: JOL.2.13
+    marker-yv: yv-n
+  - type: text
+    text: by the help of your God, return,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:1
-      marker-yv: yv-n
-    - type: text
-      text: 'The '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' has an indictment against Judah'
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and will punish Jacob according to his ways;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: he will repay him according to his deeds.
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
+        text: Mic. 6:8
+      metadata:
+        usfm: MIC.6.8
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 25:26
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 27:36
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: In the womb he took his brother by the heel,
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: hold fast to love and justice,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and wait continually for your God.”
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: and in his manhood he strove with God.
-  '4':
+      text: '7'
+  - type: text
+    text: 'A merchant, in whose hands are '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '4'
+        text: Amos 8:5
+      metadata:
+        usfm: AMO.8.5
     - type: text
-      text: He strove with the angel and prevailed;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: he wept and sought his favor.
-  - type: usfm
-    marker: q1
-    children:
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 28:12
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '19'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 35:9
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '10'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '15'
-      marker-yv: yv-n
+        text: Mic. 6:11
+      metadata:
+        usfm: MIC.6.11
     - type: text
-      text: He met God
+      text: '; '
     - type: usfm
-      marker: f
+      marker: xta
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '12:4 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Hebrew '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: him
-      marker-yv: yv-n
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 11:1
+      metadata:
+        usfm: PRO.11.1
     - type: text
-      text: ' at Bethel,'
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 20:23
+      metadata:
+        usfm: PRO.20.23
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: false balances,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'he loves '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and there God spoke with us—
-  '5':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: 'the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ', the God of hosts,'
+        text: Mic. 2:2
+      metadata:
+        usfm: MIC.2.2
+    marker-yv: yv-n
+  - type: text
+    text: to oppress.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 3:15
-      marker-yv: yv-n
-    - type: text
-      text: 'the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' is his memorial name:'
-  '6':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: '“So you, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 14:1
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '2'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Joel 2:12
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '13'
-      marker-yv: yv-n
-    - type: text
-      text: by the help of your God, return,
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mic. 6:8
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: hold fast to love and justice,
-  - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: and wait continually for your God.”
-  '7':
+      text: '8'
+  - type: text
+    text: 'Ephraim has said, “Ah, but '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '7'
+        text: Zech. 11:5
+      metadata:
+        usfm: ZEC.11.5
     - type: text
-      text: 'A merchant, in whose hands are '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Amos 8:5
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mic. 6:11
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 11:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 20:23
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: false balances,
+        text: Rev. 3:17
+      metadata:
+        usfm: REV.3.17
+    marker-yv: yv-n
+  - type: text
+    text: I am rich;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: I have found wealth for myself;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'in all my labors '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'he loves '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mic. 2:2
-      marker-yv: yv-n
-    - type: text
-      text: to oppress.
-  '8':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '8'
-    - type: text
-      text: 'Ephraim has said, “Ah, but '
+        text: '['
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Zech. 11:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 3:17
-      marker-yv: yv-n
-    - type: text
-      text: I am rich;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: I have found wealth for myself;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'in all my labors '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 29:19
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: they cannot find in me iniquity or sin.”
-  '9':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '9'
+        text: Deut. 29:19
+      metadata:
+        usfm: DEU.29.19
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: they cannot find in me iniquity or sin.”
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 13:4
+      metadata:
+        usfm: HOS.13.4
+    marker-yv: yv-n
+  - type: text
+    text: 'I am the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' your God'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: from the land of Egypt;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'I will again make you '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lev. 23:39-43
+      metadata:
+        usfm: LEV.23.39+LEV.23.40+LEV.23.41+LEV.23.42+LEV.23.43
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Neh. 8:14-18
+      metadata:
+        usfm: NEH.8.14+NEH.8.15+NEH.8.16+NEH.8.17+NEH.8.18
+    marker-yv: yv-n
+  - type: text
+    text: dwell in tents,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: as in the days of the appointed feast.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 13:4
-      marker-yv: yv-n
-    - type: text
-      text: 'I am the '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: 2 Kgs. 17:13
+      metadata:
+        usfm: 2KI.17.13
     - type: text
-      text: ' your God'
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: from the land of Egypt;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'I will again make you '
+      text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 23:39-43
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Neh. 8:14-18
-      marker-yv: yv-n
-    - type: text
-      text: dwell in tents,
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: I spoke to the prophets;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'it was I who multiplied '
   - type: usfm
-    marker: q2
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Joel 2:28
+      metadata:
+        usfm: JOL.2.28
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: visions,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and through the prophets gave parables.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
     children:
     - type: text
-      text: as in the days of the appointed feast.
+      text: '11'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 6:8
+      metadata:
+        usfm: HOS.6.8
+    marker-yv: yv-n
+  - type: text
+    text: If there is iniquity in Gilead,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'they shall surely come to nothing:'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:15
+      metadata:
+        usfm: HOS.4.15
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 9:15
+      metadata:
+        usfm: HOS.9.15
+    marker-yv: yv-n
+  - type: text
+    text: in Gilgal they sacrifice bulls;
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 8:11
+      metadata:
+        usfm: HOS.8.11
+    marker-yv: yv-n
+  - type: text
+    text: their altars also are like stone heaps
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 10:4
+      metadata:
+        usfm: HOS.10.4
+    marker-yv: yv-n
+  - type: text
+    text: on the furrows of the field.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 28:5
+      metadata:
+        usfm: GEN.28.5
+    marker-yv: yv-n
+  - type: text
+    text: Jacob fled to the land of Aram;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'there Israel '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 29:20
+      metadata:
+        usfm: GEN.29.20
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '28'
+      metadata:
+        usfm: GEN.29.28
+    marker-yv: yv-n
+  - type: text
+    text: served for a wife,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and for a wife he guarded sheep.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'By '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 18:15
+      metadata:
+        usfm: DEU.18.15
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'a prophet '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 12:50
+      metadata:
+        usfm: EXO.12.50
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '51'
+      metadata:
+        usfm: EXO.12.51
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 77:20
+      metadata:
+        usfm: PSA.77.20
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 63:11-14
+      metadata:
+        usfm: ISA.63.11+ISA.63.12+ISA.63.13+ISA.63.14
+    marker-yv: yv-n
+  - type: text
+    text: 'the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' brought Israel up from Egypt,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and by a prophet he was guarded.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Kgs. 17:17
+      metadata:
+        usfm: 2KI.17.17
+    marker-yv: yv-n
+  - type: text
+    text: Ephraim has given bitter provocation;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'so his Lord '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:2
+      metadata:
+        usfm: HOS.4.2
+    marker-yv: yv-n
+  - type: text
+    text: will leave his bloodguilt on him
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '2'
+      metadata:
+        usfm: HOS.12.2
+    marker-yv: yv-n
+  - type: text
+    text: and will repay him for his disgraceful deeds.

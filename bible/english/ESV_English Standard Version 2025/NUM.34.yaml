@@ -1,815 +1,807 @@
-document_id: NUM.34,59
+document_id: NUM.34
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Boundaries of the Land
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Boundaries of the Land
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'The '
   - type: usfm
-    marker: p
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' spoke to Moses, saying, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: '“Command the people of Israel, and say to them, When you enter '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Gen. 17:8
+      metadata:
+        usfm: GEN.17.8
     - type: text
-      text: 'The '
+      text: '; '
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: Ex. 3:8
+      metadata:
+        usfm: EXO.3.8
     - type: text
-      text: ' spoke to Moses, saying, '
-  '10':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 105:11
+      metadata:
+        usfm: PSA.105.11
+    marker-yv: yv-n
+  - type: text
+    text: 'the land of Canaan '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: '“You shall draw a line for your eastern border from Hazar-enan to Shepham. '
-  '11':
-  - type: usfm
-    marker: p
-    children:
+        text: 'ver. '
     - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '11'
-    - type: text
-      text: 'And the border shall go down from Shepham to '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Kgs. 23:33
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 39:5
-      marker-yv: yv-n
-    - type: text
-      text: 'Riblah on the east side of Ain. And the border shall go down and reach to the shoulder of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 3:17
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 11:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 12:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:35
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 4:18
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 5:1
-      marker-yv: yv-n
-    - type: text
-      text: 'the Sea of Chinnereth on the east. '
-  '12':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '12'
-    - type: text
-      text: 'And the border shall go down to the Jordan, and its limit shall be at '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '3'
-      marker-yv: yv-n
-    - type: text
-      text: the Salt Sea. This shall be your land as defined by its borders all around.”
-  '13':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '13'
-    - type: text
-      text: 'Moses commanded the people of Israel, saying, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '2'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 14:1
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '2'
-      marker-yv: yv-n
-    - type: text
-      text: '“This is the land that you shall inherit by lot, which the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' has commanded to give to the nine tribes and to the half-tribe. '
-  '14':
+      metadata:
+        usfm: NUM.34.13
+    marker-yv: yv-n
+  - type: text
+    text: '(this is the land that shall fall to you for an inheritance, the land of Canaan as defined by its borders), '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '14'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 32:33
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 14:3
-      marker-yv: yv-n
-    - type: text
-      text: 'For the tribe of the people of Reuben by fathers’ houses and the tribe of the people of Gad by their fathers’ houses have received their inheritance, and also the half-tribe of Manasseh. '
-  '15':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '15'
-    - type: text
-      text: The two tribes and the half-tribe have received their inheritance beyond the Jordan east of Jericho, toward the sunrise.”
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: List of Tribal Chiefs
-    marker-yv: yv-h
-  '16':
+      text: '3'
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '16'
+        text: Josh. 15:1
+      metadata:
+        usfm: JOS.15.1
     - type: text
-      text: 'The '
+      text: '; '
     - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 15:18-21
+      metadata:
+        usfm: GEN.15.18+GEN.15.19+GEN.15.20+GEN.15.21
     - type: text
-      text: ' spoke to Moses, saying, '
-  '17':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ezek. 47:13-21
+      metadata:
+        usfm: EZK.47.13+EZK.47.14+EZK.47.15+EZK.47.16+EZK.47.17+EZK.47.18+EZK.47.19+EZK.47.20+EZK.47.21
+    marker-yv: yv-n
+  - type: text
+    text: 'your south side shall be from the wilderness of Zin alongside Edom, and your southern border shall run from the end of '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '17'
-    - type: text
-      text: '“These are the names of the men who shall divide the land to you for inheritance: '
+        text: 'ver. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 14:1
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:51
-      marker-yv: yv-n
+        text: '12'
+      metadata:
+        usfm: NUM.34.12
     - type: text
-      text: 'Eleazar the priest and Joshua the son of Nun. '
-  '18':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 14:3
+      metadata:
+        usfm: GEN.14.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Josh. 15:2
+      metadata:
+        usfm: JOS.15.2
+    marker-yv: yv-n
+  - type: text
+    text: 'the Salt Sea on the east. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'And your border shall turn south of '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '18'
-    - type: text
-      text: 'You shall take one '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1:4
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '16'
-      marker-yv: yv-n
-    - type: text
-      text: 'chief from every tribe to divide the land for inheritance. '
-  '19':
+        text: Josh. 15:3
+      metadata:
+        usfm: JOS.15.3
+    marker-yv: yv-n
+  - type: text
+    text: 'the ascent of Akrabbim, and cross to Zin, and its limit shall be south of Kadesh-barnea. Then it shall go on to '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '19'
-    - type: text
-      text: 'These are the names of the men: Of the tribe of Judah, Caleb the son of Jephunneh. '
-  '2':
+        text: Josh. 15:3
+      metadata:
+        usfm: JOS.15.3
+    marker-yv: yv-n
+  - type: text
+    text: 'Hazar-addar, and pass along to Azmon. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'And the border shall turn '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: '“Command the people of Israel, and say to them, When you enter '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 17:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 3:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 105:11
-      marker-yv: yv-n
-    - type: text
-      text: 'the land of Canaan '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '13'
-      marker-yv: yv-n
-    - type: text
-      text: '(this is the land that shall fall to you for an inheritance, the land of Canaan as defined by its borders), '
-  '20':
+        text: Josh. 15:4
+      metadata:
+        usfm: JOS.15.4
+    marker-yv: yv-n
+  - type: text
+    text: 'from Azmon to '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '20'
+        text: Gen. 15:18
+      metadata:
+        usfm: GEN.15.18
     - type: text
-      text: 'Of the tribe of the people of Simeon, Shemuel the son of Ammihud. '
-  '21':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Josh. 15:4
+      metadata:
+        usfm: JOS.15.4
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '47'
+      metadata:
+        usfm: JOS.15.47
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Kgs. 8:65
+      metadata:
+        usfm: 1KI.8.65
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Kgs. 24:7
+      metadata:
+        usfm: 2KI.24.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Chr. 13:5
+      metadata:
+        usfm: 1CH.13.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Chr. 7:8
+      metadata:
+        usfm: 2CH.7.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 27:12
+      metadata:
+        usfm: ISA.27.12
+    marker-yv: yv-n
+  - type: text
+    text: the Brook of Egypt, and its limit shall be at the sea.
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: “For the western border, you shall have the Great Sea and its
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '21'
-    - type: text
-      text: 'Of the tribe of Benjamin, Elidad the son of Chislon. '
-  '22':
+        text: '34:6 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Syriac; Hebrew lacks '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: its
+    marker-yv: yv-n
+  - type: text
+    text: ' coast. This shall be your western border.'
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: '“This shall be your northern border: from the Great Sea you shall draw a line to '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '22'
-    - type: text
-      text: 'Of the tribe of the people of Dan a chief, Bukki the son of Jogli. '
-  '23':
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 33:37
+      metadata:
+        usfm: NUM.33.37
+    marker-yv: yv-n
+  - type: text
+    text: 'Mount Hor. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'From Mount Hor you shall draw a line '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '23'
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 13:21
+      metadata:
+        usfm: NUM.13.21
     - type: text
-      text: 'Of the people of Joseph: of the tribe of the people of Manasseh a chief, Hanniel the son of Ephod. '
-  '24':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Kgs. 14:25
+      metadata:
+        usfm: 2KI.14.25
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ezek. 48:1
+      metadata:
+        usfm: EZK.48.1
+    marker-yv: yv-n
+  - type: text
+    text: 'to Lebo-hamath, and the limit of the border shall be at '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '24'
-    - type: text
-      text: 'And of the tribe of the people of Ephraim a chief, Kemuel the son of Shiphtan. '
-  '25':
+        text: Ezek. 47:15
+      metadata:
+        usfm: EZK.47.15
+    marker-yv: yv-n
+  - type: text
+    text: 'Zedad. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'Then the border shall extend to Ziphron, and its limit shall be at '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '25'
-    - type: text
-      text: 'Of the tribe of the people of Zebulun a chief, Elizaphan the son of Parnach. '
-  '26':
+        text: Ezek. 47:17
+      metadata:
+        usfm: EZK.47.17
+    marker-yv: yv-n
+  - type: text
+    text: Hazar-enan. This shall be your northern border.
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: '“You shall draw a line for your eastern border from Hazar-enan to Shepham. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'And the border shall go down from Shepham to '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '26'
+        text: 2 Kgs. 23:33
+      metadata:
+        usfm: 2KI.23.33
     - type: text
-      text: 'Of the tribe of the people of Issachar a chief, Paltiel the son of Azzan. '
-  '27':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 39:5
+      metadata:
+        usfm: JER.39.5
+    marker-yv: yv-n
+  - type: text
+    text: 'Riblah on the east side of Ain. And the border shall go down and reach to the shoulder of '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '27'
+        text: Deut. 3:17
+      metadata:
+        usfm: DEU.3.17
     - type: text
-      text: 'And of the tribe of the people of Asher a chief, Ahihud the son of Shelomi. '
-  '28':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Josh. 11:2
+      metadata:
+        usfm: JOS.11.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 12:3
+      metadata:
+        usfm: JOS.12.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:35
+      metadata:
+        usfm: JOS.19.35
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 4:18
+      metadata:
+        usfm: MAT.4.18
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 5:1
+      metadata:
+        usfm: LUK.5.1
+    marker-yv: yv-n
+  - type: text
+    text: 'the Sea of Chinnereth on the east. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'And the border shall go down to the Jordan, and its limit shall be at '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '28'
-    - type: text
-      text: 'Of the tribe of the people of Naphtali a chief, Pedahel the son of Ammihud.” '
-  '29':
-  - type: usfm
-    marker: p
-    children:
+        text: 'ver. '
     - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '29'
-    - type: text
-      text: 'These are the men whom the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' commanded to divide the inheritance for the people of Israel in the land of Canaan.'
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '3'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 15:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 15:18-21
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezek. 47:13-21
-      marker-yv: yv-n
-    - type: text
-      text: 'your south side shall be from the wilderness of Zin alongside Edom, and your southern border shall run from the end of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '12'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 14:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 15:2
-      marker-yv: yv-n
-    - type: text
-      text: 'the Salt Sea on the east. '
-  '4':
+      metadata:
+        usfm: NUM.34.3
+    marker-yv: yv-n
+  - type: text
+    text: the Salt Sea. This shall be your land as defined by its borders all around.”
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'Moses commanded the people of Israel, saying, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '4'
-    - type: text
-      text: 'And your border shall turn south of '
+        text: 'ver. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 15:3
-      marker-yv: yv-n
+      - type: text
+        text: '2'
+      metadata:
+        usfm: NUM.34.2
     - type: text
-      text: 'the ascent of Akrabbim, and cross to Zin, and its limit shall be south of Kadesh-barnea. Then it shall go on to '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 15:3
-      marker-yv: yv-n
+      - type: text
+        text: Josh. 14:1
+      metadata:
+        usfm: JOS.14.1
     - type: text
-      text: 'Hazar-addar, and pass along to Azmon. '
-  '5':
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '2'
+      metadata:
+        usfm: JOS.14.2
+    marker-yv: yv-n
+  - type: text
+    text: '“This is the land that you shall inherit by lot, which the '
   - type: usfm
-    marker: p
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' has commanded to give to the nine tribes and to the half-tribe. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: 'And the border shall turn '
+        text: 'ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 15:4
-      marker-yv: yv-n
+      - type: text
+        text: 32:33
+      metadata:
+        usfm: NUM.32.33
     - type: text
-      text: 'from Azmon to '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 15:18
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 15:4
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '47'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Kgs. 8:65
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Kgs. 24:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Chr. 13:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Chr. 7:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 27:12
-      marker-yv: yv-n
-    - type: text
-      text: the Brook of Egypt, and its limit shall be at the sea.
-  '6':
+        text: Josh. 14:3
+      metadata:
+        usfm: JOS.14.3
+    marker-yv: yv-n
+  - type: text
+    text: 'For the tribe of the people of Reuben by fathers’ houses and the tribe of the people of Gad by their fathers’ houses have received their inheritance, and also the half-tribe of Manasseh. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: The two tribes and the half-tribe have received their inheritance beyond the Jordan east of Jericho, toward the sunrise.”
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: List of Tribal Chiefs
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'The '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' spoke to Moses, saying, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: '“These are the names of the men who shall divide the land to you for inheritance: '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '6'
+        text: Josh. 14:1
+      metadata:
+        usfm: JOS.14.1
     - type: text
-      text: “For the western border, you shall have the Great Sea and its
+      text: '; '
     - type: usfm
-      marker: f
+      marker: ref
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '34:6 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Syriac; Hebrew lacks '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: its
-      marker-yv: yv-n
-    - type: text
-      text: ' coast. This shall be your western border.'
-  '7':
+      - type: text
+        text: 19:51
+      metadata:
+        usfm: JOS.19.51
+    marker-yv: yv-n
+  - type: text
+    text: 'Eleazar the priest and Joshua the son of Nun. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: 'You shall take one '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '7'
-    - type: text
-      text: '“This shall be your northern border: from the Great Sea you shall draw a line to '
+        text: 'ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 33:37
-      marker-yv: yv-n
+      - type: text
+        text: 1:4
+      metadata:
+        usfm: NUM.1.4
     - type: text
-      text: 'Mount Hor. '
-  '8':
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '16'
+      metadata:
+        usfm: NUM.1.16
+    marker-yv: yv-n
+  - type: text
+    text: 'chief from every tribe to divide the land for inheritance. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
     - type: text
-      text: 'From Mount Hor you shall draw a line '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 13:21
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Kgs. 14:25
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezek. 48:1
-      marker-yv: yv-n
-    - type: text
-      text: 'to Lebo-hamath, and the limit of the border shall be at '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezek. 47:15
-      marker-yv: yv-n
-    - type: text
-      text: 'Zedad. '
-  '9':
+      text: '19'
+  - type: text
+    text: 'These are the names of the men: Of the tribe of Judah, Caleb the son of Jephunneh. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
     - type: text
-      text: 'Then the border shall extend to Ziphron, and its limit shall be at '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezek. 47:17
-      marker-yv: yv-n
+      text: '20'
+  - type: text
+    text: 'Of the tribe of the people of Simeon, Shemuel the son of Ammihud. '
+  - type: usfm
+    marker: vlbl
+    children:
     - type: text
-      text: Hazar-enan. This shall be your northern border.
+      text: '21'
+  - type: text
+    text: 'Of the tribe of Benjamin, Elidad the son of Chislon. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: 'Of the tribe of the people of Dan a chief, Bukki the son of Jogli. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: text
+    text: 'Of the people of Joseph: of the tribe of the people of Manasseh a chief, Hanniel the son of Ephod. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '24'
+  - type: text
+    text: 'And of the tribe of the people of Ephraim a chief, Kemuel the son of Shiphtan. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '25'
+  - type: text
+    text: 'Of the tribe of the people of Zebulun a chief, Elizaphan the son of Parnach. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '26'
+  - type: text
+    text: 'Of the tribe of the people of Issachar a chief, Paltiel the son of Azzan. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '27'
+  - type: text
+    text: 'And of the tribe of the people of Asher a chief, Ahihud the son of Shelomi. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '28'
+  - type: text
+    text: 'Of the tribe of the people of Naphtali a chief, Pedahel the son of Ammihud.” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '29'
+  - type: text
+    text: 'These are the men whom the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' commanded to divide the inheritance for the people of Israel in the land of Canaan.'

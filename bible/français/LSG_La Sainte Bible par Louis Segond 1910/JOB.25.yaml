@@ -1,200 +1,214 @@
-document_id: JOB.25,93
+document_id: JOB.25
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Troisième discours de Bildad à Job
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 1-6: cf. Job 4:17-21; 15:14-16.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Troisième discours de Bildad à Job
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Bildad de Schuach prit la parole et dit:'
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 1-6: cf. Job 4:17-21; 15:14-16.'
-    marker-yv: yv-h
+      text: '2'
+  - type: text
+    text: La puissance et la terreur appartiennent à Dieu;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Il fait régner la paix dans ses hautes régions.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: 'Bildad de Schuach prit la parole et dit:'
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: La puissance et la terreur appartiennent à Dieu;
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Il fait régner la paix dans ses hautes régions.
-  '3':
+      text: '3'
+  - type: text
+    text: Ses armées ne sont-elles pas innombrables?
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Sur qui sa lumière ne se lève-t-elle pas?
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: Ses armées ne sont-elles pas innombrables?
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Sur qui sa lumière ne se lève-t-elle pas?
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'Comment l’homme serait-il '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 4:17
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '18'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '19'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 15:14
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '15'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '16'
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: juste devant Dieu?
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: 'Comment celui qui est né de la femme '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 15:14
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: serait-il pur?
-  '5':
+      text: '4'
+  - type: text
+    text: 'Comment l’homme serait-il '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
+        text: Job 4:17
+      metadata:
+        usfm: JOB.4.17
     - type: text
-      text: 'Voici, '
+      text: ', '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 15:15
       - type: text
-        text: .
-      marker-yv: yv-n
+        text: '18'
+      metadata:
+        usfm: JOB.4.18
     - type: text
-      text: la lune même n’est pas brillante,
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '19'
+      metadata:
+        usfm: JOB.4.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 15:14
+      metadata:
+        usfm: JOB.15.14
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '15'
+      metadata:
+        usfm: JOB.15.15
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '16'
+      metadata:
+        usfm: JOB.15.16
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: juste devant Dieu?
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Comment celui qui est né de la femme '
   - type: usfm
-    marker: q1
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 15:14
+      metadata:
+        usfm: JOB.15.14
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: serait-il pur?
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
     children:
     - type: text
-      text: Et les étoiles ne sont pas pures à ses yeux;
-  '6':
+      text: '5'
+  - type: text
+    text: 'Voici, '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '6'
+        text: Job 15:15
+      metadata:
+        usfm: JOB.15.15
     - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 4:19
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps 22:7
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: Combien moins l’homme, qui n’est qu’un ver,
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: la lune même n’est pas brillante,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et les étoiles ne sont pas pures à ses yeux;
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Le fils de l’homme, qui n’est qu’un vermisseau!
+      text: '6'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 4:19
+      metadata:
+        usfm: JOB.4.19
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps 22:7
+      metadata:
+        usfm: PSA.22.7
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: Combien moins l’homme, qui n’est qu’un ver,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Le fils de l’homme, qui n’est qu’un vermisseau!

@@ -1,873 +1,940 @@
-document_id: ISA.55,59
+document_id: ISA.55
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: 'The Compassion of the '
   - type: usfm
-    marker: s1
+    marker: nd
     children:
     - type: text
-      text: 'The Compassion of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    marker-yv: yv-h
+      text: Lord
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '1'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '1'
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 44:3
+      metadata:
+        usfm: ISA.44.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 7:37
+      metadata:
+        usfm: JHN.7.37
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 44:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 7:37
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 5:6
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: “Come, everyone who thirsts,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: come to the waters;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: and he who has no money,
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 9:5
-      marker-yv: yv-n
-    - type: text
-      text: come, buy and eat!
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Come, buy wine and milk
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: without money and without price.
-  '10':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
+        text: Matt. 5:6
+      metadata:
+        usfm: MAT.5.6
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
       - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 148:8
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: “For as the rain and the snow come down from heaven
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: “Come, everyone who thirsts,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: come to the waters;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: and he who has no money,
+- type: usfm
+  marker: q2
+  children:
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and do not return there but water the earth,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: making it bring forth and sprout,
-  - type: usfm
-    marker: q2
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
       - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Cor. 9:10
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: giving seed to the sower and bread to the eater,
-  '11':
+        text: Prov. 9:5
+      metadata:
+        usfm: PRO.9.5
+    marker-yv: yv-n
+  - type: text
+    text: come, buy and eat!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Come, buy wine and milk
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: without money and without price.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '11'
-    - type: text
-      text: so shall my word be that goes out from my mouth;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: it shall not return to me empty,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'but '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 40:8
-      marker-yv: yv-n
-    - type: text
-      text: it shall accomplish that which I purpose,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and shall succeed in the thing for which I sent it.
-  '12':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '12'
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 35:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 48:20
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '21'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 52:12
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: “For you shall go out in joy
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and be led forth in peace;
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 44:23
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 98:8
-      marker-yv: yv-n
-    - type: text
-      text: the mountains and the hills before you
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: shall break forth into singing,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and all the trees of the field shall clap their hands.
-  '13':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '13'
+        text: John 6:27
+      metadata:
+        usfm: JHN.6.27
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 35:1
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '2'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 41:19
-      marker-yv: yv-n
-    - type: text
-      text: Instead of the thorn shall come up the cypress;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: instead of the brier shall come up the myrtle;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'and it shall make a name for the '
-    - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ','
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Why do you spend your money for that which is not bread,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and your labor for that which does not satisfy?
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Listen diligently to me, and eat what is good,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and delight yourselves in rich food.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: an everlasting sign that shall not be cut off.”
-  '2':
+      text: '3'
+  - type: text
+    text: Incline your ear, and come to me;
+- type: usfm
+  marker: q2
+  children:
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '2'
+        text: Prov. 4:4
+      metadata:
+        usfm: PRO.4.4
+    marker-yv: yv-n
+  - type: text
+    text: hear, that your soul may live;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 61:8
+      metadata:
+        usfm: ISA.61.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 32:40
+      metadata:
+        usfm: JER.32.40
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ezek. 37:26
+      metadata:
+        usfm: EZK.37.26
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: text
+      text: '54:8; 59:21 '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: and I will make with you an everlasting covenant,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 89:33-35
+      metadata:
+        usfm: PSA.89.33+PSA.89.34+PSA.89.35
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 6:27
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: Why do you spend your money for that which is not bread,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and your labor for that which does not satisfy?
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Listen diligently to me, and eat what is good,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and delight yourselves in rich food.
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: Incline your ear, and come to me;
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 4:4
-      marker-yv: yv-n
-    - type: text
-      text: hear, that your soul may live;
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 61:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 32:40
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezek. 37:26
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: text
-        text: '54:8; 59:21 '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: and I will make with you an everlasting covenant,
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 89:33-35
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 13:34
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'my steadfast, sure love for '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 30:9
-      marker-yv: yv-n
-    - type: text
-      text: David.
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
+        text: Acts 13:34
+      metadata:
+        usfm: ACT.13.34
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 18:43
-      marker-yv: yv-n
-    - type: text
-      text: Behold, I made him a witness to the peoples,
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'my steadfast, sure love for '
   - type: usfm
-    marker: q2
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Dan. 9:25
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mic. 5:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 5:31
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 17:14
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 9:6
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '7'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: a leader and commander for the peoples.
-  '5':
+        text: Jer. 30:9
+      metadata:
+        usfm: JER.30.9
+    marker-yv: yv-n
+  - type: text
+    text: David.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '4'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: above]
-      marker-yv: yv-n
-    - type: text
-      text: Behold, you shall call a nation that you do not know,
-  - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Zech. 8:22
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '23'
-      marker-yv: yv-n
-    - type: text
-      text: a nation that did not know you shall run to you,
+      text: '4'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'because of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' your God, and of the Holy One of Israel,'
-  - type: usfm
-    marker: q2
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 44:23
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 3:13
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: for he has glorified you.
-  '6':
+        text: Ps. 18:43
+      metadata:
+        usfm: PSA.18.43
+    marker-yv: yv-n
+  - type: text
+    text: Behold, I made him a witness to the peoples,
+- type: usfm
+  marker: q2
+  children:
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '6'
+        text: Dan. 9:25
+      metadata:
+        usfm: DAN.9.25
     - type: text
-      text: ' '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 32:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Amos 5:4
-      marker-yv: yv-n
-    - type: text
-      text: '“Seek the '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: Mic. 5:2
+      metadata:
+        usfm: MIC.5.2
     - type: text
-      text: ' while he may be found;'
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: call upon him while he is near;
-  '7':
-  - type: usfm
-    marker: q1
-    children:
+      text: '; '
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: Acts 5:31
+      metadata:
+        usfm: ACT.5.31
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rev. 17:14
+      metadata:
+        usfm: REV.17.14
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:16
+      metadata:
+        usfm: REV.19.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 9:6
+      metadata:
+        usfm: REV.9.6
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '7'
-    - type: text
-      text: let the wicked forsake his way,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and the unrighteous man his thoughts;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'let him return to the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ', that he may have compassion on him,'
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and to our God, for he will abundantly pardon.
-  '8':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: For my thoughts are not your thoughts,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'neither are your ways my ways, declares the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: .
-  '9':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
+      metadata:
+        usfm: REV.9.7
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 103:11
-      marker-yv: yv-n
-    - type: text
-      text: For as the heavens are higher than the earth,
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: a leader and commander for the peoples.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: so are my ways higher than your ways
+      text: '5'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: q2
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[See ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '4'
+      metadata:
+        usfm: ISA.4
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: above]
+    marker-yv: yv-n
+  - type: text
+    text: Behold, you shall call a nation that you do not know,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Zech. 8:22
+      metadata:
+        usfm: ZEC.8.22
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '23'
+      metadata:
+        usfm: ZEC.8.23
+    marker-yv: yv-n
+  - type: text
+    text: a nation that did not know you shall run to you,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'because of the '
+  - type: usfm
+    marker: nd
     children:
     - type: text
-      text: and my thoughts than your thoughts.
+      text: Lord
+  - type: text
+    text: ' your God, and of the Holy One of Israel,'
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 44:23
+      metadata:
+        usfm: ISA.44.23
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 3:13
+      metadata:
+        usfm: ACT.3.13
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: for he has glorified you.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 32:6
+      metadata:
+        usfm: PSA.32.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Amos 5:4
+      metadata:
+        usfm: AMO.5.4
+    marker-yv: yv-n
+  - type: text
+    text: '“Seek the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' while he may be found;'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: call upon him while he is near;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: let the wicked forsake his way,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and the unrighteous man his thoughts;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'let him return to the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ', that he may have compassion on him,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and to our God, for he will abundantly pardon.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: For my thoughts are not your thoughts,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'neither are your ways my ways, declares the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: .
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 103:11
+      metadata:
+        usfm: PSA.103.11
+    marker-yv: yv-n
+  - type: text
+    text: For as the heavens are higher than the earth,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: so are my ways higher than your ways
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and my thoughts than your thoughts.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 148:8
+      metadata:
+        usfm: PSA.148.8
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: “For as the rain and the snow come down from heaven
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and do not return there but water the earth,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: making it bring forth and sprout,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Cor. 9:10
+      metadata:
+        usfm: 2CO.9.10
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: giving seed to the sower and bread to the eater,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: so shall my word be that goes out from my mouth;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: it shall not return to me empty,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'but '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 40:8
+      metadata:
+        usfm: ISA.40.8
+    marker-yv: yv-n
+  - type: text
+    text: it shall accomplish that which I purpose,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and shall succeed in the thing for which I sent it.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 35:10
+      metadata:
+        usfm: ISA.35.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 48:20
+      metadata:
+        usfm: ISA.48.20
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '21'
+      metadata:
+        usfm: ISA.48.21
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 52:12
+      metadata:
+        usfm: ISA.52.12
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: “For you shall go out in joy
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and be led forth in peace;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 44:23
+      metadata:
+        usfm: ISA.44.23
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 98:8
+      metadata:
+        usfm: PSA.98.8
+    marker-yv: yv-n
+  - type: text
+    text: the mountains and the hills before you
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: shall break forth into singing,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and all the trees of the field shall clap their hands.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 35:1
+      metadata:
+        usfm: ISA.35.1
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '2'
+      metadata:
+        usfm: ISA.35.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 41:19
+      metadata:
+        usfm: ISA.41.19
+    marker-yv: yv-n
+  - type: text
+    text: Instead of the thorn shall come up the cypress;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: instead of the brier shall come up the myrtle;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'and it shall make a name for the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ','
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: an everlasting sign that shall not be cut off.”

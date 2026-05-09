@@ -1,145 +1,140 @@
-document_id: PSA.100,116
+document_id: PSA.100
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: A psalm of thanksgiving.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: d
+    marker: vlbl
     children:
     - type: text
-      text: A psalm of thanksgiving.
+      text: '1'
+  - type: text
+    text: 'Shout with joy to the '
   - type: usfm
-    marker: q1
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ', all the earth!'
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'Worship the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' with gladness.'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: Come before him, singing with joy.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'Acknowledge that the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' is God!'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: He made us, and we are his.
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: 'Shout with joy to the '
+        text: '100:3 '
     - type: usfm
-      marker: nd
+      marker: ft
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ', all the earth!'
-  '2':
-  - type: usfm
-    marker: q2
-    children:
+        text: 'As in an alternate reading in the Masoretic Text; the other alternate and some ancient versions read '
     - type: usfm
-      marker: vlbl
+      marker: fqa
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: 'Worship the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' with gladness.'
+        text: and not we ourselves.
+    marker-yv: yv-n
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: We are his people, the sheep of his pasture.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: Come before him, singing with joy.
-  '3':
+      text: '4'
+  - type: text
+    text: Enter his gates with thanksgiving;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: go into his courts with praise.
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: Give thanks to him and praise his name.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'Acknowledge that the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' is God!'
-  - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: He made us, and we are his.
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '100:3 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'As in an alternate reading in the Masoretic Text; the other alternate and some ancient versions read '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: and not we ourselves.
-      marker-yv: yv-n
+      text: '5'
+  - type: text
+    text: 'For the '
   - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: We are his people, the sheep of his pasture.
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: Enter his gates with thanksgiving;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: go into his courts with praise.
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: Give thanks to him and praise his name.
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: 'For the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' is good.'
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: His unfailing love continues forever,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and his faithfulness continues to each generation.
+      text: Lord
+  - type: text
+    text: ' is good.'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: His unfailing love continues forever,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and his faithfulness continues to each generation.

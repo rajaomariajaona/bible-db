@@ -1,604 +1,590 @@
-document_id: ROM.6,93
+document_id: ROM.6
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: La grâce, loin d’autoriser le péché, délivre de l’empire du péché
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 1-14: cf. Col 2:11-13; 3:1-10. Ga 2:19, 20. 1 Pi 4:1, 2.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: La grâce, loin d’autoriser le péché, délivre de l’empire du péché
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Que dirons-nous donc? Demeurerions-nous dans le péché, afin que la grâce abonde? '
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 1-14: cf. Col 2:11-13; 3:1-10. Ga 2:19, 20. 1 Pi 4:1, 2.'
-    marker-yv: yv-h
+      text: '2'
+  - type: text
+    text: 'Loin de là! Nous qui sommes morts au péché, comment vivrions-nous encore dans le péché? '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'Ignorez-vous '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Ga 3:27
+      metadata:
+        usfm: GAL.3.27
     - type: text
-      text: 'Que dirons-nous donc? Demeurerions-nous dans le péché, afin que la grâce abonde? '
-  '10':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'que nous tous qui avons été baptisés en Jésus-Christ, c’est en sa mort que nous avons été baptisés? '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pi 2:24
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Col 2:12
+      metadata:
+        usfm: COL.2.12
     - type: text
-      text: 'Car il est mort, et c’est pour le péché qu’il est mort une fois pour toutes; il est revenu à la vie, et c’est pour Dieu qu’il vit. '
-  '11':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Nous avons donc été ensevelis avec lui par le baptême en sa mort, afin que, comme Christ est '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: Ro 8:11
+      metadata:
+        usfm: ROM.8.11
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ph 3:10
+      metadata:
+        usfm: PHP.3.10
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '11'
+      metadata:
+        usfm: PHP.3.11
     - type: text
-      text: 'Ainsi vous-mêmes, regardez-vous comme morts au péché, et comme vivants pour Dieu en Jésus-Christ. '
-  '12':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'ressuscité des morts par la gloire du Père, de même nous aussi nous marchions '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '12'
+        text: Ép 4:23
+      metadata:
+        usfm: EPH.4.23
     - type: text
-      text: 'Que le péché ne règne donc point dans votre corps mortel, et n’obéissez pas à ses convoitises. '
-  '13':
-  - type: usfm
-    marker: p
-    children:
+      text: '. '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '13'
+        text: Col 3:10
+      metadata:
+        usfm: COL.3.10
     - type: text
-      text: 'Ne livrez pas vos membres au péché, comme des instruments d’iniquité; '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lu 1:74
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 12:1
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ga 2:20
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hé 9:14
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pi 4:2
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Hé 12:1
+      metadata:
+        usfm: HEB.12.1
     - type: text
-      text: 'mais donnez-vous vous-mêmes à Dieu, comme étant vivants de morts que vous étiez, et offrez à Dieu vos membres, comme des instruments de justice. '
-  '14':
-  - type: usfm
-    marker: p
-    children:
+      text: '. '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '14'
+        text: 1 Pi 2:2
+      metadata:
+        usfm: 1PE.2.2
     - type: text
-      text: Car le péché n’aura point de pouvoir sur vous, puisque vous êtes, non sous la loi, mais sous la grâce.
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'en nouveauté de vie. '
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 15-23: cf. (Jn 8:31-36. Ro 7:4-6.) Tit 2:11-14.'
-    marker-yv: yv-h
-  '15':
+      text: '5'
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '15'
+        text: Ro 8:11
+      metadata:
+        usfm: ROM.8.11
     - type: text
-      text: 'Quoi donc! Pécherions-nous, parce que nous sommes, non sous la loi, mais sous la grâce? Loin de là! '
-  '16':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Col 3:1
+      metadata:
+        usfm: COL.3.1
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'En effet, si nous sommes devenus une même plante avec lui par la conformité à sa mort, nous le serons aussi par la conformité à sa résurrection, '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'sachant que notre vieil homme a été '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '16'
+        text: Ga 2:20
+      metadata:
+        usfm: GAL.2.20
     - type: text
-      text: 'Ne savez-vous pas '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 8:34
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pi 2:19
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: 5:24
+      metadata:
+        usfm: GAL.5.24
     - type: text
-      text: 'qu’en vous livrant à quelqu’un comme esclaves pour lui obéir, vous êtes esclaves de celui à qui vous obéissez, soit du péché qui conduit à la mort, soit de l’obéissance qui conduit à la justice? '
-  '17':
-  - type: usfm
-    marker: p
-    children:
+      text: '. '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '17'
+        text: Ph 3:10
+      metadata:
+        usfm: PHP.3.10
     - type: text
-      text: 'Mais grâces soient rendues à Dieu de ce que, après avoir été esclaves du péché, vous avez obéi de cœur à la règle de doctrine dans laquelle vous avez été instruits. '
-  '18':
-  - type: usfm
-    marker: p
-    children:
+      text: '. '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '18'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 8:32
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ga 5:1
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pi 2:16
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: 1 Pi 4:1
+      metadata:
+        usfm: 1PE.4.1
     - type: text
-      text: 'Ayant été affranchis du péché, vous êtes devenus esclaves de la justice. '
-  '19':
-  - type: usfm
-    marker: p
-    children:
+      text: ', '
     - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: text
-      text: 'Je parle à la manière des hommes, à cause de la faiblesse de votre chair. De même donc que vous avez livré vos membres comme esclaves à l’impureté et à l’iniquité, pour arriver à l’iniquité, ainsi maintenant livrez vos membres comme esclaves à la justice, pour arriver à la sainteté. '
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '2'
+      metadata:
+        usfm: 1PE.4.2
     - type: text
-      text: 'Loin de là! Nous qui sommes morts au péché, comment vivrions-nous encore dans le péché? '
-  '20':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'crucifié avec lui, afin que le corps du péché fût détruit, pour que nous ne soyons plus esclaves du péché; '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '20'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 8:34
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: 1 Pi 4:1
+      metadata:
+        usfm: 1PE.4.1
     - type: text
-      text: 'Car, lorsque vous étiez esclaves du péché, vous étiez libres à l’égard de la justice. '
-  '21':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'car celui qui est mort est libre du péché. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '21'
+        text: 2 Ti 2:11
+      metadata:
+        usfm: 2TI.2.11
     - type: text
-      text: 'Quels fruits portiez-vous alors? Des fruits dont vous rougissez aujourd’hui. Car la fin de ces choses, c’est la mort. '
-  '22':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Or, si nous sommes morts avec Christ, nous croyons que nous vivrons aussi avec lui, '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '22'
+        text: Ap 1:18
+      metadata:
+        usfm: REV.1.18
     - type: text
-      text: 'Mais maintenant, étant affranchis du péché et devenus esclaves de Dieu, vous avez pour fruit la sainteté et pour fin la vie éternelle. '
-  '23':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'sachant que Christ ressuscité des morts ne meurt plus; la mort n’a plus de pouvoir sur lui. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '23'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ge 2:17
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 5:12
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Co 15:21
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ja 1:15
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: 1 Pi 2:24
+      metadata:
+        usfm: 1PE.2.24
     - type: text
-      text: 'Car le salaire du péché, c’est la mort; '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pi 1:3
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: mais le don gratuit de Dieu, c’est la vie éternelle en Jésus-Christ notre Seigneur.
-  '3':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Car il est mort, et c’est pour le péché qu’il est mort une fois pour toutes; il est revenu à la vie, et c’est pour Dieu qu’il vit. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'Ainsi vous-mêmes, regardez-vous comme morts au péché, et comme vivants pour Dieu en Jésus-Christ. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'Que le péché ne règne donc point dans votre corps mortel, et n’obéissez pas à ses convoitises. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'Ne livrez pas vos membres au péché, comme des instruments d’iniquité; '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '3'
+        text: Lu 1:74
+      metadata:
+        usfm: LUK.1.74
     - type: text
-      text: 'Ignorez-vous '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ga 3:27
       - type: text
-        text: .
-      marker-yv: yv-n
+        text: Ro 12:1
+      metadata:
+        usfm: ROM.12.1
     - type: text
-      text: 'que nous tous qui avons été baptisés en Jésus-Christ, c’est en sa mort que nous avons été baptisés? '
-  '4':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ga 2:20
+      metadata:
+        usfm: GAL.2.20
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hé 9:14
+      metadata:
+        usfm: HEB.9.14
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pi 4:2
+      metadata:
+        usfm: 1PE.4.2
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'mais donnez-vous vous-mêmes à Dieu, comme étant vivants de morts que vous étiez, et offrez à Dieu vos membres, comme des instruments de justice. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: Car le péché n’aura point de pouvoir sur vous, puisque vous êtes, non sous la loi, mais sous la grâce.
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 15-23: cf. (Jn 8:31-36. Ro 7:4-6.) Tit 2:11-14.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: 'Quoi donc! Pécherions-nous, parce que nous sommes, non sous la loi, mais sous la grâce? Loin de là! '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'Ne savez-vous pas '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '4'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col 2:12
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Jn 8:34
+      metadata:
+        usfm: JHN.8.34
     - type: text
-      text: 'Nous avons donc été ensevelis avec lui par le baptême en sa mort, afin que, comme Christ est '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 8:11
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ph 3:10
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '11'
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: 2 Pi 2:19
+      metadata:
+        usfm: 2PE.2.19
     - type: text
-      text: 'ressuscité des morts par la gloire du Père, de même nous aussi nous marchions '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ép 4:23
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col 3:10
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hé 12:1
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pi 2:2
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'en nouveauté de vie. '
-  '5':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'qu’en vous livrant à quelqu’un comme esclaves pour lui obéir, vous êtes esclaves de celui à qui vous obéissez, soit du péché qui conduit à la mort, soit de l’obéissance qui conduit à la justice? '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'Mais grâces soient rendues à Dieu de ce que, après avoir été esclaves du péché, vous avez obéi de cœur à la règle de doctrine dans laquelle vous avez été instruits. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 8:11
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col 3:1
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Jn 8:32
+      metadata:
+        usfm: JHN.8.32
     - type: text
-      text: 'En effet, si nous sommes devenus une même plante avec lui par la conformité à sa mort, nous le serons aussi par la conformité à sa résurrection, '
-  '6':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ga 5:1
+      metadata:
+        usfm: GAL.5.1
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pi 2:16
+      metadata:
+        usfm: 1PE.2.16
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Ayant été affranchis du péché, vous êtes devenus esclaves de la justice. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: 'Je parle à la manière des hommes, à cause de la faiblesse de votre chair. De même donc que vous avez livré vos membres comme esclaves à l’impureté et à l’iniquité, pour arriver à l’iniquité, ainsi maintenant livrez vos membres comme esclaves à la justice, pour arriver à la sainteté. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '6'
+        text: Jn 8:34
+      metadata:
+        usfm: JHN.8.34
     - type: text
-      text: 'sachant que notre vieil homme a été '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ga 2:20
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 5:24
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ph 3:10
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pi 4:1
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '2'
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'crucifié avec lui, afin que le corps du péché fût détruit, pour que nous ne soyons plus esclaves du péché; '
-  '7':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Car, lorsque vous étiez esclaves du péché, vous étiez libres à l’égard de la justice. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: text
+    text: 'Quels fruits portiez-vous alors? Des fruits dont vous rougissez aujourd’hui. Car la fin de ces choses, c’est la mort. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: 'Mais maintenant, étant affranchis du péché et devenus esclaves de Dieu, vous avez pour fruit la sainteté et pour fin la vie éternelle. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '7'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pi 4:1
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Ge 2:17
+      metadata:
+        usfm: GEN.2.17
     - type: text
-      text: 'car celui qui est mort est libre du péché. '
-  '8':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ro 5:12
+      metadata:
+        usfm: ROM.5.12
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Co 15:21
+      metadata:
+        usfm: 1CO.15.21
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ja 1:15
+      metadata:
+        usfm: JAS.1.15
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Car le salaire du péché, c’est la mort; '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '8'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Ti 2:11
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: 1 Pi 1:3
+      metadata:
+        usfm: 1PE.1.3
     - type: text
-      text: 'Or, si nous sommes morts avec Christ, nous croyons que nous vivrons aussi avec lui, '
-  '9':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ap 1:18
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'sachant que Christ ressuscité des morts ne meurt plus; la mort n’a plus de pouvoir sur lui. '
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: mais le don gratuit de Dieu, c’est la vie éternelle en Jésus-Christ notre Seigneur.

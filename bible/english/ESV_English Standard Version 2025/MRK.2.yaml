@@ -1,1333 +1,1372 @@
-document_id: MRK.2,59
+document_id: MRK.2
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Jesus Heals a Paralytic
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Jesus Heals a Paralytic
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'And when he returned to '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: 'And when he returned to '
+        text: '['
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 9:1
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'Capernaum after some days, it was reported that he was at home. '
-  '10':
+      - type: text
+        text: Matt. 9:1
+      metadata:
+        usfm: MAT.9.1
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'Capernaum after some days, it was reported that he was at home. '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '10'
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'But that you may know that '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '28'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: the Son of Man has authority on earth to forgive sins”
-    - type: text
-      text: '—he said to the paralytic— '
-  '11':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '11'
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: “I say to you, rise, pick up your bed, and go home.”
-    - type: text
-      text: ' '
-  '12':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '12'
-    - type: text
-      text: 'And he rose and immediately picked up his bed and went out before them all, so that they were all amazed and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 7:16
-      marker-yv: yv-n
-    - type: text
-      text: glorified God, saying, “We never saw anything like this!”
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Jesus Calls Levi
-    marker-yv: yv-h
-  '13':
+      text: '2'
+  - type: text
+    text: 'And many were gathered together, so that there was no more room, not even at the door. And he was preaching the word to them. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
+      children:
+      - type: text
+        text: 'For ver. 3-12, see '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 9:2-8
+      metadata:
+        usfm: MAT.9.2+MAT.9.3+MAT.9.4+MAT.9.5+MAT.9.6+MAT.9.7+MAT.9.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 5:18-26
+      metadata:
+        usfm: LUK.5.18+LUK.5.19+LUK.5.20+LUK.5.21+LUK.5.22+LUK.5.23+LUK.5.24+LUK.5.25+LUK.5.26
+    marker-yv: yv-n
+  - type: text
+    text: 'And they came, bringing to him a paralytic carried by four men. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'And when they could not get near him because of the crowd, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 5:19
+      metadata:
+        usfm: LUK.5.19
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'they removed the roof above him, and when they had made an opening, they let down the bed on which the paralytic lay. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'And when Jesus '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 10:52
+      metadata:
+        usfm: MRK.10.52
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 8:10
+      metadata:
+        usfm: MAT.8.10
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '13'
+      metadata:
+        usfm: MAT.8.13
     - type: text
-      text: 'He went out again beside the sea, and '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1:45
-      marker-yv: yv-n
+      - type: text
+        text: 9:22
+      metadata:
+        usfm: MAT.9.22
     - type: text
-      text: 'all the crowd was coming to him, and he was teaching them. '
-  '14':
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '29'
+      metadata:
+        usfm: MAT.9.29
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 15:28
+      metadata:
+        usfm: MAT.15.28
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 7:9
+      metadata:
+        usfm: LUK.7.9
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '50'
+      metadata:
+        usfm: LUK.7.50
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 17:19
+      metadata:
+        usfm: LUK.17.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 18:42
+      metadata:
+        usfm: LUK.18.42
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 3:16
+      metadata:
+        usfm: ACT.3.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 14:9
+      metadata:
+        usfm: ACT.14.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: James 5:15
+      metadata:
+        usfm: JAS.5.15
+    marker-yv: yv-n
+  - type: text
+    text: 'saw their faith, he said to the paralytic, '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '14'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'For ver. 14-22, see '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 9:9-17
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 5:27-38
-      marker-yv: yv-n
-    - type: text
-      text: 'And as he passed by, he saw '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 9:9
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'Levi the son of Alphaeus sitting at the tax booth, and he said to him, '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: “Follow me.”
-    - type: text
-      text: ' And he rose and followed him.'
-  '15':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '15'
-    - type: text
-      text: 'And as he reclined at table in his house, many '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 11:19
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 15:2
-      marker-yv: yv-n
-    - type: text
-      text: 'tax collectors and sinners were reclining with Jesus and his disciples, for there were many who followed him. '
-  '16':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: text
-      text: 'And '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 4:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 23:9
-      marker-yv: yv-n
-    - type: text
-      text: the scribes of
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '2:16 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Some manuscripts '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: and
-      marker-yv: yv-n
-    - type: text
-      text: ' the Pharisees, when they saw that he was eating with sinners and tax collectors, said to his disciples, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '15'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: above]
-      marker-yv: yv-n
-    - type: text
-      text: “Why does he eat
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '2:16 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Some manuscripts add '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: and drink
-      marker-yv: yv-n
-    - type: text
-      text: ' with tax collectors and sinners?” '
-  '17':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: text
-      text: 'And when Jesus heard it, he said to them, '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: '“Those who are well have no need of a physician, but those who are sick. '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 15:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 9:39
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'I came not to call the righteous, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 1:15
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: but sinners.”
-  - type: usfm
-    marker: s1
+    marker: wj
     children:
     - type: text
-      text: A Question About Fasting
-    marker-yv: yv-h
-  '18':
+      text: '“Son, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '18'
+        text: Luke 7:48
+      metadata:
+        usfm: LUK.7.48
     - type: text
-      text: 'Now '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 11:2
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 14:12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 11:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 1:35
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 3:25
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 18:25
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:3
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'John’s disciples and the Pharisees were fasting. And people came and said to him, '
+        text: '['
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 7:5
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: '“Why do John’s disciples and '
+      - type: text
+        text: John 5:14
+      metadata:
+        usfm: JHN.5.14
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 18:12
-      marker-yv: yv-n
-    - type: text
-      text: 'the disciples of the Pharisees fast, but your disciples do not fast?” '
-  '19':
+      - type: text
+        text: ']'
+    marker-yv: yv-n
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: text
-      text: 'And Jesus said to them, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 3:29
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: “Can the wedding guests fast while the bridegroom is with them? As long as they have the bridegroom with them, they cannot fast.
-    - type: text
-      text: ' '
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'And many were gathered together, so that there was no more room, not even at the door. And he was preaching the word to them. '
-  '20':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '20'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 17:22
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'The days will come when the bridegroom is taken away from them, and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 16:20
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: then they will fast in that day.
-    - type: text
-      text: ' '
-  '21':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '21'
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: No one sews a piece of unshrunk cloth on an old garment. If he does, the patch tears away from it, the new from the old, and a worse tear is made.
-    - type: text
-      text: ' '
-  '22':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '22'
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'And no one puts new wine into old '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 9:4
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: wineskins. If he does, the wine will burst the skins—and the wine is destroyed, and so are the skins. But new wine is for fresh wineskins.”
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '2:22 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Some manuscripts omit '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: But new wine is for fresh wineskins
-      marker-yv: yv-n
-  - type: usfm
-    marker: s1
+    marker: wj
     children:
     - type: text
-      text: Jesus Is Lord of the Sabbath
-    marker-yv: yv-h
-  '23':
+      text: your sins are forgiven.”
+  - type: text
+    text: ' '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'Now some of the scribes were sitting there, questioning in their hearts, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: '“Why does this man speak like that? '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '23'
-    - type: text
-      text: ' '
+        text: 'ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'For ver. 23-28, see '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 12:1-8
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 6:1-5
-      marker-yv: yv-n
+        text: 14:64
+      metadata:
+        usfm: MRK.14.64
     - type: text
-      text: 'One Sabbath he was going through the grainfields, and as they made their way, his disciples '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 23:25
-      marker-yv: yv-n
-    - type: text
-      text: 'began to pluck heads of grain. '
-  '24':
+      - type: text
+        text: John 10:36
+      metadata:
+        usfm: JHN.10.36
+    marker-yv: yv-n
+  - type: text
+    text: 'He is blaspheming! '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '24'
+        text: Ps. 32:5
+      metadata:
+        usfm: PSA.32.5
     - type: text
-      text: 'And the Pharisees were saying to him, “Look, '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 9:11
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'why are they doing '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 20:9-11
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'what is not lawful on the Sabbath?” '
-  '25':
+      - type: text
+        text: Isa. 43:25
+      metadata:
+        usfm: ISA.43.25
+    marker-yv: yv-n
+  - type: text
+    text: 'Who can forgive sins but God alone?” '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'And immediately Jesus, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '25'
-    - type: text
-      text: 'And he said to them, '
+        text: 'See '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 21:16
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
+      marker: ref
       children:
       - type: text
-        text: '“Have you never read '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Sam. 21:1-6
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'what David did, when he was in need and was hungry, he and those who were with him:'
-    - type: text
-      text: ' '
-  '26':
+        text: John 2:25
+      metadata:
+        usfm: JHN.2.25
+    marker-yv: yv-n
+  - type: text
+    text: 'perceiving in his spirit that they thus questioned within themselves, said to them, '
   - type: usfm
-    marker: p
+    marker: wj
+    children:
+    - type: text
+      text: “Why do you question these things in your hearts?
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: Which is easier, to say to the paralytic, ‘Your sins are forgiven,’ or to say, ‘Rise, take up your bed and walk’?
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'But that you may know that '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '26'
+        text: '[ver. '
     - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: how he entered the house of God, in the time of
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '2:26 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: in the passage about
-      marker-yv: yv-n
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Chr. 24:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Sam. 21:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Sam. 8:17
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'Abiathar the high priest, and ate '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 25:30
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 24:5-9
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: the bread of the Presence, which it is not lawful for any but the priests to eat, and also gave it to those who were with him?”
-    - type: text
-      text: ' '
-  '27':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '27'
-    - type: text
-      text: 'And he said to them, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 23:12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 5:14
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: '“The Sabbath was made for man, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col. 2:16
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: not man for the Sabbath.
-    - type: text
-      text: ' '
-  '28':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '28'
+      metadata:
+        usfm: MRK.2.28
     - type: usfm
-      marker: wj
+      marker: xta
       children:
       - type: text
-        text: 'So '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '10'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: the Son of Man is lord even of the Sabbath.”
-  '3':
+        text: ']'
+    marker-yv: yv-n
   - type: usfm
-    marker: p
+    marker: wj
+    children:
+    - type: text
+      text: the Son of Man has authority on earth to forgive sins”
+  - type: text
+    text: '—he said to the paralytic— '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: “I say to you, rise, pick up your bed, and go home.”
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'And he rose and immediately picked up his bed and went out before them all, so that they were all amazed and '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '3'
+        text: 'See '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'For ver. 3-12, see '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 9:2-8
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 5:18-26
-      marker-yv: yv-n
-    - type: text
-      text: 'And they came, bringing to him a paralytic carried by four men. '
-  '4':
+        text: Luke 7:16
+      metadata:
+        usfm: LUK.7.16
+    marker-yv: yv-n
+  - type: text
+    text: glorified God, saying, “We never saw anything like this!”
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Jesus Calls Levi
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'He went out again beside the sea, and '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '4'
-    - type: text
-      text: 'And when they could not get near him because of the crowd, '
+        text: 'See ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 5:19
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'they removed the roof above him, and when they had made an opening, they let down the bed on which the paralytic lay. '
-  '5':
+      - type: text
+        text: 1:45
+      metadata:
+        usfm: MRK.1.45
+    marker-yv: yv-n
+  - type: text
+    text: 'all the crowd was coming to him, and he was teaching them. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '5'
+        text: 'For ver. 14-22, see '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 9:9-17
+      metadata:
+        usfm: MAT.9.9+MAT.9.10+MAT.9.11+MAT.9.12+MAT.9.13+MAT.9.14+MAT.9.15+MAT.9.16+MAT.9.17
     - type: text
-      text: 'And when Jesus '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 10:52
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 8:10
+        text: Luke 5:27-38
+      metadata:
+        usfm: LUK.5.27+LUK.5.28+LUK.5.29+LUK.5.30+LUK.5.31+LUK.5.32+LUK.5.33+LUK.5.34+LUK.5.35+LUK.5.36+LUK.5.37+LUK.5.38
+    marker-yv: yv-n
+  - type: text
+    text: 'And as he passed by, he saw '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '13'
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 9:22
+        text: Matt. 9:9
+      metadata:
+        usfm: MAT.9.9
+    - type: usfm
+      marker: xta
+      children:
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '29'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 15:28
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 7:9
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '50'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 17:19
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 18:42
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 3:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 14:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: James 5:15
-      marker-yv: yv-n
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'Levi the son of Alphaeus sitting at the tax booth, and he said to him, '
+  - type: usfm
+    marker: wj
+    children:
     - type: text
-      text: 'saw their faith, he said to the paralytic, '
+      text: “Follow me.”
+  - type: text
+    text: ' And he rose and followed him.'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: 'And as he reclined at table in his house, many '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: wj
+      marker: ref
       children:
       - type: text
-        text: '“Son, '
+        text: Matt. 11:19
+      metadata:
+        usfm: MAT.11.19
+    - type: text
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 7:48
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 5:14
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
+      marker: ref
       children:
       - type: text
-        text: your sins are forgiven.”
+        text: Luke 15:2
+      metadata:
+        usfm: LUK.15.2
+    marker-yv: yv-n
+  - type: text
+    text: 'tax collectors and sinners were reclining with Jesus and his disciples, for there were many who followed him. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'And '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 4:5
+      metadata:
+        usfm: ACT.4.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 23:9
+      metadata:
+        usfm: ACT.23.9
+    marker-yv: yv-n
+  - type: text
+    text: the scribes of
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '2:16 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Some manuscripts '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: and
+    marker-yv: yv-n
+  - type: text
+    text: ' the Pharisees, when they saw that he was eating with sinners and tax collectors, said to his disciples, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[See ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '15'
+      metadata:
+        usfm: MRK.15
     - type: text
       text: ' '
-  '6':
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: above]
+    marker-yv: yv-n
+  - type: text
+    text: “Why does he eat
   - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '6'
-    - type: text
-      text: 'Now some of the scribes were sitting there, questioning in their hearts, '
-  '7':
+        text: '2:16 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Some manuscripts add '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: and drink
+    marker-yv: yv-n
+  - type: text
+    text: ' with tax collectors and sinners?” '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'And when Jesus heard it, he said to them, '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: '“Those who are well have no need of a physician, but those who are sick. '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '7'
-    - type: text
-      text: '“Why does this man speak like that? '
+        text: '['
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 14:64
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 10:36
-      marker-yv: yv-n
+        text: Luke 15:7
+      metadata:
+        usfm: LUK.15.7
     - type: text
-      text: 'He is blaspheming! '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 32:5
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 43:25
-      marker-yv: yv-n
-    - type: text
-      text: 'Who can forgive sins but God alone?” '
-  '8':
+        text: John 9:39
+      metadata:
+        usfm: JHN.9.39
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
   - type: usfm
-    marker: p
+    marker: wj
+    children:
+    - type: text
+      text: 'I came not to call the righteous, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '8'
-    - type: text
-      text: 'And immediately Jesus, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 2:25
-      marker-yv: yv-n
-    - type: text
-      text: 'perceiving in his spirit that they thus questioned within themselves, said to them, '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: “Why do you question these things in your hearts?
-    - type: text
-      text: ' '
-  '9':
+        text: 1 Tim. 1:15
+      metadata:
+        usfm: 1TI.1.15
+    marker-yv: yv-n
   - type: usfm
-    marker: p
+    marker: wj
+    children:
+    - type: text
+      text: but sinners.”
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: A Question About Fasting
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: 'Now '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '9'
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Which is easier, to say to the paralytic, ‘Your sins are forgiven,’ or to say, ‘Rise, take up your bed and walk’?
+        text: Matt. 11:2
+      metadata:
+        usfm: MAT.11.2
     - type: text
-      text: ' '
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 14:12
+      metadata:
+        usfm: MAT.14.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 11:1
+      metadata:
+        usfm: LUK.11.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 1:35
+      metadata:
+        usfm: JHN.1.35
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 3:25
+      metadata:
+        usfm: JHN.3.25
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:1
+      metadata:
+        usfm: JHN.4.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 18:25
+      metadata:
+        usfm: ACT.18.25
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:3
+      metadata:
+        usfm: ACT.19.3
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'John’s disciples and the Pharisees were fasting. And people came and said to him, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 7:5
+      metadata:
+        usfm: MRK.7.5
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: '“Why do John’s disciples and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 18:12
+      metadata:
+        usfm: LUK.18.12
+    marker-yv: yv-n
+  - type: text
+    text: 'the disciples of the Pharisees fast, but your disciples do not fast?” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: 'And Jesus said to them, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 3:29
+      metadata:
+        usfm: JHN.3.29
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: “Can the wedding guests fast while the bridegroom is with them? As long as they have the bridegroom with them, they cannot fast.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 17:22
+      metadata:
+        usfm: LUK.17.22
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'The days will come when the bridegroom is taken away from them, and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 16:20
+      metadata:
+        usfm: JHN.16.20
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: then they will fast in that day.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: No one sews a piece of unshrunk cloth on an old garment. If he does, the patch tears away from it, the new from the old, and a worse tear is made.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'And no one puts new wine into old '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Josh. 9:4
+      metadata:
+        usfm: JOS.9.4
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: wineskins. If he does, the wine will burst the skins—and the wine is destroyed, and so are the skins. But new wine is for fresh wineskins.”
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '2:22 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Some manuscripts omit '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: But new wine is for fresh wineskins
+    marker-yv: yv-n
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Jesus Is Lord of the Sabbath
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'For ver. 23-28, see '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 12:1-8
+      metadata:
+        usfm: MAT.12.1+MAT.12.2+MAT.12.3+MAT.12.4+MAT.12.5+MAT.12.6+MAT.12.7+MAT.12.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 6:1-5
+      metadata:
+        usfm: LUK.6.1+LUK.6.2+LUK.6.3+LUK.6.4+LUK.6.5
+    marker-yv: yv-n
+  - type: text
+    text: 'One Sabbath he was going through the grainfields, and as they made their way, his disciples '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 23:25
+      metadata:
+        usfm: DEU.23.25
+    marker-yv: yv-n
+  - type: text
+    text: 'began to pluck heads of grain. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '24'
+  - type: text
+    text: 'And the Pharisees were saying to him, “Look, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 9:11
+      metadata:
+        usfm: MAT.9.11
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'why are they doing '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 20:9-11
+      metadata:
+        usfm: EXO.20.9+EXO.20.10+EXO.20.11
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'what is not lawful on the Sabbath?” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '25'
+  - type: text
+    text: 'And he said to them, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 21:16
+      metadata:
+        usfm: MAT.21.16
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: '“Have you never read '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Sam. 21:1-6
+      metadata:
+        usfm: 1SA.21.1+1SA.21.2+1SA.21.3+1SA.21.4+1SA.21.5+1SA.21.6
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'what David did, when he was in need and was hungry, he and those who were with him:'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '26'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: how he entered the house of God, in the time of
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '2:26 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: in the passage about
+    marker-yv: yv-n
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Chr. 24:6
+      metadata:
+        usfm: 1CH.24.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Sam. 21:1
+      metadata:
+        usfm: 1SA.21.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Sam. 8:17
+      metadata:
+        usfm: 2SA.8.17
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'Abiathar the high priest, and ate '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 25:30
+      metadata:
+        usfm: EXO.25.30
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lev. 24:5-9
+      metadata:
+        usfm: LEV.24.5+LEV.24.6+LEV.24.7+LEV.24.8+LEV.24.9
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: the bread of the Presence, which it is not lawful for any but the priests to eat, and also gave it to those who were with him?”
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '27'
+  - type: text
+    text: 'And he said to them, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 23:12
+      metadata:
+        usfm: EXO.23.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 5:14
+      metadata:
+        usfm: DEU.5.14
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: '“The Sabbath was made for man, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Col. 2:16
+      metadata:
+        usfm: COL.2.16
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: not man for the Sabbath.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '28'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'So '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '10'
+      metadata:
+        usfm: MRK.2.10
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: the Son of Man is lord even of the Sabbath.”

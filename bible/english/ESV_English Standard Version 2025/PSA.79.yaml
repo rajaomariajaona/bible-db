@@ -1,979 +1,1080 @@
-document_id: PSA.79,59
+document_id: PSA.79
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: 'How Long, O '
   - type: usfm
-    marker: s1
+    marker: nd
     children:
     - type: text
-      text: 'How Long, O '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: '?'
-    marker-yv: yv-h
+      text: Lord
+  - type: text
+    text: '?'
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: 'A Psalm of '
   - type: usfm
-    marker: d
-    children:
-    - type: text
-      text: 'A Psalm of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 50
-      - type: text
-        text: ', title'
-      marker-yv: yv-n
-    - type: text
-      text: Asaph.
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Ps. 50
+      metadata:
+        usfm: PSA.50
     - type: text
-      text: 'O God, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lam. 1:10
-      marker-yv: yv-n
-    - type: text
-      text: 'the nations have come into your '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 15:17
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 74:2
-      marker-yv: yv-n
-    - type: text
-      text: inheritance;
+      text: ', title'
+    marker-yv: yv-n
+  - type: text
+    text: Asaph.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'they have defiled your '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 74:7
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: holy temple;
+      text: '1'
+  - type: text
+    text: 'O God, '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'they have '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 26:18
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mic. 3:12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Kgs. 25:9
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '10'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']; 2 Chr. 36:19'
-      marker-yv: yv-n
-    - type: text
-      text: laid Jerusalem in ruins.
-  '10':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: Lam. 1:10
+      metadata:
+        usfm: LAM.1.10
+    marker-yv: yv-n
+  - type: text
+    text: 'the nations have come into your '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 15:17
+      metadata:
+        usfm: EXO.15.17
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 74:2
+      metadata:
+        usfm: PSA.74.2
+    marker-yv: yv-n
+  - type: text
+    text: inheritance;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'they have defiled your '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 74:7
+      metadata:
+        usfm: PSA.74.7
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: holy temple;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'they have '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 26:18
+      metadata:
+        usfm: JER.26.18
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mic. 3:12
+      metadata:
+        usfm: MIC.3.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Kgs. 25:9
+      metadata:
+        usfm: 2KI.25.9
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '10'
+      metadata:
+        usfm: 2KI.25.10
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']; 2 Chr. 36:19'
+    marker-yv: yv-n
+  - type: text
+    text: laid Jerusalem in ruins.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'They have given '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 28:26
+      metadata:
+        usfm: DEU.28.26
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 7:33
+      metadata:
+        usfm: JER.7.33
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 16:4
+      metadata:
+        usfm: JER.16.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:7
+      metadata:
+        usfm: JER.19.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 34:20
+      metadata:
+        usfm: JER.34.20
+    marker-yv: yv-n
+  - type: text
+    text: the bodies of your servants
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: to the birds of the heavens for food,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'the flesh of your '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 50:5
+      metadata:
+        usfm: PSA.50.5
+    marker-yv: yv-n
+  - type: text
+    text: 'faithful to '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 74:19
+      metadata:
+        usfm: PSA.74.19
+    marker-yv: yv-n
+  - type: text
+    text: the beasts of the earth.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: They have poured out their blood like water
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: all around Jerusalem,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and there was '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 14:16
+      metadata:
+        usfm: JER.14.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Kgs. 9:10
+      metadata:
+        usfm: 2KI.9.10
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: no one to bury them.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'We have become '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Dan. 9:16
+      metadata:
+        usfm: DAN.9.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 44:13
+      metadata:
+        usfm: PSA.44.13
+    marker-yv: yv-n
+  - type: text
+    text: a taunt to our neighbors,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Dan. 9:16
+      metadata:
+        usfm: DAN.9.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 44:13
+      metadata:
+        usfm: PSA.44.13
+    marker-yv: yv-n
+  - type: text
+    text: mocked and derided by those around us.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 42:3
-      marker-yv: yv-n
-    - type: text
-      text: Why should the nations say,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: “Where is their God?”
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'Let '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 94:1
-      marker-yv: yv-n
-    - type: text
-      text: the avenging of the outpoured blood of your servants
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: be known among the nations before our eyes!
-  '11':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
+        text: Ps. 74:10
+      metadata:
+        usfm: PSA.74.10
     - type: text
-      text: 'Let '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 102:20
-      marker-yv: yv-n
-    - type: text
-      text: the groans of the prisoners come before you;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'according to your great power, preserve those '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Sam. 20:31
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: doomed to die!
-  '12':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '12'
-    - type: text
-      text: 'Return '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 4:15
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '24'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 26:21
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '28'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 6:31
-      marker-yv: yv-n
-    - type: text
-      text: 'sevenfold into the '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 65:6
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '7'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 32:18
-      marker-yv: yv-n
-    - type: text
-      text: lap of our neighbors
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'the '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 74:10
-      marker-yv: yv-n
-    - type: text
-      text: taunts with which they have taunted you, O Lord!
-  '13':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '13'
-    - type: text
-      text: 'But we your people, the '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 74:1
-      marker-yv: yv-n
-    - type: text
-      text: sheep of your pasture,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'will '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 43:21
-      marker-yv: yv-n
-    - type: text
-      text: give thanks to you forever;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: from generation to generation we will recount your praise.
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'They have given '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 28:26
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 7:33
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 16:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 34:20
-      marker-yv: yv-n
-    - type: text
-      text: the bodies of your servants
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: to the birds of the heavens for food,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'the flesh of your '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 50:5
-      marker-yv: yv-n
-    - type: text
-      text: 'faithful to '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 74:19
-      marker-yv: yv-n
-    - type: text
-      text: the beasts of the earth.
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: They have poured out their blood like water
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: all around Jerusalem,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and there was '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 14:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Kgs. 9:10
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: no one to bury them.
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'We have become '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Dan. 9:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 44:13
-      marker-yv: yv-n
-    - type: text
-      text: a taunt to our neighbors,
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Dan. 9:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 44:13
-      marker-yv: yv-n
-    - type: text
-      text: mocked and derided by those around us.
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
+        text: 80:4
+      metadata:
+        usfm: PSA.80.4
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 74:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 80:4
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'How long, O '
-    - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: '? Will you be angry '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 74:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 85:5
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']; See Ps. 13:1'
-      marker-yv: yv-n
-    - type: text
-      text: forever?
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'How long, O '
   - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: 'Will your '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 78:58
-      marker-yv: yv-n
-    - type: text
-      text: 'jealousy '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 78:21
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 89:46
-      marker-yv: yv-n
-    - type: text
-      text: burn like fire?
-  '6':
+      text: Lord
+  - type: text
+    text: '? Will you be angry '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '6'
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 74:1
+      metadata:
+        usfm: PSA.74.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 85:5
+      metadata:
+        usfm: PSA.85.5
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']; See Ps. 13:1'
+    marker-yv: yv-n
+  - type: text
+    text: forever?
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'Will your '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 78:58
+      metadata:
+        usfm: PSA.78.58
+    marker-yv: yv-n
+  - type: text
+    text: 'jealousy '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 78:21
+      metadata:
+        usfm: PSA.78.21
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 89:46
+      metadata:
+        usfm: PSA.89.46
+    marker-yv: yv-n
+  - type: text
+    text: burn like fire?
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'Cited '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 10:25
+      metadata:
+        usfm: JER.10.25
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 10:25
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Zeph. 3:8
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: Zeph. 3:8
+      metadata:
+        usfm: ZEP.3.8
     - type: text
-      text: Pour out your anger on the nations
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'that '
+      text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Thess. 1:8
-      marker-yv: yv-n
-    - type: text
-      text: do not know you,
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Pour out your anger on the nations
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'that '
   - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: and on the kingdoms
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'that '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 14:4
-      marker-yv: yv-n
-    - type: text
-      text: do not call upon your name!
-  '7':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: 2 Thess. 1:8
+      metadata:
+        usfm: 2TH.1.8
+    marker-yv: yv-n
+  - type: text
+    text: do not know you,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: and on the kingdoms
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'that '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 14:4
+      metadata:
+        usfm: PSA.14.4
+    marker-yv: yv-n
+  - type: text
+    text: do not call upon your name!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: For they have devoured Jacob
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and laid waste his habitation.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 64:9
+      metadata:
+        usfm: ISA.64.9
+    marker-yv: yv-n
+  - type: text
+    text: 'Do not remember against us '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 11:10
+      metadata:
+        usfm: JER.11.10
+    marker-yv: yv-n
+  - type: text
+    text: our former iniquities;
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '79:8 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: the iniquities of former generations
+    marker-yv: yv-n
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: let your compassion come speedily to meet us,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'for we are '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 116:6
+      metadata:
+        usfm: PSA.116.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 142:6
+      metadata:
+        usfm: PSA.142.6
+    marker-yv: yv-n
+  - type: text
+    text: brought very low.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Chr. 14:11
+      metadata:
+        usfm: 2CH.14.11
+    marker-yv: yv-n
+  - type: text
+    text: Help us, O God of our salvation,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: for the glory of your name;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'deliver us, and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 65:3
+      metadata:
+        usfm: PSA.65.3
+    marker-yv: yv-n
+  - type: text
+    text: atone for our sins,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'for your '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 14:7
+      metadata:
+        usfm: JER.14.7
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '21'
+      metadata:
+        usfm: JER.14.21
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 23:3
+      metadata:
+        usfm: PSA.23.3
+    marker-yv: yv-n
+  - type: text
+    text: name’s sake!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 42:3
+      metadata:
+        usfm: PSA.42.3
+    marker-yv: yv-n
+  - type: text
+    text: Why should the nations say,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: “Where is their God?”
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Let '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 94:1
+      metadata:
+        usfm: PSA.94.1
+    marker-yv: yv-n
+  - type: text
+    text: the avenging of the outpoured blood of your servants
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: be known among the nations before our eyes!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'Let '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 102:20
+      metadata:
+        usfm: PSA.102.20
+    marker-yv: yv-n
+  - type: text
+    text: the groans of the prisoners come before you;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'according to your great power, preserve those '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Sam. 20:31
+      metadata:
+        usfm: 1SA.20.31
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: doomed to die!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'Return '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 4:15
+      metadata:
+        usfm: GEN.4.15
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '24'
+      metadata:
+        usfm: GEN.4.24
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lev. 26:21
+      metadata:
+        usfm: LEV.26.21
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '28'
+      metadata:
+        usfm: LEV.26.28
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 6:31
+      metadata:
+        usfm: PRO.6.31
+    marker-yv: yv-n
+  - type: text
+    text: 'sevenfold into the '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 65:6
+      metadata:
+        usfm: ISA.65.6
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '7'
+      metadata:
+        usfm: ISA.65.7
     - type: text
-      text: For they have devoured Jacob
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and laid waste his habitation.
-  '8':
-  - type: usfm
-    marker: q1
-    children:
+      text: '; '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '8'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 64:9
-      marker-yv: yv-n
-    - type: text
-      text: 'Do not remember against us '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 11:10
-      marker-yv: yv-n
-    - type: text
-      text: our former iniquities;
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '79:8 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: the iniquities of former generations
-      marker-yv: yv-n
+        text: Jer. 32:18
+      metadata:
+        usfm: JER.32.18
+    marker-yv: yv-n
+  - type: text
+    text: lap of our neighbors
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'the '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: let your compassion come speedily to meet us,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'for we are '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 116:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 142:6
-      marker-yv: yv-n
-    - type: text
-      text: brought very low.
-  '9':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '9'
-    - type: text
-      text: ' '
+        text: 'See '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Chr. 14:11
-      marker-yv: yv-n
-    - type: text
-      text: Help us, O God of our salvation,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: for the glory of your name;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'deliver us, and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 65:3
-      marker-yv: yv-n
-    - type: text
-      text: atone for our sins,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'for your '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 14:7
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '21'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 23:3
-      marker-yv: yv-n
+        text: Ps. 74:10
+      metadata:
+        usfm: PSA.74.10
+    marker-yv: yv-n
+  - type: text
+    text: taunts with which they have taunted you, O Lord!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
     - type: text
-      text: name’s sake!
+      text: '13'
+  - type: text
+    text: 'But we your people, the '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 74:1
+      metadata:
+        usfm: PSA.74.1
+    marker-yv: yv-n
+  - type: text
+    text: sheep of your pasture,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'will '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 43:21
+      metadata:
+        usfm: ISA.43.21
+    marker-yv: yv-n
+  - type: text
+    text: give thanks to you forever;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: from generation to generation we will recount your praise.

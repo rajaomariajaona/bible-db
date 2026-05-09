@@ -1,1128 +1,1184 @@
-document_id: DEU.16,59
+document_id: DEU.16
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Passover
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Passover
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: '“Observe the '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: '“Observe the '
+        text: 'For ver. 1-8, see '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'For ver. 1-8, see '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 12:2-39
-      marker-yv: yv-n
-    - type: text
-      text: 'month of Abib and keep the Passover to the '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' your God, for '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 13:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 34:18
-      marker-yv: yv-n
-    - type: text
-      text: 'in the month of Abib the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' your God brought you out of Egypt by night. '
-  '10':
+        text: Ex. 12:2-39
+      metadata:
+        usfm: EXO.12.2+EXO.12.3+EXO.12.4+EXO.12.5+EXO.12.6+EXO.12.7+EXO.12.8+EXO.12.9+EXO.12.10+EXO.12.11+EXO.12.12+EXO.12.13+EXO.12.14+EXO.12.15+EXO.12.16+EXO.12.17+EXO.12.18+EXO.12.19+EXO.12.20+EXO.12.21+EXO.12.22+EXO.12.23+EXO.12.24+EXO.12.25+EXO.12.26+EXO.12.27+EXO.12.28+EXO.12.29+EXO.12.30+EXO.12.31+EXO.12.32+EXO.12.33+EXO.12.34+EXO.12.35+EXO.12.36+EXO.12.37+EXO.12.38+EXO.12.39
+    marker-yv: yv-n
+  - type: text
+    text: 'month of Abib and keep the Passover to the '
   - type: usfm
-    marker: p
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' your God, for '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
+        text: Ex. 13:4
+      metadata:
+        usfm: EXO.13.4
     - type: text
-      text: 'Then you shall keep '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Chr. 8:13
-      marker-yv: yv-n
-    - type: text
-      text: 'the Feast of Weeks to the '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' your God with '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 26:1-11
-      marker-yv: yv-n
-    - type: text
-      text: 'the tribute of a freewill offering from your hand, which you shall give '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 12:15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 16:2
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'as the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' your God blesses you. '
-  '11':
+        text: 34:18
+      metadata:
+        usfm: EXO.34.18
+    marker-yv: yv-n
+  - type: text
+    text: 'in the month of Abib the '
   - type: usfm
-    marker: p
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' your God brought you out of Egypt by night. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'And you shall offer the Passover sacrifice to the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' your God, from the flock or '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
-    - type: text
-      text: 'And '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 12:7
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '12'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '18'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 14:26
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Neh. 8:9-12
-      marker-yv: yv-n
-    - type: text
-      text: 'you shall rejoice before the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' your God, you and your son and your daughter, your male servant and your female servant, the Levite who is within your towns, the sojourner, the fatherless, and the widow who are among you, at the place that the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' your God will choose, to make his name dwell there. '
-  '12':
+        text: Num. 28:19
+      metadata:
+        usfm: NUM.28.19
+    marker-yv: yv-n
+  - type: text
+    text: 'the herd, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 12:5
+      metadata:
+        usfm: DEU.12.5
+    marker-yv: yv-n
+  - type: text
+    text: 'at the place that the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' will choose, to make his name dwell there. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'You shall eat no leavened bread with it. '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 13:6
+      metadata:
+        usfm: EXO.13.6
+    marker-yv: yv-n
+  - type: text
+    text: 'Seven days you shall eat it with unleavened bread, the bread of affliction—for you came out of the land of Egypt '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 12:11
+      metadata:
+        usfm: EXO.12.11
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 52:12
+      metadata:
+        usfm: ISA.52.12
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'in haste—that all the days of your life you may remember the day when you came out of the land of Egypt. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 13:7
+      metadata:
+        usfm: EXO.13.7
+    marker-yv: yv-n
+  - type: text
+    text: 'No leaven shall be seen with you in all your territory for seven days, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 34:25
+      metadata:
+        usfm: EXO.34.25
+    marker-yv: yv-n
+  - type: text
+    text: 'nor shall any of the flesh that you sacrifice on the evening of the first day remain all night until morning. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'You may not offer the Passover sacrifice within any of your towns that the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' your God is giving you, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'but at the place that the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' your God will choose, to make his name dwell in it, there you shall offer the Passover sacrifice, in the evening at sunset, at the time you came out of Egypt. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'And you shall cook it and eat it at the place that the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' your God will choose. And in the morning you shall turn and go to your tents. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'For '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 13:6
+      metadata:
+        usfm: EXO.13.6
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'six days you shall eat unleavened bread, and on the seventh day there shall be '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lev. 23:8
+      metadata:
+        usfm: LEV.23.8
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '36'
+      metadata:
+        usfm: LEV.23.36
+    marker-yv: yv-n
+  - type: text
+    text: 'a solemn assembly to the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' your God. You shall do no work on it.'
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: The Feast of Weeks
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 23:16
+      metadata:
+        usfm: EXO.23.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 34:22
+      metadata:
+        usfm: EXO.34.22
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lev. 23:15
+      metadata:
+        usfm: LEV.23.15
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Num. 28:26
+      metadata:
+        usfm: NUM.28.26
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 2:1
+      metadata:
+        usfm: ACT.2.1
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: '“You shall count seven weeks. Begin to count the seven weeks from the time the sickle is first put to the standing grain. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'Then you shall keep '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Chr. 8:13
+      metadata:
+        usfm: 2CH.8.13
+    marker-yv: yv-n
+  - type: text
+    text: 'the Feast of Weeks to the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' your God with '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 26:1-11
+      metadata:
+        usfm: DEU.26.1+DEU.26.2+DEU.26.3+DEU.26.4+DEU.26.5+DEU.26.6+DEU.26.7+DEU.26.8+DEU.26.9+DEU.26.10+DEU.26.11
+    marker-yv: yv-n
+  - type: text
+    text: 'the tribute of a freewill offering from your hand, which you shall give '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 12:15
+      metadata:
+        usfm: DEU.12.15
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 16:2
+      metadata:
+        usfm: 1CO.16.2
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'as the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' your God blesses you. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'And '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 12:7
+      metadata:
+        usfm: DEU.12.7
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '12'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 5:15
-      marker-yv: yv-n
+      metadata:
+        usfm: DEU.12.12
     - type: text
-      text: You shall remember that you were a slave in Egypt; and you shall be careful to observe these statutes.
-  - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: The Feast of Booths
-    marker-yv: yv-h
-  '13':
-  - type: usfm
-    marker: p
-    children:
+      text: ', '
     - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '13'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 23:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 23:34
-      marker-yv: yv-n
-    - type: text
-      text: '“You shall keep the Feast of Booths seven days, when you have gathered in the produce from your threshing floor and your winepress. '
-  '14':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '14'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '11'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Neh. 8:9-12
-      marker-yv: yv-n
-    - type: text
-      text: 'You shall rejoice in your feast, you and your son and your daughter, your male servant and your female servant, the Levite, the sojourner, the fatherless, and the widow who are within your towns. '
-  '15':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '15'
-    - type: text
-      text: 'For '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 23:39
-      marker-yv: yv-n
-    - type: text
-      text: 'seven days you shall keep the feast to the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' your God at the place that the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' will choose, because the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' your God will bless you in all your produce and in all the work of your hands, so that you will be altogether joyful.'
-  '16':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 31:11
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 23:14
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '17'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 34:23
-      marker-yv: yv-n
-    - type: text
-      text: '“Three times a year all your males shall appear before the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' your God at the place that he will choose: at the Feast of Unleavened Bread, at the Feast of Weeks, and at the Feast of Booths. '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 23:15
-      marker-yv: yv-n
-    - type: text
-      text: 'They shall not appear before the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' empty-handed. '
-  '17':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: text
-      text: 'Every man '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezek. 46:5
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '11'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Cor. 8:12
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'shall give as he is able, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '10'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: above]
-      marker-yv: yv-n
-    - type: text
-      text: 'according to the blessing of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' your God that he has given you.'
-  - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Justice
-    marker-yv: yv-h
-  '18':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '18'
+      metadata:
+        usfm: DEU.12.18
     - type: text
-      text: '“You shall appoint '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Num. 11:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 1:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Chr. 23:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 26:29
-      marker-yv: yv-n
-    - type: text
-      text: 'judges and officers in all your towns that the '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: 14:26
+      metadata:
+        usfm: DEU.14.26
     - type: text
-      text: ' your God is giving you, according to your tribes, and they shall judge the people with righteous judgment. '
-  '19':
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Neh. 8:9-12
+      metadata:
+        usfm: NEH.8.9+NEH.8.10+NEH.8.11+NEH.8.12
+    marker-yv: yv-n
+  - type: text
+    text: 'you shall rejoice before the '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 27:19
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 23:2
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '6'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 10:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Amos 5:12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 19:15
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 24:17
-      marker-yv: yv-n
-    - type: text
-      text: 'You shall not pervert justice. '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1:17
-      marker-yv: yv-n
-    - type: text
-      text: 'You shall not show partiality, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 23:8
-      marker-yv: yv-n
-    - type: text
-      text: 'and you shall not accept a bribe, for a bribe blinds the eyes of the wise and subverts the cause of the righteous. '
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'And you shall offer the Passover sacrifice to the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' your God, from the flock or '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Num. 28:19
-      marker-yv: yv-n
-    - type: text
-      text: 'the herd, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 12:5
-      marker-yv: yv-n
-    - type: text
-      text: 'at the place that the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' will choose, to make his name dwell there. '
-  '20':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '20'
-    - type: text
-      text: 'Justice, and only justice, you shall follow, that you may live and inherit the land that the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' your God is giving you.'
-  - type: usfm
-    marker: s1
+    marker: nd
     children:
     - type: text
-      text: Forbidden Forms of Worship
-    marker-yv: yv-h
-  '21':
+      text: Lord
+  - type: text
+    text: ' your God, you and your son and your daughter, your male servant and your female servant, the Levite who is within your towns, the sojourner, the fatherless, and the widow who are among you, at the place that the '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '21'
-    - type: text
-      text: '“You shall not plant any tree as '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 34:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Judg. 6:25
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Kgs. 14:15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 16:33
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Kgs. 13:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 17:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Chr. 33:3
-      marker-yv: yv-n
-    - type: text
-      text: 'an Asherah beside the altar of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' your God that you shall make. '
-  '22':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '22'
-    - type: text
-      text: 'And you shall not set up a pillar, which the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' your God hates.'
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'You shall eat no leavened bread with it. '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 13:6
-      marker-yv: yv-n
-    - type: text
-      text: 'Seven days you shall eat it with unleavened bread, the bread of affliction—for you came out of the land of Egypt '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 12:11
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 52:12
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'in haste—that all the days of your life you may remember the day when you came out of the land of Egypt. '
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 13:7
-      marker-yv: yv-n
-    - type: text
-      text: 'No leaven shall be seen with you in all your territory for seven days, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 34:25
-      marker-yv: yv-n
-    - type: text
-      text: 'nor shall any of the flesh that you sacrifice on the evening of the first day remain all night until morning. '
-  '5':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: 'You may not offer the Passover sacrifice within any of your towns that the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' your God is giving you, '
-  '6':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'but at the place that the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' your God will choose, to make his name dwell in it, there you shall offer the Passover sacrifice, in the evening at sunset, at the time you came out of Egypt. '
-  '7':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: 'And you shall cook it and eat it at the place that the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' your God will choose. And in the morning you shall turn and go to your tents. '
-  '8':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: 'For '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 13:6
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'six days you shall eat unleavened bread, and on the seventh day there shall be '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 23:8
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '36'
-      marker-yv: yv-n
-    - type: text
-      text: 'a solemn assembly to the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' your God. You shall do no work on it.'
-  - type: usfm
-    marker: s1
+    marker: nd
     children:
     - type: text
-      text: The Feast of Weeks
-    marker-yv: yv-h
-  '9':
+      text: Lord
+  - type: text
+    text: ' your God will choose, to make his name dwell there. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '9'
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 5:15
+      metadata:
+        usfm: DEU.5.15
+    marker-yv: yv-n
+  - type: text
+    text: You shall remember that you were a slave in Egypt; and you shall be careful to observe these statutes.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: The Feast of Booths
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 23:16
+      metadata:
+        usfm: EXO.23.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lev. 23:34
+      metadata:
+        usfm: LEV.23.34
+    marker-yv: yv-n
+  - type: text
+    text: '“You shall keep the Feast of Booths seven days, when you have gathered in the produce from your threshing floor and your winepress. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '11'
+      metadata:
+        usfm: DEU.16.11
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Neh. 8:9-12
+      metadata:
+        usfm: NEH.8.9+NEH.8.10+NEH.8.11+NEH.8.12
+    marker-yv: yv-n
+  - type: text
+    text: 'You shall rejoice in your feast, you and your son and your daughter, your male servant and your female servant, the Levite, the sojourner, the fatherless, and the widow who are within your towns. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: 'For '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lev. 23:39
+      metadata:
+        usfm: LEV.23.39
+    marker-yv: yv-n
+  - type: text
+    text: 'seven days you shall keep the feast to the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' your God at the place that the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' will choose, because the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' your God will bless you in all your produce and in all the work of your hands, so that you will be altogether joyful.'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 31:11
+      metadata:
+        usfm: DEU.31.11
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 23:14
+      metadata:
+        usfm: EXO.23.14
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '17'
+      metadata:
+        usfm: EXO.23.17
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 34:23
+      metadata:
+        usfm: EXO.34.23
+    marker-yv: yv-n
+  - type: text
+    text: '“Three times a year all your males shall appear before the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' your God at the place that he will choose: at the Feast of Unleavened Bread, at the Feast of Weeks, and at the Feast of Booths. '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 23:15
+      metadata:
+        usfm: EXO.23.15
+    marker-yv: yv-n
+  - type: text
+    text: 'They shall not appear before the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' empty-handed. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'Every man '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ezek. 46:5
+      metadata:
+        usfm: EZK.46.5
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '11'
+      metadata:
+        usfm: EZK.46.11
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Cor. 8:12
+      metadata:
+        usfm: 2CO.8.12
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'shall give as he is able, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[See ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '10'
+      metadata:
+        usfm: DEU.10
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 23:16
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 34:22
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 23:15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Num. 28:26
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 2:1
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: above]
+    marker-yv: yv-n
+  - type: text
+    text: 'according to the blessing of the '
+  - type: usfm
+    marker: nd
+    children:
     - type: text
-      text: '“You shall count seven weeks. Begin to count the seven weeks from the time the sickle is first put to the standing grain. '
+      text: Lord
+  - type: text
+    text: ' your God that he has given you.'
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Justice
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: '“You shall appoint '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1:16
+      metadata:
+        usfm: DEU.1.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Num. 11:16
+      metadata:
+        usfm: NUM.11.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Josh. 1:10
+      metadata:
+        usfm: JOS.1.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Chr. 23:4
+      metadata:
+        usfm: 1CH.23.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 26:29
+      metadata:
+        usfm: 1CH.26.29
+    marker-yv: yv-n
+  - type: text
+    text: 'judges and officers in all your towns that the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' your God is giving you, according to your tribes, and they shall judge the people with righteous judgment. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 27:19
+      metadata:
+        usfm: DEU.27.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 23:2
+      metadata:
+        usfm: EXO.23.2
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '6'
+      metadata:
+        usfm: EXO.23.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 10:2
+      metadata:
+        usfm: ISA.10.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Amos 5:12
+      metadata:
+        usfm: AMO.5.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lev. 19:15
+      metadata:
+        usfm: LEV.19.15
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 24:17
+      metadata:
+        usfm: LEV.24.17
+    marker-yv: yv-n
+  - type: text
+    text: 'You shall not pervert justice. '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1:17
+      metadata:
+        usfm: DEU.1.17
+    marker-yv: yv-n
+  - type: text
+    text: 'You shall not show partiality, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 23:8
+      metadata:
+        usfm: EXO.23.8
+    marker-yv: yv-n
+  - type: text
+    text: 'and you shall not accept a bribe, for a bribe blinds the eyes of the wise and subverts the cause of the righteous. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: text
+    text: 'Justice, and only justice, you shall follow, that you may live and inherit the land that the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' your God is giving you.'
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Forbidden Forms of Worship
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: text
+    text: '“You shall not plant any tree as '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 34:13
+      metadata:
+        usfm: EXO.34.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Judg. 6:25
+      metadata:
+        usfm: JDG.6.25
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Kgs. 14:15
+      metadata:
+        usfm: 1KI.14.15
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 16:33
+      metadata:
+        usfm: 1KI.16.33
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Kgs. 13:6
+      metadata:
+        usfm: 2KI.13.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 17:16
+      metadata:
+        usfm: 2KI.17.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Chr. 33:3
+      metadata:
+        usfm: 2CH.33.3
+    marker-yv: yv-n
+  - type: text
+    text: 'an Asherah beside the altar of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' your God that you shall make. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: 'And you shall not set up a pillar, which the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' your God hates.'

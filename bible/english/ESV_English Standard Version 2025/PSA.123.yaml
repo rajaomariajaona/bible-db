@@ -1,285 +1,303 @@
-document_id: PSA.123,59
+document_id: PSA.123
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: 'Our Eyes Look to the '
   - type: usfm
-    marker: s1
+    marker: nd
     children:
     - type: text
-      text: 'Our Eyes Look to the '
+      text: Lord
+  - type: text
+    text: ' Our God'
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: 'A Song of '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' Our God'
-    marker-yv: yv-h
-  - type: usfm
-    marker: d
-    children:
-    - type: text
-      text: 'A Song of '
+        text: '[See '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 120
-      - type: text
-        text: ', title'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: Ascents.
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Ps. 120
+      metadata:
+        usfm: PSA.120
     - type: text
-      text: 'To you I '
+      text: ', title'
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 121:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 141:8
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']; See Ps. 25:15'
-      marker-yv: yv-n
-    - type: text
-      text: lift up my eyes,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'O you who are '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 2:4
-      marker-yv: yv-n
-    - type: text
-      text: enthroned in the heavens!
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: Behold, as the eyes of servants
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Ascents.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: look to the hand of their master,
+      text: '1'
+  - type: text
+    text: 'To you I '
   - type: usfm
-    marker: q1
+    marker: x
     children:
-    - type: text
-      text: as the eyes of a maidservant
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: to the hand of her mistress,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'so our eyes look to the '
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: Ps. 121:1
+      metadata:
+        usfm: PSA.121.1
     - type: text
-      text: ' our God,'
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: till he has mercy upon us.
-  '3':
-  - type: usfm
-    marker: q1
-    children:
+      text: '; '
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: ' '
+        text: '['
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 4:1
-      marker-yv: yv-n
-    - type: text
-      text: 'Have mercy upon us, O '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ', have mercy upon us,'
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'for we have had more than enough of '
+        text: Ps. 141:8
+      metadata:
+        usfm: PSA.141.8
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Neh. 4:4
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: contempt.
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '4'
-    - type: text
-      text: Our soul has had more than enough
+        text: ']; See Ps. 25:15'
+    marker-yv: yv-n
+  - type: text
+    text: lift up my eyes,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'O you who are '
   - type: usfm
-    marker: q2
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 2:4
+      metadata:
+        usfm: PSA.2.4
+    marker-yv: yv-n
+  - type: text
+    text: enthroned in the heavens!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
     children:
     - type: text
-      text: 'of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Neh. 2:19
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'the scorn of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 32:9
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '11'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Amos 6:1
-      marker-yv: yv-n
-    - type: text
-      text: those who are at ease,
+      text: '2'
+  - type: text
+    text: Behold, as the eyes of servants
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: look to the hand of their master,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: as the eyes of a maidservant
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: to the hand of her mistress,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'so our eyes look to the '
   - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: 'of the contempt of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 119:51
-      marker-yv: yv-n
+      text: Lord
+  - type: text
+    text: ' our God,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: till he has mercy upon us.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
     - type: text
-      text: the proud.
+      text: '3'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 4:1
+      metadata:
+        usfm: PSA.4.1
+    marker-yv: yv-n
+  - type: text
+    text: 'Have mercy upon us, O '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ', have mercy upon us,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'for we have had more than enough of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Neh. 4:4
+      metadata:
+        usfm: NEH.4.4
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: contempt.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: Our soul has had more than enough
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Neh. 2:19
+      metadata:
+        usfm: NEH.2.19
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'the scorn of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 32:9
+      metadata:
+        usfm: ISA.32.9
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '11'
+      metadata:
+        usfm: ISA.32.11
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Amos 6:1
+      metadata:
+        usfm: AMO.6.1
+    marker-yv: yv-n
+  - type: text
+    text: those who are at ease,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'of the contempt of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 119:51
+      metadata:
+        usfm: PSA.119.51
+    marker-yv: yv-n
+  - type: text
+    text: the proud.

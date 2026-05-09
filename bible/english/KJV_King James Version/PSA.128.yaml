@@ -1,155 +1,149 @@
-document_id: PSA.128,1
+document_id: PSA.128
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: A Song of degrees.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: d
+    marker: vlbl
     children:
     - type: text
-      text: A Song of degrees.
+      text: '1'
+  - type: text
+    text: 'Blessed '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: 'Blessed '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: is
-    - type: text
-      text: ' every one that feareth the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: LORD
-    - type: text
-      text: ;
-  - type: usfm
-    marker: q2
+    marker: add
     children:
     - type: text
-      text: That walketh in his ways.
-  '2':
+      text: is
+  - type: text
+    text: ' every one that feareth the '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'For thou shalt eat the labour of thine hands:'
-  - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: 'Happy '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: shalt
-    - type: text
-      text: ' thou '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: be
-    - type: text
-      text: ', and '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: it shall be
-    - type: text
-      text: ' well with thee.'
-  '3':
+      text: LORD
+  - type: text
+    text: ;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: That walketh in his ways.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'Thy wife '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: shall be
-    - type: text
-      text: ' as a fruitful vine by the sides of thine house: Thy children like olive plants round about thy table.'
-  '4':
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'Behold, that thus shall the man be blessed that feareth the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: LORD
-    - type: text
-      text: .
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: 'The '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: LORD
-    - type: text
-      text: ' shall bless thee out of Zion:'
-  - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: And thou shalt see the good of Jerusalem all the days of thy life.
-  '6':
+      text: '2'
+  - type: text
+    text: 'For thou shalt eat the labour of thine hands:'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'Happy '
   - type: usfm
-    marker: q1
+    marker: add
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
     - type: text
-      text: Yea, thou shalt see thy children's children,
+      text: shalt
+  - type: text
+    text: ' thou '
   - type: usfm
-    marker: q2
+    marker: add
     children:
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: And
     - type: text
-      text: ' peace upon Israel.'
+      text: be
+  - type: text
+    text: ', and '
+  - type: usfm
+    marker: add
+    children:
+    - type: text
+      text: it shall be
+  - type: text
+    text: ' well with thee.'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'Thy wife '
+  - type: usfm
+    marker: add
+    children:
+    - type: text
+      text: shall be
+  - type: text
+    text: ' as a fruitful vine by the sides of thine house: Thy children like olive plants round about thy table.'
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'Behold, that thus shall the man be blessed that feareth the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: LORD
+  - type: text
+    text: .
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'The '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: LORD
+  - type: text
+    text: ' shall bless thee out of Zion:'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: And thou shalt see the good of Jerusalem all the days of thy life.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: Yea, thou shalt see thy children's children,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: add
+    children:
+    - type: text
+      text: And
+  - type: text
+    text: ' peace upon Israel.'

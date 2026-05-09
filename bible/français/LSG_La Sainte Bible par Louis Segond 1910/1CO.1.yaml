@@ -1,927 +1,924 @@
-document_id: 1CO.1,93
+document_id: 1CO.1
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Adresse et salutation
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 1-3: cf. Ro 1:1-7. Jud v. 1, 2. Ac 18.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Adresse et salutation
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Paul, appelé à être apôtre de Jésus-Christ par la volonté de Dieu, et le frère Sosthène, '
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 1-3: cf. Ro 1:1-7. Jud v. 1, 2. Ac 18.'
-    marker-yv: yv-h
+      text: '2'
+  - type: text
+    text: 'à l’Église de Dieu qui est à Corinthe, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Jn 17:19
+      metadata:
+        usfm: JHN.17.19
     - type: text
-      text: 'Paul, appelé à être apôtre de Jésus-Christ par la volonté de Dieu, et le frère Sosthène, '
-  '10':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ac 15:9
+      metadata:
+        usfm: ACT.15.9
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Th 4:7
+      metadata:
+        usfm: 1TH.4.7
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'à ceux qui ont été sanctifiés en Jésus-Christ, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
+        text: Ro 1:7
+      metadata:
+        usfm: ROM.1.7
     - type: text
-      text: 'Je vous exhorte, frères, par le nom de notre Seigneur Jésus-Christ, '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 12:16
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 15:5
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ph 2:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 3:16
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pi 3:8
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Ép 1:1
+      metadata:
+        usfm: EPH.1.1
     - type: text
-      text: 'à tenir tous un même langage, et à ne point avoir de divisions parmi vous, mais à être parfaitement unis dans un même esprit et dans un même sentiment. '
-  '11':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'appelés à être saints, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
+        text: 2 Ti 2:22
+      metadata:
+        usfm: 2TI.2.22
     - type: text
-      text: 'Car, mes frères, j’ai appris à votre sujet, par les gens de Chloé, qu’il y a des disputes au milieu de vous. '
-  '12':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'et à tous ceux qui invoquent en quelque lieu que ce soit le nom de notre Seigneur Jésus-Christ, leur Seigneur et le nôtre: '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '12'
-    - type: text
-      text: 'Je veux dire que chacun de vous parle ainsi: '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Co 3:4
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Moi, je suis de Paul! Et moi, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ac 18:24
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Co 16:12
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'd’Apollos! Et moi, de Céphas! Et moi, de Christ! '
-  '13':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '13'
-    - type: text
-      text: 'Christ est-il divisé? Paul a-t-il été crucifié pour vous, ou est-ce au nom de Paul que vous avez été baptisés? '
-  '14':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '14'
-    - type: text
-      text: 'Je rends grâces à Dieu de ce que je n’ai baptisé aucun de vous, excepté '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ac 18:8
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Crispus et '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 16:23
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Gaïus, '
-  '15':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '15'
-    - type: text
-      text: 'afin que personne ne dise que vous avez été baptisés en mon nom. '
-  '16':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: text
-      text: 'J’ai encore baptisé la famille de '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Co 16:15
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '17'
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: Stéphanas; du reste, je ne sache pas que j’aie baptisé quelque autre personne.
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: La sagesse du monde et la sagesse de Dieu. — Caractère et but de la prédication de Paul
-    marker-yv: yv-h
+      text: '3'
   - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 17-31: cf. (1 Co 3:18-20. Ro 1:16.) Mt 11:25-27. Lu 1:35. Jé 9:23, 24.'
-    marker-yv: yv-h
-  '17':
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: Ro 1:7
+      metadata:
+        usfm: ROM.1.7
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Co 1:2
+      metadata:
+        usfm: 2CO.1.2
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ép 1:2
+      metadata:
+        usfm: EPH.1.2
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pi 1:2
+      metadata:
+        usfm: 1PE.1.2
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: que la grâce et la paix vous soient données de la part de Dieu notre Père et du Seigneur Jésus-Christ!
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Actions de grâces pour les dons accordés aux Corinthiens. Appel à l’union
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 4-16: cf. (Ph 1:3-6. Col 1:3-6.) 1 Co 3:3-8, 21, 22.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'Je rends à mon Dieu de continuelles actions de grâces à votre sujet, pour la grâce de Dieu qui vous a été accordée en Jésus-Christ. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Col 1:9
+      metadata:
+        usfm: COL.1.9
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Car en lui vous avez été comblés de toutes les richesses qui concernent la parole et la connaissance, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'le témoignage de Christ ayant été solidement établi parmi vous, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'de sorte qu’il ne vous manque aucun don, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ph 3:20
+      metadata:
+        usfm: PHP.3.20
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Tit 2:13
+      metadata:
+        usfm: TIT.2.13
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'dans l’attente où vous êtes de la manifestation de notre Seigneur Jésus-Christ. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Th 3:13
+      metadata:
+        usfm: 1TH.3.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 5:23
+      metadata:
+        usfm: 1TH.5.23
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Il vous affermira aussi jusqu’à la fin, pour que vous soyez irréprochables au jour de notre Seigneur Jésus-Christ. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Co 10:13
+      metadata:
+        usfm: 1CO.10.13
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Th 5:24
+      metadata:
+        usfm: 1TH.5.24
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Dieu est fidèle, lui qui vous a appelés à '
+  - type: usfm
+    marker: x
+    children:
+    - type: text
+      text: 'Jé 32:40, etc. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jn 15:5
+      metadata:
+        usfm: JHN.15.5
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ga 2:20
+      metadata:
+        usfm: GAL.2.20
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Jn 1:3
+      metadata:
+        usfm: 1JN.1.3
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'la communion de son Fils, Jésus-Christ notre Seigneur. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'Je vous exhorte, frères, par le nom de notre Seigneur Jésus-Christ, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ro 12:16
+      metadata:
+        usfm: ROM.12.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 15:5
+      metadata:
+        usfm: ROM.15.5
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ph 2:2
+      metadata:
+        usfm: PHP.2.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 3:16
+      metadata:
+        usfm: PHP.3.16
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pi 3:8
+      metadata:
+        usfm: 1PE.3.8
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'à tenir tous un même langage, et à ne point avoir de divisions parmi vous, mais à être parfaitement unis dans un même esprit et dans un même sentiment. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'Car, mes frères, j’ai appris à votre sujet, par les gens de Chloé, qu’il y a des disputes au milieu de vous. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'Je veux dire que chacun de vous parle ainsi: '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Co 3:4
+      metadata:
+        usfm: 1CO.3.4
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Moi, je suis de Paul! Et moi, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ac 18:24
+      metadata:
+        usfm: ACT.18.24
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Co 16:12
+      metadata:
+        usfm: 1CO.16.12
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'd’Apollos! Et moi, de Céphas! Et moi, de Christ! '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'Christ est-il divisé? Paul a-t-il été crucifié pour vous, ou est-ce au nom de Paul que vous avez été baptisés? '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: 'Je rends grâces à Dieu de ce que je n’ai baptisé aucun de vous, excepté '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ac 18:8
+      metadata:
+        usfm: ACT.18.8
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Crispus et '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ro 16:23
+      metadata:
+        usfm: ROM.16.23
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Gaïus, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: 'afin que personne ne dise que vous avez été baptisés en mon nom. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'J’ai encore baptisé la famille de '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Co 16:15
+      metadata:
+        usfm: 1CO.16.15
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '17'
+      metadata:
+        usfm: 1CO.16.17
     - type: text
-      text: 'Ce n’est pas pour baptiser que Christ m’a envoyé, c’est pour annoncer l’Évangile, et cela '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Co 2:1
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '4'
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pi 1:16
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'sans la sagesse du langage, afin que la croix de Christ ne soit pas rendue vaine. '
-  '18':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: Stéphanas; du reste, je ne sache pas que j’aie baptisé quelque autre personne.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: La sagesse du monde et la sagesse de Dieu. — Caractère et but de la prédication de Paul
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 17-31: cf. (1 Co 3:18-20. Ro 1:16.) Mt 11:25-27. Lu 1:35. Jé 9:23, 24.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
-    - type: text
-      text: 'Car la prédication de la croix est une folie pour ceux qui périssent; '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 1:16
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'mais pour nous qui sommes sauvés, elle est une puissance de Dieu. '
-  '19':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: text
-      text: 'Aussi est-il écrit:'
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 5:12
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 29:14
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: Je détruirai la sagesse des sages,
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: 'Et j’anéantirai l’intelligence des intelligents. '
-  '2':
+      text: '17'
+  - type: text
+    text: 'Ce n’est pas pour baptiser que Christ m’a envoyé, c’est pour annoncer l’Évangile, et cela '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '2'
+        text: 1 Co 2:1
+      metadata:
+        usfm: 1CO.2.1
     - type: text
-      text: 'à l’Église de Dieu qui est à Corinthe, '
+      text: ', '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 17:19
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ac 15:9
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Th 4:7
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'à ceux qui ont été sanctifiés en Jésus-Christ, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 1:7
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ép 1:1
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'appelés à être saints, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Ti 2:22
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'et à tous ceux qui invoquent en quelque lieu que ce soit le nom de notre Seigneur Jésus-Christ, leur Seigneur et le nôtre: '
-  '20':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '20'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 33:18
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Où est le sage? Où est le scribe? Où est le disputeur de ce siècle? Dieu n’a-t-il pas convaincu de folie la sagesse du monde? '
-  '21':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '21'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mt 11:25
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lu 10:21
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Car puisque le monde, avec sa sagesse, n’a point connu Dieu dans la sagesse de Dieu, il a plu à Dieu de sauver les croyants par la folie de la prédication. '
-  '22':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '22'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mt 12:38
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 16:1
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 4:48
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Les Juifs demandent des miracles et les Grecs cherchent la sagesse: '
-  '23':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '23'
-    - type: text
-      text: 'nous, nous prêchons Christ crucifié; scandale '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mt 11:6
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 6:60
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '66'
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'pour les Juifs et folie pour les païens, '
-  '24':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '24'
-    - type: text
-      text: 'mais puissance de Dieu et '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col 2:3
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'sagesse de Dieu pour ceux qui sont appelés, tant Juifs que Grecs. '
-  '25':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '25'
-    - type: text
-      text: 'Car la folie de Dieu est plus sage que les hommes, et la faiblesse de Dieu est plus forte que les hommes. '
-  '26':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '26'
-    - type: text
-      text: 'Considérez, frères, que parmi vous qui avez été appelés '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 7:48
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ja 2:5
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'il n’y a ni beaucoup de sages selon la chair, ni beaucoup de puissants, ni beaucoup de nobles. '
-  '27':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '27'
-    - type: text
-      text: 'Mais Dieu a choisi les choses folles du monde pour confondre les sages; Dieu a choisi les choses faibles du monde pour confondre les fortes; '
-  '28':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '28'
-    - type: text
-      text: 'et Dieu a choisi les choses viles du monde et celles qu’on méprise, celles qui ne sont point, pour réduire à néant celles qui sont, '
-  '29':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '29'
-    - type: text
-      text: 'afin que nulle chair ne se glorifie devant Dieu. '
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 1:7
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Co 1:2
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ép 1:2
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pi 1:2
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: que la grâce et la paix vous soient données de la part de Dieu notre Père et du Seigneur Jésus-Christ!
-  - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Actions de grâces pour les dons accordés aux Corinthiens. Appel à l’union
-    marker-yv: yv-h
-  - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 4-16: cf. (Ph 1:3-6. Col 1:3-6.) 1 Co 3:3-8, 21, 22.'
-    marker-yv: yv-h
-  '30':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '30'
-    - type: text
-      text: 'Or, c’est par lui que vous êtes en Jésus-Christ, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jé 23:5
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 17:19
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'lequel, de par Dieu, a été fait pour nous sagesse, justice et sanctification et rédemption, '
-  '31':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '31'
-    - type: text
-      text: afin, comme il est écrit,
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 65:16
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jé 9:23
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '24'
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Co 10:17
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: Que celui qui se glorifie se glorifie dans le Seigneur.
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '4'
+      metadata:
+        usfm: 1CO.2.4
     - type: text
-      text: 'Je rends à mon Dieu de continuelles actions de grâces à votre sujet, pour la grâce de Dieu qui vous a été accordée en Jésus-Christ. '
-  '5':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pi 1:16
+      metadata:
+        usfm: 2PE.1.16
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'sans la sagesse du langage, afin que la croix de Christ ne soit pas rendue vaine. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: 'Car la prédication de la croix est une folie pour ceux qui périssent; '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col 1:9
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Ro 1:16
+      metadata:
+        usfm: ROM.1.16
     - type: text
-      text: 'Car en lui vous avez été comblés de toutes les richesses qui concernent la parole et la connaissance, '
-  '6':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'mais pour nous qui sommes sauvés, elle est une puissance de Dieu. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: 'Aussi est-il écrit:'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '6'
+        text: Job 5:12
+      metadata:
+        usfm: JOB.5.12
     - type: text
-      text: 'le témoignage de Christ ayant été solidement établi parmi vous, '
-  '7':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: És 29:14
+      metadata:
+        usfm: ISA.29.14
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: Je détruirai la sagesse des sages,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Et j’anéantirai l’intelligence des intelligents. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '7'
+        text: És 33:18
+      metadata:
+        usfm: ISA.33.18
     - type: text
-      text: 'de sorte qu’il ne vous manque aucun don, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ph 3:20
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Tit 2:13
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'dans l’attente où vous êtes de la manifestation de notre Seigneur Jésus-Christ. '
-  '8':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Où est le sage? Où est le scribe? Où est le disputeur de ce siècle? Dieu n’a-t-il pas convaincu de folie la sagesse du monde? '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '8'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Th 3:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 5:23
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Mt 11:25
+      metadata:
+        usfm: MAT.11.25
     - type: text
-      text: 'Il vous affermira aussi jusqu’à la fin, pour que vous soyez irréprochables au jour de notre Seigneur Jésus-Christ. '
-  '9':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lu 10:21
+      metadata:
+        usfm: LUK.10.21
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Car puisque le monde, avec sa sagesse, n’a point connu Dieu dans la sagesse de Dieu, il a plu à Dieu de sauver les croyants par la folie de la prédication. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '9'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Co 10:13
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Th 5:24
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Mt 12:38
+      metadata:
+        usfm: MAT.12.38
     - type: text
-      text: 'Dieu est fidèle, lui qui vous a appelés à '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
       - type: text
-        text: 'Jé 32:40, etc. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 15:5
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ga 2:20
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Jn 1:3
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: 16:1
+      metadata:
+        usfm: MAT.16.1
     - type: text
-      text: 'la communion de son Fils, Jésus-Christ notre Seigneur. '
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jn 4:48
+      metadata:
+        usfm: JHN.4.48
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Les Juifs demandent des miracles et les Grecs cherchent la sagesse: '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: text
+    text: 'nous, nous prêchons Christ crucifié; scandale '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mt 11:6
+      metadata:
+        usfm: MAT.11.6
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jn 6:60
+      metadata:
+        usfm: JHN.6.60
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '66'
+      metadata:
+        usfm: JHN.6.66
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'pour les Juifs et folie pour les païens, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '24'
+  - type: text
+    text: 'mais puissance de Dieu et '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Col 2:3
+      metadata:
+        usfm: COL.2.3
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'sagesse de Dieu pour ceux qui sont appelés, tant Juifs que Grecs. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '25'
+  - type: text
+    text: 'Car la folie de Dieu est plus sage que les hommes, et la faiblesse de Dieu est plus forte que les hommes. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '26'
+  - type: text
+    text: 'Considérez, frères, que parmi vous qui avez été appelés '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jn 7:48
+      metadata:
+        usfm: JHN.7.48
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ja 2:5
+      metadata:
+        usfm: JAS.2.5
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'il n’y a ni beaucoup de sages selon la chair, ni beaucoup de puissants, ni beaucoup de nobles. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '27'
+  - type: text
+    text: 'Mais Dieu a choisi les choses folles du monde pour confondre les sages; Dieu a choisi les choses faibles du monde pour confondre les fortes; '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '28'
+  - type: text
+    text: 'et Dieu a choisi les choses viles du monde et celles qu’on méprise, celles qui ne sont point, pour réduire à néant celles qui sont, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '29'
+  - type: text
+    text: 'afin que nulle chair ne se glorifie devant Dieu. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '30'
+  - type: text
+    text: 'Or, c’est par lui que vous êtes en Jésus-Christ, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jé 23:5
+      metadata:
+        usfm: JER.23.5
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jn 17:19
+      metadata:
+        usfm: JHN.17.19
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'lequel, de par Dieu, a été fait pour nous sagesse, justice et sanctification et rédemption, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '31'
+  - type: text
+    text: afin, comme il est écrit,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: És 65:16
+      metadata:
+        usfm: ISA.65.16
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jé 9:23
+      metadata:
+        usfm: JER.9.23
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '24'
+      metadata:
+        usfm: JER.9.24
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Co 10:17
+      metadata:
+        usfm: 2CO.10.17
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: Que celui qui se glorifie se glorifie dans le Seigneur.

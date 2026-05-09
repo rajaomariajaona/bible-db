@@ -1,564 +1,458 @@
-document_id: JOS.8,93
+document_id: JOS.8
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Prise d’Aï
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 1-29: cf. Jos 7. Jg 20:27-48. (De 20:16-18; 21:22, 23.)'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Prise d’Aï
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'L’Éternel dit à Josué: '
   - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 1-29: cf. Jos 7. Jg 20:27-48. (De 20:16-18; 21:22, 23.)'
-    marker-yv: yv-h
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: De 1:21
+      metadata:
+        usfm: DEU.1.21
     - type: text
-      text: 'L’Éternel dit à Josué: '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: De 1:21
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 7:18
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: 7:18
+      metadata:
+        usfm: DEU.7.18
     - type: text
-      text: 'Ne crains point, et ne t’effraie point! Prends avec toi tous les gens de guerre, lève-toi, monte contre Aï. Vois, je livre entre tes mains le roi d’Aï et son peuple, sa ville et son pays. '
-  '10':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Ne crains point, et ne t’effraie point! Prends avec toi tous les gens de guerre, lève-toi, monte contre Aï. Vois, je livre entre tes mains le roi d’Aï et son peuple, sa ville et son pays. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'Tu traiteras Aï et son roi '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
+        text: Jos 6:21
+      metadata:
+        usfm: JOS.6.21
     - type: text
-      text: 'Josué se leva de bon matin, passa le peuple en revue, et marcha contre Aï, à la tête du peuple, lui et les anciens d’Israël. '
-  '11':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'comme tu as traité Jéricho et son roi; seulement vous garderez pour vous le butin et '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
+        text: De 20:14
+      metadata:
+        usfm: DEU.20.14
     - type: text
-      text: 'Tous les gens de guerre qui étaient avec lui montèrent et s’approchèrent; lorsqu’ils furent arrivés en face de la ville, ils campèrent au nord d’Aï, dont ils étaient séparés par la vallée. '
-  '12':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'le bétail. Place une embuscade derrière la ville. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'Josué se leva avec tous les gens de guerre, pour monter contre Aï. Il choisit trente mille vaillants hommes, qu’il fit partir de nuit, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'et auxquels il donna cet ordre: Écoutez, vous vous mettrez en embuscade derrière la ville; ne vous éloignez pas beaucoup de la ville, et soyez tous prêts. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'Mais moi et tout le peuple qui est avec moi, nous nous approcherons de la ville. Et quand ils sortiront à notre rencontre, comme la première fois, nous prendrons la fuite devant eux. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'Ils nous poursuivront jusqu’à ce que nous les ayons attirés loin de la ville, car ils diront: Ils fuient devant nous, comme la première fois! Et nous fuirons devant eux. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'Vous sortirez alors de l’embuscade, et vous vous emparerez de la ville, et l’Éternel, votre Dieu, la livrera entre vos mains. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'Quand vous aurez pris la ville, vous y mettrez le feu, vous agirez comme l’Éternel l’a dit: c’est l’ordre que je vous donne. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'Josué les fit partir, et ils allèrent se placer en embuscade entre Béthel et Aï, à l’occident d’Aï. Mais Josué passa cette nuit-là au milieu du peuple. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'Josué se leva de bon matin, passa le peuple en revue, et marcha contre Aï, à la tête du peuple, lui et les anciens d’Israël. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'Tous les gens de guerre qui étaient avec lui montèrent et s’approchèrent; lorsqu’ils furent arrivés en face de la ville, ils campèrent au nord d’Aï, dont ils étaient séparés par la vallée. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'Josué prit environ cinq mille hommes, et les mit en embuscade entre Béthel et Aï, à l’occident de la ville. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'Après que tout le camp eut pris position au nord de la ville, et l’embuscade à l’occident de la ville, Josué s’avança cette nuit-là au milieu de la vallée. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: 'Lorsque le roi d’Aï vit cela, les gens d’Aï se levèrent en hâte de bon matin, et sortirent à la rencontre d’Israël, pour le combattre. Le roi se dirigea, avec tout son peuple, vers un lieu fixé, du côté de la plaine, et il ne savait pas qu’il y avait derrière la ville une embuscade contre lui. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: 'Josué et tout Israël feignirent d’être battus devant eux, et ils s’enfuirent par le chemin du désert. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'Alors tout le peuple qui était dans la ville s’assembla pour se mettre à leur poursuite. Ils poursuivirent Josué, et ils furent attirés loin de la ville. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'Il n’y eut dans Aï et dans Béthel pas un homme qui ne sortît contre Israël. Ils laissèrent la ville ouverte, et poursuivirent Israël. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: 'L’Éternel dit à Josué: Étends vers Aï le javelot que tu as à la main, car je vais la livrer en ton pouvoir. Et Josué étendit vers la ville le javelot qu’il avait à la main. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: 'Aussitôt qu’il eut étendu sa main, les hommes en embuscade sortirent précipitamment du lieu où ils étaient; ils pénétrèrent dans la ville, la prirent, et se hâtèrent d’y mettre le feu. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: text
+    text: 'Les gens d’Aï, ayant regardé derrière eux, virent la fumée de la ville monter vers le ciel, et ils ne purent se sauver d’aucun côté. Le peuple qui fuyait vers le désert se retourna contre ceux qui le poursuivaient; '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: text
+    text: 'car Josué et tout Israël, voyant la ville prise par les hommes de l’embuscade, et la fumée de la ville qui montait, se retournèrent et battirent les gens d’Aï. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: 'Les autres sortirent de la ville à leur rencontre, et les gens d’Aï furent enveloppés par Israël de toutes parts. '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '12'
+        text: De 7:2
+      metadata:
+        usfm: DEU.7.2
     - type: text
-      text: 'Josué prit environ cinq mille hommes, et les mit en embuscade entre Béthel et Aï, à l’occident de la ville. '
-  '13':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Israël les battit, sans leur laisser un survivant ni un fuyard; '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: text
+    text: 'ils prirent vivant le roi d’Aï, et l’amenèrent à Josué. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '24'
+  - type: text
+    text: 'Lorsqu’Israël eut achevé de tuer tous les habitants d’Aï dans la campagne, dans le désert, où ils l’avaient poursuivi, et que tous furent entièrement passés au fil de l’épée, tout Israël revint vers Aï et la frappa du tranchant de l’épée. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '25'
+  - type: text
+    text: 'Il y eut au total douze mille personnes tuées ce jour-là, hommes et femmes, tous gens d’Aï. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '26'
+  - type: text
+    text: 'Josué ne retira point sa main qu’il tenait étendue avec le javelot, jusqu’à ce que tous les habitants eussent été dévoués par interdit. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '27'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '13'
+        text: No 31:22
+      metadata:
+        usfm: NUM.31.22
     - type: text
-      text: 'Après que tout le camp eut pris position au nord de la ville, et l’embuscade à l’occident de la ville, Josué s’avança cette nuit-là au milieu de la vallée. '
-  '14':
-  - type: usfm
-    marker: p
-    children:
+      text: ', '
     - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '14'
-    - type: text
-      text: 'Lorsque le roi d’Aï vit cela, les gens d’Aï se levèrent en hâte de bon matin, et sortirent à la rencontre d’Israël, pour le combattre. Le roi se dirigea, avec tout son peuple, vers un lieu fixé, du côté de la plaine, et il ne savait pas qu’il y avait derrière la ville une embuscade contre lui. '
-  '15':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '15'
-    - type: text
-      text: 'Josué et tout Israël feignirent d’être battus devant eux, et ils s’enfuirent par le chemin du désert. '
-  '16':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: text
-      text: 'Alors tout le peuple qui était dans la ville s’assembla pour se mettre à leur poursuite. Ils poursuivirent Josué, et ils furent attirés loin de la ville. '
-  '17':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: text
-      text: 'Il n’y eut dans Aï et dans Béthel pas un homme qui ne sortît contre Israël. Ils laissèrent la ville ouverte, et poursuivirent Israël. '
-  '18':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
-    - type: text
-      text: 'L’Éternel dit à Josué: Étends vers Aï le javelot que tu as à la main, car je vais la livrer en ton pouvoir. Et Josué étendit vers la ville le javelot qu’il avait à la main. '
-  '19':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: text
-      text: 'Aussitôt qu’il eut étendu sa main, les hommes en embuscade sortirent précipitamment du lieu où ils étaient; ils pénétrèrent dans la ville, la prirent, et se hâtèrent d’y mettre le feu. '
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'Tu traiteras Aï et son roi '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jos 6:21
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'comme tu as traité Jéricho et son roi; seulement vous garderez pour vous le butin et '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: De 20:14
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'le bétail. Place une embuscade derrière la ville. '
-  '20':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '20'
-    - type: text
-      text: 'Les gens d’Aï, ayant regardé derrière eux, virent la fumée de la ville monter vers le ciel, et ils ne purent se sauver d’aucun côté. Le peuple qui fuyait vers le désert se retourna contre ceux qui le poursuivaient; '
-  '21':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '21'
-    - type: text
-      text: 'car Josué et tout Israël, voyant la ville prise par les hommes de l’embuscade, et la fumée de la ville qui montait, se retournèrent et battirent les gens d’Aï. '
-  '22':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '22'
-    - type: text
-      text: 'Les autres sortirent de la ville à leur rencontre, et les gens d’Aï furent enveloppés par Israël de toutes parts. '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: De 7:2
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Israël les battit, sans leur laisser un survivant ni un fuyard; '
-  '23':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '23'
-    - type: text
-      text: 'ils prirent vivant le roi d’Aï, et l’amenèrent à Josué. '
-  '24':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '24'
-    - type: text
-      text: 'Lorsqu’Israël eut achevé de tuer tous les habitants d’Aï dans la campagne, dans le désert, où ils l’avaient poursuivi, et que tous furent entièrement passés au fil de l’épée, tout Israël revint vers Aï et la frappa du tranchant de l’épée. '
-  '25':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '25'
-    - type: text
-      text: 'Il y eut au total douze mille personnes tuées ce jour-là, hommes et femmes, tous gens d’Aï. '
-  '26':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '26'
+      metadata:
+        usfm: NUM.31.26
     - type: text
-      text: 'Josué ne retira point sa main qu’il tenait étendue avec le javelot, jusqu’à ce que tous les habitants eussent été dévoués par interdit. '
-  '27':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Seulement Israël garda pour lui le bétail et le butin de cette ville, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '27'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: No 31:22
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '26'
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Jos 8:2
+      metadata:
+        usfm: JOS.8.2
     - type: text
-      text: 'Seulement Israël garda pour lui le bétail et le butin de cette ville, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jos 8:2
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'selon l’ordre que l’Éternel avait prescrit à Josué. '
-  '28':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'selon l’ordre que l’Éternel avait prescrit à Josué. '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '28'
-    - type: text
-      text: 'Josué brûla Aï, et en fit à jamais un monceau de ruines, qui subsiste encore aujourd’hui. '
-  '29':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '29'
-    - type: text
-      text: 'Il fit pendre à un bois le roi d’Aï, et l’y laissa jusqu’au soir. '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: De 21:22
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '23'
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: Au coucher du soleil, Josué ordonna qu’on descendît son cadavre du bois; on le jeta à l’entrée de la porte de la ville, et l’on éleva sur lui un grand monceau de pierres, qui subsiste encore aujourd’hui.
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Autel sur le mont Ébal
-    marker-yv: yv-h
+      text: '28'
+  - type: text
+    text: 'Josué brûla Aï, et en fit à jamais un monceau de ruines, qui subsiste encore aujourd’hui. '
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 30-35: cf. De 27 et 28.'
-    marker-yv: yv-h
-  '3':
+      text: '29'
+  - type: text
+    text: 'Il fit pendre à un bois le roi d’Aï, et l’y laissa jusqu’au soir. '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '3'
+        text: De 21:22
+      metadata:
+        usfm: DEU.21.22
     - type: text
-      text: 'Josué se leva avec tous les gens de guerre, pour monter contre Aï. Il choisit trente mille vaillants hommes, qu’il fit partir de nuit, '
-  '30':
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '23'
+      metadata:
+        usfm: DEU.21.23
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: Au coucher du soleil, Josué ordonna qu’on descendît son cadavre du bois; on le jeta à l’entrée de la porte de la ville, et l’on éleva sur lui un grand monceau de pierres, qui subsiste encore aujourd’hui.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Autel sur le mont Ébal
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 30-35: cf. De 27 et 28.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '30'
+  - type: text
+    text: 'Alors Josué bâtit un autel à l’Éternel, le Dieu d’Israël, sur le mont Ébal, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '31'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '30'
+        text: Ex 20:25
+      metadata:
+        usfm: EXO.20.25
     - type: text
-      text: 'Alors Josué bâtit un autel à l’Éternel, le Dieu d’Israël, sur le mont Ébal, '
-  '31':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: De 27:4
+      metadata:
+        usfm: DEU.27.4
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'comme Moïse, serviteur de l’Éternel, l’avait ordonné aux enfants d’Israël, et comme il est écrit dans le livre de la loi de Moïse: c’était un autel de pierres brutes, sur lesquelles on ne porta point le fer. Ils offrirent sur cet autel des holocaustes à l’Éternel, et ils présentèrent des sacrifices d’actions de grâces. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '32'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '31'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex 20:25
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: De 27:4
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: De 27:3
+      metadata:
+        usfm: DEU.27.3
     - type: text
-      text: 'comme Moïse, serviteur de l’Éternel, l’avait ordonné aux enfants d’Israël, et comme il est écrit dans le livre de la loi de Moïse: c’était un autel de pierres brutes, sur lesquelles on ne porta point le fer. Ils offrirent sur cet autel des holocaustes à l’Éternel, et ils présentèrent des sacrifices d’actions de grâces. '
-  '32':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Et là Josué écrivit sur les pierres une copie de la loi que Moïse avait écrite devant les enfants d’Israël. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '33'
+  - type: text
+    text: 'Tout Israël, ses anciens, ses officiers et ses juges, se tenaient des deux côtés de l’arche, devant les sacrificateurs, les Lévites, qui portaient l’arche de l’alliance de l’Éternel; les étrangers comme les enfants d’Israël étaient là, moitié du côté du mont Garizim, moitié du côté du mont Ébal, selon l’ordre qu’avait précédemment donné Moïse, serviteur de l’Éternel, de bénir le peuple d’Israël. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '34'
+  - type: text
+    text: 'Josué lut ensuite toutes les paroles de la loi, les bénédictions et les malédictions, suivant ce qui est écrit dans le livre de la loi. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '35'
+  - type: text
+    text: 'Il n’y eut rien de tout ce que Moïse avait prescrit, que Josué ne lût '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '32'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: De 27:3
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: De 31:11
+      metadata:
+        usfm: DEU.31.11
     - type: text
-      text: 'Et là Josué écrivit sur les pierres une copie de la loi que Moïse avait écrite devant les enfants d’Israël. '
-  '33':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '33'
-    - type: text
-      text: 'Tout Israël, ses anciens, ses officiers et ses juges, se tenaient des deux côtés de l’arche, devant les sacrificateurs, les Lévites, qui portaient l’arche de l’alliance de l’Éternel; les étrangers comme les enfants d’Israël étaient là, moitié du côté du mont Garizim, moitié du côté du mont Ébal, selon l’ordre qu’avait précédemment donné Moïse, serviteur de l’Éternel, de bénir le peuple d’Israël. '
-  '34':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '34'
-    - type: text
-      text: 'Josué lut ensuite toutes les paroles de la loi, les bénédictions et les malédictions, suivant ce qui est écrit dans le livre de la loi. '
-  '35':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '35'
-    - type: text
-      text: 'Il n’y eut rien de tout ce que Moïse avait prescrit, que Josué ne lût '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: De 31:11
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: en présence de toute l’assemblée d’Israël, des femmes et des enfants, et des étrangers qui marchaient au milieu d’eux.
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'et auxquels il donna cet ordre: Écoutez, vous vous mettrez en embuscade derrière la ville; ne vous éloignez pas beaucoup de la ville, et soyez tous prêts. '
-  '5':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: 'Mais moi et tout le peuple qui est avec moi, nous nous approcherons de la ville. Et quand ils sortiront à notre rencontre, comme la première fois, nous prendrons la fuite devant eux. '
-  '6':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'Ils nous poursuivront jusqu’à ce que nous les ayons attirés loin de la ville, car ils diront: Ils fuient devant nous, comme la première fois! Et nous fuirons devant eux. '
-  '7':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: 'Vous sortirez alors de l’embuscade, et vous vous emparerez de la ville, et l’Éternel, votre Dieu, la livrera entre vos mains. '
-  '8':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: 'Quand vous aurez pris la ville, vous y mettrez le feu, vous agirez comme l’Éternel l’a dit: c’est l’ordre que je vous donne. '
-  '9':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: 'Josué les fit partir, et ils allèrent se placer en embuscade entre Béthel et Aï, à l’occident d’Aï. Mais Josué passa cette nuit-là au milieu du peuple. '
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: en présence de toute l’assemblée d’Israël, des femmes et des enfants, et des étrangers qui marchaient au milieu d’eux.

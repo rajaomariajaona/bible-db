@@ -1,176 +1,175 @@
-document_id: PSA.110,93
+document_id: PSA.110
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: (Mt 22:41-46. Ac 2:33-36.) Hé 7. Ps 2:6-12.
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: (Mt 22:41-46. Ac 2:33-36.) Hé 7. Ps 2:6-12.
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: De David. Psaume.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Parole de l’Éternel à mon Seigneur:'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Assieds-toi à ma droite,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Jusqu’à ce que je fasse de tes ennemis ton marchepied.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: De David. Psaume.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'Parole de l’Éternel à mon Seigneur:'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Assieds-toi à ma droite,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Jusqu’à ce que je fasse de tes ennemis ton marchepied.
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'L’Éternel étendra de Sion le sceptre de ta puissance:'
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Domine au milieu de tes ennemis!
-  '3':
+      text: '2'
+  - type: text
+    text: 'L’Éternel étendra de Sion le sceptre de ta puissance:'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Domine au milieu de tes ennemis!
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: Ton peuple est plein d’ardeur, quand tu rassembles ton armée;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Avec des ornements sacrés, du sein de l’aurore
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Ta jeunesse vient à toi comme une rosée.
-  '4':
+      text: '3'
+  - type: text
+    text: Ton peuple est plein d’ardeur, quand tu rassembles ton armée;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Avec des ornements sacrés, du sein de l’aurore
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Ta jeunesse vient à toi comme une rosée.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'L’Éternel l’a juré, et il ne s’en repentira point:'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'Tu es sacrificateur '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hé 5:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 6:20
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 7:17
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: pour toujours,
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: A la manière de Melchisédek.
-  '5':
+      text: '4'
+  - type: text
+    text: 'L’Éternel l’a juré, et il ne s’en repentira point:'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Tu es sacrificateur '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
+        text: Hé 5:6
+      metadata:
+        usfm: HEB.5.6
     - type: text
-      text: Le Seigneur, à ta droite,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Brise des rois au jour de sa colère.
-  '6':
-  - type: usfm
-    marker: q1
-    children:
+      text: '; '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '6'
+        text: 6:20
+      metadata:
+        usfm: HEB.6.20
     - type: text
-      text: 'Il exerce la justice parmi les nations: '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
       - type: text
-        text: Ap 14:14, etc.; 16:14, etc.; 20:8, etc.
-      marker-yv: yv-n
+        text: 7:17
+      metadata:
+        usfm: HEB.7.17
     - type: text
-      text: tout est plein de cadavres;
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: pour toujours,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: A la manière de Melchisédek.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Il brise des têtes sur toute l’étendue du pays.
-  '7':
+      text: '5'
+  - type: text
+    text: Le Seigneur, à ta droite,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Brise des rois au jour de sa colère.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
     - type: text
-      text: 'Il boit au torrent pendant la marche:'
+      text: '6'
+  - type: text
+    text: 'Il exerce la justice parmi les nations: '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: text
-      text: C’est pourquoi il relève la tête.
+      text: Ap 14:14, etc.; 16:14, etc.; 20:8, etc.
+    marker-yv: yv-n
+  - type: text
+    text: tout est plein de cadavres;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Il brise des têtes sur toute l’étendue du pays.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'Il boit au torrent pendant la marche:'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: C’est pourquoi il relève la tête.

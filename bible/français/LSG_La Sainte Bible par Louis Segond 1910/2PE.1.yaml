@@ -1,572 +1,561 @@
-document_id: 2PE.1,93
+document_id: 2PE.1
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Adresse et salutation
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 1-2: cf. 1 Pi 1:1, 2. Jud v. 1, 2.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Adresse et salutation
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Simon Pierre, serviteur et apôtre de Jésus-Christ, à ceux qui ont reçu en partage une foi du même prix que la nôtre, par la justice de notre Dieu et du Sauveur Jésus-Christ: '
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 1-2: cf. 1 Pi 1:1, 2. Jud v. 1, 2.'
-    marker-yv: yv-h
+      text: '2'
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Ro 1:7
+      metadata:
+        usfm: ROM.1.7
     - type: text
-      text: 'Simon Pierre, serviteur et apôtre de Jésus-Christ, à ceux qui ont reçu en partage une foi du même prix que la nôtre, par la justice de notre Dieu et du Sauveur Jésus-Christ: '
-  '10':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pi 1:2
+      metadata:
+        usfm: 1PE.1.2
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'que la grâce et la paix vous soient '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
+        text: 1 Pi 1:2
+      metadata:
+        usfm: 1PE.1.2
     - type: text
-      text: 'C’est pourquoi, frères, appliquez-vous d’autant plus à affermir votre vocation et votre élection; car, en faisant cela, vous ne broncherez jamais. '
-  '11':
+      text: . Jud v. 2.
+    marker-yv: yv-n
+  - type: text
+    text: 'multipliées '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
+        text: Jn 17:3
+      metadata:
+        usfm: JHN.17.3
     - type: text
-      text: C’est ainsi, en effet, que l’entrée dans le royaume éternel de notre Seigneur et Sauveur Jésus-Christ vous sera pleinement accordée.
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: par la connaissance de Dieu et de Jésus notre Seigneur!
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: La pratique des vertus chrétiennes
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 3-11: cf. Jn 17:2, 3. (Tit 2:11-14. Ph 1:9-11; 3:8-14. Hé 6:11, 12.)'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 12-21: cf. (1 Jn 1:1-4. Mt 17:1-6.) (1 Pi 1:10-12. 2 Ti 3:16.)'
-    marker-yv: yv-h
-  '12':
+      text: '3'
+  - type: text
+    text: 'Comme sa divine puissance nous a donné tout ce qui contribue à la vie et à la piété, au moyen de la connaissance de celui qui nous a appelés par sa propre gloire et par sa vertu, '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'lesquelles nous assurent de sa part les plus grandes et les plus précieuses promesses, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '12'
+        text: És 56:5
+      metadata:
+        usfm: ISA.56.5
     - type: text
-      text: 'Voilà pourquoi je prendrai soin de vous rappeler ces choses, bien que vous les sachiez et que vous soyez affermis dans la vérité présente. '
-  '13':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jn 1:12
+      metadata:
+        usfm: JHN.1.12
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ro 8:15
+      metadata:
+        usfm: ROM.8.15
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ga 3:26
+      metadata:
+        usfm: GAL.3.26
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'afin que par elles vous deveniez participants de la nature divine, en fuyant la corruption qui existe dans le monde par la convoitise, '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'à cause de cela même, faites tous vos efforts pour joindre à votre foi la vertu, à la vertu la science, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'à la science la tempérance, à la tempérance la patience, à la patience la piété, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'à la piété l’amour fraternel, à l’amour fraternel la charité. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'Car si ces choses sont en vous, et y sont avec abondance, elles ne vous laisseront point oisifs ni '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '13'
+        text: Tit 3:14
+      metadata:
+        usfm: TIT.3.14
     - type: text
-      text: 'Et je regarde comme un devoir, aussi longtemps que je suis dans cette tente, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pi 3:1
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'de vous tenir en éveil par des avertissements, '
-  '14':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'stériles pour la connaissance de notre Seigneur Jésus-Christ. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'Mais celui en qui ces choses ne sont point est aveugle, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '14'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Ti 4:6
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: És 59:10
+      metadata:
+        usfm: ISA.59.10
     - type: text
-      text: 'car je sais que je la quitterai subitement, '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pi 1:18
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '19'
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: So 1:17
+      metadata:
+        usfm: ZEP.1.17
     - type: text
-      text: 'ainsi que notre Seigneur Jésus-Christ me l’a fait connaître. '
-  '15':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'il ne voit pas de loin, et il a mis en oubli la purification de ses anciens péchés. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'C’est pourquoi, frères, appliquez-vous d’autant plus à affermir votre vocation et votre élection; car, en faisant cela, vous ne broncherez jamais. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: C’est ainsi, en effet, que l’entrée dans le royaume éternel de notre Seigneur et Sauveur Jésus-Christ vous sera pleinement accordée.
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 12-21: cf. (1 Jn 1:1-4. Mt 17:1-6.) (1 Pi 1:10-12. 2 Ti 3:16.)'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'Voilà pourquoi je prendrai soin de vous rappeler ces choses, bien que vous les sachiez et que vous soyez affermis dans la vérité présente. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'Et je regarde comme un devoir, aussi longtemps que je suis dans cette tente, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '15'
+        text: 2 Pi 3:1
+      metadata:
+        usfm: 2PE.3.1
     - type: text
-      text: 'Mais j’aurai soin qu’après mon départ vous puissiez toujours vous souvenir de ces choses. '
-  '16':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'de vous tenir en éveil par des avertissements, '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '16'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Co 1:17
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:1
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '4'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:20
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: 2 Ti 4:6
+      metadata:
+        usfm: 2TI.4.6
     - type: text
-      text: 'Ce n’est pas, en effet, en suivant des fables habilement conçues, que nous vous avons fait connaître la puissance et l’avènement de notre Seigneur Jésus-Christ, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mt 17:1
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 1:14
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Jn 1:1
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'mais c’est comme ayant vu sa majesté de nos propres yeux. '
-  '17':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'car je sais que je la quitterai subitement, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '17'
+        text: 2 Pi 1:18
+      metadata:
+        usfm: 2PE.1.18
     - type: text
-      text: 'Car il a reçu de Dieu le Père honneur et gloire, quand la gloire magnifique lui fit entendre une voix qui disait: '
+      text: ', '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mt 3:17
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 17:5
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mc 1:11
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 9:7
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lu 3:22
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 9:35
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col 1:13
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Celui-ci est mon Fils bien-aimé, en qui j’ai mis toute mon affection. '
-  '18':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
-    - type: text
-      text: 'Et nous avons entendu cette voix venant du ciel, lorsque nous étions avec lui sur la sainte montagne. '
-  '19':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '19'
+      metadata:
+        usfm: 2PE.1.19
     - type: text
-      text: 'Et nous tenons pour d’autant plus certaine la parole prophétique, à laquelle vous faites bien de prêter attention, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Co 4:6
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'comme à une lampe qui brille dans un lieu obscur, jusqu’à ce que le jour vienne à paraître et '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ap 22:16
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'que l’étoile du matin se lève dans vos cœurs; '
-  '2':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'ainsi que notre Seigneur Jésus-Christ me l’a fait connaître. '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 1:7
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pi 1:2
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'que la grâce et la paix vous soient '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pi 1:2
-      - type: text
-        text: . Jud v. 2.
-      marker-yv: yv-n
-    - type: text
-      text: 'multipliées '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 17:3
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: par la connaissance de Dieu et de Jésus notre Seigneur!
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: La pratique des vertus chrétiennes
-    marker-yv: yv-h
+      text: '15'
+  - type: text
+    text: 'Mais j’aurai soin qu’après mon départ vous puissiez toujours vous souvenir de ces choses. '
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 3-11: cf. Jn 17:2, 3. (Tit 2:11-14. Ph 1:9-11; 3:8-14. Hé 6:11, 12.)'
-    marker-yv: yv-h
-  '20':
+      text: '16'
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '20'
+        text: 1 Co 1:17
+      metadata:
+        usfm: 1CO.1.17
     - type: text
-      text: 'sachant tout d’abord vous-mêmes qu’aucune prophétie de l’Écriture ne peut être un objet d’interprétation particulière, '
-  '21':
-  - type: usfm
-    marker: p
-    children:
+      text: '; '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '21'
+        text: 2:1
+      metadata:
+        usfm: 1CO.2.1
     - type: text
-      text: 'car ce n’est pas par une volonté d’homme qu’une prophétie a jamais été apportée, mais '
+      text: ', '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Ti 3:16
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: c’est poussés par le Saint-Esprit que des hommes ont parlé de la part de Dieu.
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'Comme sa divine puissance nous a donné tout ce qui contribue à la vie et à la piété, au moyen de la connaissance de celui qui nous a appelés par sa propre gloire et par sa vertu, '
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '4'
+      metadata:
+        usfm: 1CO.2.4
     - type: text
-      text: 'lesquelles nous assurent de sa part les plus grandes et les plus précieuses promesses, '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 56:5
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 1:12
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 8:15
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ga 3:26
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: 4:20
+      metadata:
+        usfm: 1CO.4.20
     - type: text
-      text: 'afin que par elles vous deveniez participants de la nature divine, en fuyant la corruption qui existe dans le monde par la convoitise, '
-  '5':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Ce n’est pas, en effet, en suivant des fables habilement conçues, que nous vous avons fait connaître la puissance et l’avènement de notre Seigneur Jésus-Christ, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
+        text: Mt 17:1
+      metadata:
+        usfm: MAT.17.1
     - type: text
-      text: 'à cause de cela même, faites tous vos efforts pour joindre à votre foi la vertu, à la vertu la science, '
-  '6':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jn 1:14
+      metadata:
+        usfm: JHN.1.14
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Jn 1:1
+      metadata:
+        usfm: 1JN.1.1
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'mais c’est comme ayant vu sa majesté de nos propres yeux. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'Car il a reçu de Dieu le Père honneur et gloire, quand la gloire magnifique lui fit entendre une voix qui disait: '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '6'
+        text: Mt 3:17
+      metadata:
+        usfm: MAT.3.17
     - type: text
-      text: 'à la science la tempérance, à la tempérance la patience, à la patience la piété, '
-  '7':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 17:5
+      metadata:
+        usfm: MAT.17.5
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mc 1:11
+      metadata:
+        usfm: MRK.1.11
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 9:7
+      metadata:
+        usfm: MRK.9.7
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lu 3:22
+      metadata:
+        usfm: LUK.3.22
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 9:35
+      metadata:
+        usfm: LUK.9.35
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Col 1:13
+      metadata:
+        usfm: COL.1.13
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Celui-ci est mon Fils bien-aimé, en qui j’ai mis toute mon affection. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: 'Et nous avons entendu cette voix venant du ciel, lorsque nous étions avec lui sur la sainte montagne. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: 'Et nous tenons pour d’autant plus certaine la parole prophétique, à laquelle vous faites bien de prêter attention, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '7'
+        text: 2 Co 4:6
+      metadata:
+        usfm: 2CO.4.6
     - type: text
-      text: 'à la piété l’amour fraternel, à l’amour fraternel la charité. '
-  '8':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'comme à une lampe qui brille dans un lieu obscur, jusqu’à ce que le jour vienne à paraître et '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '8'
+        text: Ap 22:16
+      metadata:
+        usfm: REV.22.16
     - type: text
-      text: 'Car si ces choses sont en vous, et y sont avec abondance, elles ne vous laisseront point oisifs ni '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Tit 3:14
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'stériles pour la connaissance de notre Seigneur Jésus-Christ. '
-  '9':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'que l’étoile du matin se lève dans vos cœurs; '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: text
+    text: 'sachant tout d’abord vous-mêmes qu’aucune prophétie de l’Écriture ne peut être un objet d’interprétation particulière, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: text
+    text: 'car ce n’est pas par une volonté d’homme qu’une prophétie a jamais été apportée, mais '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '9'
+        text: 2 Ti 3:16
+      metadata:
+        usfm: 2TI.3.16
     - type: text
-      text: 'Mais celui en qui ces choses ne sont point est aveugle, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 59:10
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: So 1:17
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'il ne voit pas de loin, et il a mis en oubli la purification de ses anciens péchés. '
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: c’est poussés par le Saint-Esprit que des hommes ont parlé de la part de Dieu.

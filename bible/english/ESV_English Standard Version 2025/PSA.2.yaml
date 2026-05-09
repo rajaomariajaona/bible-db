@@ -1,823 +1,917 @@
-document_id: PSA.2,59
+document_id: PSA.2
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: 'The Reign of the '
   - type: usfm
-    marker: s1
+    marker: nd
     children:
     - type: text
-      text: 'The Reign of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ’s Anointed
-    marker-yv: yv-h
+      text: Lord
+  - type: text
+    text: ’s Anointed
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '1'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '1'
+        text: 'Cited '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 4:25
+      metadata:
+        usfm: ACT.4.25
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '26'
+      metadata:
+        usfm: ACT.4.26
+    marker-yv: yv-n
+  - type: text
+    text: 'Why do '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 46:6
+      metadata:
+        usfm: PSA.46.6
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the nations rage
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '2:1 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: nations noisily assemble
+    marker-yv: yv-n
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and the peoples plot in vain?
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: The kings of the earth set themselves,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and the rulers take counsel together,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'against the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' and against his '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 18:50
+      metadata:
+        usfm: PSA.18.50
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 20:6
+      metadata:
+        usfm: PSA.20.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 45:7
+      metadata:
+        usfm: PSA.45.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 89:20
+      metadata:
+        usfm: PSA.89.20
+    marker-yv: yv-n
+  - type: text
+    text: Anointed, saying,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: '“Let us '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 5:5
+      metadata:
+        usfm: JER.5.5
+    marker-yv: yv-n
+  - type: text
+    text: burst their bonds apart
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and cast away their cords from us.”
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'He who '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 11:4
+      metadata:
+        usfm: PSA.11.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 29:10
+      metadata:
+        usfm: PSA.29.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 40:22
+      metadata:
+        usfm: ISA.40.22
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'sits in the heavens '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 37:13
+      metadata:
+        usfm: PSA.37.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 59:8
+      metadata:
+        usfm: PSA.59.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 22:19
+      metadata:
+        usfm: JOB.22.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 1:26
+      metadata:
+        usfm: PRO.1.26
+    marker-yv: yv-n
+  - type: text
+    text: laughs;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: the Lord holds them in derision.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'Then he will speak to them in his '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rev. 6:16
+      metadata:
+        usfm: REV.6.16
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '17'
+      metadata:
+        usfm: REV.6.17
+    marker-yv: yv-n
+  - type: text
+    text: wrath,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and terrify them in his fury, saying,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: '“As for me, I have '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 8:23
+      metadata:
+        usfm: PRO.8.23
+    marker-yv: yv-n
+  - type: text
+    text: set my King
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'on '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Sam. 5:7
+      metadata:
+        usfm: 2SA.5.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 110:2
+      metadata:
+        usfm: PSA.110.2
+    marker-yv: yv-n
+  - type: text
+    text: 'Zion, my '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 3:4
+      metadata:
+        usfm: PSA.3.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 15:1
+      metadata:
+        usfm: PSA.15.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 43:3
+      metadata:
+        usfm: PSA.43.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 99:9
+      metadata:
+        usfm: PSA.99.9
+    marker-yv: yv-n
+  - type: text
+    text: holy hill.”
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'I will tell of the decree:'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'The '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' said to me, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 1:4
+      metadata:
+        usfm: ROM.1.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'Cited '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 13:33
+      metadata:
+        usfm: ACT.13.33
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 1:5
+      metadata:
+        usfm: HEB.1.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 5:5
+      metadata:
+        usfm: HEB.5.5
+    marker-yv: yv-n
+  - type: text
+    text: “You are my Son;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: today I have begotten you.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: Ask of me, and I will make the nations your heritage,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 72:8
+      metadata:
+        usfm: PSA.72.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 89:27
+      metadata:
+        usfm: PSA.89.27
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Dan. 7:14
+      metadata:
+        usfm: DAN.7.14
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the ends of the earth your possession.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'You shall '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 89:23
+      metadata:
+        usfm: PSA.89.23
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 34:24
+      metadata:
+        usfm: JOB.34.24
+    marker-yv: yv-n
+  - type: text
+    text: break
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '2:9 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Revocalization yields (compare Septuagint) '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: You shall rule
+    marker-yv: yv-n
+  - type: text
+    text: ' them with '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rev. 2:27
+      metadata:
+        usfm: REV.2.27
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 12:5
+      metadata:
+        usfm: REV.12.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:15
+      metadata:
+        usfm: REV.19.15
+    marker-yv: yv-n
+  - type: text
+    text: a rod of iron
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and dash them in pieces like '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 30:14
+      metadata:
+        usfm: ISA.30.14
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 19:11
+      metadata:
+        usfm: JER.19.11
+    marker-yv: yv-n
+  - type: text
+    text: a potter’s vessel.”
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: Now therefore, O kings, be wise;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: be warned, O rulers of the earth.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 12:28
+      metadata:
+        usfm: HEB.12.28
+    marker-yv: yv-n
+  - type: text
+    text: 'Serve the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' with '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Phil. 2:12
+      metadata:
+        usfm: PHP.2.12
+    marker-yv: yv-n
+  - type: text
+    text: fear,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Phil. 4:4
+      metadata:
+        usfm: PHP.4.4
+    marker-yv: yv-n
+  - type: text
+    text: 'rejoice with '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Phil. 2:12
+      metadata:
+        usfm: PHP.2.12
+    marker-yv: yv-n
+  - type: text
+    text: trembling.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Sam. 10:1
+      metadata:
+        usfm: 1SA.10.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Kgs. 19:18
+      metadata:
+        usfm: 1KI.19.18
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 4:25
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '26'
-      marker-yv: yv-n
-    - type: text
-      text: 'Why do '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 46:6
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the nations rage
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '2:1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: nations noisily assemble
-      marker-yv: yv-n
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and the peoples plot in vain?
-  '10':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: Now therefore, O kings, be wise;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: be warned, O rulers of the earth.
-  '11':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '11'
+        text: John 5:23
+      metadata:
+        usfm: JHN.5.23
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 12:28
-      marker-yv: yv-n
-    - type: text
-      text: 'Serve the '
-    - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' with '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Phil. 2:12
-      marker-yv: yv-n
-    - type: text
-      text: fear,
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'Kiss '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Phil. 4:4
-      marker-yv: yv-n
-    - type: text
-      text: 'rejoice with '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Phil. 2:12
-      marker-yv: yv-n
-    - type: text
-      text: trembling.
-  '12':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '12'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Sam. 10:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Kgs. 19:18
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 5:23
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'Kiss '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 31:2
-      marker-yv: yv-n
-    - type: text
-      text: the Son,
+        text: Prov. 31:2
+      metadata:
+        usfm: PRO.31.2
+    marker-yv: yv-n
+  - type: text
+    text: the Son,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: lest he be angry, and you perish in the way,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'for his '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: lest he be angry, and you perish in the way,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'for his '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '5'
-      marker-yv: yv-n
-    - type: text
-      text: wrath is quickly kindled.
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 34:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 84:12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 16:20
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 17:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 146:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 30:18
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: Blessed are all who take refuge in him.
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: The kings of the earth set themselves,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and the rulers take counsel together,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'against the '
+        text: 'ver. '
     - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' and against his '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 18:50
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 20:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 45:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 89:20
-      marker-yv: yv-n
-    - type: text
-      text: Anointed, saying,
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: '“Let us '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 5:5
-      marker-yv: yv-n
-    - type: text
-      text: burst their bonds apart
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and cast away their cords from us.”
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'He who '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 11:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 29:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 40:22
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'sits in the heavens '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 37:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 59:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 22:19
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 1:26
-      marker-yv: yv-n
-    - type: text
-      text: laughs;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: the Lord holds them in derision.
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '5'
-    - type: text
-      text: 'Then he will speak to them in his '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 6:16
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '17'
-      marker-yv: yv-n
-    - type: text
-      text: wrath,
+      metadata:
+        usfm: PSA.2.5
+    marker-yv: yv-n
+  - type: text
+    text: wrath is quickly kindled.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and terrify them in his fury, saying,
-  '6':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '6'
+        text: Ps. 34:8
+      metadata:
+        usfm: PSA.34.8
     - type: text
-      text: '“As for me, I have '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 8:23
-      marker-yv: yv-n
+      - type: text
+        text: 84:12
+      metadata:
+        usfm: PSA.84.12
     - type: text
-      text: set my King
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'on '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Sam. 5:7
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 110:2
-      marker-yv: yv-n
+        text: Prov. 16:20
+      metadata:
+        usfm: PRO.16.20
     - type: text
-      text: 'Zion, my '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 3:4
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 15:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 43:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 99:9
-      marker-yv: yv-n
+        text: Jer. 17:7
+      metadata:
+        usfm: JER.17.7
     - type: text
-      text: holy hill.”
-  '7':
-  - type: usfm
-    marker: q1
-    children:
+      text: '; '
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '7'
+        text: '['
     - type: text
-      text: 'I will tell of the decree:'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'The '
+      text: ' '
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: Ps. 146:5
+      metadata:
+        usfm: PSA.146.5
     - type: text
-      text: ' said to me, '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 1:4
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 13:33
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 1:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 5:5
-      marker-yv: yv-n
+        text: Isa. 30:18
+      metadata:
+        usfm: ISA.30.18
     - type: text
-      text: “You are my Son;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: today I have begotten you.
-  '8':
-  - type: usfm
-    marker: q1
-    children:
+      text: ' '
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '8'
-    - type: text
-      text: Ask of me, and I will make the nations your heritage,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 72:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 89:27
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Dan. 7:14
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the ends of the earth your possession.
-  '9':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: 'You shall '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 89:23
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 34:24
-      marker-yv: yv-n
-    - type: text
-      text: break
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '2:9 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Revocalization yields (compare Septuagint) '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: You shall rule
-      marker-yv: yv-n
-    - type: text
-      text: ' them with '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 2:27
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 12:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:15
-      marker-yv: yv-n
-    - type: text
-      text: a rod of iron
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and dash them in pieces like '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 30:14
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 19:11
-      marker-yv: yv-n
-    - type: text
-      text: a potter’s vessel.”
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Blessed are all who take refuge in him.

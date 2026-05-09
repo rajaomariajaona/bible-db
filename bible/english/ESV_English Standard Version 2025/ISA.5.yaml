@@ -1,2251 +1,2407 @@
-document_id: ISA.5,59
+document_id: ISA.5
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: 'The Vineyard of the '
   - type: usfm
-    marker: s1
+    marker: nd
     children:
     - type: text
-      text: 'The Vineyard of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' Destroyed'
-    marker-yv: yv-h
+      text: Lord
+  - type: text
+    text: ' Destroyed'
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: Let me sing for my beloved
-  - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'my love song concerning his vineyard:'
+      text: '1'
+  - type: text
+    text: Let me sing for my beloved
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'my love song concerning his vineyard:'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'My beloved had '
   - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'My beloved had '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 80:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 21:33
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 12:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 20:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hos. 9:10
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: a vineyard
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: on a very fertile hill.
-  '10':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
+        text: Ps. 80:8
+      metadata:
+        usfm: PSA.80.8
     - type: text
-      text: ' '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
       - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 26:26
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hag. 1:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:16
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: Matt. 21:33
+      metadata:
+        usfm: MAT.21.33
     - type: text
-      text: For ten acres
+      text: '; '
     - type: usfm
-      marker: f
+      marker: ref
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5:10 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Hebrew '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: ten yoke
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ', the area ten yoke of oxen can plow in a day'
-      marker-yv: yv-n
+      - type: text
+        text: Mark 12:1
+      metadata:
+        usfm: MRK.12.1
     - type: text
-      text: ' of vineyard shall yield but one bath,'
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 20:9
+      metadata:
+        usfm: LUK.20.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hos. 9:10
+      metadata:
+        usfm: HOS.9.10
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: a vineyard
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: on a very fertile hill.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'and a '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezek. 45:11
-      marker-yv: yv-n
-    - type: text
-      text: homer of seed shall yield but an ephah.”
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5:10 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'A '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'bath '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'was about 6 gallons or 22 liters; a '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'homer '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'was about 6 bushels or 220 liters; an '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'ephah '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: was about 3/5 bushel or 22 liters
-      marker-yv: yv-n
-  '11':
+      text: '2'
+  - type: text
+    text: He dug it and cleared it of stones,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and planted it with '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
-    - type: text
-      text: 'Woe to those who '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '22'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 23:29
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '30'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eccles. 10:16
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '17'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: rise early in the morning,
+        text: Jer. 2:21
+      metadata:
+        usfm: JER.2.21
+    marker-yv: yv-n
+  - type: text
+    text: choice vines;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: he built a watchtower in the midst of it,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and hewed out a wine vat in it;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'and '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: that they may run after strong drink,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: who tarry late into the evening
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: as wine inflames them!
-  '12':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '12'
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 21:19
+      metadata:
+        usfm: MAT.21.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mark 11:13
+      metadata:
+        usfm: MRK.11.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 13:6
+      metadata:
+        usfm: LUK.13.6
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: he looked for it to yield grapes,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: but it yielded wild grapes.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: And now, O inhabitants of Jerusalem
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and men of Judah,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: judge between me and my vineyard.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Amos 6:5
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '6'
-      marker-yv: yv-n
-    - type: text
-      text: They have lyre and harp,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: tambourine and flute and wine at their feasts,
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 26:11
-      marker-yv: yv-n
-    - type: text
-      text: 'but they do not regard the deeds of the '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: Mic. 6:3
+      metadata:
+        usfm: MIC.6.3
     - type: text
-      text: ','
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: or see the work of his hands.
-  '13':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '13'
-    - type: text
-      text: Therefore my people go into exile
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hos. 4:6
-      marker-yv: yv-n
-    - type: text
-      text: for lack of knowledge;
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5:13 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: without their knowledge
-      marker-yv: yv-n
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'their '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lam. 4:2
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '7'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '8'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: honored men go hungry,
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5:13 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: die of hunger
-      marker-yv: yv-n
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and their multitude is parched with thirst.
-  '14':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '14'
-    - type: text
-      text: 'Therefore Sheol has '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hab. 2:5
-      marker-yv: yv-n
-    - type: text
-      text: enlarged its appetite
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and opened '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 141:7
-      marker-yv: yv-n
-    - type: text
-      text: its mouth beyond measure,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: and the nobility of Jerusalem
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5:14 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Hebrew '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: her nobility
-      marker-yv: yv-n
-    - type: text
-      text: ' and her multitude will go down,'
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'her revelers and he who '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ver. 12; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 1:18
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '19'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: exults in her.
-  '15':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '15'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:9
-      marker-yv: yv-n
-    - type: text
-      text: Man is humbled, and each one is brought low,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and the eyes of the haughty
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5:15 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Hebrew '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: high
-      marker-yv: yv-n
-    - type: text
-      text: ' are brought low.'
-  '16':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:11
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '17'
-      marker-yv: yv-n
-    - type: text
-      text: 'But the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' of hosts is exalted'
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5:16 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Hebrew '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: high
-      marker-yv: yv-n
-    - type: text
-      text: ' in justice,'
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and the Holy God shows himself holy in righteousness.
-  '17':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: text
-      text: 'Then shall the lambs graze '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mic. 2:12
-      marker-yv: yv-n
-    - type: text
-      text: as in their pasture,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Judg. 6:3
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: nomads shall eat among the ruins of the rich.
-  '18':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
-    - type: text
-      text: 'Woe to those who draw iniquity with '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 5:22
-      marker-yv: yv-n
-    - type: text
-      text: cords of falsehood,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: who draw sin as with cart ropes,
-  '19':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: text
-      text: 'who say: '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezek. 12:22
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 3:4
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: “Let him be quick,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: let him speed his work
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: that we may see it;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: let the counsel of the Holy One of Israel draw near,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and let it come, that we may know it!”
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: He dug it and cleared it of stones,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and planted it with '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 2:21
-      marker-yv: yv-n
-    - type: text
-      text: choice vines;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: he built a watchtower in the midst of it,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and hewed out a wine vat in it;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 21:19
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 11:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 13:6
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: he looked for it to yield grapes,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: but it yielded wild grapes.
-  '20':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '20'
-    - type: text
-      text: 'Woe to '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Amos 5:7
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: those who call evil good
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and good evil,
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 17:12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 6:22
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '23'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 11:34
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '35'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: who put darkness for light
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and light for darkness,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: who put bitter for sweet
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and sweet for bitter!
-  '21':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '21'
-    - type: text
-      text: 'Woe to those who are '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 3:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 12:16
-      marker-yv: yv-n
-    - type: text
-      text: wise in their own eyes,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and shrewd in their own sight!
-  '22':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '22'
-    - type: text
-      text: 'Woe to those who are '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '11'
-      marker-yv: yv-n
-    - type: text
-      text: heroes at drinking wine,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and valiant men in mixing strong drink,
-  '23':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '23'
-    - type: text
-      text: 'who '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 23:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 17:15
-      marker-yv: yv-n
-    - type: text
-      text: acquit the guilty for a bribe,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and deprive the innocent of his right!
-  '24':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '24'
-    - type: text
-      text: 'Therefore, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 47:14
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Joel 2:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 15:7
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: as the tongue of fire devours the stubble,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and as dry grass sinks down in the flame,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'so '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 18:16
-      marker-yv: yv-n
-    - type: text
-      text: 'their root will be '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hos. 5:12
-      marker-yv: yv-n
-    - type: text
-      text: as rottenness,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and their blossom go up like dust;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'for they have '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 30:9
-      marker-yv: yv-n
-    - type: text
-      text: 'rejected the law of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' of hosts,'
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and have '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1:4
-      marker-yv: yv-n
-    - type: text
-      text: despised the word of the Holy One of Israel.
-  '25':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '25'
-    - type: text
-      text: 'Therefore '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Kgs. 22:13
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '17'
-      marker-yv: yv-n
-    - type: text
-      text: 'the anger of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' was kindled against his people,'
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and he stretched out his hand against them and struck them,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 4:24
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 97:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hab. 3:6
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the mountains quaked;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'and their corpses were '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Kgs. 9:37
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 36:30
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: as refuse
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: in the midst of the streets.
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 9:12
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '17'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '21'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 10:4
-      marker-yv: yv-n
-    - type: text
-      text: For all this his anger has not turned away,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and his hand is stretched out still.
-  '26':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '26'
-    - type: text
-      text: 'He will '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 11:12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 13:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 18:3
-      marker-yv: yv-n
-    - type: text
-      text: raise a signal for nations far away,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 7:18
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Zech. 10:8
-      marker-yv: yv-n
-    - type: text
-      text: 'whistle for them '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 10:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 28:49
-      marker-yv: yv-n
-    - type: text
-      text: from the ends of the earth;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: and behold, quickly, speedily they come!
-  '27':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '27'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 10:28-31
-      marker-yv: yv-n
-    - type: text
-      text: None is weary, none stumbles,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: none slumbers or sleeps,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: not a waistband is loose,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: not a sandal strap broken;
-  '28':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '28'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 7:12
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '13'
-      marker-yv: yv-n
-    - type: text
-      text: their arrows are sharp,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: all their bows bent,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: their horses’ hoofs seem like flint,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and their wheels '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 21:1
-      marker-yv: yv-n
-    - type: text
-      text: like the whirlwind.
-  '29':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '29'
-    - type: text
-      text: Their roaring is like a lion,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: like young lions they roar;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'they growl and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Kgs. 18:13-16
-      marker-yv: yv-n
-    - type: text
-      text: seize their prey;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: they carry it off, and none can rescue.
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: And now, O inhabitants of Jerusalem
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and men of Judah,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: judge between me and my vineyard.
-  '30':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '30'
-    - type: text
-      text: They will growl over it on that day,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: like the growling of the sea.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: And if one looks to the land,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'behold, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 8:22
-      marker-yv: yv-n
-    - type: text
-      text: darkness and distress;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: and the light is darkened by its clouds.
-  '4':
-  - type: usfm
-    marker: q1
-    children:
+      text: ', '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '4'
+      metadata:
+        usfm: MIC.6.4
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mic. 6:3
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '4'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: What more was there to do for my vineyard,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: that I have not done in it?
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '2'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: above]
-      marker-yv: yv-n
-    - type: text
-      text: When I looked for it to yield grapes,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: why did it yield wild grapes?
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: And now I will tell you
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: What more was there to do for my vineyard,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: that I have not done in it?
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: x
     children:
-    - type: text
-      text: what I will do to my vineyard.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'I will remove '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 5:10
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: its hedge,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and it shall be devoured;
+      - type: text
+        text: '[See ver. '
     - type: usfm
-      marker: f
+      marker: ref
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5:5 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: grazed over
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ; compare Exodus 22:5
-      marker-yv: yv-n
-  - type: usfm
-    marker: q1
-    children:
+      - type: text
+        text: '2'
+      metadata:
+        usfm: ISA.2
+    - type: text
+      text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 80:12
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 24:31
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: I will break down its wall,
+        text: above]
+    marker-yv: yv-n
+  - type: text
+    text: When I looked for it to yield grapes,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: why did it yield wild grapes?
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: and it shall be trampled down.
-  '6':
+      text: '5'
+  - type: text
+    text: And now I will tell you
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: what I will do to my vineyard.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'I will remove '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 5:10
+      metadata:
+        usfm: JER.5.10
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: its hedge,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and it shall be devoured;
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '5:5 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: grazed over
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: ; compare Exodus 22:5
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 80:12
+      metadata:
+        usfm: PSA.80.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 24:31
+      metadata:
+        usfm: PRO.24.31
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: I will break down its wall,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and it shall be trampled down.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: I will make it a waste;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: it shall not be pruned or hoed,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 7:23-25
+      metadata:
+        usfm: ISA.7.23+ISA.7.24+ISA.7.25
+    marker-yv: yv-n
+  - type: text
+    text: briers and thorns shall grow up;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Kgs. 17:1
+      metadata:
+        usfm: 1KI.17.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 14:1
+      metadata:
+        usfm: JER.14.1
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '22'
+      metadata:
+        usfm: JER.14.22
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: I will also command the clouds
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: that they rain no rain upon it.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 3:14
+      metadata:
+        usfm: ISA.3.14
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']; See Ps. 80:8-11'
+    marker-yv: yv-n
+  - type: text
+    text: 'For the vineyard of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' of hosts'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: is the house of Israel,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: and the men of Judah
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: are his pleasant planting;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: and he looked for justice,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: but behold, bloodshed;
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '5:7 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'The Hebrew words for '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: 'justice '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'and '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: 'bloodshed '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: sound alike
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: for righteousness,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: but behold, an outcry!
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '5:7 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'The Hebrew words for '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: 'righteous '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'and '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: 'outcry '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: sound alike
+    marker-yv: yv-n
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Woe to the Wicked
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'Woe to those who '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mic. 2:2
+      metadata:
+        usfm: MIC.2.2
+    marker-yv: yv-n
+  - type: text
+    text: join house to house,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: who add field to field,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: until there is no more room,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and you are made to dwell alone
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: in the midst of the land.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'The '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' of hosts has sworn in my hearing:'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 6:12
+      metadata:
+        usfm: ISA.6.12
+    marker-yv: yv-n
+  - type: text
+    text: “Surely many houses shall be desolate,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: large and beautiful houses, without inhabitant.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lev. 26:26
+      metadata:
+        usfm: LEV.26.26
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hag. 1:6
+      metadata:
+        usfm: HAG.1.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:16
+      metadata:
+        usfm: HAG.2.16
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: For ten acres
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '5:10 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Hebrew '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: ten yoke
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: ', the area ten yoke of oxen can plow in a day'
+    marker-yv: yv-n
+  - type: text
+    text: ' of vineyard shall yield but one bath,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and a '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ezek. 45:11
+      metadata:
+        usfm: EZK.45.11
+    marker-yv: yv-n
+  - type: text
+    text: homer of seed shall yield but an ephah.”
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '5:10 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'A '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: 'bath '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'was about 6 gallons or 22 liters; a '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: 'homer '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'was about 6 bushels or 220 liters; an '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: 'ephah '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: was about 3/5 bushel or 22 liters
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'Woe to those who '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '22'
+      metadata:
+        usfm: ISA.5.22
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 23:29
+      metadata:
+        usfm: PRO.23.29
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '30'
+      metadata:
+        usfm: PRO.23.30
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eccles. 10:16
+      metadata:
+        usfm: ECC.10.16
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '17'
+      metadata:
+        usfm: ECC.10.17
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: rise early in the morning,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: that they may run after strong drink,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: who tarry late into the evening
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: as wine inflames them!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Amos 6:5
+      metadata:
+        usfm: AMO.6.5
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '6'
-    - type: text
-      text: I will make it a waste;
+      metadata:
+        usfm: AMO.6.6
+    marker-yv: yv-n
+  - type: text
+    text: They have lyre and harp,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: tambourine and flute and wine at their feasts,
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: x
     children:
-    - type: text
-      text: it shall not be pruned or hoed,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 7:23-25
-      marker-yv: yv-n
-    - type: text
-      text: briers and thorns shall grow up;
-  - type: usfm
-    marker: q1
-    children:
+      - type: text
+        text: 'ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
       - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Kgs. 17:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 14:1
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '22'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: I will also command the clouds
+        text: 26:11
+      metadata:
+        usfm: ISA.26.11
+    marker-yv: yv-n
+  - type: text
+    text: 'but they do not regard the deeds of the '
   - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: that they rain no rain upon it.
-  '7':
+      text: Lord
+  - type: text
+    text: ','
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: or see the work of his hands.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: Therefore my people go into exile
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1:3
+      metadata:
+        usfm: ISA.1.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hos. 4:6
+      metadata:
+        usfm: HOS.4.6
+    marker-yv: yv-n
+  - type: text
+    text: for lack of knowledge;
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '5:13 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: without their knowledge
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'their '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lam. 4:2
+      metadata:
+        usfm: LAM.4.2
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '7'
+      metadata:
+        usfm: LAM.4.7
     - type: text
-      text: ' '
+      text: ', '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 3:14
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']; See Ps. 80:8-11'
-      marker-yv: yv-n
-    - type: text
-      text: 'For the vineyard of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' of hosts'
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: is the house of Israel,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: and the men of Judah
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: are his pleasant planting;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: and he looked for justice,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: but behold, bloodshed;
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5:7 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'The Hebrew words for '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'justice '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'and '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'bloodshed '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: sound alike
-      marker-yv: yv-n
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: for righteousness,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: but behold, an outcry!
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5:7 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'The Hebrew words for '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'righteous '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'and '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'outcry '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: sound alike
-      marker-yv: yv-n
-  - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Woe to the Wicked
-    marker-yv: yv-h
-  '8':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '8'
-    - type: text
-      text: 'Woe to those who '
+      metadata:
+        usfm: LAM.4.8
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mic. 2:2
-      marker-yv: yv-n
-    - type: text
-      text: join house to house,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: who add field to field,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: until there is no more room,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and you are made to dwell alone
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: in the midst of the land.
-  '9':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '9'
-    - type: text
-      text: 'The '
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: honored men go hungry,
+  - type: usfm
+    marker: f
+    children:
     - type: usfm
-      marker: nd
+      marker: fr
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' of hosts has sworn in my hearing:'
+        text: '5:13 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: die of hunger
+    marker-yv: yv-n
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and their multitude is parched with thirst.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: 'Therefore Sheol has '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 6:12
-      marker-yv: yv-n
-    - type: text
-      text: “Surely many houses shall be desolate,
+      - type: text
+        text: Hab. 2:5
+      metadata:
+        usfm: HAB.2.5
+    marker-yv: yv-n
+  - type: text
+    text: enlarged its appetite
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and opened '
   - type: usfm
-    marker: q2
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 141:7
+      metadata:
+        usfm: PSA.141.7
+    marker-yv: yv-n
+  - type: text
+    text: its mouth beyond measure,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: and the nobility of Jerusalem
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '5:14 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Hebrew '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: her nobility
+    marker-yv: yv-n
+  - type: text
+    text: ' and her multitude will go down,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'her revelers and he who '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ver. 12; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 1:18
+      metadata:
+        usfm: JOB.1.18
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '19'
+      metadata:
+        usfm: JOB.1.19
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: exults in her.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
     children:
     - type: text
-      text: large and beautiful houses, without inhabitant.
+      text: '15'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:9
+      metadata:
+        usfm: ISA.2.9
+    marker-yv: yv-n
+  - type: text
+    text: Man is humbled, and each one is brought low,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and the eyes of the haughty
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '5:15 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Hebrew '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: high
+    marker-yv: yv-n
+  - type: text
+    text: ' are brought low.'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:11
+      metadata:
+        usfm: ISA.2.11
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '17'
+      metadata:
+        usfm: ISA.2.17
+    marker-yv: yv-n
+  - type: text
+    text: 'But the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' of hosts is exalted'
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '5:16 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Hebrew '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: high
+    marker-yv: yv-n
+  - type: text
+    text: ' in justice,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and the Holy God shows himself holy in righteousness.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'Then shall the lambs graze '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mic. 2:12
+      metadata:
+        usfm: MIC.2.12
+    marker-yv: yv-n
+  - type: text
+    text: as in their pasture,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Judg. 6:3
+      metadata:
+        usfm: JDG.6.3
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: nomads shall eat among the ruins of the rich.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: 'Woe to those who draw iniquity with '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 5:22
+      metadata:
+        usfm: PRO.5.22
+    marker-yv: yv-n
+  - type: text
+    text: cords of falsehood,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: who draw sin as with cart ropes,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: 'who say: '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ezek. 12:22
+      metadata:
+        usfm: EZK.12.22
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pet. 3:4
+      metadata:
+        usfm: 2PE.3.4
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: “Let him be quick,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: let him speed his work
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: that we may see it;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: let the counsel of the Holy One of Israel draw near,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and let it come, that we may know it!”
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: text
+    text: 'Woe to '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Amos 5:7
+      metadata:
+        usfm: AMO.5.7
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: those who call evil good
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and good evil,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 17:12
+      metadata:
+        usfm: JOB.17.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 6:22
+      metadata:
+        usfm: MAT.6.22
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '23'
+      metadata:
+        usfm: MAT.6.23
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 11:34
+      metadata:
+        usfm: LUK.11.34
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '35'
+      metadata:
+        usfm: LUK.11.35
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: who put darkness for light
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and light for darkness,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: who put bitter for sweet
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and sweet for bitter!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: text
+    text: 'Woe to those who are '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 3:7
+      metadata:
+        usfm: PRO.3.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 12:16
+      metadata:
+        usfm: ROM.12.16
+    marker-yv: yv-n
+  - type: text
+    text: wise in their own eyes,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and shrewd in their own sight!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: 'Woe to those who are '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '11'
+      metadata:
+        usfm: ISA.5.11
+    marker-yv: yv-n
+  - type: text
+    text: heroes at drinking wine,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and valiant men in mixing strong drink,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: text
+    text: 'who '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 23:8
+      metadata:
+        usfm: EXO.23.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 17:15
+      metadata:
+        usfm: PRO.17.15
+    marker-yv: yv-n
+  - type: text
+    text: acquit the guilty for a bribe,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and deprive the innocent of his right!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '24'
+  - type: text
+    text: 'Therefore, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 47:14
+      metadata:
+        usfm: ISA.47.14
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Joel 2:5
+      metadata:
+        usfm: JOL.2.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 15:7
+      metadata:
+        usfm: EXO.15.7
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: as the tongue of fire devours the stubble,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and as dry grass sinks down in the flame,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'so '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 18:16
+      metadata:
+        usfm: JOB.18.16
+    marker-yv: yv-n
+  - type: text
+    text: 'their root will be '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hos. 5:12
+      metadata:
+        usfm: HOS.5.12
+    marker-yv: yv-n
+  - type: text
+    text: as rottenness,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and their blossom go up like dust;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'for they have '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 30:9
+      metadata:
+        usfm: ISA.30.9
+    marker-yv: yv-n
+  - type: text
+    text: 'rejected the law of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' of hosts,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and have '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1:4
+      metadata:
+        usfm: ISA.1.4
+    marker-yv: yv-n
+  - type: text
+    text: despised the word of the Holy One of Israel.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '25'
+  - type: text
+    text: 'Therefore '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Kgs. 22:13
+      metadata:
+        usfm: 2KI.22.13
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '17'
+      metadata:
+        usfm: 2KI.22.17
+    marker-yv: yv-n
+  - type: text
+    text: 'the anger of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' was kindled against his people,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and he stretched out his hand against them and struck them,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 4:24
+      metadata:
+        usfm: JER.4.24
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 97:5
+      metadata:
+        usfm: PSA.97.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hab. 3:6
+      metadata:
+        usfm: HAB.3.6
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the mountains quaked;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'and their corpses were '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Kgs. 9:37
+      metadata:
+        usfm: 2KI.9.37
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 36:30
+      metadata:
+        usfm: JER.36.30
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: as refuse
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: in the midst of the streets.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 9:12
+      metadata:
+        usfm: ISA.9.12
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '17'
+      metadata:
+        usfm: ISA.9.17
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '21'
+      metadata:
+        usfm: ISA.9.21
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 10:4
+      metadata:
+        usfm: ISA.10.4
+    marker-yv: yv-n
+  - type: text
+    text: For all this his anger has not turned away,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and his hand is stretched out still.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '26'
+  - type: text
+    text: 'He will '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 11:12
+      metadata:
+        usfm: ISA.11.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 13:2
+      metadata:
+        usfm: ISA.13.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 18:3
+      metadata:
+        usfm: ISA.18.3
+    marker-yv: yv-n
+  - type: text
+    text: raise a signal for nations far away,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 7:18
+      metadata:
+        usfm: ISA.7.18
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Zech. 10:8
+      metadata:
+        usfm: ZEC.10.8
+    marker-yv: yv-n
+  - type: text
+    text: 'whistle for them '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 10:3
+      metadata:
+        usfm: ISA.10.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 28:49
+      metadata:
+        usfm: DEU.28.49
+    marker-yv: yv-n
+  - type: text
+    text: from the ends of the earth;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: and behold, quickly, speedily they come!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '27'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 10:28-31
+      metadata:
+        usfm: ISA.10.28+ISA.10.29+ISA.10.30+ISA.10.31
+    marker-yv: yv-n
+  - type: text
+    text: None is weary, none stumbles,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: none slumbers or sleeps,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: not a waistband is loose,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: not a sandal strap broken;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '28'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 7:12
+      metadata:
+        usfm: PSA.7.12
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '13'
+      metadata:
+        usfm: PSA.7.13
+    marker-yv: yv-n
+  - type: text
+    text: their arrows are sharp,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: all their bows bent,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: their horses’ hoofs seem like flint,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and their wheels '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 21:1
+      metadata:
+        usfm: ISA.21.1
+    marker-yv: yv-n
+  - type: text
+    text: like the whirlwind.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '29'
+  - type: text
+    text: Their roaring is like a lion,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: like young lions they roar;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'they growl and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Kgs. 18:13-16
+      metadata:
+        usfm: 2KI.18.13+2KI.18.14+2KI.18.15+2KI.18.16
+    marker-yv: yv-n
+  - type: text
+    text: seize their prey;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: they carry it off, and none can rescue.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '30'
+  - type: text
+    text: They will growl over it on that day,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: like the growling of the sea.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: And if one looks to the land,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'behold, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 8:22
+      metadata:
+        usfm: ISA.8.22
+    marker-yv: yv-n
+  - type: text
+    text: darkness and distress;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: and the light is darkened by its clouds.

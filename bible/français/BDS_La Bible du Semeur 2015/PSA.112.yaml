@@ -1,309 +1,311 @@
-document_id: PSA.112,21
+document_id: PSA.112
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Le bonheur des fidèles
   - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Le bonheur des fidèles
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '112 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Psaume alphabétique (cf. note '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: '9.1'
-        - type: text
-          text: ') qui répond au '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ps 111
-        - type: text
-          text: .
-      marker-yv: yv-n
-    marker-yv: yv-h
-  - type: usfm
-    marker: q1
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: Louez l’Eternel
+        text: '112 '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '112.1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Voir '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: '111.1'
-        - type: text
-          text: .
-      marker-yv: yv-n
-    - type: text
-      text: '  !'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Heureux est l’homme qui craint l’Eternel
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et trouve un grand plaisir ╵à ses commandements !
-  '10':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: Le méchant le constate ╵et s’en irrite,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: grince des dents ╵et se démoralise.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Le désir des méchants ╵n’aboutira à rien.
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: Sa postérité sera forte ╵dans le pays
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et la génération du juste ╵sera bénie.
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: Abondance et richesse ╵règnent dans sa maison,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et sa conduite juste ╵sera pour toujours prise en compte
-    - type: usfm
-      marker: f
-      children:
+        text: 'Psaume alphabétique (cf. note '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '112.3 '
+          text: '9.1'
+        metadata:
+          usfm: PSA.9.1
+      - type: text
+        text: ') qui répond au '
       - type: usfm
-        marker: ft
+        marker: ref
         children:
         - type: text
-          text: 'En hébreu, la formulation est identique à celle de '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ps 111.3
-        - type: text
-          text: 'b, '
+          text: Ps 111
+        metadata:
+          usfm: PSA.111
+      - type: text
+        text: .
+    marker-yv: yv-n
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '1'
+  - type: text
+    text: Louez l’Eternel
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '112.1 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Voir '
       - type: usfm
-        marker: fqa
+        marker: ref
         children:
         - type: text
-          text: mais le contexte implique un sens différent.
-      marker-yv: yv-n
-    - type: text
-      text: .
-  '4':
+          text: '111.1'
+        metadata:
+          usfm: PSA.111.1
+      - type: text
+        text: .
+    marker-yv: yv-n
+  - type: text
+    text: '  !'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Heureux est l’homme qui craint l’Eternel
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et trouve un grand plaisir ╵à ses commandements !
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: Sa postérité sera forte ╵dans le pays
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et la génération du juste ╵sera bénie.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: Abondance et richesse ╵règnent dans sa maison,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et sa conduite juste ╵sera pour toujours prise en compte
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '4'
-    - type: text
-      text: Une lumière luit ╵dans les ténèbres, ╵pour les gens droits,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: ceux qui font grâce, ╵qui sont compatissants et justes
+        text: '112.3 '
     - type: usfm
-      marker: f
+      marker: ft
       children:
+      - type: text
+        text: 'En hébreu, la formulation est identique à celle de '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '112.4 '
+          text: Ps 111.3
+        metadata:
+          usfm: PSA.111.3
+      - type: text
+        text: 'b, '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: mais le contexte implique un sens différent.
+    marker-yv: yv-n
+  - type: text
+    text: .
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: Une lumière luit ╵dans les ténèbres, ╵pour les gens droits,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: ceux qui font grâce, ╵qui sont compatissants et justes
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '112.4 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Voir '
       - type: usfm
-        marker: ft
+        marker: ref
         children:
         - type: text
-          text: 'Voir '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: '111.4'
-        - type: text
-          text: .
-      marker-yv: yv-n
-    - type: text
-      text: .
-  '5':
+          text: '111.4'
+        metadata:
+          usfm: PSA.111.4
+      - type: text
+        text: .
+    marker-yv: yv-n
+  - type: text
+    text: .
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: Il est bon qu’un homme ait de l’empathie ╵et qu’il prête à autrui,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et qu’avec équité, ╵il gère ses affaires ;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: ainsi ne trébuchera-t-il jamais,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et l’on se souviendra ╵du juste pour toujours.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: Il ne craint pas ╵de mauvaises nouvelles,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: il a le cœur tranquille, ╵confiant en l’Eternel.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: Plein d’assurance, ╵il est sans crainte,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: dans l’attente de voir ╵le sort réservé à ses ennemis.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: Il donne aux pauvres ╵avec largesse,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et sa conduite juste ╵sera pour toujours prise en compte
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: Il est bon qu’un homme ait de l’empathie ╵et qu’il prête à autrui,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et qu’avec équité, ╵il gère ses affaires ;
-  '6':
-  - type: usfm
-    marker: q1
-    children:
+        text: '112.9 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '6'
-    - type: text
-      text: ainsi ne trébuchera-t-il jamais,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et l’on se souviendra ╵du juste pour toujours.
-  '7':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: Il ne craint pas ╵de mauvaises nouvelles,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: il a le cœur tranquille, ╵confiant en l’Eternel.
-  '8':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: Plein d’assurance, ╵il est sans crainte,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: dans l’attente de voir ╵le sort réservé à ses ennemis.
-  '9':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: Il donne aux pauvres ╵avec largesse,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et sa conduite juste ╵sera pour toujours prise en compte
-    - type: usfm
-      marker: f
-      children:
+        text: 'Voir note v. 3. Cité en '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '112.9 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Voir note v. 3. Cité en '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: 2 Co 9.9
-        - type: text
-          text: ' d’après l’ancienne version grecque.'
-      marker-yv: yv-n
-    - type: text
-      text: .
+          text: 2 Co 9.9
+        metadata:
+          usfm: 2CO.9.9
+      - type: text
+        text: ' d’après l’ancienne version grecque.'
+    marker-yv: yv-n
+  - type: text
+    text: .
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Il peut garder la tête haute ╵et il est honoré.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Il peut garder la tête haute ╵et il est honoré.
+      text: '10'
+  - type: text
+    text: Le méchant le constate ╵et s’en irrite,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: grince des dents ╵et se démoralise.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Le désir des méchants ╵n’aboutira à rien.

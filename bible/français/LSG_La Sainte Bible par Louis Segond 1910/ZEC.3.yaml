@@ -1,193 +1,171 @@
-document_id: ZEC.3,93
+document_id: ZEC.3
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Vision du grand-prêtre Josué
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 1-5: cf. Job 1:6-11. (És 64. Da 9:3-9.) És 44:22; 61:10.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Vision du grand-prêtre Josué
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Il me fit voir Josué, le souverain sacrificateur, debout devant l’ange de l’Éternel, et Satan qui se tenait à sa droite pour l’accuser. '
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 1-5: cf. Job 1:6-11. (És 64. Da 9:3-9.) És 44:22; 61:10.'
-    marker-yv: yv-h
+      text: '2'
+  - type: text
+    text: 'L’Éternel dit à Satan: '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: 'Il me fit voir Josué, le souverain sacrificateur, debout devant l’ange de l’Éternel, et Satan qui se tenait à sa droite pour l’accuser. '
-  '10':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '10'
-    - type: text
-      text: En ce jour-là, dit l’Éternel des armées, vous vous inviterez les uns les autres sous la vigne et sous le figuier.
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'L’Éternel dit à Satan: '
-    - type: usfm
-      marker: x
-      children:
-      - type: text
-        text: Jud v. 9.
-      marker-yv: yv-n
-    - type: text
-      text: 'Que l’Éternel te réprime, Satan! Que l’Éternel te réprime, lui qui a choisi Jérusalem! N’est-ce pas là un tison arraché du feu? '
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'Or Josué était couvert de vêtements sales, et il se tenait debout devant l’ange. '
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'L’ange, prenant la parole, dit à ceux qui étaient devant lui: Otez-lui les vêtements sales! Puis il dit à Josué: '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mi 7:18
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Vois, je t’enlève ton iniquité, et je te revêts d’habits de fête. '
-  '5':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: 'Je dis: Qu’on mette sur sa tête un turban pur! Et ils mirent un turban pur sur sa tête, et ils lui mirent des vêtements. L’ange de l’Éternel était là.'
-  - type: usfm
-    marker: r
+    marker: x
     children:
     - type: text
-      text: 'V. 6-10: cf. Éz 44:15-18. (Za 6:11-15. Jé 23:5, 6.) Hé 9:24-28.'
-    marker-yv: yv-h
-  '6':
+      text: Jud v. 9.
+    marker-yv: yv-n
+  - type: text
+    text: 'Que l’Éternel te réprime, Satan! Que l’Éternel te réprime, lui qui a choisi Jérusalem! N’est-ce pas là un tison arraché du feu? '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'Or Josué était couvert de vêtements sales, et il se tenait debout devant l’ange. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'L’ange, prenant la parole, dit à ceux qui étaient devant lui: Otez-lui les vêtements sales! Puis il dit à Josué: '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '6'
+        text: Mi 7:18
+      metadata:
+        usfm: MIC.7.18
     - type: text
-      text: 'L’ange de l’Éternel fit à Josué cette déclaration: '
-  '7':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Vois, je t’enlève ton iniquité, et je te revêts d’habits de fête. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'Je dis: Qu’on mette sur sa tête un turban pur! Et ils mirent un turban pur sur sa tête, et ils lui mirent des vêtements. L’ange de l’Éternel était là.'
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 6-10: cf. Éz 44:15-18. (Za 6:11-15. Jé 23:5, 6.) Hé 9:24-28.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'L’ange de l’Éternel fit à Josué cette déclaration: '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'Ainsi parle l’Éternel des armées: Si tu marches dans mes voies et si tu observes mes ordres, tu jugeras ma maison et tu garderas mes parvis, et je te donnerai libre accès parmi ceux qui sont ici. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'Écoute donc, Josué, souverain sacrificateur, toi et tes compagnons qui sont assis devant toi! Car ce sont des hommes qui serviront de signes. Voici, je ferai venir mon serviteur, le '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '7'
+        text: És 4:2
+      metadata:
+        usfm: ISA.4.2
     - type: text
-      text: 'Ainsi parle l’Éternel des armées: Si tu marches dans mes voies et si tu observes mes ordres, tu jugeras ma maison et tu garderas mes parvis, et je te donnerai libre accès parmi ceux qui sont ici. '
-  '8':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 11:1
+      metadata:
+        usfm: ISA.11.1
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jé 23:5
+      metadata:
+        usfm: JER.23.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 33:15
+      metadata:
+        usfm: JER.33.15
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Za 6:12
+      metadata:
+        usfm: ZEC.6.12
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'germe. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
     - type: text
-      text: 'Écoute donc, Josué, souverain sacrificateur, toi et tes compagnons qui sont assis devant toi! Car ce sont des hommes qui serviront de signes. Voici, je ferai venir mon serviteur, le '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 4:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 11:1
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jé 23:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 33:15
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Za 6:12
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'germe. '
-  '9':
+      text: '9'
+  - type: text
+    text: 'Car voici, pour ce qui est de la pierre que j’ai placée devant Josué, il y a sept yeux sur cette seule pierre; voici, je graverai moi-même ce qui doit y être gravé, dit l’Éternel des armées; et j’enlèverai l’iniquité de ce pays, en un jour. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
     - type: text
-      text: 'Car voici, pour ce qui est de la pierre que j’ai placée devant Josué, il y a sept yeux sur cette seule pierre; voici, je graverai moi-même ce qui doit y être gravé, dit l’Éternel des armées; et j’enlèverai l’iniquité de ce pays, en un jour. '
+      text: '10'
+  - type: text
+    text: En ce jour-là, dit l’Éternel des armées, vous vous inviterez les uns les autres sous la vigne et sous le figuier.

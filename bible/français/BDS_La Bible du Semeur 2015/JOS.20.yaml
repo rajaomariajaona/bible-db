@@ -1,131 +1,106 @@
-document_id: JOS.20,21
+document_id: JOS.20
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Les villes de refuge pour les meurtriers involontaires
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Les villes de refuge pour les meurtriers involontaires
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'L’Eternel parla à Josué et lui demanda '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'de communiquer les instructions suivantes aux Israélites : Choisissez-vous les villes de refuge dont je vous ai parlé par l’intermédiaire de Moïse'
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: 'L’Eternel parla à Josué et lui demanda '
-  '2':
-  - type: usfm
-    marker: p
-    children:
+        text: '20.2 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: 'de communiquer les instructions suivantes aux Israélites : Choisissez-vous les villes de refuge dont je vous ai parlé par l’intermédiaire de Moïse'
-    - type: usfm
-      marker: f
-      children:
+        text: 'Voir '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '20.2 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Voir '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Nb 35.9-34
-        - type: text
-          text: .
-      marker-yv: yv-n
-    - type: text
-      text: '. '
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
+          text: Nb 35.9-34
+        metadata:
+          usfm: NUM.35.9+NUM.35.10+NUM.35.11+NUM.35.12+NUM.35.13+NUM.35.14+NUM.35.15+NUM.35.16+NUM.35.17+NUM.35.18+NUM.35.19+NUM.35.20+NUM.35.21+NUM.35.22+NUM.35.23+NUM.35.24+NUM.35.25+NUM.35.26+NUM.35.27+NUM.35.28+NUM.35.29+NUM.35.30+NUM.35.31+NUM.35.32+NUM.35.33+NUM.35.34
       - type: text
-        text: '3'
-    - type: text
-      text: 'Celui qui aura tué quelqu’un involontairement, par inadvertance, pourra s’enfuir dans l’une de ces villes qui vous serviront ainsi de refuge contre l’homme chargé de punir le crime. '
-  '4':
+        text: .
+    marker-yv: yv-n
+  - type: text
+    text: '. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
     - type: text
-      text: L’homicide s’enfuira donc dans l’une de ces villes et s’arrêtera à l’entrée de la porte pour exposer son cas aux responsables de la ville. Ceux-ci l’admettront auprès d’eux dans la ville et lui attribueront un lieu, et il habitera là chez eux.
-  '5':
+      text: '3'
+  - type: text
+    text: 'Celui qui aura tué quelqu’un involontairement, par inadvertance, pourra s’enfuir dans l’une de ces villes qui vous serviront ainsi de refuge contre l’homme chargé de punir le crime. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
     - type: text
-      text: 'Si l’homme chargé de punir le crime le poursuit, ils ne lui livreront pas le meurtrier, puisque c’est par inadvertance qu’il a tué la personne, sans avoir jamais éprouvé de haine pour elle. '
-  '6':
+      text: '4'
+  - type: text
+    text: L’homicide s’enfuira donc dans l’une de ces villes et s’arrêtera à l’entrée de la porte pour exposer son cas aux responsables de la ville. Ceux-ci l’admettront auprès d’eux dans la ville et lui attribueront un lieu, et il habitera là chez eux.
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
     - type: text
-      text: Il restera dans cette ville jusqu’à ce qu’il comparaisse devant l’assemblée pour être jugé, et jusqu’à la mort du grand-prêtre en fonction à cette époque-là. Après cela, il pourra retourner dans sa maison, dans sa ville d’origine, celle dont il s’était enfui.
-  '7':
+      text: '5'
+  - type: text
+    text: 'Si l’homme chargé de punir le crime le poursuit, ils ne lui livreront pas le meurtrier, puisque c’est par inadvertance qu’il a tué la personne, sans avoir jamais éprouvé de haine pour elle. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
     - type: text
-      text: 'Les Israélites réservèrent à cet usage Qédesh en Galilée, dans la région montagneuse de Nephtali, Sichem dans les montagnes d’Ephraïm, Qiryath-Arba, c’est-à-dire Hébron, dans les montagnes de Juda. '
-  '8':
+      text: '6'
+  - type: text
+    text: Il restera dans cette ville jusqu’à ce qu’il comparaisse devant l’assemblée pour être jugé, et jusqu’à la mort du grand-prêtre en fonction à cette époque-là. Après cela, il pourra retourner dans sa maison, dans sa ville d’origine, celle dont il s’était enfui.
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
     - type: text
-      text: 'De l’autre côté du Jourdain, à l’est de Jéricho, ils désignèrent Bétser sur le plateau désertique de la tribu de Ruben, Ramoth en Galaad, une ville de la tribu de Gad, et Golân en Basan, ville de la tribu de Manassé. '
-  '9':
+      text: '7'
+  - type: text
+    text: 'Les Israélites réservèrent à cet usage Qédesh en Galilée, dans la région montagneuse de Nephtali, Sichem dans les montagnes d’Ephraïm, Qiryath-Arba, c’est-à-dire Hébron, dans les montagnes de Juda. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
     - type: text
-      text: Ces villes furent désignées pour servir de refuge à tout Israélite et aux étrangers séjournant parmi eux ; quiconque aurait tué quelqu’un involontairement pourrait s’y enfuir pour ne pas être tué par l’homme chargé de punir le crime, avant qu’il comparaisse devant l’assemblée.
+      text: '8'
+  - type: text
+    text: 'De l’autre côté du Jourdain, à l’est de Jéricho, ils désignèrent Bétser sur le plateau désertique de la tribu de Ruben, Ramoth en Galaad, une ville de la tribu de Gad, et Golân en Basan, ville de la tribu de Manassé. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: Ces villes furent désignées pour servir de refuge à tout Israélite et aux étrangers séjournant parmi eux ; quiconque aurait tué quelqu’un involontairement pourrait s’y enfuir pour ne pas être tué par l’homme chargé de punir le crime, avant qu’il comparaisse devant l’assemblée.

@@ -1,1080 +1,1170 @@
-document_id: PSA.19,59
+document_id: PSA.19
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: 'The Law of the '
   - type: usfm
-    marker: s1
+    marker: nd
     children:
     - type: text
-      text: 'The Law of the '
+      text: Lord
+  - type: text
+    text: ' Is Perfect'
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: To the choirmaster. A Psalm of David.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '1'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: Ps. 50:6
+      metadata:
+        usfm: PSA.50.6
     - type: text
-      text: ' Is Perfect'
-    marker-yv: yv-h
-  - type: usfm
-    marker: d
-    children:
-    - type: text
-      text: To the choirmaster. A Psalm of David.
-  - type: usfm
-    marker: q1
-    children:
+      text: '; '
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '1'
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 50:6
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 1:19
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '20'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: Rom. 1:19
+      metadata:
+        usfm: ROM.1.19
     - type: text
-      text: The heavens declare the glory of God,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and the sky above
+      text: ', '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '19:1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Hebrew '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: the expanse
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ; compare Genesis 1:6–8
-      marker-yv: yv-n
-    - type: text
-      text: ' proclaims his handiwork.'
-  '10':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: 'More to be desired are they than '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 119:72
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '127'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 8:10
-      marker-yv: yv-n
-    - type: text
-      text: gold,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'even much '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 28:17
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 8:19
-      marker-yv: yv-n
-    - type: text
-      text: fine gold;
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 119:103
-      marker-yv: yv-n
-    - type: text
-      text: sweeter also than honey
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and drippings of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 16:24
-      marker-yv: yv-n
-    - type: text
-      text: the honeycomb.
-  '11':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '11'
-    - type: text
-      text: Moreover, by them is your servant warned;
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 29:18
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: in keeping them there is great reward.
-  '12':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '12'
+        text: '20'
+      metadata:
+        usfm: ROM.1.20
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 40:12
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 4:4
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: Who can discern his errors?
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: The heavens declare the glory of God,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and the sky above
   - type: usfm
-    marker: q2
+    marker: f
     children:
     - type: usfm
-      marker: x
+      marker: fr
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
       - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 4:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Num. 15:27
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'Declare me innocent from '
+        text: '19:1 '
     - type: usfm
-      marker: x
+      marker: ft
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 90:8
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 34:32
-      marker-yv: yv-n
-    - type: text
-      text: hidden faults.
-  '13':
+        text: 'Hebrew '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: the expanse
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: ; compare Genesis 1:6–8
+    marker-yv: yv-n
+  - type: text
+    text: ' proclaims his handiwork.'
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: Day to day pours out speech,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and night to night reveals knowledge.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: There is no speech, nor are there words,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: whose voice is not heard.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '13'
+        text: 'Cited '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 10:18
+      metadata:
+        usfm: ROM.10.18
+    marker-yv: yv-n
+  - type: text
+    text: 'Their '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 28:10
+      metadata:
+        usfm: ISA.28.10
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: voice
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '19:4 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: Their measuring line
+    marker-yv: yv-n
+  - type: text
+    text: ' goes out through all the earth,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and their words to the end of the world.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'In them he has set a tent for '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eccles. 1:5
+      metadata:
+        usfm: ECC.1.5
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the sun,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 20:6
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Sam. 25:33
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '34'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '39'
-      marker-yv: yv-n
+        text: Judg. 5:31
+      metadata:
+        usfm: JDG.5.31
     - type: text
-      text: 'Keep back your servant also from '
+      text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Num. 15:30
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: presumptuous sins;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'let them not have '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 119:133
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 6:12
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '14'
-      marker-yv: yv-n
-    - type: text
-      text: dominion over me!
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'which comes out like '
   - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Then I shall be blameless,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and innocent of great transgression.
-  '14':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: Joel 2:16
+      metadata:
+        usfm: JOL.2.16
+    marker-yv: yv-n
+  - type: text
+    text: a bridegroom leaving his chamber,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and, like a strong man, runs its course with joy.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: Its rising is from the end of the heavens,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and its circuit to the end of them,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and there is nothing hidden from its heat.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 7:12
+      metadata:
+        usfm: ROM.7.12
+    marker-yv: yv-n
+  - type: text
+    text: 'The law of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' is perfect,'
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '19:7 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: blameless
+    marker-yv: yv-n
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 23:3
+      metadata:
+        usfm: PSA.23.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Tim. 3:16
+      metadata:
+        usfm: 2TI.3.16
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: reviving the soul;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 25:16
+      metadata:
+        usfm: EXO.25.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 78:5
+      metadata:
+        usfm: PSA.78.5
+    marker-yv: yv-n
+  - type: text
+    text: 'the testimony of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' is '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 111:7
+      metadata:
+        usfm: PSA.111.7
+    marker-yv: yv-n
+  - type: text
+    text: sure,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 11:25
+      metadata:
+        usfm: MAT.11.25
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 1:27
+      metadata:
+        usfm: 1CO.1.27
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Tim. 3:15
+      metadata:
+        usfm: 2TI.3.15
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'making wise '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 119:130
+      metadata:
+        usfm: PSA.119.130
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 1:4
+      metadata:
+        usfm: PRO.1.4
+    marker-yv: yv-n
+  - type: text
+    text: the simple;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 103:18
+      metadata:
+        usfm: PSA.103.18
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 111:7
+      metadata:
+        usfm: PSA.111.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 119:4
+      metadata:
+        usfm: PSA.119.4
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '27'
+      metadata:
+        usfm: PSA.119.27
+    marker-yv: yv-n
+  - type: text
+    text: 'the precepts of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' are right,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: rejoicing the heart;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'the commandment of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' is '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 12:6
+      metadata:
+        usfm: PSA.12.6
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: pure,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 13:3
+      metadata:
+        usfm: PSA.13.3
+    marker-yv: yv-n
+  - type: text
+    text: enlightening the eyes;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'the fear of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' is clean,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: enduring forever;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: the rules
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '19:9 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: just decrees
+    marker-yv: yv-n
+  - type: text
+    text: ' of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' are '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 119:142
+      metadata:
+        usfm: PSA.119.142
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '151'
+      metadata:
+        usfm: PSA.119.151
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '160'
+      metadata:
+        usfm: PSA.119.160
+    marker-yv: yv-n
+  - type: text
+    text: true,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and righteous altogether.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'More to be desired are they than '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 119:72
+      metadata:
+        usfm: PSA.119.72
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '127'
+      metadata:
+        usfm: PSA.119.127
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 8:10
+      metadata:
+        usfm: PRO.8.10
+    marker-yv: yv-n
+  - type: text
+    text: gold,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'even much '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 28:17
+      metadata:
+        usfm: JOB.28.17
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 8:19
+      metadata:
+        usfm: PRO.8.19
+    marker-yv: yv-n
+  - type: text
+    text: fine gold;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 119:103
+      metadata:
+        usfm: PSA.119.103
+    marker-yv: yv-n
+  - type: text
+    text: sweeter also than honey
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and drippings of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 16:24
+      metadata:
+        usfm: PRO.16.24
+    marker-yv: yv-n
+  - type: text
+    text: the honeycomb.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: Moreover, by them is your servant warned;
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 29:18
+      metadata:
+        usfm: PRO.29.18
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: in keeping them there is great reward.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 40:12
+      metadata:
+        usfm: PSA.40.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 4:4
+      metadata:
+        usfm: 1CO.4.4
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Who can discern his errors?
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lev. 4:2
+      metadata:
+        usfm: LEV.4.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Num. 15:27
+      metadata:
+        usfm: NUM.15.27
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'Declare me innocent from '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 90:8
+      metadata:
+        usfm: PSA.90.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 34:32
+      metadata:
+        usfm: JOB.34.32
+    marker-yv: yv-n
+  - type: text
+    text: hidden faults.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 20:6
+      metadata:
+        usfm: GEN.20.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Sam. 25:33
+      metadata:
+        usfm: 1SA.25.33
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '34'
+      metadata:
+        usfm: 1SA.25.34
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '39'
+      metadata:
+        usfm: 1SA.25.39
+    marker-yv: yv-n
+  - type: text
+    text: 'Keep back your servant also from '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Num. 15:30
+      metadata:
+        usfm: NUM.15.30
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: presumptuous sins;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'let them not have '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 119:133
+      metadata:
+        usfm: PSA.119.133
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 6:12
+      metadata:
+        usfm: ROM.6.12
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '14'
-    - type: text
-      text: Let the words of my mouth and the meditation of my heart
+      metadata:
+        usfm: ROM.6.14
+    marker-yv: yv-n
+  - type: text
+    text: dominion over me!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Then I shall be blameless,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and innocent of great transgression.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: be acceptable in your sight,
+      text: '14'
+  - type: text
+    text: Let the words of my mouth and the meditation of my heart
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: be acceptable in your sight,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'O '
   - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: 'O '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ', my '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 18:2
-      marker-yv: yv-n
-    - type: text
-      text: 'rock and my '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 19:25
-      marker-yv: yv-n
-    - type: text
-      text: redeemer.
-  '2':
+      text: Lord
+  - type: text
+    text: ', my '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: Day to day pours out speech,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and night to night reveals knowledge.
-  '3':
-  - type: usfm
-    marker: q1
-    children:
+        text: 'See '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: There is no speech, nor are there words,
+        text: Ps. 18:2
+      metadata:
+        usfm: PSA.18.2
+    marker-yv: yv-n
+  - type: text
+    text: 'rock and my '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: whose voice is not heard.
-  '4':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '4'
-    - type: text
-      text: ' '
+        text: 'See '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 10:18
-      marker-yv: yv-n
-    - type: text
-      text: 'Their '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 28:10
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: voice
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '19:4 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: Their measuring line
-      marker-yv: yv-n
-    - type: text
-      text: ' goes out through all the earth,'
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and their words to the end of the world.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'In them he has set a tent for '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eccles. 1:5
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the sun,
-  '5':
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Judg. 5:31
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'which comes out like '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Joel 2:16
-      marker-yv: yv-n
-    - type: text
-      text: a bridegroom leaving his chamber,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and, like a strong man, runs its course with joy.
-  '6':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: Its rising is from the end of the heavens,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and its circuit to the end of them,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and there is nothing hidden from its heat.
-  '7':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 7:12
-      marker-yv: yv-n
-    - type: text
-      text: 'The law of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' is perfect,'
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '19:7 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: blameless
-      marker-yv: yv-n
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 23:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Tim. 3:16
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: reviving the soul;
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 25:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 78:5
-      marker-yv: yv-n
-    - type: text
-      text: 'the testimony of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' is '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 111:7
-      marker-yv: yv-n
-    - type: text
-      text: sure,
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 11:25
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 1:27
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Tim. 3:15
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'making wise '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 119:130
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 1:4
-      marker-yv: yv-n
-    - type: text
-      text: the simple;
-  '8':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 103:18
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 111:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 119:4
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '27'
-      marker-yv: yv-n
-    - type: text
-      text: 'the precepts of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' are right,'
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: rejoicing the heart;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'the commandment of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' is '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 12:6
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: pure,
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 13:3
-      marker-yv: yv-n
-    - type: text
-      text: enlightening the eyes;
-  '9':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: 'the fear of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' is clean,'
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: enduring forever;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: the rules
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '19:9 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: just decrees
-      marker-yv: yv-n
-    - type: text
-      text: ' of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' are '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 119:142
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '151'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '160'
-      marker-yv: yv-n
-    - type: text
-      text: true,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and righteous altogether.
+        text: Job 19:25
+      metadata:
+        usfm: JOB.19.25
+    marker-yv: yv-n
+  - type: text
+    text: redeemer.

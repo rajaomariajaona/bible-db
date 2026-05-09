@@ -1,500 +1,474 @@
-document_id: ROM.5,93
+document_id: ROM.5
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Fruits de la justification par la foi
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 1-11: cf. 1 Pi 1:3-9. (1 Jn 4:9, 10. Ro 8:32.)'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Fruits de la justification par la foi
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 1-11: cf. 1 Pi 1:3-9. (1 Jn 4:9, 10. Ro 8:32.)'
-    marker-yv: yv-h
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: És 32:17
+      metadata:
+        usfm: ISA.32.17
     - type: text
-      text: ' '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 32:17
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 16:33
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ép 2:13
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Jn 16:33
+      metadata:
+        usfm: JHN.16.33
     - type: text
-      text: 'Étant donc justifiés par la foi, nous avons la paix avec Dieu par notre Seigneur Jésus-Christ, '
-  '10':
-  - type: usfm
-    marker: p
-    children:
+      text: '. '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
+        text: Ép 2:13
+      metadata:
+        usfm: EPH.2.13
     - type: text
-      text: 'Car si, lorsque nous étions ennemis, nous avons été réconciliés avec Dieu par la mort de son Fils, à plus forte raison, étant réconciliés, serons-nous sauvés par sa vie. '
-  '11':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Étant donc justifiés par la foi, nous avons la paix avec Dieu par notre Seigneur Jésus-Christ, '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '11'
-    - type: text
-      text: Et non seulement cela, mais encore nous nous glorifions en Dieu par notre Seigneur Jésus-Christ, par qui maintenant nous avons obtenu la réconciliation.
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Le péché et la grâce
-    marker-yv: yv-h
+      text: '2'
   - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 12-21: cf. 1 Co 15:21, 22, 45-49, 56, 57. Ro 6:23.'
-    marker-yv: yv-h
-  '12':
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '12'
+        text: Jn 10:9
+      metadata:
+        usfm: JHN.10.9
     - type: text
-      text: 'C’est pourquoi, comme '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ge 3:6
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Co 15:21
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: 14:6
+      metadata:
+        usfm: JHN.14.6
     - type: text
-      text: 'par un seul homme le péché est entré dans le monde, et par le péché '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ge 2:17
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 6:23
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Ép 2:18
+      metadata:
+        usfm: EPH.2.18
     - type: text
-      text: 'la mort, et qu’ainsi la mort s’est étendue sur tous les hommes, parce que tous ont péché,… '
-  '13':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 3:12
+      metadata:
+        usfm: EPH.3.12
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hé 10:19
+      metadata:
+        usfm: HEB.10.19
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'à qui nous devons d’avoir eu par la foi accès à cette grâce, dans laquelle nous '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '13'
+        text: 1 Co 15:1
+      metadata:
+        usfm: 1CO.15.1
     - type: text
-      text: 'car jusqu’à la loi le péché était dans le monde. Or, le péché n’est pas imputé, quand il n’y a point de loi. '
-  '14':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'demeurons fermes, et nous nous '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '14'
+        text: Hé 3:6
+      metadata:
+        usfm: HEB.3.6
     - type: text
-      text: 'Cependant la mort a régné depuis Adam jusqu’à Moïse, même sur ceux qui n’avaient pas péché par une transgression semblable à celle d’Adam, lequel est la figure de celui qui devait venir. '
-  '15':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'glorifions dans l’espérance de la gloire de Dieu. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'Bien plus, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '15'
+        text: Ja 1:3
+      metadata:
+        usfm: JAS.1.3
     - type: text
-      text: 'Mais il n’en est pas du don gratuit comme de l’offense; car, si par l’offense d’un seul il en est beaucoup qui sont morts, à plus forte raison la grâce de Dieu et le don de la grâce venant d’un seul homme, Jésus-Christ, ont-ils été abondamment répandus sur beaucoup. '
-  '16':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'nous nous glorifions même des afflictions, sachant que l’affliction produit la persévérance, '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'la persévérance la victoire dans l’épreuve, et cette victoire l’espérance. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'Or, l’espérance ne trompe point, parce que l’amour de Dieu est répandu dans nos cœurs par le Saint-Esprit qui nous a été donné. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '16'
+        text: Ép 2:1
+      metadata:
+        usfm: EPH.2.1
     - type: text
-      text: 'Et il n’en est pas du don comme de ce qui est arrivé par un seul qui a péché; car c’est après une seule offense que le jugement est devenu condamnation, tandis que le don gratuit devient justification après plusieurs offenses. '
-  '17':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Col 2:13
+      metadata:
+        usfm: COL.2.13
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hé 9:15
+      metadata:
+        usfm: HEB.9.15
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pi 3:18
+      metadata:
+        usfm: 1PE.3.18
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Car, lorsque nous étions encore sans force, Christ, au temps marqué, est mort pour des impies. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'A peine mourrait-on pour un juste; quelqu’un peut-être mourrait-il pour un homme de bien. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'Mais Dieu prouve son amour envers nous, en ce que, lorsque nous étions encore des pécheurs, Christ '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '17'
+        text: Hé 9:15
+      metadata:
+        usfm: HEB.9.15
     - type: text
-      text: 'Si par l’offense d’un seul la mort a régné par lui seul, à plus forte raison ceux qui reçoivent l’abondance de la grâce et du don de la justice régneront-ils dans la vie par Jésus-Christ lui seul. '
-  '18':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pi 3:18
+      metadata:
+        usfm: 1PE.3.18
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'est mort pour nous. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'A plus forte raison donc, maintenant que nous sommes justifiés par son sang, serons-nous sauvés par lui de la colère. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'Car si, lorsque nous étions ennemis, nous avons été réconciliés avec Dieu par la mort de son Fils, à plus forte raison, étant réconciliés, serons-nous sauvés par sa vie. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: Et non seulement cela, mais encore nous nous glorifions en Dieu par notre Seigneur Jésus-Christ, par qui maintenant nous avons obtenu la réconciliation.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Le péché et la grâce
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 12-21: cf. 1 Co 15:21, 22, 45-49, 56, 57. Ro 6:23.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'C’est pourquoi, comme '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '18'
+        text: Ge 3:6
+      metadata:
+        usfm: GEN.3.6
     - type: text
-      text: 'Ainsi donc, comme par une seule offense la condamnation a atteint tous les hommes, de même par un seul acte de justice la justification qui donne la vie s’étend à tous les hommes. '
-  '19':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Co 15:21
+      metadata:
+        usfm: 1CO.15.21
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'par un seul homme le péché est entré dans le monde, et par le péché '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '19'
+        text: Ge 2:17
+      metadata:
+        usfm: GEN.2.17
     - type: text
-      text: 'Car, comme par la désobéissance d’un seul homme beaucoup ont été rendus pécheurs, de même par l’obéissance d’un seul beaucoup seront rendus justes. '
-  '2':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ro 6:23
+      metadata:
+        usfm: ROM.6.23
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'la mort, et qu’ainsi la mort s’est étendue sur tous les hommes, parce que tous ont péché,… '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'car jusqu’à la loi le péché était dans le monde. Or, le péché n’est pas imputé, quand il n’y a point de loi. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: 'Cependant la mort a régné depuis Adam jusqu’à Moïse, même sur ceux qui n’avaient pas péché par une transgression semblable à celle d’Adam, lequel est la figure de celui qui devait venir. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: 'Mais il n’en est pas du don gratuit comme de l’offense; car, si par l’offense d’un seul il en est beaucoup qui sont morts, à plus forte raison la grâce de Dieu et le don de la grâce venant d’un seul homme, Jésus-Christ, ont-ils été abondamment répandus sur beaucoup. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'Et il n’en est pas du don comme de ce qui est arrivé par un seul qui a péché; car c’est après une seule offense que le jugement est devenu condamnation, tandis que le don gratuit devient justification après plusieurs offenses. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'Si par l’offense d’un seul la mort a régné par lui seul, à plus forte raison ceux qui reçoivent l’abondance de la grâce et du don de la justice régneront-ils dans la vie par Jésus-Christ lui seul. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: 'Ainsi donc, comme par une seule offense la condamnation a atteint tous les hommes, de même par un seul acte de justice la justification qui donne la vie s’étend à tous les hommes. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: 'Car, comme par la désobéissance d’un seul homme beaucoup ont été rendus pécheurs, de même par l’obéissance d’un seul beaucoup seront rendus justes. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '2'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 10:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 14:6
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ép 2:18
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 3:12
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hé 10:19
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Jn 15:22
+      metadata:
+        usfm: JHN.15.22
     - type: text
-      text: 'à qui nous devons d’avoir eu par la foi accès à cette grâce, dans laquelle nous '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Co 15:1
       - type: text
-        text: .
-      marker-yv: yv-n
+        text: Ro 4:15
+      metadata:
+        usfm: ROM.4.15
     - type: text
-      text: 'demeurons fermes, et nous nous '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hé 3:6
       - type: text
-        text: .
-      marker-yv: yv-n
+        text: 7:8
+      metadata:
+        usfm: ROM.7.8
     - type: text
-      text: 'glorifions dans l’espérance de la gloire de Dieu. '
-  '20':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ga 3:19
+      metadata:
+        usfm: GAL.3.19
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Or, la loi est intervenue pour que l’offense abondât, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '20'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 15:22
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 4:15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 7:8
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ga 3:19
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Lu 7:47
+      metadata:
+        usfm: LUK.7.47
     - type: text
-      text: 'Or, la loi est intervenue pour que l’offense abondât, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lu 7:47
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'mais là où le péché a abondé, la grâce a surabondé, '
-  '21':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'mais là où le péché a abondé, la grâce a surabondé, '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '21'
     - type: text
-      text: afin que, comme le péché a régné par la mort, ainsi la grâce régnât par la justice pour la vie éternelle, par Jésus-Christ notre Seigneur.
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'Bien plus, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ja 1:3
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'nous nous glorifions même des afflictions, sachant que l’affliction produit la persévérance, '
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'la persévérance la victoire dans l’épreuve, et cette victoire l’espérance. '
-  '5':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: 'Or, l’espérance ne trompe point, parce que l’amour de Dieu est répandu dans nos cœurs par le Saint-Esprit qui nous a été donné. '
-  '6':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ép 2:1
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col 2:13
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hé 9:15
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pi 3:18
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Car, lorsque nous étions encore sans force, Christ, au temps marqué, est mort pour des impies. '
-  '7':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: 'A peine mourrait-on pour un juste; quelqu’un peut-être mourrait-il pour un homme de bien. '
-  '8':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: 'Mais Dieu prouve son amour envers nous, en ce que, lorsque nous étions encore des pécheurs, Christ '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hé 9:15
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pi 3:18
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'est mort pour nous. '
-  '9':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: 'A plus forte raison donc, maintenant que nous sommes justifiés par son sang, serons-nous sauvés par lui de la colère. '
+      text: '21'
+  - type: text
+    text: afin que, comme le péché a régné par la mort, ainsi la grâce régnât par la justice pour la vie éternelle, par Jésus-Christ notre Seigneur.

@@ -1,3660 +1,3936 @@
-document_id: MAT.5,59
+document_id: MAT.5
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: The Sermon on the Mount
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: The Sermon on the Mount
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Seeing the crowds, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: 'Seeing the crowds, '
+        text: 'ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 15:29
-      marker-yv: yv-n
-    - type: text
-      text: 'he went up on the mountain, and when he '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 4:20
-      marker-yv: yv-n
-    - type: text
-      text: sat down, his disciples came to him.
+      - type: text
+        text: 15:29
+      metadata:
+        usfm: MAT.15.29
+    marker-yv: yv-n
+  - type: text
+    text: 'he went up on the mountain, and when he '
   - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: The Beatitudes
-    marker-yv: yv-h
-  '10':
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: Luke 4:20
+      metadata:
+        usfm: LUK.4.20
+    marker-yv: yv-n
+  - type: text
+    text: sat down, his disciples came to him.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: The Beatitudes
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'And '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 78:2
+      metadata:
+        usfm: PSA.78.2
+    marker-yv: yv-n
+  - type: text
+    text: 'he opened his mouth and taught them, saying:'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: For ver. 3-12, [
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 6:20-23
+      metadata:
+        usfm: LUK.6.20+LUK.6.21+LUK.6.22+LUK.6.23
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: '“Blessed are '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 61:1
+      metadata:
+        usfm: ISA.61.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 66:2
+      metadata:
+        usfm: ISA.66.2
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'the poor in spirit, for '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 12:32
+      metadata:
+        usfm: LUK.12.32
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: theirs is the kingdom of heaven.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: '“Blessed are '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 61:2
+      metadata:
+        usfm: ISA.61.2
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '3'
+      metadata:
+        usfm: ISA.61.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 16:20
+      metadata:
+        usfm: JHN.16.20
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Cor. 1:7
+      metadata:
+        usfm: 2CO.1.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 7:10
+      metadata:
+        usfm: 2CO.7.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rev. 21:4
+      metadata:
+        usfm: REV.21.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: James 4:9
+      metadata:
+        usfm: JAS.4.9
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '10'
+      metadata:
+        usfm: JAS.4.10
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Tim. 2:12
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: James 5:11
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 3:14
-      marker-yv: yv-n
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: those who mourn, for they shall be comforted.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: '“Blessed are the '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: wj
+      marker: ref
       children:
       - type: text
-        text: '“Blessed are those who are persecuted for righteousness’ sake, for '
+        text: Ps. 37:11
+      metadata:
+        usfm: PSA.37.11
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'meek, for they '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '3'
+      - type: text
+        text: Ps. 37:11
+      metadata:
+        usfm: PSA.37.11
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: shall inherit the earth.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: '“Blessed are those who hunger and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 42:2
+      metadata:
+        usfm: PSA.42.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 55:1
+      metadata:
+        usfm: ISA.55.1
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '2'
+      metadata:
+        usfm: ISA.55.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 7:37
+      metadata:
+        usfm: JHN.7.37
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'thirst '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Tim. 2:22
+      metadata:
+        usfm: 2TI.2.22
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: text
+      text: '6:33 '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: for righteousness, for they shall be satisfied.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: '“Blessed are '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 18:33
+      metadata:
+        usfm: MAT.18.33
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 25:34-36
+      metadata:
+        usfm: MAT.25.34+MAT.25.35+MAT.25.36
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 19:17
+      metadata:
+        usfm: PRO.19.17
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 6:36
+      metadata:
+        usfm: LUK.6.36
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Tim. 1:16
+      metadata:
+        usfm: 2TI.1.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 6:10
+      metadata:
+        usfm: HEB.6.10
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: the merciful, for they shall receive mercy.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: '“Blessed are '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 24:4
+      metadata:
+        usfm: PSA.24.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Tim. 2:22
+      metadata:
+        usfm: 2TI.2.22
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pet. 1:22
+      metadata:
+        usfm: 1PE.1.22
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'the pure in heart, for '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 12:14
+      metadata:
+        usfm: HEB.12.14
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 John 3:2
+      metadata:
+        usfm: 1JN.3.2
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '3'
+      metadata:
+        usfm: 1JN.3.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rev. 22:4
+      metadata:
+        usfm: REV.22.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 13:12
+      metadata:
+        usfm: 1CO.13.12
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: they shall see God.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: '“Blessed are '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: James 3:18
+      metadata:
+        usfm: JAS.3.18
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'the peacemakers, for '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 John 3:1
+      metadata:
+        usfm: 1JN.3.1
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'they shall be called '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 8:14
+      metadata:
+        usfm: ROM.8.14
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: sons
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '5:9 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Greek '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: huioi
+    - type: usfm
+      marker: ft
+      children:
       - type: text
         text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: above]
-      marker-yv: yv-n
     - type: usfm
-      marker: wj
+      marker: ft
       children:
       - type: text
-        text: theirs is the kingdom of heaven.
-  '11':
+        text: ; see Preface
+    marker-yv: yv-n
   - type: usfm
-    marker: p
+    marker: wj
+    children:
+    - type: text
+      text: of God.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
+        text: 2 Tim. 2:12
+      metadata:
+        usfm: 2TI.2.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: James 5:11
+      metadata:
+        usfm: JAS.5.11
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pet. 3:14
+      metadata:
+        usfm: 1PE.3.14
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: '“Blessed are those who are persecuted for righteousness’ sake, for '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[See ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '3'
+      metadata:
+        usfm: MAT.5.3
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 11:26
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 4:14
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
+      marker: xta
       children:
       - type: text
-        text: '“Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely '
+        text: above]
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: theirs is the kingdom of heaven.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 15:21
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
+      marker: ref
       children:
       - type: text
-        text: on my account.
+        text: Heb. 11:26
+      metadata:
+        usfm: HEB.11.26
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pet. 4:14
+      metadata:
+        usfm: 1PE.4.14
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: '“Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 15:21
+      metadata:
+        usfm: JHN.15.21
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: on my account.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 5:41
+      metadata:
+        usfm: ACT.5.41
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 5:3
+      metadata:
+        usfm: ROM.5.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Cor. 12:10
+      metadata:
+        usfm: 2CO.12.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Col. 1:11
+      metadata:
+        usfm: COL.1.11
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '24'
+      metadata:
+        usfm: COL.1.24
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 10:34
+      metadata:
+        usfm: HEB.10.34
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: James 1:2
+      metadata:
+        usfm: JAS.1.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pet. 4:13
+      metadata:
+        usfm: 1PE.4.13
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'Rejoice and be glad, for your reward is great in heaven, for '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 21:35
+      metadata:
+        usfm: MAT.21.35
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: so they persecuted the prophets who were before you.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Salt and Light
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: '“You are the salt of the earth, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mark 9:50
+      metadata:
+        usfm: MRK.9.50
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 14:34
+      metadata:
+        usfm: LUK.14.34
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: but if salt has lost its taste, how shall its saltiness be restored? It is no longer good for anything except to be thrown out and trampled under people’s feet.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eph. 5:8
+      metadata:
+        usfm: EPH.5.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Phil. 2:15
+      metadata:
+        usfm: PHP.2.15
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
-  '12':
-  - type: usfm
-    marker: p
-    children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '12'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 5:41
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 5:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Cor. 12:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col. 1:11
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '24'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 10:34
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: James 1:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 4:13
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'Rejoice and be glad, for your reward is great in heaven, for '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 21:35
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: so they persecuted the prophets who were before you.
-  - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Salt and Light
-    marker-yv: yv-h
-  '13':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '13'
+        text: John 8:12
+      metadata:
+        usfm: JHN.8.12
     - type: text
       text: ' '
     - type: usfm
-      marker: wj
+      marker: xta
       children:
       - type: text
-        text: '“You are the salt of the earth, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 9:50
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 14:34
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: but if salt has lost its taste, how shall its saltiness be restored? It is no longer good for anything except to be thrown out and trampled under people’s feet.
-  '14':
+        text: ']'
+    marker-yv: yv-n
   - type: usfm
-    marker: p
+    marker: wj
+    children:
+    - type: text
+      text: “You are the light of the world. A city set on a hill cannot be hidden.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '14'
+        text: Mark 4:21
+      metadata:
+        usfm: MRK.4.21
     - type: text
-      text: ' '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 5:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Phil. 2:15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 8:12
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
+      marker: ref
       children:
       - type: text
-        text: “You are the light of the world. A city set on a hill cannot be hidden.
+        text: Luke 8:16
+      metadata:
+        usfm: LUK.8.16
     - type: text
-      text: ' '
-  '15':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 11:33
+      metadata:
+        usfm: LUK.11.33
+    marker-yv: yv-n
   - type: usfm
-    marker: p
+    marker: wj
+    children:
+    - type: text
+      text: Nor do people light a lamp and put it under a basket, but on a stand, and it gives light to all in the house.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'In the same way, let your light shine before others, so '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '15'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 4:21
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 8:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 11:33
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Nor do people light a lamp and put it under a basket, but on a stand, and it gives light to all in the house.
+        text: Philem. 6
+      metadata:
+        usfm: PHM.1.6
     - type: text
-      text: ' '
-  '16':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pet. 2:12
+      metadata:
+        usfm: 1PE.2.12
+    marker-yv: yv-n
   - type: usfm
-    marker: p
+    marker: wj
+    children:
+    - type: text
+      text: that
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
+      children:
+      - type: text
+        text: '5:16 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: 'house. '
+    - type: usfm
+      marker: fv
       children:
       - type: text
         text: '16'
     - type: usfm
-      marker: wj
+      marker: fq
       children:
       - type: text
-        text: 'In the same way, let your light shine before others, so '
+        text: Let your light so shine before others that
+    marker-yv: yv-n
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'they may see your good works and '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Philem. 6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 2:12
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
+      marker: ref
       children:
       - type: text
-        text: that
+        text: John 15:8
+      metadata:
+        usfm: JHN.15.8
+    - type: text
+      text: '; '
     - type: usfm
-      marker: f
+      marker: ref
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5:16 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'house. '
-      - type: usfm
-        marker: fv
-        children:
-        - type: text
-          text: '16'
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: Let your light so shine before others that
-      marker-yv: yv-n
+      - type: text
+        text: 2 Cor. 9:13
+      metadata:
+        usfm: 2CO.9.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Phil. 1:11
+      metadata:
+        usfm: PHP.1.11
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: text
+      text: 9:8
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: give glory to your Father who is in heaven.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Christ Came to Fulfill the Law
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 3:31
+      metadata:
+        usfm: ROM.3.31
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: '“Do not think that I have come to abolish '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 7:12
+      metadata:
+        usfm: MAT.7.12
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'the Law or the Prophets; I have not come to abolish them but '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: wj
+      marker: ref
       children:
       - type: text
-        text: 'they may see your good works and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 15:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Cor. 9:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Phil. 1:11
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: text
-        text: 9:8
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: give glory to your Father who is in heaven.
-  - type: usfm
-    marker: s1
-    children:
+        text: Rom. 10:4
+      metadata:
+        usfm: ROM.10.4
     - type: text
-      text: Christ Came to Fulfill the Law
-    marker-yv: yv-h
-  '17':
-  - type: usfm
-    marker: p
-    children:
+      text: '; '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '17'
+        text: 13:8
+      metadata:
+        usfm: ROM.13.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gal. 3:24
+      metadata:
+        usfm: GAL.3.24
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 3:31
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
+      marker: xta
       children:
       - type: text
-        text: '“Do not think that I have come to abolish '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 7:12
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'the Law or the Prophets; I have not come to abolish them but '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 10:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 13:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gal. 3:24
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: to fulfill them.
-    - type: text
-      text: ' '
-  '18':
+        text: ']'
+    marker-yv: yv-n
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'For truly, I say to you, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 16:17
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 24:35
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: until heaven and earth pass away, not an iota, not a dot, will pass from the Law until all is accomplished.
-    - type: text
-      text: ' '
-  '19':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 3:12-15
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'Therefore whoever relaxes '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gal. 3:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: James 2:10
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'one of the least of these commandments and teaches others to do the same will be called least '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 11:11
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 18:1-4
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'in the kingdom of heaven, but whoever does them and teaches them will be called great '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 11:11
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 18:1-4
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: in the kingdom of heaven.
-    - type: text
-      text: ' '
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'And '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 78:2
-      marker-yv: yv-n
-    - type: text
-      text: 'he opened his mouth and taught them, saying:'
-  '20':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '20'
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'For I tell you, unless your righteousness exceeds '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 10:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Phil. 3:9
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'that of the scribes and Pharisees, you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 3:5
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: will never enter the kingdom of heaven.
-  - type: usfm
-    marker: s1
+    marker: wj
     children:
     - type: text
-      text: Anger
-    marker-yv: yv-h
-  '21':
+      text: to fulfill them.
+  - type: text
+    text: ' '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '21'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '33'
-      - type: text
-        text: ' ; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 27, 31, 38, 43
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: '“You have heard that it was said to those of old, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited from '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 20:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 5:17
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:18
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 10:19
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 18:20
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 13:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: James 2:11
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: '‘You shall not murder; and whoever murders will be liable '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 16:18
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: to judgment.’
-    - type: text
-      text: ' '
-  '22':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '22'
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'But I say to you that '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 John 3:15
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: everyone who is angry with his brother
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5:22 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Some manuscripts insert '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: without cause
-      marker-yv: yv-n
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'will be liable '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '21'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: above]
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: to judgment; whoever insults
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5:22 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Greek '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'says Raca to '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: (a term of abuse)
-      marker-yv: yv-n
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'his brother will be liable to the council; and whoever says, ‘You fool!’ will be liable to '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 18:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 9:43
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: James 3:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '29'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: the hell
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5:22 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Greek '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: Gehenna
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ; also verses 29, 30
-      marker-yv: yv-n
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: of fire.
-    - type: text
-      text: ' '
-  '23':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '23'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 6:15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 11:25
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'So if '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 8:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 23:18
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: you are offering your gift at the altar and there remember that your brother has something against you,
-    - type: text
-      text: ' '
-  '24':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '24'
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: leave your gift there before the altar and go. First be reconciled to your brother, and then come and offer your gift.
-    - type: text
-      text: ' '
-  '25':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '25'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 12:58
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '59'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Come to terms quickly with your accuser while you are going with him to court, lest your accuser hand you over to the judge, and the judge to the guard, and you be put in prison.
-    - type: text
-      text: ' '
-  '26':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '26'
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'Truly, I say to you, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 18:34
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '35'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: you will never get out until you have paid the last penny.
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5:26 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Greek '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: kodrantes
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ', Roman copper coin (Latin '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: quadrans
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ') worth about 1/64 of a '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'denarius '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: (which was a day’s wage for a laborer)
-      marker-yv: yv-n
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Lust
-    marker-yv: yv-h
-  '27':
+      text: '18'
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '27'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '21'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: '“You have heard that it was said, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited from '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 20:14
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 5:18
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: ‘You shall not commit adultery.’
-    - type: text
-      text: ' '
-  '28':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '28'
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'But I say to you that '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 31:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 6:25
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Sam. 11:2
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: everyone who looks at a woman with lustful intent has already committed adultery with her in his heart.
-    - type: text
-      text: ' '
-  '29':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '29'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 18:8
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '9'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 9:43-48
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'If your right eye '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 13:41
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 17:1
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'causes you to sin, tear it out and throw it away. For it is better that you lose one of your members than that your whole body be thrown into '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 10:28
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 23:15
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '33'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 12:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '22'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: hell.
-    - type: text
-      text: ' '
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: For ver. 3-12, [
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 6:20-23
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: '“Blessed are '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 61:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 66:2
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'the poor in spirit, for '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 12:32
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: theirs is the kingdom of heaven.
-  '30':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '30'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '29'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: above]
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'And if your right hand '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '29'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: above]
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'causes you to sin, cut it off and throw it away. For it is better that you lose one of your members than that your whole body go into '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '29'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: above]
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: hell.
-  - type: usfm
-    marker: s1
+    marker: wj
     children:
     - type: text
-      text: Divorce
-    marker-yv: yv-h
-  '31':
+      text: 'For truly, I say to you, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '31'
+        text: Luke 16:17
+      metadata:
+        usfm: LUK.16.17
     - type: text
-      text: ' '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '27'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: above]
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
+      marker: xta
       children:
       - type: text
-        text: '“It was also said, '
+        text: '[ch. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 3:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited from '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 24:1
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
+      marker: ref
       children:
       - type: text
-        text: ‘Whoever divorces his wife, let him give her a certificate of divorce.’
-    - type: text
-      text: ' '
-  '32':
+        text: 24:35
+      metadata:
+        usfm: LUK.24.35
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '32'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 10:11
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '12'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 16:18
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 7:10
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '11'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'But I say to you that everyone who divorces his wife, except on the ground of sexual immorality, makes her commit adultery, and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 7:3
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: whoever marries a divorced woman commits adultery.
-  - type: usfm
-    marker: s1
+    marker: wj
     children:
     - type: text
-      text: Oaths
-    marker-yv: yv-h
-  '33':
+      text: until heaven and earth pass away, not an iota, not a dot, will pass from the Law until all is accomplished.
+  - type: text
+    text: ' '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 3:12-15
+      metadata:
+        usfm: 1CO.3.12+1CO.3.13+1CO.3.14+1CO.3.15
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'Therefore whoever relaxes '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gal. 3:10
+      metadata:
+        usfm: GAL.3.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: James 2:10
+      metadata:
+        usfm: JAS.2.10
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'one of the least of these commandments and teaches others to do the same will be called least '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 11:11
+      metadata:
+        usfm: MAT.11.11
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 18:1-4
+      metadata:
+        usfm: MAT.18.1+MAT.18.2+MAT.18.3+MAT.18.4
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'in the kingdom of heaven, but whoever does them and teaches them will be called great '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 11:11
+      metadata:
+        usfm: MAT.11.11
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 18:1-4
+      metadata:
+        usfm: MAT.18.1+MAT.18.2+MAT.18.3+MAT.18.4
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: in the kingdom of heaven.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'For I tell you, unless your righteousness exceeds '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 10:3
+      metadata:
+        usfm: ROM.10.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Phil. 3:9
+      metadata:
+        usfm: PHP.3.9
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'that of the scribes and Pharisees, you '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 3:5
+      metadata:
+        usfm: JHN.3.5
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: will never enter the kingdom of heaven.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Anger
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '33'
+      metadata:
+        usfm: MAT.5.33
     - type: text
-      text: ' '
+      text: ' ; '
     - type: usfm
-      marker: wj
+      marker: xta
       children:
       - type: text
-        text: '“Again '
+        text: '[ver. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '27'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: above]
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
+      marker: ref
       children:
       - type: text
-        text: 'you have heard that it was said to those of old, '
+        text: 27, 31, 38, 43
+      metadata:
+        usfm: MAT.5.27
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 19:12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 1:10
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
+      marker: xta
       children:
       - type: text
-        text: '‘You shall not swear falsely, but '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Num. 30:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 23:21
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eccles. 5:4
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: shall perform to the Lord what you have sworn.’
-    - type: text
-      text: ' '
-  '34':
+        text: ']'
+    marker-yv: yv-n
   - type: usfm
-    marker: p
+    marker: wj
+    children:
+    - type: text
+      text: '“You have heard that it was said to those of old, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '34'
+        text: 'Cited from '
     - type: usfm
-      marker: wj
+      marker: ref
       children:
       - type: text
-        text: 'But I say to you, '
+        text: Ex. 20:13
+      metadata:
+        usfm: EXO.20.13
+    - type: text
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: James 5:12
-      marker-yv: yv-n
+      - type: text
+        text: Deut. 5:17
+      metadata:
+        usfm: DEU.5.17
+    - type: text
+      text: '; '
     - type: usfm
-      marker: wj
+      marker: xta
       children:
       - type: text
-        text: 'Do not take an oath at all, either by heaven, for '
+        text: '[ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 23:22
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 66:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 7:49
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 4:2
-      marker-yv: yv-n
+        text: 19:18
+      metadata:
+        usfm: DEU.19.18
+    - type: text
+      text: '; '
     - type: usfm
-      marker: wj
+      marker: ref
       children:
       - type: text
-        text: it is the throne of God,
+        text: Mark 10:19
+      metadata:
+        usfm: MRK.10.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 18:20
+      metadata:
+        usfm: LUK.18.20
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 13:9
+      metadata:
+        usfm: ROM.13.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: James 2:11
+      metadata:
+        usfm: JAS.2.11
     - type: text
       text: ' '
-  '35':
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
   - type: usfm
-    marker: p
+    marker: wj
+    children:
+    - type: text
+      text: '‘You shall not murder; and whoever murders will be liable '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 16:18
+      metadata:
+        usfm: DEU.16.18
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: to judgment.’
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'But I say to you that '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 John 3:15
+      metadata:
+        usfm: 1JN.3.15
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: everyone who is angry with his brother
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '5:22 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Some manuscripts insert '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: without cause
+    marker-yv: yv-n
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'will be liable '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[See ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '21'
+      metadata:
+        usfm: MAT.5.21
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: above]
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: to judgment; whoever insults
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '5:22 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Greek '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: 'says Raca to '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: (a term of abuse)
+    marker-yv: yv-n
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'his brother will be liable to the council; and whoever says, ‘You fool!’ will be liable to '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 18:9
+      metadata:
+        usfm: MAT.18.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mark 9:43
+      metadata:
+        usfm: MRK.9.43
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: James 3:6
+      metadata:
+        usfm: JAS.3.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '29'
+      metadata:
+        usfm: MAT.5.29
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: the hell
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '5:22 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Greek '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: Gehenna
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: ; also verses 29, 30
+    marker-yv: yv-n
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: of fire.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 6:15
+      metadata:
+        usfm: MAT.6.15
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mark 11:25
+      metadata:
+        usfm: MRK.11.25
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'So if '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 8:4
+      metadata:
+        usfm: MAT.8.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 23:18
+      metadata:
+        usfm: MAT.23.18
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: you are offering your gift at the altar and there remember that your brother has something against you,
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '24'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: leave your gift there before the altar and go. First be reconciled to your brother, and then come and offer your gift.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '25'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 12:58
+      metadata:
+        usfm: LUK.12.58
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '59'
+      metadata:
+        usfm: LUK.12.59
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: Come to terms quickly with your accuser while you are going with him to court, lest your accuser hand you over to the judge, and the judge to the guard, and you be put in prison.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '26'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'Truly, I say to you, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 18:34
+      metadata:
+        usfm: MAT.18.34
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '35'
+      metadata:
+        usfm: MAT.18.35
     - type: usfm
-      marker: wj
+      marker: xta
       children:
       - type: text
-        text: 'or by the earth, for it is his footstool, or by Jerusalem, for it is '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 48:2
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: the city of the great King.
-    - type: text
-      text: ' '
-  '36':
+        text: ']'
+    marker-yv: yv-n
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '36'
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: And do not take an oath by your head, for you cannot make one hair white or black.
-    - type: text
-      text: ' '
-  '37':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '37'
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'Let what you say be simply ‘Yes’ or ‘No’; '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 10:19
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: anything more than this comes from evil.
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5:37 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: the evil one
-      marker-yv: yv-n
-  - type: usfm
-    marker: s1
+    marker: wj
     children:
     - type: text
-      text: Retaliation
-    marker-yv: yv-h
-  '38':
+      text: you will never get out until you have paid the last penny.
   - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '38'
-    - type: text
-      text: ' '
+        text: '5:26 '
     - type: usfm
-      marker: x
+      marker: ft
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '27'
       - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: above]
-      marker-yv: yv-n
+        text: 'Greek '
     - type: usfm
-      marker: wj
+      marker: fq
       children:
       - type: text
-        text: '“You have heard that it was said, '
+        text: kodrantes
     - type: usfm
-      marker: x
+      marker: ft
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited from '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 21:24
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 24:20
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 19:21
-      marker-yv: yv-n
+        text: ', Roman copper coin (Latin '
     - type: usfm
-      marker: wj
+      marker: fq
       children:
       - type: text
-        text: ‘An eye for an eye and a tooth for a tooth.’
-    - type: text
-      text: ' '
-  '39':
+        text: quadrans
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: ') worth about 1/64 of a '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: 'denarius '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: (which was a day’s wage for a laborer)
+    marker-yv: yv-n
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Lust
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '39'
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'But I say to you, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 2:23
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'Do not resist the one who is evil. But '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'For ver. 39-42, see '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 6:29
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '30'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 12:17
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'if anyone '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 26:67
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 50:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lam. 3:30
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: slaps you on the right cheek, turn to him the other also.
-    - type: text
-      text: ' '
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: '“Blessed are '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 61:2
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '3'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 16:20
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Cor. 1:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 7:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 21:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: James 4:9
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '10'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: those who mourn, for they shall be comforted.
-  '40':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '40'
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'And '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '39'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: above]
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: if anyone would sue you and take your tunic,
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5:40 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Greek '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: chiton
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ', a long garment worn under the cloak next to the skin'
-      marker-yv: yv-n
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: let him have your cloak as well.
-    - type: text
-      text: ' '
-  '41':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '41'
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'And if anyone '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 27:32
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: forces you to go one mile, go with him two miles.
-    - type: text
-      text: ' '
-  '42':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '42'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 37:21
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 21:26
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'Give to the one who begs from you, and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 15:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 37:26
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 112:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 6:34
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '35'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: do not refuse the one who would borrow from you.
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Love Your Enemies
-    marker-yv: yv-h
-  '43':
+      text: '27'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '43'
-    - type: text
-      text: ' '
+        text: 'See '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '21'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
+      marker: xta
       children:
       - type: text
-        text: '“You have heard that it was said, '
+        text: 'ver. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited from '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 19:18
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:19
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
+      marker: ref
       children:
       - type: text
-        text: ‘You shall love your neighbor and hate your enemy.’
-    - type: text
-      text: ' '
-  '44':
+        text: '21'
+      metadata:
+        usfm: MAT.21
+    marker-yv: yv-n
   - type: usfm
-    marker: p
+    marker: wj
+    children:
+    - type: text
+      text: '“You have heard that it was said, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '44'
+        text: 'Cited from '
     - type: usfm
-      marker: wj
+      marker: ref
       children:
       - type: text
-        text: 'But I say to you, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 6:27
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '28'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 12:20
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 23:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 31:29
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '30'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 7:4
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'Love your enemies and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 23:34
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 7:60
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Tim. 4:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 3:9
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: pray for those who persecute you,
+        text: Ex. 20:14
+      metadata:
+        usfm: EXO.20.14
     - type: text
-      text: ' '
-  '45':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 5:18
+      metadata:
+        usfm: DEU.5.18
+    marker-yv: yv-n
   - type: usfm
-    marker: p
+    marker: wj
+    children:
+    - type: text
+      text: ‘You shall not commit adultery.’
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '28'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'But I say to you that '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '45'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 6:35
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 5:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Phil. 2:15
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'so that you may be sons of your Father who is in heaven. For he makes his sun rise on the evil and on the good, and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 14:17
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: sends rain on the just and on the unjust.
+        text: Job 31:1
+      metadata:
+        usfm: JOB.31.1
     - type: text
-      text: ' '
-  '46':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 6:25
+      metadata:
+        usfm: PRO.6.25
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Sam. 11:2
+      metadata:
+        usfm: 2SA.11.2
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
   - type: usfm
-    marker: p
+    marker: wj
+    children:
+    - type: text
+      text: everyone who looks at a woman with lustful intent has already committed adultery with her in his heart.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '29'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '46'
+        text: 'ch. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 6:32
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
+      marker: ref
       children:
       - type: text
-        text: For if you love those who love you, what reward do you have? Do not even the tax collectors do the same?
+        text: 18:8
+      metadata:
+        usfm: MAT.18.8
     - type: text
-      text: ' '
-  '47':
-  - type: usfm
-    marker: p
-    children:
+      text: ', '
     - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '47'
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: And if you greet only your brothers,
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5:47 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'brothers and sisters. In New Testament usage, depending on the context, the plural Greek word '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'adelphoi '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: '(translated “brothers”) may refer either to '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'brothers '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'or to '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: brothers and sisters
-      marker-yv: yv-n
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'what more are you doing than others? Do not even '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 6:7
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '32'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: the Gentiles do the same?
-    - type: text
-      text: ' '
-  '48':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '48'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 6:36
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'You therefore must be '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:21
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 2:6
-      - type: text
-        text: ' (Gk.); '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Phil. 3:15
-      - type: text
-        text: ' (Gk.); '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col. 1:28
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:12
-      - type: text
-        text: ' (Gk.); '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: James 1:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 3:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 17:1
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'perfect, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 19:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 1:15
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: as your heavenly Father is perfect.
-  '5':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: '“Blessed are the '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 37:11
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'meek, for they '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 37:11
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: shall inherit the earth.
-  '6':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: '“Blessed are those who hunger and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 42:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 55:1
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '2'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 7:37
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'thirst '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Tim. 2:22
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: text
-        text: '6:33 '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: for righteousness, for they shall be satisfied.
-  '7':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: '“Blessed are '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 18:33
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 25:34-36
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 19:17
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 6:36
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Tim. 1:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 6:10
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: the merciful, for they shall receive mercy.
-  '8':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: '“Blessed are '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 24:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Tim. 2:22
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 1:22
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'the pure in heart, for '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 12:14
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 John 3:2
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '3'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 22:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 13:12
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: they shall see God.
-  '9':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '9'
+      metadata:
+        usfm: MAT.18.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mark 9:43-48
+      metadata:
+        usfm: MRK.9.43+MRK.9.44+MRK.9.45+MRK.9.46+MRK.9.47+MRK.9.48
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'If your right eye '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 13:41
+      metadata:
+        usfm: MAT.13.41
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 17:1
+      metadata:
+        usfm: LUK.17.1
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'causes you to sin, tear it out and throw it away. For it is better that you lose one of your members than that your whole body be thrown into '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 10:28
+      metadata:
+        usfm: MAT.10.28
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 23:15
+      metadata:
+        usfm: MAT.23.15
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '33'
+      metadata:
+        usfm: MAT.23.33
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 12:5
+      metadata:
+        usfm: LUK.12.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '22'
+      metadata:
+        usfm: MAT.5.22
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: hell.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '30'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[See ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '29'
+      metadata:
+        usfm: MAT.5.29
     - type: text
       text: ' '
     - type: usfm
-      marker: wj
+      marker: xta
       children:
       - type: text
-        text: '“Blessed are '
+        text: above]
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'And if your right hand '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: James 3:18
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'the peacemakers, for '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 John 3:1
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
+      marker: xta
       children:
       - type: text
-        text: 'they shall be called '
+        text: '[See ver. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 8:14
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
+      marker: ref
       children:
       - type: text
-        text: sons
+        text: '29'
+      metadata:
+        usfm: MAT.5.29
     - type: text
       text: ' '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5:9 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Greek '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: huioi
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ' '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ; see Preface
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
+      marker: xta
       children:
       - type: text
-        text: of God.
+        text: above]
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'causes you to sin, cut it off and throw it away. For it is better that you lose one of your members than that your whole body go into '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[See ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '29'
+      metadata:
+        usfm: MAT.5.29
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: above]
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: hell.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Divorce
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '31'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[See ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '27'
+      metadata:
+        usfm: MAT.5.27
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: above]
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: '“It was also said, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:7
+      metadata:
+        usfm: MAT.19.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 3:1
+      metadata:
+        usfm: JER.3.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'Cited from '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 24:1
+      metadata:
+        usfm: DEU.24.1
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: ‘Whoever divorces his wife, let him give her a certificate of divorce.’
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '32'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:9
+      metadata:
+        usfm: MAT.19.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mark 10:11
+      metadata:
+        usfm: MRK.10.11
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '12'
+      metadata:
+        usfm: MRK.10.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 16:18
+      metadata:
+        usfm: LUK.16.18
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 7:10
+      metadata:
+        usfm: 1CO.7.10
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '11'
+      metadata:
+        usfm: 1CO.7.11
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'But I say to you that everyone who divorces his wife, except on the ground of sexual immorality, makes her commit adultery, and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 7:3
+      metadata:
+        usfm: ROM.7.3
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: whoever marries a divorced woman commits adultery.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Oaths
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '33'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: '“Again '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[See ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '27'
+      metadata:
+        usfm: MAT.5.27
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: above]
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'you have heard that it was said to those of old, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lev. 19:12
+      metadata:
+        usfm: LEV.19.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 1:10
+      metadata:
+        usfm: 1TI.1.10
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: '‘You shall not swear falsely, but '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Num. 30:2
+      metadata:
+        usfm: NUM.30.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 23:21
+      metadata:
+        usfm: DEU.23.21
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eccles. 5:4
+      metadata:
+        usfm: ECC.5.4
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: shall perform to the Lord what you have sworn.’
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '34'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'But I say to you, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: James 5:12
+      metadata:
+        usfm: JAS.5.12
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'Do not take an oath at all, either by heaven, for '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 23:22
+      metadata:
+        usfm: MAT.23.22
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 66:1
+      metadata:
+        usfm: ISA.66.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 7:49
+      metadata:
+        usfm: ACT.7.49
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rev. 4:2
+      metadata:
+        usfm: REV.4.2
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: it is the throne of God,
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '35'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'or by the earth, for it is his footstool, or by Jerusalem, for it is '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 48:2
+      metadata:
+        usfm: PSA.48.2
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: the city of the great King.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '36'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: And do not take an oath by your head, for you cannot make one hair white or black.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '37'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'Let what you say be simply ‘Yes’ or ‘No’; '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 10:19
+      metadata:
+        usfm: PRO.10.19
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: anything more than this comes from evil.
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '5:37 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: the evil one
+    marker-yv: yv-n
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Retaliation
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '38'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[See ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '27'
+      metadata:
+        usfm: MAT.5.27
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: above]
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: '“You have heard that it was said, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'Cited from '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 21:24
+      metadata:
+        usfm: EXO.21.24
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lev. 24:20
+      metadata:
+        usfm: LEV.24.20
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 19:21
+      metadata:
+        usfm: DEU.19.21
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: ‘An eye for an eye and a tooth for a tooth.’
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '39'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'But I say to you, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pet. 2:23
+      metadata:
+        usfm: 1PE.2.23
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'Do not resist the one who is evil. But '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'For ver. 39-42, see '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 6:29
+      metadata:
+        usfm: LUK.6.29
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '30'
+      metadata:
+        usfm: LUK.6.30
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 12:17
+      metadata:
+        usfm: ROM.12.17
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'if anyone '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 26:67
+      metadata:
+        usfm: MAT.26.67
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 50:6
+      metadata:
+        usfm: ISA.50.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lam. 3:30
+      metadata:
+        usfm: LAM.3.30
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: slaps you on the right cheek, turn to him the other also.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '40'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'And '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[See ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '39'
+      metadata:
+        usfm: MAT.5.39
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: above]
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: if anyone would sue you and take your tunic,
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '5:40 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Greek '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: chiton
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: ', a long garment worn under the cloak next to the skin'
+    marker-yv: yv-n
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: let him have your cloak as well.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '41'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'And if anyone '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 27:32
+      metadata:
+        usfm: MAT.27.32
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: forces you to go one mile, go with him two miles.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '42'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 37:21
+      metadata:
+        usfm: PSA.37.21
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 21:26
+      metadata:
+        usfm: PRO.21.26
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'Give to the one who begs from you, and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 15:8
+      metadata:
+        usfm: DEU.15.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 37:26
+      metadata:
+        usfm: PSA.37.26
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 112:5
+      metadata:
+        usfm: PSA.112.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 6:34
+      metadata:
+        usfm: LUK.6.34
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '35'
+      metadata:
+        usfm: LUK.6.35
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: do not refuse the one who would borrow from you.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Love Your Enemies
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '43'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '21'
+      metadata:
+        usfm: MAT.21
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: '“You have heard that it was said, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'Cited from '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lev. 19:18
+      metadata:
+        usfm: LEV.19.18
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:19
+      metadata:
+        usfm: LEV.19.19
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: ‘You shall love your neighbor and hate your enemy.’
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '44'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'But I say to you, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 6:27
+      metadata:
+        usfm: LUK.6.27
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '28'
+      metadata:
+        usfm: LUK.6.28
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 12:20
+      metadata:
+        usfm: ROM.12.20
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 23:4
+      metadata:
+        usfm: EXO.23.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 31:29
+      metadata:
+        usfm: JOB.31.29
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '30'
+      metadata:
+        usfm: JOB.31.30
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 7:4
+      metadata:
+        usfm: PSA.7.4
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'Love your enemies and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 23:34
+      metadata:
+        usfm: LUK.23.34
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 7:60
+      metadata:
+        usfm: ACT.7.60
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Tim. 4:16
+      metadata:
+        usfm: 2TI.4.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pet. 3:9
+      metadata:
+        usfm: 1PE.3.9
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: pray for those who persecute you,
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '45'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 6:35
+      metadata:
+        usfm: LUK.6.35
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eph. 5:1
+      metadata:
+        usfm: EPH.5.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Phil. 2:15
+      metadata:
+        usfm: PHP.2.15
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'so that you may be sons of your Father who is in heaven. For he makes his sun rise on the evil and on the good, and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 14:17
+      metadata:
+        usfm: ACT.14.17
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: sends rain on the just and on the unjust.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '46'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 6:32
+      metadata:
+        usfm: LUK.6.32
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: For if you love those who love you, what reward do you have? Do not even the tax collectors do the same?
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '47'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: And if you greet only your brothers,
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '5:47 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: 'brothers and sisters. In New Testament usage, depending on the context, the plural Greek word '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: 'adelphoi '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: '(translated “brothers”) may refer either to '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: 'brothers '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'or to '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: brothers and sisters
+    marker-yv: yv-n
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'what more are you doing than others? Do not even '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 6:7
+      metadata:
+        usfm: MAT.6.7
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '32'
+      metadata:
+        usfm: MAT.6.32
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: the Gentiles do the same?
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '48'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 6:36
+      metadata:
+        usfm: LUK.6.36
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'You therefore must be '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:21
+      metadata:
+        usfm: MAT.19.21
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 2:6
+      metadata:
+        usfm: 1CO.2.6
+    - type: text
+      text: ' (Gk.); '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Phil. 3:15
+      metadata:
+        usfm: PHP.3.15
+    - type: text
+      text: ' (Gk.); '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Col. 1:28
+      metadata:
+        usfm: COL.1.28
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:12
+      metadata:
+        usfm: COL.4.12
+    - type: text
+      text: ' (Gk.); '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: James 1:4
+      metadata:
+        usfm: JAS.1.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 3:2
+      metadata:
+        usfm: JAS.3.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 17:1
+      metadata:
+        usfm: GEN.17.1
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'perfect, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lev. 19:2
+      metadata:
+        usfm: LEV.19.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pet. 1:15
+      metadata:
+        usfm: 1PE.1.15
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: as your heavenly Father is perfect.

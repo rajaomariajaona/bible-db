@@ -1,828 +1,896 @@
-document_id: PSA.5,59
+document_id: PSA.5
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Lead Me in Your Righteousness
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: 'To the choirmaster: for the flutes. A Psalm of David.'
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Lead Me in Your Righteousness
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Give ear to my words, O '
   - type: usfm
-    marker: d
+    marker: nd
     children:
     - type: text
-      text: 'To the choirmaster: for the flutes. A Psalm of David.'
+      text: Lord
+  - type: text
+    text: ;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'consider my '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: 'Give ear to my words, O '
+        text: '['
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'consider my '
+        text: Ps. 39:3
+      metadata:
+        usfm: PSA.39.3
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 39:3
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: groaning.
-  '10':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '10'
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: groaning.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: Give attention to the sound of my cry,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'my '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 84:3
+      metadata:
+        usfm: PSA.84.3
+    marker-yv: yv-n
+  - type: text
+    text: King and my God,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'for '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 65:2
+      metadata:
+        usfm: PSA.65.2
+    marker-yv: yv-n
+  - type: text
+    text: to you do I pray.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'O '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ', in '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 88:13
+      metadata:
+        usfm: PSA.88.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 119:147
+      metadata:
+        usfm: PSA.119.147
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 130:6
+      metadata:
+        usfm: PSA.130.6
+    marker-yv: yv-n
+  - type: text
+    text: the morning you hear my voice;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: in the morning I prepare a sacrifice for you
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '5:3 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: I direct my prayer to you
+    marker-yv: yv-n
+  - type: text
+    text: ' and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hab. 2:1
+      metadata:
+        usfm: HAB.2.1
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: watch.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: For you are not a God who delights in wickedness;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: evil may not dwell with you.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'The '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 73:3
+      metadata:
+        usfm: PSA.73.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 75:4
+      metadata:
+        usfm: PSA.75.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hab. 1:13
+      metadata:
+        usfm: HAB.1.13
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'boastful shall not '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 1:5
+      metadata:
+        usfm: PSA.1.5
+    marker-yv: yv-n
+  - type: text
+    text: stand before your eyes;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'you '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 11:5
+      metadata:
+        usfm: PSA.11.5
+    marker-yv: yv-n
+  - type: text
+    text: hate all evildoers.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'You destroy those who speak '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 4:2
+      metadata:
+        usfm: PSA.4.2
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']; Rev. 21:8; 22:15'
+    marker-yv: yv-n
+  - type: text
+    text: lies;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' abhors '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 55:23
+      metadata:
+        usfm: PSA.55.23
+    marker-yv: yv-n
+  - type: text
+    text: the bloodthirsty and deceitful man.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: But I, through the abundance of your steadfast love,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: will enter your house.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'I will '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 132:7
+      metadata:
+        usfm: PSA.132.7
+    marker-yv: yv-n
+  - type: text
+    text: 'bow down '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Kgs. 8:29
+      metadata:
+        usfm: 1KI.8.29
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '30'
+      metadata:
+        usfm: 1KI.8.30
+    marker-yv: yv-n
+  - type: text
+    text: 'toward your '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 11:4
+      metadata:
+        usfm: PSA.11.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 79:1
+      metadata:
+        usfm: PSA.79.1
+    marker-yv: yv-n
+  - type: text
+    text: holy temple
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: in the fear of you.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 24:6
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: Make them bear their guilt, O God;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'let them '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Sam. 15:31
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 17:14
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '23'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: fall by their own counsels;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: because of the abundance of their transgressions cast them out,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: for they have rebelled against you.
-  '11':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
+        text: Ps. 23:3
+      metadata:
+        usfm: PSA.23.3
     - type: text
-      text: 'But let all who '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 2:12
-      marker-yv: yv-n
-    - type: text
-      text: 'take refuge in you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 33:21
-      marker-yv: yv-n
-    - type: text
-      text: rejoice;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: let them ever sing for joy,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: and spread your protection over them,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'that those who love your name may '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 9:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Sam. 2:1
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: exult in you.
-  '12':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '12'
+        text: 25:4
+      metadata:
+        usfm: PSA.25.4
     - type: text
-      text: 'For you '
+      text: ', '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 115:13
-      marker-yv: yv-n
-    - type: text
-      text: 'bless the righteous, O '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 103:4
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'cover him with favor as with '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 35:2
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: a shield.
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: Give attention to the sound of my cry,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'my '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 84:3
-      marker-yv: yv-n
-    - type: text
-      text: King and my God,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'for '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 65:2
-      marker-yv: yv-n
-    - type: text
-      text: to you do I pray.
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'O '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ', in '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 88:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 119:147
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 130:6
-      marker-yv: yv-n
-    - type: text
-      text: the morning you hear my voice;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: in the morning I prepare a sacrifice for you
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5:3 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: I direct my prayer to you
-      marker-yv: yv-n
-    - type: text
-      text: ' and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hab. 2:1
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: watch.
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: For you are not a God who delights in wickedness;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: evil may not dwell with you.
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '5'
-    - type: text
-      text: 'The '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 73:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 75:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hab. 1:13
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'boastful shall not '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 1:5
-      marker-yv: yv-n
-    - type: text
-      text: stand before your eyes;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 11:5
-      marker-yv: yv-n
-    - type: text
-      text: hate all evildoers.
-  '6':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'You destroy those who speak '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 4:2
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']; Rev. 21:8; 22:15'
-      marker-yv: yv-n
-    - type: text
-      text: lies;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' abhors '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 55:23
-      marker-yv: yv-n
-    - type: text
-      text: the bloodthirsty and deceitful man.
-  '7':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: But I, through the abundance of your steadfast love,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: will enter your house.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'I will '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 132:7
-      marker-yv: yv-n
-    - type: text
-      text: 'bow down '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Kgs. 8:29
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '30'
-      marker-yv: yv-n
-    - type: text
-      text: 'toward your '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 11:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 79:1
-      marker-yv: yv-n
-    - type: text
-      text: holy temple
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: in the fear of you.
-  '8':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
+      metadata:
+        usfm: PSA.25.5
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 23:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 25:4
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '5'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'Lead me, O '
-    - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ', in your righteousness'
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'Lead me, O '
   - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: because of my enemies;
+      text: Lord
+  - type: text
+    text: ', in your righteousness'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: because of my enemies;
+- type: usfm
+  marker: q2
+  children:
   - type: usfm
-    marker: q2
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
       - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezra 8:21
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: '['
     - type: text
-      text: make your way straight before me.
-  '9':
-  - type: usfm
-    marker: q1
-    children:
+      text: ' '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '9'
+        text: Ezra 8:21
+      metadata:
+        usfm: EZR.8.21
     - type: text
-      text: For there is no truth in their mouth;
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: make your way straight before me.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'their inmost self is '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 52:2
-      marker-yv: yv-n
-    - type: text
-      text: destruction;
+      text: '9'
+  - type: text
+    text: For there is no truth in their mouth;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'their inmost self is '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 3:13
-      marker-yv: yv-n
-    - type: text
-      text: 'their throat is '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 5:16
-      marker-yv: yv-n
-    - type: text
-      text: an open grave;
+      - type: text
+        text: Ps. 52:2
+      metadata:
+        usfm: PSA.52.2
+    marker-yv: yv-n
+  - type: text
+    text: destruction;
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'Cited '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 3:13
+      metadata:
+        usfm: ROM.3.13
+    marker-yv: yv-n
+  - type: text
+    text: 'their throat is '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 5:16
+      metadata:
+        usfm: JER.5.16
+    marker-yv: yv-n
+  - type: text
+    text: an open grave;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'they '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 12:2
+      metadata:
+        usfm: PSA.12.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 2:16
+      metadata:
+        usfm: PRO.2.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 7:5
+      metadata:
+        usfm: PRO.7.5
+    marker-yv: yv-n
+  - type: text
+    text: flatter with their tongue.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
     children:
     - type: text
-      text: 'they '
+      text: '10'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 12:2
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 2:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 7:5
-      marker-yv: yv-n
+        text: '['
     - type: text
-      text: flatter with their tongue.
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 24:6
+      metadata:
+        usfm: ISA.24.6
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Make them bear their guilt, O God;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'let them '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Sam. 15:31
+      metadata:
+        usfm: 2SA.15.31
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 17:14
+      metadata:
+        usfm: 2SA.17.14
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '23'
+      metadata:
+        usfm: 2SA.17.23
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: fall by their own counsels;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: because of the abundance of their transgressions cast them out,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: for they have rebelled against you.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'But let all who '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 2:12
+      metadata:
+        usfm: PSA.2.12
+    marker-yv: yv-n
+  - type: text
+    text: 'take refuge in you '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 33:21
+      metadata:
+        usfm: PSA.33.21
+    marker-yv: yv-n
+  - type: text
+    text: rejoice;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: let them ever sing for joy,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: and spread your protection over them,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'that those who love your name may '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 9:2
+      metadata:
+        usfm: PSA.9.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Sam. 2:1
+      metadata:
+        usfm: 1SA.2.1
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: exult in you.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'For you '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 115:13
+      metadata:
+        usfm: PSA.115.13
+    marker-yv: yv-n
+  - type: text
+    text: 'bless the righteous, O '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'you '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 103:4
+      metadata:
+        usfm: PSA.103.4
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'cover him with favor as with '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 35:2
+      metadata:
+        usfm: PSA.35.2
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: a shield.

@@ -1,441 +1,429 @@
-document_id: ISA.23,93
+document_id: ISA.23
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Prophétie contre Tyr et Sidon
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 1-14: cf. Jé 25:22. Éz 26 à 28. Am 1:9, 10. Za 9:2-4.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Prophétie contre Tyr et Sidon
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Oracle sur '
   - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 1-14: cf. Jé 25:22. Éz 26 à 28. Am 1:9, 10. Za 9:2-4.'
-    marker-yv: yv-h
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Jé 47:4
+      metadata:
+        usfm: JER.47.4
     - type: text
-      text: 'Oracle sur '
+      text: '. Éz 26:27, 28. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jé 47:4
-      - type: text
-        text: '. Éz 26:27, 28. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Za 9:3
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '4'
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: Tyr.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Lamentez-vous, navires de Tarsis!
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'Car elle est détruite: plus de maisons! Plus d’entrée!'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: C’est du pays de Kittim que la nouvelle leur en est venue.
-  '10':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
+        text: Za 9:3
+      metadata:
+        usfm: ZEC.9.3
     - type: text
-      text: Parcours librement ton pays, pareille au Nil,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Fille de Tarsis! Plus de joug!
-  '11':
-  - type: usfm
-    marker: q1
-    children:
+      text: ', '
     - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '11'
-    - type: text
-      text: L’Éternel a étendu sa main sur la mer;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Il a fait trembler les royaumes;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Il a ordonné la destruction des forteresses de Canaan.
-  '12':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '12'
-    - type: text
-      text: 'Il a dit: Tu ne te livreras plus à la joie,'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Vierge déshonorée, fille de Sidon!
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Lève-toi, passe au pays de Kittim!
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Même là, il n’y aura pas de repos pour toi.
-  '13':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '13'
-    - type: text
-      text: Vois les Chaldéens, qui n’étaient pas un peuple,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Ces habitants du désert, pour qui l’Assyrien a fondé un pays;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Ils élèvent des tours, ils renversent les palais de Tyr,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Ils les mettent en ruines.
-  '14':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '14'
-    - type: text
-      text: Lamentez-vous, navires de Tarsis!
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Car votre forteresse est détruite!
-  - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 15-18: cf. Jé 25:11-14. (Ac 21:3-6. Ps 45:13.)'
-    marker-yv: yv-h
-  '15':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '15'
-    - type: text
-      text: En ce temps-là, Tyr tombera dans l’oubli soixante-dix ans,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Ce que dure la vie d’un roi.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Au bout de soixante-dix ans, il en sera de Tyr
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'Comme de la prostituée dont parle la chanson:'
-  '16':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: text
-      text: Prends la harpe, parcours la ville,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Prostituée qu’on oublie!
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Joue bien, répète tes chants,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Pour qu’on se souvienne de toi!
-  '17':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: text
-      text: Au bout de soixante-dix ans, l’Éternel visitera Tyr,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Et elle retournera à son salaire impur;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Elle se prostituera à tous les royaumes de la terre,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Sur la face du monde.
-  '18':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
-    - type: text
-      text: Mais son gain et son salaire impur seront consacrés à l’Éternel,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Ils ne seront ni entassés ni conservés;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Car son gain fournira pour ceux qui habitent devant l’Éternel
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Une nourriture abondante et des vêtements magnifiques.
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: Soyez muets d’effroi, habitants de la côte,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Que remplissaient les marchands de Sidon, parcourant la mer!
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: A travers les vastes eaux, le blé du Nil,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: La moisson du fleuve, était pour elle un revenu;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Elle était le marché des nations.
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '4'
+      metadata:
+        usfm: ZEC.9.4
     - type: text
-      text: Sois confuse, Sidon!
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: Tyr.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Lamentez-vous, navires de Tarsis!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Car elle est détruite: plus de maisons! Plus d’entrée!'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: C’est du pays de Kittim que la nouvelle leur en est venue.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: 'Car ainsi parle la mer, la forteresse de la mer:'
+      text: '2'
+  - type: text
+    text: Soyez muets d’effroi, habitants de la côte,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Que remplissaient les marchands de Sidon, parcourant la mer!
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Je n’ai point eu de douleurs, je n’ai point enfanté,
+      text: '3'
+  - type: text
+    text: A travers les vastes eaux, le blé du Nil,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: La moisson du fleuve, était pour elle un revenu;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Elle était le marché des nations.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Je n’ai point nourri de jeunes gens, ni élevé de jeunes filles.
-  '5':
+      text: '4'
+  - type: text
+    text: Sois confuse, Sidon!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Car ainsi parle la mer, la forteresse de la mer:'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Je n’ai point eu de douleurs, je n’ai point enfanté,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Je n’ai point nourri de jeunes gens, ni élevé de jeunes filles.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: Quand les Égyptiens sauront la nouvelle,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Ils trembleront en apprenant la chute de Tyr.
-  '6':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: Passez à Tarsis,
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Lamentez-vous, habitants de la côte!
-  '7':
+      text: '5'
+  - type: text
+    text: Quand les Égyptiens sauront la nouvelle,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Ils trembleront en apprenant la chute de Tyr.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: Est-ce là votre ville joyeuse?
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Elle avait une origine antique,
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Et ses pieds la mènent séjourner au loin.
-  '8':
+      text: '6'
+  - type: text
+    text: Passez à Tarsis,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Lamentez-vous, habitants de la côte!
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: Qui a pris cette résolution contre Tyr, la dispensatrice des couronnes,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Elle dont les marchands étaient des princes,
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Dont les commerçants étaient les plus riches de la terre?
-  '9':
+      text: '7'
+  - type: text
+    text: Est-ce là votre ville joyeuse?
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Elle avait une origine antique,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et ses pieds la mènent séjourner au loin.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
     - type: text
-      text: C’est l’Éternel des armées qui a pris cette résolution,
+      text: '8'
+  - type: text
+    text: Qui a pris cette résolution contre Tyr, la dispensatrice des couronnes,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Elle dont les marchands étaient des princes,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Dont les commerçants étaient les plus riches de la terre?
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Pour blesser l’orgueil de tout ce qui brille,
+      text: '9'
+  - type: text
+    text: C’est l’Éternel des armées qui a pris cette résolution,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Pour blesser l’orgueil de tout ce qui brille,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Pour humilier tous les grands de la terre.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Pour humilier tous les grands de la terre.
+      text: '10'
+  - type: text
+    text: Parcours librement ton pays, pareille au Nil,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Fille de Tarsis! Plus de joug!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: L’Éternel a étendu sa main sur la mer;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Il a fait trembler les royaumes;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Il a ordonné la destruction des forteresses de Canaan.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'Il a dit: Tu ne te livreras plus à la joie,'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Vierge déshonorée, fille de Sidon!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Lève-toi, passe au pays de Kittim!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Même là, il n’y aura pas de repos pour toi.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: Vois les Chaldéens, qui n’étaient pas un peuple,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Ces habitants du désert, pour qui l’Assyrien a fondé un pays;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Ils élèvent des tours, ils renversent les palais de Tyr,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Ils les mettent en ruines.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: Lamentez-vous, navires de Tarsis!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Car votre forteresse est détruite!
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 15-18: cf. Jé 25:11-14. (Ac 21:3-6. Ps 45:13.)'
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: En ce temps-là, Tyr tombera dans l’oubli soixante-dix ans,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Ce que dure la vie d’un roi.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Au bout de soixante-dix ans, il en sera de Tyr
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Comme de la prostituée dont parle la chanson:'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: Prends la harpe, parcours la ville,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Prostituée qu’on oublie!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Joue bien, répète tes chants,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Pour qu’on se souvienne de toi!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: Au bout de soixante-dix ans, l’Éternel visitera Tyr,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et elle retournera à son salaire impur;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Elle se prostituera à tous les royaumes de la terre,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Sur la face du monde.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: Mais son gain et son salaire impur seront consacrés à l’Éternel,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Ils ne seront ni entassés ni conservés;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Car son gain fournira pour ceux qui habitent devant l’Éternel
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Une nourriture abondante et des vêtements magnifiques.

@@ -1,66 +1,57 @@
-document_id: PSA.134,96
+document_id: PSA.134
 type_code: plt
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Hira ho fisaorana an'i Jehovah amin'ny alina
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Hira ho fisaorana an'i Jehovah amin'ny alina
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: Fihirana fiakarana
   - type: usfm
-    marker: p
+    marker: x
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
     - type: text
-      text: Fihirana fiakarana
-    - type: usfm
-      marker: x
-      children:
-      - type: text
-        text: 'Na: Fihirana misy hevitra ambaratonga'
-      marker-yv: yv-n
-    - type: text
-      text: . Andeha, misaora an'i Jehovah
-    - type: usfm
-      marker: x
-      children:
-      - type: text
-        text: 'Na: misaora an''i Jehovah amin''ny alina'
-      marker-yv: yv-n
-    - type: text
-      text: ', ianareo rehetra mpanompon''i Jehovah, Izay mitoetra alina ao an-tranon''i Jehovah. '
-  '2':
+      text: 'Na: Fihirana misy hevitra ambaratonga'
+    marker-yv: yv-n
+  - type: text
+    text: . Andeha, misaora an'i Jehovah
   - type: usfm
-    marker: p
+    marker: x
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
     - type: text
-      text: Manandrata ny tananareo ho amin'ny fitoerana masina
-    - type: usfm
-      marker: x
-      children:
-      - type: text
-        text: 'Na: amin''ny fahamasinana'
-      marker-yv: yv-n
-    - type: text
-      text: ', Ka misaora an''i Jehovah. '
-  '3':
+      text: 'Na: misaora an''i Jehovah amin''ny alina'
+    marker-yv: yv-n
+  - type: text
+    text: ', ianareo rehetra mpanompon''i Jehovah, Izay mitoetra alina ao an-tranon''i Jehovah. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
     - type: text
-      text: Hitahy anao avy ao Ziona anie Jehovah Mpanao ny lanitra sy ny tany.
+      text: '2'
+  - type: text
+    text: Manandrata ny tananareo ho amin'ny fitoerana masina
+  - type: usfm
+    marker: x
+    children:
+    - type: text
+      text: 'Na: amin''ny fahamasinana'
+    marker-yv: yv-n
+  - type: text
+    text: ', Ka misaora an''i Jehovah. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: Hitahy anao avy ao Ziona anie Jehovah Mpanao ny lanitra sy ny tany.

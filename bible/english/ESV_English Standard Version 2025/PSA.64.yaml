@@ -1,560 +1,604 @@
-document_id: PSA.64,59
+document_id: PSA.64
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Hide Me from the Wicked
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: To the choirmaster. A Psalm of David.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Hide Me from the Wicked
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Hear my voice, O God, in my '
   - type: usfm
-    marker: d
-    children:
-    - type: text
-      text: To the choirmaster. A Psalm of David.
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: 'Hear my voice, O God, in my '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 55:2
-      marker-yv: yv-n
-    - type: text
-      text: complaint;
+        text: Ps. 55:2
+      metadata:
+        usfm: PSA.55.2
+    marker-yv: yv-n
+  - type: text
+    text: complaint;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: preserve my life from dread of the enemy.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: preserve my life from dread of the enemy.
-  '10':
+      text: '2'
+  - type: text
+    text: 'Hide me from '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: 'Let '
+        text: '['
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 32:11
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 22:19
-      marker-yv: yv-n
-    - type: text
-      text: 'the righteous one rejoice in the '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and '
+        text: Ps. 55:14
+      metadata:
+        usfm: PSA.55.14
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 11:1
-      marker-yv: yv-n
-    - type: text
-      text: take refuge in him!
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'Let all '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 7:10
-      marker-yv: yv-n
-    - type: text
-      text: the upright in heart exult!
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: 'Hide me from '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 55:14
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the secret plots of the wicked,
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the secret plots of the wicked,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: from the throng of evildoers,
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: from the throng of evildoers,
-  '3':
+      text: '3'
+  - type: text
+    text: 'who '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: 'who '
+        text: 'See '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 57:4
-      marker-yv: yv-n
-    - type: text
-      text: whet their tongues like swords,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'who '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 11:2
-      marker-yv: yv-n
-    - type: text
-      text: aim bitter words like arrows,
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '4'
-    - type: text
-      text: 'shooting from '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 10:8
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: ambush at the blameless,
+        text: Ps. 57:4
+      metadata:
+        usfm: PSA.57.4
+    marker-yv: yv-n
+  - type: text
+    text: whet their tongues like swords,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'who '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'shooting at him suddenly and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 55:19
-      marker-yv: yv-n
-    - type: text
-      text: without fear.
-  '5':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: 'They '
+        text: 'See '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 23:14
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezek. 13:22
-      marker-yv: yv-n
-    - type: text
-      text: hold fast to their evil purpose;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'they talk of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 140:5
-      marker-yv: yv-n
-    - type: text
-      text: laying snares secretly,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'thinking, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 22:13
-      marker-yv: yv-n
-    - type: text
-      text: “Who can see them?”
-  '6':
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '6'
-    - type: text
-      text: They search out injustice,
+        text: Ps. 11:2
+      metadata:
+        usfm: PSA.11.2
+    marker-yv: yv-n
+  - type: text
+    text: aim bitter words like arrows,
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: saying, “We have accomplished a diligent search.”
+      text: '4'
+  - type: text
+    text: 'shooting from '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'For '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 49:11
-      marker-yv: yv-n
-    - type: text
-      text: the inward mind and heart of a man are deep.
-  '7':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '7'
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 10:8
+      metadata:
+        usfm: PSA.10.8
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: ambush at the blameless,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'shooting at him suddenly and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 55:19
+      metadata:
+        usfm: PSA.55.19
+    marker-yv: yv-n
+  - type: text
+    text: without fear.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'They '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 23:14
+      metadata:
+        usfm: JER.23.14
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ezek. 13:22
+      metadata:
+        usfm: EZK.13.22
+    marker-yv: yv-n
+  - type: text
+    text: hold fast to their evil purpose;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'they talk of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 140:5
+      metadata:
+        usfm: PSA.140.5
+    marker-yv: yv-n
+  - type: text
+    text: laying snares secretly,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'thinking, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 22:13
+      metadata:
+        usfm: JOB.22.13
+    marker-yv: yv-n
+  - type: text
+    text: “Who can see them?”
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: They search out injustice,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: saying, “We have accomplished a diligent search.”
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'For '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 49:11
+      metadata:
+        usfm: PSA.49.11
+    marker-yv: yv-n
+  - type: text
+    text: the inward mind and heart of a man are deep.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 7:12
+      metadata:
+        usfm: PSA.7.12
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '13'
+      metadata:
+        usfm: PSA.7.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 7:12
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '13'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 58:7
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: Ps. 58:7
+      metadata:
+        usfm: PSA.58.7
     - type: text
-      text: But God shoots his arrow at them;
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: But God shoots his arrow at them;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: they are wounded suddenly.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: they are wounded suddenly.
-  '8':
+      text: '8'
+  - type: text
+    text: 'They are brought to ruin, with their own '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 12:13
+      metadata:
+        usfm: PRO.12.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 18:7
+      metadata:
+        usfm: PRO.18.7
+    marker-yv: yv-n
+  - type: text
+    text: tongues turned against them;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'all who '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 40:3
+      metadata:
+        usfm: PSA.40.3
+    marker-yv: yv-n
+  - type: text
+    text: 'see them will '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 18:16
+      metadata:
+        usfm: JER.18.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 48:27
+      metadata:
+        usfm: JER.48.27
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 22:7
+      metadata:
+        usfm: PSA.22.7
+    marker-yv: yv-n
+  - type: text
+    text: wag their heads.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'Then all mankind '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[See ver. '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '8'
+      metadata:
+        usfm: PSA.8
     - type: text
-      text: 'They are brought to ruin, with their own '
+      text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 12:13
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 18:7
-      marker-yv: yv-n
-    - type: text
-      text: tongues turned against them;
+        text: above]
+    marker-yv: yv-n
+  - type: text
+    text: fears;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'they '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'all who '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 40:3
-      marker-yv: yv-n
-    - type: text
-      text: 'see them will '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 18:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 48:27
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 22:7
-      marker-yv: yv-n
-    - type: text
-      text: wag their heads.
-  '9':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '9'
+        text: Jer. 50:28
+      metadata:
+        usfm: JER.50.28
     - type: text
-      text: 'Then all mankind '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '8'
       - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: above]
-      marker-yv: yv-n
-    - type: text
-      text: fears;
+        text: 51:10
+      metadata:
+        usfm: JER.51.10
+    marker-yv: yv-n
+  - type: text
+    text: tell what God has brought about
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and ponder what he has done.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'they '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 50:28
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 51:10
-      marker-yv: yv-n
-    - type: text
-      text: tell what God has brought about
+      text: '10'
+  - type: text
+    text: 'Let '
   - type: usfm
-    marker: q2
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 32:11
+      metadata:
+        usfm: PSA.32.11
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 22:19
+      metadata:
+        usfm: JOB.22.19
+    marker-yv: yv-n
+  - type: text
+    text: 'the righteous one rejoice in the '
+  - type: usfm
+    marker: nd
     children:
     - type: text
-      text: and ponder what he has done.
+      text: Lord
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 11:1
+      metadata:
+        usfm: PSA.11.1
+    marker-yv: yv-n
+  - type: text
+    text: take refuge in him!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Let all '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 7:10
+      metadata:
+        usfm: PSA.7.10
+    marker-yv: yv-n
+  - type: text
+    text: the upright in heart exult!

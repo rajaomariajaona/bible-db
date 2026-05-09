@@ -1,464 +1,498 @@
-document_id: PSA.12,59
+document_id: PSA.12
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: The Faithful Have Vanished
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: 'To the choirmaster: according to The Sheminith.'
   - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: The Faithful Have Vanished
-    marker-yv: yv-h
-  - type: usfm
-    marker: d
-    children:
-    - type: text
-      text: 'To the choirmaster: according to The Sheminith.'
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '12:1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: Probably a musical or liturgical term
-      marker-yv: yv-n
-    - type: text
-      text: ' A Psalm of David.'
-  - type: usfm
-    marker: q1
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: 'Save, O '
+        text: '12:1 '
     - type: usfm
-      marker: nd
+      marker: ft
       children:
       - type: text
-        text: Lord
+        text: Probably a musical or liturgical term
+    marker-yv: yv-n
+  - type: text
+    text: ' A Psalm of David.'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
     - type: text
-      text: ', for '
+      text: '1'
+  - type: text
+    text: 'Save, O '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ', for '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 57:1
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mic. 7:2
-      marker-yv: yv-n
+        text: Isa. 57:1
+      metadata:
+        usfm: ISA.57.1
     - type: text
-      text: the godly one is gone;
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mic. 7:2
+      metadata:
+        usfm: MIC.7.2
+    marker-yv: yv-n
+  - type: text
+    text: the godly one is gone;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: for the faithful have vanished from among the children of man.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: for the faithful have vanished from among the children of man.
-  '2':
+      text: '2'
+  - type: text
+    text: 'Everyone '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 41:6
+      metadata:
+        usfm: PSA.41.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 144:8
+      metadata:
+        usfm: PSA.144.8
+    marker-yv: yv-n
+  - type: text
+    text: utters lies to his neighbor;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'with '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 5:9
+      metadata:
+        usfm: PSA.5.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 9:8
+      metadata:
+        usfm: JER.9.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 16:18
+      metadata:
+        usfm: ROM.16.18
+    marker-yv: yv-n
+  - type: text
+    text: 'flattering lips and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Chr. 12:33
+      metadata:
+        usfm: 1CH.12.33
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: James 1:8
+      metadata:
+        usfm: JAS.1.8
+    marker-yv: yv-n
+  - type: text
+    text: a double heart they speak.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'May the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' cut off all '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[See ver. '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '2'
-    - type: text
-      text: 'Everyone '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 41:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 144:8
-      marker-yv: yv-n
-    - type: text
-      text: utters lies to his neighbor;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'with '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 5:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 9:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 16:18
-      marker-yv: yv-n
-    - type: text
-      text: 'flattering lips and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Chr. 12:33
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: James 1:8
-      marker-yv: yv-n
-    - type: text
-      text: a double heart they speak.
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'May the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' cut off all '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '2'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: above]
-      marker-yv: yv-n
-    - type: text
-      text: flattering lips,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'the tongue that makes '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Dan. 7:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 13:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 17:10
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: great boasts,
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: those who say, “With our tongue we will prevail,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: our lips are with us; who is master over us?”
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: '“Because '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 9:12
-      marker-yv: yv-n
-    - type: text
-      text: the poor are plundered, because the needy groan,
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 33:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 82:8
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'I will now arise,” says the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: '“I will place him in the '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 55:18
-      marker-yv: yv-n
-    - type: text
-      text: safety for which he longs.”
-  '6':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
+      metadata:
+        usfm: PSA.2
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 18:30
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 119:140
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 30:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 19:8
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'The words of the '
-    - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' are pure words,'
+        text: above]
+    marker-yv: yv-n
+  - type: text
+    text: flattering lips,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'the tongue that makes '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: like silver refined in a furnace on the ground,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: purified seven times.
-  '7':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '7'
+        text: Dan. 7:8
+      metadata:
+        usfm: DAN.7.8
     - type: text
-      text: 'You, O '
+      text: '; '
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: Rev. 13:5
+      metadata:
+        usfm: REV.13.5
     - type: text
-      text: ', will keep them;'
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: you will guard us
+      text: '; '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '12:7 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: guard him
-      marker-yv: yv-n
-    - type: text
-      text: ' from this generation forever.'
-  '8':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '8'
-    - type: text
-      text: On every side the wicked prowl,
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 17:10
+      metadata:
+        usfm: PSA.17.10
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: great boasts,
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: as vileness is exalted among the children of man.
+      text: '4'
+  - type: text
+    text: those who say, “With our tongue we will prevail,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: our lips are with us; who is master over us?”
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: '“Because '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 9:12
+      metadata:
+        usfm: PSA.9.12
+    marker-yv: yv-n
+  - type: text
+    text: the poor are plundered, because the needy groan,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 33:10
+      metadata:
+        usfm: ISA.33.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 82:8
+      metadata:
+        usfm: PSA.82.8
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'I will now arise,” says the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: '“I will place him in the '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 55:18
+      metadata:
+        usfm: PSA.55.18
+    marker-yv: yv-n
+  - type: text
+    text: safety for which he longs.”
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 18:30
+      metadata:
+        usfm: PSA.18.30
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 119:140
+      metadata:
+        usfm: PSA.119.140
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 30:5
+      metadata:
+        usfm: PRO.30.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 19:8
+      metadata:
+        usfm: PSA.19.8
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'The words of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' are pure words,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: like silver refined in a furnace on the ground,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: purified seven times.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'You, O '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ', will keep them;'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: you will guard us
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '12:7 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: guard him
+    marker-yv: yv-n
+  - type: text
+    text: ' from this generation forever.'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: On every side the wicked prowl,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: as vileness is exalted among the children of man.

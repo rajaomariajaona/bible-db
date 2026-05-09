@@ -1,110 +1,107 @@
-document_id: PSA.134,1
+document_id: PSA.134
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: A Song of degrees.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: d
+    marker: vlbl
     children:
     - type: text
-      text: A Song of degrees.
+      text: '1'
+  - type: text
+    text: 'Behold, bless ye the '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: 'Behold, bless ye the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: LORD
-    - type: text
-      text: ','
-  - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: 'All '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: ye
-    - type: text
-      text: ' servants of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: LORD
-    - type: text
-      text: ','
+      text: LORD
+  - type: text
+    text: ','
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'All '
   - type: usfm
-    marker: q1
+    marker: add
     children:
     - type: text
-      text: 'Which by night stand in the house of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: LORD
-    - type: text
-      text: .
-  '2':
+      text: ye
+  - type: text
+    text: ' servants of the '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'Lift up your hands '
-    - type: usfm
-      marker: add
-      children:
-      - type: text
-        text: in
-    - type: text
-      text: ' the sanctuary,'
-  - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: 'And bless the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: LORD
-    - type: text
-      text: .
-  '3':
+      text: LORD
+  - type: text
+    text: ','
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Which by night stand in the house of the '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'The '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: LORD
-    - type: text
-      text: ' that made heaven and earth'
-  - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: Bless thee out of Zion.
+      text: LORD
+  - type: text
+    text: .
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'Lift up your hands '
+  - type: usfm
+    marker: add
+    children:
+    - type: text
+      text: in
+  - type: text
+    text: ' the sanctuary,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'And bless the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: LORD
+  - type: text
+    text: .
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'The '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: LORD
+  - type: text
+    text: ' that made heaven and earth'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: Bless thee out of Zion.

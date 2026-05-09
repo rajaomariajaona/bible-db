@@ -1,533 +1,490 @@
-document_id: JOB.1,21
+document_id: JOB.1
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: ms1
+  children:
+  - type: text
+    text: Prologue
+  marker-yv: yv-h
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Job, un homme intègre et droit
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: ms1
+    marker: vlbl
     children:
     - type: text
-      text: Prologue
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: Il y avait, au pays d’Outs
   - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Job, un homme intègre et droit
-    marker-yv: yv-h
-  - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: Il y avait, au pays d’Outs
+        text: '1.1 '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1.1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Nom d’une région située à l’est du Jourdain (v. 3), dont l’identification est incertaine. Elle pouvait se situer en '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'Edom, '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'au sud-est de la mer Morte (Gn 36.28 ; Lm 4.21), ou au pays des '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'Araméens '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'vers le nord (voir Gn 10.23 ; 22.21). Job n’était donc pas un Israélite (voir '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ez 14.14-20
-        - type: text
-          text: ).
-      marker-yv: yv-n
-    - type: text
-      text: ', un homme appelé Job. C’était un homme intègre et droit, un homme qui craignait Dieu et qui évitait de faire le mal. '
-  '10':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: 'N’as-tu pas élevé comme un rempart de protection autour de lui, autour de sa maison, et autour de tous ses biens ? Tu as fait réussir ses entreprises : ses troupeaux se sont multipliés dans le pays ! '
-  '11':
-  - type: usfm
-    marker: p
-    children:
+        text: 'Nom d’une région située à l’est du Jourdain (v. 3), dont l’identification est incertaine. Elle pouvait se situer en '
     - type: usfm
-      marker: vlbl
+      marker: fqa
       children:
       - type: text
-        text: '11'
-    - type: text
-      text: Mais porte donc la main sur tous ses biens et sur les siens, et l’on verra s’il ne te maudit pas en face.
-  '12':
-  - type: usfm
-    marker: p
-    children:
+        text: 'Edom, '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '12'
-    - type: text
-      text: 'Alors l’Eternel dit à l’Accusateur : Tous ses biens sont en ton pouvoir, ainsi que les siens, mais ne porte pas la main sur sa personne !'
-  - type: usfm
-    marker: p
-    children:
-    - type: text
-      text: Alors l’Accusateur se retira de la présence de l’Eternel.
-  '13':
-  - type: usfm
-    marker: p
-    children:
+        text: 'au sud-est de la mer Morte (Gn 36.28 ; Lm 4.21), ou au pays des '
     - type: usfm
-      marker: vlbl
+      marker: fqa
       children:
       - type: text
-        text: '13'
-    - type: text
-      text: 'Or, un jour, les fils et les filles de Job s’étaient mis à manger et à boire du vin ensemble chez leur frère aîné. '
-  '14':
-  - type: usfm
-    marker: p
-    children:
+        text: 'Araméens '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '14'
-    - type: text
-      text: 'C’est alors qu’un messager vint trouver Job et lui annonça : Les bœufs étaient en train de labourer, et les ânesses paissaient à leurs côtés, '
-  '15':
+        text: 'vers le nord (voir Gn 10.23 ; 22.21). Job n’était donc pas un Israélite (voir '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ez 14.14-20
+        metadata:
+          usfm: EZK.14.14+EZK.14.15+EZK.14.16+EZK.14.17+EZK.14.18+EZK.14.19+EZK.14.20
+      - type: text
+        text: ).
+    marker-yv: yv-n
+  - type: text
+    text: ', un homme appelé Job. C’était un homme intègre et droit, un homme qui craignait Dieu et qui évitait de faire le mal. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'Il avait sept fils et trois filles. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'De plus, ses troupeaux comptaient : sept mille moutons et chèvres, trois mille chameaux, cinq cents paires de bœufs, et cinq cents ânesses. Il possédait aussi des serviteurs en très grand nombre. Cet homme était le personnage le plus important des régions de l’est du Jourdain. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'Or, chacun de ses fils recevait à tour de rôle ses frères pour un festin. Ils invitaient leurs trois sœurs à manger et à boire avec eux. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: Quand ces jours de festin étaient achevés, Job faisait venir ses enfants, afin d’accomplir pour eux les rites de purification. Il se levait de grand matin et offrait un holocauste
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '15'
-    - type: text
-      text: quand les Sabéens
+        text: '1.5 '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1.15 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Peuple nomade habitant le sud de l’Arabie (de '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'Saba : '
-      - type: usfm
-        marker: ft
-        children:
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: 1 R 10.1-13
-        - type: text
-          text: '  ; voir Ps 72.10, 15 ; Es 60.6 ; Jr 6.20 ; Ez 27.22 ; Jl 4.8). Ils étaient marchands selon '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: '6.19'
-        - type: text
-          text: ', passage où Job les associe à Téma (à quelque 500 kilomètres au sud-est de Jérusalem).'
-      marker-yv: yv-n
-    - type: text
-      text: ' se sont jetés sur eux, et s’en sont emparés. Ils ont massacré tes serviteurs. Je suis le seul qui ait pu leur échapper et je viens t’annoncer la nouvelle.'
-  '16':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '16'
-    - type: text
-      text: 'Il n’avait pas fini de parler qu’un autre messager arriva et annonça : La foudre est tombée du ciel, et elle a foudroyé tes moutons et tes chèvres et tes serviteurs. Elle a tout consumé. Je suis le seul qui ait pu y échapper et je viens t’annoncer la nouvelle.'
-  '17':
+        text: Sacrifice dont la victime était presque entièrement consumée sur l’autel ; forme habituelle du sacrifice au temps des patriarches. Avant les lois cérémonielles de Moïse, le père de famille agissait comme prêtre du clan familial (
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Gn 15.9-10
+        metadata:
+          usfm: GEN.15.9+GEN.15.10
+      - type: text
+        text: ).
+    marker-yv: yv-n
+  - type: text
+    text: ' pour chacun d’eux. Car il se disait : Peut-être mes fils ont-ils commis quelque faute et dit du mal de Dieu dans leur cœur.'
+- type: usfm
+  marker: p
+  children:
+  - type: text
+    text: Job agissait toujours ainsi.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Job perd tout
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: Or, un jour, les anges de Dieu
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '17'
-    - type: text
-      text: 'Il parlait encore, lorsqu’un autre messager arriva et annonça : Trois bandes de Chaldéens'
+        text: '1.6 '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1.17 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Nomades du désert venant de Mésopotamie. Ils sont devenus sédentaires au '
-        - type: usfm
-          marker: sc
-          children:
-          - type: text
-            text: x
-        - type: usfm
-          marker: ord
-          children:
-          - type: text
-            text: e
-        - type: text
-          text: ' siècle av. J.-C. et ont constitué le noyau de l’Empire babylonien de Nabuchodonosor.'
-      marker-yv: yv-n
-    - type: text
-      text: ' se sont jetées sur les chameaux, et s’en sont emparés. Ils ont massacré tes serviteurs. Je suis le seul qui ait pu leur échapper et je viens t’annoncer la nouvelle.'
-  '18':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '18'
-    - type: text
-      text: 'Il parlait encore, lorsqu’un autre messager arriva et annonça : Tes fils et tes filles étaient en train de manger et de boire du vin ensemble chez leur frère aîné, '
-  '19':
-  - type: usfm
-    marker: p
-    children:
+        text: 'Appelés ici '
     - type: usfm
-      marker: vlbl
+      marker: fqa
       children:
       - type: text
-        text: '19'
-    - type: text
-      text: lorsqu’un vent très violent s’est levé du côté du désert. Il s’est rué contre les quatre coins de la maison qui s’est effondrée sur tes enfants. Ils sont tous morts. Je suis le seul qui ait pu m’échapper et je viens t’annoncer la nouvelle.
-  '2':
-  - type: usfm
-    marker: p
-    children:
+        text: 'fils de Dieu '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: 'Il avait sept fils et trois filles. '
-  '20':
+        text: '(voir notes 2.1 ; 38.7 et '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 29.1
+        metadata:
+          usfm: PSA.29.1
+      - type: text
+        text: ).
+    marker-yv: yv-n
+  - type: text
+    text: ' se rendirent au conseil de l’Eternel. L’Accusateur (Satan)'
   - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '20'
-    - type: text
-      text: Alors Job se leva, il déchira son manteau, se rasa la tête
+        text: '1.6 '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1.20 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'En signe de deuil (voir '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Gn 37.34
-        - type: text
-          text: ).
-      marker-yv: yv-n
-    - type: text
-      text: ', puis se jeta par terre pour se prosterner. '
-  '21':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '21'
-    - type: text
-      text: 'Et il dit : Je suis sorti nu du ventre de ma mère, et j’y retournerai nu. L’Eternel a donné, l’Eternel a repris : que l’Eternel soit béni !'
-  '22':
-  - type: usfm
-    marker: p
-    children:
+        text: 'Le terme hébreu '
     - type: usfm
-      marker: vlbl
+      marker: fqa
       children:
       - type: text
-        text: '22'
-    - type: text
-      text: Au milieu de tous ces malheurs, Job ne commit pas de péché et n’attribua rien d’inconvenant à Dieu
+        text: 'satan '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1.22 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Autre traduction : '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: et n’adressa pas à Dieu des paroles inconvenantes.
-      marker-yv: yv-n
-    - type: text
-      text: .
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: 'De plus, ses troupeaux comptaient : sept mille moutons et chèvres, trois mille chameaux, cinq cents paires de bœufs, et cinq cents ânesses. Il possédait aussi des serviteurs en très grand nombre. Cet homme était le personnage le plus important des régions de l’est du Jourdain. '
-  '4':
-  - type: usfm
-    marker: p
-    children:
+        text: 'est ici un nom commun car il est précédé de l’article défini. Il signifie habituellement '
     - type: usfm
-      marker: vlbl
+      marker: fqa
       children:
       - type: text
-        text: '4'
-    - type: text
-      text: 'Or, chacun de ses fils recevait à tour de rôle ses frères pour un festin. Ils invitaient leurs trois sœurs à manger et à boire avec eux. '
-  '5':
-  - type: usfm
-    marker: p
-    children:
+        text: 'adversaire '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: Quand ces jours de festin étaient achevés, Job faisait venir ses enfants, afin d’accomplir pour eux les rites de purification. Il se levait de grand matin et offrait un holocauste
+        text: 'ou '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1.5 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: Sacrifice dont la victime était presque entièrement consumée sur l’autel ; forme habituelle du sacrifice au temps des patriarches. Avant les lois cérémonielles de Moïse, le père de famille agissait comme prêtre du clan familial (
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Gn 15.9-10
-        - type: text
-          text: ).
-      marker-yv: yv-n
-    - type: text
-      text: ' pour chacun d’eux. Car il se disait : Peut-être mes fils ont-ils commis quelque faute et dit du mal de Dieu dans leur cœur.'
-  - type: usfm
-    marker: p
-    children:
-    - type: text
-      text: Job agissait toujours ainsi.
-  - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Job perd tout
-    marker-yv: yv-h
-  '6':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: fqa
       children:
       - type: text
-        text: '6'
-    - type: text
-      text: Or, un jour, les anges de Dieu
+        text: 'accusateur. '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1.6 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Appelés ici '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'fils de Dieu '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: '(voir notes 2.1 ; 38.7 et '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ps 29.1
-        - type: text
-          text: ).
-      marker-yv: yv-n
-    - type: text
-      text: ' se rendirent au conseil de l’Eternel. L’Accusateur (Satan)'
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1.6 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Le terme hébreu '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'satan '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'est ici un nom commun car il est précédé de l’article défini. Il signifie habituellement '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'adversaire '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'ou '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'accusateur. '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: Il s’utilise en particulier pour le personnage qui se tient à la droite du juge lors d’un procès avec pour rôle d’accuser celui qui comparaît devant eux. Voir 1 Ch 1.21 ; Za 3.1-2 ; Ap 12.10.
-      marker-yv: yv-n
-    - type: text
-      text: ' vint aussi parmi eux. '
-  '7':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '7'
-    - type: text
-      text: 'L’Eternel dit à l’Accusateur : D’où viens-tu donc ?'
+        text: Il s’utilise en particulier pour le personnage qui se tient à la droite du juge lors d’un procès avec pour rôle d’accuser celui qui comparaît devant eux. Voir 1 Ch 1.21 ; Za 3.1-2 ; Ap 12.10.
+    marker-yv: yv-n
+  - type: text
+    text: ' vint aussi parmi eux. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
     - type: text
-      text: 'Celui-ci lui répondit : Je viens de parcourir la terre et de la sillonner.'
-  '8':
+      text: '7'
+  - type: text
+    text: 'L’Eternel dit à l’Accusateur : D’où viens-tu donc ?'
+- type: usfm
+  marker: p
+  children:
+  - type: text
+    text: 'Celui-ci lui répondit : Je viens de parcourir la terre et de la sillonner.'
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'Alors l’Eternel demanda à l’Accusateur : As-tu remarqué mon serviteur Job ? Il n’y a personne comme lui sur la terre : c’est un homme intègre et droit, un homme qui craint Dieu et qui évite de mal faire.'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'L’Accusateur lui répondit : Est-ce vraiment pour rien que Job craint Dieu ? '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'N’as-tu pas élevé comme un rempart de protection autour de lui, autour de sa maison, et autour de tous ses biens ? Tu as fait réussir ses entreprises : ses troupeaux se sont multipliés dans le pays ! '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: Mais porte donc la main sur tous ses biens et sur les siens, et l’on verra s’il ne te maudit pas en face.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'Alors l’Eternel dit à l’Accusateur : Tous ses biens sont en ton pouvoir, ainsi que les siens, mais ne porte pas la main sur sa personne !'
+- type: usfm
+  marker: p
+  children:
+  - type: text
+    text: Alors l’Accusateur se retira de la présence de l’Eternel.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'Or, un jour, les fils et les filles de Job s’étaient mis à manger et à boire du vin ensemble chez leur frère aîné. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: 'C’est alors qu’un messager vint trouver Job et lui annonça : Les bœufs étaient en train de labourer, et les ânesses paissaient à leurs côtés, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: quand les Sabéens
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '8'
-    - type: text
-      text: 'Alors l’Eternel demanda à l’Accusateur : As-tu remarqué mon serviteur Job ? Il n’y a personne comme lui sur la terre : c’est un homme intègre et droit, un homme qui craint Dieu et qui évite de mal faire.'
-  '9':
+        text: '1.15 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Peuple nomade habitant le sud de l’Arabie (de '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: 'Saba : '
+    - type: usfm
+      marker: ft
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 R 10.1-13
+        metadata:
+          usfm: 1KI.10.1+1KI.10.2+1KI.10.3+1KI.10.4+1KI.10.5+1KI.10.6+1KI.10.7+1KI.10.8+1KI.10.9+1KI.10.10+1KI.10.11+1KI.10.12+1KI.10.13
+      - type: text
+        text: '  ; voir Ps 72.10, 15 ; Es 60.6 ; Jr 6.20 ; Ez 27.22 ; Jl 4.8). Ils étaient marchands selon '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '6.19'
+        metadata:
+          usfm: JOB.6.19
+      - type: text
+        text: ', passage où Job les associe à Téma (à quelque 500 kilomètres au sud-est de Jérusalem).'
+    marker-yv: yv-n
+  - type: text
+    text: ' se sont jetés sur eux, et s’en sont emparés. Ils ont massacré tes serviteurs. Je suis le seul qui ait pu leur échapper et je viens t’annoncer la nouvelle.'
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'Il n’avait pas fini de parler qu’un autre messager arriva et annonça : La foudre est tombée du ciel, et elle a foudroyé tes moutons et tes chèvres et tes serviteurs. Elle a tout consumé. Je suis le seul qui ait pu y échapper et je viens t’annoncer la nouvelle.'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'Il parlait encore, lorsqu’un autre messager arriva et annonça : Trois bandes de Chaldéens'
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '9'
+        text: '1.17 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Nomades du désert venant de Mésopotamie. Ils sont devenus sédentaires au '
+      - type: usfm
+        marker: sc
+        children:
+        - type: text
+          text: x
+      - type: usfm
+        marker: ord
+        children:
+        - type: text
+          text: e
+      - type: text
+        text: ' siècle av. J.-C. et ont constitué le noyau de l’Empire babylonien de Nabuchodonosor.'
+    marker-yv: yv-n
+  - type: text
+    text: ' se sont jetées sur les chameaux, et s’en sont emparés. Ils ont massacré tes serviteurs. Je suis le seul qui ait pu leur échapper et je viens t’annoncer la nouvelle.'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
     - type: text
-      text: 'L’Accusateur lui répondit : Est-ce vraiment pour rien que Job craint Dieu ? '
+      text: '18'
+  - type: text
+    text: 'Il parlait encore, lorsqu’un autre messager arriva et annonça : Tes fils et tes filles étaient en train de manger et de boire du vin ensemble chez leur frère aîné, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: lorsqu’un vent très violent s’est levé du côté du désert. Il s’est rué contre les quatre coins de la maison qui s’est effondrée sur tes enfants. Ils sont tous morts. Je suis le seul qui ait pu m’échapper et je viens t’annoncer la nouvelle.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: text
+    text: Alors Job se leva, il déchira son manteau, se rasa la tête
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1.20 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'En signe de deuil (voir '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Gn 37.34
+        metadata:
+          usfm: GEN.37.34
+      - type: text
+        text: ).
+    marker-yv: yv-n
+  - type: text
+    text: ', puis se jeta par terre pour se prosterner. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: text
+    text: 'Et il dit : Je suis sorti nu du ventre de ma mère, et j’y retournerai nu. L’Eternel a donné, l’Eternel a repris : que l’Eternel soit béni !'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: Au milieu de tous ces malheurs, Job ne commit pas de péché et n’attribua rien d’inconvenant à Dieu
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1.22 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Autre traduction : '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: et n’adressa pas à Dieu des paroles inconvenantes.
+    marker-yv: yv-n
+  - type: text
+    text: .

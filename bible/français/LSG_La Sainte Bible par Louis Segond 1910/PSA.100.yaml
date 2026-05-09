@@ -1,131 +1,132 @@
-document_id: PSA.100,93
+document_id: PSA.100
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: Ps 95:1-7; 117.
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: Ps 95:1-7; 117.
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: Psaume de louange.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Poussez vers l’Éternel des cris de joie,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Vous tous, habitants de la terre!
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: Psaume de louange.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Poussez vers l’Éternel des cris de joie,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Vous tous, habitants de la terre!
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: Servez l’Éternel, avec joie,
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Venez avec allégresse en sa présence!
-  '3':
+      text: '2'
+  - type: text
+    text: Servez l’Éternel, avec joie,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Venez avec allégresse en sa présence!
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: Sachez que l’Éternel est Dieu!
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: C’est lui qui nous a faits, et nous lui appartenons;
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: 'Nous sommes son peuple, et '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps 95:7
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Éz 34:30
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '31'
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: le troupeau de son pâturage.
-  '4':
+      text: '3'
+  - type: text
+    text: Sachez que l’Éternel est Dieu!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: C’est lui qui nous a faits, et nous lui appartenons;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Nous sommes son peuple, et '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '4'
+        text: Ps 95:7
+      metadata:
+        usfm: PSA.95.7
     - type: text
-      text: Entrez dans ses portes avec des louanges,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Dans ses parvis avec des cantiques!
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Célébrez-le, bénissez son nom!
-  '5':
-  - type: usfm
-    marker: q1
-    children:
+      text: '. '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
+        text: Éz 34:30
+      metadata:
+        usfm: EZK.34.30
     - type: text
-      text: Car l’Éternel est bon; sa bonté dure toujours,
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '31'
+      metadata:
+        usfm: EZK.34.31
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: le troupeau de son pâturage.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Et sa fidélité de génération en génération.
+      text: '4'
+  - type: text
+    text: Entrez dans ses portes avec des louanges,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Dans ses parvis avec des cantiques!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Célébrez-le, bénissez son nom!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: Car l’Éternel est bon; sa bonté dure toujours,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et sa fidélité de génération en génération.

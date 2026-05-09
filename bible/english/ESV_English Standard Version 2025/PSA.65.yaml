@@ -1,830 +1,903 @@
-document_id: PSA.65,59
+document_id: PSA.65
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: O God of Our Salvation
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: To the choirmaster. A Psalm of David. A Song.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: O God of Our Salvation
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Praise '
   - type: usfm
-    marker: d
-    children:
-    - type: text
-      text: To the choirmaster. A Psalm of David. A Song.
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: 'Praise '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 62:1
-      marker-yv: yv-n
-    - type: text
-      text: is due to you,
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '65:1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: Praise waits for you in silence
-      marker-yv: yv-n
-    - type: text
-      text: ' O God, in Zion,'
+        text: Ps. 62:1
+      metadata:
+        usfm: PSA.62.1
+    marker-yv: yv-n
+  - type: text
+    text: is due to you,
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and to you shall '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 50:14
-      marker-yv: yv-n
-    - type: text
-      text: vows be performed.
-  '10':
-  - type: usfm
-    marker: q1
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: You water its furrows abundantly,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: settling its ridges,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'softening it with '
+        text: '65:1 '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 32:2
-      marker-yv: yv-n
-    - type: text
-      text: showers,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and blessing its growth.
-  '11':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '11'
-    - type: text
-      text: You crown the year with your bounty;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'your wagon tracks '
+        text: 'Or '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 36:28
-      marker-yv: yv-n
-    - type: text
-      text: overflow with abundance.
-  '12':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: fqa
       children:
       - type: text
-        text: '12'
+        text: Praise waits for you in silence
+    marker-yv: yv-n
+  - type: text
+    text: ' O God, in Zion,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and to you shall '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 50:14
+      metadata:
+        usfm: PSA.50.14
+    marker-yv: yv-n
+  - type: text
+    text: vows be performed.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'O you who '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Kgs. 19:20
+      metadata:
+        usfm: 2KI.19.20
+    marker-yv: yv-n
+  - type: text
+    text: hear prayer,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'to you '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 86:9
+      metadata:
+        usfm: PSA.86.9
+    marker-yv: yv-n
+  - type: text
+    text: shall all flesh come.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'When '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 38:4
+      metadata:
+        usfm: PSA.38.4
+    marker-yv: yv-n
+  - type: text
+    text: iniquities prevail against me,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'you '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 79:9
+      metadata:
+        usfm: PSA.79.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 6:7
+      metadata:
+        usfm: ISA.6.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 51:2
+      metadata:
+        usfm: PSA.51.2
+    marker-yv: yv-n
+  - type: text
+    text: atone for our transgressions.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Joel 2:22
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 38:26
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '27'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: The pastures of the wilderness overflow,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'the hills '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 55:12
-      marker-yv: yv-n
-    - type: text
-      text: gird themselves with joy,
-  '13':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '13'
+        text: Ps. 33:12
+      metadata:
+        usfm: PSA.33.12
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 30:23
-      marker-yv: yv-n
-    - type: text
-      text: the meadows clothe themselves with flocks,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: the valleys deck themselves with grain,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'they '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 98:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 44:23
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: shout and sing together for joy.
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: 'O you who '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Kgs. 19:20
-      marker-yv: yv-n
-    - type: text
-      text: hear prayer,
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Blessed is the one you choose and bring near,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'to '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'to you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 86:9
-      marker-yv: yv-n
-    - type: text
-      text: shall all flesh come.
-  '3':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '3'
+        text: Ps. 84:4
+      metadata:
+        usfm: PSA.84.4
     - type: text
-      text: 'When '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 38:4
-      marker-yv: yv-n
-    - type: text
-      text: iniquities prevail against me,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'you '
+      - type: text
+        text: 'See '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 79:9
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 6:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 51:2
-      marker-yv: yv-n
-    - type: text
-      text: atone for our transgressions.
-  '4':
+        text: Ps. 27:4
+      metadata:
+        usfm: PSA.27.4
+    marker-yv: yv-n
+  - type: text
+    text: dwell in your courts!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'We shall be '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 16:11
+      metadata:
+        usfm: PSA.16.11
+    marker-yv: yv-n
+  - type: text
+    text: satisfied with the goodness of your house,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: the holiness of your temple!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'By '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 45:4
+      metadata:
+        usfm: PSA.45.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 106:22
+      metadata:
+        usfm: PSA.106.22
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 10:21
+      metadata:
+        usfm: DEU.10.21
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Sam. 7:23
+      metadata:
+        usfm: 2SA.7.23
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rev. 15:3
+      metadata:
+        usfm: REV.15.3
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: awesome deeds you answer us with righteousness,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: O God of our salvation,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'the hope of all '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 22:27
+      metadata:
+        usfm: PSA.22.27
+    marker-yv: yv-n
+  - type: text
+    text: the ends of the earth
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and of the farthest seas;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: the one who by his strength established the mountains,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'being '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 93:1
+      metadata:
+        usfm: PSA.93.1
+    marker-yv: yv-n
+  - type: text
+    text: girded with might;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'who '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 89:9
+      metadata:
+        usfm: PSA.89.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 93:3
+      metadata:
+        usfm: PSA.93.3
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '4'
+      metadata:
+        usfm: PSA.93.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 107:29
+      metadata:
+        usfm: PSA.107.29
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 8:26
+      metadata:
+        usfm: MAT.8.26
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 5:22
+      metadata:
+        usfm: JER.5.22
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: stills the roaring of the seas,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: the roaring of their waves,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 74:23
+      metadata:
+        usfm: PSA.74.23
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 17:12
+      metadata:
+        usfm: ISA.17.12
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '13'
+      metadata:
+        usfm: ISA.17.13
+    marker-yv: yv-n
+  - type: text
+    text: the tumult of the peoples,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: so that those who dwell at the ends of the earth are in awe at your signs.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: You make the going out of the morning and the evening to shout for joy.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'You visit the earth and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 68:9
+      metadata:
+        usfm: PSA.68.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 72:6
+      metadata:
+        usfm: PSA.72.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lev. 26:4
+      metadata:
+        usfm: LEV.26.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 5:10
+      metadata:
+        usfm: JOB.5.10
+    marker-yv: yv-n
+  - type: text
+    text: water it;
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '65:9 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: and make it overflow
+    marker-yv: yv-n
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: you greatly enrich it;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
       - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 33:12
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: Ps. 46:4
+      metadata:
+        usfm: PSA.46.4
     - type: text
-      text: Blessed is the one you choose and bring near,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'to '
+      text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 84:4
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 27:4
-      marker-yv: yv-n
-    - type: text
-      text: dwell in your courts!
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the river of God is full of water;
+- type: usfm
+  marker: q2
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'We shall be '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 16:11
-      marker-yv: yv-n
-    - type: text
-      text: satisfied with the goodness of your house,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: the holiness of your temple!
-  '5':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '5'
+        text: '['
     - type: text
-      text: 'By '
+      text: ' '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 45:4
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 106:22
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 10:21
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Sam. 7:23
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 15:3
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: Ps. 147:14
+      metadata:
+        usfm: PSA.147.14
     - type: text
-      text: awesome deeds you answer us with righteousness,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: O God of our salvation,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'the hope of all '
+      text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 22:27
-      marker-yv: yv-n
-    - type: text
-      text: the ends of the earth
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: you provide their grain,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: for so you have prepared it.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: and of the farthest seas;
-  '6':
+      text: '10'
+  - type: text
+    text: You water its furrows abundantly,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: settling its ridges,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'softening it with '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '6'
-    - type: text
-      text: the one who by his strength established the mountains,
+        text: Deut. 32:2
+      metadata:
+        usfm: DEU.32.2
+    marker-yv: yv-n
+  - type: text
+    text: showers,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and blessing its growth.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'being '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 93:1
-      marker-yv: yv-n
-    - type: text
-      text: girded with might;
-  '7':
+      text: '11'
+  - type: text
+    text: You crown the year with your bounty;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'your wagon tracks '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: 'who '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 89:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 93:3
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '4'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 107:29
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 8:26
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 5:22
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: stills the roaring of the seas,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: the roaring of their waves,
-  - type: usfm
-    marker: q2
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 74:23
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 17:12
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '13'
-      marker-yv: yv-n
-    - type: text
-      text: the tumult of the peoples,
-  '8':
+        text: Job 36:28
+      metadata:
+        usfm: JOB.36.28
+    marker-yv: yv-n
+  - type: text
+    text: overflow with abundance.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '8'
+        text: Joel 2:22
+      metadata:
+        usfm: JOL.2.22
     - type: text
-      text: so that those who dwell at the ends of the earth are in awe at your signs.
-  - type: usfm
-    marker: q1
-    children:
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
-      text: You make the going out of the morning and the evening to shout for joy.
-  '9':
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 38:26
+      metadata:
+        usfm: JOB.38.26
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '27'
+      metadata:
+        usfm: JOB.38.27
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: The pastures of the wilderness overflow,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'the hills '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '9'
-    - type: text
-      text: 'You visit the earth and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 68:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 72:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 26:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 5:10
-      marker-yv: yv-n
-    - type: text
-      text: water it;
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '65:9 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: and make it overflow
-      marker-yv: yv-n
+        text: Isa. 55:12
+      metadata:
+        usfm: ISA.55.12
+    marker-yv: yv-n
+  - type: text
+    text: gird themselves with joy,
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: you greatly enrich it;
+      text: '13'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
       - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 46:4
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the river of God is full of water;
+        text: Isa. 30:23
+      metadata:
+        usfm: ISA.30.23
+    marker-yv: yv-n
+  - type: text
+    text: the meadows clothe themselves with flocks,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: the valleys deck themselves with grain,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'they '
   - type: usfm
-    marker: q2
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
       - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 147:14
+        text: Ps. 98:8
+      metadata:
+        usfm: PSA.98.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
       - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: you provide their grain,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: for so you have prepared it.
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 44:23
+      metadata:
+        usfm: ISA.44.23
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: shout and sing together for joy.

@@ -1,347 +1,281 @@
-document_id: 2CH.7,93
+document_id: 2CH.7
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Apparition de Dieu à Salomon
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 1-10: cf. 1 R 8:54-66. Esd 6:15-18.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Apparition de Dieu à Salomon
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Lorsque Salomon eut achevé de prier, le feu descendit du ciel et consuma l’holocauste et les sacrifices, '
   - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 1-10: cf. 1 R 8:54-66. Esd 6:15-18.'
-    marker-yv: yv-h
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: 1 R 8:10
+      metadata:
+        usfm: 1KI.8.10
     - type: text
-      text: 'Lorsque Salomon eut achevé de prier, le feu descendit du ciel et consuma l’holocauste et les sacrifices, '
+      text: ', '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 R 8:10
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '11'
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Ch 5:13
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '14'
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'et la gloire de l’Éternel remplit la maison. '
-  '10':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '10'
-    - type: text
-      text: 'Le vingt-troisième jour du septième mois, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 R 8:66
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: Salomon renvoya dans ses tentes le peuple joyeux et content pour le bien que l’Éternel avait fait à David, à Salomon, et à Israël, son peuple.
-  - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 11-22: cf. 1 R 9:1-9. 2 Ti 2:12, 13.'
-    marker-yv: yv-h
-  '11':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '11'
+      metadata:
+        usfm: 1KI.8.11
     - type: text
-      text: ' '
+      text: '. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 R 9:1
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Lorsque Salomon eut achevé la maison de l’Éternel et la maison du roi, et qu’il eut réussi dans tout ce qu’il s’était proposé de faire dans la maison de l’Éternel et dans la maison du roi, '
-  '12':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '12'
+        text: 2 Ch 5:13
+      metadata:
+        usfm: 2CH.5.13
     - type: text
-      text: 'l’Éternel apparut à Salomon pendant la nuit, et lui dit: J’exauce ta prière, et je choisis ce lieu comme la maison où l’on devra m’offrir des sacrifices. '
-  '13':
-  - type: usfm
-    marker: p
-    children:
+      text: ', '
     - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '13'
-    - type: text
-      text: 'Quand je fermerai le ciel et qu’il n’y aura point de pluie, quand j’ordonnerai aux sauterelles de consumer le pays, quand j’enverrai la peste parmi mon peuple; '
-  '14':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '14'
+      metadata:
+        usfm: 2CH.5.14
     - type: text
-      text: 'si mon peuple sur qui est invoqué mon nom s’humilie, prie, et cherche ma face, et s’il se détourne de ses mauvaises voies, je l’exaucerai des cieux, je lui pardonnerai son péché, et je guérirai son pays. '
-  '15':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'et la gloire de l’Éternel remplit la maison. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'Les sacrificateurs ne pouvaient entrer dans la maison de l’Éternel, car la gloire de l’Éternel remplissait la maison de l’Éternel. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'Tous les enfants d’Israël virent descendre le feu et la gloire de l’Éternel sur la maison; ils s’inclinèrent le visage contre terre sur le pavé, se prosternèrent et louèrent l’Éternel, en disant: Car il est bon, car sa miséricorde dure à toujours! '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'Le roi et tout le peuple offrirent des sacrifices devant l’Éternel. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'Le roi Salomon immola vingt-deux mille bœufs et cent vingt mille brebis. Ainsi le roi et tout le peuple firent la dédicace de la maison de Dieu. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'Les sacrificateurs se tenaient à leur poste, et les Lévites aussi avec les instruments faits en l’honneur de l’Éternel par le roi David pour le chant des louanges de l’Éternel, lorsque David les chargea de célébrer l’Éternel en disant: Car sa miséricorde dure à toujours! Les sacrificateurs sonnaient des trompettes vis-à-vis d’eux. Et tout Israël était là. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'Salomon consacra le milieu du parvis, qui est devant la maison de l’Éternel; car il offrit là les holocaustes et les graisses des sacrifices d’actions de grâces, parce que l’autel d’airain qu’avait fait Salomon ne pouvait contenir les holocaustes, les offrandes et les graisses. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'Salomon célébra la fête en ce temps-là pendant sept jours, et tout Israël avec lui; une grande multitude était venue depuis les environs de Hamath jusqu’au torrent d’Égypte. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'Le huitième jour, ils eurent une assemblée solennelle; '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '15'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Ch 6:40
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: 1 R 8:65
+      metadata:
+        usfm: 1KI.8.65
     - type: text
-      text: 'Mes yeux seront ouverts désormais, et mes oreilles seront attentives à la prière faite en ce lieu. '
-  '16':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'car ils firent la dédicace de l’autel pendant sept jours, et la fête pendant sept jours. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'Le vingt-troisième jour du septième mois, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '16'
+        text: 1 R 8:66
+      metadata:
+        usfm: 1KI.8.66
     - type: text
-      text: 'Maintenant, je choisis et je sanctifie cette maison pour que mon nom y réside à jamais, et j’aurai toujours là mes yeux et mon cœur. '
-  '17':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: Salomon renvoya dans ses tentes le peuple joyeux et content pour le bien que l’Éternel avait fait à David, à Salomon, et à Israël, son peuple.
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 11-22: cf. 1 R 9:1-9. 2 Ti 2:12, 13.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '17'
+        text: 1 R 9:1
+      metadata:
+        usfm: 1KI.9.1
     - type: text
-      text: 'Et toi, si tu marches en ma présence comme a marché David, ton père, faisant tout ce que je t’ai commandé, et si tu observes mes lois et mes ordonnances, '
-  '18':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Lorsque Salomon eut achevé la maison de l’Éternel et la maison du roi, et qu’il eut réussi dans tout ce qu’il s’était proposé de faire dans la maison de l’Éternel et dans la maison du roi, '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'l’Éternel apparut à Salomon pendant la nuit, et lui dit: J’exauce ta prière, et je choisis ce lieu comme la maison où l’on devra m’offrir des sacrifices. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'Quand je fermerai le ciel et qu’il n’y aura point de pluie, quand j’ordonnerai aux sauterelles de consumer le pays, quand j’enverrai la peste parmi mon peuple; '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: 'si mon peuple sur qui est invoqué mon nom s’humilie, prie, et cherche ma face, et s’il se détourne de ses mauvaises voies, je l’exaucerai des cieux, je lui pardonnerai son péché, et je guérirai son pays. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '18'
+        text: 2 Ch 6:40
+      metadata:
+        usfm: 2CH.6.40
     - type: text
-      text: 'j’affermirai le trône de ton royaume, comme je l’ai promis à David, ton père, en disant: Tu ne manqueras jamais d’un successeur qui règne en Israël. '
-  '19':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Mes yeux seront ouverts désormais, et mes oreilles seront attentives à la prière faite en ce lieu. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
     - type: text
-      text: 'Mais si vous vous détournez, si vous abandonnez mes lois et mes commandements que je vous ai prescrits, et si vous allez servir d’autres dieux et vous prosterner devant eux, '
-  '2':
+      text: '16'
+  - type: text
+    text: 'Maintenant, je choisis et je sanctifie cette maison pour que mon nom y réside à jamais, et j’aurai toujours là mes yeux et mon cœur. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
     - type: text
-      text: 'Les sacrificateurs ne pouvaient entrer dans la maison de l’Éternel, car la gloire de l’Éternel remplissait la maison de l’Éternel. '
-  '20':
+      text: '17'
+  - type: text
+    text: 'Et toi, si tu marches en ma présence comme a marché David, ton père, faisant tout ce que je t’ai commandé, et si tu observes mes lois et mes ordonnances, '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '20'
     - type: text
-      text: 'je vous arracherai de mon pays que je vous ai donné, je rejetterai loin de moi cette maison que j’ai consacrée à mon nom, et j’en ferai un sujet de sarcasme et de raillerie parmi tous les peuples. '
-  '21':
+      text: '18'
+  - type: text
+    text: 'j’affermirai le trône de ton royaume, comme je l’ai promis à David, ton père, en disant: Tu ne manqueras jamais d’un successeur qui règne en Israël. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '21'
     - type: text
-      text: 'Et si haut placée qu’ait été cette maison, quiconque passera près d’elle sera dans l’étonnement, et dira: Pourquoi l’Éternel a-t-il ainsi traité ce pays et cette maison? '
-  '22':
+      text: '19'
+  - type: text
+    text: 'Mais si vous vous détournez, si vous abandonnez mes lois et mes commandements que je vous ai prescrits, et si vous allez servir d’autres dieux et vous prosterner devant eux, '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '22'
     - type: text
-      text: 'Et l’on répondra: Parce qu’ils ont abandonné l’Éternel, le Dieu de leurs pères, qui les a fait sortir du pays d’Égypte, parce qu’ils se sont attachés à d’autres dieux, se sont prosternés devant eux et les ont servis; voilà pourquoi il a fait venir sur eux tous ces maux.'
-  '3':
+      text: '20'
+  - type: text
+    text: 'je vous arracherai de mon pays que je vous ai donné, je rejetterai loin de moi cette maison que j’ai consacrée à mon nom, et j’en ferai un sujet de sarcasme et de raillerie parmi tous les peuples. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
     - type: text
-      text: 'Tous les enfants d’Israël virent descendre le feu et la gloire de l’Éternel sur la maison; ils s’inclinèrent le visage contre terre sur le pavé, se prosternèrent et louèrent l’Éternel, en disant: Car il est bon, car sa miséricorde dure à toujours! '
-  '4':
+      text: '21'
+  - type: text
+    text: 'Et si haut placée qu’ait été cette maison, quiconque passera près d’elle sera dans l’étonnement, et dira: Pourquoi l’Éternel a-t-il ainsi traité ce pays et cette maison? '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
     - type: text
-      text: 'Le roi et tout le peuple offrirent des sacrifices devant l’Éternel. '
-  '5':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: 'Le roi Salomon immola vingt-deux mille bœufs et cent vingt mille brebis. Ainsi le roi et tout le peuple firent la dédicace de la maison de Dieu. '
-  '6':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'Les sacrificateurs se tenaient à leur poste, et les Lévites aussi avec les instruments faits en l’honneur de l’Éternel par le roi David pour le chant des louanges de l’Éternel, lorsque David les chargea de célébrer l’Éternel en disant: Car sa miséricorde dure à toujours! Les sacrificateurs sonnaient des trompettes vis-à-vis d’eux. Et tout Israël était là. '
-  '7':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: 'Salomon consacra le milieu du parvis, qui est devant la maison de l’Éternel; car il offrit là les holocaustes et les graisses des sacrifices d’actions de grâces, parce que l’autel d’airain qu’avait fait Salomon ne pouvait contenir les holocaustes, les offrandes et les graisses. '
-  '8':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: 'Salomon célébra la fête en ce temps-là pendant sept jours, et tout Israël avec lui; une grande multitude était venue depuis les environs de Hamath jusqu’au torrent d’Égypte. '
-  '9':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: 'Le huitième jour, ils eurent une assemblée solennelle; '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 R 8:65
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'car ils firent la dédicace de l’autel pendant sept jours, et la fête pendant sept jours. '
+      text: '22'
+  - type: text
+    text: 'Et l’on répondra: Parce qu’ils ont abandonné l’Éternel, le Dieu de leurs pères, qui les a fait sortir du pays d’Égypte, parce qu’ils se sont attachés à d’autres dieux, se sont prosternés devant eux et les ont servis; voilà pourquoi il a fait venir sur eux tous ces maux.'

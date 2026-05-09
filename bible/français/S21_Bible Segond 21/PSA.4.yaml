@@ -1,197 +1,190 @@
-document_id: PSA.4,152
+document_id: PSA.4
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: La sécurité qu'accorde l'Eternel
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: La sécurité qu'accorde l'Eternel
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: Au chef de chœur, avec instruments à cordes. Psaume de David.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: d
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: Quand je crie, réponds-moi, Dieu de ma justice!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Quand j'étais dans la détresse, tu m'as mis au large.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Aie pitié de moi, écoute ma prière!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: Vous les hommes, jusqu'à quand mépriserez-vous ma gloire?
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Jusqu'à quand aimerez-vous ce qui est sans valeur
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'et rechercherez-vous le mensonge? '
+  - type: usfm
+    marker: qs
+    children:
+    - type: text
+      text: – Pause.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: Sachez que l'Eternel s'est choisi un homme fidèle.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: L'Eternel entend quand je crie à lui.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: '*Si vous vous mettez en colère, ne péchez pas!'
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: Au chef de chœur, avec instruments à cordes. Psaume de David.
-  '2':
-  - type: usfm
-    marker: q1
-    children:
+        text: '4.5 '
     - type: usfm
-      marker: vlbl
+      marker: fq
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: Quand je crie, réponds-moi, Dieu de ma justice!
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Quand j'étais dans la détresse, tu m'as mis au large.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Aie pitié de moi, écoute ma prière!
-  '3':
-  - type: usfm
-    marker: q1
-    children:
+        text: 'Si… péchez pas: '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: Vous les hommes, jusqu'à quand mépriserez-vous ma gloire?
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Jusqu'à quand aimerez-vous ce qui est sans valeur
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'et rechercherez-vous le mensonge? '
+        text: 'cité en '
     - type: usfm
-      marker: qs
+      marker: ref
       children:
       - type: text
-        text: – Pause.
-  '4':
-  - type: usfm
-    marker: q1
-    children:
+        text: Ephésiens 4.26
+      metadata:
+        usfm: EPH.4.26
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '4'
-    - type: text
-      text: Sachez que l'Eternel s'est choisi un homme fidèle.
+        text: .
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Parlez dans votre cœur, sur votre lit, et faites silence. '
   - type: usfm
-    marker: q1
+    marker: qs
     children:
     - type: text
-      text: L'Eternel entend quand je crie à lui.
-  '5':
+      text: – Pause.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: '*Si vous vous mettez en colère, ne péchez pas!'
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '4.5 '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'Si… péchez pas: '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'cité en '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ephésiens 4.26
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: .
-      marker-yv: yv-n
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: 'Parlez dans votre cœur, sur votre lit, et faites silence. '
-    - type: usfm
-      marker: qs
-      children:
-      - type: text
-        text: – Pause.
-  '6':
+      text: '6'
+  - type: text
+    text: Offrez des sacrifices conformes à la justice
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et confiez-vous en l'Eternel.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: Offrez des sacrifices conformes à la justice
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: et confiez-vous en l'Eternel.
-  '7':
+      text: '7'
+  - type: text
+    text: 'Beaucoup disent: «Qui nous fera voir le bonheur?»'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Fais briller la lumière de ton visage sur nous, Eternel!
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: 'Beaucoup disent: «Qui nous fera voir le bonheur?»'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Fais briller la lumière de ton visage sur nous, Eternel!
-  '8':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: Tu mets dans mon cœur plus de joie qu'ils n'en éprouvent
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: quand abondent leur blé, leur vin [et leur huile].
-  '9':
+      text: '8'
+  - type: text
+    text: Tu mets dans mon cœur plus de joie qu'ils n'en éprouvent
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: quand abondent leur blé, leur vin [et leur huile].
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: Je me couche et aussitôt je m'endors en paix,
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: car c'est toi seul, Eternel, qui me donnes la sécurité dans ma demeure.
+      text: '9'
+  - type: text
+    text: Je me couche et aussitôt je m'endors en paix,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: car c'est toi seul, Eternel, qui me donnes la sécurité dans ma demeure.

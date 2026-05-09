@@ -1,96 +1,90 @@
-document_id: PSA.128,8
+document_id: PSA.128
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: A Song of Ascents.
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: A Song of Ascents.
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: ' BLESSED (HAPPY, fortunate, to be envied) is everyone who fears, reveres, '
   - type: usfm
-    marker: p
+    marker: it
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
     - type: text
-      text: ' BLESSED (HAPPY, fortunate, to be envied) is everyone who fears, reveres, '
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: and
-    - type: text
-      text: ' worships the Lord, who walks in His ways '
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: and
-    - type: text
-      text: ' lives according to His commandments. [Ps. 1:1, 2.]'
-  '2':
+      text: and
+  - type: text
+    text: ' worships the Lord, who walks in His ways '
   - type: usfm
-    marker: p
+    marker: it
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
     - type: text
-      text: ' For you shall eat [the fruit] of the labor of your hands; happy (blessed, fortunate, enviable) shall you be, and it shall be well with you.'
-  '3':
+      text: and
+  - type: text
+    text: ' lives according to His commandments. [Ps. 1:1, 2.]'
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
     - type: text
-      text: ' Your wife shall be like a fruitful vine in the innermost parts of your house; your children shall be like olive plants round about your table.'
-  '4':
+      text: '2'
+  - type: text
+    text: ' For you shall eat [the fruit] of the labor of your hands; happy (blessed, fortunate, enviable) shall you be, and it shall be well with you.'
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
     - type: text
-      text: ' Behold, thus shall the man be blessed who reverently '
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: and
-    - type: text
-      text: ' worshipfully fears the Lord.'
-  '5':
+      text: '3'
+  - type: text
+    text: ' Your wife shall be like a fruitful vine in the innermost parts of your house; your children shall be like olive plants round about your table.'
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
     - type: text
-      text: ' May the Lord bless you out of Zion [His sanctuary], and may you see the prosperity of Jerusalem all the days of your life;'
-  '6':
+      text: '4'
+  - type: text
+    text: ' Behold, thus shall the man be blessed who reverently '
   - type: usfm
-    marker: p
+    marker: it
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
     - type: text
-      text: ' Yes, may you see your children''s children. Peace be upon Israel!'
+      text: and
+  - type: text
+    text: ' worshipfully fears the Lord.'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: ' May the Lord bless you out of Zion [His sanctuary], and may you see the prosperity of Jerusalem all the days of your life;'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: ' Yes, may you see your children''s children. Peace be upon Israel!'

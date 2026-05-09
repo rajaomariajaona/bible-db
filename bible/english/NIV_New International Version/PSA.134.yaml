@@ -1,95 +1,92 @@
-document_id: PSA.134,111
+document_id: PSA.134
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: cl
+  children:
+  - type: text
+    text: Psalm 134
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: A song of ascents.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: cl
+    marker: vlbl
     children:
     - type: text
-      text: Psalm 134
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Praise the '
   - type: usfm
-    marker: d
+    marker: nd
     children:
     - type: text
-      text: A song of ascents.
+      text: Lord
+  - type: text
+    text: ', all you servants of the '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: 'Praise the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ', all you servants of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-  - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: 'who minister by night in the house of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: .
-  '2':
+      text: Lord
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'who minister by night in the house of the '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: Lift up your hands in the sanctuary
-  - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: 'and praise the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: .
-  '3':
+      text: Lord
+  - type: text
+    text: .
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'May the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' bless you from Zion,'
-  - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: he who is the Maker of heaven and earth.
+      text: '2'
+  - type: text
+    text: Lift up your hands in the sanctuary
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and praise the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: .
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'May the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' bless you from Zion,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: he who is the Maker of heaven and earth.

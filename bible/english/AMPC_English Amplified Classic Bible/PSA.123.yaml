@@ -1,74 +1,70 @@
-document_id: PSA.123,8
+document_id: PSA.123
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: A Song of Ascents.
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: A Song of Ascents.
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: ' UNTO YOU do I lift up my eyes, O You Who are enthroned in heaven.'
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
     - type: text
-      text: ' UNTO YOU do I lift up my eyes, O You Who are enthroned in heaven.'
-  '2':
+      text: '2'
+  - type: text
+    text: ' Behold, as the eyes of servants look to the hand of their master, and as the eyes of a maid to the hand of her mistress, so our eyes look to the Lord our God, until He has mercy '
   - type: usfm
-    marker: p
+    marker: it
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
     - type: text
-      text: ' Behold, as the eyes of servants look to the hand of their master, and as the eyes of a maid to the hand of her mistress, so our eyes look to the Lord our God, until He has mercy '
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: and
-    - type: text
-      text: ' loving-kindness for us.'
-  '3':
+      text: and
+  - type: text
+    text: ' loving-kindness for us.'
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
     - type: text
-      text: ' Have mercy on us, O Lord, have mercy on '
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: and
-    - type: text
-      text: ' loving-kindness for us, for we are exceedingly satiated with contempt.'
-  '4':
+      text: '3'
+  - type: text
+    text: ' Have mercy on us, O Lord, have mercy on '
   - type: usfm
-    marker: p
+    marker: it
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
     - type: text
-      text: ' Our life is exceedingly filled with the scorning '
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: and
+      text: and
+  - type: text
+    text: ' loving-kindness for us, for we are exceedingly satiated with contempt.'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
     - type: text
-      text: ' scoffing of those who are at ease and with the contempt of the proud (irresponsible tyrants who disregard God''s law).'
+      text: '4'
+  - type: text
+    text: ' Our life is exceedingly filled with the scorning '
+  - type: usfm
+    marker: it
+    children:
+    - type: text
+      text: and
+  - type: text
+    text: ' scoffing of those who are at ease and with the contempt of the proud (irresponsible tyrants who disregard God''s law).'

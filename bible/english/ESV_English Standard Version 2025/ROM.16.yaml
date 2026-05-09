@@ -1,1091 +1,1118 @@
-document_id: ROM.16,59
+document_id: ROM.16
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Personal Greetings
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Personal Greetings
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: I commend to you our sister Phoebe, a servant
   - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: I commend to you our sister Phoebe, a servant
+        text: '16:1 '
     - type: usfm
-      marker: f
+      marker: ft
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '16:1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: deaconess
-      marker-yv: yv-n
-    - type: text
-      text: ' of the church at '
+      - type: text
+        text: 'Or '
     - type: usfm
-      marker: x
+      marker: fqa
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 18:18
-      marker-yv: yv-n
-    - type: text
-      text: 'Cenchreae, '
-  '10':
+      - type: text
+        text: deaconess
+    marker-yv: yv-n
+  - type: text
+    text: ' of the church at '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: 'Greet Apelles, who is approved in Christ. Greet those '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 1:11
-      marker-yv: yv-n
-    - type: text
-      text: 'who belong to the family of Aristobulus. '
-  '11':
+        text: Acts 18:18
+      metadata:
+        usfm: ACT.18.18
+    marker-yv: yv-n
+  - type: text
+    text: 'Cenchreae, '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '11'
-    - type: text
-      text: 'Greet my kinsman Herodion. Greet those in the Lord who belong to the family of Narcissus. '
-  '12':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '12'
-    - type: text
-      text: 'Greet those workers in the Lord, Tryphaena and Tryphosa. Greet the beloved Persis, who has worked hard in the Lord. '
-  '13':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '13'
-    - type: text
-      text: 'Greet Rufus, chosen in the Lord; also his mother, who has been a mother to me as well. '
-  '14':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '14'
-    - type: text
-      text: Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '16:14 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: brothers and sisters
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ; also verse 17
-      marker-yv: yv-n
-    - type: text
-      text: ' who are with them. '
-  '15':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '15'
-    - type: text
-      text: 'Greet Philologus, Julia, Nereus and his sister, and Olympas, and all the saints who are with them. '
-  '16':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 16:20
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Cor. 13:12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Thess. 5:26
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 5:14
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: Greet one another with a holy kiss. All the churches of Christ greet you.
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Final Instructions and Greetings
-    marker-yv: yv-h
-  '17':
+      text: '2'
+  - type: text
+    text: 'that you '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '17'
-    - type: text
-      text: 'I appeal to you, brothers, to watch out for those who cause divisions and create obstacles '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 1:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 6:3
-      marker-yv: yv-n
-    - type: text
-      text: 'contrary to the doctrine that you have been taught; '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 John 10
-      marker-yv: yv-n
-    - type: text
-      text: 'avoid them. '
-  '18':
+        text: Phil. 2:29
+      metadata:
+        usfm: PHP.2.29
+    marker-yv: yv-n
+  - type: text
+    text: may welcome her in the Lord in a way worthy of the saints, and help her in whatever she may need from you, for she has been a patron of many and of myself as well.
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'Greet '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '18'
-    - type: text
-      text: 'For such persons do not serve our Lord Christ, but '
+        text: 'See '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Phil. 3:19
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Tim. 3:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Titus 1:12
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: their own appetites,
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '16:18 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Greek '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: their own belly
-      marker-yv: yv-n
-    - type: text
-      text: ' and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col. 2:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 2:3
-      marker-yv: yv-n
-    - type: text
-      text: 'by smooth talk and flattery they deceive the hearts of the naive. '
-  '19':
+        text: Acts 18:2
+      metadata:
+        usfm: ACT.18.2
+    marker-yv: yv-n
+  - type: text
+    text: 'Prisca and Aquila, my fellow workers in Christ Jesus, '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'who risked their necks for my life, to whom not only I give thanks but all the churches of the Gentiles give thanks as well. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'Greet also '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '19'
+        text: 1 Cor. 16:19
+      metadata:
+        usfm: 1CO.16.19
     - type: text
-      text: 'For '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1:8
-      marker-yv: yv-n
-    - type: text
-      text: 'your obedience is known to all, so that I rejoice over you, but I want you '
+      - type: text
+        text: '['
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 4:22
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']; See Matt. 10:16'
-      marker-yv: yv-n
+      - type: text
+        text: Col. 4:15
+      metadata:
+        usfm: COL.4.15
     - type: text
-      text: 'to be wise as to what is good and innocent as to what is evil. '
-  '2':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Philem. 2
+      metadata:
+        usfm: PHM.1.2
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'the church in their house. Greet my beloved Epaenetus, who was '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: 'that you '
+        text: '['
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Phil. 2:29
-      marker-yv: yv-n
-    - type: text
-      text: may welcome her in the Lord in a way worthy of the saints, and help her in whatever she may need from you, for she has been a patron of many and of myself as well.
-  '20':
+      - type: text
+        text: 1 Cor. 16:15
+      metadata:
+        usfm: 1CO.16.15
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the first convert
   - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '20'
+        text: '16:5 '
     - type: usfm
-      marker: x
+      marker: ft
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 15:33
-      marker-yv: yv-n
-    - type: text
-      text: 'The God of peace '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 3:15
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 10:17-19
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 12:11
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'will soon crush Satan under your feet. '
+        text: 'Greek '
     - type: usfm
-      marker: x
+      marker: fq
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 16:23
-      marker-yv: yv-n
-    - type: text
-      text: The grace of our Lord Jesus Christ be with you.
-  '21':
+      - type: text
+        text: firstfruit
+    marker-yv: yv-n
+  - type: text
+    text: ' to Christ in Asia. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'Greet Mary, who has worked hard for you. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: Greet Andronicus and Junia,
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '21'
+        text: '16:7 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: Junias
+    marker-yv: yv-n
+  - type: text
+    text: ' my kinsmen and my '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Col. 4:10
+      metadata:
+        usfm: COL.4.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Philem. 23
+      metadata:
+        usfm: PHM.1.23
+    marker-yv: yv-n
+  - type: text
+    text: fellow prisoners. They are well known to the apostles,
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '16:7 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: messengers
+    marker-yv: yv-n
+  - type: text
+    text: ' and they were in Christ before me. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'Greet Ampliatus, my beloved in the Lord. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'Greet Urbanus, our fellow worker in Christ, and my beloved Stachys. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'Greet Apelles, who is approved in Christ. Greet those '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 1:11
+      metadata:
+        usfm: 1CO.1.11
+    marker-yv: yv-n
+  - type: text
+    text: 'who belong to the family of Aristobulus. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'Greet my kinsman Herodion. Greet those in the Lord who belong to the family of Narcissus. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'Greet those workers in the Lord, Tryphaena and Tryphosa. Greet the beloved Persis, who has worked hard in the Lord. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'Greet Rufus, chosen in the Lord; also his mother, who has been a mother to me as well. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '16:14 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: brothers and sisters
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: ; also verse 17
+    marker-yv: yv-n
+  - type: text
+    text: ' who are with them. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: 'Greet Philologus, Julia, Nereus and his sister, and Olympas, and all the saints who are with them. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 16:20
+      metadata:
+        usfm: 1CO.16.20
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Cor. 13:12
+      metadata:
+        usfm: 2CO.13.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Thess. 5:26
+      metadata:
+        usfm: 1TH.5.26
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pet. 5:14
+      metadata:
+        usfm: 1PE.5.14
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Greet one another with a holy kiss. All the churches of Christ greet you.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Final Instructions and Greetings
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'I appeal to you, brothers, to watch out for those who cause divisions and create obstacles '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 1:3
+      metadata:
+        usfm: 1TI.1.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 6:3
+      metadata:
+        usfm: 1TI.6.3
+    marker-yv: yv-n
+  - type: text
+    text: 'contrary to the doctrine that you have been taught; '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 John 10
+      metadata:
+        usfm: 2JN.1.10
+    marker-yv: yv-n
+  - type: text
+    text: 'avoid them. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: 'For such persons do not serve our Lord Christ, but '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Phil. 3:19
+      metadata:
+        usfm: PHP.3.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Tim. 3:4
+      metadata:
+        usfm: 2TI.3.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Titus 1:12
+      metadata:
+        usfm: TIT.1.12
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: their own appetites,
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '16:18 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Greek '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: their own belly
+    marker-yv: yv-n
+  - type: text
+    text: ' and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Col. 2:4
+      metadata:
+        usfm: COL.2.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pet. 2:3
+      metadata:
+        usfm: 2PE.2.3
+    marker-yv: yv-n
+  - type: text
+    text: 'by smooth talk and flattery they deceive the hearts of the naive. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: 'For '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1:8
+      metadata:
+        usfm: ROM.1.8
+    marker-yv: yv-n
+  - type: text
+    text: 'your obedience is known to all, so that I rejoice over you, but I want you '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 4:22
+      metadata:
+        usfm: JER.4.22
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']; See Matt. 10:16'
+    marker-yv: yv-n
+  - type: text
+    text: 'to be wise as to what is good and innocent as to what is evil. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 15:33
+      metadata:
+        usfm: ROM.15.33
+    marker-yv: yv-n
+  - type: text
+    text: 'The God of peace '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 3:15
+      metadata:
+        usfm: GEN.3.15
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 10:17-19
+      metadata:
+        usfm: LUK.10.17+LUK.10.18+LUK.10.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rev. 12:11
+      metadata:
+        usfm: REV.12.11
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'will soon crush Satan under your feet. '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 16:23
+      metadata:
+        usfm: 1CO.16.23
+    marker-yv: yv-n
+  - type: text
+    text: The grace of our Lord Jesus Christ be with you.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 16:1
+      metadata:
+        usfm: ACT.16.1
+    marker-yv: yv-n
+  - type: text
+    text: Timothy, my fellow worker, greets you; so do Lucius and Jason and Sosipater, my kinsmen.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: 'I Tertius, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 16:21
+      metadata:
+        usfm: 1CO.16.21
+    marker-yv: yv-n
+  - type: text
+    text: who wrote this letter, greet you in the Lord.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 1:14
+      metadata:
+        usfm: 1CO.1.14
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 16:1
-      marker-yv: yv-n
-    - type: text
-      text: Timothy, my fellow worker, greets you; so do Lucius and Jason and Sosipater, my kinsmen.
-  '22':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '22'
+        text: Acts 19:29
+      metadata:
+        usfm: ACT.19.29
     - type: text
-      text: 'I Tertius, '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 16:21
-      marker-yv: yv-n
-    - type: text
-      text: who wrote this letter, greet you in the Lord.
-  '23':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '23'
+        text: 20:4
+      metadata:
+        usfm: ACT.20.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 3 John 1
+      metadata:
+        usfm: 3JN.1.1
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 1:14
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 19:29
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 20:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 3 John 1
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: Gaius, who is host to me and to the whole church, greets you. Erastus, the city treasurer, and our brother Quartus, greet you.
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '16:23 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Some manuscripts insert verse 24: '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: The grace of our Lord Jesus Christ be with you all. Amen
-      marker-yv: yv-n
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Gaius, who is host to me and to the whole church, greets you. Erastus, the city treasurer, and our brother Quartus, greet you.
   - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Doxology
-    marker-yv: yv-h
-  '25':
-  - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '25'
-    - type: text
-      text: ' '
+        text: '16:23 '
     - type: usfm
-      marker: x
+      marker: ft
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 3:20
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jude 24
-      marker-yv: yv-n
-    - type: text
-      text: 'Now to him who is able to strengthen you '
+        text: 'Some manuscripts insert verse 24: '
     - type: usfm
-      marker: x
+      marker: fq
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:16
-      marker-yv: yv-n
-    - type: text
-      text: 'according to my gospel and the preaching of Jesus Christ, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 2:1
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 1:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 3:3-5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 5:32
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 6:19
-      marker-yv: yv-n
-    - type: text
-      text: 'according to the revelation of the mystery '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 2:7
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'that was kept secret for '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Tim. 1:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Titus 1:2
-      marker-yv: yv-n
-    - type: text
-      text: 'long ages '
-  '26':
+        text: The grace of our Lord Jesus Christ be with you all. Amen
+    marker-yv: yv-n
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Doxology
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '25'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '26'
+        text: Eph. 3:20
+      metadata:
+        usfm: EPH.3.20
     - type: text
-      text: 'but '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col. 1:26
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Tim. 1:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Titus 1:3
-      marker-yv: yv-n
-    - type: text
-      text: 'has now been disclosed and through the prophetic writings has been made known to all nations, according to the command of the eternal God, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col. 1:6
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1:5
-      marker-yv: yv-n
-    - type: text
-      text: 'to bring about the obedience of faith— '
-  '27':
+        text: Jude 24
+      metadata:
+        usfm: JUD.1.24
+    marker-yv: yv-n
+  - type: text
+    text: 'Now to him who is able to strengthen you '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '27'
-    - type: text
-      text: 'to '
+        text: 'See ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 1:17
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 6:16
-      marker-yv: yv-n
-    - type: text
-      text: 'the only wise God '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 11:36
-      marker-yv: yv-n
-    - type: text
-      text: be glory forevermore through Jesus Christ! Amen.
-  '3':
+        text: 2:16
+      metadata:
+        usfm: ROM.2.16
+    marker-yv: yv-n
+  - type: text
+    text: 'according to my gospel and the preaching of Jesus Christ, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '3'
+        text: 1 Cor. 2:1
+      metadata:
+        usfm: 1CO.2.1
     - type: text
-      text: 'Greet '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 18:2
-      marker-yv: yv-n
+      - type: text
+        text: 4:1
+      metadata:
+        usfm: 1CO.4.1
     - type: text
-      text: 'Prisca and Aquila, my fellow workers in Christ Jesus, '
-  '4':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eph. 1:9
+      metadata:
+        usfm: EPH.1.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 3:3-5
+      metadata:
+        usfm: EPH.3.3+EPH.3.4+EPH.3.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 5:32
+      metadata:
+        usfm: EPH.5.32
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 6:19
+      metadata:
+        usfm: EPH.6.19
+    marker-yv: yv-n
+  - type: text
+    text: 'according to the revelation of the mystery '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '4'
-    - type: text
-      text: 'who risked their necks for my life, to whom not only I give thanks but all the churches of the Gentiles give thanks as well. '
-  '5':
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 2:7
+      metadata:
+        usfm: 1CO.2.7
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'that was kept secret for '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
+        text: 2 Tim. 1:9
+      metadata:
+        usfm: 2TI.1.9
     - type: text
-      text: 'Greet also '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 16:19
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col. 4:15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Philem. 2
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'the church in their house. Greet my beloved Epaenetus, who was '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 16:15
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the first convert
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '16:5 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Greek '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: firstfruit
-      marker-yv: yv-n
-    - type: text
-      text: ' to Christ in Asia. '
-  '6':
+        text: Titus 1:2
+      metadata:
+        usfm: TIT.1.2
+    marker-yv: yv-n
+  - type: text
+    text: 'long ages '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '26'
+  - type: text
+    text: 'but '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '6'
+        text: Col. 1:26
+      metadata:
+        usfm: COL.1.26
     - type: text
-      text: 'Greet Mary, who has worked hard for you. '
-  '7':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Tim. 1:10
+      metadata:
+        usfm: 2TI.1.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Titus 1:3
+      metadata:
+        usfm: TIT.1.3
+    marker-yv: yv-n
+  - type: text
+    text: 'has now been disclosed and through the prophetic writings has been made known to all nations, according to the command of the eternal God, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '7'
-    - type: text
-      text: Greet Andronicus and Junia,
+        text: '['
     - type: usfm
-      marker: f
+      marker: ref
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '16:7 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: Junias
-      marker-yv: yv-n
-    - type: text
-      text: ' my kinsmen and my '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col. 4:10
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Philem. 23
-      marker-yv: yv-n
-    - type: text
-      text: fellow prisoners. They are well known to the apostles,
+        text: Col. 1:6
+      metadata:
+        usfm: COL.1.6
     - type: usfm
-      marker: f
+      marker: xta
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '16:7 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: messengers
-      marker-yv: yv-n
-    - type: text
-      text: ' and they were in Christ before me. '
-  '8':
+      - type: text
+        text: ']; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1:5
+      metadata:
+        usfm: COL.1.5
+    marker-yv: yv-n
+  - type: text
+    text: 'to bring about the obedience of faith— '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '27'
+  - type: text
+    text: 'to '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '8'
+        text: 1 Tim. 1:17
+      metadata:
+        usfm: 1TI.1.17
     - type: text
-      text: 'Greet Ampliatus, my beloved in the Lord. '
-  '9':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 6:16
+      metadata:
+        usfm: 1TI.6.16
+    marker-yv: yv-n
+  - type: text
+    text: 'the only wise God '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '9'
-    - type: text
-      text: 'Greet Urbanus, our fellow worker in Christ, and my beloved Stachys. '
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 11:36
+      metadata:
+        usfm: ROM.11.36
+    marker-yv: yv-n
+  - type: text
+    text: be glory forevermore through Jesus Christ! Amen.

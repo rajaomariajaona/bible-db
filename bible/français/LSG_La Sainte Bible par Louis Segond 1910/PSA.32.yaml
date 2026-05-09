@@ -1,291 +1,296 @@
-document_id: PSA.32,93
+document_id: PSA.32
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 2 S 12:13. (Ps 6; 51; 130.) Ro 4:6-8. És 55:6-9.
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 2 S 12:13. (Ps 6; 51; 130.) Ro 4:6-8. És 55:6-9.
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: De David. Cantique.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Ro 4:6
+      metadata:
+        usfm: ROM.4.6
     - type: text
-      text: De David. Cantique.
-  - type: usfm
-    marker: q1
-    children:
+      text: ', '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 4:6
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '7'
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: Heureux celui à qui la transgression est remise,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: A qui le péché est pardonné!
-  '10':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '10'
-    - type: text
-      text: Beaucoup de douleurs sont la part du méchant,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Mais celui qui se confie en l’Éternel est environné de sa grâce.
-  '11':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '11'
-    - type: text
-      text: Justes, réjouissez-vous en l’Éternel et soyez dans l’allégresse!
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Poussez des cris de joie, vous tous qui êtes droits de cœur!
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: Heureux l’homme à qui l’Éternel n’impute pas d’iniquité,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Et dans l’esprit duquel il n’y a point de fraude!
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: Tant que je me suis tu, mes os se consumaient,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Je gémissais toute la journée;
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: Car nuit et jour ta main s’appesantissait sur moi,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'Ma vigueur n’était plus que sécheresse, comme celle de l’été. '
-    - type: usfm
-      marker: qs
-      children:
-      - type: text
-        text: — Pause.
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: Je t’ai fait connaître mon péché, je n’ai pas caché mon iniquité;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'J’ai dit: '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Pr 28:13
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Jn 1:9
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: J’avouerai mes transgressions à l’Éternel!
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'Et tu as effacé la peine de mon péché. '
-    - type: usfm
-      marker: qs
-      children:
-      - type: text
-        text: — Pause.
-  '6':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: Qu’ainsi tout homme pieux te prie au temps convenable!
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Si de grandes eaux débordent, elles ne l’atteindront nullement.
-  '7':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '7'
+      metadata:
+        usfm: ROM.4.7
     - type: text
-      text: ' '
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: Heureux celui à qui la transgression est remise,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: A qui le péché est pardonné!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: Heureux l’homme à qui l’Éternel n’impute pas d’iniquité,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et dans l’esprit duquel il n’y a point de fraude!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: Tant que je me suis tu, mes os se consumaient,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Je gémissais toute la journée;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: Car nuit et jour ta main s’appesantissait sur moi,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Ma vigueur n’était plus que sécheresse, comme celle de l’été. '
+  - type: usfm
+    marker: qs
+    children:
+    - type: text
+      text: — Pause.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: Je t’ai fait connaître mon péché, je n’ai pas caché mon iniquité;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'J’ai dit: '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps 27:5
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 31:21
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Pr 28:13
+      metadata:
+        usfm: PRO.28.13
     - type: text
-      text: Tu es un asile pour moi, tu me garantis de la détresse,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'Tu m’entoures de chants de délivrance. '
+      text: '. '
     - type: usfm
-      marker: qs
+      marker: ref
       children:
       - type: text
-        text: — Pause.
-  '8':
+        text: 1 Jn 1:9
+      metadata:
+        usfm: 1JN.1.9
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: J’avouerai mes transgressions à l’Éternel!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Et tu as effacé la peine de mon péché. '
   - type: usfm
-    marker: q1
+    marker: qs
+    children:
+    - type: text
+      text: — Pause.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: Qu’ainsi tout homme pieux te prie au temps convenable!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Si de grandes eaux débordent, elles ne l’atteindront nullement.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '8'
+        text: Ps 27:5
+      metadata:
+        usfm: PSA.27.5
     - type: text
-      text: Je t’instruirai et te montrerai la voie que tu dois suivre;
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 31:21
+      metadata:
+        usfm: PSA.31.21
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: Tu es un asile pour moi, tu me garantis de la détresse,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Tu m’entoures de chants de délivrance. '
   - type: usfm
-    marker: q1
+    marker: qs
     children:
     - type: text
-      text: Je te conseillerai, j’aurai le regard sur toi.
-  '9':
+      text: — Pause.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: Je t’instruirai et te montrerai la voie que tu dois suivre;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Je te conseillerai, j’aurai le regard sur toi.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: Ne soyez pas comme un cheval ou un mulet sans intelligence;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '9'
+        text: Pr 26:3
+      metadata:
+        usfm: PRO.26.3
     - type: text
-      text: Ne soyez pas comme un cheval ou un mulet sans intelligence;
-  - type: usfm
-    marker: q1
-    children:
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Pr 26:3
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ja 3:3
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Ja 3:3
+      metadata:
+        usfm: JAS.3.3
     - type: text
-      text: On les bride avec un frein et un mors, dont on les pare,
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: On les bride avec un frein et un mors, dont on les pare,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Afin qu’ils ne s’approchent point de toi.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Afin qu’ils ne s’approchent point de toi.
+      text: '10'
+  - type: text
+    text: Beaucoup de douleurs sont la part du méchant,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Mais celui qui se confie en l’Éternel est environné de sa grâce.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: Justes, réjouissez-vous en l’Éternel et soyez dans l’allégresse!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Poussez des cris de joie, vous tous qui êtes droits de cœur!

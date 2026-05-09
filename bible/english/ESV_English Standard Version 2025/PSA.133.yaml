@@ -1,326 +1,363 @@
-document_id: PSA.133,59
+document_id: PSA.133
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: When Brothers Dwell in Unity
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: 'A Song of '
   - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: When Brothers Dwell in Unity
-    marker-yv: yv-h
-  - type: usfm
-    marker: d
-    children:
-    - type: text
-      text: 'A Song of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 120
-      - type: text
-        text: ', title'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: Ascents. Of David.
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '1'
+        text: '[See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 120
+      metadata:
+        usfm: PSA.120
     - type: text
-      text: Behold, how good and pleasant it is
+      text: ', title'
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Ascents. Of David.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'when '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 13:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 13:1
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: brothers dwell in unity!
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '133:1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: dwell together
-      marker-yv: yv-n
-  '2':
+      text: '1'
+  - type: text
+    text: Behold, how good and pleasant it is
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'when '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: 'It is like the precious '
+        text: '['
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 30:25
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '30'
-      marker-yv: yv-n
+        text: Gen. 13:8
+      metadata:
+        usfm: GEN.13.8
     - type: text
-      text: 'oil on '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 29:7
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 8:12
-      marker-yv: yv-n
-    - type: text
-      text: the head,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: running down on the beard,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: on the beard of Aaron,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'running down on '
+        text: Heb. 13:1
+      metadata:
+        usfm: HEB.13.1
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 28:33
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 39:24
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 28:32
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 39:23
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 30:18
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the collar of his robes!
-  '3':
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: brothers dwell in unity!
   - type: usfm
-    marker: q1
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: 'It is like '
+        text: '133:1 '
     - type: usfm
-      marker: x
+      marker: ft
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 19:12
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mic. 5:7
-      marker-yv: yv-n
-    - type: text
-      text: 'the dew of '
+        text: 'Or '
     - type: usfm
-      marker: x
+      marker: fqa
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 3:9
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:48
-      marker-yv: yv-n
-    - type: text
-      text: Hermon,
+        text: dwell together
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'which falls on '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 48:1
-      marker-yv: yv-n
-    - type: text
-      text: the mountains of Zion!
+      text: '2'
+  - type: text
+    text: 'It is like the precious '
   - type: usfm
-    marker: q1
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 30:25
+      metadata:
+        usfm: EXO.30.25
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '30'
+      metadata:
+        usfm: EXO.30.30
+    marker-yv: yv-n
+  - type: text
+    text: 'oil on '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 29:7
+      metadata:
+        usfm: EXO.29.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lev. 8:12
+      metadata:
+        usfm: LEV.8.12
+    marker-yv: yv-n
+  - type: text
+    text: the head,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: running down on the beard,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: on the beard of Aaron,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'running down on '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 28:33
+      metadata:
+        usfm: EXO.28.33
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 39:24
+      metadata:
+        usfm: EXO.39.24
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 28:32
+      metadata:
+        usfm: EXO.28.32
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 39:23
+      metadata:
+        usfm: EXO.39.23
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 30:18
+      metadata:
+        usfm: JOB.30.18
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the collar of his robes!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
     children:
     - type: text
-      text: 'For there the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 25:21
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 28:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 42:8
-      marker-yv: yv-n
-    - type: text
-      text: has commanded the blessing,
+      text: '3'
+  - type: text
+    text: 'It is like '
   - type: usfm
-    marker: q2
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 19:12
+      metadata:
+        usfm: PRO.19.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mic. 5:7
+      metadata:
+        usfm: MIC.5.7
+    marker-yv: yv-n
+  - type: text
+    text: 'the dew of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 3:9
+      metadata:
+        usfm: DEU.3.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:48
+      metadata:
+        usfm: DEU.4.48
+    marker-yv: yv-n
+  - type: text
+    text: Hermon,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'which falls on '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 48:1
+      metadata:
+        usfm: PSA.48.1
+    marker-yv: yv-n
+  - type: text
+    text: the mountains of Zion!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'For there the '
+  - type: usfm
+    marker: nd
     children:
     - type: text
-      text: life forevermore.
+      text: Lord
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lev. 25:21
+      metadata:
+        usfm: LEV.25.21
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 28:8
+      metadata:
+        usfm: DEU.28.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 42:8
+      metadata:
+        usfm: PSA.42.8
+    marker-yv: yv-n
+  - type: text
+    text: has commanded the blessing,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: life forevermore.

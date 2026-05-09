@@ -1,753 +1,812 @@
-document_id: REV.8,59
+document_id: REV.8
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: The Seventh Seal and the Golden Censer
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: The Seventh Seal and the Golden Censer
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'When the Lamb opened '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: 'When the Lamb opened '
+        text: 'ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 5:1
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 6:1
-      marker-yv: yv-n
+        text: 5:1
+      metadata:
+        usfm: REV.5.1
     - type: text
-      text: 'the seventh seal, there was silence in heaven for about half an hour. '
-  '10':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 6:1
+      metadata:
+        usfm: REV.6.1
+    marker-yv: yv-n
+  - type: text
+    text: 'the seventh seal, there was silence in heaven for about half an hour. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'Then I saw the seven angels '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: 'The third angel blew his trumpet, and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 9:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 14:12
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'a great star fell from heaven, blazing like a torch, and it fell on a third of the rivers and on '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 14:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 16:4
-      marker-yv: yv-n
-    - type: text
-      text: 'the springs of water. '
-  '11':
+        text: Luke 1:19
+      metadata:
+        usfm: LUK.1.19
+    marker-yv: yv-n
+  - type: text
+    text: 'who stand before God, and seven trumpets were given to them. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'And another angel came and stood '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
-    - type: text
-      text: The name of the star is Wormwood.
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '8:11 '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'Wormwood '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: is the name of a plant and of the bitter-tasting extract derived from it
-      marker-yv: yv-n
-    - type: text
-      text: ' A third of the waters '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 29:18
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 9:15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 23:15
-      marker-yv: yv-n
-    - type: text
-      text: 'became wormwood, and many people died from the water, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 15:23
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: because it had been made bitter.
-  '12':
+        text: Amos 9:1
+      metadata:
+        usfm: AMO.9.1
+    marker-yv: yv-n
+  - type: text
+    text: 'at the altar with a golden censer, and he was given much incense to offer with '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '12'
-    - type: text
-      text: 'The fourth angel blew his trumpet, and a third of '
+        text: 'ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 10:21-23
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 13:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 30:26
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the sun was struck, and a third of the moon, and a third of the stars, so that a third of their light might be darkened, and a third of the day might be kept from shining, and likewise a third of the night.
-  '13':
+        text: 5:8
+      metadata:
+        usfm: REV.5.8
+    marker-yv: yv-n
+  - type: text
+    text: 'the prayers of all the saints on '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '13'
-    - type: text
-      text: 'Then I looked, and I heard an eagle crying with a loud voice as it flew directly overhead, '
+        text: 'ch. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 9:12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 11:14
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: “Woe, woe, woe to those who dwell on the earth, at the blasts of the other trumpets that the three angels are about to blow!”
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '2'
+        text: 9:13
+      metadata:
+        usfm: REV.9.13
     - type: text
-      text: 'Then I saw the seven angels '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 1:19
-      marker-yv: yv-n
+      - type: text
+        text: Ex. 30:1
+      metadata:
+        usfm: EXO.30.1
     - type: text
-      text: 'who stand before God, and seven trumpets were given to them. '
-  '3':
-  - type: usfm
-    marker: p
-    children:
+      text: ', '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '3'
-    - type: text
-      text: 'And another angel came and stood '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Amos 9:1
-      marker-yv: yv-n
-    - type: text
-      text: 'at the altar with a golden censer, and he was given much incense to offer with '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 5:8
-      marker-yv: yv-n
-    - type: text
-      text: 'the prayers of all the saints on '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 9:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 30:1
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '3'
-      marker-yv: yv-n
-    - type: text
-      text: 'the golden altar before the throne, '
-  '4':
+      metadata:
+        usfm: EXO.30.3
+    marker-yv: yv-n
+  - type: text
+    text: 'the golden altar before the throne, '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 141:2
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'the smoke of the incense, with the prayers of the saints, rose before God from the hand of the angel. '
-  '5':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: 'Then the angel took the censer and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 16:12
-      marker-yv: yv-n
-    - type: text
-      text: 'filled it with fire from the altar and threw it on the earth, and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 18:7
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '8'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'there were peals of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:5
-      marker-yv: yv-n
-    - type: text
-      text: thunder, rumblings,
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '8:5 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: voices
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ', or '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: sounds
-      marker-yv: yv-n
-    - type: text
-      text: ' flashes of lightning, and an earthquake.'
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: The Seven Trumpets
-    marker-yv: yv-h
-  '6':
+      text: '4'
+  - type: text
+    text: 'and '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '6'
-    - type: text
-      text: Now the seven angels who had the seven trumpets prepared to blow them.
-  '7':
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 141:2
+      metadata:
+        usfm: PSA.141.2
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'the smoke of the incense, with the prayers of the saints, rose before God from the hand of the angel. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'Then the angel took the censer and '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '7'
-    - type: text
-      text: 'The first angel blew his trumpet, and there followed '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 9:23
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '24'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 18:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezek. 38:22
-      marker-yv: yv-n
-    - type: text
-      text: 'hail and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Joel 2:30
-      marker-yv: yv-n
-    - type: text
-      text: 'fire, mixed with blood, and these were thrown upon the earth. And a '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 8-12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 9:15
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '18'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 12:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Zech. 13:8
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '9'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'third of the earth was burned up, and a third of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 9:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 2:13
-      marker-yv: yv-n
-    - type: text
-      text: the trees were burned up, and all green grass was burned up.
-  '8':
+        text: Lev. 16:12
+      metadata:
+        usfm: LEV.16.12
+    marker-yv: yv-n
+  - type: text
+    text: 'filled it with fire from the altar and threw it on the earth, and '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 18:7
+      metadata:
+        usfm: PSA.18.7
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '8'
-    - type: text
-      text: 'The second angel blew his trumpet, and something like '
+      metadata:
+        usfm: PSA.18.8
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 51:25
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 11:23
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'a great mountain, burning with fire, was thrown into the sea, and a third of the sea '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 11:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 7:17
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '19'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'became blood. '
-  '9':
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'there were peals of '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:5
+      metadata:
+        usfm: REV.4.5
+    marker-yv: yv-n
+  - type: text
+    text: thunder, rumblings,
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '8:5 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: voices
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: ', or '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: sounds
+    marker-yv: yv-n
+  - type: text
+    text: ' flashes of lightning, and an earthquake.'
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: The Seven Trumpets
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: Now the seven angels who had the seven trumpets prepared to blow them.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'The first angel blew his trumpet, and there followed '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 9:23
+      metadata:
+        usfm: EXO.9.23
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '24'
+      metadata:
+        usfm: EXO.9.24
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 18:13
+      metadata:
+        usfm: PSA.18.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ezek. 38:22
+      metadata:
+        usfm: EZK.38.22
+    marker-yv: yv-n
+  - type: text
+    text: 'hail and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Joel 2:30
+      metadata:
+        usfm: JOL.2.30
+    marker-yv: yv-n
+  - type: text
+    text: 'fire, mixed with blood, and these were thrown upon the earth. And a '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 8-12
+      metadata:
+        usfm: REV.8.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 9:15
+      metadata:
+        usfm: REV.9.15
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '18'
+      metadata:
+        usfm: REV.9.18
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 12:4
+      metadata:
+        usfm: REV.12.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Zech. 13:8
+      metadata:
+        usfm: ZEC.13.8
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '9'
-    - type: text
-      text: 'A third of the living creatures in the sea died, and a third of '
+      metadata:
+        usfm: ZEC.13.9
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 2:16
-      marker-yv: yv-n
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'third of the earth was burned up, and a third of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 9:4
+      metadata:
+        usfm: REV.9.4
     - type: text
-      text: the ships were destroyed.
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 2:13
+      metadata:
+        usfm: ISA.2.13
+    marker-yv: yv-n
+  - type: text
+    text: the trees were burned up, and all green grass was burned up.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'The second angel blew his trumpet, and something like '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 51:25
+      metadata:
+        usfm: JER.51.25
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mark 11:23
+      metadata:
+        usfm: MRK.11.23
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'a great mountain, burning with fire, was thrown into the sea, and a third of the sea '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 11:6
+      metadata:
+        usfm: REV.11.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 7:17
+      metadata:
+        usfm: EXO.7.17
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '19'
+      metadata:
+        usfm: EXO.7.19
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'became blood. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'A third of the living creatures in the sea died, and a third of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 2:16
+      metadata:
+        usfm: ISA.2.16
+    marker-yv: yv-n
+  - type: text
+    text: the ships were destroyed.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'The third angel blew his trumpet, and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 9:1
+      metadata:
+        usfm: REV.9.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 14:12
+      metadata:
+        usfm: ISA.14.12
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'a great star fell from heaven, blazing like a torch, and it fell on a third of the rivers and on '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 14:7
+      metadata:
+        usfm: REV.14.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 16:4
+      metadata:
+        usfm: REV.16.4
+    marker-yv: yv-n
+  - type: text
+    text: 'the springs of water. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: The name of the star is Wormwood.
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '8:11 '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: 'Wormwood '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: is the name of a plant and of the bitter-tasting extract derived from it
+    marker-yv: yv-n
+  - type: text
+    text: ' A third of the waters '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 29:18
+      metadata:
+        usfm: DEU.29.18
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 9:15
+      metadata:
+        usfm: JER.9.15
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 23:15
+      metadata:
+        usfm: JER.23.15
+    marker-yv: yv-n
+  - type: text
+    text: 'became wormwood, and many people died from the water, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 15:23
+      metadata:
+        usfm: EXO.15.23
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: because it had been made bitter.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'The fourth angel blew his trumpet, and a third of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 10:21-23
+      metadata:
+        usfm: EXO.10.21+EXO.10.22+EXO.10.23
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 13:10
+      metadata:
+        usfm: ISA.13.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 30:26
+      metadata:
+        usfm: ISA.30.26
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the sun was struck, and a third of the moon, and a third of the stars, so that a third of their light might be darkened, and a third of the day might be kept from shining, and likewise a third of the night.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'Then I looked, and I heard an eagle crying with a loud voice as it flew directly overhead, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 9:12
+      metadata:
+        usfm: REV.9.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 11:14
+      metadata:
+        usfm: REV.11.14
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: “Woe, woe, woe to those who dwell on the earth, at the blasts of the other trumpets that the three angels are about to blow!”

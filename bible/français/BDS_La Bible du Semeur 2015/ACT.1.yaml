@@ -1,632 +1,575 @@
-document_id: ACT.1,21
+document_id: ACT.1
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: ms1
+  children:
+  - type: text
+    text: Introduction
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: ms1
+    marker: vlbl
     children:
     - type: text
-      text: Introduction
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: Cher Théophile,
+- type: usfm
+  marker: p
+  children:
+  - type: text
+    text: Dans mon premier livre
   - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: Cher Théophile,
-  - type: usfm
-    marker: p
-    children:
-    - type: text
-      text: Dans mon premier livre
+        text: '1.1 '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1.1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Voir '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Lc 1.1-4
-        - type: text
-          text: '. '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'Les Actes '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'sont la suite de '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: l’Evangile selon Luc.
-      marker-yv: yv-n
-    - type: text
-      text: ', j’ai exposé tout ce que Jésus a commencé de faire et d’enseigner '
-  '10':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: 'Ils gardaient encore les yeux fixés au ciel pendant qu’il s’éloignait, quand deux hommes vêtus de blanc se présentèrent devant eux et leur dirent : '
-  '11':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '11'
-    - type: text
-      text: Hommes de Galilée, pourquoi restez-vous ainsi à regarder le ciel ? Ce Jésus qui a été enlevé au ciel du milieu de vous, en redescendra un jour de la même manière que vous l’avez vu y monter.
-  '12':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '12'
-    - type: text
-      text: Alors les apôtres quittèrent la colline qu’on appelle mont des Oliviers, située à environ un kilomètre
-    - type: usfm
-      marker: f
-      children:
+        text: 'Voir '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '1.12 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: C’était la distance de marche autorisée le jour du sabbat par la tradition rabbinique.
-      marker-yv: yv-n
-    - type: text
-      text: ' de Jérusalem, et rentrèrent en ville. '
-  '13':
-  - type: usfm
-    marker: p
-    children:
+          text: Lc 1.1-4
+        metadata:
+          usfm: LUK.1.1+LUK.1.2+LUK.1.3+LUK.1.4
+      - type: text
+        text: '. '
     - type: usfm
-      marker: vlbl
+      marker: fqa
       children:
       - type: text
-        text: '13'
-    - type: text
-      text: Dès leur arrivée, ils montèrent à l’étage supérieur de la maison où ils se tenaient d’habitude
+        text: 'Les Actes '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1.13 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: Les apôtres se tenaient dans une pièce aménagée sur le toit en terrasse, comme il y en avait souvent dans les maisons israélites.
-      marker-yv: yv-n
-    - type: text
-      text: . C’étaient Pierre, Jean, Jacques et André, Philippe et Thomas, Barthélemy et Matthieu, Jacques, fils d’Alphée, Simon le Zélé
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1.13 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Voir note '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Mt 10.4
-        - type: text
-          text: .
-      marker-yv: yv-n
-    - type: text
-      text: ', et Jude, fils de Jacques. '
-  '14':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '14'
-    - type: text
-      text: Eux tous, d’un commun accord, se retrouvaient souvent pour prier, avec quelques femmes, avec Marie la mère de Jésus, et avec les frères de Jésus.
-  - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Le choix d’un douzième apôtre
-    marker-yv: yv-h
-  '15':
-  - type: usfm
-    marker: p
-    children:
+        text: 'sont la suite de '
     - type: usfm
-      marker: vlbl
+      marker: fqa
       children:
       - type: text
-        text: '15'
-    - type: text
-      text: Un de ces jours-là, Pierre se leva au milieu des frères. Ils étaient là environ cent vingt.
-  '16':
+        text: l’Evangile selon Luc.
+    marker-yv: yv-n
+  - type: text
+    text: ', j’ai exposé tout ce que Jésus a commencé de faire et d’enseigner '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: jusqu’au jour où il fut enlevé au ciel après avoir donné, par le Saint-Esprit
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '16'
-    - type: text
-      text: '– Mes frères, dit-il, il fallait que les prophéties de l’Ecriture s’accomplissent : car le Saint-Esprit, par l’intermédiaire de David, a parlé à l’avance de Judas, qui a servi de guide à ceux qui ont arrêté Jésus. '
-  '17':
+        text: '1.2 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Autres traductions : '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: 'à ceux qu’il avait choisis comme apôtres par le Saint-Esprit, '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'ou : '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: il fut enlevé au ciel par le Saint-Esprit.
+    marker-yv: yv-n
+  - type: text
+    text: ', ses instructions à ceux qu’il s’était choisis comme apôtres.'
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: Après sa mort, il se présenta à eux vivant et leur donna des preuves nombreuses de sa résurrection. Il leur apparut pendant quarante jours et leur parla du royaume de Dieu.
+- type: usfm
+  marker: ms1
+  children:
+  - type: text
+    text: Dans l’attente de l’Esprit
+  marker-yv: yv-h
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: La promesse de l’Esprit
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: Or, un jour qu’il prenait un repas avec eux
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '17'
-    - type: text
-      text: 'Cet homme était l’un des nôtres et il a eu sa part dans le service qui nous avait été confié. '
-  '18':
+        text: '1.4 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Autre traduction : '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: un jour qu’il était avec eux.
+    marker-yv: yv-n
+  - type: text
+    text: ', il leur recommanda de ne pas quitter Jérusalem, mais d’y attendre que son Père leur accorde le don qu’il leur avait promis.'
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: wj
+    children:
+    - type: text
+      text: – C’est le don que je vous ai annoncé,
+  - type: text
+    text: ' leur dit-il. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: Car Jean a baptisé dans l’eau, mais vous, c’est dans le Saint-Esprit que vous serez baptisés dans peu de jours.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'Comme ils étaient réunis autour de lui, ils lui demandèrent : Seigneur, est-ce à ce moment-là que tu rendras le royaume à Israël'
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '18'
-    - type: text
-      text: 'Avec l’argent qu’il a reçu en paiement de son crime, il a acheté un champ ; il y est tombé la tête la première, il s’est éventré, et ses intestins se sont répandus sur le sol. '
-  '19':
+        text: '1.6 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Autre traduction : '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: tu rétabliras le royaume au profit d’Israël ?
+    marker-yv: yv-n
+  - type: text
+    text: '  ?'
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'Il leur répondit : '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: Il ne vous appartient pas de connaître les temps et les moments que le Père a fixés de sa propre autorité.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'Mais le Saint-Esprit descendra sur vous : vous recevrez sa puissance et vous serez mes témoins à Jérusalem, dans toute la '
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: Judée
+    - type: text
+      text: ' et la Samarie, et jusqu’au bout du monde'
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '19'
-    - type: text
-      text: 'Tous les habitants de Jérusalem l’ont appris : c’est pourquoi ils ont appelé ce champ : '
+        text: '1.8 '
     - type: usfm
-      marker: qt
+      marker: ft
       children:
       - type: text
-        text: Akeldama
-    - type: text
-      text: ', ce qui, dans leur langue, signifie : « le champ du sang ».'
-  '2':
+        text: 'Luc annonce ici le plan de son livre : témoins à Jérusalem (chap. 1 à 7), en Judée et dans la Samarie (chap. 8 à 9) puis jusqu’au bout du monde (chap. 10 à 28).'
+    marker-yv: yv-n
   - type: usfm
-    marker: p
+    marker: wj
+    children:
+    - type: text
+      text: .
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Le retour à Jérusalem
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'Après ces mots, ils le virent s’élever dans les airs et un nuage le cacha à leur vue. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'Ils gardaient encore les yeux fixés au ciel pendant qu’il s’éloignait, quand deux hommes vêtus de blanc se présentèrent devant eux et leur dirent : '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: Hommes de Galilée, pourquoi restez-vous ainsi à regarder le ciel ? Ce Jésus qui a été enlevé au ciel du milieu de vous, en redescendra un jour de la même manière que vous l’avez vu y monter.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: Alors les apôtres quittèrent la colline qu’on appelle mont des Oliviers, située à environ un kilomètre
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: jusqu’au jour où il fut enlevé au ciel après avoir donné, par le Saint-Esprit
+        text: '1.12 '
     - type: usfm
-      marker: f
+      marker: ft
       children:
+      - type: text
+        text: C’était la distance de marche autorisée le jour du sabbat par la tradition rabbinique.
+    marker-yv: yv-n
+  - type: text
+    text: ' de Jérusalem, et rentrèrent en ville. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: Dès leur arrivée, ils montèrent à l’étage supérieur de la maison où ils se tenaient d’habitude
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1.13 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: Les apôtres se tenaient dans une pièce aménagée sur le toit en terrasse, comme il y en avait souvent dans les maisons israélites.
+    marker-yv: yv-n
+  - type: text
+    text: . C’étaient Pierre, Jean, Jacques et André, Philippe et Thomas, Barthélemy et Matthieu, Jacques, fils d’Alphée, Simon le Zélé
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1.13 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Voir note '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '1.2 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Autres traductions : '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'à ceux qu’il avait choisis comme apôtres par le Saint-Esprit, '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'ou : '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: il fut enlevé au ciel par le Saint-Esprit.
-      marker-yv: yv-n
-    - type: text
-      text: ', ses instructions à ceux qu’il s’était choisis comme apôtres.'
-  '20':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '20'
-    - type: text
-      text: 'Or, il est écrit dans le livre des Psaumes :'
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: Que sa maison reste vide
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: et qu’elle soit privée d’habitants
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1.20 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ps 69.26
-        - type: text
-          text: ' .'
-      marker-yv: yv-n
-    - type: usfm
-      marker: qt
-      children:
+          text: Mt 10.4
+        metadata:
+          usfm: MAT.10.4
       - type: text
         text: .
+    marker-yv: yv-n
+  - type: text
+    text: ', et Jude, fils de Jacques. '
   - type: usfm
-    marker: m
+    marker: vlbl
     children:
     - type: text
-      text: 'Et plus loin :'
+      text: '14'
+  - type: text
+    text: Eux tous, d’un commun accord, se retrouvaient souvent pour prier, avec quelques femmes, avec Marie la mère de Jésus, et avec les frères de Jésus.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Le choix d’un douzième apôtre
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: Un de ces jours-là, Pierre se leva au milieu des frères. Ils étaient là environ cent vingt.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: '– Mes frères, dit-il, il fallait que les prophéties de l’Ecriture s’accomplissent : car le Saint-Esprit, par l’intermédiaire de David, a parlé à l’avance de Judas, qui a servi de guide à ceux qui ont arrêté Jésus. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'Cet homme était l’un des nôtres et il a eu sa part dans le service qui nous avait été confié. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: 'Avec l’argent qu’il a reçu en paiement de son crime, il a acheté un champ ; il y est tombé la tête la première, il s’est éventré, et ses intestins se sont répandus sur le sol. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: 'Tous les habitants de Jérusalem l’ont appris : c’est pourquoi ils ont appelé ce champ : '
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: Akeldama
+  - type: text
+    text: ', ce qui, dans leur langue, signifie : « le champ du sang ».'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: text
+    text: 'Or, il est écrit dans le livre des Psaumes :'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: Que sa maison reste vide
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: et qu’elle soit privée d’habitants
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: qt
+      marker: fr
       children:
       - type: text
-        text: Qu’un autre prenne sa charge
-    - type: text
-      text: ' '
+        text: '1.20 '
     - type: usfm
-      marker: f
+      marker: ft
       children:
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '1.20 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ps 109.8
-        - type: text
-          text: ' .'
-      marker-yv: yv-n
+          text: Ps 69.26
+        metadata:
+          usfm: PSA.69.26
+      - type: text
+        text: ' .'
+    marker-yv: yv-n
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: .
+- type: usfm
+  marker: m
+  children:
+  - type: text
+    text: 'Et plus loin :'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: Qu’un autre prenne sa charge
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: f
+    children:
     - type: usfm
-      marker: qt
+      marker: fr
       children:
       - type: text
-        text: '!'
-  '21':
-  - type: usfm
-    marker: p
-    children:
+        text: '1.20 '
     - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '21'
-    - type: text
-      text: 'Nous devons donc choisir l’un de ceux qui nous ont accompagnés durant tout le temps où le Seigneur Jésus sillonnait le pays avec nous, '
-  '22':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '22'
-    - type: text
-      text: depuis le moment où Jean l’a baptisé jusqu’au jour où il a été enlevé du milieu de nous. Cet homme sera ainsi, avec nous, un témoin de sa résurrection.
-  '23':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '23'
-    - type: text
-      text: 'On présenta deux hommes : Joseph, appelé Barsabbas, surnommé le Juste, et Matthias. '
-  '24':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '24'
-    - type: text
-      text: 'Et l’on fit alors cette prière :'
-  - type: usfm
-    marker: p
-    children:
-    - type: text
-      text: 'Toi, Seigneur, tu connais le cœur de tous les hommes. Désigne toi-même celui de ces deux frères que tu as choisi '
-  '25':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '25'
-    - type: text
-      text: pour occuper, dans cette charge d’apôtre, la place que Judas a désertée afin d’aller à celle qui lui revenait.
-  '26':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '26'
-    - type: text
-      text: Puis ils tirèrent au sort. Matthias fut désigné. C’est lui qui fut adjoint aux onze apôtres.
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: Après sa mort, il se présenta à eux vivant et leur donna des preuves nombreuses de sa résurrection. Il leur apparut pendant quarante jours et leur parla du royaume de Dieu.
-  - type: usfm
-    marker: ms1
-    children:
-    - type: text
-      text: Dans l’attente de l’Esprit
-    marker-yv: yv-h
-  - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: La promesse de l’Esprit
-    marker-yv: yv-h
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: Or, un jour qu’il prenait un repas avec eux
-    - type: usfm
-      marker: f
+      marker: ft
       children:
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '1.4 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Autre traduction : '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: un jour qu’il était avec eux.
-      marker-yv: yv-n
-    - type: text
-      text: ', il leur recommanda de ne pas quitter Jérusalem, mais d’y attendre que son Père leur accorde le don qu’il leur avait promis.'
+          text: Ps 109.8
+        metadata:
+          usfm: PSA.109.8
+      - type: text
+        text: ' .'
+    marker-yv: yv-n
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: – C’est le don que je vous ai annoncé,
-    - type: text
-      text: ' leur dit-il. '
-  '5':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Car Jean a baptisé dans l’eau, mais vous, c’est dans le Saint-Esprit que vous serez baptisés dans peu de jours.
-  '6':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'Comme ils étaient réunis autour de lui, ils lui demandèrent : Seigneur, est-ce à ce moment-là que tu rendras le royaume à Israël'
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1.6 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Autre traduction : '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: tu rétabliras le royaume au profit d’Israël ?
-      marker-yv: yv-n
-    - type: text
-      text: '  ?'
-  '7':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: 'Il leur répondit : '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Il ne vous appartient pas de connaître les temps et les moments que le Père a fixés de sa propre autorité.
-    - type: text
-      text: ' '
-  '8':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'Mais le Saint-Esprit descendra sur vous : vous recevrez sa puissance et vous serez mes témoins à Jérusalem, dans toute la '
-      - type: usfm
-        marker: w
-        children:
-        - type: text
-          text: Judée
-      - type: text
-        text: ' et la Samarie, et jusqu’au bout du monde'
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1.8 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Luc annonce ici le plan de son livre : témoins à Jérusalem (chap. 1 à 7), en Judée et dans la Samarie (chap. 8 à 9) puis jusqu’au bout du monde (chap. 10 à 28).'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: .
-  - type: usfm
-    marker: s1
+    marker: qt
     children:
     - type: text
-      text: Le retour à Jérusalem
-    marker-yv: yv-h
-  '9':
+      text: '!'
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
     - type: text
-      text: 'Après ces mots, ils le virent s’élever dans les airs et un nuage le cacha à leur vue. '
+      text: '21'
+  - type: text
+    text: 'Nous devons donc choisir l’un de ceux qui nous ont accompagnés durant tout le temps où le Seigneur Jésus sillonnait le pays avec nous, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: depuis le moment où Jean l’a baptisé jusqu’au jour où il a été enlevé du milieu de nous. Cet homme sera ainsi, avec nous, un témoin de sa résurrection.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: text
+    text: 'On présenta deux hommes : Joseph, appelé Barsabbas, surnommé le Juste, et Matthias. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '24'
+  - type: text
+    text: 'Et l’on fit alors cette prière :'
+- type: usfm
+  marker: p
+  children:
+  - type: text
+    text: 'Toi, Seigneur, tu connais le cœur de tous les hommes. Désigne toi-même celui de ces deux frères que tu as choisi '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '25'
+  - type: text
+    text: pour occuper, dans cette charge d’apôtre, la place que Judas a désertée afin d’aller à celle qui lui revenait.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '26'
+  - type: text
+    text: Puis ils tirèrent au sort. Matthias fut désigné. C’est lui qui fut adjoint aux onze apôtres.

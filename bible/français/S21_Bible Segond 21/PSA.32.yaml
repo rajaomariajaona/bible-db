@@ -1,244 +1,235 @@
-document_id: PSA.32,152
+document_id: PSA.32
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Le bonheur du pécheur pardonné
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Le bonheur du pécheur pardonné
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: De David, cantique.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: '*Heureux celui dont la transgression est enlevée'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et dont le péché est pardonné!
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: d
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: Heureux l'homme à qui l'Eternel ne tient pas compte de sa faute
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: De David, cantique.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: '*Heureux celui dont la transgression est enlevée'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et dont le péché est pardonné!
-  '10':
-  - type: usfm
-    marker: q1
-    children:
+        text: '32.1-2 '
     - type: usfm
-      marker: vlbl
+      marker: fq
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: Beaucoup de douleurs sont le lot du méchant,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: mais celui qui se confie en l'Eternel est environné de sa grâce.
-  '11':
-  - type: usfm
-    marker: q1
-    children:
+        text: 'Heureux… sa faute: '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '11'
-    - type: text
-      text: Justes, réjouissez-vous en l'Eternel et soyez dans l'allégresse!
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Poussez des cris de joie, vous tous qui avez le cœur droit!
-  '2':
-  - type: usfm
-    marker: q1
-    children:
+        text: 'cité en '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: Heureux l'homme à qui l'Eternel ne tient pas compte de sa faute
+        text: Romains 4.7-8
+      metadata:
+        usfm: ROM.4.7+ROM.4.8
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '32.1-2 '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'Heureux… sa faute: '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'cité en '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Romains 4.7-8
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ' dans l''argumentation de Paul en faveur de la justification sans les œuvres.'
-      marker-yv: yv-n
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et dont l'esprit ne connaît pas la ruse!
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: Tant que je me taisais, mon corps dépérissait;
+        text: ' dans l''argumentation de Paul en faveur de la justification sans les œuvres.'
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et dont l'esprit ne connaît pas la ruse!
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: je gémissais toute la journée,
-  '4':
+      text: '3'
+  - type: text
+    text: Tant que je me taisais, mon corps dépérissait;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: je gémissais toute la journée,
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: car nuit et jour ta main pesait lourdement sur moi.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'Ma vigueur avait fait place à la sécheresse de l''été. '
-    - type: usfm
-      marker: qs
-      children:
-      - type: text
-        text: – Pause.
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: Je t'ai fait connaître mon péché, je n'ai pas caché ma faute.
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: 'J''ai dit: «J''avouerai mes transgressions à l''Eternel»,'
+      text: '4'
+  - type: text
+    text: car nuit et jour ta main pesait lourdement sur moi.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Ma vigueur avait fait place à la sécheresse de l''été. '
   - type: usfm
-    marker: q1
+    marker: qs
     children:
     - type: text
-      text: 'et tu as pardonné mon péché. '
-    - type: usfm
-      marker: qs
-      children:
-      - type: text
-        text: – Pause.
-  '6':
+      text: – Pause.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: C'est ainsi que tout fidèle peut te prier au moment convenable.
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Si de grandes eaux débordent, elles ne l'atteindront pas.
-  '7':
+      text: '5'
+  - type: text
+    text: Je t'ai fait connaître mon péché, je n'ai pas caché ma faute.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'J''ai dit: «J''avouerai mes transgressions à l''Eternel»,'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'et tu as pardonné mon péché. '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: Tu es un abri pour moi, tu me préserves de la détresse,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'tu m''entoures de chants de délivrance. '
-    - type: usfm
-      marker: qs
-      children:
-      - type: text
-        text: – Pause.
-  '8':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: Je t'instruirai et te montrerai la voie que tu dois suivre;
-  - type: usfm
-    marker: q1
+    marker: qs
     children:
     - type: text
-      text: je te conseillerai, j'aurai le regard sur toi.
-  '9':
+      text: – Pause.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: 'Ne soyez pas comme un cheval ou un mulet sans intelligence:'
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: on les freine avec un mors et une bride, dont on les orne,
+      text: '6'
+  - type: text
+    text: C'est ainsi que tout fidèle peut te prier au moment convenable.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Si de grandes eaux débordent, elles ne l'atteindront pas.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: afin qu'ils ne te bousculent pas.
+      text: '7'
+  - type: text
+    text: Tu es un abri pour moi, tu me préserves de la détresse,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'tu m''entoures de chants de délivrance. '
+  - type: usfm
+    marker: qs
+    children:
+    - type: text
+      text: – Pause.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: Je t'instruirai et te montrerai la voie que tu dois suivre;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: je te conseillerai, j'aurai le regard sur toi.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'Ne soyez pas comme un cheval ou un mulet sans intelligence:'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: on les freine avec un mors et une bride, dont on les orne,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: afin qu'ils ne te bousculent pas.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: Beaucoup de douleurs sont le lot du méchant,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: mais celui qui se confie en l'Eternel est environné de sa grâce.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: Justes, réjouissez-vous en l'Eternel et soyez dans l'allégresse!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Poussez des cris de joie, vous tous qui avez le cœur droit!

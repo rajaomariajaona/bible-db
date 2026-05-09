@@ -1,1988 +1,2131 @@
-document_id: PRO.14,59
+document_id: PRO.14
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '1'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '1'
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 9:1
+      metadata:
+        usfm: PRO.9.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 24:3
+      metadata:
+        usfm: PRO.24.3
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 9:1
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 24:3
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'The wisest of women '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 25:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ruth 4:11
-      marker-yv: yv-n
-    - type: text
-      text: builds her house,
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'The wisest of women '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'but folly with her own hands '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 11:11
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: tears it down.
-  '10':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
+        text: Deut. 25:9
+      metadata:
+        usfm: DEU.25.9
     - type: text
-      text: 'The heart knows its own '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Sam. 1:10
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']; See Job 3:20'
-      marker-yv: yv-n
-    - type: text
-      text: bitterness,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and no stranger shares its joy.
-  '11':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
+        text: Ruth 4:11
+      metadata:
+        usfm: RUT.4.11
+    marker-yv: yv-n
+  - type: text
+    text: builds her house,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'but folly with her own hands '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 11:11
+      metadata:
+        usfm: PRO.11.11
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: tears it down.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'Whoever '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:1
+      metadata:
+        usfm: PRO.19.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 28:6
+      metadata:
+        usfm: PRO.28.6
+    marker-yv: yv-n
+  - type: text
+    text: 'walks in uprightness fears the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ','
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'but he who is '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:15
+      metadata:
+        usfm: PRO.2.15
+    marker-yv: yv-n
+  - type: text
+    text: devious in his ways despises him.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'By the mouth of a fool comes '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 18:18
+      metadata:
+        usfm: JER.18.18
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: a rod for his back,
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '14:3 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: In the mouth of a fool is a rod of pride
+    marker-yv: yv-n
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 12:6
+      metadata:
+        usfm: PRO.12.6
+    marker-yv: yv-n
+  - type: text
+    text: but the lips of the wise will preserve them.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: Where there are no oxen, the manger is clean,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: but abundant crops come by the strength of the ox.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 3:33
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 15:25
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 8:15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 21:28
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: The house of the wicked will be destroyed,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: but the tent of the upright will flourish.
-  '12':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '12'
+        text: Ex. 23:1
+      metadata:
+        usfm: EXO.23.1
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 16:25
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 12:15
-      marker-yv: yv-n
-    - type: text
-      text: There is a way that seems right to a man,
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: A faithful witness does not lie,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'but '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'but '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 5:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 6:21
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: text
-        text: 7:27
-      marker-yv: yv-n
-    - type: text
-      text: its end is the way to death.
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '14:12 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Hebrew '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: ways of death
-      marker-yv: yv-n
-  '13':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '13'
-    - type: text
-      text: Even in laughter the heart may ache,
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 6:19
+      metadata:
+        usfm: PRO.6.19
+    marker-yv: yv-n
+  - type: text
+    text: a false witness breathes out lies.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eccles. 2:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 6:25
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'the end of joy may be '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 10:1
-      marker-yv: yv-n
-    - type: text
-      text: grief.
-  '14':
+      text: '6'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '14'
-    - type: text
-      text: 'The backslider in heart will be '
+        text: '[ch. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1:31
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 6:2
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '5'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: filled with the fruit of his ways,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 12:14
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 3:10
-      marker-yv: yv-n
-    - type: text
-      text: a good man will be filled with the fruit of his ways.
-  '15':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '15'
+        text: 24:7
+      metadata:
+        usfm: PRO.24.7
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1:4
-      marker-yv: yv-n
-    - type: text
-      text: The simple believes everything,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: but the prudent gives thought to his steps.
-  '16':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '16'
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'A scoffer seeks wisdom '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 25:9
+      metadata:
+        usfm: PSA.25.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pet. 5:5
+      metadata:
+        usfm: 1PE.5.5
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: in vain,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'but '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 8:9
+      metadata:
+        usfm: PRO.8.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 15:14
+      metadata:
+        usfm: PRO.15.14
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 17:24
+      metadata:
+        usfm: PRO.17.24
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: knowledge is easy for a man of understanding.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: Leave the presence of a fool,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: for there you do not meet words of knowledge.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: The wisdom of the prudent is to discern his way,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: but the folly of fools is deceiving.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 10:23
+      metadata:
+        usfm: PRO.10.23
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 22:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 27:12
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: One who is wise is cautious
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '14:16 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'fears [the '
-        - type: usfm
-          marker: nd
-          children:
-          - type: text
-            text: Lord
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: ' and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 3:7
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']; See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 28:28
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 34:14
-      marker-yv: yv-n
-    - type: text
-      text: turns away from evil,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: but a fool is reckless and careless.
-  '17':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '17'
-    - type: text
-      text: 'A man of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '29'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: quick temper acts foolishly,
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Fools mock at the guilt offering,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: but the upright enjoy acceptance.
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and a man of evil devices is hated.
-  '18':
-  - type: usfm
-    marker: q1
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '18'
-    - type: text
-      text: The simple inherit folly,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: but the prudent are crowned with knowledge.
-  '19':
-  - type: usfm
-    marker: q1
-    children:
+        text: '14:9 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '19'
+        text: 'Hebrew '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: but among the upright is acceptance
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'The heart knows its own '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Sam. 1:10
+      metadata:
+        usfm: 1SA.1.10
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']; See Job 3:20'
+    marker-yv: yv-n
+  - type: text
+    text: bitterness,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and no stranger shares its joy.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 3:33
+      metadata:
+        usfm: PRO.3.33
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 15:25
+      metadata:
+        usfm: PRO.15.25
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 8:15
+      metadata:
+        usfm: JOB.8.15
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 21:28
+      metadata:
+        usfm: JOB.21.28
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
       - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 42:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Sam. 2:36
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: The evil bow down before the good,
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: The house of the wicked will be destroyed,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: but the tent of the upright will flourish.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: the wicked at the gates of the righteous.
-  '2':
+      text: '12'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: 'Whoever '
+        text: 'ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:1
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 28:6
-      marker-yv: yv-n
+        text: 16:25
+      metadata:
+        usfm: PRO.16.25
     - type: text
-      text: 'walks in uprightness fears the '
+      text: '; '
     - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ','
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 12:15
+      metadata:
+        usfm: PRO.12.15
+    marker-yv: yv-n
+  - type: text
+    text: There is a way that seems right to a man,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'but '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'but he who is '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:15
-      marker-yv: yv-n
-    - type: text
-      text: devious in his ways despises him.
-  '20':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '20'
-    - type: text
-      text: ' '
+        text: '[ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:7
-      marker-yv: yv-n
+      - type: text
+        text: 5:5
+      metadata:
+        usfm: PRO.5.5
     - type: text
-      text: The poor is disliked even by his neighbor,
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 6:21
+      metadata:
+        usfm: ROM.6.21
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: text
+      text: 7:27
+    marker-yv: yv-n
+  - type: text
+    text: its end is the way to death.
   - type: usfm
-    marker: q2
+    marker: f
     children:
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:4
-      marker-yv: yv-n
-    - type: text
-      text: but the rich has many friends.
-  '21':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '21'
-    - type: text
-      text: 'Whoever '
+        text: '14:12 '
     - type: usfm
-      marker: x
+      marker: ft
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 11:12
-      marker-yv: yv-n
-    - type: text
-      text: despises his neighbor is a sinner,
+      - type: text
+        text: 'Hebrew '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: ways of death
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'but '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 41:1
-      marker-yv: yv-n
-    - type: text
-      text: blessed is he who is generous to the poor.
-  '22':
+      text: '13'
+  - type: text
+    text: Even in laughter the heart may ache,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '22'
-    - type: text
-      text: 'Do they not go astray who '
+        text: '['
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 3:29
-      marker-yv: yv-n
+      - type: text
+        text: Eccles. 2:2
+      metadata:
+        usfm: ECC.2.2
     - type: text
-      text: devise evil?
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 6:25
+      metadata:
+        usfm: LUK.6.25
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'the end of joy may be '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: Those who devise good meet
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '14:22 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: show
-      marker-yv: yv-n
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 3:3
-      marker-yv: yv-n
-    - type: text
-      text: steadfast love and faithfulness.
-  '23':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '23'
-    - type: text
-      text: In all toil there is profit,
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 10:1
+      metadata:
+        usfm: PRO.10.1
+    marker-yv: yv-n
+  - type: text
+    text: grief.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'but mere talk '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 11:24
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 21:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 22:16
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: tends only to poverty.
-  '24':
+      text: '14'
+  - type: text
+    text: 'The backslider in heart will be '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '24'
-    - type: text
-      text: The crown of the wise is their wealth,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: but the folly of fools brings folly.
-  '25':
-  - type: usfm
-    marker: q1
-    children:
+        text: '[ch. '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '25'
+        text: 1:31
+      metadata:
+        usfm: PRO.1.31
     - type: text
-      text: A truthful witness saves lives,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'but one who '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '5'
-      marker-yv: yv-n
-    - type: text
-      text: breathes out lies is deceitful.
-  '26':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '26'
+        text: Matt. 6:2
+      metadata:
+        usfm: MAT.6.2
     - type: text
-      text: 'In the fear of the '
+      text: ', '
     - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' one has '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1:33
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: strong confidence,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 73:15
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'his children will have '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 14:6
-      marker-yv: yv-n
-    - type: text
-      text: a refuge.
-  '27':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '27'
-    - type: text
-      text: 'The fear of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' is '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 10:11
-      marker-yv: yv-n
-    - type: text
-      text: a fountain of life,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'that one may '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 13:14
-      marker-yv: yv-n
-    - type: text
-      text: turn away from the snares of death.
-  '28':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '28'
-    - type: text
-      text: 'In '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Kgs. 4:20
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: a multitude of people is the glory of a king,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: but without people a prince is ruined.
-  '29':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '29'
-    - type: text
-      text: 'Whoever is '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 16:32
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:11
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ver. 17; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eccles. 7:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: James 1:19
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: slow to anger has great understanding,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: but he who has a hasty temper exalts folly.
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'By the mouth of a fool comes '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 18:18
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: a rod for his back,
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '14:3 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: In the mouth of a fool is a rod of pride
-      marker-yv: yv-n
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 12:6
-      marker-yv: yv-n
-    - type: text
-      text: but the lips of the wise will preserve them.
-  '30':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '30'
-    - type: text
-      text: A tranquil
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '14:30 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: healing
-      marker-yv: yv-n
-    - type: text
-      text: ' heart gives '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:22
-      marker-yv: yv-n
-    - type: text
-      text: life to the flesh,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'but '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 112:10
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: envy
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '14:30 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: jealousy
-      marker-yv: yv-n
-    - type: text
-      text: ' makes '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 12:4
-      marker-yv: yv-n
-    - type: text
-      text: the bones rot.
-  '31':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '31'
-    - type: text
-      text: 'Whoever oppresses a poor man '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 17:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 25:40
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '45'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'insults his '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 22:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 35:10
-      marker-yv: yv-n
-    - type: text
-      text: Maker,
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 28:8
-      marker-yv: yv-n
-    - type: text
-      text: but he who is generous to the needy honors him.
-  '32':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '32'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 24:16
-      marker-yv: yv-n
-    - type: text
-      text: The wicked is overthrown through his evildoing,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'but '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 49:18
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 16:11
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 17:15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 23:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Cor. 1:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 5:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Tim. 4:18
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Num. 23:10
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']; See Job 19:25-27'
-      marker-yv: yv-n
-    - type: text
-      text: the righteous finds refuge in his death.
-  '33':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '33'
-    - type: text
-      text: 'Wisdom '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eccles. 7:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 12:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 29:11
-      marker-yv: yv-n
-    - type: text
-      text: rests in the heart of a man of understanding,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: but it makes itself known even in the midst of fools.
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '14:33 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: Wisdom rests quietly in the heart of a man of understanding, but makes itself known in the midst of fools
-      marker-yv: yv-n
-  '34':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '34'
-    - type: text
-      text: Righteousness exalts a nation,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: but sin is a reproach to any people.
-  '35':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '35'
-    - type: text
-      text: 'A servant who deals wisely has '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 16:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 22:11
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']; See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 24:45-47
-      marker-yv: yv-n
-    - type: text
-      text: the king’s favor,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: but his wrath falls on one who acts shamefully.
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: Where there are no oxen, the manger is clean,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: but abundant crops come by the strength of the ox.
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '5'
+      metadata:
+        usfm: MAT.6.5
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: filled with the fruit of his ways,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 12:14
+      metadata:
+        usfm: PRO.12.14
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 3:10
+      metadata:
+        usfm: ISA.3.10
+    marker-yv: yv-n
+  - type: text
+    text: a good man will be filled with the fruit of his ways.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1:4
+      metadata:
+        usfm: PRO.1.4
+    marker-yv: yv-n
+  - type: text
+    text: The simple believes everything,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: but the prudent gives thought to his steps.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 22:3
+      metadata:
+        usfm: PRO.22.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 27:12
+      metadata:
+        usfm: PRO.27.12
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
       - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 23:1
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: A faithful witness does not lie,
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: One who is wise is cautious
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'but '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 6:19
-      marker-yv: yv-n
-    - type: text
-      text: a false witness breathes out lies.
-  '6':
-  - type: usfm
-    marker: q1
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '6'
+        text: '14:16 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: 'fears [the '
+      - type: usfm
+        marker: nd
+        children:
+        - type: text
+          text: Lord
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: ' and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 3:7
+      metadata:
+        usfm: PRO.3.7
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']; See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 28:28
+      metadata:
+        usfm: JOB.28.28
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 34:14
+      metadata:
+        usfm: PSA.34.14
+    marker-yv: yv-n
+  - type: text
+    text: turns away from evil,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: but a fool is reckless and careless.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'A man of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '29'
+      metadata:
+        usfm: PRO.14.29
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: quick temper acts foolishly,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and a man of evil devices is hated.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: The simple inherit folly,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: but the prudent are crowned with knowledge.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 24:7
       - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: Gen. 42:6
+      metadata:
+        usfm: GEN.42.6
     - type: text
-      text: 'A scoffer seeks wisdom '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 25:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 5:5
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: in vain,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'but '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 8:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 15:14
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 17:24
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: knowledge is easy for a man of understanding.
-  '7':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '7'
-    - type: text
-      text: Leave the presence of a fool,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: for there you do not meet words of knowledge.
-  '8':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: The wisdom of the prudent is to discern his way,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: but the folly of fools is deceiving.
-  '9':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
+        text: 1 Sam. 2:36
+      metadata:
+        usfm: 1SA.2.36
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 10:23
       - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: Fools mock at the guilt offering,
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: The evil bow down before the good,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: the wicked at the gates of the righteous.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: but the upright enjoy acceptance.
+      text: '20'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: f
+      marker: xta
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '14:9 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Hebrew '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: but among the upright is acceptance
-      marker-yv: yv-n
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:7
+      metadata:
+        usfm: PRO.19.7
+    marker-yv: yv-n
+  - type: text
+    text: The poor is disliked even by his neighbor,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:4
+      metadata:
+        usfm: PRO.19.4
+    marker-yv: yv-n
+  - type: text
+    text: but the rich has many friends.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: text
+    text: 'Whoever '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 11:12
+      metadata:
+        usfm: PRO.11.12
+    marker-yv: yv-n
+  - type: text
+    text: despises his neighbor is a sinner,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'but '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 41:1
+      metadata:
+        usfm: PSA.41.1
+    marker-yv: yv-n
+  - type: text
+    text: blessed is he who is generous to the poor.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: 'Do they not go astray who '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 3:29
+      metadata:
+        usfm: PRO.3.29
+    marker-yv: yv-n
+  - type: text
+    text: devise evil?
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: Those who devise good meet
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '14:22 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: show
+    marker-yv: yv-n
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 3:3
+      metadata:
+        usfm: PRO.3.3
+    marker-yv: yv-n
+  - type: text
+    text: steadfast love and faithfulness.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: text
+    text: In all toil there is profit,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'but mere talk '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 11:24
+      metadata:
+        usfm: PRO.11.24
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 21:5
+      metadata:
+        usfm: PRO.21.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 22:16
+      metadata:
+        usfm: PRO.22.16
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: tends only to poverty.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '24'
+  - type: text
+    text: The crown of the wise is their wealth,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: but the folly of fools brings folly.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '25'
+  - type: text
+    text: A truthful witness saves lives,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'but one who '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '5'
+      metadata:
+        usfm: PRO.14.5
+    marker-yv: yv-n
+  - type: text
+    text: breathes out lies is deceitful.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '26'
+  - type: text
+    text: 'In the fear of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' one has '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1:33
+      metadata:
+        usfm: PRO.1.33
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: strong confidence,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 73:15
+      metadata:
+        usfm: PSA.73.15
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'his children will have '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 14:6
+      metadata:
+        usfm: PSA.14.6
+    marker-yv: yv-n
+  - type: text
+    text: a refuge.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '27'
+  - type: text
+    text: 'The fear of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' is '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 10:11
+      metadata:
+        usfm: PRO.10.11
+    marker-yv: yv-n
+  - type: text
+    text: a fountain of life,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'that one may '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 13:14
+      metadata:
+        usfm: PRO.13.14
+    marker-yv: yv-n
+  - type: text
+    text: turn away from the snares of death.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '28'
+  - type: text
+    text: 'In '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Kgs. 4:20
+      metadata:
+        usfm: 1KI.4.20
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: a multitude of people is the glory of a king,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: but without people a prince is ruined.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '29'
+  - type: text
+    text: 'Whoever is '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 16:32
+      metadata:
+        usfm: PRO.16.32
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:11
+      metadata:
+        usfm: PRO.19.11
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ver. 17; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eccles. 7:9
+      metadata:
+        usfm: ECC.7.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: James 1:19
+      metadata:
+        usfm: JAS.1.19
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: slow to anger has great understanding,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: but he who has a hasty temper exalts folly.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '30'
+  - type: text
+    text: A tranquil
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '14:30 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: healing
+    marker-yv: yv-n
+  - type: text
+    text: ' heart gives '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:22
+      metadata:
+        usfm: PRO.4.22
+    marker-yv: yv-n
+  - type: text
+    text: life to the flesh,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'but '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 112:10
+      metadata:
+        usfm: PSA.112.10
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: envy
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '14:30 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: jealousy
+    marker-yv: yv-n
+  - type: text
+    text: ' makes '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 12:4
+      metadata:
+        usfm: PRO.12.4
+    marker-yv: yv-n
+  - type: text
+    text: the bones rot.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '31'
+  - type: text
+    text: 'Whoever oppresses a poor man '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 17:5
+      metadata:
+        usfm: PRO.17.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 25:40
+      metadata:
+        usfm: MAT.25.40
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '45'
+      metadata:
+        usfm: MAT.25.45
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'insults his '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 22:2
+      metadata:
+        usfm: PRO.22.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 35:10
+      metadata:
+        usfm: JOB.35.10
+    marker-yv: yv-n
+  - type: text
+    text: Maker,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 28:8
+      metadata:
+        usfm: PRO.28.8
+    marker-yv: yv-n
+  - type: text
+    text: but he who is generous to the needy honors him.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '32'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 24:16
+      metadata:
+        usfm: PRO.24.16
+    marker-yv: yv-n
+  - type: text
+    text: The wicked is overthrown through his evildoing,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'but '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 49:18
+      metadata:
+        usfm: GEN.49.18
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 16:11
+      metadata:
+        usfm: PSA.16.11
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 17:15
+      metadata:
+        usfm: PSA.17.15
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 23:4
+      metadata:
+        usfm: PSA.23.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Cor. 1:9
+      metadata:
+        usfm: 2CO.1.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 5:8
+      metadata:
+        usfm: 2CO.5.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Tim. 4:18
+      metadata:
+        usfm: 2TI.4.18
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Num. 23:10
+      metadata:
+        usfm: NUM.23.10
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']; See Job 19:25-27'
+    marker-yv: yv-n
+  - type: text
+    text: the righteous finds refuge in his death.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '33'
+  - type: text
+    text: 'Wisdom '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eccles. 7:9
+      metadata:
+        usfm: ECC.7.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 12:16
+      metadata:
+        usfm: PRO.12.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 29:11
+      metadata:
+        usfm: PRO.29.11
+    marker-yv: yv-n
+  - type: text
+    text: rests in the heart of a man of understanding,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: but it makes itself known even in the midst of fools.
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '14:33 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: Wisdom rests quietly in the heart of a man of understanding, but makes itself known in the midst of fools
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '34'
+  - type: text
+    text: Righteousness exalts a nation,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: but sin is a reproach to any people.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '35'
+  - type: text
+    text: 'A servant who deals wisely has '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 16:13
+      metadata:
+        usfm: PRO.16.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 22:11
+      metadata:
+        usfm: PRO.22.11
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']; See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 24:45-47
+      metadata:
+        usfm: MAT.24.45+MAT.24.46+MAT.24.47
+    marker-yv: yv-n
+  - type: text
+    text: the king’s favor,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: but his wrath falls on one who acts shamefully.

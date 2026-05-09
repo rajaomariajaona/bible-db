@@ -1,239 +1,233 @@
-document_id: PSA.23,1588
+document_id: PSA.23
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: ms2
+  children:
+  - type: text
+    text: Psalm 23
+  marker-yv: yv-h
+- type: usfm
+  marker: s1
+  children:
   - type: usfm
-    marker: ms2
+    marker: it
     children:
-    - type: text
-      text: Psalm 23
-    marker-yv: yv-h
-  - type: usfm
-    marker: s1
-    children:
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: The L
-      - type: usfm
-        marker: sc
-        children:
-        - type: usfm
-          marker: it
-          children:
-          - type: text
-            text: ord
-      - type: text
-        text: ', the Psalmist’s Shepherd.'
-    marker-yv: yv-h
-  - type: usfm
-    marker: d
-    children:
-    - type: text
-      text: A Psalm of David.
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
     - type: text
       text: The L
     - type: usfm
       marker: sc
       children:
-      - type: text
-        text: ord
-    - type: text
-      text: ' is my Shepherd [to feed, to guide and to shield me], [Ezek 34:11-31]'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: I shall not want.
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: He lets me lie down in green pastures;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'He leads me beside the still '
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: and
-    - type: text
-      text: ' quiet waters. [Rev 7:17]'
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'He refreshes '
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: and
-    - type: text
-      text: ' restores my soul (life);'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: He leads me in the paths of righteousness
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: for His name’s sake.
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: '¶Even though I walk through the [sunless] '
-    - type: usfm
-      marker: f
-      children:
       - type: usfm
-        marker: fr
+        marker: it
         children:
         - type: text
-          text: '23:4 '
+          text: ord
+    - type: text
+      text: ', the Psalmist’s Shepherd.'
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: A Psalm of David.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '1'
+  - type: text
+    text: The L
+  - type: usfm
+    marker: sc
+    children:
+    - type: text
+      text: ord
+  - type: text
+    text: ' is my Shepherd [to feed, to guide and to shield me], [Ezek 34:11-31]'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: I shall not want.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: He lets me lie down in green pastures;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'He leads me beside the still '
+  - type: usfm
+    marker: it
+    children:
+    - type: text
+      text: and
+  - type: text
+    text: ' quiet waters. [Rev 7:17]'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'He refreshes '
+  - type: usfm
+    marker: it
+    children:
+    - type: text
+      text: and
+  - type: text
+    text: ' restores my soul (life);'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: He leads me in the paths of righteousness
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: for His name’s sake.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: '¶Even though I walk through the [sunless] '
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '23:4 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
       - type: usfm
-        marker: ft
+        marker: it
         children:
         - type: text
-          text: 'Or '
-        - type: usfm
-          marker: it
-          children:
-          - type: text
-            text: valley of deep darkness
-        - type: text
-          text: .
-      marker-yv: yv-n
-    - type: text
-      text: valley of the shadow of death,
+          text: valley of deep darkness
+      - type: text
+        text: .
+    marker-yv: yv-n
+  - type: text
+    text: valley of the shadow of death,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: I fear no evil, for You are with me;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Your rod [to protect] and Your staff [to guide], they comfort '
   - type: usfm
-    marker: q1
+    marker: it
     children:
     - type: text
-      text: I fear no evil, for You are with me;
+      text: and
+  - type: text
+    text: ' console me.'
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: 'Your rod [to protect] and Your staff [to guide], they comfort '
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: and
-    - type: text
-      text: ' console me.'
-  '5':
+      text: '5'
+  - type: text
+    text: You prepare a table before me in the presence of my enemies.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'You have anointed '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: You prepare a table before me in the presence of my enemies.
-  - type: usfm
-    marker: q1
+    marker: it
     children:
     - type: text
-      text: 'You have anointed '
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: and
-    - type: text
-      text: ' refreshed my head with '
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '23:5 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: In ancient times it was customary in hot climates for a host to provide his guest with olive oil to put on his head. The Lord blesses and anoints His believers with the Holy Spirit, whom oil symbolizes, to prepare them for His service.
-      marker-yv: yv-n
-    - type: text
-      text: oil;
+      text: and
+  - type: text
+    text: ' refreshed my head with '
   - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: My cup overflows.
-  '6':
-  - type: usfm
-    marker: q1
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '6'
-    - type: text
-      text: 'Surely goodness and mercy '
+        text: '23:5 '
     - type: usfm
-      marker: it
+      marker: ft
       children:
       - type: text
-        text: and
-    - type: text
-      text: ' unfailing love shall follow me all the days of my life,'
+        text: In ancient times it was customary in hot climates for a host to provide his guest with olive oil to put on his head. The Lord blesses and anoints His believers with the Holy Spirit, whom oil symbolizes, to prepare them for His service.
+    marker-yv: yv-n
+  - type: text
+    text: oil;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: My cup overflows.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: 'And I shall dwell forever [throughout all my days] in the house '
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: and
+      text: '6'
+  - type: text
+    text: 'Surely goodness and mercy '
+  - type: usfm
+    marker: it
+    children:
     - type: text
-      text: ' in the presence of the L'
-    - type: usfm
-      marker: sc
-      children:
-      - type: text
-        text: ord
+      text: and
+  - type: text
+    text: ' unfailing love shall follow me all the days of my life,'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'And I shall dwell forever [throughout all my days] in the house '
+  - type: usfm
+    marker: it
+    children:
     - type: text
-      text: .
+      text: and
+  - type: text
+    text: ' in the presence of the L'
+  - type: usfm
+    marker: sc
+    children:
+    - type: text
+      text: ord
+  - type: text
+    text: .

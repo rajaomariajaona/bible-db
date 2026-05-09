@@ -1,108 +1,109 @@
-document_id: PSA.134,21
+document_id: PSA.134
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Louez le Seigneur !
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Louez le Seigneur !
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: Cantique pour la route vers la demeure de l’Eternel
   - type: usfm
-    marker: d
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: Cantique pour la route vers la demeure de l’Eternel
+        text: '134.1 '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '134.1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Voir note '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: '120.1'
-        - type: text
-          text: . Dernier cantique pour la route vers la demeure de l’Eternel.
-      marker-yv: yv-n
-    - type: text
-      text: .
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Bénissez l’Eternel, ╵vous tous qui servez
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '134.1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Désigne ici les prêtres et les lévites affectés au service du Temple. D’après '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: 1 Ch 9.33
-        - type: text
-          text: ', ces derniers assuraient aussi un service de nuit au sanctuaire.'
-      marker-yv: yv-n
-    - type: text
-      text: ' l’Eternel,'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: oui, vous qui vous tenez ╵tout au long de la nuit ╵dans le temple de l’Eternel !
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: Levez vos mains ╵vers le lieu saint
+        text: 'Voir note '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '120.1'
+        metadata:
+          usfm: PSA.120.1
+      - type: text
+        text: . Dernier cantique pour la route vers la demeure de l’Eternel.
+    marker-yv: yv-n
+  - type: text
+    text: .
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Bénissez l’Eternel, ╵vous tous qui servez
   - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: pour bénir l’Eternel !
-  '3':
-  - type: usfm
-    marker: q1
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: Que de Sion ╵l’Eternel te bénisse,
+        text: '134.1 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Désigne ici les prêtres et les lévites affectés au service du Temple. D’après '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Ch 9.33
+        metadata:
+          usfm: 1CH.9.33
+      - type: text
+        text: ', ces derniers assuraient aussi un service de nuit au sanctuaire.'
+    marker-yv: yv-n
+  - type: text
+    text: ' l’Eternel,'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: oui, vous qui vous tenez ╵tout au long de la nuit ╵dans le temple de l’Eternel !
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: lui qui a fait le ciel ╵aussi bien que la terre.
+      text: '2'
+  - type: text
+    text: Levez vos mains ╵vers le lieu saint
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: pour bénir l’Eternel !
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: Que de Sion ╵l’Eternel te bénisse,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: lui qui a fait le ciel ╵aussi bien que la terre.

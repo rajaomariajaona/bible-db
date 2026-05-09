@@ -1,511 +1,438 @@
-document_id: GEN.9,93
+document_id: GEN.9
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Noé et ses fils
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 1-7: cf. Ge 1:26-29. (Ex 21:12-14, 20. No 35:18-21, 31-33.)'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Noé et ses fils
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Dieu bénit Noé et ses fils, et leur dit: '
   - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 1-7: cf. Ge 1:26-29. (Ex 21:12-14, 20. No 35:18-21, 31-33.)'
-    marker-yv: yv-h
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Ge 1:28
+      metadata:
+        usfm: GEN.1.28
     - type: text
-      text: 'Dieu bénit Noé et ses fils, et leur dit: '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ge 1:28
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 8:17
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Soyez féconds, multipliez, et remplissez la terre. '
-  '10':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
+        text: 8:17
+      metadata:
+        usfm: GEN.8.17
     - type: text
-      text: 'avec tous les êtres vivants qui sont avec vous, tant les oiseaux que le bétail et tous les animaux de la terre, soit avec tous ceux qui sont sortis de l’arche, soit avec tous les animaux de la terre. '
-  '11':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Soyez féconds, multipliez, et remplissez la terre. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'Vous serez un sujet de crainte et d’effroi pour tout animal de la terre, pour tout oiseau du ciel, pour tout ce qui se meut sur la terre, et pour tous les poissons de la mer: ils sont livrés entre vos mains. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'Tout ce qui se meut et qui a vie vous servira de nourriture: je vous donne tout cela comme '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
+        text: Ge 1:29
+      metadata:
+        usfm: GEN.1.29
     - type: text
-      text: 'J’établis mon alliance avec vous: aucune chair ne sera plus exterminée par les eaux du déluge, et il n’y aura plus de déluge pour détruire la terre. '
-  '12':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'l’herbe verte. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
+    - type: text
+      text: '4'
+  - type: usfm
+    marker: x
+    children:
+    - type: text
+      text: 'Lé 3:27; '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '12'
+        text: 7:26
+      metadata:
+        usfm: LEV.7.26
     - type: text
-      text: 'Et Dieu dit: C’est ici le signe de l’alliance que j’établis entre moi et vous, et tous les êtres vivants qui sont avec vous, pour les générations à toujours: '
-  '13':
-  - type: usfm
-    marker: p
-    children:
+      text: '; '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '13'
+        text: 17:14
+      metadata:
+        usfm: LEV.17.14
     - type: text
-      text: 'j’ai placé mon arc dans la nue, et il servira de signe d’alliance entre moi et la terre. '
-  '14':
-  - type: usfm
-    marker: p
-    children:
+      text: '; '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '14'
+        text: 19:26
+      metadata:
+        usfm: LEV.19.26
     - type: text
-      text: 'Quand j’aurai rassemblé des nuages au-dessus de la terre, l’arc paraîtra dans la nue; '
-  '15':
-  - type: usfm
-    marker: p
-    children:
+      text: '. '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '15'
+        text: De 12:23
+      metadata:
+        usfm: DEU.12.23
     - type: text
-      text: 'et je me souviendrai de mon alliance entre moi et vous, et tous les êtres vivants, de toute chair, et les eaux ne deviendront plus un déluge pour détruire toute chair. '
-  '16':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Seulement, vous ne mangerez point de chair avec son âme, avec son sang. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '16'
+        text: Ex 21:12
+      metadata:
+        usfm: EXO.21.12
     - type: text
-      text: 'L’arc sera dans la nue; et je le regarderai, pour me souvenir de l’alliance perpétuelle entre Dieu et tous les êtres vivants, de toute chair qui est sur la terre. '
-  '17':
-  - type: usfm
-    marker: p
-    children:
+      text: ', '
     - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: text
-      text: 'Et Dieu dit à Noé: Tel est le signe de l’alliance que j’établis entre moi et toute chair qui est sur la terre.'
-  - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 18-29: cf. (Pr 20:1. Ép 5:18.) (Ex 20:12. De 27:16.)'
-    marker-yv: yv-h
-  '18':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
-    - type: text
-      text: 'Les fils de Noé, qui sortirent de l’arche, étaient '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ge 6:10
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Sem, Cham et Japhet. Cham fut le père de Canaan. '
-  '19':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: text
-      text: 'Ce sont là les trois fils de Noé, et c’est leur postérité qui peupla toute la terre. '
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'Vous serez un sujet de crainte et d’effroi pour tout animal de la terre, pour tout oiseau du ciel, pour tout ce qui se meut sur la terre, et pour tous les poissons de la mer: ils sont livrés entre vos mains. '
-  '20':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '20'
-    - type: text
-      text: 'Noé commença à cultiver la terre, et planta de la vigne. '
-  '21':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '21'
-    - type: text
-      text: 'Il but du vin, s’enivra, et se découvrit au milieu de sa tente. '
-  '22':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '22'
-    - type: text
-      text: 'Cham, père de Canaan, vit la nudité de son père, et il le rapporta dehors à ses deux frères. '
-  '23':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '23'
-    - type: text
-      text: 'Alors Sem et Japhet prirent le manteau, le mirent sur leurs épaules, marchèrent à reculons, et couvrirent la nudité de leur père; comme leur visage était détourné, ils ne virent point la nudité de leur père. '
-  '24':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '24'
-    - type: text
-      text: 'Lorsque Noé se réveilla de son vin, il apprit ce que lui avait fait son fils cadet. '
-  '25':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '25'
-    - type: text
-      text: 'Et il dit: Maudit soit Canaan! Qu’il soit l’esclave des esclaves de ses frères! '
-  '26':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '26'
-    - type: text
-      text: 'Il dit encore: Béni soit l’Éternel, Dieu de Sem, et que Canaan soit leur esclave! '
-  '27':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '27'
-    - type: text
-      text: 'Que Dieu étende les possessions de Japhet, qu’il habite dans les tentes de Sem, et que Canaan soit leur esclave! '
-  '28':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '28'
+      metadata:
+        usfm: EXO.21.28
     - type: text
-      text: 'Noé vécut, après le déluge, trois cent cinquante ans. '
-  '29':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Sachez-le aussi, je redemanderai le sang de vos âmes, je le redemanderai à tout animal; et je redemanderai l’âme de l’homme à l’homme, à l’homme qui est son frère. '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '29'
-    - type: text
-      text: Tous les jours de Noé furent de neuf cent cinquante ans; puis il mourut.
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'Tout ce qui se meut et qui a vie vous servira de nourriture: je vous donne tout cela comme '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ge 1:29
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'l’herbe verte. '
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: usfm
-      marker: x
-      children:
-      - type: text
-        text: 'Lé 3:27; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 7:26
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 17:14
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:26
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: De 12:23
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Seulement, vous ne mangerez point de chair avec son âme, avec son sang. '
-  '5':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex 21:12
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '28'
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Sachez-le aussi, je redemanderai le sang de vos âmes, je le redemanderai à tout animal; et je redemanderai l’âme de l’homme à l’homme, à l’homme qui est son frère. '
-  '6':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: La 4:13
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mt 26:52
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ap 13:10
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Si quelqu’un verse le sang de l’homme, par l’homme son sang sera versé; car Dieu a fait l’homme '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ge 1:27
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'à son image. '
-  '7':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ge 1:28
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 8:17
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: Et vous, soyez féconds et multipliez, répandez-vous sur la terre et multipliez sur elle.
-  - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 8-17: cf. (Ge 8:20-22. És 54:9, 10. Jé 33:20.) 2 Pi 3:6, 7.'
-    marker-yv: yv-h
-  '8':
+      text: '6'
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '8'
+        text: La 4:13
+      metadata:
+        usfm: LAM.4.13
     - type: text
-      text: 'Dieu parla encore à Noé et à ses fils avec lui, en disant: '
-  '9':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mt 26:52
+      metadata:
+        usfm: MAT.26.52
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ap 13:10
+      metadata:
+        usfm: REV.13.10
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Si quelqu’un verse le sang de l’homme, par l’homme son sang sera versé; car Dieu a fait l’homme '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '9'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 54:9
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Ge 1:27
+      metadata:
+        usfm: GEN.1.27
     - type: text
-      text: 'Voici, j’établis mon alliance avec vous et avec votre postérité après vous; '
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'à son image. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ge 1:28
+      metadata:
+        usfm: GEN.1.28
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 8:17
+      metadata:
+        usfm: GEN.8.17
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: Et vous, soyez féconds et multipliez, répandez-vous sur la terre et multipliez sur elle.
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 8-17: cf. (Ge 8:20-22. És 54:9, 10. Jé 33:20.) 2 Pi 3:6, 7.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'Dieu parla encore à Noé et à ses fils avec lui, en disant: '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: És 54:9
+      metadata:
+        usfm: ISA.54.9
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Voici, j’établis mon alliance avec vous et avec votre postérité après vous; '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'avec tous les êtres vivants qui sont avec vous, tant les oiseaux que le bétail et tous les animaux de la terre, soit avec tous ceux qui sont sortis de l’arche, soit avec tous les animaux de la terre. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'J’établis mon alliance avec vous: aucune chair ne sera plus exterminée par les eaux du déluge, et il n’y aura plus de déluge pour détruire la terre. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'Et Dieu dit: C’est ici le signe de l’alliance que j’établis entre moi et vous, et tous les êtres vivants qui sont avec vous, pour les générations à toujours: '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'j’ai placé mon arc dans la nue, et il servira de signe d’alliance entre moi et la terre. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: 'Quand j’aurai rassemblé des nuages au-dessus de la terre, l’arc paraîtra dans la nue; '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: 'et je me souviendrai de mon alliance entre moi et vous, et tous les êtres vivants, de toute chair, et les eaux ne deviendront plus un déluge pour détruire toute chair. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'L’arc sera dans la nue; et je le regarderai, pour me souvenir de l’alliance perpétuelle entre Dieu et tous les êtres vivants, de toute chair qui est sur la terre. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'Et Dieu dit à Noé: Tel est le signe de l’alliance que j’établis entre moi et toute chair qui est sur la terre.'
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 18-29: cf. (Pr 20:1. Ép 5:18.) (Ex 20:12. De 27:16.)'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: 'Les fils de Noé, qui sortirent de l’arche, étaient '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ge 6:10
+      metadata:
+        usfm: GEN.6.10
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Sem, Cham et Japhet. Cham fut le père de Canaan. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: 'Ce sont là les trois fils de Noé, et c’est leur postérité qui peupla toute la terre. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: text
+    text: 'Noé commença à cultiver la terre, et planta de la vigne. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: text
+    text: 'Il but du vin, s’enivra, et se découvrit au milieu de sa tente. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: 'Cham, père de Canaan, vit la nudité de son père, et il le rapporta dehors à ses deux frères. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: text
+    text: 'Alors Sem et Japhet prirent le manteau, le mirent sur leurs épaules, marchèrent à reculons, et couvrirent la nudité de leur père; comme leur visage était détourné, ils ne virent point la nudité de leur père. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '24'
+  - type: text
+    text: 'Lorsque Noé se réveilla de son vin, il apprit ce que lui avait fait son fils cadet. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '25'
+  - type: text
+    text: 'Et il dit: Maudit soit Canaan! Qu’il soit l’esclave des esclaves de ses frères! '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '26'
+  - type: text
+    text: 'Il dit encore: Béni soit l’Éternel, Dieu de Sem, et que Canaan soit leur esclave! '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '27'
+  - type: text
+    text: 'Que Dieu étende les possessions de Japhet, qu’il habite dans les tentes de Sem, et que Canaan soit leur esclave! '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '28'
+  - type: text
+    text: 'Noé vécut, après le déluge, trois cent cinquante ans. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '29'
+  - type: text
+    text: Tous les jours de Noé furent de neuf cent cinquante ans; puis il mourut.

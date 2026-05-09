@@ -1,59 +1,59 @@
-document_id: PSA.117,93
+document_id: PSA.117
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: Ps 66:8; 100:5. Ro 15:8-12. Ap 7:9, 10; 15:4.
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: Ps 66:8; 100:5. Ro 15:8-12. Ap 7:9, 10; 15:4.
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Louez '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: 'Louez '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 5:11
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: l’Éternel, vous toutes les nations,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Célébrez-le, vous tous les peuples!
-  '2':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '2'
+        text: Ro 5:11
+      metadata:
+        usfm: ROM.5.11
     - type: text
-      text: Car sa bonté pour nous est grande,
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: l’Éternel, vous toutes les nations,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Célébrez-le, vous tous les peuples!
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Et sa fidélité dure à toujours.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Louez l’Éternel!
+      text: '2'
+  - type: text
+    text: Car sa bonté pour nous est grande,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et sa fidélité dure à toujours.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Louez l’Éternel!

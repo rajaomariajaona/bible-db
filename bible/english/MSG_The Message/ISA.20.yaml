@@ -1,52 +1,50 @@
-document_id: ISA.20,97
+document_id: ISA.20
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Exposed to Mockery and Jeers
+  marker-yv: yv-h
+- type: usfm
+  marker: m
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Exposed to Mockery and Jeers
-    marker-yv: yv-h
+      text: 1-2
+  - type: text
+    text: 'In the year the field commander, sent by King Sargon of Assyria, came to Ashdod and fought and took it, '
   - type: usfm
-    marker: m
+    marker: nd
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: 1-2
     - type: text
-      text: 'In the year the field commander, sent by King Sargon of Assyria, came to Ashdod and fought and took it, '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: God
-    - type: text
-      text: ' told Isaiah son of Amoz, “Go, take off your clothes and sandals,” and Isaiah did it, going about naked and barefooted.'
-  '3':
+      text: God
+  - type: text
+    text: ' told Isaiah son of Amoz, “Go, take off your clothes and sandals,” and Isaiah did it, going about naked and barefooted.'
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: 3-6
     - type: text
-      text: 'Then '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: God
+      text: 3-6
+  - type: text
+    text: 'Then '
+  - type: usfm
+    marker: nd
+    children:
     - type: text
-      text: ' said, “Just as my servant Isaiah has walked around town naked and barefooted for three years as a warning sign to Egypt and Ethiopia, so the king of Assyria is going to come and take the Egyptians as captives and the Ethiopians as exiles. He’ll take young and old alike and march them out of there naked and barefooted, exposed to mockery and jeers—the bared buttocks of Egypt on parade! Everyone who has put hope in Ethiopia and expected help from Egypt will be thrown into confusion. Everyone who lives along this coast will say, ‘Look at them! Naked and barefooted, shuffling off to exile! And we thought they were our best hope, that they’d rescue us from the king of Assyria. '
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: Now
+      text: God
+  - type: text
+    text: ' said, “Just as my servant Isaiah has walked around town naked and barefooted for three years as a warning sign to Egypt and Ethiopia, so the king of Assyria is going to come and take the Egyptians as captives and the Ethiopians as exiles. He’ll take young and old alike and march them out of there naked and barefooted, exposed to mockery and jeers—the bared buttocks of Egypt on parade! Everyone who has put hope in Ethiopia and expected help from Egypt will be thrown into confusion. Everyone who lives along this coast will say, ‘Look at them! Naked and barefooted, shuffling off to exile! And we thought they were our best hope, that they’d rescue us from the king of Assyria. '
+  - type: usfm
+    marker: it
+    children:
     - type: text
-      text: ' what’s going to happen to us? How are we going to get out of this?’”'
+      text: Now
+  - type: text
+    text: ' what’s going to happen to us? How are we going to get out of this?’”'

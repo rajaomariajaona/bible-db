@@ -1,1172 +1,1232 @@
-document_id: TIT.1,59
+document_id: TIT.1
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Greeting
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Greeting
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: Paul, a servant
   - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: Paul, a servant
+        text: '1:1 '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1:1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'For the contextual rendering of the Greek word '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: doulos
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ', see Preface'
-      marker-yv: yv-n
-    - type: text
-      text: ' of God and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Cor. 1:1
-      marker-yv: yv-n
-    - type: text
-      text: 'an apostle of Jesus Christ, for the sake of the faith of God’s elect and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 2:4
-      marker-yv: yv-n
-    - type: text
-      text: 'their knowledge of the truth, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 6:3
-      marker-yv: yv-n
-    - type: text
-      text: 'which accords with godliness, '
-  '10':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: 'For there are many who are insubordinate, '
+        text: 'For the contextual rendering of the Greek word '
     - type: usfm
-      marker: x
+      marker: fq
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 1:6
-      marker-yv: yv-n
-    - type: text
-      text: 'empty talkers and deceivers, especially those of '
+      - type: text
+        text: doulos
     - type: usfm
-      marker: x
+      marker: ft
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 11:2
-      marker-yv: yv-n
-    - type: text
-      text: the circumcision party.
+      - type: text
+        text: ', see Preface'
+    marker-yv: yv-n
+  - type: text
+    text: ' of God and '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: f
+      marker: xta
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1:10 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: especially those of the circumcision
-      marker-yv: yv-n
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Cor. 1:1
+      metadata:
+        usfm: 2CO.1.1
+    marker-yv: yv-n
+  - type: text
+    text: 'an apostle of Jesus Christ, for the sake of the faith of God’s elect and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 2:4
+      metadata:
+        usfm: 1TI.2.4
+    marker-yv: yv-n
+  - type: text
+    text: 'their knowledge of the truth, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 6:3
+      metadata:
+        usfm: 1TI.6.3
+    marker-yv: yv-n
+  - type: text
+    text: 'which accords with godliness, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Tim. 1:1
+      metadata:
+        usfm: 2TI.1.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 9:15
+      metadata:
+        usfm: HEB.9.15
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:13
+      metadata:
+        usfm: HEB.2.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 3:7
+      metadata:
+        usfm: HEB.3.7
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'in hope of eternal life, which God, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Num. 23:19
+      metadata:
+        usfm: NUM.23.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Tim. 2:13
+      metadata:
+        usfm: 2TI.2.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 6:18
+      metadata:
+        usfm: HEB.6.18
+    marker-yv: yv-n
+  - type: text
+    text: 'who never lies, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 1:2
+      metadata:
+        usfm: ROM.1.2
+    marker-yv: yv-n
+  - type: text
+    text: 'promised '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Tim. 1:9
+      metadata:
+        usfm: 2TI.1.9
+    marker-yv: yv-n
+  - type: text
+    text: before the ages began
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1:2 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Greek '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: before times eternal
+    marker-yv: yv-n
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 2:6
+      metadata:
+        usfm: 1TI.2.6
+    marker-yv: yv-n
+  - type: text
+    text: at the proper time manifested in his word
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1:3 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: manifested his word
+    marker-yv: yv-n
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 10:14
+      metadata:
+        usfm: ROM.10.14
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'through the preaching '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 1:11
+      metadata:
+        usfm: 1TI.1.11
+    marker-yv: yv-n
+  - type: text
+    text: 'with which I have been entrusted '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 1:1
+      metadata:
+        usfm: 1TI.1.1
+    marker-yv: yv-n
+  - type: text
+    text: by the command of God our Savior;
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'To Titus, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 3 John 4
+      metadata:
+        usfm: 3JN.1.4
+    marker-yv: yv-n
+  - type: text
+    text: 'my true child in '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jude 3
+      metadata:
+        usfm: JUD.1.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pet. 1:1
+      metadata:
+        usfm: 2PE.1.1
+    marker-yv: yv-n
+  - type: text
+    text: 'a common faith:'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 1:2
+      metadata:
+        usfm: 1TI.1.2
+    marker-yv: yv-n
+  - type: text
+    text: Grace and peace from God the Father and Christ Jesus our Savior.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Qualifications for Elders
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
-  '11':
-  - type: usfm
-    marker: p
-    children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
-    - type: text
-      text: 'They must be silenced, since '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Tim. 3:6
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'they are upsetting whole families by teaching '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 6:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 2:3
-      marker-yv: yv-n
-    - type: text
-      text: 'for shameful gain what they ought not to teach. '
-  '12':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '12'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 17:28
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: One of the Cretans,
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1:12 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Greek '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: One of them
-      marker-yv: yv-n
-    - type: text
-      text: ' a prophet of their own, said, “Cretans are always liars, evil beasts, lazy gluttons.”'
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1:12 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: Probably from Epimenides of Crete
-      marker-yv: yv-n
+        text: 1 Tim. 1:3
+      metadata:
+        usfm: 1TI.1.3
     - type: text
       text: ' '
-  '13':
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'This is why I left you in Crete, so that you might put what remained into order, and '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '13'
-    - type: text
-      text: 'This testimony is true. Therefore '
+        text: '['
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:15
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 5:20
-      marker-yv: yv-n
+        text: Acts 14:23
+      metadata:
+        usfm: ACT.14.23
     - type: text
-      text: 'rebuke them '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Cor. 13:10
-      marker-yv: yv-n
-    - type: text
-      text: 'sharply, that they '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:1
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '2'
-      marker-yv: yv-n
-    - type: text
-      text: 'may be sound in the faith, '
-  '14':
+        text: 2 Tim. 2:2
+      metadata:
+        usfm: 2TI.2.2
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'appoint elders in every town as I directed you— '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '14'
+        text: 'For ver. 6-8, see '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 1:4
-      marker-yv: yv-n
-    - type: text
-      text: 'not devoting themselves to Jewish myths and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col. 2:22
-      marker-yv: yv-n
-    - type: text
-      text: 'the commands of people '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 6:20
-      marker-yv: yv-n
-    - type: text
-      text: 'who turn away from the truth. '
-  '15':
+      - type: text
+        text: 1 Tim. 3:2-4
+      metadata:
+        usfm: 1TI.3.2+1TI.3.3+1TI.3.4
+    marker-yv: yv-n
+  - type: text
+    text: if anyone is above reproach, the husband of one wife,
   - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
+      children:
+      - type: text
+        text: '1:6 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: a man of one woman
+    marker-yv: yv-n
+  - type: text
+    text: ' and his children are believers'
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1:6 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: are faithful
+    marker-yv: yv-n
+  - type: text
+    text: ' and not open to the charge of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eph. 5:18
+      metadata:
+        usfm: EPH.5.18
+    marker-yv: yv-n
+  - type: text
+    text: 'debauchery or insubordination. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: For an overseer,
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1:7 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: bishop
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: '; Greek '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: episkopos
+    marker-yv: yv-n
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 12:42
+      metadata:
+        usfm: LUK.12.42
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 4:1
+      metadata:
+        usfm: 1CO.4.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pet. 4:10
+      metadata:
+        usfm: 1PE.4.10
+    marker-yv: yv-n
+  - type: text
+    text: 'as God’s steward, must be above reproach. He must not '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pet. 2:10
+      metadata:
+        usfm: 2PE.2.10
+    marker-yv: yv-n
+  - type: text
+    text: 'be arrogant or quick-tempered or a drunkard or violent '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 3:8
+      metadata:
+        usfm: 1TI.3.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pet. 5:2
+      metadata:
+        usfm: 1PE.5.2
+    marker-yv: yv-n
+  - type: text
+    text: 'or greedy for gain, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'but hospitable, a lover of good, self-controlled, upright, holy, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 9:25
+      metadata:
+        usfm: 1CO.9.25
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'and disciplined. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'He must '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Thess. 2:13
+      metadata:
+        usfm: 2TH.2.13
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '15'
+      metadata:
+        usfm: 2TH.2.15
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 11:41
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 4:3
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']; See Acts 10:15'
-      marker-yv: yv-n
-    - type: text
-      text: 'To the pure, all things are pure, but to the defiled and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 14:23
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'unbelieving, nothing is pure; but both '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 6:5
-      marker-yv: yv-n
-    - type: text
-      text: 'their minds and their consciences are defiled. '
-  '16':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '16'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 John 2:4
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'They profess to know God, but they '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 5:8
-      marker-yv: yv-n
-    - type: text
-      text: 'deny him by their works. They are detestable, disobedient, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Tim. 3:8
-      marker-yv: yv-n
-    - type: text
-      text: unfit for any good work.
-  '2':
+        text: ']; See 1 Tim. 1:15; 2 Tim. 1:13'
+    marker-yv: yv-n
+  - type: text
+    text: 'hold firm to the trustworthy word as taught, so that he may be able to give instruction in '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 1:10
+      metadata:
+        usfm: 1TI.1.10
+    marker-yv: yv-n
+  - type: text
+    text: sound
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1:9 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: healthy
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: ; also verse 13
+    marker-yv: yv-n
+  - type: text
+    text: ' doctrine and also to rebuke those who contradict it.'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'For there are many who are insubordinate, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 1:6
+      metadata:
+        usfm: 1TI.1.6
+    marker-yv: yv-n
+  - type: text
+    text: 'empty talkers and deceivers, especially those of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 11:2
+      metadata:
+        usfm: ACT.11.2
+    marker-yv: yv-n
+  - type: text
+    text: the circumcision party.
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1:10 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: especially those of the circumcision
+    marker-yv: yv-n
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'They must be silenced, since '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Tim. 3:6
+      metadata:
+        usfm: 2TI.3.6
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'they are upsetting whole families by teaching '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 6:5
+      metadata:
+        usfm: 1TI.6.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pet. 2:3
+      metadata:
+        usfm: 2PE.2.3
+    marker-yv: yv-n
+  - type: text
+    text: 'for shameful gain what they ought not to teach. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 17:28
+      metadata:
+        usfm: ACT.17.28
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: One of the Cretans,
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1:12 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Greek '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: One of them
+    marker-yv: yv-n
+  - type: text
+    text: ' a prophet of their own, said, “Cretans are always liars, evil beasts, lazy gluttons.”'
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1:12 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: Probably from Epimenides of Crete
+    marker-yv: yv-n
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'This testimony is true. Therefore '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:15
+      metadata:
+        usfm: TIT.2.15
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 5:20
+      metadata:
+        usfm: 1TI.5.20
+    marker-yv: yv-n
+  - type: text
+    text: 'rebuke them '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Cor. 13:10
+      metadata:
+        usfm: 2CO.13.10
+    marker-yv: yv-n
+  - type: text
+    text: 'sharply, that they '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:1
+      metadata:
+        usfm: TIT.2.1
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '2'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Tim. 1:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 9:15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 3:7
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'in hope of eternal life, which God, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Num. 23:19
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Tim. 2:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 6:18
-      marker-yv: yv-n
-    - type: text
-      text: 'who never lies, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 1:2
-      marker-yv: yv-n
-    - type: text
-      text: 'promised '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Tim. 1:9
-      marker-yv: yv-n
-    - type: text
-      text: before the ages began
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1:2 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Greek '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: before times eternal
-      marker-yv: yv-n
-    - type: text
-      text: ' '
-  '3':
+      metadata:
+        usfm: TIT.2.2
+    marker-yv: yv-n
+  - type: text
+    text: 'may be sound in the faith, '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 2:6
-      marker-yv: yv-n
-    - type: text
-      text: at the proper time manifested in his word
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1:3 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: manifested his word
-      marker-yv: yv-n
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 10:14
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'through the preaching '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 1:11
-      marker-yv: yv-n
-    - type: text
-      text: 'with which I have been entrusted '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 1:1
-      marker-yv: yv-n
-    - type: text
-      text: by the command of God our Savior;
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'To Titus, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 3 John 4
-      marker-yv: yv-n
-    - type: text
-      text: 'my true child in '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jude 3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 1:1
-      marker-yv: yv-n
-    - type: text
-      text: 'a common faith:'
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 1:2
-      marker-yv: yv-n
-    - type: text
-      text: Grace and peace from God the Father and Christ Jesus our Savior.
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Qualifications for Elders
-    marker-yv: yv-h
-  '5':
+      text: '14'
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: ' '
+        text: 'See '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
       - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 1:3
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'This is why I left you in Crete, so that you might put what remained into order, and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 14:23
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Tim. 2:2
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'appoint elders in every town as I directed you— '
-  '6':
+        text: 1 Tim. 1:4
+      metadata:
+        usfm: 1TI.1.4
+    marker-yv: yv-n
+  - type: text
+    text: 'not devoting themselves to Jewish myths and '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '6'
+        text: 'See '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'For ver. 6-8, see '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 3:2-4
-      marker-yv: yv-n
-    - type: text
-      text: if anyone is above reproach, the husband of one wife,
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1:6 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: a man of one woman
-      marker-yv: yv-n
-    - type: text
-      text: ' and his children are believers'
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1:6 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: are faithful
-      marker-yv: yv-n
-    - type: text
-      text: ' and not open to the charge of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 5:18
-      marker-yv: yv-n
-    - type: text
-      text: 'debauchery or insubordination. '
-  '7':
+      - type: text
+        text: Col. 2:22
+      metadata:
+        usfm: COL.2.22
+    marker-yv: yv-n
+  - type: text
+    text: 'the commands of people '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '7'
-    - type: text
-      text: For an overseer,
+        text: 'See '
     - type: usfm
-      marker: f
+      marker: ref
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1:7 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: bishop
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: '; Greek '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: episkopos
-      marker-yv: yv-n
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 12:42
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 4:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 4:10
-      marker-yv: yv-n
-    - type: text
-      text: 'as God’s steward, must be above reproach. He must not '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 2:10
-      marker-yv: yv-n
-    - type: text
-      text: 'be arrogant or quick-tempered or a drunkard or violent '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 3:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 5:2
-      marker-yv: yv-n
-    - type: text
-      text: 'or greedy for gain, '
-  '8':
+        text: 1 Tim. 6:20
+      metadata:
+        usfm: 1TI.6.20
+    marker-yv: yv-n
+  - type: text
+    text: 'who turn away from the truth. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '8'
-    - type: text
-      text: 'but hospitable, a lover of good, self-controlled, upright, holy, '
+        text: '['
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 9:25
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+      - type: text
+        text: Luke 11:41
+      metadata:
+        usfm: LUK.11.41
     - type: text
-      text: 'and disciplined. '
-  '9':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 4:3
+      metadata:
+        usfm: 1TI.4.3
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']; See Acts 10:15'
+    marker-yv: yv-n
+  - type: text
+    text: 'To the pure, all things are pure, but to the defiled and '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '9'
-    - type: text
-      text: 'He must '
+        text: '['
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Thess. 2:13
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '15'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']; See 1 Tim. 1:15; 2 Tim. 1:13'
-      marker-yv: yv-n
-    - type: text
-      text: 'hold firm to the trustworthy word as taught, so that he may be able to give instruction in '
+        text: Rom. 14:23
+      metadata:
+        usfm: ROM.14.23
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 1:10
-      marker-yv: yv-n
-    - type: text
-      text: sound
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'unbelieving, nothing is pure; but both '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: f
+      marker: xta
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1:9 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: healthy
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ; also verse 13
-      marker-yv: yv-n
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 6:5
+      metadata:
+        usfm: 1TI.6.5
+    marker-yv: yv-n
+  - type: text
+    text: 'their minds and their consciences are defiled. '
+  - type: usfm
+    marker: vlbl
+    children:
     - type: text
-      text: ' doctrine and also to rebuke those who contradict it.'
+      text: '16'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 John 2:4
+      metadata:
+        usfm: 1JN.2.4
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'They profess to know God, but they '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 5:8
+      metadata:
+        usfm: 1TI.5.8
+    marker-yv: yv-n
+  - type: text
+    text: 'deny him by their works. They are detestable, disobedient, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Tim. 3:8
+      metadata:
+        usfm: 2TI.3.8
+    marker-yv: yv-n
+  - type: text
+    text: unfit for any good work.

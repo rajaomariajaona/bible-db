@@ -1,66 +1,65 @@
-document_id: PSA.123,97
+document_id: PSA.123
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: 1-4
-    - type: text
-      text: I look to you, heaven-dwelling God,
-  - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: look up to you for help.
+      text: 1-4
+  - type: text
+    text: I look to you, heaven-dwelling God,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: look up to you for help.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Like servants, alert to their master’s commands,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: like a maiden attending her lady,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: We’re watching and waiting, holding our breath,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: awaiting your word of mercy.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Mercy, '
   - type: usfm
-    marker: q1
+    marker: nd
     children:
     - type: text
-      text: Like servants, alert to their master’s commands,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: like a maiden attending her lady,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: We’re watching and waiting, holding our breath,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: awaiting your word of mercy.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'Mercy, '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: God
-    - type: text
-      text: ', mercy!'
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: We’ve been kicked around long enough,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Kicked in the teeth by complacent rich men,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: kicked when we’re down by arrogant brutes.
+      text: God
+  - type: text
+    text: ', mercy!'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: We’ve been kicked around long enough,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Kicked in the teeth by complacent rich men,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: kicked when we’re down by arrogant brutes.

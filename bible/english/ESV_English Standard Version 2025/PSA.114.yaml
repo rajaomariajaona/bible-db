@@ -1,367 +1,395 @@
-document_id: PSA.114,59
+document_id: PSA.114
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Tremble at the Presence of the Lord
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Tremble at the Presence of the Lord
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'When '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: 'When '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 12:37
-      marker-yv: yv-n
-    - type: text
-      text: Israel went out from Egypt,
+        text: Ex. 12:37
+      metadata:
+        usfm: EXO.12.37
+    marker-yv: yv-n
+  - type: text
+    text: Israel went out from Egypt,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'the house of Jacob from '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'the house of Jacob from '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 81:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 42:23
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: a people of strange language,
-  '2':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '2'
+        text: Ps. 81:5
+      metadata:
+        usfm: PSA.81.5
     - type: text
-      text: 'Judah became his '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 78:68
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '69'
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 15:17
+        text: Gen. 42:23
+      metadata:
+        usfm: GEN.42.23
+    - type: usfm
+      marker: xta
+      children:
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 25:8
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: sanctuary,
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: a people of strange language,
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: Israel his dominion.
-  '3':
+      text: '2'
+  - type: text
+    text: 'Judah became his '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '3'
+        text: Ps. 78:68
+      metadata:
+        usfm: PSA.78.68
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '69'
+      metadata:
+        usfm: PSA.78.69
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 15:17
+      metadata:
+        usfm: EXO.15.17
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 25:8
+      metadata:
+        usfm: EXO.25.8
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: sanctuary,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: Israel his dominion.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 77:16
+      metadata:
+        usfm: PSA.77.16
+    marker-yv: yv-n
+  - type: text
+    text: The sea looked and fled;
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Josh. 3:13-16
+      metadata:
+        usfm: JOS.3.13+JOS.3.14+JOS.3.15+JOS.3.16
+    marker-yv: yv-n
+  - type: text
+    text: Jordan turned back.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 77:16
-      marker-yv: yv-n
-    - type: text
-      text: The sea looked and fled;
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 3:13-16
-      marker-yv: yv-n
-    - type: text
-      text: Jordan turned back.
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '4'
+        text: Ps. 18:7
+      metadata:
+        usfm: PSA.18.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 29:6
+      metadata:
+        usfm: PSA.29.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 19:18
+      metadata:
+        usfm: EXO.19.18
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 18:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 29:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 19:18
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: The mountains skipped like rams,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: the hills like lambs.
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: 'What '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hab. 3:8
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: ails you, O sea, that you flee?
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: The mountains skipped like rams,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: the hills like lambs.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: O Jordan, that you turn back?
-  '6':
+      text: '5'
+  - type: text
+    text: 'What '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '6'
-    - type: text
-      text: O mountains, that you skip like rams?
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: O hills, like lambs?
-  '7':
-  - type: usfm
-    marker: q1
-    children:
+        text: '['
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '7'
-    - type: text
-      text: ' '
+        text: Hab. 3:8
+      metadata:
+        usfm: HAB.3.8
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 96:9
-      marker-yv: yv-n
-    - type: text
-      text: Tremble, O earth, at the presence of the Lord,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: at the presence of the God of Jacob,
-  '8':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '8'
-    - type: text
-      text: 'who turns '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Num. 20:11
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 78:15
-      marker-yv: yv-n
-    - type: text
-      text: 'the rock into '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 107:35
-      marker-yv: yv-n
-    - type: text
-      text: a pool of water,
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: ails you, O sea, that you flee?
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: O Jordan, that you turn back?
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: O mountains, that you skip like rams?
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: O hills, like lambs?
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 8:15
-      marker-yv: yv-n
+      - type: text
+        text: Ps. 96:9
+      metadata:
+        usfm: PSA.96.9
+    marker-yv: yv-n
+  - type: text
+    text: Tremble, O earth, at the presence of the Lord,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: at the presence of the God of Jacob,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
     - type: text
-      text: the flint into a spring of water.
+      text: '8'
+  - type: text
+    text: 'who turns '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Num. 20:11
+      metadata:
+        usfm: NUM.20.11
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 78:15
+      metadata:
+        usfm: PSA.78.15
+    marker-yv: yv-n
+  - type: text
+    text: 'the rock into '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 107:35
+      metadata:
+        usfm: PSA.107.35
+    marker-yv: yv-n
+  - type: text
+    text: a pool of water,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 8:15
+      metadata:
+        usfm: DEU.8.15
+    marker-yv: yv-n
+  - type: text
+    text: the flint into a spring of water.

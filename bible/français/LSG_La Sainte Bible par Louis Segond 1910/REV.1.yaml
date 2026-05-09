@@ -1,824 +1,869 @@
-document_id: REV.1,93
+document_id: REV.1
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Titre et sujet du livre
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 1-3: cf. Am 3:7. Ap 22:6-10.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Titre et sujet du livre
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Révélation de Jésus-Christ, que Dieu lui a donnée pour montrer à ses serviteurs les choses qui doivent arriver bientôt, et qu’il a fait connaître, par l’envoi de son ange, à son serviteur Jean, '
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 1-3: cf. Am 3:7. Ap 22:6-10.'
-    marker-yv: yv-h
+      text: '2'
+  - type: text
+    text: 'lequel a attesté la parole de Dieu et le témoignage de Jésus-Christ, tout ce qu’il a vu. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Ap 22:7
+      metadata:
+        usfm: REV.22.7
     - type: text
-      text: 'Révélation de Jésus-Christ, que Dieu lui a donnée pour montrer à ses serviteurs les choses qui doivent arriver bientôt, et qu’il a fait connaître, par l’envoi de son ange, à son serviteur Jean, '
-  '10':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Heureux celui qui lit et ceux qui entendent les paroles de la prophétie, et qui gardent les choses qui y sont écrites! '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
+        text: Ap 22:10
+      metadata:
+        usfm: REV.22.10
     - type: text
-      text: 'Je fus '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ap 4:2
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'ravi en esprit au jour du Seigneur, et j’entendis derrière moi une voix forte, comme le son d’une trompette, '
-  '11':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: Car le temps est proche.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Dédicace aux sept Églises d’Asie
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 4-8: cf. (2 Jn 3. 2 Co 13:13.) Ap 5:8-13. Mt 24:30, 31.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'Jean aux sept Églises qui sont en Asie: que la grâce et la paix vous soient données de la part de celui '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
+        text: Ex 3:14
+      metadata:
+        usfm: EXO.3.14
     - type: text
-      text: 'qui disait: '
+      text: '. '
     - type: usfm
-      marker: wj
+      marker: ref
       children:
       - type: text
-        text: Ce que tu vois, écris-le dans un livre, et envoie-le aux sept Églises, à Éphèse, à Smyrne, à Pergame, à Thyatire, à Sardes, à Philadelphie, et à Laodicée.
+        text: Ap 1:8
+      metadata:
+        usfm: REV.1.8
     - type: text
-      text: ' '
-  '12':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:8
+      metadata:
+        usfm: REV.4.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 11:17
+      metadata:
+        usfm: REV.11.17
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 16:5
+      metadata:
+        usfm: REV.16.5
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'qui est, qui était, et qui vient, et de la part des sept esprits qui sont devant son trône, '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'et de la part de Jésus-Christ, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '12'
+        text: És 55:4
+      metadata:
+        usfm: ISA.55.4
     - type: text
-      text: 'Je me retournai pour connaître quelle était la voix qui me parlait. Et, après m’être retourné, je vis sept chandeliers d’or, '
-  '13':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ap 3:14
+      metadata:
+        usfm: REV.3.14
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'le témoin fidèle, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '13'
+        text: 1 Co 15:20
+      metadata:
+        usfm: 1CO.15.20
     - type: text
-      text: 'et, au milieu des sept chandeliers, quelqu’un qui ressemblait à '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Éz 1:26
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Da 7:13
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ap 14:14
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Col 1:18
+      metadata:
+        usfm: COL.1.18
     - type: text
-      text: 'un fils d’homme, vêtu d’une longue robe, et '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ap 15:6
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'ayant une ceinture d’or sur la poitrine. '
-  '14':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'le premier-né des morts, et le prince des rois de la terre! A celui qui nous aime, qui nous a délivrés de nos péchés '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: Ac 20:28
+      metadata:
+        usfm: ACT.20.28
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hé 9:12
+      metadata:
+        usfm: HEB.9.12
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '14'
+      metadata:
+        usfm: HEB.9.14
     - type: text
-      text: 'Sa tête et ses cheveux étaient blancs comme de la '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Da 7:9
       - type: text
-        text: .
-      marker-yv: yv-n
+        text: 1 Pi 1:19
+      metadata:
+        usfm: 1PE.1.19
     - type: text
-      text: 'laine blanche, comme de la neige; '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ap 19:12
       - type: text
-        text: .
-      marker-yv: yv-n
+        text: 1 Jn 1:7
+      metadata:
+        usfm: 1JN.1.7
     - type: text
-      text: 'ses yeux étaient comme une flamme de feu; '
-  '15':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ap 5:9
+      metadata:
+        usfm: REV.5.9
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'par son sang, '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '15'
-    - type: text
-      text: 'ses pieds étaient semblables à de l’airain ardent, comme s’il eût été embrasé dans une fournaise; et sa voix était '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ap 14:2
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'comme le bruit de grandes eaux. '
-  '16':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: text
-      text: 'Il avait dans sa main droite sept étoiles. De sa bouche sortait '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 49:2
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ép 6:17
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hé 4:12
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ap 2:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:15
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'une épée aiguë, à deux tranchants; et son visage était comme le soleil lorsqu’il brille dans sa force. '
-  '17':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: text
-      text: 'Quand je le vis, je tombai à ses pieds comme mort. Il posa sur moi sa main droite, en disant: '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Ne crains point!
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 41:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 44:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 48:12
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Je suis le premier et le dernier,
-  '18':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 6:9
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: et le vivant. J’étais mort; et voici, je suis vivant aux siècles des siècles.
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 12:14
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 22:22
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ap 3:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 20:1
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Je tiens les clefs de la mort et du séjour des morts.
-    - type: text
-      text: ' '
-  '19':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Écris donc les choses que tu as vues, et celles qui sont, et celles qui doivent arriver après elles,
-    - type: text
-      text: ' '
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'lequel a attesté la parole de Dieu et le témoignage de Jésus-Christ, tout ce qu’il a vu. '
-  '20':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '20'
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: le mystère des sept étoiles que tu as vues dans ma main droite, et des sept chandeliers d’or. Les sept étoiles sont
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mal 2:7
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: les anges des sept Églises, et les sept chandeliers sont les sept Églises.
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ap 22:7
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Heureux celui qui lit et ceux qui entendent les paroles de la prophétie, et qui gardent les choses qui y sont écrites! '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ap 22:10
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: Car le temps est proche.
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Dédicace aux sept Églises d’Asie
-    marker-yv: yv-h
+      text: '6'
+  - type: text
+    text: 'et qui a fait de nous '
   - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 4-8: cf. (2 Jn 3. 2 Co 13:13.) Ap 5:8-13. Mt 24:30, 31.'
-    marker-yv: yv-h
-  '4':
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '4'
+        text: 1 Pi 2:9
+      metadata:
+        usfm: 1PE.2.9
     - type: text
-      text: 'Jean aux sept Églises qui sont en Asie: que la grâce et la paix vous soient données de la part de celui '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex 3:14
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ap 1:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 11:17
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 16:5
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Ap 5:10
+      metadata:
+        usfm: REV.5.10
     - type: text
-      text: 'qui est, qui était, et qui vient, et de la part des sept esprits qui sont devant son trône, '
-  '5':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'un royaume, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
+        text: Ro 12:1
+      metadata:
+        usfm: ROM.12.1
     - type: text
-      text: 'et de la part de Jésus-Christ, '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 55:4
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ap 3:14
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: 1 Pi 2:5
+      metadata:
+        usfm: 1PE.2.5
     - type: text
-      text: 'le témoin fidèle, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Co 15:20
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col 1:18
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'le premier-né des morts, et le prince des rois de la terre! A celui qui nous aime, qui nous a délivrés de nos péchés '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ac 20:28
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hé 9:12
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '14'
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pi 1:19
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Jn 1:7
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ap 5:9
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'par son sang, '
-  '6':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'des sacrificateurs pour Dieu son Père, à lui soient la gloire et la puissance, aux siècles des siècles! Amen! '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'et qui a fait de nous '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pi 2:9
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ap 5:10
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'un royaume, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 12:1
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pi 2:5
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'des sacrificateurs pour Dieu son Père, à lui soient la gloire et la puissance, aux siècles des siècles! Amen! '
-  '7':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: 'Voici, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Da 7:13
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mt 24:30
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 25:31
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ac 1:11
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Th 1:10
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Th 1:10
-      - type: text
-        text: . Jud v. 14.
-      marker-yv: yv-n
-    - type: text
-      text: 'il vient avec les nuées. Et tout œil le verra, même '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Za 12:10
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 19:37
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: ceux qui l’ont percé; et toutes les tribus de la terre se lamenteront à cause de lui. Oui. Amen!
-  '8':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 41:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 44:6
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ap 21:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 22:13
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Je suis l’alpha et l’oméga,
-    - type: text
-      text: ' dit le Seigneur Dieu, '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: celui qui est, qui était, et qui vient, le Tout-Puissant.
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Vision de Jean dans l’île de Patmos. Ordre d’écrire ce qu’il a vu, et d’envoyer le livre aux sept Églises d’Asie
-    marker-yv: yv-h
+      text: '7'
+  - type: text
+    text: 'Voici, '
   - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 9-20: cf. Da 10:5-12, 14. Mt 17:1, 2.'
-    marker-yv: yv-h
-  '9':
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '9'
+        text: Da 7:13
+      metadata:
+        usfm: DAN.7.13
     - type: text
-      text: 'Moi Jean, votre frère, et qui ai part avec vous à la tribulation et au royaume et à la persévérance en Jésus, j’étais dans l’île appelée Patmos, à cause de la parole de Dieu et du témoignage de Jésus. '
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mt 24:30
+      metadata:
+        usfm: MAT.24.30
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 25:31
+      metadata:
+        usfm: MAT.25.31
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ac 1:11
+      metadata:
+        usfm: ACT.1.11
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Th 1:10
+      metadata:
+        usfm: 1TH.1.10
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Th 1:10
+      metadata:
+        usfm: 2TH.1.10
+    - type: text
+      text: . Jud v. 14.
+    marker-yv: yv-n
+  - type: text
+    text: 'il vient avec les nuées. Et tout œil le verra, même '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Za 12:10
+      metadata:
+        usfm: ZEC.12.10
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jn 19:37
+      metadata:
+        usfm: JHN.19.37
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: ceux qui l’ont percé; et toutes les tribus de la terre se lamenteront à cause de lui. Oui. Amen!
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: És 41:4
+      metadata:
+        usfm: ISA.41.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 44:6
+      metadata:
+        usfm: ISA.44.6
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ap 21:6
+      metadata:
+        usfm: REV.21.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 22:13
+      metadata:
+        usfm: REV.22.13
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: Je suis l’alpha et l’oméga,
+  - type: text
+    text: ' dit le Seigneur Dieu, '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: celui qui est, qui était, et qui vient, le Tout-Puissant.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Vision de Jean dans l’île de Patmos. Ordre d’écrire ce qu’il a vu, et d’envoyer le livre aux sept Églises d’Asie
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 9-20: cf. Da 10:5-12, 14. Mt 17:1, 2.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'Moi Jean, votre frère, et qui ai part avec vous à la tribulation et au royaume et à la persévérance en Jésus, j’étais dans l’île appelée Patmos, à cause de la parole de Dieu et du témoignage de Jésus. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'Je fus '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ap 4:2
+      metadata:
+        usfm: REV.4.2
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'ravi en esprit au jour du Seigneur, et j’entendis derrière moi une voix forte, comme le son d’une trompette, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'qui disait: '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: Ce que tu vois, écris-le dans un livre, et envoie-le aux sept Églises, à Éphèse, à Smyrne, à Pergame, à Thyatire, à Sardes, à Philadelphie, et à Laodicée.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'Je me retournai pour connaître quelle était la voix qui me parlait. Et, après m’être retourné, je vis sept chandeliers d’or, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'et, au milieu des sept chandeliers, quelqu’un qui ressemblait à '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Éz 1:26
+      metadata:
+        usfm: EZK.1.26
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Da 7:13
+      metadata:
+        usfm: DAN.7.13
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ap 14:14
+      metadata:
+        usfm: REV.14.14
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'un fils d’homme, vêtu d’une longue robe, et '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ap 15:6
+      metadata:
+        usfm: REV.15.6
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'ayant une ceinture d’or sur la poitrine. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: 'Sa tête et ses cheveux étaient blancs comme de la '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Da 7:9
+      metadata:
+        usfm: DAN.7.9
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'laine blanche, comme de la neige; '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ap 19:12
+      metadata:
+        usfm: REV.19.12
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'ses yeux étaient comme une flamme de feu; '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: 'ses pieds étaient semblables à de l’airain ardent, comme s’il eût été embrasé dans une fournaise; et sa voix était '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ap 14:2
+      metadata:
+        usfm: REV.14.2
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'comme le bruit de grandes eaux. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'Il avait dans sa main droite sept étoiles. De sa bouche sortait '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: És 49:2
+      metadata:
+        usfm: ISA.49.2
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ép 6:17
+      metadata:
+        usfm: EPH.6.17
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hé 4:12
+      metadata:
+        usfm: HEB.4.12
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ap 2:16
+      metadata:
+        usfm: REV.2.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:15
+      metadata:
+        usfm: REV.19.15
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'une épée aiguë, à deux tranchants; et son visage était comme le soleil lorsqu’il brille dans sa force. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'Quand je le vis, je tombai à ses pieds comme mort. Il posa sur moi sa main droite, en disant: '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: Ne crains point!
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: És 41:4
+      metadata:
+        usfm: ISA.41.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 44:6
+      metadata:
+        usfm: ISA.44.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 48:12
+      metadata:
+        usfm: ISA.48.12
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: Je suis le premier et le dernier,
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ro 6:9
+      metadata:
+        usfm: ROM.6.9
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: et le vivant. J’étais mort; et voici, je suis vivant aux siècles des siècles.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 12:14
+      metadata:
+        usfm: JOB.12.14
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: És 22:22
+      metadata:
+        usfm: ISA.22.22
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ap 3:7
+      metadata:
+        usfm: REV.3.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 20:1
+      metadata:
+        usfm: REV.20.1
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: Je tiens les clefs de la mort et du séjour des morts.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: Écris donc les choses que tu as vues, et celles qui sont, et celles qui doivent arriver après elles,
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: le mystère des sept étoiles que tu as vues dans ma main droite, et des sept chandeliers d’or. Les sept étoiles sont
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mal 2:7
+      metadata:
+        usfm: MAL.2.7
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: les anges des sept Églises, et les sept chandeliers sont les sept Églises.

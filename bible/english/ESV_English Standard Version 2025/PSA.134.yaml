@@ -1,280 +1,305 @@
-document_id: PSA.134,59
+document_id: PSA.134
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: 'Come, Bless the '
   - type: usfm
-    marker: s1
+    marker: nd
     children:
     - type: text
-      text: 'Come, Bless the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    marker-yv: yv-h
+      text: Lord
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: 'A Song of '
   - type: usfm
-    marker: d
-    children:
-    - type: text
-      text: 'A Song of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 120
-      - type: text
-        text: ', title'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: Ascents.
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: 'Come, bless the '
+        text: '[See '
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: Ps. 120
+      metadata:
+        usfm: PSA.120
     - type: text
-      text: ', all you '
+      text: ', title'
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 120
-      - type: text
-        text: ', title'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'servants of the '
-    - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ','
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Ascents.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'who '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 10:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 18:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Chr. 23:30
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Chr. 29:11
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 35:5
-      marker-yv: yv-n
-    - type: text
-      text: 'stand '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Chr. 9:33
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 8:35
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'by night in the house of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: '!'
-  '2':
+      text: '1'
+  - type: text
+    text: 'Come, bless the '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 28:2
-      marker-yv: yv-n
-    - type: text
-      text: 'Lift up your hands to '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 63:2
-      marker-yv: yv-n
-    - type: text
-      text: the holy place
-  - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: 'and bless the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: '!'
-  '3':
+      text: Lord
+  - type: text
+    text: ', all you '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: 'May the '
+        text: '[See '
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: Ps. 120
+      metadata:
+        usfm: PSA.120
     - type: text
-      text: ' '
+      text: ', title'
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Num. 6:24
-      marker-yv: yv-n
-    - type: text
-      text: 'bless you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 128:5
-      marker-yv: yv-n
-    - type: text
-      text: from Zion,
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'servants of the '
   - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: 'he who '
+      text: Lord
+  - type: text
+    text: ','
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'who '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 115:15
-      marker-yv: yv-n
+      - type: text
+        text: Deut. 10:8
+      metadata:
+        usfm: DEU.10.8
     - type: text
-      text: made heaven and earth!
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 18:7
+      metadata:
+        usfm: DEU.18.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Chr. 23:30
+      metadata:
+        usfm: 1CH.23.30
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Chr. 29:11
+      metadata:
+        usfm: 2CH.29.11
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 35:5
+      metadata:
+        usfm: 2CH.35.5
+    marker-yv: yv-n
+  - type: text
+    text: 'stand '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Chr. 9:33
+      metadata:
+        usfm: 1CH.9.33
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lev. 8:35
+      metadata:
+        usfm: LEV.8.35
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'by night in the house of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: '!'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 28:2
+      metadata:
+        usfm: PSA.28.2
+    marker-yv: yv-n
+  - type: text
+    text: 'Lift up your hands to '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 63:2
+      metadata:
+        usfm: PSA.63.2
+    marker-yv: yv-n
+  - type: text
+    text: the holy place
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and bless the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: '!'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'May the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Num. 6:24
+      metadata:
+        usfm: NUM.6.24
+    marker-yv: yv-n
+  - type: text
+    text: 'bless you '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 128:5
+      metadata:
+        usfm: PSA.128.5
+    marker-yv: yv-n
+  - type: text
+    text: from Zion,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'he who '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 115:15
+      metadata:
+        usfm: PSA.115.15
+    marker-yv: yv-n
+  - type: text
+    text: made heaven and earth!

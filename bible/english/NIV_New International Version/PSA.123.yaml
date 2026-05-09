@@ -1,107 +1,103 @@
-document_id: PSA.123,111
+document_id: PSA.123
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: cl
+  children:
+  - type: text
+    text: Psalm 123
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: A song of ascents.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: cl
+    marker: vlbl
     children:
     - type: text
-      text: Psalm 123
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: I lift up my eyes to you,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: to you who sit enthroned in heaven.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: d
+    marker: vlbl
     children:
     - type: text
-      text: A song of ascents.
+      text: '2'
+  - type: text
+    text: As the eyes of slaves look to the hand of their master,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: as the eyes of a female slave look to the hand of her mistress,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'so our eyes look to the '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: I lift up my eyes to you,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: to you who sit enthroned in heaven.
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: As the eyes of slaves look to the hand of their master,
-  - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: as the eyes of a female slave look to the hand of her mistress,
+      text: Lord
+  - type: text
+    text: ' our God,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: till he shows us his mercy.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: 'so our eyes look to the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' our God,'
+      text: '3'
+  - type: text
+    text: 'Have mercy on us, '
   - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: till he shows us his mercy.
-  '3':
+      text: Lord
+  - type: text
+    text: ', have mercy on us,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: for we have endured no end of contempt.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'Have mercy on us, '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ', have mercy on us,'
-  - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: for we have endured no end of contempt.
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: We have endured no end
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: of ridicule from the arrogant,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: of contempt from the proud.
+      text: '4'
+  - type: text
+    text: We have endured no end
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: of ridicule from the arrogant,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: of contempt from the proud.

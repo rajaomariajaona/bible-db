@@ -1,862 +1,713 @@
-document_id: NUM.1,21
+document_id: NUM.1
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: ms1
+  children:
+  - type: text
+    text: Recensement et organisation des Israélites
+  marker-yv: yv-h
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Le premier recensement d’Israël
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: ms1
+    marker: vlbl
     children:
     - type: text
-      text: Recensement et organisation des Israélites
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: Le premier jour du deuxième mois de la deuxième année après la sortie d’Egypte
   - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Le premier recensement d’Israël
-    marker-yv: yv-h
-  - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: Le premier jour du deuxième mois de la deuxième année après la sortie d’Egypte
+        text: '1.1 '
     - type: usfm
-      marker: f
+      marker: ft
       children:
+      - type: text
+        text: C’est-à-dire onze mois après l’arrivée des Israélites dans le désert du Sinaï (
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '1.1 '
+          text: Ex 19.1
+        metadata:
+          usfm: EXO.19.1
+      - type: text
+        text: ), un mois après l’achèvement du tabernacle (
       - type: usfm
-        marker: ft
+        marker: ref
         children:
         - type: text
-          text: C’est-à-dire onze mois après l’arrivée des Israélites dans le désert du Sinaï (
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ex 19.1
-        - type: text
-          text: ), un mois après l’achèvement du tabernacle (
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ex 40.17
-        - type: text
-          text: ) et quinze jours après la célébration de la Pâque au Sinaï (
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: 9.1-5
-        - type: text
-          text: ).
-      marker-yv: yv-n
-    - type: text
-      text: ', l’Eternel s’adressa à Moïse dans le désert du Sinaï dans la tente de la Rencontre. Il lui dit : '
-  '10':
-  - type: usfm
-    marker: li1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
+          text: Ex 40.17
+        metadata:
+          usfm: EXO.40.17
       - type: text
-        text: '10'
-    - type: text
-      text: 'pour les fils de Joseph :'
-  - type: usfm
-    marker: li2
-    children:
-    - type: text
-      text: 'pour Ephraïm : Elishama, fils d’Ammihoud ;'
-  - type: usfm
-    marker: li2
-    children:
-    - type: text
-      text: 'pour Manassé : Gamliel, fils de Pédahtsour ;'
-  - type: usfm
-    marker: li1
-    children:
-    - type: text
-      text: '– '
-  '11':
-  - type: usfm
-    marker: li1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '11'
-    - type: text
-      text: 'pour Benjamin : Abidân, fils de Guideoni ;'
-  - type: usfm
-    marker: li1
-    children:
-    - type: text
-      text: '– '
-  '12':
-  - type: usfm
-    marker: li1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '12'
-    - type: text
-      text: 'pour Dan : Ahiézer, fils d’Ammishaddaï ;'
-  - type: usfm
-    marker: li1
-    children:
-    - type: text
-      text: '– '
-  '13':
-  - type: usfm
-    marker: li1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '13'
-    - type: text
-      text: 'pour Aser : Paguiel, fils d’Okrân ;'
-  - type: usfm
-    marker: li1
-    children:
-    - type: text
-      text: '– '
-  '14':
-  - type: usfm
-    marker: li1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '14'
-    - type: text
-      text: 'pour Gad : Eliasaph, fils de Deouel'
-    - type: usfm
-      marker: f
-      children:
+        text: ) et quinze jours après la célébration de la Pâque au Sinaï (
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '1.14 '
+          text: 9.1-5
+        metadata:
+          usfm: NUM.9.1+NUM.9.2+NUM.9.3+NUM.9.4+NUM.9.5
+      - type: text
+        text: ).
+    marker-yv: yv-n
+  - type: text
+    text: ', l’Eternel s’adressa à Moïse dans le désert du Sinaï dans la tente de la Rencontre. Il lui dit : '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'Faites le recensement de toute la communauté des Israélites selon leurs familles et leurs groupes familiaux, en comptant tous les hommes '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: âgés de vingt ans et plus, tous ceux qui sont aptes à servir dans l’armée d’Israël. Toi et Aaron, vous les dénombrerez par corps d’armée.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'Vous vous adjoindrez un homme par tribu ; vous prendrez celui qui se trouve à la tête de son groupe familial. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: Voici le nom des hommes qui vous assisteront
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1.5 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Les tribus sont mentionnées dans l’ordre suivant : 1. les fils de Léa (sans Lévi, v. 47) ; 2. les fils de Rachel ; 3. les fils des servantes. Les noms de ces hommes reviennent aux chap. 2 ; 7 et '
       - type: usfm
-        marker: ft
+        marker: ref
         children:
         - type: text
-          text: 'L’ancienne version grecque et la version syriaque ont : '
+          text: '10'
+        metadata:
+          usfm: NUM.10
+      - type: text
+        text: .
+    marker-yv: yv-n
+  - type: text
+    text: '  :'
+- type: usfm
+  marker: li1
+  children:
+  - type: text
+    text: '– pour Ruben : Elitsour, fils de Shedéour ;'
+- type: usfm
+  marker: li1
+  children:
+  - type: text
+    text: '– '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'pour Siméon : Sheloumiel, fils de Tsourishaddaï ;'
+- type: usfm
+  marker: li1
+  children:
+  - type: text
+    text: '– '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'pour Juda : Nahshôn, fils d’Amminadab ;'
+- type: usfm
+  marker: li1
+  children:
+  - type: text
+    text: '– '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'pour Issacar : Netanéel, fils de Tsouar ;'
+- type: usfm
+  marker: li1
+  children:
+  - type: text
+    text: '– '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'pour Zabulon : Eliab, fils de Hélôn ;'
+- type: usfm
+  marker: li1
+  children:
+  - type: text
+    text: '– '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'pour les fils de Joseph :'
+- type: usfm
+  marker: li2
+  children:
+  - type: text
+    text: 'pour Ephraïm : Elishama, fils d’Ammihoud ;'
+- type: usfm
+  marker: li2
+  children:
+  - type: text
+    text: 'pour Manassé : Gamliel, fils de Pédahtsour ;'
+- type: usfm
+  marker: li1
+  children:
+  - type: text
+    text: '– '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'pour Benjamin : Abidân, fils de Guideoni ;'
+- type: usfm
+  marker: li1
+  children:
+  - type: text
+    text: '– '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'pour Dan : Ahiézer, fils d’Ammishaddaï ;'
+- type: usfm
+  marker: li1
+  children:
+  - type: text
+    text: '– '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'pour Aser : Paguiel, fils d’Okrân ;'
+- type: usfm
+  marker: li1
+  children:
+  - type: text
+    text: '– '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: 'pour Gad : Eliasaph, fils de Deouel'
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1.14 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'L’ancienne version grecque et la version syriaque ont : '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: 'Reouel '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: '(voir '
       - type: usfm
-        marker: fqa
+        marker: ref
         children:
         - type: text
-          text: 'Reouel '
+          text: '2.14'
+        metadata:
+          usfm: NUM.2.14
+      - type: text
+        text: ).
+    marker-yv: yv-n
+  - type: text
+    text: '  ;'
+- type: usfm
+  marker: li1
+  children:
+  - type: text
+    text: '– '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: 'pour Nephtali : Ahira, fils d’Enân.'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'Tels sont les membres de la communauté qui furent convoqués. C’étaient les chefs de leurs tribus, ils étaient aussi à la tête des corps d’armée d’Israël. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'Moïse et Aaron s’adjoignirent ces hommes qui avaient été nommément désignés '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: 'et convoquèrent toute l’assemblée, le premier jour du second mois ; les Israélites furent recensés, selon leurs familles et leurs groupes familiaux, on releva le nom des hommes de vingt ans et au-dessus, un par un, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: comme l’Eternel l’avait ordonné à Moïse. De cette manière, Moïse fit leur dénombrement au désert du Sinaï.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: text
+    text: 'On établit le recensement des descendants de Ruben, premier-né d’Israël, par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: text
+    text: On en dénombra 46 500
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1.21 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Tous les nombres sont arrondis à la centaine (sauf pour Gad, v. 25, dont le total est aussi arrondi dans certaines versions). Selon certains, les '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: 'milliers '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'que contiennent les divers nombres du recensement ne désigneraient pas mille individus mais des corps d’armées moins nombreux ou des chefs de troupe, conformément au sens que peut avoir le terme en hébreu (voir, p. ex., '
       - type: usfm
-        marker: ft
+        marker: ref
         children:
         - type: text
-          text: '(voir '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: '2.14'
-        - type: text
-          text: ).
-      marker-yv: yv-n
-    - type: text
-      text: '  ;'
-  - type: usfm
-    marker: li1
-    children:
-    - type: text
-      text: '– '
-  '15':
-  - type: usfm
-    marker: li1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
+          text: '31.14'
+        metadata:
+          usfm: NUM.31.14
       - type: text
-        text: '15'
-    - type: text
-      text: 'pour Nephtali : Ahira, fils d’Enân.'
-  '16':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: text
-      text: 'Tels sont les membres de la communauté qui furent convoqués. C’étaient les chefs de leurs tribus, ils étaient aussi à la tête des corps d’armée d’Israël. '
-  '17':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: text
-      text: 'Moïse et Aaron s’adjoignirent ces hommes qui avaient été nommément désignés '
-  '18':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
-    - type: text
-      text: 'et convoquèrent toute l’assemblée, le premier jour du second mois ; les Israélites furent recensés, selon leurs familles et leurs groupes familiaux, on releva le nom des hommes de vingt ans et au-dessus, un par un, '
-  '19':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: text
-      text: comme l’Eternel l’avait ordonné à Moïse. De cette manière, Moïse fit leur dénombrement au désert du Sinaï.
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'Faites le recensement de toute la communauté des Israélites selon leurs familles et leurs groupes familiaux, en comptant tous les hommes '
-  '20':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '20'
-    - type: text
-      text: 'On établit le recensement des descendants de Ruben, premier-né d’Israël, par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée. '
-  '21':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '21'
-    - type: text
-      text: On en dénombra 46 500
-    - type: usfm
-      marker: f
-      children:
+        text: ', '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '1.21 '
+          text: '48'
+        metadata:
+          usfm: NUM.31.48
+      - type: text
+        text: ). Une telle interprétation pose le problème du total des v. 45-46.
+    marker-yv: yv-n
+  - type: text
+    text: .
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: 'On établit le recensement des descendants de Siméon par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: text
+    text: On en dénombra 59 300.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '24'
+  - type: text
+    text: 'On établit le recensement des descendants de Gad par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '25'
+  - type: text
+    text: On en dénombra 45 650.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '26'
+  - type: text
+    text: 'On établit le recensement des descendants de Juda par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '27'
+  - type: text
+    text: On en dénombra 74 600.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '28'
+  - type: text
+    text: 'On établit le recensement des descendants d’Issacar par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '29'
+  - type: text
+    text: On en dénombra 54 400.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '30'
+  - type: text
+    text: 'On établit le recensement des descendants de Zabulon par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '31'
+  - type: text
+    text: On en dénombra 57 400.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '32'
+  - type: text
+    text: Parmi les fils de Joseph
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1.32 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: Les descendants de Lévi étant exclus de ce recensement (v. 47), les descendants de Joseph sont groupés en deux tribus composées de la famille de ses deux fils, Ephraïm et Manassé. Le nombre de douze tribus est ainsi maintenu, et Joseph, qui devait recevoir le droit d’aînesse (
       - type: usfm
-        marker: ft
+        marker: ref
         children:
         - type: text
-          text: 'Tous les nombres sont arrondis à la centaine (sauf pour Gad, v. 25, dont le total est aussi arrondi dans certaines versions). Selon certains, les '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'milliers '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'que contiennent les divers nombres du recensement ne désigneraient pas mille individus mais des corps d’armées moins nombreux ou des chefs de troupe, conformément au sens que peut avoir le terme en hébreu (voir, p. ex., '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: '31.14'
-        - type: text
-          text: ', '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: '48'
-        - type: text
-          text: ). Une telle interprétation pose le problème du total des v. 45-46.
-      marker-yv: yv-n
-    - type: text
-      text: .
-  '22':
+          text: 1 Ch 5.2
+        metadata:
+          usfm: 1CH.5.2
+      - type: text
+        text: ), a un héritage double.
+    marker-yv: yv-n
+  - type: text
+    text: '  : on établit le recensement des descendants d’Ephraïm par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '33'
+  - type: text
+    text: 'On en dénombra 40 500. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '34'
+  - type: text
+    text: 'On établit le recensement des descendants de Manassé par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '35'
+  - type: text
+    text: On en dénombra 32 200.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '36'
+  - type: text
+    text: 'On établit le recensement des descendants de Benjamin par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '37'
+  - type: text
+    text: On en dénombra 35 400.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '38'
+  - type: text
+    text: 'On établit le recensement des descendants de Dan par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '39'
+  - type: text
+    text: On en dénombra 62 700.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '40'
+  - type: text
+    text: 'On établit le recensement des descendants d’Aser par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '41'
+  - type: text
+    text: On en dénombra 41 500.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '42'
+  - type: text
+    text: 'On établit le recensement des descendants de Nephtali par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '43'
+  - type: text
+    text: On en dénombra 53 400.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '44'
+  - type: text
+    text: 'Tels sont les effectifs que recensèrent Moïse et Aaron, assistés de douze chefs d’Israël, un par tribu. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '45'
+  - type: text
+    text: 'Le total des Israélites de vingt ans et plus, aptes à servir dans l’armée, dont on fit le recensement selon leurs groupes familiaux, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '46'
+  - type: text
+    text: était de 603 550.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '47'
+  - type: text
+    text: 'Les lévites, en tant que tribu patriarcale, ne furent pas recensés avec les autres tribus. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '48'
+  - type: text
+    text: 'En effet, l’Eternel avait dit à Moïse : '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '49'
+  - type: text
+    text: N’inclus pas la tribu de Lévi dans le recensement et ne les compte pas avec les Israélites
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '22'
-    - type: text
-      text: 'On établit le recensement des descendants de Siméon par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée. '
-  '23':
-  - type: usfm
-    marker: p
-    children:
+        text: '1.49 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '23'
-    - type: text
-      text: On en dénombra 59 300.
-  '24':
+        text: Ils seront recensés à part (3.14-39 ; 4.34-49).
+    marker-yv: yv-n
+  - type: text
+    text: '. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '50'
+  - type: text
+    text: Charge-les du service du tabernacle qui abrite l’acte de l’alliance
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '24'
-    - type: text
-      text: 'On établit le recensement des descendants de Gad par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée. '
-  '25':
-  - type: usfm
-    marker: p
-    children:
+        text: '1.50 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '25'
-    - type: text
-      text: On en dénombra 45 650.
-  '26':
+        text: C’est-à-dire les dix commandements gravés sur des tablettes de pierre (Ex 31.18 ; 32.15 ; 34.29) déposées dans le coffre (Ex 25.16, 21 ; 40.20).
+    marker-yv: yv-n
+  - type: text
+    text: ', de tous ses ustensiles et de tout son matériel ; ce sont eux qui transporteront le tabernacle avec tous ses accessoires et qui en assureront le service ; ils camperont autour du tabernacle. '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '26'
-    - type: text
-      text: 'On établit le recensement des descendants de Juda par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée. '
-  '27':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '27'
-    - type: text
-      text: On en dénombra 74 600.
-  '28':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '28'
-    - type: text
-      text: 'On établit le recensement des descendants d’Issacar par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée. '
-  '29':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '29'
-    - type: text
-      text: On en dénombra 54 400.
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: âgés de vingt ans et plus, tous ceux qui sont aptes à servir dans l’armée d’Israël. Toi et Aaron, vous les dénombrerez par corps d’armée.
-  '30':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '30'
-    - type: text
-      text: 'On établit le recensement des descendants de Zabulon par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée. '
-  '31':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '31'
-    - type: text
-      text: On en dénombra 57 400.
-  '32':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '32'
-    - type: text
-      text: Parmi les fils de Joseph
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1.32 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: Les descendants de Lévi étant exclus de ce recensement (v. 47), les descendants de Joseph sont groupés en deux tribus composées de la famille de ses deux fils, Ephraïm et Manassé. Le nombre de douze tribus est ainsi maintenu, et Joseph, qui devait recevoir le droit d’aînesse (
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: 1 Ch 5.2
-        - type: text
-          text: ), a un héritage double.
-      marker-yv: yv-n
-    - type: text
-      text: '  : on établit le recensement des descendants d’Ephraïm par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée. '
-  '33':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '33'
-    - type: text
-      text: 'On en dénombra 40 500. '
-  '34':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '34'
-    - type: text
-      text: 'On établit le recensement des descendants de Manassé par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée. '
-  '35':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '35'
-    - type: text
-      text: On en dénombra 32 200.
-  '36':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '36'
-    - type: text
-      text: 'On établit le recensement des descendants de Benjamin par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée. '
-  '37':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '37'
-    - type: text
-      text: On en dénombra 35 400.
-  '38':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '38'
-    - type: text
-      text: 'On établit le recensement des descendants de Dan par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée. '
-  '39':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '39'
-    - type: text
-      text: On en dénombra 62 700.
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'Vous vous adjoindrez un homme par tribu ; vous prendrez celui qui se trouve à la tête de son groupe familial. '
-  '40':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '40'
-    - type: text
-      text: 'On établit le recensement des descendants d’Aser par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée. '
-  '41':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '41'
-    - type: text
-      text: On en dénombra 41 500.
-  '42':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '42'
-    - type: text
-      text: 'On établit le recensement des descendants de Nephtali par familles et par groupes familiaux en relevant un par un le nom de tous les hommes de vingt ans et plus, aptes à servir dans l’armée. '
-  '43':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '43'
-    - type: text
-      text: On en dénombra 53 400.
-  '44':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '44'
-    - type: text
-      text: 'Tels sont les effectifs que recensèrent Moïse et Aaron, assistés de douze chefs d’Israël, un par tribu. '
-  '45':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '45'
-    - type: text
-      text: 'Le total des Israélites de vingt ans et plus, aptes à servir dans l’armée, dont on fit le recensement selon leurs groupes familiaux, '
-  '46':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '46'
-    - type: text
-      text: était de 603 550.
-  '47':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '47'
-    - type: text
-      text: 'Les lévites, en tant que tribu patriarcale, ne furent pas recensés avec les autres tribus. '
-  '48':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '48'
-    - type: text
-      text: 'En effet, l’Eternel avait dit à Moïse : '
-  '49':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '49'
-    - type: text
-      text: N’inclus pas la tribu de Lévi dans le recensement et ne les compte pas avec les Israélites
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1.49 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: Ils seront recensés à part (3.14-39 ; 4.34-49).
-      marker-yv: yv-n
-    - type: text
-      text: '. '
-  '5':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: Voici le nom des hommes qui vous assisteront
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1.5 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Les tribus sont mentionnées dans l’ordre suivant : 1. les fils de Léa (sans Lévi, v. 47) ; 2. les fils de Rachel ; 3. les fils des servantes. Les noms de ces hommes reviennent aux chap. 2 ; 7 et '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: '10'
-        - type: text
-          text: .
-      marker-yv: yv-n
-    - type: text
-      text: '  :'
-  - type: usfm
-    marker: li1
+    marker: vlbl
     children:
     - type: text
-      text: '– pour Ruben : Elitsour, fils de Shedéour ;'
+      text: '51'
+  - type: text
+    text: 'Quand il sera déplacé, les lévites le démonteront, puis ils le dresseront au nouveau campement. Tout membre étranger à leur tribu qui en approchera sera puni de mort. '
   - type: usfm
-    marker: li1
+    marker: vlbl
     children:
     - type: text
-      text: '– '
-  '50':
+      text: '52'
+  - type: text
+    text: 'Les Israélites camperont chacun dans l’aire qui lui sera assignée, sous sa bannière, et selon leurs corps d’armée. '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '50'
-    - type: text
-      text: Charge-les du service du tabernacle qui abrite l’acte de l’alliance
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1.50 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: C’est-à-dire les dix commandements gravés sur des tablettes de pierre (Ex 31.18 ; 32.15 ; 34.29) déposées dans le coffre (Ex 25.16, 21 ; 40.20).
-      marker-yv: yv-n
-    - type: text
-      text: ', de tous ses ustensiles et de tout son matériel ; ce sont eux qui transporteront le tabernacle avec tous ses accessoires et qui en assureront le service ; ils camperont autour du tabernacle. '
-  '51':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '51'
-    - type: text
-      text: 'Quand il sera déplacé, les lévites le démonteront, puis ils le dresseront au nouveau campement. Tout membre étranger à leur tribu qui en approchera sera puni de mort. '
-  '52':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '52'
-    - type: text
-      text: 'Les Israélites camperont chacun dans l’aire qui lui sera assignée, sous sa bannière, et selon leurs corps d’armée. '
-  '53':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '53'
-    - type: text
-      text: Les lévites camperont autour du tabernacle qui abrite l’acte de l’alliance, pour que ma colère ne s’abatte pas sur la communauté des Israélites. Les lévites prendront soin du tabernacle.
-  '54':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '54'
-    - type: text
-      text: Les Israélites obéirent à tous les ordres que l’Eternel avait donnés à Moïse et les accomplirent.
-  '6':
-  - type: usfm
-    marker: li1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'pour Siméon : Sheloumiel, fils de Tsourishaddaï ;'
-  - type: usfm
-    marker: li1
+    marker: vlbl
     children:
     - type: text
-      text: '– '
-  '7':
+      text: '53'
+  - type: text
+    text: Les lévites camperont autour du tabernacle qui abrite l’acte de l’alliance, pour que ma colère ne s’abatte pas sur la communauté des Israélites. Les lévites prendront soin du tabernacle.
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: li1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: 'pour Juda : Nahshôn, fils d’Amminadab ;'
-  - type: usfm
-    marker: li1
+    marker: vlbl
     children:
     - type: text
-      text: '– '
-  '8':
-  - type: usfm
-    marker: li1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: 'pour Issacar : Netanéel, fils de Tsouar ;'
-  - type: usfm
-    marker: li1
-    children:
-    - type: text
-      text: '– '
-  '9':
-  - type: usfm
-    marker: li1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: 'pour Zabulon : Eliab, fils de Hélôn ;'
-  - type: usfm
-    marker: li1
-    children:
-    - type: text
-      text: '– '
+      text: '54'
+  - type: text
+    text: Les Israélites obéirent à tous les ordres que l’Eternel avait donnés à Moïse et les accomplirent.

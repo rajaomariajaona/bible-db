@@ -1,411 +1,348 @@
-document_id: GAL.2,21
+document_id: GAL.2
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Paul et les autres apôtres
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Paul et les autres apôtres
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: Ce n’est que quatorze ans plus tard que je suis remonté à Jérusalem en compagnie de Barnabas. J’avais aussi emmené Tite avec moi
   - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: Ce n’est que quatorze ans plus tard que je suis remonté à Jérusalem en compagnie de Barnabas. J’avais aussi emmené Tite avec moi
+        text: '2.1 '
     - type: usfm
-      marker: f
+      marker: ft
       children:
+      - type: text
+        text: 'Selon plusieurs, il s’agirait du voyage mentionné en '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '2.1 '
+          text: Ac 11.30
+        metadata:
+          usfm: ACT.11.30
+      - type: text
+        text: ' et '
       - type: usfm
-        marker: ft
+        marker: ref
         children:
         - type: text
-          text: 'Selon plusieurs, il s’agirait du voyage mentionné en '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ac 11.30
-        - type: text
-          text: ' et '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: '12.25'
-        - type: text
-          text: ' autour de l’an 46. D’autres pensent qu’il s’agirait du voyage mentionné en '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ac 15
-        - type: text
-          text: '. '
+          text: '12.25'
+        metadata:
+          usfm: ACT.12.25
+      - type: text
+        text: ' autour de l’an 46. D’autres pensent qu’il s’agirait du voyage mentionné en '
       - type: usfm
-        marker: fq
+        marker: ref
         children:
         - type: text
-          text: Barnabas
+          text: Ac 15
+        metadata:
+          usfm: ACT.15
+      - type: text
+        text: '. '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: Barnabas
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: ': '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: un lévite converti, originaire de l’île de Chypre (
       - type: usfm
-        marker: fqa
+        marker: ref
         children:
         - type: text
-          text: ': '
+          text: Ac 4.36
+        metadata:
+          usfm: ACT.4.36
+      - type: text
+        text: '), qui a accompagné Paul lors de son premier voyage missionnaire. '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: Tite
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: ': '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: un chrétien d’origine non juive auquel Paul écrira une lettre vers la fin de sa vie.
+    marker-yv: yv-n
+  - type: text
+    text: '. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'J’ai fait ce voyage pour obéir à une révélation divine. J’y ai exposé l’Evangile que j’annonce parmi les non-Juifs, je l’ai exposé dans un entretien particulier à ceux qui sont les plus considérés. Car je ne voulais pas que tout mon travail passé et futur soit compromis. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'Or Tite, mon compagnon, était d’origine païenne. Eh bien, on ne l’a même pas obligé à se soumettre au rite de la circoncision. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'Et cela, malgré la présence de faux frères, des intrus qui s’étaient infiltrés dans nos rangs pour espionner la liberté dont nous jouissons dans notre union avec Jésus-Christ. Ils voulaient faire de nous des esclaves. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: Mais nous ne leur avons pas cédé un seul instant ni fait la moindre concession afin que la vérité de l’Evangile soit maintenue pour vous.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'Quelle a été, à cet égard, l’attitude des personnes les plus considérées ? – En fait, ce qu’elles étaient alors m’importe peu, car Dieu ne fait pas de favoritisme. – Eh bien, ces personnes-là ne m’ont pas imposé d’autres directives. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'Au contraire ! Ils ont constaté que Dieu m’avait confié la charge d’annoncer l’Evangile aux non-Juifs comme à Pierre celle de l’annoncer aux Juifs. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: '– Car celui qui a agi en Pierre pour qu’il soit l’apôtre des Juifs a aussi agi en moi pour que je sois celui des non-Juifs. – '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'Ainsi Jacques, Pierre et Jean, qui sont considérés comme « colonnes » de l’Eglise, ont reconnu que Dieu, dans sa grâce, m’avait confié cette tâche particulière. C’est pourquoi ils nous ont serré la main, à Barnabas et à moi, en signe d’accord et de communion ; et nous avons convenu ensemble que nous irions, nous, vers les peuples païens tandis qu’eux se consacreraient aux Juifs. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: Ils nous ont seulement demandé de nous souvenir des pauvres – ce que j’ai bien pris soin de faire.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Paul et Pierre à Antioche
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: Mais, lorsque Pierre est venu à Antioche
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '2.11 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Antioche de Syrie (voir '
       - type: usfm
-        marker: ft
+        marker: ref
         children:
         - type: text
-          text: un lévite converti, originaire de l’île de Chypre (
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ac 4.36
-        - type: text
-          text: '), qui a accompagné Paul lors de son premier voyage missionnaire. '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: Tite
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: ': '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: un chrétien d’origine non juive auquel Paul écrira une lettre vers la fin de sa vie.
-      marker-yv: yv-n
-    - type: text
-      text: '. '
-  '10':
+          text: Ac 11.19-26
+        metadata:
+          usfm: ACT.11.19+ACT.11.20+ACT.11.21+ACT.11.22+ACT.11.23+ACT.11.24+ACT.11.25+ACT.11.26
+      - type: text
+        text: ).
+    marker-yv: yv-n
+  - type: text
+    text: ', je me suis opposé ouvertement à lui, car il avait tort. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: En effet, avant l’arrivée de quelques personnes de l’entourage de Jacques, il prenait part aux repas communs avec les croyants non juifs ; mais après leur venue, il s’est esquivé et s’est tenu à l’écart, parce qu’il craignait les croyants d’origine juive
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: Ils nous ont seulement demandé de nous souvenir des pauvres – ce que j’ai bien pris soin de faire.
-  - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Paul et Pierre à Antioche
-    marker-yv: yv-h
-  '11':
-  - type: usfm
-    marker: p
-    children:
+        text: '2.12 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '11'
-    - type: text
-      text: Mais, lorsque Pierre est venu à Antioche
+        text: 'Autre traduction : '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '2.11 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Antioche de Syrie (voir '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ac 11.19-26
-        - type: text
-          text: ).
-      marker-yv: yv-n
-    - type: text
-      text: ', je me suis opposé ouvertement à lui, car il avait tort. '
-  '12':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: fqa
       children:
       - type: text
-        text: '12'
-    - type: text
-      text: En effet, avant l’arrivée de quelques personnes de l’entourage de Jacques, il prenait part aux repas communs avec les croyants non juifs ; mais après leur venue, il s’est esquivé et s’est tenu à l’écart, parce qu’il craignait les croyants d’origine juive
+        text: 'il craignait les Juifs. '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '2.12 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Autre traduction : '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'il craignait les Juifs. '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: La Loi interdisait aux Juifs de manger avec des non-Juifs ; or, la cène se prenait au cours d’un repas. Pour ne pas scandaliser les judaïsants, Pierre s’est plié à leurs exigences et n’a donc plus mangé (ni probablement pris la cène) avec des chrétiens issus du paganisme.
-      marker-yv: yv-n
-    - type: text
-      text: '. '
-  '13':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '13'
-    - type: text
-      text: 'Comme lui, les autres chrétiens d’origine juive se sont mis, eux aussi, à cacher leurs véritables convictions, au point que Barnabas lui-même s’est laissé entraîner par leur dissimulation. '
-  '14':
+        text: La Loi interdisait aux Juifs de manger avec des non-Juifs ; or, la cène se prenait au cours d’un repas. Pour ne pas scandaliser les judaïsants, Pierre s’est plié à leurs exigences et n’a donc plus mangé (ni probablement pris la cène) avec des chrétiens issus du paganisme.
+    marker-yv: yv-n
+  - type: text
+    text: '. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'Comme lui, les autres chrétiens d’origine juive se sont mis, eux aussi, à cacher leurs véritables convictions, au point que Barnabas lui-même s’est laissé entraîner par leur dissimulation. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: 'Mais quand j’ai vu qu’ils ne marchaient pas droit, selon la vérité de l’Evangile, j’ai dit à Pierre devant tous les frères : « Toi qui es juif, tu vis comme un croyant d’origine païenne, et non comme un Juif. Comment peux-tu vouloir obliger les frères et sœurs d’origine païenne à vivre comme des Juifs ? » '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: Nous qui sommes juifs de naissance, nous ne faisons pas partie de ces « pécheurs » que sont les païens
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '14'
-    - type: text
-      text: 'Mais quand j’ai vu qu’ils ne marchaient pas droit, selon la vérité de l’Evangile, j’ai dit à Pierre devant tous les frères : « Toi qui es juif, tu vis comme un croyant d’origine païenne, et non comme un Juif. Comment peux-tu vouloir obliger les frères et sœurs d’origine païenne à vivre comme des Juifs ? » '
-  '15':
+        text: '2.15 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: Les Juifs traitaient tous les païens de pécheurs.
+    marker-yv: yv-n
+  - type: text
+    text: '. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'Cependant, nous avons compris qu’on est déclaré juste devant Dieu, non parce qu’on accomplit les œuvres que commande la Loi, mais uniquement par la foi en Jésus-Christ. C’est pourquoi nous avons, nous aussi, placé notre confiance en Jésus-Christ pour être déclarés justes par la foi et non parce que nous aurions accompli ce que la Loi ordonne. Car '
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: personne ne sera déclaré juste devant Dieu
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '15'
-    - type: text
-      text: Nous qui sommes juifs de naissance, nous ne faisons pas partie de ces « pécheurs » que sont les païens
+        text: '2.16 '
     - type: usfm
-      marker: f
+      marker: ft
       children:
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '2.15 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: Les Juifs traitaient tous les païens de pécheurs.
-      marker-yv: yv-n
-    - type: text
-      text: '. '
-  '16':
+          text: Ps 143.2
+        metadata:
+          usfm: PSA.143.2
+      - type: text
+        text: .
+    marker-yv: yv-n
+  - type: text
+    text: ' parce qu’il aura accompli ce qu’ordonne la Loi. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
     - type: text
-      text: 'Cependant, nous avons compris qu’on est déclaré juste devant Dieu, non parce qu’on accomplit les œuvres que commande la Loi, mais uniquement par la foi en Jésus-Christ. C’est pourquoi nous avons, nous aussi, placé notre confiance en Jésus-Christ pour être déclarés justes par la foi et non parce que nous aurions accompli ce que la Loi ordonne. Car '
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: personne ne sera déclaré juste devant Dieu
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '2.16 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ps 143.2
-        - type: text
-          text: .
-      marker-yv: yv-n
-    - type: text
-      text: ' parce qu’il aura accompli ce qu’ordonne la Loi. '
-  '17':
+      text: '17'
+  - type: text
+    text: 'Mais si, en cherchant à être déclarés justes dans l’union avec Christ, nous avons montré par là même que nous étions des pécheurs comme les païens, cela signifie-t-il que Christ est complice du péché ? Loin de là ! '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
     - type: text
-      text: 'Mais si, en cherchant à être déclarés justes dans l’union avec Christ, nous avons montré par là même que nous étions des pécheurs comme les païens, cela signifie-t-il que Christ est complice du péché ? Loin de là ! '
-  '18':
+      text: '18'
+  - type: text
+    text: 'Car si je remets en vigueur le régime de la Loi que j’ai abandonné, alors je me place moi-même dans la situation d’un homme qui transgresse la Loi. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
     - type: text
-      text: 'Car si je remets en vigueur le régime de la Loi que j’ai abandonné, alors je me place moi-même dans la situation d’un homme qui transgresse la Loi. '
-  '19':
+      text: '19'
+  - type: text
+    text: 'Car c’est par la Loi que je suis mort au régime de la Loi afin de vivre pour Dieu. En effet, je suis crucifié avec Christ. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
     - type: text
-      text: 'Car c’est par la Loi que je suis mort au régime de la Loi afin de vivre pour Dieu. En effet, je suis crucifié avec Christ. '
-  '2':
+      text: '20'
+  - type: text
+    text: 'Ce n’est plus moi qui vis, c’est Christ qui vit en moi. Ma vie en tant qu’homme, je la vis maintenant dans la foi au Fils de Dieu qui, par amour pour moi, s’est livré à la mort à ma place. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
     - type: text
-      text: 'J’ai fait ce voyage pour obéir à une révélation divine. J’y ai exposé l’Evangile que j’annonce parmi les non-Juifs, je l’ai exposé dans un entretien particulier à ceux qui sont les plus considérés. Car je ne voulais pas que tout mon travail passé et futur soit compromis. '
-  '20':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '20'
-    - type: text
-      text: 'Ce n’est plus moi qui vis, c’est Christ qui vit en moi. Ma vie en tant qu’homme, je la vis maintenant dans la foi au Fils de Dieu qui, par amour pour moi, s’est livré à la mort à ma place. '
-  '21':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '21'
-    - type: text
-      text: Ainsi, je ne rejette pas la grâce de Dieu car si c’est l’obéissance à la Loi qui permet d’être déclaré juste, alors Christ est mort pour rien !
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'Or Tite, mon compagnon, était d’origine païenne. Eh bien, on ne l’a même pas obligé à se soumettre au rite de la circoncision. '
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'Et cela, malgré la présence de faux frères, des intrus qui s’étaient infiltrés dans nos rangs pour espionner la liberté dont nous jouissons dans notre union avec Jésus-Christ. Ils voulaient faire de nous des esclaves. '
-  '5':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: Mais nous ne leur avons pas cédé un seul instant ni fait la moindre concession afin que la vérité de l’Evangile soit maintenue pour vous.
-  '6':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'Quelle a été, à cet égard, l’attitude des personnes les plus considérées ? – En fait, ce qu’elles étaient alors m’importe peu, car Dieu ne fait pas de favoritisme. – Eh bien, ces personnes-là ne m’ont pas imposé d’autres directives. '
-  '7':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: 'Au contraire ! Ils ont constaté que Dieu m’avait confié la charge d’annoncer l’Evangile aux non-Juifs comme à Pierre celle de l’annoncer aux Juifs. '
-  '8':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: '– Car celui qui a agi en Pierre pour qu’il soit l’apôtre des Juifs a aussi agi en moi pour que je sois celui des non-Juifs. – '
-  '9':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: 'Ainsi Jacques, Pierre et Jean, qui sont considérés comme « colonnes » de l’Eglise, ont reconnu que Dieu, dans sa grâce, m’avait confié cette tâche particulière. C’est pourquoi ils nous ont serré la main, à Barnabas et à moi, en signe d’accord et de communion ; et nous avons convenu ensemble que nous irions, nous, vers les peuples païens tandis qu’eux se consacreraient aux Juifs. '
+      text: '21'
+  - type: text
+    text: Ainsi, je ne rejette pas la grâce de Dieu car si c’est l’obéissance à la Loi qui permet d’être déclaré juste, alors Christ est mort pour rien !

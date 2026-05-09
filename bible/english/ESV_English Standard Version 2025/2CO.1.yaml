@@ -1,1450 +1,1547 @@
-document_id: 2CO.1,59
+document_id: 2CO.1
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Greeting
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Greeting
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Paul, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Eph. 1:1
+      metadata:
+        usfm: EPH.1.1
     - type: text
-      text: 'Paul, '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 1:1
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col. 1:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 1:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Tim. 1:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Titus 1:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 1:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gal. 1:1
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: Col. 1:1
+      metadata:
+        usfm: COL.1.1
     - type: text
-      text: 'an apostle of Christ Jesus '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 1:1
-      marker-yv: yv-n
+      - type: text
+        text: 1 Tim. 1:1
+      metadata:
+        usfm: 1TI.1.1
     - type: text
-      text: 'by the will of God, and '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Thess. 3:2
-      marker-yv: yv-n
+      - type: text
+        text: 2 Tim. 1:1
+      metadata:
+        usfm: 2TI.1.1
     - type: text
-      text: Timothy our brother,
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Titus 1:1
+      metadata:
+        usfm: TIT.1.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 1:1
+      metadata:
+        usfm: ROM.1.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gal. 1:1
+      metadata:
+        usfm: GAL.1.1
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'an apostle of Christ Jesus '
   - type: usfm
-    marker: p
-    children:
-    - type: text
-      text: 'To the church of God that is at Corinth, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Phil. 1:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col. 1:2
-      marker-yv: yv-n
-    - type: text
-      text: 'with all the saints who are in the whole of Achaia:'
-  '10':
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '10'
+        text: 'See '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 15:31
-      marker-yv: yv-n
-    - type: text
-      text: 'He delivered us from such a deadly peril, and he will deliver us. '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 4:10
-      marker-yv: yv-n
-    - type: text
-      text: 'On him we have set our hope that he will deliver us again. '
-  '11':
+      - type: text
+        text: 1 Cor. 1:1
+      metadata:
+        usfm: 1CO.1.1
+    marker-yv: yv-n
+  - type: text
+    text: 'by the will of God, and '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '11'
+        text: 'See '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 12:5
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 15:30
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Phil. 1:19
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Philem. 22
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'You also must help us by prayer, so that many will give thanks on our behalf '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 9:11
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '12'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: for the blessing granted us through the prayers of many.
+        text: 1 Thess. 3:2
+      metadata:
+        usfm: 1TH.3.2
+    marker-yv: yv-n
+  - type: text
+    text: Timothy our brother,
+- type: usfm
+  marker: p
+  children:
+  - type: text
+    text: 'To the church of God that is at Corinth, '
   - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Paul’s Change of Plans
-    marker-yv: yv-h
-  '12':
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: Phil. 1:1
+      metadata:
+        usfm: PHP.1.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Col. 1:2
+      metadata:
+        usfm: COL.1.2
+    marker-yv: yv-n
+  - type: text
+    text: 'with all the saints who are in the whole of Achaia:'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 1:7
+      metadata:
+        usfm: ROM.1.7
+    marker-yv: yv-n
+  - type: text
+    text: Grace to you and peace from God our Father and the Lord Jesus Christ.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: God of All Comfort
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eph. 1:3
+      metadata:
+        usfm: EPH.1.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pet. 1:3
+      metadata:
+        usfm: 1PE.1.3
+    marker-yv: yv-n
+  - type: text
+    text: 'Blessed be the '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 15:6
+      metadata:
+        usfm: ROM.15.6
+    marker-yv: yv-n
+  - type: text
+    text: 'God and Father of our Lord Jesus Christ, the Father of mercies and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 15:5
+      metadata:
+        usfm: ROM.15.5
+    marker-yv: yv-n
+  - type: text
+    text: 'God of all comfort, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 51:12
+      metadata:
+        usfm: ISA.51.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 66:13
+      metadata:
+        usfm: ISA.66.13
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'who comforts us in all our affliction, so that we may be able to comfort those who are in any affliction, with the comfort with which we ourselves are comforted by God. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'For as we share abundantly in '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:10
+      metadata:
+        usfm: 2CO.4.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Phil. 3:10
+      metadata:
+        usfm: PHP.3.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Col. 1:24
+      metadata:
+        usfm: COL.1.24
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Christ’s sufferings, so through Christ we share abundantly in comfort too.
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1:5 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: For as the sufferings of Christ abound for us, so also our comfort abounds through Christ
+    marker-yv: yv-n
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Tim. 2:10
+      metadata:
+        usfm: 2TI.2.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:15
+      metadata:
+        usfm: 2TI.4.15
+    - type: text
+      text: '; 12:15; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eph. 3:13
+      metadata:
+        usfm: EPH.3.13
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'If we are afflicted, it is for your comfort and salvation; and if we are comforted, it is for your comfort, which you experience when you patiently endure the same sufferings that we suffer. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'Our hope for you is unshaken, for we know that as you '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 8:17
+      metadata:
+        usfm: ROM.8.17
+    marker-yv: yv-n
+  - type: text
+    text: share in our sufferings, you will also share in our comfort.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: For we do not want you to be unaware, brothers,
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1:8 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: 'brothers and sisters. In New Testament usage, depending on the context, the plural Greek word '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: 'adelphoi '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: '(translated “brothers”) may refer either to '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: 'brothers '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'or to '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: brothers and sisters
+    marker-yv: yv-n
+  - type: text
+    text: ' of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 19:23
+      metadata:
+        usfm: ACT.19.23
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 15:32
+      metadata:
+        usfm: 1CO.15.32
+    marker-yv: yv-n
+  - type: text
+    text: 'the affliction we experienced in Asia. For we were so utterly burdened beyond our strength that we despaired of life itself. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'Indeed, we felt that we had received the sentence of death. But that was to make us '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 18:9
+      metadata:
+        usfm: LUK.18.9
+    marker-yv: yv-n
+  - type: text
+    text: 'rely not on ourselves '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 2:12
+      metadata:
+        usfm: PSA.2.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 25:2
+      metadata:
+        usfm: PSA.25.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 26:1
+      metadata:
+        usfm: PSA.26.1
+    marker-yv: yv-n
+  - type: text
+    text: 'but on God '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:14
+      metadata:
+        usfm: 2CO.4.14
+    marker-yv: yv-n
+  - type: text
+    text: 'who raises the dead. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 15:31
+      metadata:
+        usfm: ROM.15.31
+    marker-yv: yv-n
+  - type: text
+    text: 'He delivered us from such a deadly peril, and he will deliver us. '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 4:10
+      metadata:
+        usfm: 1TI.4.10
+    marker-yv: yv-n
+  - type: text
+    text: 'On him we have set our hope that he will deliver us again. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 12:5
+      metadata:
+        usfm: ACT.12.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 15:30
+      metadata:
+        usfm: ROM.15.30
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Phil. 1:19
+      metadata:
+        usfm: PHP.1.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Philem. 22
+      metadata:
+        usfm: PHM.1.22
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'You also must help us by prayer, so that many will give thanks on our behalf '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:15
+      metadata:
+        usfm: 2CO.4.15
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 9:11
+      metadata:
+        usfm: 2CO.9.11
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '12'
-    - type: text
-      text: 'For our boast is this, '
+      metadata:
+        usfm: 2CO.9.12
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Thess. 2:10
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']; See Acts 23:1'
-      marker-yv: yv-n
-    - type: text
-      text: the testimony of our conscience, that we behaved in the world with simplicity
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1:12 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Some manuscripts '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: holiness
-      marker-yv: yv-n
-    - type: text
-      text: ' and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:17
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:2
-      marker-yv: yv-n
-    - type: text
-      text: 'godly sincerity, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 2:4
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '13'
-      marker-yv: yv-n
-    - type: text
-      text: 'not by earthly wisdom but by the grace of God, and supremely so toward you. '
-  '13':
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: for the blessing granted us through the prayers of many.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Paul’s Change of Plans
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'For our boast is this, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Thess. 2:10
+      metadata:
+        usfm: 1TH.2.10
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']; See Acts 23:1'
+    marker-yv: yv-n
+  - type: text
+    text: the testimony of our conscience, that we behaved in the world with simplicity
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1:12 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Some manuscripts '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: holiness
+    marker-yv: yv-n
+  - type: text
+    text: ' and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:17
+      metadata:
+        usfm: 2CO.2.17
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:2
+      metadata:
+        usfm: 2CO.4.2
+    marker-yv: yv-n
+  - type: text
+    text: 'godly sincerity, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 2:4
+      metadata:
+        usfm: 1CO.2.4
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '13'
-    - type: text
-      text: 'For we are not writing to you anything other than what you read and understand and I hope you will fully understand— '
-  '14':
+      metadata:
+        usfm: 1CO.2.13
+    marker-yv: yv-n
+  - type: text
+    text: 'not by earthly wisdom but by the grace of God, and supremely so toward you. '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '14'
-    - type: text
-      text: 'just as you did '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:5
-      marker-yv: yv-n
-    - type: text
-      text: 'partially understand us—that '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 1:8
-      marker-yv: yv-n
-    - type: text
-      text: 'on the day of our Lord Jesus '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 5:12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 9:3
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'you will boast of us as '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 9:15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Phil. 2:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Thess. 2:19
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '20'
-      marker-yv: yv-n
-    - type: text
-      text: we will boast of you.
-  '15':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '15'
-    - type: text
-      text: 'Because I was sure of this, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 4:19
-      marker-yv: yv-n
-    - type: text
-      text: 'I wanted to come to you first, so that you might have '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 18:1-18
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'a second '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 1:11
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'experience of grace. '
-  '16':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: text
-      text: 'I wanted to visit you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 19:21
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 16:5-7
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'on my way to Macedonia, and to come back to you from Macedonia and have you send me on my way to Judea. '
-  '17':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: text
-      text: 'Was I vacillating when I wanted to do this? Do I make my plans '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 10:2
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '3'
-      marker-yv: yv-n
-    - type: text
-      text: 'according to the flesh, ready to say “Yes, yes” and “No, no” at the same time? '
-  '18':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
-    - type: text
-      text: 'As surely as '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 1:9
-      marker-yv: yv-n
-    - type: text
-      text: 'God is faithful, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:17
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'our word to you has not been Yes and No. '
-  '19':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: text
-      text: 'For '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 14:33
-      marker-yv: yv-n
-    - type: text
-      text: 'the Son of God, Jesus Christ, whom we proclaimed among you, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 15:22
-      marker-yv: yv-n
-    - type: text
-      text: 'Silvanus and Timothy and I, was not Yes and No, but '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 13:8
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'in him it is always Yes. '
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 1:7
-      marker-yv: yv-n
-    - type: text
-      text: Grace to you and peace from God our Father and the Lord Jesus Christ.
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: God of All Comfort
-    marker-yv: yv-h
-  '20':
+      text: '13'
+  - type: text
+    text: 'For we are not writing to you anything other than what you read and understand and I hope you will fully understand— '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: 'just as you did '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:5
+      metadata:
+        usfm: 2CO.2.5
+    marker-yv: yv-n
+  - type: text
+    text: 'partially understand us—that '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 1:8
+      metadata:
+        usfm: 1CO.1.8
+    marker-yv: yv-n
+  - type: text
+    text: 'on the day of our Lord Jesus '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 5:12
+      metadata:
+        usfm: 2CO.5.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 9:3
+      metadata:
+        usfm: 2CO.9.3
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'you will boast of us as '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 9:15
+      metadata:
+        usfm: 1CO.9.15
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Phil. 2:16
+      metadata:
+        usfm: PHP.2.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:1
+      metadata:
+        usfm: PHP.4.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Thess. 2:19
+      metadata:
+        usfm: 1TH.2.19
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '20'
-    - type: text
-      text: 'For '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 15:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 10:23
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'all the promises of God find their Yes in him. That is why it is through him that we utter our '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 3:14
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']; See 1 Cor. 14:16'
-      marker-yv: yv-n
-    - type: text
-      text: 'Amen to God for his glory. '
-  '21':
+      metadata:
+        usfm: 1TH.2.20
+    marker-yv: yv-n
+  - type: text
+    text: we will boast of you.
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: 'Because I was sure of this, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '21'
-    - type: text
-      text: 'And it is God who establishes us with you in Christ, and '
+        text: 'See '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 John 2:20
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '27'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'has anointed us, '
-  '22':
+        text: 1 Cor. 4:19
+      metadata:
+        usfm: 1CO.4.19
+    marker-yv: yv-n
+  - type: text
+    text: 'I wanted to come to you first, so that you might have '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '22'
-    - type: text
-      text: 'and who has also '
+        text: '['
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 1:13
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:30
-      marker-yv: yv-n
-    - type: text
-      text: 'put his seal on us and '
+        text: Acts 18:1-18
+      metadata:
+        usfm: ACT.18.1+ACT.18.2+ACT.18.3+ACT.18.4+ACT.18.5+ACT.18.6+ACT.18.7+ACT.18.8+ACT.18.9+ACT.18.10+ACT.18.11+ACT.18.12+ACT.18.13+ACT.18.14+ACT.18.15+ACT.18.16+ACT.18.17+ACT.18.18
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 5:5
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 1:14
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 8:16
-      marker-yv: yv-n
-    - type: text
-      text: given us his Spirit in our hearts as a guarantee.
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1:22 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: down payment
-      marker-yv: yv-n
-  '23':
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'a second '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '23'
-    - type: text
-      text: 'But '
+        text: '['
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gal. 1:20
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']; See Rom. 1:9'
-      marker-yv: yv-n
-    - type: text
-      text: 'I call God to witness against me—it was '
+      - type: text
+        text: Rom. 1:11
+      metadata:
+        usfm: ROM.1.11
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:1
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '3'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 4:21
-      marker-yv: yv-n
-    - type: text
-      text: 'to spare you that I refrained from coming again to Corinth. '
-  '24':
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'experience of grace. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'I wanted to visit you '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '24'
+        text: Acts 19:21
+      metadata:
+        usfm: ACT.19.21
     - type: text
-      text: 'Not that we '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 5:3
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 23:8-10
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'lord it over your faith, but we work with you for your joy, for you stand firm '
+        text: '['
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 11:20
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 15:1
-      marker-yv: yv-n
-    - type: text
-      text: in your faith.
-  '3':
+        text: 1 Cor. 16:5-7
+      metadata:
+        usfm: 1CO.16.5+1CO.16.6+1CO.16.7
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'on my way to Macedonia, and to come back to you from Macedonia and have you send me on my way to Judea. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'Was I vacillating when I wanted to do this? Do I make my plans '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 10:2
+      metadata:
+        usfm: 2CO.10.2
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '3'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 1:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 1:3
-      marker-yv: yv-n
-    - type: text
-      text: 'Blessed be the '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 15:6
-      marker-yv: yv-n
-    - type: text
-      text: 'God and Father of our Lord Jesus Christ, the Father of mercies and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 15:5
-      marker-yv: yv-n
-    - type: text
-      text: 'God of all comfort, '
-  '4':
+      metadata:
+        usfm: 2CO.10.3
+    marker-yv: yv-n
+  - type: text
+    text: 'according to the flesh, ready to say “Yes, yes” and “No, no” at the same time? '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: 'As surely as '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '4'
+        text: 'See '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 51:12
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 66:13
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'who comforts us in all our affliction, so that we may be able to comfort those who are in any affliction, with the comfort with which we ourselves are comforted by God. '
-  '5':
+        text: 1 Cor. 1:9
+      metadata:
+        usfm: 1CO.1.9
+    marker-yv: yv-n
+  - type: text
+    text: 'God is faithful, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: 'For as we share abundantly in '
+        text: '[ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:10
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Phil. 3:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col. 1:24
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: Christ’s sufferings, so through Christ we share abundantly in comfort too.
+        text: 2:17
+      metadata:
+        usfm: 2CO.2.17
     - type: usfm
-      marker: f
+      marker: xta
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1:5 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: For as the sufferings of Christ abound for us, so also our comfort abounds through Christ
-      marker-yv: yv-n
-    - type: text
-      text: ' '
-  '6':
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'our word to you has not been Yes and No. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: 'For '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '6'
+        text: 'See '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Tim. 2:10
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:15
-      - type: text
-        text: '; 12:15; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 3:13
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'If we are afflicted, it is for your comfort and salvation; and if we are comforted, it is for your comfort, which you experience when you patiently endure the same sufferings that we suffer. '
-  '7':
+        text: Matt. 14:33
+      metadata:
+        usfm: MAT.14.33
+    marker-yv: yv-n
+  - type: text
+    text: 'the Son of God, Jesus Christ, whom we proclaimed among you, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '7'
-    - type: text
-      text: 'Our hope for you is unshaken, for we know that as you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 8:17
-      marker-yv: yv-n
-    - type: text
-      text: share in our sufferings, you will also share in our comfort.
-  '8':
+        text: Acts 15:22
+      metadata:
+        usfm: ACT.15.22
+    marker-yv: yv-n
+  - type: text
+    text: 'Silvanus and Timothy and I, was not Yes and No, but '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '8'
-    - type: text
-      text: For we do not want you to be unaware, brothers,
+        text: '['
     - type: usfm
-      marker: f
+      marker: ref
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1:8 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'brothers and sisters. In New Testament usage, depending on the context, the plural Greek word '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'adelphoi '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: '(translated “brothers”) may refer either to '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'brothers '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'or to '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: brothers and sisters
-      marker-yv: yv-n
-    - type: text
-      text: ' of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 19:23
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 15:32
-      marker-yv: yv-n
-    - type: text
-      text: 'the affliction we experienced in Asia. For we were so utterly burdened beyond our strength that we despaired of life itself. '
-  '9':
+        text: Heb. 13:8
+      metadata:
+        usfm: HEB.13.8
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'in him it is always Yes. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: text
+    text: 'For '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '9'
-    - type: text
-      text: 'Indeed, we felt that we had received the sentence of death. But that was to make us '
+        text: '['
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 18:9
-      marker-yv: yv-n
-    - type: text
-      text: 'rely not on ourselves '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 2:12
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 25:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 26:1
-      marker-yv: yv-n
+        text: Rom. 15:8
+      metadata:
+        usfm: ROM.15.8
     - type: text
-      text: 'but on God '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:14
-      marker-yv: yv-n
+      - type: text
+        text: Heb. 10:23
+      metadata:
+        usfm: HEB.10.23
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'all the promises of God find their Yes in him. That is why it is through him that we utter our '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rev. 3:14
+      metadata:
+        usfm: REV.3.14
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']; See 1 Cor. 14:16'
+    marker-yv: yv-n
+  - type: text
+    text: 'Amen to God for his glory. '
+  - type: usfm
+    marker: vlbl
+    children:
     - type: text
-      text: 'who raises the dead. '
+      text: '21'
+  - type: text
+    text: 'And it is God who establishes us with you in Christ, and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 John 2:20
+      metadata:
+        usfm: 1JN.2.20
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '27'
+      metadata:
+        usfm: 1JN.2.27
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'has anointed us, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: 'and who has also '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eph. 1:13
+      metadata:
+        usfm: EPH.1.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:30
+      metadata:
+        usfm: EPH.4.30
+    marker-yv: yv-n
+  - type: text
+    text: 'put his seal on us and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 5:5
+      metadata:
+        usfm: 2CO.5.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eph. 1:14
+      metadata:
+        usfm: EPH.1.14
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 8:16
+      metadata:
+        usfm: ROM.8.16
+    marker-yv: yv-n
+  - type: text
+    text: given us his Spirit in our hearts as a guarantee.
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1:22 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: down payment
+    marker-yv: yv-n
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: text
+    text: 'But '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gal. 1:20
+      metadata:
+        usfm: GAL.1.20
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']; See Rom. 1:9'
+    marker-yv: yv-n
+  - type: text
+    text: 'I call God to witness against me—it was '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:1
+      metadata:
+        usfm: 2CO.2.1
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '3'
+      metadata:
+        usfm: 2CO.2.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 4:21
+      metadata:
+        usfm: 1CO.4.21
+    marker-yv: yv-n
+  - type: text
+    text: 'to spare you that I refrained from coming again to Corinth. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '24'
+  - type: text
+    text: 'Not that we '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pet. 5:3
+      metadata:
+        usfm: 1PE.5.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:5
+      metadata:
+        usfm: 1PE.4.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 23:8-10
+      metadata:
+        usfm: MAT.23.8+MAT.23.9+MAT.23.10
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'lord it over your faith, but we work with you for your joy, for you stand firm '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 11:20
+      metadata:
+        usfm: ROM.11.20
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 15:1
+      metadata:
+        usfm: 1CO.15.1
+    marker-yv: yv-n
+  - type: text
+    text: in your faith.

@@ -1,205 +1,198 @@
-document_id: PSA.3,21
+document_id: PSA.3
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Le salut vient de l’Eternel
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Le salut vient de l’Eternel
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: Psaume de David, quand il fuyait devant son fils Absalom
   - type: usfm
-    marker: d
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: Psaume de David, quand il fuyait devant son fils Absalom
+        text: '3.1 '
     - type: usfm
-      marker: f
+      marker: ft
       children:
+      - type: text
+        text: 'Voir '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '3.1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Voir '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: 2 S 15.13-37
-        - type: text
-          text: .
-      marker-yv: yv-n
-    - type: text
-      text: .
-  '2':
+          text: 2 S 15.13-37
+        metadata:
+          usfm: 2SA.15.13+2SA.15.14+2SA.15.15+2SA.15.16+2SA.15.17+2SA.15.18+2SA.15.19+2SA.15.20+2SA.15.21+2SA.15.22+2SA.15.23+2SA.15.24+2SA.15.25+2SA.15.26+2SA.15.27+2SA.15.28+2SA.15.29+2SA.15.30+2SA.15.31+2SA.15.32+2SA.15.33+2SA.15.34+2SA.15.35+2SA.15.36+2SA.15.37
+      - type: text
+        text: .
+    marker-yv: yv-n
+  - type: text
+    text: .
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: O Eternel, ╵mes ennemis sont si nombreux !
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Oui, si nombreux mes adversaires ╵qui se sont dressés contre moi.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: Et si nombreux ceux qui prétendent
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: qu’il n’y a plus aucun secours ╵pour moi auprès de Dieu.
+- type: usfm
+  marker: q4
+  children:
+  - type: text
+    text: Pause
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: O Eternel, ╵mes ennemis sont si nombreux !
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Oui, si nombreux mes adversaires ╵qui se sont dressés contre moi.
-  '3':
-  - type: usfm
-    marker: q1
-    children:
+        text: '3.3 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: Et si nombreux ceux qui prétendent
+        text: Le sens de ce terme n’est pas assuré.
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: qu’il n’y a plus aucun secours ╵pour moi auprès de Dieu.
+      text: '4'
+  - type: text
+    text: Pourtant, ô Eternel, ╵tu es pour moi un bouclier ╵qui me protège.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: O toi ma gloire, ╵tu me feras marcher encore ╵la tête haute.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q4
+    marker: vlbl
     children:
     - type: text
-      text: Pause
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '3.3 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: Le sens de ce terme n’est pas assuré.
-      marker-yv: yv-n
-  '4':
+      text: '5'
+  - type: text
+    text: A haute voix, je crie vers l’Eternel ;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: de sa montagne sainte, ╵mon Dieu m’exaucera.
+- type: usfm
+  marker: q4
+  children:
+  - type: text
+    text: Pause
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: Pourtant, ô Eternel, ╵tu es pour moi un bouclier ╵qui me protège.
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: O toi ma gloire, ╵tu me feras marcher encore ╵la tête haute.
-  '5':
+      text: '6'
+  - type: text
+    text: Quand je me couche, je m’endors ;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: je me réveille ╵car l’Eternel est mon soutien.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: A haute voix, je crie vers l’Eternel ;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: de sa montagne sainte, ╵mon Dieu m’exaucera.
-  - type: usfm
-    marker: q4
+    marker: vlbl
     children:
     - type: text
-      text: Pause
-  '6':
+      text: '7'
+  - type: text
+    text: Je ne craindrai donc pas ╵ces multitudes
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: qui sont postées autour de moi.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: Quand je me couche, je m’endors ;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: je me réveille ╵car l’Eternel est mon soutien.
-  '7':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: Je ne craindrai donc pas ╵ces multitudes
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: qui sont postées autour de moi.
-  '8':
+      text: '8'
+  - type: text
+    text: Eternel, lève-toi ! ╵Au secours, mon Dieu, sauve-moi !
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Tu gifles tous mes ennemis :'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: tu casses les dents aux méchants.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: Eternel, lève-toi ! ╵Au secours, mon Dieu, sauve-moi !
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'Tu gifles tous mes ennemis :'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: tu casses les dents aux méchants.
-  '9':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: De l’Eternel vient le salut.
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: O Eternel, fais reposer ╵ta bénédiction sur les tiens.
-  - type: usfm
-    marker: q4
-    children:
-    - type: text
-      text: Pause
+      text: '9'
+  - type: text
+    text: De l’Eternel vient le salut.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: O Eternel, fais reposer ╵ta bénédiction sur les tiens.
+- type: usfm
+  marker: q4
+  children:
+  - type: text
+    text: Pause

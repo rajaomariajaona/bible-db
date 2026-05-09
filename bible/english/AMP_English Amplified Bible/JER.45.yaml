@@ -1,118 +1,101 @@
-document_id: JER.45,1588
+document_id: JER.45
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
   - type: usfm
-    marker: s1
+    marker: it
+    children:
+    - type: text
+      text: Message to Baruch
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '1'
+  - type: text
+    text: 'The word that Jeremiah the prophet spoke to '
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: it
+      marker: fr
       children:
       - type: text
-        text: Message to Baruch
-    marker-yv: yv-h
+        text: '45:1 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: Baruch served as Jeremiah’s faithful friend and scribe, and he carefully recorded the prophecies given to Jeremiah by God. He was from a prominent family and his grandfather Maaseiah had been governor of Jerusalem in the days of King Josiah (2 Chr 34:8).
+    marker-yv: yv-n
+  - type: text
+    text: 'Baruch the son of Neriah, when he had written these words in a book at the dictation of Jeremiah, in the fourth year of Jehoiakim the son of Josiah, king of Judah, saying, '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
     - type: text
-      text: 'The word that Jeremiah the prophet spoke to '
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '45:1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: Baruch served as Jeremiah’s faithful friend and scribe, and he carefully recorded the prophecies given to Jeremiah by God. He was from a prominent family and his grandfather Maaseiah had been governor of Jerusalem in the days of King Josiah (2 Chr 34:8).
-      marker-yv: yv-n
-    - type: text
-      text: 'Baruch the son of Neriah, when he had written these words in a book at the dictation of Jeremiah, in the fourth year of Jehoiakim the son of Josiah, king of Judah, saying, '
-  '2':
+      text: '2'
+  - type: text
+    text: “Thus says the L
   - type: usfm
-    marker: p
+    marker: sc
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
     - type: text
-      text: “Thus says the L
-    - type: usfm
-      marker: sc
-      children:
-      - type: text
-        text: ord
-    - type: text
-      text: ', the God of Israel, to you, O Baruch: '
-  '3':
+      text: ord
+  - type: text
+    text: ', the God of Israel, to you, O Baruch: '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
     - type: text
-      text: ‘You said, “Woe is me! For the L
-    - type: usfm
-      marker: sc
-      children:
-      - type: text
-        text: ord
-    - type: text
-      text: ' has added sorrow to my pain; I am weary with my groaning '
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: and
-    - type: text
-      text: ' sighing and I find no rest.” ’ '
-  '4':
+      text: '3'
+  - type: text
+    text: ‘You said, “Woe is me! For the L
   - type: usfm
-    marker: p
+    marker: sc
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
     - type: text
-      text: Say this to him, ‘The L
-    - type: usfm
-      marker: sc
-      children:
-      - type: text
-        text: ord
-    - type: text
-      text: ' speaks in this way, “Behold, what I have built I will break down, and that which I have planted I will uproot, that is, the whole land.” '
-  '5':
+      text: ord
+  - type: text
+    text: ' has added sorrow to my pain; I am weary with my groaning '
   - type: usfm
-    marker: p
+    marker: it
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
     - type: text
-      text: And do you seek great things for yourself? Do not seek them; for behold, I will bring disaster on all flesh,’ says the L
-    - type: usfm
-      marker: sc
-      children:
-      - type: text
-        text: ord
+      text: and
+  - type: text
+    text: ' sighing and I find no rest.” ’ '
+  - type: usfm
+    marker: vlbl
+    children:
     - type: text
-      text: ', ‘but I will give your life to you [as your only reward and] as a prize of war wherever you go.’ ”'
+      text: '4'
+  - type: text
+    text: Say this to him, ‘The L
+  - type: usfm
+    marker: sc
+    children:
+    - type: text
+      text: ord
+  - type: text
+    text: ' speaks in this way, “Behold, what I have built I will break down, and that which I have planted I will uproot, that is, the whole land.” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: And do you seek great things for yourself? Do not seek them; for behold, I will bring disaster on all flesh,’ says the L
+  - type: usfm
+    marker: sc
+    children:
+    - type: text
+      text: ord
+  - type: text
+    text: ', ‘but I will give your life to you [as your only reward and] as a prize of war wherever you go.’ ”'

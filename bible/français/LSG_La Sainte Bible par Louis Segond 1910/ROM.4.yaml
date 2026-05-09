@@ -1,489 +1,444 @@
-document_id: ROM.4,93
+document_id: ROM.4
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: 'Que dirons-nous donc '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 51:2
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'qu’Abraham, notre père, a obtenu selon la chair? '
-  '10':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '10'
-    - type: text
-      text: 'Comment donc lui fut-elle imputée? Était-ce après, ou avant sa circoncision? Il n’était pas encore circoncis, il était incirconcis. '
-  '11':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '11'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ge 17:11
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Et il reçut le signe de la circoncision, comme sceau de la justice qu’il avait obtenue par la foi quand il était incirconcis, afin d’être le père de tous les incirconcis qui croient, pour que la justice leur fût aussi imputée, '
-  '12':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '12'
-    - type: text
-      text: et le père des circoncis, qui ne sont pas seulement circoncis, mais encore qui marchent sur les traces de la foi de notre père Abraham quand il était incirconcis.
-  - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 13-25: cf. Ga 3:8-18, 26-29. Hé 11:8-19.'
-    marker-yv: yv-h
-  '13':
+      text: '1'
+  - type: text
+    text: 'Que dirons-nous donc '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '13'
+        text: És 51:2
+      metadata:
+        usfm: ISA.51.2
     - type: text
-      text: 'En effet, ce n’est pas par la loi que l’héritage du monde a été promis à Abraham ou à sa postérité, c’est par la justice de la foi. '
-  '14':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'qu’Abraham, notre père, a obtenu selon la chair? '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'Si Abraham a été justifié par les œuvres, il a sujet de se glorifier, mais non devant Dieu. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'Car que dit l’Écriture? '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '14'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ga 3:18
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Ge 15:6
+      metadata:
+        usfm: GEN.15.6
     - type: text
-      text: 'Car, si les héritiers le sont par la loi, la foi est vaine, et la promesse est anéantie, '
-  '15':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ga 3:6
+      metadata:
+        usfm: GAL.3.6
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ja 2:23
+      metadata:
+        usfm: JAS.2.23
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Abraham crut à Dieu, et cela lui fut imputé à justice. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'Or, à celui qui fait une œuvre, le salaire est imputé, non comme une grâce, mais comme une chose due; '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'et à celui qui ne fait point d’œuvre, mais qui croit en celui qui justifie l’impie, sa foi lui est imputée à justice. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'De même David exprime le bonheur de l’homme à qui Dieu impute la justice sans les œuvres:'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '15'
+        text: Ps 32:1
+      metadata:
+        usfm: PSA.32.1
     - type: text
-      text: 'parce que la loi produit la colère, et que '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 15:22
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 5:20
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 7:8
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ga 3:19
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'là où il n’y a point de loi il n’y a point non plus de transgression. '
-  '16':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: Heureux ceux dont les iniquités sont pardonnées,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et dont les péchés sont couverts!
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: Heureux l’homme à qui le Seigneur n’impute pas son péché!
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'Ce bonheur n’est-il que pour les circoncis, ou est-il également pour les incirconcis? Car nous disons que la foi fut imputée à justice à Abraham. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'Comment donc lui fut-elle imputée? Était-ce après, ou avant sa circoncision? Il n’était pas encore circoncis, il était incirconcis. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '16'
+        text: Ge 17:11
+      metadata:
+        usfm: GEN.17.11
     - type: text
-      text: 'C’est pourquoi les héritiers le sont par la foi, pour que ce soit par grâce, afin que la promesse soit assurée à toute la postérité, non seulement à celle qui est sous la loi, mais aussi à celle qui a la foi d’Abraham, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 51:2
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'notre père à tous, selon qu’il est écrit: '
-  '17':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Et il reçut le signe de la circoncision, comme sceau de la justice qu’il avait obtenue par la foi quand il était incirconcis, afin d’être le père de tous les incirconcis qui croient, pour que la justice leur fût aussi imputée, '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: et le père des circoncis, qui ne sont pas seulement circoncis, mais encore qui marchent sur les traces de la foi de notre père Abraham quand il était incirconcis.
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 13-25: cf. Ga 3:8-18, 26-29. Hé 11:8-19.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'En effet, ce n’est pas par la loi que l’héritage du monde a été promis à Abraham ou à sa postérité, c’est par la justice de la foi. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '17'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ge 17:4
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Ga 3:18
+      metadata:
+        usfm: GAL.3.18
     - type: text
-      text: 'Je t’ai établi père d’un grand nombre de nations. Il est notre père devant celui auquel il a cru, Dieu, qui donne la vie aux morts, et qui appelle les choses qui ne sont point comme si elles étaient. '
-  '18':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Car, si les héritiers le sont par la loi, la foi est vaine, et la promesse est anéantie, '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: 'parce que la loi produit la colère, et que '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: Jn 15:22
+      metadata:
+        usfm: JHN.15.22
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ro 5:20
+      metadata:
+        usfm: ROM.5.20
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 7:8
+      metadata:
+        usfm: ROM.7.8
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ga 3:19
+      metadata:
+        usfm: GAL.3.19
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'là où il n’y a point de loi il n’y a point non plus de transgression. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'C’est pourquoi les héritiers le sont par la foi, pour que ce soit par grâce, afin que la promesse soit assurée à toute la postérité, non seulement à celle qui est sous la loi, mais aussi à celle qui a la foi d’Abraham, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: És 51:2
+      metadata:
+        usfm: ISA.51.2
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'notre père à tous, selon qu’il est écrit: '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ge 17:4
+      metadata:
+        usfm: GEN.17.4
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Je t’ai établi père d’un grand nombre de nations. Il est notre père devant celui auquel il a cru, Dieu, qui donne la vie aux morts, et qui appelle les choses qui ne sont point comme si elles étaient. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: 'Espérant contre toute espérance, il crut, en sorte qu’il devint père d’un grand nombre de nations, selon ce qui lui avait été dit: '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ge 15:5
+      metadata:
+        usfm: GEN.15.5
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hé 11:12
+      metadata:
+        usfm: HEB.11.12
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Telle sera ta postérité. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: 'Et, sans faiblir dans la foi, il ne considéra point que son corps était déjà usé, puisqu’il avait près de cent ans, et que Sara n’était plus en état d’avoir des enfants. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jn 8:56
+      metadata:
+        usfm: JHN.8.56
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hé 11:11
+      metadata:
+        usfm: HEB.11.11
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '18'
+      metadata:
+        usfm: HEB.11.18
     - type: text
-      text: 'Espérant contre toute espérance, il crut, en sorte qu’il devint père d’un grand nombre de nations, selon ce qui lui avait été dit: '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ge 15:5
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hé 11:12
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Telle sera ta postérité. '
-  '19':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Il ne douta point, par incrédulité, au sujet de la promesse de Dieu; mais il fut fortifié par la foi, donnant gloire à Dieu, '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: text
-      text: 'Et, sans faiblir dans la foi, il ne considéra point que son corps était déjà usé, puisqu’il avait près de cent ans, et que Sara n’était plus en état d’avoir des enfants. '
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'Si Abraham a été justifié par les œuvres, il a sujet de se glorifier, mais non devant Dieu. '
-  '20':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '20'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 8:56
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hé 11:11
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '18'
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Il ne douta point, par incrédulité, au sujet de la promesse de Dieu; mais il fut fortifié par la foi, donnant gloire à Dieu, '
-  '21':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '21'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps 115:3
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'et ayant la pleine conviction que ce qu’il promet il peut aussi l’accomplir. '
-  '22':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '22'
-    - type: text
-      text: 'C’est pourquoi cela lui fut imputé à justice. '
-  '23':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '23'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 15:4
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Mais ce n’est pas à cause de lui seul qu’il est écrit que cela lui fut imputé; '
-  '24':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '24'
-    - type: text
-      text: 'c’est encore à cause de nous, à qui cela sera imputé, à nous qui croyons en celui qui a ressuscité des morts Jésus notre Seigneur, '
-  '25':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '25'
-    - type: text
-      text: lequel a été livré pour nos offenses, et est ressuscité pour notre justification.
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'Car que dit l’Écriture? '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ge 15:6
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ga 3:6
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ja 2:23
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Abraham crut à Dieu, et cela lui fut imputé à justice. '
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'Or, à celui qui fait une œuvre, le salaire est imputé, non comme une grâce, mais comme une chose due; '
-  '5':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: 'et à celui qui ne fait point d’œuvre, mais qui croit en celui qui justifie l’impie, sa foi lui est imputée à justice. '
-  '6':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'De même David exprime le bonheur de l’homme à qui Dieu impute la justice sans les œuvres:'
-  '7':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps 32:1
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: Heureux ceux dont les iniquités sont pardonnées,
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Et dont les péchés sont couverts!
-  '8':
+      text: '21'
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '8'
+        text: Ps 115:3
+      metadata:
+        usfm: PSA.115.3
     - type: text
-      text: Heureux l’homme à qui le Seigneur n’impute pas son péché!
-  '9':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'et ayant la pleine conviction que ce qu’il promet il peut aussi l’accomplir. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: 'C’est pourquoi cela lui fut imputé à justice. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '9'
+        text: Ro 15:4
+      metadata:
+        usfm: ROM.15.4
     - type: text
-      text: 'Ce bonheur n’est-il que pour les circoncis, ou est-il également pour les incirconcis? Car nous disons que la foi fut imputée à justice à Abraham. '
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Mais ce n’est pas à cause de lui seul qu’il est écrit que cela lui fut imputé; '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '24'
+  - type: text
+    text: 'c’est encore à cause de nous, à qui cela sera imputé, à nous qui croyons en celui qui a ressuscité des morts Jésus notre Seigneur, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '25'
+  - type: text
+    text: lequel a été livré pour nos offenses, et est ressuscité pour notre justification.

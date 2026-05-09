@@ -1,195 +1,189 @@
-document_id: PSA.1,1588
+document_id: PSA.1
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: ms1
+  children:
+  - type: text
+    text: BOOK ONE
+  marker-yv: yv-h
+- type: usfm
+  marker: ms2
+  children:
+  - type: text
+    text: Psalm 1
+  marker-yv: yv-h
+- type: usfm
+  marker: s1
+  children:
   - type: usfm
-    marker: ms1
+    marker: it
     children:
     - type: text
-      text: BOOK ONE
-    marker-yv: yv-h
+      text: The Righteous and the Wicked Contrasted.
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: ms2
+    marker: vlbl
     children:
     - type: text
-      text: Psalm 1
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: s1
+    marker: f
     children:
     - type: usfm
-      marker: it
+      marker: fr
       children:
       - type: text
-        text: The Righteous and the Wicked Contrasted.
-    marker-yv: yv-h
-  - type: usfm
-    marker: q1
-    children:
+        text: '1:1 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1:1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: This has been called “The Preface Psalm” because in some respects it introduces the complete book of Psalms as a godly message. It opens with a benediction, “Blessed,” as does the Sermon on the Mount (Matt 5:3).
-      marker-yv: yv-n
-    - type: text
-      text: Blessed [fortunate, prosperous, and favored by God] is the man who does not walk in the counsel of the wicked [following their advice and example],
+        text: This has been called “The Preface Psalm” because in some respects it introduces the complete book of Psalms as a godly message. It opens with a benediction, “Blessed,” as does the Sermon on the Mount (Matt 5:3).
+    marker-yv: yv-n
+  - type: text
+    text: Blessed [fortunate, prosperous, and favored by God] is the man who does not walk in the counsel of the wicked [following their advice and example],
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Nor stand in the path of sinners,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Nor sit [down to rest] in the seat of '
   - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Nor stand in the path of sinners,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'Nor sit [down to rest] in the seat of '
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1:1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: I.e. shallow thinkers who are quick to mock or disdain.
-      marker-yv: yv-n
-    - type: text
-      text: scoffers (ridiculers).
-  '2':
-  - type: usfm
-    marker: q1
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: But his delight is in the law of the L
+        text: '1:1 '
     - type: usfm
-      marker: sc
+      marker: ft
       children:
       - type: text
-        text: ord
-    - type: text
-      text: ','
+        text: I.e. shallow thinkers who are quick to mock or disdain.
+    marker-yv: yv-n
+  - type: text
+    text: scoffers (ridiculers).
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: And on His law [His precepts and teachings] he [habitually] meditates day and night. [Rom 13:8-10; Gal 3:1-29; 2 Tim 3:16]
-  '3':
+      text: '2'
+  - type: text
+    text: But his delight is in the law of the L
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'And he will be like a tree '
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: firmly
-    - type: text
-      text: ' planted [and fed] by streams of water,'
-  - type: usfm
-    marker: q1
+    marker: sc
     children:
     - type: text
-      text: Which yields its fruit in its season;
+      text: ord
+  - type: text
+    text: ','
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: And on His law [His precepts and teachings] he [habitually] meditates day and night. [Rom 13:8-10; Gal 3:1-29; 2 Tim 3:16]
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Its leaf does not wither;
+      text: '3'
+  - type: text
+    text: 'And he will be like a tree '
   - type: usfm
-    marker: q1
+    marker: it
     children:
     - type: text
-      text: And in whatever he does, he prospers [and comes to maturity]. [Jer 17:7, 8]
-  '4':
+      text: firmly
+  - type: text
+    text: ' planted [and fed] by streams of water,'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Which yields its fruit in its season;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Its leaf does not wither;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: And in whatever he does, he prospers [and comes to maturity]. [Jer 17:7, 8]
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: ¶The wicked [those who live in disobedience to God’s law] are not so,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: But they are like the chaff [worthless and without substance] which the wind blows away.
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: Therefore the wicked will not stand [unpunished] in the judgment,
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Nor sinners in the assembly of the righteous.
-  '6':
+      text: '4'
+  - type: text
+    text: ¶The wicked [those who live in disobedience to God’s law] are not so,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: But they are like the chaff [worthless and without substance] which the wind blows away.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: For the L
-    - type: usfm
-      marker: sc
-      children:
-      - type: text
-        text: ord
-    - type: text
-      text: ' knows '
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: and
-    - type: text
-      text: ' fully approves the way of the righteous,'
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: But the way of the wicked shall perish.
+      text: '5'
+  - type: text
+    text: Therefore the wicked will not stand [unpunished] in the judgment,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Nor sinners in the assembly of the righteous.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: For the L
+  - type: usfm
+    marker: sc
+    children:
+    - type: text
+      text: ord
+  - type: text
+    text: ' knows '
+  - type: usfm
+    marker: it
+    children:
+    - type: text
+      text: and
+  - type: text
+    text: ' fully approves the way of the righteous,'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: But the way of the wicked shall perish.

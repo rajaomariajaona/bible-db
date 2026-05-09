@@ -1,97 +1,86 @@
-document_id: JER.45,93
+document_id: JER.45
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Jérémie console Baruc
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 1-5: cf. Jé 36.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Jérémie console Baruc
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'La parole que Jérémie, le prophète, adressa à Baruc, fils de Nérija, lorsqu’il écrivit dans un livre ces paroles, sous la dictée de Jérémie, la quatrième année de Jojakim, fils de Josias, roi de Juda. Il dit: '
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 1-5: cf. Jé 36.'
-    marker-yv: yv-h
+      text: '2'
+  - type: text
+    text: 'Ainsi parle l’Éternel, le Dieu d’Israël, sur toi, Baruc: '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
     - type: text
-      text: 'La parole que Jérémie, le prophète, adressa à Baruc, fils de Nérija, lorsqu’il écrivit dans un livre ces paroles, sous la dictée de Jérémie, la quatrième année de Jojakim, fils de Josias, roi de Juda. Il dit: '
-  '2':
+      text: '3'
+  - type: text
+    text: 'Tu dis: Malheur à moi! Car l’Éternel ajoute le chagrin à ma douleur; je m’épuise en soupirant, et je ne trouve point de repos. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
     - type: text
-      text: 'Ainsi parle l’Éternel, le Dieu d’Israël, sur toi, Baruc: '
-  '3':
+      text: '4'
+  - type: text
+    text: 'Dis-lui: Ainsi parle l’Éternel: Voici, ce que j’ai bâti, je le détruirai; ce que j’ai planté, je l’arracherai, savoir tout ce pays. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
     - type: text
-      text: 'Tu dis: Malheur à moi! Car l’Éternel ajoute le chagrin à ma douleur; je m’épuise en soupirant, et je ne trouve point de repos. '
-  '4':
+      text: '5'
+  - type: text
+    text: 'Et toi, rechercherais-tu de grandes choses? Ne les recherche pas! Car voici, je vais faire venir le malheur sur toute chair, dit l’Éternel; et je te donnerai ta vie pour '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'Dis-lui: Ainsi parle l’Éternel: Voici, ce que j’ai bâti, je le détruirai; ce que j’ai planté, je l’arracherai, savoir tout ce pays. '
-  '5':
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
+        text: Jé 21:9
+      metadata:
+        usfm: JER.21.9
     - type: text
-      text: 'Et toi, rechercherais-tu de grandes choses? Ne les recherche pas! Car voici, je vais faire venir le malheur sur toute chair, dit l’Éternel; et je te donnerai ta vie pour '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jé 21:9
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 38:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 39:18
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: 38:2
+      metadata:
+        usfm: JER.38.2
     - type: text
-      text: butin, dans tous les lieux où tu iras.
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 39:18
+      metadata:
+        usfm: JER.39.18
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: butin, dans tous les lieux où tu iras.

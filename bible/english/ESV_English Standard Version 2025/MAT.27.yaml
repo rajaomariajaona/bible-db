@@ -1,3363 +1,3527 @@
-document_id: MAT.27,59
+document_id: MAT.27
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Jesus Delivered to Pilate
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Jesus Delivered to Pilate
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Mark 15:1
+      metadata:
+        usfm: MRK.15.1
     - type: text
-      text: ' '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 15:1
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 22:66
-      marker-yv: yv-n
-    - type: text
-      text: 'When morning came, all the chief priests and the elders of the people '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 26:4
-      marker-yv: yv-n
-    - type: text
-      text: 'took counsel against Jesus to put him to death. '
-  '10':
+        text: Luke 22:66
+      metadata:
+        usfm: LUK.22.66
+    marker-yv: yv-n
+  - type: text
+    text: 'When morning came, all the chief priests and the elders of the people '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: and they gave them for the potter’s field, as the Lord directed me.”
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 26:4
+      metadata:
+        usfm: MAT.26.4
+    marker-yv: yv-n
+  - type: text
+    text: 'took counsel against Jesus to put him to death. '
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Jesus Before Pilate
-    marker-yv: yv-h
-  '11':
+      text: '2'
+  - type: text
+    text: 'And they bound him and '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
+        text: Luke 23:1
+      metadata:
+        usfm: LUK.23.1
     - type: text
-      text: ' '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'For ver. 11-14, see '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 15:2-5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 23:2
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '3'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 18:29-38
-      marker-yv: yv-n
-    - type: text
-      text: 'Now Jesus stood before the governor, and the governor asked him, “Are you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 29, 37
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 18:39
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '42'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'the King of the Jews?” Jesus said, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 6:13
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']; See Luke 22:70'
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
+      marker: ref
       children:
       - type: text
-        text: “You have said so.”
-    - type: text
-      text: ' '
-  '12':
+        text: John 18:28
+      metadata:
+        usfm: JHN.18.28
+    marker-yv: yv-n
+  - type: text
+    text: 'led him away and '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '12'
+        text: 'See ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 26:63
-      marker-yv: yv-n
-    - type: text
-      text: 'But when he was accused by the chief priests and elders, he gave no answer. '
-  '13':
+      - type: text
+        text: 20:19
+      metadata:
+        usfm: MAT.20.19
+    marker-yv: yv-n
+  - type: text
+    text: 'delivered him over to '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '13'
+        text: Luke 3:1
+      metadata:
+        usfm: LUK.3.1
     - type: text
-      text: 'Then Pilate said to him, '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 19:10
-      marker-yv: yv-n
+      - type: text
+        text: 13:1
+      metadata:
+        usfm: LUK.13.1
     - type: text
-      text: '“Do you not hear how many things they testify against you?” '
-  '14':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 3:13
+      metadata:
+        usfm: ACT.3.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:27
+      metadata:
+        usfm: ACT.4.27
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 6:13
+      metadata:
+        usfm: 1TI.6.13
+    marker-yv: yv-n
+  - type: text
+    text: Pilate the governor.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Judas Hangs Himself
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '14'
-    - type: text
-      text: But he gave him no answer, not even to a single charge, so that the governor was greatly amazed.
-  - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: The Crowd Chooses Barabbas
-    marker-yv: yv-h
-  '15':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '15'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'For ver. 15-26, see '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 15:6-15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 23:18-25
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 18:39
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '40'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:16
-      marker-yv: yv-n
-    - type: text
-      text: 'Now at the feast the governor was accustomed to release for the crowd any one prisoner whom they wanted. '
-  '16':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: text
-      text: 'And they had then a notorious prisoner called Barabbas. '
-  '17':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: text
-      text: 'So when they had gathered, Pilate said to them, “Whom do you want me to release for you: Barabbas, or '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '22'
-      marker-yv: yv-n
-    - type: text
-      text: 'Jesus who is called Christ?” '
-  '18':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
-    - type: text
-      text: 'For he knew that it was out '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 12:19
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'of envy that they had delivered him up. '
-  '19':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: text
-      text: 'Besides, while he was sitting on '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 19:13
-      marker-yv: yv-n
-    - type: text
-      text: 'the judgment seat, his wife sent word to him, “Have nothing to do with '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '24'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 23:47
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'that righteous man, for I have suffered much because of him today '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:12
-      marker-yv: yv-n
-    - type: text
-      text: 'in a dream.” '
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'And they bound him and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 23:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 18:28
-      marker-yv: yv-n
-    - type: text
-      text: 'led him away and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 20:19
-      marker-yv: yv-n
-    - type: text
-      text: 'delivered him over to '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 3:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 13:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 3:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:27
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 6:13
-      marker-yv: yv-n
-    - type: text
-      text: Pilate the governor.
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Judas Hangs Himself
-    marker-yv: yv-h
-  '20':
+      text: '3'
+  - type: text
+    text: 'Then when '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '20'
-    - type: text
-      text: 'Now the chief priests and the elders persuaded the crowd to '
+        text: 'See ch. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 3:14
-      marker-yv: yv-n
-    - type: text
-      text: 'ask for Barabbas and destroy Jesus. '
-  '21':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '21'
-    - type: text
-      text: 'The governor again said to them, “Which of the two do you want me to release for you?” And they said, “Barabbas.” '
-  '22':
+        text: 26:14
+      metadata:
+        usfm: MAT.26.14
+    marker-yv: yv-n
+  - type: text
+    text: Judas, his betrayer, saw that Jesus
   - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '22'
-    - type: text
-      text: 'Pilate said to them, “Then what shall I do with Jesus who is called Christ?” '
+        text: '27:3 '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 13:28
-      marker-yv: yv-n
-    - type: text
-      text: 'They all said, “Let him be crucified!” '
-  '23':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '23'
-    - type: text
-      text: 'And he said, “Why? '
+        text: 'Greek '
     - type: usfm
-      marker: x
+      marker: fq
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 23:41
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 8:46
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: What evil has he done?” But they shouted all the more, “Let him be crucified!”
+        text: he
+    marker-yv: yv-n
+  - type: text
+    text: ' was condemned, '
   - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Pilate Delivers Jesus to Be Crucified
-    marker-yv: yv-h
-  '24':
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 21:29
+      metadata:
+        usfm: MAT.21.29
+    marker-yv: yv-n
+  - type: text
+    text: 'he changed his mind and brought back '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 26:15
+      metadata:
+        usfm: MAT.26.15
+    marker-yv: yv-n
+  - type: text
+    text: 'the thirty pieces of silver to the chief priests and the elders, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'saying, “I have sinned by betraying innocent blood.” They said, “What is that to us? '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '24'
-    - type: text
-      text: 'So when Pilate saw that he was gaining nothing, but rather that '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 26:5
-      marker-yv: yv-n
-    - type: text
-      text: 'a riot was beginning, he took water and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 21:6-8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 26:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 73:13
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'washed his hands before the crowd, saying, “I am innocent of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '19'
-      marker-yv: yv-n
-    - type: text
-      text: this man’s blood;
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '27:24 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Some manuscripts '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: this righteous blood
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ', or '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: this righteous man’s blood
-      marker-yv: yv-n
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '4'
-      marker-yv: yv-n
-    - type: text
-      text: 'see to it yourselves.” '
-  '25':
+      metadata:
+        usfm: MAT.27.24
+    marker-yv: yv-n
+  - type: text
+    text: 'See to it yourself.” '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '25'
-    - type: text
-      text: 'And all the people answered, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 23:35
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '36'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 2:19
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 5:28
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: '“His blood be on us and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 20:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lam. 5:7
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'on our children!” '
-  '26':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '26'
-    - type: text
-      text: 'Then he released for them Barabbas, and having '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 20:19
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 50:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 53:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 23:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 19:1
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: scourged
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '27:26 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: A Roman judicial penalty, consisting of a severe beating with a multi-lashed whip containing embedded pieces of bone and metal
-      marker-yv: yv-n
-    - type: text
-      text: ' Jesus, delivered him to be crucified.'
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Jesus Is Mocked
-    marker-yv: yv-h
-  '27':
+      text: '5'
+  - type: text
+    text: 'And throwing down the pieces of silver into the temple, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '27'
-    - type: text
-      text: ' '
+        text: '['
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'For ver. 27-31, see '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 15:16-20
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 19:2
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '3'
-      marker-yv: yv-n
+        text: 2 Sam. 17:23
+      metadata:
+        usfm: 2SA.17.23
     - type: text
-      text: 'Then the soldiers of the governor took Jesus into the '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 18:28
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '33'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 23:35
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Phil. 1:13
-      - type: text
-        text: ' (Gk.)'
-      marker-yv: yv-n
-    - type: text
-      text: governor’s headquarters,
+        text: Acts 1:18
+      metadata:
+        usfm: ACT.1.18
     - type: usfm
-      marker: f
+      marker: xta
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '27:27 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Greek '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: the praetorium
-      marker-yv: yv-n
-    - type: text
-      text: ' and they gathered the whole '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 10:1
       - type: text
-        text: ' (Gk.)'
-      marker-yv: yv-n
-    - type: text
-      text: battalion
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '27:27 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Greek '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: cohort
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ; a tenth of a Roman legion, usually about 600 men
-      marker-yv: yv-n
-    - type: text
-      text: ' before him. '
-  '28':
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'he departed, and he went and hanged himself. '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '28'
-    - type: text
-      text: 'And they stripped him and put '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 18:12
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '16'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 23:11
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'a scarlet robe on him, '
-  '29':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '29'
-    - type: text
-      text: 'and twisting together a crown of thorns, they put it on his head and put a reed in his right hand. And kneeling before him, they '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 20:19
-      marker-yv: yv-n
-    - type: text
-      text: 'mocked him, saying, “Hail, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '11'
-      marker-yv: yv-n
-    - type: text
-      text: 'King of the Jews!” '
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'Then when '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 26:14
-      marker-yv: yv-n
-    - type: text
-      text: Judas, his betrayer, saw that Jesus
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '27:3 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Greek '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: he
-      marker-yv: yv-n
-    - type: text
-      text: ' was condemned, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 21:29
-      marker-yv: yv-n
-    - type: text
-      text: 'he changed his mind and brought back '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 26:15
-      marker-yv: yv-n
-    - type: text
-      text: 'the thirty pieces of silver to the chief priests and the elders, '
-  '30':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '30'
-    - type: text
-      text: 'And '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 26:67
-      marker-yv: yv-n
-    - type: text
-      text: 'they spit on him and took the reed and struck him on the head. '
-  '31':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '31'
-    - type: text
-      text: 'And when they had mocked him, they stripped him of the robe and put his own clothes on him and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 53:7
-      marker-yv: yv-n
-    - type: text
-      text: led him away to crucify him.
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: The Crucifixion
-    marker-yv: yv-h
-  '32':
+      text: '6'
+  - type: text
+    text: 'But the chief priests, taking the pieces of silver, said, “It is not lawful to put them into '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '32'
+        text: Mark 12:41
+      metadata:
+        usfm: MRK.12.41
     - type: text
-      text: ' '
+      text: ', '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 15:21
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 23:26
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 19:17
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 13:12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: text
-        text: '21:39; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Num. 15:35
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'As they went out, they found a man of Cyrene, Simon by name. They compelled this man to '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 15:21
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 23:26
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 19:17
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'carry his cross. '
-  '33':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '33'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'For ver. 33-51, see '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 15:22-38
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 23:32-38
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 44-46
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 19:17-19
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '23'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '24'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 28-30
-      marker-yv: yv-n
-    - type: text
-      text: 'And when they came to a place called Golgotha (which means Place of a Skull), '
-  '34':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '34'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 69:21
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'they offered him wine to drink, mixed with '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 8:23
-      marker-yv: yv-n
-    - type: text
-      text: 'gall, but when he tasted it, he would not drink it. '
-  '35':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '35'
-    - type: text
-      text: 'And when they had crucified him, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 22:18
-      marker-yv: yv-n
-    - type: text
-      text: 'they divided his garments among them by casting lots. '
-  '36':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '36'
-    - type: text
-      text: 'Then they sat down and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '54'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 22:17
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'kept watch over him there. '
-  '37':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '37'
-    - type: text
-      text: 'And over his head they put the charge against him, which read, “This is Jesus, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 11, 29
-      marker-yv: yv-n
-    - type: text
-      text: 'the King of the Jews.” '
-  '38':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '38'
-    - type: text
-      text: 'Then two '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 18:40
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'robbers were crucified with him, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 20:21
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'one on the right and one on the left. '
-  '39':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '39'
-    - type: text
-      text: 'And '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 22:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 109:25
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lam. 1:12
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'those who passed by '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 22:65
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 23:39
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: James 2:7
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'derided him, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 16:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 37:22
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 18:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lam. 2:15
-      marker-yv: yv-n
-    - type: text
-      text: 'wagging their heads '
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'saying, “I have sinned by betraying innocent blood.” They said, “What is that to us? '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '24'
-      marker-yv: yv-n
-    - type: text
-      text: 'See to it yourself.” '
-  '40':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '40'
-    - type: text
-      text: 'and saying, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 26:61
-      marker-yv: yv-n
-    - type: text
-      text: '“You who would destroy the temple and rebuild it in three days, save yourself! '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:3
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '6'
-      marker-yv: yv-n
-    - type: text
-      text: 'If you are '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '43'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 26:63
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 14:33
-      marker-yv: yv-n
-    - type: text
-      text: 'the Son of God, come down from the cross.” '
-  '41':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '41'
-    - type: text
-      text: 'So also the chief priests, with the scribes and elders, mocked him, saying, '
-  '42':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '42'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 4:23
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: '“He saved others; '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 26:53
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '54'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 10:18
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'he cannot save himself. '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 1:49
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 12:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '37'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'He is the King of Israel; let him come down now from the cross, and we will believe in him. '
-  '43':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '43'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited from '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 22:8
-      marker-yv: yv-n
+      metadata:
+        usfm: MRK.12.43
     - type: text
-      text: 'He trusts in God; let God deliver him now, if he desires him. For he said, ‘I am the Son of God.’” '
-  '44':
-  - type: usfm
-    marker: p
-    children:
+      text: '; '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '44'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 23:39-43
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: Luke 21:1
+      metadata:
+        usfm: LUK.21.1
     - type: text
-      text: And the robbers who were crucified with him also reviled him in the same way.
-  - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: The Death of Jesus
-    marker-yv: yv-h
-  '45':
-  - type: usfm
-    marker: p
-    children:
+      text: '; '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '45'
+        text: John 8:20
+      metadata:
+        usfm: JHN.8.20
+    marker-yv: yv-n
+  - type: text
+    text: 'the treasury, since it is blood money.” '
+  - type: usfm
+    marker: vlbl
+    children:
     - type: text
-      text: Now from the sixth hour
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '27:45 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: That is, noon
-      marker-yv: yv-n
+      text: '7'
+  - type: text
+    text: 'So they took counsel and bought with them the potter’s field as a burial place for strangers. '
+  - type: usfm
+    marker: vlbl
+    children:
     - type: text
-      text: ' there was darkness over all the land'
+      text: '8'
+  - type: text
+    text: 'Therefore '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: f
+      marker: ref
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '27:45 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: earth
-      marker-yv: yv-n
+      - type: text
+        text: Acts 1:19
+      metadata:
+        usfm: ACT.1.19
+    marker-yv: yv-n
+  - type: text
+    text: 'that field has been called the Field of Blood '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 28:15
+      metadata:
+        usfm: MAT.28.15
+    marker-yv: yv-n
+  - type: text
+    text: 'to this day. '
+  - type: usfm
+    marker: vlbl
+    children:
     - type: text
-      text: ' until the ninth hour.'
+      text: '9'
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: f
+      marker: xta
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '27:45 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'That is, 3 '
-      - type: usfm
-        marker: sc
-        children:
-        - type: text
-          text: p.m.
-      marker-yv: yv-n
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1:22
+      metadata:
+        usfm: MAT.1.22
+    marker-yv: yv-n
+  - type: text
+    text: 'Then was fulfilled what had been spoken by the prophet Jeremiah, saying, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'Cited from '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Zech. 11:13
+      metadata:
+        usfm: ZEC.11.13
+    marker-yv: yv-n
+  - type: text
+    text: '“And they took the thirty pieces of silver, the price of him on whom a price had been set by some of the sons of Israel, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: and they gave them for the potter’s field, as the Lord directed me.”
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Jesus Before Pilate
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'For ver. 11-14, see '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mark 15:2-5
+      metadata:
+        usfm: MRK.15.2+MRK.15.3+MRK.15.4+MRK.15.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 23:2
+      metadata:
+        usfm: LUK.23.2
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '3'
+      metadata:
+        usfm: LUK.23.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 18:29-38
+      metadata:
+        usfm: JHN.18.29+JHN.18.30+JHN.18.31+JHN.18.32+JHN.18.33+JHN.18.34+JHN.18.35+JHN.18.36+JHN.18.37+JHN.18.38
+    marker-yv: yv-n
+  - type: text
+    text: 'Now Jesus stood before the governor, and the governor asked him, “Are you '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 29, 37
+      metadata:
+        usfm: MAT.27.29
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:2
+      metadata:
+        usfm: MAT.2.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 18:39
+      metadata:
+        usfm: JHN.18.39
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:3
+      metadata:
+        usfm: JHN.19.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '42'
+      metadata:
+        usfm: MAT.27.42
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'the King of the Jews?” Jesus said, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 6:13
+      metadata:
+        usfm: 1TI.6.13
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']; See Luke 22:70'
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: “You have said so.”
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 26:63
+      metadata:
+        usfm: MAT.26.63
+    marker-yv: yv-n
+  - type: text
+    text: 'But when he was accused by the chief priests and elders, he gave no answer. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'Then Pilate said to him, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 19:10
+      metadata:
+        usfm: JHN.19.10
+    marker-yv: yv-n
+  - type: text
+    text: '“Do you not hear how many things they testify against you?” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: But he gave him no answer, not even to a single charge, so that the governor was greatly amazed.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: The Crowd Chooses Barabbas
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'For ver. 15-26, see '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mark 15:6-15
+      metadata:
+        usfm: MRK.15.6+MRK.15.7+MRK.15.8+MRK.15.9+MRK.15.10+MRK.15.11+MRK.15.12+MRK.15.13+MRK.15.14+MRK.15.15
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 23:18-25
+      metadata:
+        usfm: LUK.23.18+LUK.23.19+LUK.23.20+LUK.23.21+LUK.23.22+LUK.23.23+LUK.23.24+LUK.23.25
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 18:39
+      metadata:
+        usfm: JHN.18.39
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '40'
+      metadata:
+        usfm: JHN.18.40
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:16
+      metadata:
+        usfm: JHN.19.16
+    marker-yv: yv-n
+  - type: text
+    text: 'Now at the feast the governor was accustomed to release for the crowd any one prisoner whom they wanted. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'And they had then a notorious prisoner called Barabbas. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'So when they had gathered, Pilate said to them, “Whom do you want me to release for you: Barabbas, or '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '22'
+      metadata:
+        usfm: MAT.27.22
+    marker-yv: yv-n
+  - type: text
+    text: 'Jesus who is called Christ?” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: 'For he knew that it was out '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 12:19
+      metadata:
+        usfm: JHN.12.19
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'of envy that they had delivered him up. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: 'Besides, while he was sitting on '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 19:13
+      metadata:
+        usfm: JHN.19.13
+    marker-yv: yv-n
+  - type: text
+    text: 'the judgment seat, his wife sent word to him, “Have nothing to do with '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '24'
+      metadata:
+        usfm: MAT.27.24
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 23:47
+      metadata:
+        usfm: LUK.23.47
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'that righteous man, for I have suffered much because of him today '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:12
+      metadata:
+        usfm: MAT.2.12
+    marker-yv: yv-n
+  - type: text
+    text: 'in a dream.” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: text
+    text: 'Now the chief priests and the elders persuaded the crowd to '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 3:14
+      metadata:
+        usfm: ACT.3.14
+    marker-yv: yv-n
+  - type: text
+    text: 'ask for Barabbas and destroy Jesus. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: text
+    text: 'The governor again said to them, “Which of the two do you want me to release for you?” And they said, “Barabbas.” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: 'Pilate said to them, “Then what shall I do with Jesus who is called Christ?” '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 13:28
+      metadata:
+        usfm: ACT.13.28
+    marker-yv: yv-n
+  - type: text
+    text: 'They all said, “Let him be crucified!” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: text
+    text: 'And he said, “Why? '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 23:41
+      metadata:
+        usfm: LUK.23.41
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 8:46
+      metadata:
+        usfm: JHN.8.46
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: What evil has he done?” But they shouted all the more, “Let him be crucified!”
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Pilate Delivers Jesus to Be Crucified
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '24'
+  - type: text
+    text: 'So when Pilate saw that he was gaining nothing, but rather that '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 26:5
+      metadata:
+        usfm: MAT.26.5
+    marker-yv: yv-n
+  - type: text
+    text: 'a riot was beginning, he took water and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 21:6-8
+      metadata:
+        usfm: DEU.21.6+DEU.21.7+DEU.21.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 26:6
+      metadata:
+        usfm: PSA.26.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 73:13
+      metadata:
+        usfm: PSA.73.13
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'washed his hands before the crowd, saying, “I am innocent of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '19'
+      metadata:
+        usfm: MAT.27.19
+    marker-yv: yv-n
+  - type: text
+    text: this man’s blood;
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '27:24 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Some manuscripts '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: this righteous blood
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: ', or '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: this righteous man’s blood
+    marker-yv: yv-n
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '4'
+      metadata:
+        usfm: MAT.27.4
+    marker-yv: yv-n
+  - type: text
+    text: 'see to it yourselves.” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '25'
+  - type: text
+    text: 'And all the people answered, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 23:35
+      metadata:
+        usfm: MAT.23.35
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '36'
+      metadata:
+        usfm: MAT.23.36
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Josh. 2:19
+      metadata:
+        usfm: JOS.2.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 5:28
+      metadata:
+        usfm: ACT.5.28
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: '“His blood be on us and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 20:5
+      metadata:
+        usfm: EXO.20.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lam. 5:7
+      metadata:
+        usfm: LAM.5.7
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'on our children!” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '26'
+  - type: text
+    text: 'Then he released for them Barabbas, and having '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 20:19
+      metadata:
+        usfm: MAT.20.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 50:6
+      metadata:
+        usfm: ISA.50.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 53:5
+      metadata:
+        usfm: ISA.53.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 23:16
+      metadata:
+        usfm: LUK.23.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 19:1
+      metadata:
+        usfm: JHN.19.1
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: scourged
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '27:26 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: A Roman judicial penalty, consisting of a severe beating with a multi-lashed whip containing embedded pieces of bone and metal
+    marker-yv: yv-n
+  - type: text
+    text: ' Jesus, delivered him to be crucified.'
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Jesus Is Mocked
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '27'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'For ver. 27-31, see '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mark 15:16-20
+      metadata:
+        usfm: MRK.15.16+MRK.15.17+MRK.15.18+MRK.15.19+MRK.15.20
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 19:2
+      metadata:
+        usfm: JHN.19.2
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '3'
+      metadata:
+        usfm: JHN.19.3
+    marker-yv: yv-n
+  - type: text
+    text: 'Then the soldiers of the governor took Jesus into the '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 18:28
+      metadata:
+        usfm: JHN.18.28
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '33'
+      metadata:
+        usfm: JHN.18.33
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:9
+      metadata:
+        usfm: JHN.19.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 23:35
+      metadata:
+        usfm: ACT.23.35
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Phil. 1:13
+      metadata:
+        usfm: PHP.1.13
+    - type: text
+      text: ' (Gk.)'
+    marker-yv: yv-n
+  - type: text
+    text: governor’s headquarters,
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '27:27 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Greek '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: the praetorium
+    marker-yv: yv-n
+  - type: text
+    text: ' and they gathered the whole '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 10:1
+      metadata:
+        usfm: ACT.10.1
+    - type: text
+      text: ' (Gk.)'
+    marker-yv: yv-n
+  - type: text
+    text: battalion
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '27:27 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Greek '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: cohort
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: ; a tenth of a Roman legion, usually about 600 men
+    marker-yv: yv-n
+  - type: text
+    text: ' before him. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '28'
+  - type: text
+    text: 'And they stripped him and put '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rev. 18:12
+      metadata:
+        usfm: REV.18.12
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '16'
+      metadata:
+        usfm: REV.18.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 23:11
+      metadata:
+        usfm: LUK.23.11
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'a scarlet robe on him, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '29'
+  - type: text
+    text: 'and twisting together a crown of thorns, they put it on his head and put a reed in his right hand. And kneeling before him, they '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 20:19
+      metadata:
+        usfm: MAT.20.19
+    marker-yv: yv-n
+  - type: text
+    text: 'mocked him, saying, “Hail, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '11'
+      metadata:
+        usfm: MAT.11
+    marker-yv: yv-n
+  - type: text
+    text: 'King of the Jews!” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '30'
+  - type: text
+    text: 'And '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 26:67
+      metadata:
+        usfm: MAT.26.67
+    marker-yv: yv-n
+  - type: text
+    text: 'they spit on him and took the reed and struck him on the head. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '31'
+  - type: text
+    text: 'And when they had mocked him, they stripped him of the robe and put his own clothes on him and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 53:7
+      metadata:
+        usfm: ISA.53.7
+    marker-yv: yv-n
+  - type: text
+    text: led him away to crucify him.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: The Crucifixion
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '32'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mark 15:21
+      metadata:
+        usfm: MRK.15.21
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 23:26
+      metadata:
+        usfm: LUK.23.26
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
-  '46':
-  - type: usfm
-    marker: p
-    children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '46'
-    - type: text
-      text: 'And about the ninth hour Jesus '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 5:7
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'cried out with a loud voice, saying, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited from '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 22:1
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: “Eli, Eli, lema sabachthani?”
-    - type: text
-      text: ' that is, '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: “My God, my God, why have you forsaken me?”
+        text: John 19:17
+      metadata:
+        usfm: JHN.19.17
     - type: text
       text: ' '
-  '47':
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '47'
+        text: Heb. 13:12
+      metadata:
+        usfm: HEB.13.12
     - type: text
-      text: 'And some of the bystanders, hearing it, said, “This man is calling Elijah.” '
-  '48':
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: text
+      text: '21:39; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Num. 15:35
+      metadata:
+        usfm: NUM.15.35
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'As they went out, they found a man of Cyrene, Simon by name. They compelled this man to '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '48'
+        text: Mark 15:21
+      metadata:
+        usfm: MRK.15.21
     - type: text
-      text: 'And one of them at once ran and took a sponge, filled it with '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ruth 2:14
-      marker-yv: yv-n
+      - type: text
+        text: Luke 23:26
+      metadata:
+        usfm: LUK.23.26
     - type: text
-      text: 'sour wine, and put it on a reed and '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 69:21
-      marker-yv: yv-n
-    - type: text
-      text: 'gave it to him to drink. '
-  '49':
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 19:17
+      metadata:
+        usfm: JHN.19.17
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'carry his cross. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '33'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '49'
+        text: 'For ver. 33-51, see '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mark 15:22-38
+      metadata:
+        usfm: MRK.15.22+MRK.15.23+MRK.15.24+MRK.15.25+MRK.15.26+MRK.15.27+MRK.15.28+MRK.15.29+MRK.15.30+MRK.15.31+MRK.15.32+MRK.15.33+MRK.15.34+MRK.15.35+MRK.15.36+MRK.15.37+MRK.15.38
     - type: text
-      text: 'But the others said, “Wait, let us see whether Elijah will come to save him.” '
-  '5':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 23:32-38
+      metadata:
+        usfm: LUK.23.32+LUK.23.33+LUK.23.34+LUK.23.35+LUK.23.36+LUK.23.37+LUK.23.38
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 44-46
+      metadata:
+        usfm: LUK.23.44+LUK.23.45+LUK.23.46
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 19:17-19
+      metadata:
+        usfm: JHN.19.17+JHN.19.18+JHN.19.19
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '23'
+      metadata:
+        usfm: JHN.19.23
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '24'
+      metadata:
+        usfm: JHN.19.24
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 28-30
+      metadata:
+        usfm: JHN.19.28+JHN.19.29+JHN.19.30
+    marker-yv: yv-n
+  - type: text
+    text: 'And when they came to a place called Golgotha (which means Place of a Skull), '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '34'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: 'And throwing down the pieces of silver into the temple, '
+        text: '['
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Sam. 17:23
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 1:18
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'he departed, and he went and hanged himself. '
-  '50':
+        text: Ps. 69:21
+      metadata:
+        usfm: PSA.69.21
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'they offered him wine to drink, mixed with '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '50'
-    - type: text
-      text: 'And Jesus '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '46'
-      marker-yv: yv-n
-    - type: text
-      text: 'cried out again with a loud voice and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 10:18
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: yielded up his spirit.
-  '51':
+        text: Acts 8:23
+      metadata:
+        usfm: ACT.8.23
+    marker-yv: yv-n
+  - type: text
+    text: 'gall, but when he tasted it, he would not drink it. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '35'
+  - type: text
+    text: 'And when they had crucified him, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '51'
-    - type: text
-      text: 'And behold, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 26:31-33
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Chr. 3:14
-      marker-yv: yv-n
-    - type: text
-      text: 'the curtain of the temple was torn in two, from top to bottom. And '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '54'
-      marker-yv: yv-n
-    - type: text
-      text: 'the earth shook, and the rocks were split. '
-  '52':
+        text: Ps. 22:18
+      metadata:
+        usfm: PSA.22.18
+    marker-yv: yv-n
+  - type: text
+    text: 'they divided his garments among them by casting lots. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '36'
+  - type: text
+    text: 'Then they sat down and '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '52'
-    - type: text
-      text: 'The tombs also were opened. And many bodies of '
+        text: 'ver. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Dan. 7:18
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '22'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'the saints '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 11:11-13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 7:60
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 13:36
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 15:6
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '18'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '20'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Thess. 4:13-15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 3:4
-      marker-yv: yv-n
-    - type: text
-      text: 'who had fallen asleep were raised, '
-  '53':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '53'
-    - type: text
-      text: 'and coming out of the tombs after his resurrection they went into '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:5
-      marker-yv: yv-n
-    - type: text
-      text: 'the holy city and appeared to many. '
-  '54':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '54'
+      metadata:
+        usfm: MAT.27.54
+    - type: text
+      text: '; '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'For ver. 54-56, see '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 15:39-41
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 23:47
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '49'
-      marker-yv: yv-n
-    - type: text
-      text: 'When the centurion and those who were with him, '
+        text: Ps. 22:17
+      metadata:
+        usfm: PSA.22.17
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '36'
-      marker-yv: yv-n
-    - type: text
-      text: 'keeping watch over Jesus, saw the earthquake and what took place, they were filled with awe and said, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '43'
-      marker-yv: yv-n
-    - type: text
-      text: “Truly this was the Son
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '27:54 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: a son
-      marker-yv: yv-n
-    - type: text
-      text: ' of God!”'
-  '55':
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'kept watch over him there. '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '55'
-    - type: text
-      text: 'There were also '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 19:25
-      marker-yv: yv-n
-    - type: text
-      text: 'many women there, looking on '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 38:11
-      marker-yv: yv-n
-    - type: text
-      text: 'from a distance, who had followed Jesus from Galilee, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 8:2
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '3'
-      marker-yv: yv-n
-    - type: text
-      text: 'ministering to him, '
-  '56':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '56'
-    - type: text
-      text: 'among whom were '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '55'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: above]
-      marker-yv: yv-n
-    - type: text
-      text: 'Mary Magdalene and Mary the mother of James and Joseph and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 20:20
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 15:40
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the mother of the sons of Zebedee.
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Jesus Is Buried
-    marker-yv: yv-h
-  '57':
+      text: '37'
+  - type: text
+    text: 'And over his head they put the charge against him, which read, “This is Jesus, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '57'
-    - type: text
-      text: ' '
+        text: 'ver. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'For ver. 57-61, see '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 15:42-47
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 23:50-56
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 19:38-42
-      marker-yv: yv-n
-    - type: text
-      text: 'When it was evening, there came a rich man from Arimathea, named Joseph, who also was a disciple of Jesus. '
-  '58':
+        text: 11, 29
+      metadata:
+        usfm: MAT.27.11
+    marker-yv: yv-n
+  - type: text
+    text: 'the King of the Jews.” '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '38'
+  - type: text
+    text: 'Then two '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '58'
-    - type: text
-      text: 'He went to Pilate and asked for the body of Jesus. Then Pilate ordered it to be given to him. '
-  '59':
-  - type: usfm
-    marker: p
-    children:
+        text: '['
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '59'
-    - type: text
-      text: 'And Joseph took the body and wrapped it in a clean linen shroud '
-  '6':
+        text: John 18:40
+      metadata:
+        usfm: JHN.18.40
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'robbers were crucified with him, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 20:21
+      metadata:
+        usfm: MAT.20.21
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'one on the right and one on the left. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '39'
+  - type: text
+    text: 'And '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 22:7
+      metadata:
+        usfm: PSA.22.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 109:25
+      metadata:
+        usfm: PSA.109.25
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lam. 1:12
+      metadata:
+        usfm: LAM.1.12
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'those who passed by '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 22:65
+      metadata:
+        usfm: LUK.22.65
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 23:39
+      metadata:
+        usfm: LUK.23.39
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: James 2:7
+      metadata:
+        usfm: JAS.2.7
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'derided him, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 16:4
+      metadata:
+        usfm: JOB.16.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 37:22
+      metadata:
+        usfm: ISA.37.22
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 18:16
+      metadata:
+        usfm: JER.18.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lam. 2:15
+      metadata:
+        usfm: LAM.2.15
+    marker-yv: yv-n
+  - type: text
+    text: 'wagging their heads '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '40'
+  - type: text
+    text: 'and saying, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 26:61
+      metadata:
+        usfm: MAT.26.61
+    marker-yv: yv-n
+  - type: text
+    text: '“You who would destroy the temple and rebuild it in three days, save yourself! '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:3
+      metadata:
+        usfm: MAT.4.3
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '6'
-    - type: text
-      text: 'But the chief priests, taking the pieces of silver, said, “It is not lawful to put them into '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 12:41
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '43'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 21:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 8:20
-      marker-yv: yv-n
-    - type: text
-      text: 'the treasury, since it is blood money.” '
-  '60':
+      metadata:
+        usfm: MAT.4.6
+    marker-yv: yv-n
+  - type: text
+    text: 'If you are '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '60'
-    - type: text
-      text: 'and '
+        text: 'ver. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 53:9
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'laid it in his own new tomb, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 22:16
-      marker-yv: yv-n
-    - type: text
-      text: 'which he had cut in the rock. And he rolled '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 16:4
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 11:38
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: '43'
+      metadata:
+        usfm: MAT.27.43
     - type: text
-      text: 'a great stone to the entrance of the tomb and went away. '
-  '61':
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 26:63
+      metadata:
+        usfm: MAT.26.63
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 14:33
+      metadata:
+        usfm: MAT.14.33
+    marker-yv: yv-n
+  - type: text
+    text: 'the Son of God, come down from the cross.” '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '61'
-    - type: text
-      text: 'Mary Magdalene and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '56'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 28:1
-      marker-yv: yv-n
-    - type: text
-      text: the other Mary were there, sitting opposite the tomb.
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: The Guard at the Tomb
-    marker-yv: yv-h
-  '62':
+      text: '41'
+  - type: text
+    text: 'So also the chief priests, with the scribes and elders, mocked him, saying, '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '42'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '62'
-    - type: text
-      text: 'The next day, that is, after the day of '
+        text: '['
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 15:42
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 23:54
+        text: Luke 4:23
+      metadata:
+        usfm: LUK.4.23
+    - type: usfm
+      marker: xta
+      children:
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 19:14
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '31'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '42'
-      marker-yv: yv-n
-    - type: text
-      text: 'Preparation, the chief priests and the Pharisees gathered before Pilate '
-  '63':
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: '“He saved others; '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '63'
-    - type: text
-      text: 'and said, “Sir, we remember how '
+        text: '[ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '64'
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 7:12
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: 26:53
+      metadata:
+        usfm: MAT.26.53
     - type: text
-      text: 'that impostor said, while he was still alive, '
+      text: ', '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 16:21
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 17:23
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 20:19
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 28:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 8:31
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 10:34
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 9:22
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 18:33
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 24:6
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '7'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 26:61
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 2:19
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: '54'
+      metadata:
+        usfm: MAT.26.54
     - type: text
-      text: '‘After three days I will rise.’ '
-  '64':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 10:18
+      metadata:
+        usfm: JHN.10.18
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'he cannot save himself. '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: John 1:49
+      metadata:
+        usfm: JHN.1.49
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 12:13
+      metadata:
+        usfm: JHN.12.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '37'
+      metadata:
+        usfm: MAT.27.37
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'He is the King of Israel; let him come down now from the cross, and we will believe in him. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '43'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'Cited from '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 22:8
+      metadata:
+        usfm: PSA.22.8
+    marker-yv: yv-n
+  - type: text
+    text: 'He trusts in God; let God deliver him now, if he desires him. For he said, ‘I am the Son of God.’” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '44'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 23:39-43
+      metadata:
+        usfm: LUK.23.39+LUK.23.40+LUK.23.41+LUK.23.42+LUK.23.43
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: And the robbers who were crucified with him also reviled him in the same way.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: The Death of Jesus
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '45'
+  - type: text
+    text: Now from the sixth hour
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '27:45 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: That is, noon
+    marker-yv: yv-n
+  - type: text
+    text: ' there was darkness over all the land'
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '27:45 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: earth
+    marker-yv: yv-n
+  - type: text
+    text: ' until the ninth hour.'
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '27:45 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'That is, 3 '
+    - type: usfm
+      marker: sc
+      children:
+      - type: text
+        text: p.m.
+    marker-yv: yv-n
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '46'
+  - type: text
+    text: 'And about the ninth hour Jesus '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 5:7
+      metadata:
+        usfm: HEB.5.7
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'cried out with a loud voice, saying, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'Cited from '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 22:1
+      metadata:
+        usfm: PSA.22.1
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: “Eli, Eli, lema sabachthani?”
+  - type: text
+    text: ' that is, '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: “My God, my God, why have you forsaken me?”
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '47'
+  - type: text
+    text: 'And some of the bystanders, hearing it, said, “This man is calling Elijah.” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '48'
+  - type: text
+    text: 'And one of them at once ran and took a sponge, filled it with '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ruth 2:14
+      metadata:
+        usfm: RUT.2.14
+    marker-yv: yv-n
+  - type: text
+    text: 'sour wine, and put it on a reed and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 69:21
+      metadata:
+        usfm: PSA.69.21
+    marker-yv: yv-n
+  - type: text
+    text: 'gave it to him to drink. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '49'
+  - type: text
+    text: 'But the others said, “Wait, let us see whether Elijah will come to save him.” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '50'
+  - type: text
+    text: 'And Jesus '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '46'
+      metadata:
+        usfm: MAT.27.46
+    marker-yv: yv-n
+  - type: text
+    text: 'cried out again with a loud voice and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 10:18
+      metadata:
+        usfm: JHN.10.18
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: yielded up his spirit.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '51'
+  - type: text
+    text: 'And behold, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 26:31-33
+      metadata:
+        usfm: EXO.26.31+EXO.26.32+EXO.26.33
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Chr. 3:14
+      metadata:
+        usfm: 2CH.3.14
+    marker-yv: yv-n
+  - type: text
+    text: 'the curtain of the temple was torn in two, from top to bottom. And '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '54'
+      metadata:
+        usfm: MAT.27.54
+    marker-yv: yv-n
+  - type: text
+    text: 'the earth shook, and the rocks were split. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '52'
+  - type: text
+    text: 'The tombs also were opened. And many bodies of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Dan. 7:18
+      metadata:
+        usfm: DAN.7.18
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '22'
+      metadata:
+        usfm: DAN.7.22
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'the saints '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 11:11-13
+      metadata:
+        usfm: JHN.11.11+JHN.11.12+JHN.11.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 7:60
+      metadata:
+        usfm: ACT.7.60
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 13:36
+      metadata:
+        usfm: ACT.13.36
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 15:6
+      metadata:
+        usfm: 1CO.15.6
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '18'
+      metadata:
+        usfm: 1CO.15.18
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '20'
+      metadata:
+        usfm: 1CO.15.20
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Thess. 4:13-15
+      metadata:
+        usfm: 1TH.4.13+1TH.4.14+1TH.4.15
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pet. 3:4
+      metadata:
+        usfm: 2PE.3.4
+    marker-yv: yv-n
+  - type: text
+    text: 'who had fallen asleep were raised, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '53'
+  - type: text
+    text: 'and coming out of the tombs after his resurrection they went into '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:5
+      metadata:
+        usfm: MAT.4.5
+    marker-yv: yv-n
+  - type: text
+    text: 'the holy city and appeared to many. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '54'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'For ver. 54-56, see '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mark 15:39-41
+      metadata:
+        usfm: MRK.15.39+MRK.15.40+MRK.15.41
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 23:47
+      metadata:
+        usfm: LUK.23.47
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '49'
+      metadata:
+        usfm: LUK.23.49
+    marker-yv: yv-n
+  - type: text
+    text: 'When the centurion and those who were with him, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '36'
+      metadata:
+        usfm: MAT.27.36
+    marker-yv: yv-n
+  - type: text
+    text: 'keeping watch over Jesus, saw the earthquake and what took place, they were filled with awe and said, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '43'
+      metadata:
+        usfm: MAT.27.43
+    marker-yv: yv-n
+  - type: text
+    text: “Truly this was the Son
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '27:54 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: a son
+    marker-yv: yv-n
+  - type: text
+    text: ' of God!”'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '55'
+  - type: text
+    text: 'There were also '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 19:25
+      metadata:
+        usfm: JHN.19.25
+    marker-yv: yv-n
+  - type: text
+    text: 'many women there, looking on '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 38:11
+      metadata:
+        usfm: PSA.38.11
+    marker-yv: yv-n
+  - type: text
+    text: 'from a distance, who had followed Jesus from Galilee, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 8:2
+      metadata:
+        usfm: LUK.8.2
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '3'
+      metadata:
+        usfm: LUK.8.3
+    marker-yv: yv-n
+  - type: text
+    text: 'ministering to him, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '56'
+  - type: text
+    text: 'among whom were '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[See ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '55'
+      metadata:
+        usfm: MAT.27.55
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: above]
+    marker-yv: yv-n
+  - type: text
+    text: 'Mary Magdalene and Mary the mother of James and Joseph and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 20:20
+      metadata:
+        usfm: MAT.20.20
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mark 15:40
+      metadata:
+        usfm: MRK.15.40
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the mother of the sons of Zebedee.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Jesus Is Buried
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '57'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'For ver. 57-61, see '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mark 15:42-47
+      metadata:
+        usfm: MRK.15.42+MRK.15.43+MRK.15.44+MRK.15.45+MRK.15.46+MRK.15.47
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 23:50-56
+      metadata:
+        usfm: LUK.23.50+LUK.23.51+LUK.23.52+LUK.23.53+LUK.23.54+LUK.23.55+LUK.23.56
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 19:38-42
+      metadata:
+        usfm: JHN.19.38+JHN.19.39+JHN.19.40+JHN.19.41+JHN.19.42
+    marker-yv: yv-n
+  - type: text
+    text: 'When it was evening, there came a rich man from Arimathea, named Joseph, who also was a disciple of Jesus. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '58'
+  - type: text
+    text: 'He went to Pilate and asked for the body of Jesus. Then Pilate ordered it to be given to him. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '59'
+  - type: text
+    text: 'And Joseph took the body and wrapped it in a clean linen shroud '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '60'
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 53:9
+      metadata:
+        usfm: ISA.53.9
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'laid it in his own new tomb, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 22:16
+      metadata:
+        usfm: ISA.22.16
+    marker-yv: yv-n
+  - type: text
+    text: 'which he had cut in the rock. And he rolled '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mark 16:4
+      metadata:
+        usfm: MRK.16.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 11:38
+      metadata:
+        usfm: JHN.11.38
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'a great stone to the entrance of the tomb and went away. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '61'
+  - type: text
+    text: 'Mary Magdalene and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '56'
+      metadata:
+        usfm: MAT.27.56
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 28:1
+      metadata:
+        usfm: MAT.28.1
+    marker-yv: yv-n
+  - type: text
+    text: the other Mary were there, sitting opposite the tomb.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: The Guard at the Tomb
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '62'
+  - type: text
+    text: 'The next day, that is, after the day of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mark 15:42
+      metadata:
+        usfm: MRK.15.42
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 23:54
+      metadata:
+        usfm: LUK.23.54
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 19:14
+      metadata:
+        usfm: JHN.19.14
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '31'
+      metadata:
+        usfm: JHN.19.31
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '42'
+      metadata:
+        usfm: JHN.19.42
+    marker-yv: yv-n
+  - type: text
+    text: 'Preparation, the chief priests and the Pharisees gathered before Pilate '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '63'
+  - type: text
+    text: 'and said, “Sir, we remember how '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ver. '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '64'
+      metadata:
+        usfm: MAT.27.64
     - type: text
-      text: 'Therefore order the tomb to be made secure until the third day, '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 28:13
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'lest his disciples go and steal him away and tell the people, ‘He has risen from the dead,’ and the last fraud will be worse than the first.” '
-  '65':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '65'
-    - type: text
-      text: 'Pilate said to them, “You have '
+        text: John 7:12
+      metadata:
+        usfm: JHN.7.12
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 28:11
-      marker-yv: yv-n
-    - type: text
-      text: a guard
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '27:65 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: Take a guard
-      marker-yv: yv-n
-    - type: text
-      text: ' of soldiers. Go, make it as secure as you can.” '
-  '66':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '66'
-    - type: text
-      text: 'So they went and made the tomb secure by '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Dan. 6:17
-      marker-yv: yv-n
-    - type: text
-      text: sealing the stone and setting a guard.
-  '7':
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'that impostor said, while he was still alive, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 16:21
+      metadata:
+        usfm: MAT.16.21
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 17:23
+      metadata:
+        usfm: MAT.17.23
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 20:19
+      metadata:
+        usfm: MAT.20.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 28:6
+      metadata:
+        usfm: MAT.28.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mark 8:31
+      metadata:
+        usfm: MRK.8.31
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 10:34
+      metadata:
+        usfm: MRK.10.34
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 9:22
+      metadata:
+        usfm: LUK.9.22
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 18:33
+      metadata:
+        usfm: LUK.18.33
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 24:6
+      metadata:
+        usfm: LUK.24.6
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '7'
+      metadata:
+        usfm: LUK.24.7
     - type: text
-      text: 'So they took counsel and bought with them the potter’s field as a burial place for strangers. '
-  '8':
-  - type: usfm
-    marker: p
-    children:
+      text: '; '
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '8'
-    - type: text
-      text: 'Therefore '
+        text: '[ch. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 1:19
-      marker-yv: yv-n
-    - type: text
-      text: 'that field has been called the Field of Blood '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 28:15
-      marker-yv: yv-n
-    - type: text
-      text: 'to this day. '
-  '9':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '9'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1:22
-      marker-yv: yv-n
+        text: 26:61
+      metadata:
+        usfm: MAT.26.61
     - type: text
-      text: 'Then was fulfilled what had been spoken by the prophet Jeremiah, saying, '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited from '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Zech. 11:13
-      marker-yv: yv-n
+      - type: text
+        text: John 2:19
+      metadata:
+        usfm: JHN.2.19
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: '‘After three days I will rise.’ '
+  - type: usfm
+    marker: vlbl
+    children:
     - type: text
-      text: '“And they took the thirty pieces of silver, the price of him on whom a price had been set by some of the sons of Israel, '
+      text: '64'
+  - type: text
+    text: 'Therefore order the tomb to be made secure until the third day, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 28:13
+      metadata:
+        usfm: MAT.28.13
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'lest his disciples go and steal him away and tell the people, ‘He has risen from the dead,’ and the last fraud will be worse than the first.” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '65'
+  - type: text
+    text: 'Pilate said to them, “You have '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 28:11
+      metadata:
+        usfm: MAT.28.11
+    marker-yv: yv-n
+  - type: text
+    text: a guard
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '27:65 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: Take a guard
+    marker-yv: yv-n
+  - type: text
+    text: ' of soldiers. Go, make it as secure as you can.” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '66'
+  - type: text
+    text: 'So they went and made the tomb secure by '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Dan. 6:17
+      metadata:
+        usfm: DAN.6.17
+    marker-yv: yv-n
+  - type: text
+    text: sealing the stone and setting a guard.

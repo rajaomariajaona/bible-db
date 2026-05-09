@@ -1,45 +1,44 @@
-document_id: JON.INTRO1,111
+document_id: JON.INTRO1
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: imt1
+  children:
+  - type: text
+    text: Intro
+- type: usfm
+  marker: im
+  children:
+  - type: text
+    text: 'The book relates how the word of the '
   - type: usfm
-    marker: imt1
+    marker: nd
     children:
     - type: text
-      text: Intro
+      text: Lord
+  - type: text
+    text: ' came to Jonah, a prophet during the reign of Jeroboam II in the 8'
   - type: usfm
-    marker: im
+    marker: ord
     children:
     - type: text
-      text: 'The book relates how the word of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' came to Jonah, a prophet during the reign of Jeroboam II in the 8'
-    - type: usfm
-      marker: ord
-      children:
-      - type: text
-        text: th
-    - type: text
-      text: ' century BC. It is unique among prophetic books in focusing on a story about a prophet rather than a collection of oracles. The book contains only a single sentence of prophecy.'
+      text: th
+  - type: text
+    text: ' century BC. It is unique among prophetic books in focusing on a story about a prophet rather than a collection of oracles. The book contains only a single sentence of prophecy.'
+- type: usfm
+  marker: ip
+  children:
+  - type: text
+    text: 'The story concerns God’s call to Jonah to warn the people of Nineveh of its coming destruction. The book is structured into two main acts with two scenes each. The repetition of God’s command to '
   - type: usfm
-    marker: ip
+    marker: qt
     children:
     - type: text
-      text: 'The story concerns God’s call to Jonah to warn the people of Nineveh of its coming destruction. The book is structured into two main acts with two scenes each. The repetition of God’s command to '
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: Go to the great city of Nineveh
-    - type: text
-      text: ' marks the beginning of each act. The first scene is set on a ship as Jonah tries to avoid his mission. The second scene takes place in the belly of a huge fish which has swallowed Jonah. In the second act both scenes are associated with Nineveh itself, the first within the city as Jonah preaches and Nineveh repents, the second just outside the city as Jonah struggles with God’s mercy.'
-  - type: usfm
-    marker: ip
-    children:
-    - type: text
-      text: Jonah’s role in the book is to represent the attitude of many in Israel toward other nations. Instead of accepting their own calling to help these nations come to know the true God, they considered them enemies and expected God to destroy them. The book teaches that God’s love extends beyond Israel to other nations, indeed, to the whole creation. God’s final question to Jonah is intended for all the book’s readers.
+      text: Go to the great city of Nineveh
+  - type: text
+    text: ' marks the beginning of each act. The first scene is set on a ship as Jonah tries to avoid his mission. The second scene takes place in the belly of a huge fish which has swallowed Jonah. In the second act both scenes are associated with Nineveh itself, the first within the city as Jonah preaches and Nineveh repents, the second just outside the city as Jonah struggles with God’s mercy.'
+- type: usfm
+  marker: ip
+  children:
+  - type: text
+    text: Jonah’s role in the book is to represent the attitude of many in Israel toward other nations. Instead of accepting their own calling to help these nations come to know the true God, they considered them enemies and expected God to destroy them. The book teaches that God’s love extends beyond Israel to other nations, indeed, to the whole creation. God’s final question to Jonah is intended for all the book’s readers.

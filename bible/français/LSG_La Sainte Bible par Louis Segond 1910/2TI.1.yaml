@@ -1,592 +1,611 @@
-document_id: 2TI.1,93
+document_id: 2TI.1
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Adresse et salutation
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 1-2: cf. 1 Ti 1:1, 2.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Adresse et salutation
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Paul, apôtre de Jésus-Christ, par la volonté de Dieu, pour annoncer la promesse de la vie qui est en Jésus-Christ, '
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 1-2: cf. 1 Ti 1:1, 2.'
-    marker-yv: yv-h
+      text: '2'
+  - type: text
+    text: 'à Timothée, mon enfant bien-aimé: '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Ga 1:3
+      metadata:
+        usfm: GAL.1.3
     - type: text
-      text: 'Paul, apôtre de Jésus-Christ, par la volonté de Dieu, pour annoncer la promesse de la vie qui est en Jésus-Christ, '
-  '10':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Ti 1:2
+      metadata:
+        usfm: 1TI.1.2
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pi 1:2
+      metadata:
+        usfm: 1PE.1.2
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: que la grâce, la miséricorde et la paix te soient données de la part de Dieu le Père et de Jésus-Christ notre Seigneur!
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Affection de Paul pour Timothée. Exhortation à la fermeté dans la foi et à la constance dans les travaux du ministère
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 3-14: cf. (Ac 16:1-3. 2 Ti 3:15.) (1 Ti 4:14. 2 Ti 2:1-12.) (Ép 1:3-7; 2:8, 9. 2 Th 2:13-15.)'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '10'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 16:25
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ép 1:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 3:9
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col 1:26
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Tit 1:2
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pi 1:20
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'et qui a été manifestée maintenant par l’apparition de notre Sauveur Jésus-Christ, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 25:8
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hé 2:14
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'qui a détruit la mort et a mis en évidence la vie et l’immortalité par l’Évangile. '
-  '11':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '11'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ac 9:15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 13:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 22:21
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ga 1:15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:8
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ép 3:8
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Ti 2:7
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'C’est pour cet Évangile que j’ai été établi prédicateur et apôtre, chargé d’instruire les païens. '
-  '12':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '12'
-    - type: text
-      text: 'Et c’est à cause de cela que je souffre ces choses; mais j’en ai point honte, car je sais en qui j’ai cru, et je suis persuadé qu’il a la puissance de garder mon dépôt jusqu’à ce jour-là. '
-  '13':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '13'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Ti 3:14
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Retiens dans la foi et dans la charité qui est en Jésus-Christ le modèle des saines paroles que tu as reçues de moi. '
-  '14':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '14'
-    - type: text
-      text: Garde le bon dépôt, par le Saint-Esprit qui habite en nous.
-  - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 15-18: cf. Mt 25:34-40.'
-    marker-yv: yv-h
-  '15':
+      text: '3'
+  - type: text
+    text: 'Je rends grâces à Dieu, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '15'
+        text: Ac 22:3
+      metadata:
+        usfm: ACT.22.3
     - type: text
-      text: 'Tu sais '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ac 19:10
       - type: text
-        text: .
-      marker-yv: yv-n
+        text: Ro 1:9
+      metadata:
+        usfm: ROM.1.9
     - type: text
-      text: 'que tous ceux qui sont en Asie m’ont abandonné, entre autres Phygelle et Hermogène. '
-  '16':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'que mes ancêtres ont servi, et que je sers avec une conscience pure, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '16'
+        text: 1 Th 1:2
+      metadata:
+        usfm: 1TH.1.2
     - type: text
-      text: 'Que le Seigneur répande sa miséricorde sur la maison '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Ti 4:19
       - type: text
-        text: .
-      marker-yv: yv-n
+        text: 3:10
+      metadata:
+        usfm: 1TH.3.10
     - type: text
-      text: 'd’Onésiphore, car il m’a souvent consolé, et il n’a pas eu honte de mes chaînes; '
-  '17':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'de ce que nuit et jour je me souviens continuellement de toi dans mes prières, '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: text
-      text: 'au contraire, lorsqu’il est venu à Rome, il m’a cherché avec beaucoup d’empressement, et il m’a trouvé. '
-  '18':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
-    - type: text
-      text: Que le Seigneur lui donne d’obtenir miséricorde auprès du Seigneur en ce jour-là. Tu sais mieux que personne combien de services il m’a rendus à Éphèse.
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'à Timothée, mon enfant bien-aimé: '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ga 1:3
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Ti 1:2
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pi 1:2
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: que la grâce, la miséricorde et la paix te soient données de la part de Dieu le Père et de Jésus-Christ notre Seigneur!
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Affection de Paul pour Timothée. Exhortation à la fermeté dans la foi et à la constance dans les travaux du ministère
-    marker-yv: yv-h
+      text: '4'
+  - type: text
+    text: 'me rappelant tes larmes, et désirant te voir afin d’être rempli de joie, '
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 3-14: cf. (Ac 16:1-3. 2 Ti 3:15.) (1 Ti 4:14. 2 Ti 2:1-12.) (Ép 1:3-7; 2:8, 9. 2 Th 2:13-15.)'
-    marker-yv: yv-h
-  '3':
+      text: '5'
+  - type: text
+    text: 'gardant le souvenir de la foi sincère qui est en toi, qui habita d’abord dans ton aïeule Loïs et dans ta mère Eunice, et qui, j’en suis persuadé, habite aussi en toi. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'C’est pourquoi je t’exhorte à ranimer le don de Dieu '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '3'
+        text: Ac 6:6
+      metadata:
+        usfm: ACT.6.6
     - type: text
-      text: 'Je rends grâces à Dieu, '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ac 22:3
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 1:9
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: 8:17
+      metadata:
+        usfm: ACT.8.17
     - type: text
-      text: 'que mes ancêtres ont servi, et que je sers avec une conscience pure, '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Th 1:2
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 3:10
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: 13:3
+      metadata:
+        usfm: ACT.13.3
     - type: text
-      text: 'de ce que nuit et jour je me souviens continuellement de toi dans mes prières, '
-  '4':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:6
+      metadata:
+        usfm: ACT.19.6
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Ti 4:14
+      metadata:
+        usfm: 1TI.4.14
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 5:22
+      metadata:
+        usfm: 1TI.5.22
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'que tu as reçu par l’imposition de mes mains. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '4'
+        text: Ro 8:15
+      metadata:
+        usfm: ROM.8.15
     - type: text
-      text: 'me rappelant tes larmes, et désirant te voir afin d’être rempli de joie, '
-  '5':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Car ce n’est pas un esprit de timidité que Dieu nous a donné, mais un esprit de force, d’amour et de sagesse. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: Ro 1:16
+      metadata:
+        usfm: ROM.1.16
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'N’aie donc point honte du témoignage à rendre à notre Seigneur, ni de moi '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ac 21:33
+      metadata:
+        usfm: ACT.21.33
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ép 3:1
+      metadata:
+        usfm: EPH.3.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:1
+      metadata:
+        usfm: EPH.4.1
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Col 4:18
+      metadata:
+        usfm: COL.4.18
+    - type: text
+      text: . Phm v. 1, 9, 13.
+    marker-yv: yv-n
+  - type: text
+    text: 'son prisonnier. Mais souffre avec moi pour l’Évangile, par la puissance de Dieu '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'qui nous a '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ép 1:3
+      metadata:
+        usfm: EPH.1.3
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Tit 3:4
+      metadata:
+        usfm: TIT.3.4
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '5'
+      metadata:
+        usfm: TIT.3.5
     - type: text
-      text: 'gardant le souvenir de la foi sincère qui est en toi, qui habita d’abord dans ton aïeule Loïs et dans ta mère Eunice, et qui, j’en suis persuadé, habite aussi en toi. '
-  '6':
-  - type: usfm
-    marker: p
-    children:
+      text: ', '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '6'
+      metadata:
+        usfm: TIT.3.6
     - type: text
-      text: 'C’est pourquoi je t’exhorte à ranimer le don de Dieu '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ac 6:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 8:17
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 13:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:6
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Ti 4:14
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 5:22
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'que tu as reçu par l’imposition de mes mains. '
-  '7':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'sauvés, et nous a adressé une sainte vocation, non à cause de nos œuvres, mais selon son propre dessein, et selon la grâce qui nous a été donnée en Jésus-Christ avant les temps éternels, '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '7'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 8:15
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Ro 16:25
+      metadata:
+        usfm: ROM.16.25
     - type: text
-      text: 'Car ce n’est pas un esprit de timidité que Dieu nous a donné, mais un esprit de force, d’amour et de sagesse. '
-  '8':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ép 1:9
+      metadata:
+        usfm: EPH.1.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 3:9
+      metadata:
+        usfm: EPH.3.9
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Col 1:26
+      metadata:
+        usfm: COL.1.26
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Tit 1:2
+      metadata:
+        usfm: TIT.1.2
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pi 1:20
+      metadata:
+        usfm: 1PE.1.20
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'et qui a été manifestée maintenant par l’apparition de notre Sauveur Jésus-Christ, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '8'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 1:16
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: És 25:8
+      metadata:
+        usfm: ISA.25.8
     - type: text
-      text: 'N’aie donc point honte du témoignage à rendre à notre Seigneur, ni de moi '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ac 21:33
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ép 3:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:1
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col 4:18
-      - type: text
-        text: . Phm v. 1, 9, 13.
-      marker-yv: yv-n
+        text: Hé 2:14
+      metadata:
+        usfm: HEB.2.14
     - type: text
-      text: 'son prisonnier. Mais souffre avec moi pour l’Évangile, par la puissance de Dieu '
-  '9':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'qui a détruit la mort et a mis en évidence la vie et l’immortalité par l’Évangile. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '9'
+        text: Ac 9:15
+      metadata:
+        usfm: ACT.9.15
     - type: text
-      text: 'qui nous a '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ép 1:3
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Tit 3:4
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '5'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '6'
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: 13:2
+      metadata:
+        usfm: ACT.13.2
     - type: text
-      text: 'sauvés, et nous a adressé une sainte vocation, non à cause de nos œuvres, mais selon son propre dessein, et selon la grâce qui nous a été donnée en Jésus-Christ avant les temps éternels, '
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 22:21
+      metadata:
+        usfm: ACT.22.21
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ga 1:15
+      metadata:
+        usfm: GAL.1.15
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:8
+      metadata:
+        usfm: GAL.2.8
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ép 3:8
+      metadata:
+        usfm: EPH.3.8
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Ti 2:7
+      metadata:
+        usfm: 1TI.2.7
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'C’est pour cet Évangile que j’ai été établi prédicateur et apôtre, chargé d’instruire les païens. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'Et c’est à cause de cela que je souffre ces choses; mais j’en ai point honte, car je sais en qui j’ai cru, et je suis persuadé qu’il a la puissance de garder mon dépôt jusqu’à ce jour-là. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Ti 3:14
+      metadata:
+        usfm: 2TI.3.14
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Retiens dans la foi et dans la charité qui est en Jésus-Christ le modèle des saines paroles que tu as reçues de moi. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: Garde le bon dépôt, par le Saint-Esprit qui habite en nous.
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 15-18: cf. Mt 25:34-40.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: 'Tu sais '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ac 19:10
+      metadata:
+        usfm: ACT.19.10
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'que tous ceux qui sont en Asie m’ont abandonné, entre autres Phygelle et Hermogène. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'Que le Seigneur répande sa miséricorde sur la maison '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Ti 4:19
+      metadata:
+        usfm: 2TI.4.19
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'd’Onésiphore, car il m’a souvent consolé, et il n’a pas eu honte de mes chaînes; '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'au contraire, lorsqu’il est venu à Rome, il m’a cherché avec beaucoup d’empressement, et il m’a trouvé. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: Que le Seigneur lui donne d’obtenir miséricorde auprès du Seigneur en ce jour-là. Tu sais mieux que personne combien de services il m’a rendus à Éphèse.

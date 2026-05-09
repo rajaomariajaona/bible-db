@@ -1,898 +1,851 @@
-document_id: ROM.3,21
+document_id: ROM.3
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Tous les hommes sont coupables devant Dieu
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Tous les hommes sont coupables devant Dieu
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: Dans ces conditions, quel est l’avantage du Juif
   - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: Dans ces conditions, quel est l’avantage du Juif
+        text: '3.1 '
     - type: usfm
-      marker: f
+      marker: ft
       children:
+      - type: text
+        text: 'Dans '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '3.1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Dans '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: 3.1-9
-        - type: text
-          text: ', l’apôtre pose cinq questions que ses contradicteurs juifs devaient souvent lui poser.'
-      marker-yv: yv-n
-    - type: text
-      text: '  ? Quelle est l’utilité de la circoncision ? '
-  '10':
+          text: 3.1-9
+        metadata:
+          usfm: ROM.3.1+ROM.3.2+ROM.3.3+ROM.3.4+ROM.3.5+ROM.3.6+ROM.3.7+ROM.3.8+ROM.3.9
+      - type: text
+        text: ', l’apôtre pose cinq questions que ses contradicteurs juifs devaient souvent lui poser.'
+    marker-yv: yv-n
+  - type: text
+    text: '  ? Quelle est l’utilité de la circoncision ? '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '10'
-    - type: text
-      text: 'L’Ecriture le dit :'
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: Il n’y a pas de juste,
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: pas même un seul
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '3.10 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Cf. '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ec 7.20
-        - type: text
-          text: .
-      marker-yv: yv-n
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: ','
-  '11':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '11'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: pas d’homme capable de comprendre,
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: pas un qui se tourne vers Dieu.
-  '12':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '12'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: Ils se sont tous égarés,
-    - type: text
-      text: ' ╵'
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: ils se sont corrompus tous ensemble.
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: Il n’y en a aucun qui fasse le bien,
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: même pas un seul
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '3.12 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ps 14.1-3
-        - type: text
-          text: ' .'
-      marker-yv: yv-n
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: .
-  '13':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '13'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: Leur gosier ressemble à une tombe ouverte,
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: leur langue sert à tromper
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '3.13 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ps 5.10
-        - type: text
-          text: ' cité selon l’ancienne version grecque.'
-      marker-yv: yv-n
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: ','
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: ils ont sur les lèvres un venin de vipère
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '3.13 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ps 140.4
-        - type: text
-          text: ' cité selon l’ancienne version grecque.'
-      marker-yv: yv-n
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: ','
-  '14':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '14'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: leur bouche est pleine d’aigres malédictions
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '3.14 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ps 10.7
-        - type: text
-          text: ' cité selon l’ancienne version grecque.'
-      marker-yv: yv-n
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: .
-  '15':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '15'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: Leurs pieds sont agiles quand il s’agit de verser le sang.
-  '16':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: La destruction et le malheur jalonnent leur parcours.
-  '17':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: Ils ne connaissent pas le chemin de la paix
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '3.17 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Es 59.7-8
-        - type: text
-          text: ' .'
-      marker-yv: yv-n
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: .
-  '18':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: Ils n’ont même pas peur de Dieu
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '3.18 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ps 36.2
-        - type: text
-          text: ' .'
-      marker-yv: yv-n
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: .
-  '19':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: text
-      text: Or, nous le savons, ce que l’Ecriture dit dans la Loi, elle l’adresse à ceux qui vivent sous le régime de la Loi. Il en est ainsi pour que personne n’ait rien à répliquer et que le monde entier soit reconnu coupable devant Dieu.
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'L’avantage est grand à divers titres. Tout d’abord, c’est aux Juifs qu’ont été confiées les paroles de Dieu. '
-  '20':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '20'
-    - type: text
-      text: Car personne ne sera déclaré juste devant lui parce qu’il aura accompli les œuvres demandées par la Loi. En effet, la Loi produit seulement la connaissance du péché.
-  - type: usfm
-    marker: ms1
+    marker: vlbl
     children:
     - type: text
-      text: Déclarés justes par la foi
-    marker-yv: yv-h
+      text: '2'
+  - type: text
+    text: 'L’avantage est grand à divers titres. Tout d’abord, c’est aux Juifs qu’ont été confiées les paroles de Dieu. '
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Justes par la foi, sans la Loi
-    marker-yv: yv-h
-  '21':
+      text: '3'
+  - type: text
+    text: Que faut-il dire alors si certains leur ont été infidèles ? Leur infidélité
   - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '21'
-    - type: text
-      text: Mais maintenant Dieu a manifesté, sans faire intervenir la Loi, la justice qu’il nous accorde et à laquelle les livres de la Loi et des prophètes rendent témoignage.
-  '22':
-  - type: usfm
-    marker: p
-    children:
+        text: '3.3 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '22'
-    - type: text
-      text: 'Dieu déclare les hommes justes par leur foi en Jésus-Christ, et cela s’applique à tous ceux qui croient, car il n’y a pas de différence entre les hommes. '
-  '23':
-  - type: usfm
-    marker: p
-    children:
+        text: 'Autre traduction : '
     - type: usfm
-      marker: vlbl
+      marker: fqa
       children:
       - type: text
-        text: '23'
-    - type: text
-      text: 'Tous ont péché, en effet, et sont privés de la gloire de Dieu, '
-  '24':
+        text: Que faut-il dire alors de l’incrédulité de certains ? Leur incrédulité…
+    marker-yv: yv-n
+  - type: text
+    text: ' anéantira-t-elle la fidélité de Dieu ? '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'Loin de là ! Que Dieu soit reconnu comme disant la vérité et tout homme qui s’oppose à lui comme menteur, car il est écrit :'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: Tu seras toujours reconnu juste dans tes sentences ;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: et tu seras vainqueur lorsque tu rends ton jugement
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '24'
-    - type: text
-      text: et ils sont déclarés justes
+        text: '3.4 '
     - type: usfm
-      marker: f
+      marker: ft
       children:
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '3.24 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Paul emprunte au vocabulaire juridique ce terme de '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'justifier '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'qui signifiait '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'déclarer juste '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: celui dont l’innocence avait été reconnue ou dont la culpabilité n’avait pu être prouvée. Dans le cas du pécheur devant Dieu, il s’agit d’un acte immérité du Dieu souverain qui « couvre » les péchés (
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: '4.7'
-        - type: text
-          text: ) et recouvre le pécheur de la justice parfaite de Jésus-Christ.
-      marker-yv: yv-n
-    - type: text
-      text: ' par sa grâce ; c’est un don que Dieu leur fait par le moyen de la délivrance'
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '3.24 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: L’apôtre emploie un mot qui désigne souvent le rachat (d’un esclave ou d’un prisonnier) au moyen d’une rançon.
-      marker-yv: yv-n
-    - type: text
-      text: ' apportée par Jésus-Christ'
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '3.24 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Autre traduction : '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: dont on bénéficie dans le cadre de l’union à Jésus-Christ.
-      marker-yv: yv-n
+          text: Ps 51.6
+        metadata:
+          usfm: PSA.51.6
+      - type: text
+        text: ' cité selon l’ancienne version grecque.'
+    marker-yv: yv-n
+  - type: usfm
+    marker: qt
+    children:
     - type: text
       text: .
-  '25':
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'Mais si notre injustice contribue à manifester que Dieu est juste, que pouvons-nous en conclure ? Dieu n’est-il pas injuste quand il nous fait subir sa colère ? – Bien entendu, je raisonne ici d’une manière très humaine. – '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'Dieu injuste ? Loin de là ! Autrement, comment Dieu pourrait-il juger le monde ? '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'Ou, dira-t-on encore, si mon mensonge fait d’autant mieux éclater que Dieu est véridique et contribue ainsi à sa gloire, pourquoi serais-je encore condamné comme pécheur ? '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'Et pourquoi ne pas aller jusqu’à dire : Faisons le mal pour qu’en sorte le bien ? Certains, du reste, nous calomnient en prétendant que c’est là ce que nous enseignons. Ces gens-là méritent bien d’être condamnés.'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'Que faut-il donc conclure ? Nous les Juifs, sommes-nous en meilleure position que les autres hommes ? Pas à tous égards. Nous avons, en effet, déjà démontré que tous les hommes, Juifs et non-Juifs, sont également coupables. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'L’Ecriture le dit :'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: Il n’y a pas de juste,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: pas même un seul
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '25'
-    - type: text
-      text: C’est lui que Dieu a offert comme une victime destinée à expier les péchés
+        text: '3.10 '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '3.25 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Selon certains, ce terme fait allusion à la cérémonie du jour des Expiations où le grand-prêtre aspergeait de sang le couvercle du coffre sacré afin de faire l’expiation des péchés du peuple. '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: Expier les péchés
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: ': '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'autre traduction : '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'apaiser la colère de Dieu contre le mal '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: (voir 1 Jn 2.2 ; 4.10).
-      marker-yv: yv-n
-    - type: text
-      text: ', pour ceux qui croient en son sacrifice'
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '3.25 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Autre traduction : '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'C’est lui que Dieu, dans son plan, a destiné, par sa mort, à expier les péchés pour ceux qui croient. '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Le texte grec emploie le mot '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'sang : '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: le sang est le symbole de la vie offerte et de la mort subie.
-      marker-yv: yv-n
-    - type: text
-      text: '. Dieu montre ainsi qu’il est juste parce qu’il avait laissé impunis les péchés commis autrefois, '
-  '26':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '26'
-    - type: text
-      text: 'au temps de sa patience. Il montre aussi qu’il est juste dans le temps présent : il est juste tout en déclarant juste celui qui croit en Jésus.'
-  '27':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '27'
-    - type: text
-      text: Reste-t-il encore une raison de se vanter ? Non, cela est exclu. En vertu de quel principe ? Celui de l’obéissance à la Loi ? Non, mais selon le principe de la foi.
-  '28':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '28'
-    - type: text
-      text: 'Voici donc ce que nous affirmons : l’homme est déclaré juste par la foi sans qu’il ait à accomplir les œuvres qu’exige la Loi. '
-  '29':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '29'
-    - type: text
-      text: 'Ou alors : Dieu serait-il seulement le Dieu des Juifs ? N’est-il pas aussi le Dieu des non-Juifs ? Bien sûr, il est aussi le Dieu des non-Juifs. '
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: Que faut-il dire alors si certains leur ont été infidèles ? Leur infidélité
-    - type: usfm
-      marker: f
-      children:
+        text: 'Cf. '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '3.3 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Autre traduction : '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: Que faut-il dire alors de l’incrédulité de certains ? Leur incrédulité…
-      marker-yv: yv-n
-    - type: text
-      text: ' anéantira-t-elle la fidélité de Dieu ? '
-  '30':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '30'
-    - type: text
-      text: Car il n’y a qu’un seul Dieu qui justifie les Juifs en raison de leur foi et qui justifie aussi les non-Juifs au moyen de leur foi.
-  - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: L’exemple d’Abraham et de David
-    marker-yv: yv-h
-  '31':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '31'
-    - type: text
-      text: Mais alors, est-ce que nous annulons la Loi au moyen de la foi ? Loin de là ! Nous confirmons la Loi.
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'Loin de là ! Que Dieu soit reconnu comme disant la vérité et tout homme qui s’oppose à lui comme menteur, car il est écrit :'
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: Tu seras toujours reconnu juste dans tes sentences ;
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: qt
-      children:
-      - type: text
-        text: et tu seras vainqueur lorsque tu rends ton jugement
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '3.4 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ps 51.6
-        - type: text
-          text: ' cité selon l’ancienne version grecque.'
-      marker-yv: yv-n
-    - type: usfm
-      marker: qt
-      children:
+          text: Ec 7.20
+        metadata:
+          usfm: ECC.7.20
       - type: text
         text: .
-  '5':
+    marker-yv: yv-n
   - type: usfm
-    marker: p
+    marker: qt
+    children:
+    - type: text
+      text: ','
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: pas d’homme capable de comprendre,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: pas un qui se tourne vers Dieu.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: Ils se sont tous égarés,
+  - type: text
+    text: ' ╵'
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: ils se sont corrompus tous ensemble.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: Il n’y en a aucun qui fasse le bien,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: même pas un seul
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: 'Mais si notre injustice contribue à manifester que Dieu est juste, que pouvons-nous en conclure ? Dieu n’est-il pas injuste quand il nous fait subir sa colère ? – Bien entendu, je raisonne ici d’une manière très humaine. – '
-  '6':
+        text: '3.12 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 14.1-3
+        metadata:
+          usfm: PSA.14.1+PSA.14.2+PSA.14.3
+      - type: text
+        text: ' .'
+    marker-yv: yv-n
   - type: usfm
-    marker: p
+    marker: qt
+    children:
+    - type: text
+      text: .
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: Leur gosier ressemble à une tombe ouverte,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: leur langue sert à tromper
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '6'
-    - type: text
-      text: 'Dieu injuste ? Loin de là ! Autrement, comment Dieu pourrait-il juger le monde ? '
-  '7':
+        text: '3.13 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 5.10
+        metadata:
+          usfm: PSA.5.10
+      - type: text
+        text: ' cité selon l’ancienne version grecque.'
+    marker-yv: yv-n
   - type: usfm
-    marker: p
+    marker: qt
+    children:
+    - type: text
+      text: ','
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: ils ont sur les lèvres un venin de vipère
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '7'
-    - type: text
-      text: 'Ou, dira-t-on encore, si mon mensonge fait d’autant mieux éclater que Dieu est véridique et contribue ainsi à sa gloire, pourquoi serais-je encore condamné comme pécheur ? '
-  '8':
+        text: '3.13 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 140.4
+        metadata:
+          usfm: PSA.140.4
+      - type: text
+        text: ' cité selon l’ancienne version grecque.'
+    marker-yv: yv-n
   - type: usfm
-    marker: p
+    marker: qt
+    children:
+    - type: text
+      text: ','
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: leur bouche est pleine d’aigres malédictions
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '8'
-    - type: text
-      text: 'Et pourquoi ne pas aller jusqu’à dire : Faisons le mal pour qu’en sorte le bien ? Certains, du reste, nous calomnient en prétendant que c’est là ce que nous enseignons. Ces gens-là méritent bien d’être condamnés.'
-  '9':
+        text: '3.14 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 10.7
+        metadata:
+          usfm: PSA.10.7
+      - type: text
+        text: ' cité selon l’ancienne version grecque.'
+    marker-yv: yv-n
   - type: usfm
-    marker: p
+    marker: qt
+    children:
+    - type: text
+      text: .
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: Leurs pieds sont agiles quand il s’agit de verser le sang.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: La destruction et le malheur jalonnent leur parcours.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: Ils ne connaissent pas le chemin de la paix
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '9'
+        text: '3.17 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Es 59.7-8
+        metadata:
+          usfm: ISA.59.7+ISA.59.8
+      - type: text
+        text: ' .'
+    marker-yv: yv-n
+  - type: usfm
+    marker: qt
+    children:
     - type: text
-      text: 'Que faut-il donc conclure ? Nous les Juifs, sommes-nous en meilleure position que les autres hommes ? Pas à tous égards. Nous avons, en effet, déjà démontré que tous les hommes, Juifs et non-Juifs, sont également coupables. '
+      text: .
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: Ils n’ont même pas peur de Dieu
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '3.18 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 36.2
+        metadata:
+          usfm: PSA.36.2
+      - type: text
+        text: ' .'
+    marker-yv: yv-n
+  - type: usfm
+    marker: qt
+    children:
+    - type: text
+      text: .
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: Or, nous le savons, ce que l’Ecriture dit dans la Loi, elle l’adresse à ceux qui vivent sous le régime de la Loi. Il en est ainsi pour que personne n’ait rien à répliquer et que le monde entier soit reconnu coupable devant Dieu.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: text
+    text: Car personne ne sera déclaré juste devant lui parce qu’il aura accompli les œuvres demandées par la Loi. En effet, la Loi produit seulement la connaissance du péché.
+- type: usfm
+  marker: ms1
+  children:
+  - type: text
+    text: Déclarés justes par la foi
+  marker-yv: yv-h
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Justes par la foi, sans la Loi
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: text
+    text: Mais maintenant Dieu a manifesté, sans faire intervenir la Loi, la justice qu’il nous accorde et à laquelle les livres de la Loi et des prophètes rendent témoignage.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: 'Dieu déclare les hommes justes par leur foi en Jésus-Christ, et cela s’applique à tous ceux qui croient, car il n’y a pas de différence entre les hommes. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: text
+    text: 'Tous ont péché, en effet, et sont privés de la gloire de Dieu, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '24'
+  - type: text
+    text: et ils sont déclarés justes
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '3.24 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Paul emprunte au vocabulaire juridique ce terme de '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: 'justifier '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'qui signifiait '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: 'déclarer juste '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: celui dont l’innocence avait été reconnue ou dont la culpabilité n’avait pu être prouvée. Dans le cas du pécheur devant Dieu, il s’agit d’un acte immérité du Dieu souverain qui « couvre » les péchés (
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '4.7'
+        metadata:
+          usfm: ROM.4.7
+      - type: text
+        text: ) et recouvre le pécheur de la justice parfaite de Jésus-Christ.
+    marker-yv: yv-n
+  - type: text
+    text: ' par sa grâce ; c’est un don que Dieu leur fait par le moyen de la délivrance'
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '3.24 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: L’apôtre emploie un mot qui désigne souvent le rachat (d’un esclave ou d’un prisonnier) au moyen d’une rançon.
+    marker-yv: yv-n
+  - type: text
+    text: ' apportée par Jésus-Christ'
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '3.24 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Autre traduction : '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: dont on bénéficie dans le cadre de l’union à Jésus-Christ.
+    marker-yv: yv-n
+  - type: text
+    text: .
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '25'
+  - type: text
+    text: C’est lui que Dieu a offert comme une victime destinée à expier les péchés
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '3.25 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Selon certains, ce terme fait allusion à la cérémonie du jour des Expiations où le grand-prêtre aspergeait de sang le couvercle du coffre sacré afin de faire l’expiation des péchés du peuple. '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: Expier les péchés
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: ': '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'autre traduction : '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: 'apaiser la colère de Dieu contre le mal '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: (voir 1 Jn 2.2 ; 4.10).
+    marker-yv: yv-n
+  - type: text
+    text: ', pour ceux qui croient en son sacrifice'
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '3.25 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Autre traduction : '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: 'C’est lui que Dieu, dans son plan, a destiné, par sa mort, à expier les péchés pour ceux qui croient. '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Le texte grec emploie le mot '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: 'sang : '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: le sang est le symbole de la vie offerte et de la mort subie.
+    marker-yv: yv-n
+  - type: text
+    text: '. Dieu montre ainsi qu’il est juste parce qu’il avait laissé impunis les péchés commis autrefois, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '26'
+  - type: text
+    text: 'au temps de sa patience. Il montre aussi qu’il est juste dans le temps présent : il est juste tout en déclarant juste celui qui croit en Jésus.'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '27'
+  - type: text
+    text: Reste-t-il encore une raison de se vanter ? Non, cela est exclu. En vertu de quel principe ? Celui de l’obéissance à la Loi ? Non, mais selon le principe de la foi.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '28'
+  - type: text
+    text: 'Voici donc ce que nous affirmons : l’homme est déclaré juste par la foi sans qu’il ait à accomplir les œuvres qu’exige la Loi. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '29'
+  - type: text
+    text: 'Ou alors : Dieu serait-il seulement le Dieu des Juifs ? N’est-il pas aussi le Dieu des non-Juifs ? Bien sûr, il est aussi le Dieu des non-Juifs. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '30'
+  - type: text
+    text: Car il n’y a qu’un seul Dieu qui justifie les Juifs en raison de leur foi et qui justifie aussi les non-Juifs au moyen de leur foi.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: L’exemple d’Abraham et de David
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '31'
+  - type: text
+    text: Mais alors, est-ce que nous annulons la Loi au moyen de la foi ? Loin de là ! Nous confirmons la Loi.

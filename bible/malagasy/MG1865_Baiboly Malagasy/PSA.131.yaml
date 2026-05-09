@@ -1,50 +1,41 @@
-document_id: PSA.131,96
+document_id: PSA.131
 type_code: plt
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Fiononam-po sy fiankinana amin'Andriamanitra
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Fiononam-po sy fiankinana amin'Andriamanitra
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: Fihirana fiakarana
   - type: usfm
-    marker: p
+    marker: x
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
     - type: text
-      text: Fihirana fiakarana
-    - type: usfm
-      marker: x
-      children:
-      - type: text
-        text: 'Na: Fihirana misy hevitra ambaratonga'
-      marker-yv: yv-n
-    - type: text
-      text: '. Nataon''i Davida. Jehovah ô, tsy nirehareha ny foko, ary tsy niandranandrana ny masoko: Ary tsy nisaintsaina izay zavatra ambony loatra aho, Na izay saro-pantarina tsy takatro. '
-  '2':
+      text: 'Na: Fihirana misy hevitra ambaratonga'
+    marker-yv: yv-n
+  - type: text
+    text: '. Nataon''i Davida. Jehovah ô, tsy nirehareha ny foko, ary tsy niandranandrana ny masoko: Ary tsy nisaintsaina izay zavatra ambony loatra aho, Na izay saro-pantarina tsy takatro. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
     - type: text
-      text: 'Fa nampionona sy nampangina ny fanahiko aho; Tahaka ny zaza efa maoty eo amin-dreniny. Dia tahaka Izany ny fanahiko ato anatiko. '
-  '3':
+      text: '2'
+  - type: text
+    text: 'Fa nampionona sy nampangina ny fanahiko aho; Tahaka ny zaza efa maoty eo amin-dreniny. Dia tahaka Izany ny fanahiko ato anatiko. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
     - type: text
-      text: Ry Isiraely ô, manantenà an'i Jehovah Hatramin'izao ka ho mandrakizay.
+      text: '3'
+  - type: text
+    text: Ry Isiraely ô, manantenà an'i Jehovah Hatramin'izao ka ho mandrakizay.

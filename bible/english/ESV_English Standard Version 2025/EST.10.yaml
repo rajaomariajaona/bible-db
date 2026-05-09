@@ -1,169 +1,182 @@
-document_id: EST.10,59
+document_id: EST.10
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: The Greatness of Mordecai
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: The Greatness of Mordecai
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'King Ahasuerus imposed tax on the land and on '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Isa. 11:11
+      metadata:
+        usfm: ISA.11.11
     - type: text
-      text: 'King Ahasuerus imposed tax on the land and on '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 11:11
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 24:15
-      marker-yv: yv-n
-    - type: text
-      text: 'the coastlands of the sea. '
-  '2':
+        text: 24:15
+      metadata:
+        usfm: ISA.24.15
+    marker-yv: yv-n
+  - type: text
+    text: 'the coastlands of the sea. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'And all the acts of his power and might, and the full account of the high honor of Mordecai, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: 'And all the acts of his power and might, and the full account of the high honor of Mordecai, '
+        text: 'ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 8:15
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 9:4
-      marker-yv: yv-n
+        text: 8:15
+      metadata:
+        usfm: EST.8.15
     - type: text
-      text: 'to which the king advanced him, are they not written in '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:23
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 6:1
-      marker-yv: yv-n
-    - type: text
-      text: 'the Book of the Chronicles of the kings of Media and Persia? '
-  '3':
+        text: 9:4
+      metadata:
+        usfm: EST.9.4
+    marker-yv: yv-n
+  - type: text
+    text: 'to which the king advanced him, are they not written in '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: 'For Mordecai the Jew was '
+        text: 'ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Chr. 28:7
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 41:40
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: 2:23
+      metadata:
+        usfm: EST.2.23
     - type: text
-      text: 'second in rank to King Ahasuerus, and he was great among the Jews and popular with the multitude of his brothers, for he '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Neh. 2:10
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 122:8
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '9'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: 6:1
+      metadata:
+        usfm: EST.6.1
+    marker-yv: yv-n
+  - type: text
+    text: 'the Book of the Chronicles of the kings of Media and Persia? '
+  - type: usfm
+    marker: vlbl
+    children:
     - type: text
-      text: sought the welfare of his people and spoke peace to all his people.
+      text: '3'
+  - type: text
+    text: 'For Mordecai the Jew was '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Chr. 28:7
+      metadata:
+        usfm: 2CH.28.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 41:40
+      metadata:
+        usfm: GEN.41.40
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'second in rank to King Ahasuerus, and he was great among the Jews and popular with the multitude of his brothers, for he '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Neh. 2:10
+      metadata:
+        usfm: NEH.2.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 122:8
+      metadata:
+        usfm: PSA.122.8
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '9'
+      metadata:
+        usfm: PSA.122.9
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: sought the welfare of his people and spoke peace to all his people.

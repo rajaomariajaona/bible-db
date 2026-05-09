@@ -1,714 +1,698 @@
-document_id: MAL.3,152
+document_id: MAL.3
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '1'
+  - type: text
+    text: '*Voici que j''enverrai mon messager'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: pour me préparer le chemin.
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: '*Voici que j''enverrai mon messager'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: pour me préparer le chemin.
+        text: '3.1 '
     - type: usfm
-      marker: f
+      marker: fq
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '3.1 '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'Voici… chemin: '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'cité en '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matthieu 11.10
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Marc 1.2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luc 7.27
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ' à propos de Jean-Baptiste.'
-      marker-yv: yv-n
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Et soudain, il entrera dans son temple, le Seigneur que vous cherchez;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: le messager de l'alliance que vous désirez, le voici qui arrive,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: dit l'Eternel, le maître de l'univers.
-  '10':
-  - type: usfm
-    marker: q1
-    children:
+        text: 'Voici… chemin: '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: Apportez toutes les dîmes à la maison du trésor
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: afin qu'il y ait de la nourriture dans ma maison.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Mettez-moi ainsi à l'épreuve,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: dit l'Eternel, le maître de l'univers,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et vous verrez si je n'ouvre pas pour vous les fenêtres du ciel,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: si je ne déverse pas sur vous la bénédiction en abondance.
-  '11':
-  - type: usfm
-    marker: q1
-    children:
+        text: 'cité en '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
+        text: Matthieu 11.10
+      metadata:
+        usfm: MAT.11.10
     - type: text
-      text: Pour vous je menacerai l'insecte vorace
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: afin qu'il ne détruise pas les produits du sol
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et que la vigne ne soit pas stérile dans vos campagnes,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: dit l'Eternel, le maître de l'univers.
-  '12':
-  - type: usfm
-    marker: q1
-    children:
+      text: '; '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '12'
+        text: Marc 1.2
+      metadata:
+        usfm: MRK.1.2
     - type: text
-      text: Toutes les nations vous déclareront heureux
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: car vous serez un pays de délices,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: dit l'Eternel, le maître de l'univers.
-  - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: La justice de Dieu et le jour du jugement
-    marker-yv: yv-h
-  '13':
-  - type: usfm
-    marker: q1
-    children:
+      text: '; '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '13'
-    - type: text
-      text: Vos paroles sont dures contre moi, dit l'Eternel,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'et vous dites: «Qu''avons-nous dit contre toi?»'
-  '14':
-  - type: usfm
-    marker: q1
-    children:
+        text: Luc 7.27
+      metadata:
+        usfm: LUK.7.27
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '14'
-    - type: text
-      text: 'Vous avez dit: «C''est inutile de servir Dieu.'
+        text: ' à propos de Jean-Baptiste.'
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et soudain, il entrera dans son temple, le Seigneur que vous cherchez;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: le messager de l'alliance que vous désirez, le voici qui arrive,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: dit l'Eternel, le maître de l'univers.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Qu'avons-nous gagné à respecter ses ordres
+      text: '2'
+  - type: text
+    text: Qui pourra supporter le jour de sa venue?
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Qui restera debout quand il apparaîtra?
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: En effet, il sera pareil à un feu purificateur,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: à la lessive des blanchisseurs.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: et à marcher dans le deuil
+      text: '3'
+  - type: text
+    text: Il s'assiéra pour fondre et purifier l'argent,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: il purifiera les descendants de Lévi,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: il les rendra purs comme on rend purs l'or et l'argent,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et c'est suivant la justice qu'ils présenteront des offrandes à l'Eternel.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: à cause de l'Eternel, le maître de l'univers?
-  '15':
+      text: '4'
+  - type: text
+    text: Alors l'offrande de Juda et de Jérusalem sera agréable à l'Eternel
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: comme autrefois, comme par le passé.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '15'
-    - type: text
-      text: Maintenant nous déclarons heureux les hommes arrogants.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Oui, ceux qui font le mal prospèrent;
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: ils mettent Dieu à l'épreuve, et ils en réchappent!»
-  '16':
+      text: '5'
+  - type: text
+    text: Je m'approcherai de vous pour le jugement,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et je m'empresserai de témoigner contre les magiciens et les adultères,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: contre ceux qui prêtent de faux serments,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: contre ceux qui exploitent le salarié,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: qui oppriment la veuve et l'orphelin,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: qui font tort à l'étranger et ne me craignent pas,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: dit l'Eternel, le maître de l'univers.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Les dîmes et les offrandes
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: text
-      text: Alors ceux qui craignent l'Eternel se parlèrent l'un à l'autre;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: l'Eternel fut attentif, et il écouta.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Un livre de souvenir fut écrit devant lui
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: pour ceux qui craignent l'Eternel
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et qui respectent son nom.
-  '17':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: text
-      text: Ils seront à moi, dit l'Eternel, le maître de l'univers,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: ils m'appartiendront, le jour que je prépare;
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: j'aurai compassion d'eux
+      text: '6'
+  - type: text
+    text: Je suis l'Eternel, je ne change pas,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et vous, descendants de Jacob, vous n'avez pas été détruits.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: comme un homme a compassion de son fils qui le sert,
-  '18':
+      text: '7'
+  - type: text
+    text: Dès l'époque de vos ancêtres, vous vous êtes écartés de mes prescriptions,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: vous ne les avez pas respectées.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Revenez à moi, et je reviendrai à vous, dit l'Eternel, le maître de l'univers.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Et vous dites: «En quoi devons-nous revenir?»'
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
-    - type: text
-      text: et vous verrez de nouveau la différence
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: entre le juste et le méchant,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: entre celui qui sert Dieu
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et celui qui ne le sert pas.
-  '19':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: text
-      text: En effet, voici venir ce jour,
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: brûlant comme un four.
+      text: '8'
+  - type: text
+    text: Un homme peut-il tromper Dieu?
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: En effet, vous me trompez
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'et vous dites: «En quoi t''avons-nous trompé?» Dans les dîmes et les offrandes.'
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: 'Tous les hommes arrogants et tous ceux qui font le mal seront comme la paille:'
+      text: '9'
+  - type: text
+    text: Vous êtes frappés par la malédiction et vous me trompez, la nation tout entière!
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: le jour qui vient les embrasera,
+      text: '10'
+  - type: text
+    text: Apportez toutes les dîmes à la maison du trésor
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: afin qu'il y ait de la nourriture dans ma maison.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Mettez-moi ainsi à l'épreuve,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: dit l'Eternel, le maître de l'univers,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et vous verrez si je n'ouvre pas pour vous les fenêtres du ciel,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: si je ne déverse pas sur vous la bénédiction en abondance.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: dit l'Eternel, le maître de l'univers,
+      text: '11'
+  - type: text
+    text: Pour vous je menacerai l'insecte vorace
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: afin qu'il ne détruise pas les produits du sol
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et que la vigne ne soit pas stérile dans vos campagnes,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: dit l'Eternel, le maître de l'univers.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: il ne leur laissera ni racine ni rameau.
-  '2':
+      text: '12'
+  - type: text
+    text: Toutes les nations vous déclareront heureux
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: car vous serez un pays de délices,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: dit l'Eternel, le maître de l'univers.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: La justice de Dieu et le jour du jugement
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: Qui pourra supporter le jour de sa venue?
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Qui restera debout quand il apparaîtra?
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: En effet, il sera pareil à un feu purificateur,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: à la lessive des blanchisseurs.
-  '20':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '20'
-    - type: text
-      text: Mais pour vous qui craignez mon nom
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: le soleil de justice se lèvera,
+      text: '13'
+  - type: text
+    text: Vos paroles sont dures contre moi, dit l'Eternel,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'et vous dites: «Qu''avons-nous dit contre toi?»'
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: et la guérison sera dans ses rayons.
+      text: '14'
+  - type: text
+    text: 'Vous avez dit: «C''est inutile de servir Dieu.'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Qu'avons-nous gagné à respecter ses ordres
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et à marcher dans le deuil
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: à cause de l'Eternel, le maître de l'univers?
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Vous sortirez en bondissant comme les veaux d'une étable,
-  '21':
+      text: '15'
+  - type: text
+    text: Maintenant nous déclarons heureux les hommes arrogants.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Oui, ceux qui font le mal prospèrent;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: ils mettent Dieu à l'épreuve, et ils en réchappent!»
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '21'
-    - type: text
-      text: vous piétinerez les méchants,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: car ils seront comme de la poussière
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: sous la plante de vos pieds,
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: le jour que je prépare,
+      text: '16'
+  - type: text
+    text: Alors ceux qui craignent l'Eternel se parlèrent l'un à l'autre;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: l'Eternel fut attentif, et il écouta.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Un livre de souvenir fut écrit devant lui
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: pour ceux qui craignent l'Eternel
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et qui respectent son nom.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: dit l'Eternel, le maître de l'univers.
-  '22':
+      text: '17'
+  - type: text
+    text: Ils seront à moi, dit l'Eternel, le maître de l'univers,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: ils m'appartiendront, le jour que je prépare;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: j'aurai compassion d'eux
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: comme un homme a compassion de son fils qui le sert,
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '22'
-    - type: text
-      text: Souvenez-vous de la loi de mon serviteur Moïse!
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Je lui ai donné en Horeb
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '3.22 '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'Horeb: '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'autre nom du mont Sinaï. Voir '
-      - type: text
-        text: Exode 19–24
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: .
-      marker-yv: yv-n
-    - type: text
-      text: ', pour tout Israël,'
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: des prescriptions et des règles.
-  '23':
+      text: '18'
+  - type: text
+    text: et vous verrez de nouveau la différence
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: entre le juste et le méchant,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: entre celui qui sert Dieu
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et celui qui ne le sert pas.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '23'
-    - type: text
-      text: Je vous enverrai le prophète Elie
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: avant que n'arrive le jour de l'Eternel,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: ce jour grand et redoutable.
-  '24':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '24'
-    - type: text
-      text: '*Il ramènera le cœur des pères vers leurs enfants'
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '3.24 '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'Il ramènera… enfants: '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'cité en '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luc 1.17
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ' à propos de Jean-Baptiste.'
-      marker-yv: yv-n
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: et le cœur des enfants vers leurs pères,
+      text: '19'
+  - type: text
+    text: En effet, voici venir ce jour,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: brûlant comme un four.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Tous les hommes arrogants et tous ceux qui font le mal seront comme la paille:'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: le jour qui vient les embrasera,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: dit l'Eternel, le maître de l'univers,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: il ne leur laissera ni racine ni rameau.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: de peur que je ne vienne frapper le pays de destruction.
-  '3':
+      text: '20'
+  - type: text
+    text: Mais pour vous qui craignez mon nom
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: le soleil de justice se lèvera,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et la guérison sera dans ses rayons.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Vous sortirez en bondissant comme les veaux d'une étable,
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: Il s'assiéra pour fondre et purifier l'argent,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: il purifiera les descendants de Lévi,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: il les rendra purs comme on rend purs l'or et l'argent,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et c'est suivant la justice qu'ils présenteront des offrandes à l'Eternel.
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: Alors l'offrande de Juda et de Jérusalem sera agréable à l'Eternel
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: comme autrefois, comme par le passé.
-  '5':
+      text: '21'
+  - type: text
+    text: vous piétinerez les méchants,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: car ils seront comme de la poussière
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: sous la plante de vos pieds,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: le jour que je prépare,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: dit l'Eternel, le maître de l'univers.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: Souvenez-vous de la loi de mon serviteur Moïse!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Je lui ai donné en Horeb
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '5'
+        text: '3.22 '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: 'Horeb: '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'autre nom du mont Sinaï. Voir '
     - type: text
-      text: Je m'approcherai de vous pour le jugement,
+      text: Exode 19–24
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: .
+    marker-yv: yv-n
+  - type: text
+    text: ', pour tout Israël,'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: des prescriptions et des règles.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: et je m'empresserai de témoigner contre les magiciens et les adultères,
+      text: '23'
+  - type: text
+    text: Je vous enverrai le prophète Elie
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: avant que n'arrive le jour de l'Eternel,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: ce jour grand et redoutable.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: contre ceux qui prêtent de faux serments,
+      text: '24'
+  - type: text
+    text: '*Il ramènera le cœur des pères vers leurs enfants'
   - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: contre ceux qui exploitent le salarié,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: qui oppriment la veuve et l'orphelin,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: qui font tort à l'étranger et ne me craignent pas,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: dit l'Eternel, le maître de l'univers.
-  - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Les dîmes et les offrandes
-    marker-yv: yv-h
-  '6':
-  - type: usfm
-    marker: q1
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '6'
-    - type: text
-      text: Je suis l'Eternel, je ne change pas,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et vous, descendants de Jacob, vous n'avez pas été détruits.
-  '7':
-  - type: usfm
-    marker: q1
-    children:
+        text: '3.24 '
     - type: usfm
-      marker: vlbl
+      marker: fq
       children:
       - type: text
-        text: '7'
-    - type: text
-      text: Dès l'époque de vos ancêtres, vous vous êtes écartés de mes prescriptions,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: vous ne les avez pas respectées.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Revenez à moi, et je reviendrai à vous, dit l'Eternel, le maître de l'univers.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'Et vous dites: «En quoi devons-nous revenir?»'
-  '8':
-  - type: usfm
-    marker: q1
-    children:
+        text: 'Il ramènera… enfants: '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '8'
-    - type: text
-      text: Un homme peut-il tromper Dieu?
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: En effet, vous me trompez
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'et vous dites: «En quoi t''avons-nous trompé?» Dans les dîmes et les offrandes.'
-  '9':
-  - type: usfm
-    marker: q1
-    children:
+        text: 'cité en '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '9'
-    - type: text
-      text: Vous êtes frappés par la malédiction et vous me trompez, la nation tout entière!
+        text: Luc 1.17
+      metadata:
+        usfm: LUK.1.17
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: ' à propos de Jean-Baptiste.'
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et le cœur des enfants vers leurs pères,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: de peur que je ne vienne frapper le pays de destruction.

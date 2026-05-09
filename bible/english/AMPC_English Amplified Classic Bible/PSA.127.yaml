@@ -1,71 +1,66 @@
-document_id: PSA.127,8
+document_id: PSA.127
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: A Song of Ascents. Of Solomon.
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: A Song of Ascents. Of Solomon.
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: ' EXCEPT THE Lord builds the house, they labor in vain who build it; except the Lord keeps the city, the watchman wakes but in vain. [Ps. 121:1, 3, 5.]'
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
     - type: text
-      text: ' EXCEPT THE Lord builds the house, they labor in vain who build it; except the Lord keeps the city, the watchman wakes but in vain. [Ps. 121:1, 3, 5.]'
-  '2':
+      text: '2'
+  - type: text
+    text: ' It is vain for you to rise up early, to take rest late, to eat the bread of [anxious] toil–for He gives [blessings] to His beloved in sleep.'
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
     - type: text
-      text: ' It is vain for you to rise up early, to take rest late, to eat the bread of [anxious] toil–for He gives [blessings] to His beloved in sleep.'
-  '3':
+      text: '3'
+  - type: text
+    text: ' Behold, children are a heritage from the Lord, the fruit of the womb a reward. [Deut. 28:4.]'
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
     - type: text
-      text: ' Behold, children are a heritage from the Lord, the fruit of the womb a reward. [Deut. 28:4.]'
-  '4':
+      text: '4'
+  - type: text
+    text: ' As arrows are in the hand of a warrior, so are the children of one''s youth.'
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
     - type: text
-      text: ' As arrows are in the hand of a warrior, so are the children of one''s youth.'
-  '5':
+      text: '5'
+  - type: text
+    text: ' Happy, blessed, '
   - type: usfm
-    marker: p
+    marker: it
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
     - type: text
-      text: ' Happy, blessed, '
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: and
-    - type: text
-      text: ' fortunate is the man whose quiver is filled with them! They will not be put to shame when they speak with their adversaries [in gatherings] at the [city''s] gate.'
+      text: and
+  - type: text
+    text: ' fortunate is the man whose quiver is filled with them! They will not be put to shame when they speak with their adversaries [in gatherings] at the [city''s] gate.'

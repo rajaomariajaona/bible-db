@@ -1,366 +1,385 @@
-document_id: PSA.127,59
+document_id: PSA.127
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: 'Unless the '
   - type: usfm
-    marker: s1
+    marker: nd
     children:
     - type: text
-      text: 'Unless the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' Builds the House'
-    marker-yv: yv-h
+      text: Lord
+  - type: text
+    text: ' Builds the House'
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: 'A Song of '
   - type: usfm
-    marker: d
-    children:
-    - type: text
-      text: 'A Song of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 120
-      - type: text
-        text: ', title'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: Ascents. Of Solomon.
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: 'Unless the '
+        text: '[See '
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: Ps. 120
+      metadata:
+        usfm: PSA.120
     - type: text
-      text: ' builds the house,'
+      text: ', title'
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Ascents. Of Solomon.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: those who build it labor in vain.
+      text: '1'
+  - type: text
+    text: 'Unless the '
   - type: usfm
-    marker: q1
+    marker: nd
     children:
     - type: text
-      text: 'Unless the '
+      text: Lord
+  - type: text
+    text: ' builds the house,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: those who build it labor in vain.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Unless the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 121:4
+      metadata:
+        usfm: PSA.121.4
+    marker-yv: yv-n
+  - type: text
+    text: watches over the city,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: the watchman stays awake in vain.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: It is in vain that you rise up early
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and go late to rest,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'eating the bread of anxious '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 3:17
+      metadata:
+        usfm: GEN.3.17
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '19'
+      metadata:
+        usfm: GEN.3.19
+    marker-yv: yv-n
+  - type: text
+    text: toil;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'for he gives to his '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 60:5
+      metadata:
+        usfm: PSA.60.5
+    marker-yv: yv-n
+  - type: text
+    text: 'beloved '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mark 4:26
+      metadata:
+        usfm: MRK.4.26
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '27'
+      metadata:
+        usfm: MRK.4.27
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: sleep.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'Behold, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 33:5
+      metadata:
+        usfm: GEN.33.5
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'children are a heritage from the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ','
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 28:4
+      metadata:
+        usfm: DEU.28.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 121:4
-      marker-yv: yv-n
-    - type: text
-      text: watches over the city,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: the watchman stays awake in vain.
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '2'
+        text: Ps. 132:11
+      metadata:
+        usfm: PSA.132.11
     - type: text
-      text: It is in vain that you rise up early
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and go late to rest,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'eating the bread of anxious '
+      text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 3:17
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '19'
-      marker-yv: yv-n
-    - type: text
-      text: toil;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'for he gives to his '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 60:5
-      marker-yv: yv-n
-    - type: text
-      text: 'beloved '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 4:26
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '27'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: sleep.
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '3'
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the fruit of the womb a reward.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
     - type: text
-      text: 'Behold, '
+      text: '4'
+  - type: text
+    text: 'Like arrows in the hand of '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 33:5
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'children are a heritage from the '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ','
+        text: Ps. 120:4
+      metadata:
+        usfm: PSA.120.4
+    marker-yv: yv-n
+  - type: text
+    text: a warrior
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: are the children
   - type: usfm
-    marker: q2
+    marker: f
     children:
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 28:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 132:11
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the fruit of the womb a reward.
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '4'
-    - type: text
-      text: 'Like arrows in the hand of '
+        text: '127:4 '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 120:4
-      marker-yv: yv-n
-    - type: text
-      text: a warrior
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: are the children
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '127:4 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: sons
-      marker-yv: yv-n
-    - type: text
-      text: ' of one’s youth.'
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: Blessed is the man
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: who fills his quiver with them!
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: He shall not be put to shame
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'when he speaks with his enemies '
+        text: 'Or '
     - type: usfm
-      marker: x
+      marker: fqa
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 5:4
-      marker-yv: yv-n
+      - type: text
+        text: sons
+    marker-yv: yv-n
+  - type: text
+    text: ' of one’s youth.'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
     - type: text
-      text: in the gate.
+      text: '5'
+  - type: text
+    text: Blessed is the man
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: who fills his quiver with them!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: He shall not be put to shame
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'when he speaks with his enemies '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: f
+      marker: xta
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '127:5 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: They shall not be put to shame when they speak with their enemies in the gate
-      marker-yv: yv-n
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 5:4
+      metadata:
+        usfm: JOB.5.4
+    marker-yv: yv-n
+  - type: text
+    text: in the gate.
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '127:5 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: They shall not be put to shame when they speak with their enemies in the gate
+    marker-yv: yv-n

@@ -1,799 +1,800 @@
-document_id: ISA.36,59
+document_id: ISA.36
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Sennacherib Invades Judah
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Sennacherib Invades Judah
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: ' '
+        text: 'For ver. 1-22, see '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'For ver. 1-22, see '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Kgs. 18:13
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 17-37
-      marker-yv: yv-n
+        text: 2 Kgs. 18:13
+      metadata:
+        usfm: 2KI.18.13
     - type: text
-      text: 'In the fourteenth year of King Hezekiah, '
+      text: ', '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Chr. 32:1
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'Sennacherib king of Assyria came up against all the fortified cities of Judah and took them. '
-  '10':
+      - type: text
+        text: 17-37
+      metadata:
+        usfm: 2KI.18.17+2KI.18.18+2KI.18.19+2KI.18.20+2KI.18.21+2KI.18.22+2KI.18.23+2KI.18.24+2KI.18.25+2KI.18.26+2KI.18.27+2KI.18.28+2KI.18.29+2KI.18.30+2KI.18.31+2KI.18.32+2KI.18.33+2KI.18.34+2KI.18.35+2KI.18.36+2KI.18.37
+    marker-yv: yv-n
+  - type: text
+    text: 'In the fourteenth year of King Hezekiah, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: 'Moreover, is it without the '
+        text: '['
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' that I have come up against this land to destroy it? '
+        text: 2 Chr. 32:1
+      metadata:
+        usfm: 2CH.32.1
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 10:5
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '6'
-      marker-yv: yv-n
-    - type: text
-      text: 'The '
-    - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' said to me, “Go up against this land and destroy it.”’”'
-  '11':
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'Sennacherib king of Assyria came up against all the fortified cities of Judah and took them. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
-    - type: text
-      text: 'Then Eliakim, Shebna, and Joah said to the Rabshakeh, “Please speak to your servants '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezra 4:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Dan. 2:4
-      marker-yv: yv-n
-    - type: text
-      text: 'in Aramaic, for we understand it. Do not speak to us in the language of Judah within the hearing of the people who are on the wall.” '
-  '12':
+        text: 2 Chr. 32:9
+      metadata:
+        usfm: 2CH.32.9
+    marker-yv: yv-n
+  - type: text
+    text: And the king of Assyria sent the Rabshakeh
   - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '12'
-    - type: text
-      text: But the Rabshakeh said, “Has my master sent me to speak these words to your master and to you, and not to the men sitting on the wall, who are doomed with you to eat their own dung and drink their own urine?”
-  '13':
+        text: '36:2 '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: 'Rabshakeh '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: is the title of a high-ranking Assyrian military officer
+    marker-yv: yv-n
+  - type: text
+    text: ' from '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '13'
+        text: Josh. 15:20
+      metadata:
+        usfm: JOS.15.20
     - type: text
-      text: 'Then the Rabshakeh stood and called out in a loud voice in the language of Judah: “Hear the words of the great king, the king of Assyria! '
-  '14':
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '39'
+      metadata:
+        usfm: JOS.15.39
+    marker-yv: yv-n
+  - type: text
+    text: 'Lachish to King Hezekiah at Jerusalem, with a great army. And he stood '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '14'
-    - type: text
-      text: 'Thus says the king: '
+        text: 'ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 37:10
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Chr. 32:6-8
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: '‘Do not let Hezekiah deceive you, for he will not be able to deliver you. '
-  '15':
+        text: 7:3
+      metadata:
+        usfm: ISA.7.3
+    marker-yv: yv-n
+  - type: text
+    text: 'by the conduit of the upper pool on the highway to the Washer’s Field. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'And there came out to him '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '15'
-    - type: text
-      text: 'Do not let Hezekiah make you trust in the '
+        text: 'ch. '
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: 22:15
+      metadata:
+        usfm: ISA.22.15
     - type: text
-      text: ' by saying, “The '
+      text: ', '
     - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' will surely deliver us. This city will not be given into the hand of the king of Assyria.” '
-  '16':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: text
-      text: 'Do not listen to Hezekiah. For thus says the king of Assyria: Make your peace with me'
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '36:16 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Hebrew '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: Make a blessing with me
-      marker-yv: yv-n
-    - type: text
-      text: ' and come out to me. Then each one of you will eat of his own vine, and each one of his own fig tree, and each one of you will drink the water of his own cistern, '
-  '17':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: text
-      text: 'until '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Kgs. 18:11
-      marker-yv: yv-n
-    - type: text
-      text: 'I come and take you away to a land like your own land, a land of grain and wine, a land of bread and vineyards. '
-  '18':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
-    - type: text
-      text: 'Beware lest Hezekiah mislead you by saying, “The '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' will deliver us.” Has any of the gods of the nations delivered his land out of the hand of the king of Assyria? '
-  '19':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 37:13
-      marker-yv: yv-n
-    - type: text
-      text: 'Where are the gods of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 49:23
-      marker-yv: yv-n
-    - type: text
-      text: 'Hamath and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 49:23
-      marker-yv: yv-n
-    - type: text
-      text: 'Arpad? Where are the gods of Sepharvaim? '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Kgs. 17:6
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'Have they delivered Samaria out of my hand? '
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Chr. 32:9
-      marker-yv: yv-n
-    - type: text
-      text: And the king of Assyria sent the Rabshakeh
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '36:2 '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'Rabshakeh '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: is the title of a high-ranking Assyrian military officer
-      marker-yv: yv-n
-    - type: text
-      text: ' from '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 15:20
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '39'
-      marker-yv: yv-n
-    - type: text
-      text: 'Lachish to King Hezekiah at Jerusalem, with a great army. And he stood '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 7:3
-      marker-yv: yv-n
-    - type: text
-      text: 'by the conduit of the upper pool on the highway to the Washer’s Field. '
-  '20':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '20'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Chr. 32:19
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+      metadata:
+        usfm: ISA.22.20
     - type: text
-      text: 'Who among all the gods of these lands have delivered their lands out of my hand, that the '
+      text: ', '
     - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' should deliver Jerusalem out of my hand?’”'
-  '21':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '21'
-    - type: text
-      text: 'But they were silent and answered him not a word, for the king’s command was, “Do not answer him.” '
-  '22':
+      metadata:
+        usfm: ISA.22.21
+    marker-yv: yv-n
+  - type: text
+    text: 'Eliakim the son of Hilkiah, who was over the household, and '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '22'
+        text: 'ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '3'
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 33:7
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: 22:15
+      metadata:
+        usfm: ISA.22.15
     - type: text
-      text: Then Eliakim the son of Hilkiah, who was over the household, and Shebna the secretary, and Joah the son of Asaph, the recorder, came to Hezekiah with their clothes torn, and told him the words of the Rabshakeh.
-  '3':
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '20'
+      metadata:
+        usfm: ISA.22.20
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '21'
+      metadata:
+        usfm: ISA.22.21
+    marker-yv: yv-n
+  - type: text
+    text: Shebna the secretary, and Joah the son of Asaph, the recorder.
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'And the Rabshakeh said to them, “Say to Hezekiah, ‘Thus says the '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: 'And there came out to him '
+        text: '[ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 22:15
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '20'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '21'
-      marker-yv: yv-n
-    - type: text
-      text: 'Eliakim the son of Hilkiah, who was over the household, and '
+        text: 10:8
+      metadata:
+        usfm: ISA.10.8
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 22:15
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '20'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '21'
-      marker-yv: yv-n
-    - type: text
-      text: Shebna the secretary, and Joah the son of Asaph, the recorder.
-  '4':
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'great king, the king of Assyria: On what do you rest this trust of yours? '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'Do you think that mere words are strategy and power for war? In whom do you now trust, that you have rebelled against me? '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '4'
+        text: Ezek. 29:6
+      metadata:
+        usfm: EZK.29.6
     - type: text
-      text: 'And the Rabshakeh said to them, “Say to Hezekiah, ‘Thus says the '
+      text: ', '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 10:8
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'great king, the king of Assyria: On what do you rest this trust of yours? '
-  '5':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: 'Do you think that mere words are strategy and power for war? In whom do you now trust, that you have rebelled against me? '
-  '6':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezek. 29:6
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '7'
-      marker-yv: yv-n
-    - type: text
-      text: 'Behold, you are trusting in Egypt, that broken reed of a staff, which will pierce the hand of any man who leans on it. Such is Pharaoh king of Egypt to all who trust in him. '
-  '7':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '7'
-    - type: text
-      text: 'But if you say to me, “We trust in the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' our God,” is it not he '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Kgs. 18:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 12:2-5
-      marker-yv: yv-n
-    - type: text
-      text: 'whose high places and altars Hezekiah has removed, saying to Judah and to Jerusalem, “You shall worship before this altar”? '
-  '8':
+      metadata:
+        usfm: EZK.29.7
+    marker-yv: yv-n
+  - type: text
+    text: 'Behold, you are trusting in Egypt, that broken reed of a staff, which will pierce the hand of any man who leans on it. Such is Pharaoh king of Egypt to all who trust in him. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'But if you say to me, “We trust in the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' our God,” is it not he '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '8'
+        text: 2 Kgs. 18:4
+      metadata:
+        usfm: 2KI.18.4
     - type: text
-      text: 'Come now, make a wager with my master the king of Assyria: I will give you two thousand horses, if you are able on your part to set riders on them. '
-  '9':
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 12:2-5
+      metadata:
+        usfm: DEU.12.2+DEU.12.3+DEU.12.4+DEU.12.5
+    marker-yv: yv-n
+  - type: text
+    text: 'whose high places and altars Hezekiah has removed, saying to Judah and to Jerusalem, “You shall worship before this altar”? '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'Come now, make a wager with my master the king of Assyria: I will give you two thousand horses, if you are able on your part to set riders on them. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'How then can you repulse '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '9'
-    - type: text
-      text: 'How then can you repulse '
+        text: '[ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 10:8
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'a single captain among the least of my master’s servants, when '
+      - type: text
+        text: 10:8
+      metadata:
+        usfm: ISA.10.8
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 20:5
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 30:3
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'a single captain among the least of my master’s servants, when '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '7'
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 31:1
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: 20:5
+      metadata:
+        usfm: ISA.20.5
     - type: text
-      text: 'you trust in Egypt for chariots and for horsemen? '
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 30:3
+      metadata:
+        usfm: ISA.30.3
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '7'
+      metadata:
+        usfm: ISA.30.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 31:1
+      metadata:
+        usfm: ISA.31.1
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'you trust in Egypt for chariots and for horsemen? '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'Moreover, is it without the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' that I have come up against this land to destroy it? '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 10:5
+      metadata:
+        usfm: ISA.10.5
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '6'
+      metadata:
+        usfm: ISA.10.6
+    marker-yv: yv-n
+  - type: text
+    text: 'The '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' said to me, “Go up against this land and destroy it.”’”'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'Then Eliakim, Shebna, and Joah said to the Rabshakeh, “Please speak to your servants '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ezra 4:7
+      metadata:
+        usfm: EZR.4.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Dan. 2:4
+      metadata:
+        usfm: DAN.2.4
+    marker-yv: yv-n
+  - type: text
+    text: 'in Aramaic, for we understand it. Do not speak to us in the language of Judah within the hearing of the people who are on the wall.” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: But the Rabshakeh said, “Has my master sent me to speak these words to your master and to you, and not to the men sitting on the wall, who are doomed with you to eat their own dung and drink their own urine?”
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'Then the Rabshakeh stood and called out in a loud voice in the language of Judah: “Hear the words of the great king, the king of Assyria! '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: 'Thus says the king: '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 37:10
+      metadata:
+        usfm: ISA.37.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Chr. 32:6-8
+      metadata:
+        usfm: 2CH.32.6+2CH.32.7+2CH.32.8
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: '‘Do not let Hezekiah deceive you, for he will not be able to deliver you. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: 'Do not let Hezekiah make you trust in the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' by saying, “The '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' will surely deliver us. This city will not be given into the hand of the king of Assyria.” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'Do not listen to Hezekiah. For thus says the king of Assyria: Make your peace with me'
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '36:16 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Hebrew '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: Make a blessing with me
+    marker-yv: yv-n
+  - type: text
+    text: ' and come out to me. Then each one of you will eat of his own vine, and each one of his own fig tree, and each one of you will drink the water of his own cistern, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'until '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Kgs. 18:11
+      metadata:
+        usfm: 2KI.18.11
+    marker-yv: yv-n
+  - type: text
+    text: 'I come and take you away to a land like your own land, a land of grain and wine, a land of bread and vineyards. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: 'Beware lest Hezekiah mislead you by saying, “The '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' will deliver us.” Has any of the gods of the nations delivered his land out of the hand of the king of Assyria? '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 37:13
+      metadata:
+        usfm: ISA.37.13
+    marker-yv: yv-n
+  - type: text
+    text: 'Where are the gods of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 49:23
+      metadata:
+        usfm: JER.49.23
+    marker-yv: yv-n
+  - type: text
+    text: 'Hamath and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 49:23
+      metadata:
+        usfm: JER.49.23
+    marker-yv: yv-n
+  - type: text
+    text: 'Arpad? Where are the gods of Sepharvaim? '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Kgs. 17:6
+      metadata:
+        usfm: 2KI.17.6
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'Have they delivered Samaria out of my hand? '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Chr. 32:19
+      metadata:
+        usfm: 2CH.32.19
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'Who among all the gods of these lands have delivered their lands out of my hand, that the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' should deliver Jerusalem out of my hand?’”'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: text
+    text: 'But they were silent and answered him not a word, for the king’s command was, “Do not answer him.” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '3'
+      metadata:
+        usfm: ISA.36.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 33:7
+      metadata:
+        usfm: ISA.33.7
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Then Eliakim the son of Hilkiah, who was over the household, and Shebna the secretary, and Joah the son of Asaph, the recorder, came to Hezekiah with their clothes torn, and told him the words of the Rabshakeh.

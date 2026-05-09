@@ -1,389 +1,362 @@
-document_id: ZEC.1,21
+document_id: ZEC.1
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: ms1
+  children:
+  - type: text
+    text: Le livre des visions
+  marker-yv: yv-h
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: 'L’alliance reste établie : Revenez à moi'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: ms1
+    marker: vlbl
     children:
     - type: text
-      text: Le livre des visions
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: Au huitième mois de la deuxième année du règne de Darius
   - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: 'L’alliance reste établie : Revenez à moi'
-    marker-yv: yv-h
-  - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: Au huitième mois de la deuxième année du règne de Darius
+        text: '1.1 '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1.1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'En octobre-novembre 520 av. J.-C., deux mois après qu’Aggée a commencé à prophétiser (voir '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ag 1.1
-        - type: text
-          text: '). Sur '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'Darius, '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'voir '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ag 1.1
-        - type: text
-          text: ' et note.'
-      marker-yv: yv-n
-    - type: text
-      text: ', l’Eternel adressa la parole à Zacharie, le prophète'
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1.1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Sur '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'Zacharie, '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: voir Esd 5.1 ; 6.14 ; Né 12.4, 16.
-      marker-yv: yv-n
-    - type: text
-      text: ', fils de Barachie et petit-fils d’Iddo, en ces termes :'
-  '10':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: 'Et l’individu qui se tenait parmi les myrtes intervint en disant : Ce sont les coursiers que l’Eternel a envoyés pour parcourir la terre.'
-  '11':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '11'
-    - type: text
-      text: 'Alors les cavaliers s’adressèrent à l’ange de l’Eternel qui se tenait parmi les myrtes, et lui firent ce rapport : Nous venons de parcourir la terre et nous avons constaté qu’elle est toute tranquille et calme.'
-  '12':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '12'
-    - type: text
-      text: 'Là-dessus, l’ange de l’Eternel s’exclama : Seigneur des armées célestes, voilà soixante-dix ans'
-    - type: usfm
-      marker: f
-      children:
+        text: 'En octobre-novembre 520 av. J.-C., deux mois après qu’Aggée a commencé à prophétiser (voir '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '1.12 '
+          text: Ag 1.1
+        metadata:
+          usfm: HAG.1.1
+      - type: text
+        text: '). Sur '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: 'Darius, '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'voir '
       - type: usfm
-        marker: ft
+        marker: ref
         children:
         - type: text
-          text: Voir Jr 25.11 ; 29.10.
-      marker-yv: yv-n
-    - type: text
-      text: ' que tu es irrité contre Jérusalem et contre les villes de Juda. Jusques à quand tarderas-tu à les prendre en pitié'
+          text: Ag 1.1
+        metadata:
+          usfm: HAG.1.1
+      - type: text
+        text: ' et note.'
+    marker-yv: yv-n
+  - type: text
+    text: ', l’Eternel adressa la parole à Zacharie, le prophète'
+  - type: usfm
+    marker: f
+    children:
     - type: usfm
-      marker: f
+      marker: fr
       children:
+      - type: text
+        text: '1.1 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Sur '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: 'Zacharie, '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: voir Esd 5.1 ; 6.14 ; Né 12.4, 16.
+    marker-yv: yv-n
+  - type: text
+    text: ', fils de Barachie et petit-fils d’Iddo, en ces termes :'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'L’Eternel s’est violemment irrité contre vos pères. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'Dis à ce peuple : Voici ce que déclare le Seigneur des armées célestes : Revenez à moi, dit le Seigneur des armées célestes, et je reviendrai à vous, a dit le Seigneur des armées célestes. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'Ne faites pas comme vos ancêtres, que les prophètes d’autrefois ont exhortés en leur disant : « Voici ce que déclare le Seigneur des armées célestes : Abandonnez votre mauvaise conduite et renoncez à vos mauvaises actions. » Mais vos ancêtres n’ont pas écouté, ils n’ont pas prêté attention à mes paroles, l’Eternel le déclare.'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'Vos ancêtres où sont-ils à présent ? Et les prophètes, sont-ils toujours en vie ? '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'Or mes paroles et mes lois que j’avais ordonné à mes serviteurs les prophètes de leur transmettre, n’ont-elles pas été suivies d’effet pour vos pères ? Alors ils ont changé d’attitude et ils ont reconnu : « Oui, le Seigneur des armées célestes nous a traités comme il avait résolu de le faire, comme le méritaient notre conduite et nos actes. »'
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Les huit visions nocturnes
+  marker-yv: yv-h
+- type: usfm
+  marker: s2
+  children:
+  - type: text
+    text: Les quatre cavaliers
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: La deuxième année du règne de Darius, au vingt-quatrième jour du onzième mois, le mois de Shebath
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1.7 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Le 15 février 519 av. J.-C. '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: 'Shebath '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: est un nom de mois babylonien.
+    marker-yv: yv-n
+  - type: text
+    text: ', la parole de l’Eternel fut adressée à Zacharie le prophète, fils de Barachie et petit-fils d’Iddo.'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: Cette nuit j’ai vu, dans une vision, un cavalier monté sur un cheval roux. Il se tenait parmi les myrtes
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1.8 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: Arbustes qui restent toujours verts, croissant dans les régions méditerranéennes surtout dans les fonds de vallées (voir Es 41.19 ; 55.13).
+    marker-yv: yv-n
+  - type: text
+    text: ' dans les profondeurs, et derrière lui, il y avait d’autres chevaux : des roux, des gris-verts et des blancs'
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1.8 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Pour les v. 8-11, voir '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '1.12 '
+          text: Ap 6.1-8
+        metadata:
+          usfm: REV.6.1+REV.6.2+REV.6.3+REV.6.4+REV.6.5+REV.6.6+REV.6.7+REV.6.8
+      - type: text
+        text: .
+    marker-yv: yv-n
+  - type: text
+    text: '. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'Je demandai alors : Mon seigneur, que représentent-ils ?'
+- type: usfm
+  marker: p
+  children:
+  - type: text
+    text: 'L’ange qui me parlait répondit : Je vais te montrer ce qu’ils représentent.'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'Et l’individu qui se tenait parmi les myrtes intervint en disant : Ce sont les coursiers que l’Eternel a envoyés pour parcourir la terre.'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'Alors les cavaliers s’adressèrent à l’ange de l’Eternel qui se tenait parmi les myrtes, et lui firent ce rapport : Nous venons de parcourir la terre et nous avons constaté qu’elle est toute tranquille et calme.'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'Là-dessus, l’ange de l’Eternel s’exclama : Seigneur des armées célestes, voilà soixante-dix ans'
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1.12 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: Voir Jr 25.11 ; 29.10.
+    marker-yv: yv-n
+  - type: text
+    text: ' que tu es irrité contre Jérusalem et contre les villes de Juda. Jusques à quand tarderas-tu à les prendre en pitié'
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '1.12 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Réminiscence en '
       - type: usfm
-        marker: ft
+        marker: ref
         children:
         - type: text
-          text: 'Réminiscence en '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ap 6.10
-        - type: text
-          text: .
-      marker-yv: yv-n
-    - type: text
-      text: '  ?'
-  '13':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
+          text: Ap 6.10
+        metadata:
+          usfm: REV.6.10
       - type: text
-        text: '13'
-    - type: text
-      text: Alors l’Eternel répondit à l’ange qui me parlait par des paroles bienveillantes et des paroles de consolation.
-  '14':
+        text: .
+    marker-yv: yv-n
+  - type: text
+    text: '  ?'
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '14'
-    - type: text
-      text: 'L’ange qui me parlait me dit : Proclame ces paroles : Voici ce que déclare le Seigneur des armées célestes : J’éprouve pour Jérusalem et pour Sion un amour passionné. '
-  '15':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '15'
-    - type: text
-      text: 'Et je suis saisi d’une violente indignation contre les peuples ennemis qui vivent dans la tranquillité. Car je n’étais qu’un peu irrité contre mon peuple, mais eux, ils ont accru son malheur. '
-  '16':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: text
-      text: 'C’est pourquoi voici ce que dit l’Eternel : Je me tourne vers Jérusalem avec compassion. Mon temple y sera rebâti – le Seigneur des armées célestes le déclare – et l’on étendra le cordeau d’arpenteur sur Jérusalem.'
-  '17':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: text
-      text: 'Proclame encore ce message : Voici ce que déclare le Seigneur des armées célestes : Mes villes déborderont de nouveau de prospérité, l’Eternel consolera de nouveau Sion et choisira de nouveau Jérusalem.'
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'L’Eternel s’est violemment irrité contre vos pères. '
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'Dis à ce peuple : Voici ce que déclare le Seigneur des armées célestes : Revenez à moi, dit le Seigneur des armées célestes, et je reviendrai à vous, a dit le Seigneur des armées célestes. '
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'Ne faites pas comme vos ancêtres, que les prophètes d’autrefois ont exhortés en leur disant : « Voici ce que déclare le Seigneur des armées célestes : Abandonnez votre mauvaise conduite et renoncez à vos mauvaises actions. » Mais vos ancêtres n’ont pas écouté, ils n’ont pas prêté attention à mes paroles, l’Eternel le déclare.'
-  '5':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: 'Vos ancêtres où sont-ils à présent ? Et les prophètes, sont-ils toujours en vie ? '
-  '6':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'Or mes paroles et mes lois que j’avais ordonné à mes serviteurs les prophètes de leur transmettre, n’ont-elles pas été suivies d’effet pour vos pères ? Alors ils ont changé d’attitude et ils ont reconnu : « Oui, le Seigneur des armées célestes nous a traités comme il avait résolu de le faire, comme le méritaient notre conduite et nos actes. »'
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Les huit visions nocturnes
-    marker-yv: yv-h
+      text: '13'
+  - type: text
+    text: Alors l’Eternel répondit à l’ange qui me parlait par des paroles bienveillantes et des paroles de consolation.
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s2
+    marker: vlbl
     children:
     - type: text
-      text: Les quatre cavaliers
-    marker-yv: yv-h
-  '7':
+      text: '14'
+  - type: text
+    text: 'L’ange qui me parlait me dit : Proclame ces paroles : Voici ce que déclare le Seigneur des armées célestes : J’éprouve pour Jérusalem et pour Sion un amour passionné. '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: La deuxième année du règne de Darius, au vingt-quatrième jour du onzième mois, le mois de Shebath
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1.7 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Le 15 février 519 av. J.-C. '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'Shebath '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: est un nom de mois babylonien.
-      marker-yv: yv-n
-    - type: text
-      text: ', la parole de l’Eternel fut adressée à Zacharie le prophète, fils de Barachie et petit-fils d’Iddo.'
-  '8':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: Cette nuit j’ai vu, dans une vision, un cavalier monté sur un cheval roux. Il se tenait parmi les myrtes
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1.8 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: Arbustes qui restent toujours verts, croissant dans les régions méditerranéennes surtout dans les fonds de vallées (voir Es 41.19 ; 55.13).
-      marker-yv: yv-n
-    - type: text
-      text: ' dans les profondeurs, et derrière lui, il y avait d’autres chevaux : des roux, des gris-verts et des blancs'
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1.8 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Pour les v. 8-11, voir '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ap 6.1-8
-        - type: text
-          text: .
-      marker-yv: yv-n
-    - type: text
-      text: '. '
-  '9':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: 'Je demandai alors : Mon seigneur, que représentent-ils ?'
-  - type: usfm
-    marker: p
+    marker: vlbl
     children:
     - type: text
-      text: 'L’ange qui me parlait répondit : Je vais te montrer ce qu’ils représentent.'
+      text: '15'
+  - type: text
+    text: 'Et je suis saisi d’une violente indignation contre les peuples ennemis qui vivent dans la tranquillité. Car je n’étais qu’un peu irrité contre mon peuple, mais eux, ils ont accru son malheur. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'C’est pourquoi voici ce que dit l’Eternel : Je me tourne vers Jérusalem avec compassion. Mon temple y sera rebâti – le Seigneur des armées célestes le déclare – et l’on étendra le cordeau d’arpenteur sur Jérusalem.'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'Proclame encore ce message : Voici ce que déclare le Seigneur des armées célestes : Mes villes déborderont de nouveau de prospérité, l’Eternel consolera de nouveau Sion et choisira de nouveau Jérusalem.'

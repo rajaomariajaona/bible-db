@@ -1,707 +1,793 @@
-document_id: PSA.3,59
+document_id: PSA.3
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Save Me, O My God
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: 'A Psalm of David, '
   - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Save Me, O My God
-    marker-yv: yv-h
-  - type: usfm
-    marker: d
-    children:
-    - type: text
-      text: 'A Psalm of David, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Sam. 15:14-17
-      marker-yv: yv-n
-    - type: text
-      text: when he fled from Absalom his son.
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: 'O '
+        text: 'See '
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: 2 Sam. 15:14-17
+      metadata:
+        usfm: 2SA.15.14+2SA.15.15+2SA.15.16+2SA.15.17
+    marker-yv: yv-n
+  - type: text
+    text: when he fled from Absalom his son.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '1'
+  - type: text
+    text: 'O '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ', '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Sam. 15:12
+      metadata:
+        usfm: 2SA.15.12
+    marker-yv: yv-n
+  - type: text
+    text: how many are my foes!
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'Many are '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Sam. 18:31
+      metadata:
+        usfm: 2SA.18.31
     - type: text
       text: ', '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Sam. 15:12
-      marker-yv: yv-n
-    - type: text
-      text: how many are my foes!
+      - type: text
+        text: '32'
+      metadata:
+        usfm: 2SA.18.32
+    marker-yv: yv-n
+  - type: text
+    text: rising against me;
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'Many are '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Sam. 18:31
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '32'
-      marker-yv: yv-n
-    - type: text
-      text: rising against me;
-  '2':
+      text: '2'
+  - type: text
+    text: many are saying of my soul,
+- type: usfm
+  marker: q2
+  children:
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '2'
+        text: Ps. 71:11
+      metadata:
+        usfm: PSA.71.11
     - type: text
-      text: many are saying of my soul,
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Sam. 16:8
+      metadata:
+        usfm: 2SA.16.8
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: '“There is no salvation for him in God.” '
   - type: usfm
-    marker: q2
+    marker: qs
+    children:
+    - type: text
+      text: Selah
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: x
+      marker: fr
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 71:11
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Sam. 16:8
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: '“There is no salvation for him in God.” '
+        text: '3:2 '
     - type: usfm
-      marker: qs
+      marker: ft
+      children:
+      - type: text
+        text: 'The meaning of the Hebrew word '
+    - type: usfm
+      marker: fq
       children:
       - type: text
         text: Selah
     - type: usfm
-      marker: f
+      marker: ft
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '3:2 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'The meaning of the Hebrew word '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: Selah
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ', used frequently in the Psalms, is uncertain. It may be a musical or liturgical direction'
-      marker-yv: yv-n
-  '3':
+      - type: text
+        text: ', used frequently in the Psalms, is uncertain. It may be a musical or liturgical direction'
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'But you, O '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ', are '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 28:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 84:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 119:114
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 15:1
-      marker-yv: yv-n
-    - type: text
-      text: 'a shield '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 1:10
-      marker-yv: yv-n
-    - type: text
-      text: about me,
-  - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'my glory, and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 27:5
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '6'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 10:15
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the lifter of my head.
-  '4':
+      text: '3'
+  - type: text
+    text: 'But you, O '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'I '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 77:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 142:1
-      marker-yv: yv-n
-    - type: text
-      text: 'cried aloud to the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ','
-  - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: 'and he '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 34:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 60:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 108:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 6:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 34:6
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'answered me from his '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 2:6
-      marker-yv: yv-n
-    - type: text
-      text: 'holy hill. '
-    - type: usfm
-      marker: qs
-      children:
-      - type: text
-        text: Selah
-  '5':
+      text: Lord
+  - type: text
+    text: ', are '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
+        text: Ps. 28:7
+      metadata:
+        usfm: PSA.28.7
     - type: text
-      text: 'I '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 4:8
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 26:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 11:18
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '19'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 3:24
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: 84:9
+      metadata:
+        usfm: PSA.84.9
     - type: text
-      text: lay down and slept;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'I woke again, for the '
+      text: '; '
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: 119:114
+      metadata:
+        usfm: PSA.119.114
     - type: text
-      text: ' sustained me.'
-  '6':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 15:1
+      metadata:
+        usfm: GEN.15.1
+    marker-yv: yv-n
+  - type: text
+    text: 'a shield '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: Job 1:10
+      metadata:
+        usfm: JOB.1.10
+    marker-yv: yv-n
+  - type: text
+    text: about me,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'my glory, and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 27:5
+      metadata:
+        usfm: PSA.27.5
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '6'
+      metadata:
+        usfm: PSA.27.6
     - type: text
-      text: 'I '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 23:4
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 27:3
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: will not be afraid of many thousands of people
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 10:15
+      metadata:
+        usfm: JOB.10.15
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the lifter of my head.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'who have '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 22:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Kgs. 20:12
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: set themselves against me all around.
-  '7':
+      text: '4'
+  - type: text
+    text: 'I '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '7'
+        text: Ps. 77:1
+      metadata:
+        usfm: PSA.77.1
     - type: text
-      text: ' '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 7:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 9:19
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 10:12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Num. 10:35
-      marker-yv: yv-n
-    - type: text
-      text: 'Arise, O '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: '!'
+        text: 142:1
+      metadata:
+        usfm: PSA.142.1
+    marker-yv: yv-n
+  - type: text
+    text: 'cried aloud to the '
   - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: Save me, O my God!
+      text: Lord
+  - type: text
+    text: ','
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and he '
   - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'For you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 16:10
-      marker-yv: yv-n
-    - type: text
-      text: strike all my enemies on the cheek;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 58:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 29:17
-      marker-yv: yv-n
-    - type: text
-      text: break the teeth of the wicked.
-  '8':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '8'
+        text: Ps. 34:4
+      metadata:
+        usfm: PSA.34.4
     - type: text
-      text: ' '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 37:39
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 62:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 43:11
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 45:21
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 3:23
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hos. 13:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jonah 2:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 7:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:1
-      marker-yv: yv-n
+        text: 60:5
+      metadata:
+        usfm: PSA.60.5
     - type: text
-      text: 'Salvation belongs to the '
+      text: '; '
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: 108:6
+      metadata:
+        usfm: PSA.108.6
     - type: text
-      text: ;
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 6:8
+      metadata:
+        usfm: PSA.6.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 34:6
+      metadata:
+        usfm: PSA.34.6
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'answered me from his '
   - type: usfm
-    marker: q2
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 2:6
+      metadata:
+        usfm: PSA.2.6
+    marker-yv: yv-n
+  - type: text
+    text: 'holy hill. '
+  - type: usfm
+    marker: qs
     children:
     - type: text
-      text: 'your blessing be on your people! '
+      text: Selah
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'I '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: qs
+      marker: ref
       children:
       - type: text
-        text: Selah
+        text: Ps. 4:8
+      metadata:
+        usfm: PSA.4.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lev. 26:6
+      metadata:
+        usfm: LEV.26.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 11:18
+      metadata:
+        usfm: JOB.11.18
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '19'
+      metadata:
+        usfm: JOB.11.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 3:24
+      metadata:
+        usfm: PRO.3.24
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: lay down and slept;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'I woke again, for the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' sustained me.'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'I '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 23:4
+      metadata:
+        usfm: PSA.23.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 27:3
+      metadata:
+        usfm: PSA.27.3
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: will not be afraid of many thousands of people
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'who have '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 22:7
+      metadata:
+        usfm: ISA.22.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Kgs. 20:12
+      metadata:
+        usfm: 1KI.20.12
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: set themselves against me all around.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 7:6
+      metadata:
+        usfm: PSA.7.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 9:19
+      metadata:
+        usfm: PSA.9.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 10:12
+      metadata:
+        usfm: PSA.10.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Num. 10:35
+      metadata:
+        usfm: NUM.10.35
+    marker-yv: yv-n
+  - type: text
+    text: 'Arise, O '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: '!'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: Save me, O my God!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'For you '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 16:10
+      metadata:
+        usfm: JOB.16.10
+    marker-yv: yv-n
+  - type: text
+    text: strike all my enemies on the cheek;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'you '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 58:6
+      metadata:
+        usfm: PSA.58.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 29:17
+      metadata:
+        usfm: JOB.29.17
+    marker-yv: yv-n
+  - type: text
+    text: break the teeth of the wicked.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 37:39
+      metadata:
+        usfm: PSA.37.39
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 62:7
+      metadata:
+        usfm: PSA.62.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 43:11
+      metadata:
+        usfm: ISA.43.11
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 45:21
+      metadata:
+        usfm: ISA.45.21
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 3:23
+      metadata:
+        usfm: JER.3.23
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hos. 13:4
+      metadata:
+        usfm: HOS.13.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jonah 2:9
+      metadata:
+        usfm: JON.2.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rev. 7:10
+      metadata:
+        usfm: REV.7.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:1
+      metadata:
+        usfm: REV.19.1
+    marker-yv: yv-n
+  - type: text
+    text: 'Salvation belongs to the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'your blessing be on your people! '
+  - type: usfm
+    marker: qs
+    children:
+    - type: text
+      text: Selah

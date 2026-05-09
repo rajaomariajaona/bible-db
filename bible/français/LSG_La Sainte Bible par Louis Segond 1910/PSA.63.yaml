@@ -1,233 +1,227 @@
-document_id: PSA.63,93
+document_id: PSA.63
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: (1 S 24 à 26. 2 S 15:23-28.) (Ps 42; 61; 84.)
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: (1 S 24 à 26. 2 S 15:23-28.) (Ps 42; 61; 84.)
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Psaume de David. Lorsqu’il était dans '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: 'Psaume de David. Lorsqu’il était dans '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 S 22:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 23:14
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '15'
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: le désert de Juda.
-  '10':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
+        text: 1 S 22:5
+      metadata:
+        usfm: 1SA.22.5
     - type: text
-      text: Mais ceux qui cherchent à m’ôter la vie
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Iront dans les profondeurs de la terre;
-  '11':
-  - type: usfm
-    marker: q1
-    children:
+      text: '; '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
+        text: 23:14
+      metadata:
+        usfm: 1SA.23.14
     - type: text
-      text: Ils seront livrés au glaive,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Ils seront la proie des chacals.
-  '12':
-  - type: usfm
-    marker: q1
-    children:
+      text: ', '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '12'
+        text: '15'
+      metadata:
+        usfm: 1SA.23.15
     - type: text
-      text: Et le roi se réjouira en Dieu;
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: le désert de Juda.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Quiconque jure par lui s’en glorifiera,
+      text: '2'
+  - type: text
+    text: O Dieu! Tu es mon Dieu, je te cherche;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Mon âme a soif de toi, mon corps soupire après toi,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Dans une terre aride, desséchée, sans eau.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Car la bouche des menteurs sera fermée.
-  '2':
+      text: '3'
+  - type: text
+    text: Ainsi je te contemple dans le sanctuaire,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Pour voir ta puissance et ta gloire.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: O Dieu! Tu es mon Dieu, je te cherche;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Mon âme a soif de toi, mon corps soupire après toi,
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Dans une terre aride, desséchée, sans eau.
-  '3':
+      text: '4'
+  - type: text
+    text: 'Car ta bonté vaut mieux que la vie:'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Mes lèvres célèbrent tes louanges.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: Ainsi je te contemple dans le sanctuaire,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Pour voir ta puissance et ta gloire.
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'Car ta bonté vaut mieux que la vie:'
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Mes lèvres célèbrent tes louanges.
-  '5':
+      text: '5'
+  - type: text
+    text: Je te bénirai donc toute ma vie,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: J’élèverai mes mains en ton nom.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: Je te bénirai donc toute ma vie,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: J’élèverai mes mains en ton nom.
-  '6':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: Mon âme sera rassasiée comme de mets gras et succulents,
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Et, avec des cris de joie sur les lèvres, ma bouche te célébrera.
-  '7':
+      text: '6'
+  - type: text
+    text: Mon âme sera rassasiée comme de mets gras et succulents,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et, avec des cris de joie sur les lèvres, ma bouche te célébrera.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: Lorsque je pense à toi sur ma couche,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Je médite sur toi pendant les veilles de la nuit.
-  '8':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: Car tu es mon secours,
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Et je suis dans l’allégresse à l’ombre de tes ailes.
-  '9':
+      text: '7'
+  - type: text
+    text: Lorsque je pense à toi sur ma couche,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Je médite sur toi pendant les veilles de la nuit.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
     - type: text
-      text: Mon âme est attachée à toi;
+      text: '8'
+  - type: text
+    text: Car tu es mon secours,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et je suis dans l’allégresse à l’ombre de tes ailes.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Ta droite me soutient.
+      text: '9'
+  - type: text
+    text: Mon âme est attachée à toi;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Ta droite me soutient.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: Mais ceux qui cherchent à m’ôter la vie
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Iront dans les profondeurs de la terre;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: Ils seront livrés au glaive,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Ils seront la proie des chacals.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: Et le roi se réjouira en Dieu;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Quiconque jure par lui s’en glorifiera,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Car la bouche des menteurs sera fermée.

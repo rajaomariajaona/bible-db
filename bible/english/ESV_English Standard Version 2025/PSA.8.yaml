@@ -1,602 +1,653 @@
-document_id: PSA.8,59
+document_id: PSA.8
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: How Majestic Is Your Name
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: 'To the choirmaster: according to The '
   - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: How Majestic Is Your Name
-    marker-yv: yv-h
-  - type: usfm
-    marker: d
-    children:
-    - type: text
-      text: 'To the choirmaster: according to The '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 81
-      - type: text
-        text: ', title; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '84'
-      - type: text
-        text: ', title'
-      marker-yv: yv-n
-    - type: text
-      text: Gittith.
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '8:1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: Probably a musical or liturgical term
-      marker-yv: yv-n
-    - type: text
-      text: ' A Psalm of David.'
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Ps. 81
+      metadata:
+        usfm: PSA.81
     - type: text
-      text: 'O '
+      text: ', title; '
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: '84'
+      metadata:
+        usfm: PSA.84
     - type: text
-      text: ', our Lord,'
+      text: ', title'
+    marker-yv: yv-n
+  - type: text
+    text: Gittith.
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'how majestic is your '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 148:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 12:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 34:5
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: name in all the earth!
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'You have set your '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 113:4
-      marker-yv: yv-n
-    - type: text
-      text: glory above the heavens.
-  '2':
-  - type: usfm
-    marker: q2
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '2'
+        text: '8:1 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: Probably a musical or liturgical term
+    marker-yv: yv-n
+  - type: text
+    text: ' A Psalm of David.'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '1'
+  - type: text
+    text: 'O '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ', our Lord,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'how majestic is your '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 148:13
+      metadata:
+        usfm: PSA.148.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 12:4
+      metadata:
+        usfm: ISA.12.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 34:5
+      metadata:
+        usfm: EXO.34.5
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: name in all the earth!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'You have set your '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 113:4
+      metadata:
+        usfm: PSA.113.4
+    marker-yv: yv-n
+  - type: text
+    text: glory above the heavens.
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'Cited '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 21:16
+      metadata:
+        usfm: MAT.21.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 21:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 11:25
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 1:27
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: Out of the mouth of babies and infants,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'you have established '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 16:19
-      marker-yv: yv-n
-    - type: text
-      text: strength because of your foes,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'to still '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 44:16
-      marker-yv: yv-n
-    - type: text
-      text: the enemy and the avenger.
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '3'
+        text: Matt. 11:25
+      metadata:
+        usfm: MAT.11.25
     - type: text
-      text: 'When I '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 111:2
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'look at your heavens, the work of your '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 8:19
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 31:18
-      marker-yv: yv-n
-    - type: text
-      text: fingers,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'the moon and the stars, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 1:16
-      marker-yv: yv-n
-    - type: text
-      text: which you have set in place,
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '4'
+        text: 1 Cor. 1:27
+      metadata:
+        usfm: 1CO.1.27
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 2:6-8
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 144:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 7:17
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 25:6
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'what is man that you are '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 8:1
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: mindful of him,
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Out of the mouth of babies and infants,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'you have established '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 80:17
-      marker-yv: yv-n
-    - type: text
-      text: 'the son of man that you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 65:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 21:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 50:24
-      marker-yv: yv-n
-    - type: text
-      text: care for him?
-  '5':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: 'Yet you have made him a little lower than '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 1:26
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the heavenly beings
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '8:5 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: than God
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: '; Septuagint '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: than the angels
-      marker-yv: yv-n
+        text: Jer. 16:19
+      metadata:
+        usfm: JER.16.19
+    marker-yv: yv-n
+  - type: text
+    text: strength because of your foes,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'to still '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and crowned him with '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 21:5
-      marker-yv: yv-n
-    - type: text
-      text: glory and honor.
-  '6':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '6'
-    - type: text
-      text: 'You have given him '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 1:26
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '28'
-      marker-yv: yv-n
-    - type: text
-      text: dominion over the works of your hands;
+        text: Ps. 44:16
+      metadata:
+        usfm: PSA.44.16
+    marker-yv: yv-n
+  - type: text
+    text: the enemy and the avenger.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'When I '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'Cited '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 15:27
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
       - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 28:18
+        text: Ps. 111:2
+      metadata:
+        usfm: PSA.111.2
+    - type: usfm
+      marker: xta
+      children:
       - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: you have put all things under his feet,
-  '7':
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'look at your heavens, the work of your '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '7'
+        text: Ex. 8:19
+      metadata:
+        usfm: EXO.8.19
     - type: text
-      text: all sheep and oxen,
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 31:18
+      metadata:
+        usfm: EXO.31.18
+    marker-yv: yv-n
+  - type: text
+    text: fingers,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'the moon and the stars, '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and also the beasts of the field,
-  '8':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '8'
-    - type: text
-      text: the birds of the heavens, and the fish of the sea,
+        text: Gen. 1:16
+      metadata:
+        usfm: GEN.1.16
+    marker-yv: yv-n
+  - type: text
+    text: which you have set in place,
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: whatever passes along the paths of the seas.
-  '9':
+      text: '4'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '9'
-    - type: text
-      text: 'O '
+        text: 'Cited '
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: Heb. 2:6-8
+      metadata:
+        usfm: HEB.2.6+HEB.2.7+HEB.2.8
     - type: text
-      text: ', our Lord,'
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 144:3
+      metadata:
+        usfm: PSA.144.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 7:17
+      metadata:
+        usfm: JOB.7.17
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 25:6
+      metadata:
+        usfm: JOB.25.6
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'what is man that you are '
   - type: usfm
-    marker: q2
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 8:1
+      metadata:
+        usfm: GEN.8.1
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: mindful of him,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 80:17
+      metadata:
+        usfm: PSA.80.17
+    marker-yv: yv-n
+  - type: text
+    text: 'the son of man that you '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 65:9
+      metadata:
+        usfm: PSA.65.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 21:1
+      metadata:
+        usfm: GEN.21.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 50:24
+      metadata:
+        usfm: GEN.50.24
+    marker-yv: yv-n
+  - type: text
+    text: care for him?
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
     children:
     - type: text
-      text: how majestic is your name in all the earth!
+      text: '5'
+  - type: text
+    text: 'Yet you have made him a little lower than '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 1:26
+      metadata:
+        usfm: GEN.1.26
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the heavenly beings
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '8:5 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: than God
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: '; Septuagint '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: than the angels
+    marker-yv: yv-n
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and crowned him with '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 21:5
+      metadata:
+        usfm: PSA.21.5
+    marker-yv: yv-n
+  - type: text
+    text: glory and honor.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'You have given him '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 1:26
+      metadata:
+        usfm: GEN.1.26
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '28'
+      metadata:
+        usfm: GEN.1.28
+    marker-yv: yv-n
+  - type: text
+    text: dominion over the works of your hands;
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'Cited '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 15:27
+      metadata:
+        usfm: 1CO.15.27
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 28:18
+      metadata:
+        usfm: MAT.28.18
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: you have put all things under his feet,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: all sheep and oxen,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and also the beasts of the field,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: the birds of the heavens, and the fish of the sea,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: whatever passes along the paths of the seas.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'O '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ', our Lord,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: how majestic is your name in all the earth!

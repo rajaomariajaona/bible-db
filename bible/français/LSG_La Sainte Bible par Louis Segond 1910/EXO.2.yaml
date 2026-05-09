@@ -1,463 +1,402 @@
-document_id: EXO.2,93
+document_id: EXO.2
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Naissance de Moïse
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 1-10: cf. Ac 7:20-22. Hé 11:23. Mt 10:29.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Naissance de Moïse
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 1-10: cf. Ac 7:20-22. Hé 11:23. Mt 10:29.'
-    marker-yv: yv-h
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Ex 6:19
+      metadata:
+        usfm: EXO.6.19
     - type: text
-      text: ' '
+      text: '. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex 6:19
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: No 26:59
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Un homme de la maison de Lévi avait pris pour femme une fille de Lévi. '
-  '10':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
+        text: No 26:59
+      metadata:
+        usfm: NUM.26.59
     - type: text
-      text: Quand il eut grandi, elle l’amena à la fille de Pharaon, et il fut pour elle comme un fils. Elle lui donna le nom de Moïse, car, dit-elle, je l’ai retiré des eaux.
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Un homme de la maison de Lévi avait pris pour femme une fille de Lévi. '
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Sa fuite au pays de Madian
-    marker-yv: yv-h
+      text: '2'
   - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 11-22: cf. Ac 7:23-29. Hé 11:24-26. Jn 1:11.'
-    marker-yv: yv-h
-  '11':
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
+        text: 1 Ch 23:13
+      metadata:
+        usfm: 1CH.23.13
     - type: text
-      text: ' '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ac 7:23
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hé 11:24
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '25'
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Ac 7:20
+      metadata:
+        usfm: ACT.7.20
     - type: text
-      text: 'En ce temps-là, Moïse, devenu grand, se rendit vers ses frères, et fut témoin de leurs pénibles travaux. Il vit un Égyptien qui frappait un Hébreu d’entre ses frères. '
-  '12':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Cette femme devint enceinte et enfanta un fils. Elle vit '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '12'
+        text: Hé 11:23
+      metadata:
+        usfm: HEB.11.23
     - type: text
-      text: 'Il regarda de côté et d’autre, et, voyant qu’il n’y avait personne, il tua l’Égyptien, et le cacha dans le sable. '
-  '13':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'qu’il était beau, et elle le cacha pendant trois mois. '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '13'
-    - type: text
-      text: 'Il sortit le jour suivant; et voici, deux Hébreux se querellaient. Il dit à celui qui avait tort: Pourquoi frappes-tu ton prochain? '
-  '14':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '14'
-    - type: text
-      text: 'Et cet homme répondit: '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ac 7:27
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Qui t’a établi chef et juge sur nous? Penses-tu me tuer, comme tu as tué l’Égyptien? Moïse eut peur, et dit: Certainement la chose est connue. '
-  '15':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '15'
-    - type: text
-      text: 'Pharaon apprit ce qui s’était passé, et il cherchait à faire mourir Moïse. '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ac 7:29
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Mais Moïse s’enfuit de devant Pharaon, et il se retira dans le pays de Madian, où il s’arrêta près d’un puits. '
-  '16':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: text
-      text: 'Le sacrificateur de Madian avait sept filles. Elles vinrent puiser de l’eau, et elles remplirent les auges pour abreuver le troupeau de leur père. '
-  '17':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: text
-      text: 'Les bergers arrivèrent, et les chassèrent. Alors Moïse se leva, prit leur défense, et fit boire leur troupeau. '
-  '18':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
-    - type: text
-      text: 'Quand elles furent de retour auprès de Réuel, leur père, il dit: Pourquoi revenez-vous si tôt aujourd’hui? '
-  '19':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: text
-      text: 'Elles répondirent: Un Égyptien nous a délivrées de la main des bergers, et même il nous a puisé de l’eau, et a fait boire le troupeau. '
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Ch 23:13
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ac 7:20
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Cette femme devint enceinte et enfanta un fils. Elle vit '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hé 11:23
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'qu’il était beau, et elle le cacha pendant trois mois. '
-  '20':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '20'
-    - type: text
-      text: 'Et il dit à ses filles: Où est-il? Pourquoi avez-vous laissé cet homme? Appelez-le, pour qu’il prenne quelque nourriture. '
-  '21':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '21'
-    - type: text
-      text: 'Moïse se décida à demeurer chez cet homme, qui lui donna pour femme Séphora, sa fille. '
-  '22':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '22'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex 18:2
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '3'
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: Elle enfanta un fils, qu’il appela du nom de Guerschom, car, dit-il, j’habite un pays étranger.
-  - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 23-25: cf. Ac 7:29, 30. Ex 3:1-10.'
-    marker-yv: yv-h
-  '23':
+      text: '3'
+  - type: text
+    text: 'Ne pouvant plus le cacher, elle prit une caisse de jonc, qu’elle enduisit de bitume et de poix; elle y mit l’enfant, et le déposa parmi les roseaux, sur le bord du fleuve. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'La sœur de l’enfant se tint à quelque distance, pour savoir ce qui lui arriverait. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'La fille de Pharaon descendit au fleuve pour se baigner, et ses compagnes se promenèrent le long du fleuve. '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '23'
+        text: Ac 7:21
+      metadata:
+        usfm: ACT.7.21
     - type: text
-      text: 'Longtemps après, le roi d’Égypte mourut, et les enfants d’Israël gémissaient encore sous la servitude, et poussaient des cris. Ces cris, que leur arrachait la servitude, montèrent jusqu’à Dieu. '
-  '24':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hé 11:23
+      metadata:
+        usfm: HEB.11.23
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Elle aperçut la caisse au milieu des roseaux, et elle envoya sa servante pour la prendre. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'Elle l’ouvrit, et vit l’enfant: c’était un petit garçon qui pleurait. Elle en eut pitié, et elle dit: C’est un enfant des Hébreux! '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'Alors la sœur de l’enfant dit à la fille de Pharaon: Veux-tu que j’aille te chercher une nourrice parmi les femmes des Hébreux, pour allaiter cet enfant? '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'Va, lui répondit la fille de Pharaon. Et la jeune fille alla chercher la mère de l’enfant. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'La fille de Pharaon lui dit: Emporte cet enfant, et allaite-le-moi; je te donnerai ton salaire. La femme prit l’enfant, et l’allaita. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: Quand il eut grandi, elle l’amena à la fille de Pharaon, et il fut pour elle comme un fils. Elle lui donna le nom de Moïse, car, dit-elle, je l’ai retiré des eaux.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Sa fuite au pays de Madian
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 11-22: cf. Ac 7:23-29. Hé 11:24-26. Jn 1:11.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '24'
+        text: Ac 7:23
+      metadata:
+        usfm: ACT.7.23
     - type: text
-      text: 'Dieu entendit leurs gémissements, et '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ge 15:14
       - type: text
-        text: .
-      marker-yv: yv-n
+        text: Hé 11:24
+      metadata:
+        usfm: HEB.11.24
     - type: text
-      text: 'se souvint de son alliance avec Abraham, Isaac et Jacob. '
-  '25':
-  - type: usfm
-    marker: p
-    children:
+      text: ', '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '25'
+      metadata:
+        usfm: HEB.11.25
     - type: text
-      text: Dieu regarda les enfants d’Israël, et il en eut compassion.
-  '3':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'En ce temps-là, Moïse, devenu grand, se rendit vers ses frères, et fut témoin de leurs pénibles travaux. Il vit un Égyptien qui frappait un Hébreu d’entre ses frères. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'Il regarda de côté et d’autre, et, voyant qu’il n’y avait personne, il tua l’Égyptien, et le cacha dans le sable. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'Il sortit le jour suivant; et voici, deux Hébreux se querellaient. Il dit à celui qui avait tort: Pourquoi frappes-tu ton prochain? '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: 'Et cet homme répondit: '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: Ac 7:27
+      metadata:
+        usfm: ACT.7.27
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Qui t’a établi chef et juge sur nous? Penses-tu me tuer, comme tu as tué l’Égyptien? Moïse eut peur, et dit: Certainement la chose est connue. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: 'Pharaon apprit ce qui s’était passé, et il cherchait à faire mourir Moïse. '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ac 7:29
+      metadata:
+        usfm: ACT.7.29
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Mais Moïse s’enfuit de devant Pharaon, et il se retira dans le pays de Madian, où il s’arrêta près d’un puits. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'Le sacrificateur de Madian avait sept filles. Elles vinrent puiser de l’eau, et elles remplirent les auges pour abreuver le troupeau de leur père. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'Les bergers arrivèrent, et les chassèrent. Alors Moïse se leva, prit leur défense, et fit boire leur troupeau. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: 'Quand elles furent de retour auprès de Réuel, leur père, il dit: Pourquoi revenez-vous si tôt aujourd’hui? '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: 'Elles répondirent: Un Égyptien nous a délivrées de la main des bergers, et même il nous a puisé de l’eau, et a fait boire le troupeau. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: text
+    text: 'Et il dit à ses filles: Où est-il? Pourquoi avez-vous laissé cet homme? Appelez-le, pour qu’il prenne quelque nourriture. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: text
+    text: 'Moïse se décida à demeurer chez cet homme, qui lui donna pour femme Séphora, sa fille. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex 18:2
+      metadata:
+        usfm: EXO.18.2
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '3'
+      metadata:
+        usfm: EXO.18.3
     - type: text
-      text: 'Ne pouvant plus le cacher, elle prit une caisse de jonc, qu’elle enduisit de bitume et de poix; elle y mit l’enfant, et le déposa parmi les roseaux, sur le bord du fleuve. '
-  '4':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: Elle enfanta un fils, qu’il appela du nom de Guerschom, car, dit-il, j’habite un pays étranger.
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 23-25: cf. Ac 7:29, 30. Ex 3:1-10.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: text
+    text: 'Longtemps après, le roi d’Égypte mourut, et les enfants d’Israël gémissaient encore sous la servitude, et poussaient des cris. Ces cris, que leur arrachait la servitude, montèrent jusqu’à Dieu. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '24'
+  - type: text
+    text: 'Dieu entendit leurs gémissements, et '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '4'
+        text: Ge 15:14
+      metadata:
+        usfm: GEN.15.14
     - type: text
-      text: 'La sœur de l’enfant se tint à quelque distance, pour savoir ce qui lui arriverait. '
-  '5':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'se souvint de son alliance avec Abraham, Isaac et Jacob. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
     - type: text
-      text: 'La fille de Pharaon descendit au fleuve pour se baigner, et ses compagnes se promenèrent le long du fleuve. '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ac 7:21
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hé 11:23
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Elle aperçut la caisse au milieu des roseaux, et elle envoya sa servante pour la prendre. '
-  '6':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'Elle l’ouvrit, et vit l’enfant: c’était un petit garçon qui pleurait. Elle en eut pitié, et elle dit: C’est un enfant des Hébreux! '
-  '7':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: 'Alors la sœur de l’enfant dit à la fille de Pharaon: Veux-tu que j’aille te chercher une nourrice parmi les femmes des Hébreux, pour allaiter cet enfant? '
-  '8':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: 'Va, lui répondit la fille de Pharaon. Et la jeune fille alla chercher la mère de l’enfant. '
-  '9':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: 'La fille de Pharaon lui dit: Emporte cet enfant, et allaite-le-moi; je te donnerai ton salaire. La femme prit l’enfant, et l’allaita. '
+      text: '25'
+  - type: text
+    text: Dieu regarda les enfants d’Israël, et il en eut compassion.

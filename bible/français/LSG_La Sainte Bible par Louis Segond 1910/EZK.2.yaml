@@ -1,231 +1,214 @@
-document_id: EZK.2,93
+document_id: EZK.2
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Mission du prophète. La vision du rouleau
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: '2 v. 1 à 3 v. 3: cf. (Jé 1:4-9, 17. Mt 10:27-33.) Ap 10:8-10.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Mission du prophète. La vision du rouleau
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Il me dit: Fils de l’homme, tiens-toi sur tes pieds, et je te parlerai. '
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: '2 v. 1 à 3 v. 3: cf. (Jé 1:4-9, 17. Mt 10:27-33.) Ap 10:8-10.'
-    marker-yv: yv-h
+      text: '2'
+  - type: text
+    text: 'Dès qu’il m’eut adressé ces mots, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Éz 3:24
+      metadata:
+        usfm: EZK.3.24
     - type: text
-      text: 'Il me dit: Fils de l’homme, tiens-toi sur tes pieds, et je te parlerai. '
-  '10':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Da 10:10
+      metadata:
+        usfm: DAN.10.10
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'l’esprit entra en moi et me fit tenir sur mes pieds; et j’entendis celui qui me parlait. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'Il me dit: Fils de l’homme, je t’envoie vers les enfants d’Israël, vers ces peuples rebelles, qui se sont révoltés contre moi; '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
+        text: Jé 3:25
+      metadata:
+        usfm: JER.3.25
     - type: text
-      text: Il le déploya devant moi, et il était écrit en dedans et en dehors; des lamentations, des plaintes et des gémissements y étaient écrits.
-  '2':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'eux et leurs pères ont péché contre moi, jusqu’au jour même où nous sommes. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'Ce sont des enfants à la face impudente et au cœur endurci; je t’envoie vers eux, et tu leur diras: Ainsi parle le Seigneur, l’Éternel. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'Qu’ils écoutent, ou qu’ils n’écoutent pas, car c’est une famille de rebelles, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '2'
+        text: Éz 33:33
+      metadata:
+        usfm: EZK.33.33
     - type: text
-      text: 'Dès qu’il m’eut adressé ces mots, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Éz 3:24
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Da 10:10
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'l’esprit entra en moi et me fit tenir sur mes pieds; et j’entendis celui qui me parlait. '
-  '3':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'ils sauront qu’un prophète est au milieu d’eux. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'Et toi, fils de l’homme, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '3'
+        text: Jé 1:8
+      metadata:
+        usfm: JER.1.8
     - type: text
-      text: 'Il me dit: Fils de l’homme, je t’envoie vers les enfants d’Israël, vers ces peuples rebelles, qui se sont révoltés contre moi; '
+      text: ', '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jé 3:25
       - type: text
-        text: .
-      marker-yv: yv-n
+        text: '17'
+      metadata:
+        usfm: JER.1.17
     - type: text
-      text: 'eux et leurs pères ont péché contre moi, jusqu’au jour même où nous sommes. '
-  '4':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lu 12:4
+      metadata:
+        usfm: LUK.12.4
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'ne les crains pas et ne crains pas leurs discours, quoique tu aies auprès de toi des ronces et des épines, et que tu habites avec des scorpions; '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '4'
+        text: Éz 3:9
+      metadata:
+        usfm: EZK.3.9
     - type: text
-      text: 'Ce sont des enfants à la face impudente et au cœur endurci; je t’envoie vers eux, et tu leur diras: Ainsi parle le Seigneur, l’Éternel. '
-  '5':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pi 3:14
+      metadata:
+        usfm: 1PE.3.14
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'ne crains pas leurs discours et ne t’effraie pas de leurs visages, quoiqu’ils soient une famille de rebelles. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'Tu leur diras mes paroles, qu’ils écoutent ou qu’ils n’écoutent pas, car ce sont des rebelles. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'Et toi, fils de l’homme, écoute ce que je vais te dire! Ne sois pas rebelle, comme cette famille de rebelles! '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
+        text: Ap 10:9
+      metadata:
+        usfm: REV.10.9
     - type: text
-      text: 'Qu’ils écoutent, ou qu’ils n’écoutent pas, car c’est une famille de rebelles, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Éz 33:33
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'ils sauront qu’un prophète est au milieu d’eux. '
-  '6':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Ouvre ta bouche, et mange ce que je te donnerai! '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
     - type: text
-      text: 'Et toi, fils de l’homme, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jé 1:8
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '17'
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lu 12:4
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'ne les crains pas et ne crains pas leurs discours, quoique tu aies auprès de toi des ronces et des épines, et que tu habites avec des scorpions; '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Éz 3:9
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pi 3:14
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'ne crains pas leurs discours et ne t’effraie pas de leurs visages, quoiqu’ils soient une famille de rebelles. '
-  '7':
+      text: '9'
+  - type: text
+    text: 'Je regardai, et voici, une main était étendue vers moi, et elle tenait un livre en rouleau. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
     - type: text
-      text: 'Tu leur diras mes paroles, qu’ils écoutent ou qu’ils n’écoutent pas, car ce sont des rebelles. '
-  '8':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: 'Et toi, fils de l’homme, écoute ce que je vais te dire! Ne sois pas rebelle, comme cette famille de rebelles! '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ap 10:9
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Ouvre ta bouche, et mange ce que je te donnerai! '
-  '9':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: 'Je regardai, et voici, une main était étendue vers moi, et elle tenait un livre en rouleau. '
+      text: '10'
+  - type: text
+    text: Il le déploya devant moi, et il était écrit en dedans et en dehors; des lamentations, des plaintes et des gémissements y étaient écrits.

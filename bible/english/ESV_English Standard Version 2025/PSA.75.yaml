@@ -1,503 +1,541 @@
-document_id: PSA.75,59
+document_id: PSA.75
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: God Will Judge with Equity
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: 'To the choirmaster: according to '
   - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: God Will Judge with Equity
-    marker-yv: yv-h
-  - type: usfm
-    marker: d
-    children:
-    - type: text
-      text: 'To the choirmaster: according to '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 57
-      - type: text
-        text: ', title'
-      marker-yv: yv-n
-    - type: text
-      text: 'Do Not Destroy. '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 50
-      - type: text
-        text: ', title'
-      marker-yv: yv-n
-    - type: text
-      text: A Psalm of Asaph. A Song.
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: We give thanks to you, O God;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'we give thanks, for your name is '
+        text: 'See '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 145:18
-      marker-yv: yv-n
+      - type: text
+        text: Ps. 57
+      metadata:
+        usfm: PSA.57
     - type: text
-      text: near.
+      text: ', title'
+    marker-yv: yv-n
+  - type: text
+    text: 'Do Not Destroy. '
   - type: usfm
-    marker: q1
+    marker: x
     children:
-    - type: text
-      text: We
     - type: usfm
-      marker: f
+      marker: xta
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '75:1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Hebrew '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: They
-      marker-yv: yv-n
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 50
+      metadata:
+        usfm: PSA.50
     - type: text
-      text: ' recount your wondrous deeds.'
-  '10':
+      text: ', title'
+    marker-yv: yv-n
+  - type: text
+    text: A Psalm of Asaph. A Song.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '1'
+  - type: text
+    text: We give thanks to you, O God;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'we give thanks, for your name is '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 145:18
+      metadata:
+        usfm: PSA.145.18
+    marker-yv: yv-n
+  - type: text
+    text: near.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: We
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '75:1 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Hebrew '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: They
+    marker-yv: yv-n
+  - type: text
+    text: ' recount your wondrous deeds.'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: '“At '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Dan. 8:19
+      metadata:
+        usfm: DAN.8.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hab. 2:3
+      metadata:
+        usfm: HAB.2.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 102:13
+      metadata:
+        usfm: PSA.102.13
+    marker-yv: yv-n
+  - type: text
+    text: the set time that I appoint
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'I will judge '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 17:2
+      metadata:
+        usfm: PSA.17.2
+    marker-yv: yv-n
+  - type: text
+    text: with equity.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'When the earth '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 24:19
+      metadata:
+        usfm: ISA.24.19
+    marker-yv: yv-n
+  - type: text
+    text: totters, and all its inhabitants,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'it is I who keep steady its '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Sam. 2:8
+      metadata:
+        usfm: 1SA.2.8
+    marker-yv: yv-n
+  - type: text
+    text: 'pillars. '
+  - type: usfm
+    marker: qs
+    children:
+    - type: text
+      text: Selah
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: I say to the boastful, ‘Do not boast,’
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and to the wicked, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '10'
+      metadata:
+        usfm: PSA.75.10
     - type: text
-      text: ' '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 48:25
-      marker-yv: yv-n
-    - type: text
-      text: All the horns of the wicked I will cut off,
+      - type: text
+        text: Zech. 1:21
+      metadata:
+        usfm: ZEC.1.21
+    marker-yv: yv-n
+  - type: text
+    text: ‘Do not lift up your horn;
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '4'
-      - type: text
-        text: ' ; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 89:17
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 112:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Sam. 2:1
-      marker-yv: yv-n
-    - type: text
-      text: but the horns of the righteous shall be lifted up.
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: '“At '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Dan. 8:19
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hab. 2:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 102:13
-      marker-yv: yv-n
-    - type: text
-      text: the set time that I appoint
-  - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'I will judge '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 17:2
-      marker-yv: yv-n
-    - type: text
-      text: with equity.
-  '3':
+      text: '5'
+  - type: text
+    text: do not lift up your horn on high,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: or speak with haughty neck.’”
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: For not from the east or from the west
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and not from the wilderness comes '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: 'When the earth '
+        text: 'See '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 24:19
-      marker-yv: yv-n
-    - type: text
-      text: totters, and all its inhabitants,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'it is I who keep steady its '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Sam. 2:8
-      marker-yv: yv-n
-    - type: text
-      text: 'pillars. '
-    - type: usfm
-      marker: qs
+      marker: ref
       children:
       - type: text
-        text: Selah
-  '4':
+        text: Ps. 3:3
+      metadata:
+        usfm: PSA.3.3
+    marker-yv: yv-n
+  - type: text
+    text: lifting up,
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'but it is '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 50:6
+      metadata:
+        usfm: PSA.50.6
+    marker-yv: yv-n
+  - type: text
+    text: God who executes judgment,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Sam. 2:7
+      metadata:
+        usfm: 1SA.2.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Dan. 2:21
+      metadata:
+        usfm: DAN.2.21
+    marker-yv: yv-n
+  - type: text
+    text: putting down one and lifting up another.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 21:20
+      metadata:
+        usfm: JOB.21.20
+    marker-yv: yv-n
+  - type: text
+    text: 'For in the hand of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' there is '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 11:6
+      metadata:
+        usfm: PSA.11.6
+    marker-yv: yv-n
+  - type: text
+    text: a cup
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'with foaming wine, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 23:30
+      metadata:
+        usfm: PRO.23.30
+    marker-yv: yv-n
+  - type: text
+    text: well mixed,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: and he pours out from it,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and all the wicked of the earth
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'shall '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 73:10
+      metadata:
+        usfm: PSA.73.10
+    marker-yv: yv-n
+  - type: text
+    text: drain it down to the dregs.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: But I will declare it forever;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: I will sing praises to the God of Jacob.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 48:25
+      metadata:
+        usfm: JER.48.25
+    marker-yv: yv-n
+  - type: text
+    text: All the horns of the wicked I will cut off,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '4'
+      metadata:
+        usfm: PSA.75.4
     - type: text
-      text: I say to the boastful, ‘Do not boast,’
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and to the wicked, '
+      text: ' ; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '10'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Zech. 1:21
-      marker-yv: yv-n
-    - type: text
-      text: ‘Do not lift up your horn;
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
+        text: Ps. 89:17
+      metadata:
+        usfm: PSA.89.17
     - type: text
-      text: do not lift up your horn on high,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: or speak with haughty neck.’”
-  '6':
-  - type: usfm
-    marker: q1
-    children:
+      text: '; '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '6'
+        text: 112:9
+      metadata:
+        usfm: PSA.112.9
     - type: text
-      text: For not from the east or from the west
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and not from the wilderness comes '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 3:3
-      marker-yv: yv-n
-    - type: text
-      text: lifting up,
-  '7':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '7'
-    - type: text
-      text: 'but it is '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 50:6
-      marker-yv: yv-n
-    - type: text
-      text: God who executes judgment,
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Sam. 2:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Dan. 2:21
-      marker-yv: yv-n
-    - type: text
-      text: putting down one and lifting up another.
-  '8':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 21:20
-      marker-yv: yv-n
-    - type: text
-      text: 'For in the hand of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' there is '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 11:6
-      marker-yv: yv-n
-    - type: text
-      text: a cup
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'with foaming wine, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 23:30
-      marker-yv: yv-n
-    - type: text
-      text: well mixed,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: and he pours out from it,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and all the wicked of the earth
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'shall '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 73:10
-      marker-yv: yv-n
-    - type: text
-      text: drain it down to the dregs.
-  '9':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: But I will declare it forever;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: I will sing praises to the God of Jacob.
+        text: 1 Sam. 2:1
+      metadata:
+        usfm: 1SA.2.1
+    marker-yv: yv-n
+  - type: text
+    text: but the horns of the righteous shall be lifted up.

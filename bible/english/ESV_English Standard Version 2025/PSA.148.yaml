@@ -1,901 +1,985 @@
-document_id: PSA.148,59
+document_id: PSA.148
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: 'Praise the Name of the '
   - type: usfm
-    marker: s1
+    marker: nd
     children:
     - type: text
-      text: 'Praise the Name of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    marker-yv: yv-h
+      text: Lord
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '1'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '1'
+        text: '[See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 147:20
+      metadata:
+        usfm: PSA.147.20
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 147:20
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: above]
-      marker-yv: yv-n
-    - type: text
-      text: 'Praise the '
-    - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: '!'
+        text: above]
+    marker-yv: yv-n
+  - type: text
+    text: 'Praise the '
   - type: usfm
-    marker: q1
+    marker: nd
     children:
     - type: text
-      text: 'Praise the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '7'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']; See Ps. 69:34'
-      marker-yv: yv-n
-    - type: text
-      text: from the heavens;
+      text: Lord
+  - type: text
+    text: '!'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Praise the '
   - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: 'praise him '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 21:9
-      marker-yv: yv-n
-    - type: text
-      text: in the heights!
-  '10':
+      text: Lord
+  - type: text
+    text: ' '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: ' '
+        text: '[ver. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 1:24
-      marker-yv: yv-n
-    - type: text
-      text: Beasts and all livestock,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'creeping things and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 1:20
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '21'
-      marker-yv: yv-n
-    - type: text
-      text: flying birds!
-  '11':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '11'
-    - type: text
-      text: 'Kings of the earth and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 7:9
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: all peoples,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: princes and all rulers of the earth!
-  '12':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '12'
-    - type: text
-      text: Young men and maidens together,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: old men and children!
-  '13':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '13'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '5'
-      marker-yv: yv-n
-    - type: text
-      text: 'Let them praise the name of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ','
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'for '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 8:1
-      marker-yv: yv-n
-    - type: text
-      text: his name alone is exalted;
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 113:4
-      marker-yv: yv-n
-    - type: text
-      text: his majesty is above earth and heaven.
-  '14':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '14'
-    - type: text
-      text: 'He has '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Sam. 2:1
-      marker-yv: yv-n
-    - type: text
-      text: raised up a horn for his people,
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 10:21
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 17:14
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: praise for all his saints,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'for the people of Israel who are '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 4:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 2:17
-      marker-yv: yv-n
-    - type: text
-      text: near to him.
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 135:1
-      marker-yv: yv-n
-    - type: text
-      text: 'Praise the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: '!'
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: Praise him, all his angels;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'praise him, all his '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 103:20
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '21'
-      marker-yv: yv-n
-    - type: text
-      text: hosts!
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: Praise him, sun and moon,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: praise him, all you shining stars!
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'Praise him, you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 68:33
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 10:14
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Neh. 9:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Kgs. 8:27
-      marker-yv: yv-n
-    - type: text
-      text: highest heavens,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 1:7
-      marker-yv: yv-n
-    - type: text
-      text: waters above the heavens!
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '13'
-      marker-yv: yv-n
-    - type: text
-      text: 'Let them praise the name of the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: '!'
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'For '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 33:6
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '9'
-      marker-yv: yv-n
-    - type: text
-      text: he commanded and they were created.
-  '6':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'And he '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 119:90
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '91'
-      marker-yv: yv-n
-    - type: text
-      text: established them forever and ever;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'he gave '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 28:26
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 31:35
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '36'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 33:25
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'a decree, and it shall not '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 104:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Esth. 1:19
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 14:5
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: pass away.
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '148:6 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: it shall not be transgressed
-      marker-yv: yv-n
-  '7':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '7'
-    - type: text
-      text: 'Praise the '
+      metadata:
+        usfm: PSA.148.7
     - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '1'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: from the earth,
+        text: ']; See Ps. 69:34'
+    marker-yv: yv-n
+  - type: text
+    text: from the heavens;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'praise him '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 1:21
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']; See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 74:13
-      marker-yv: yv-n
-    - type: text
-      text: great sea creatures and all deeps,
-  '8':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '8'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 18:12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 105:32
-      marker-yv: yv-n
-    - type: text
-      text: 'fire and hail, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 147:16
-      marker-yv: yv-n
-    - type: text
-      text: snow and mist,
+        text: Matt. 21:9
+      metadata:
+        usfm: MAT.21.9
+    marker-yv: yv-n
+  - type: text
+    text: in the heights!
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: Praise him, all his angels;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'praise him, all his '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 107:25
-      marker-yv: yv-n
-    - type: text
-      text: 'stormy wind '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 103:20
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 147:15-18
-      marker-yv: yv-n
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 103:20
+      metadata:
+        usfm: PSA.103.20
     - type: text
-      text: fulfilling his word!
-  '9':
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '21'
+      metadata:
+        usfm: PSA.103.21
+    marker-yv: yv-n
+  - type: text
+    text: hosts!
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: Praise him, sun and moon,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: praise him, all you shining stars!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'Praise him, you '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 68:33
+      metadata:
+        usfm: PSA.68.33
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 10:14
+      metadata:
+        usfm: DEU.10.14
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Neh. 9:6
+      metadata:
+        usfm: NEH.9.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Kgs. 8:27
+      metadata:
+        usfm: 1KI.8.27
+    marker-yv: yv-n
+  - type: text
+    text: highest heavens,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and you '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 1:7
+      metadata:
+        usfm: GEN.1.7
+    marker-yv: yv-n
+  - type: text
+    text: waters above the heavens!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '13'
+      metadata:
+        usfm: PSA.148.13
+    marker-yv: yv-n
+  - type: text
+    text: 'Let them praise the name of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: '!'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'For '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 33:6
+      metadata:
+        usfm: PSA.33.6
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '9'
+      metadata:
+        usfm: PSA.33.9
+    marker-yv: yv-n
+  - type: text
+    text: he commanded and they were created.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'And he '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 119:90
+      metadata:
+        usfm: PSA.119.90
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '91'
+      metadata:
+        usfm: PSA.119.91
+    marker-yv: yv-n
+  - type: text
+    text: established them forever and ever;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'he gave '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 28:26
+      metadata:
+        usfm: JOB.28.26
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 31:35
+      metadata:
+        usfm: JER.31.35
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '36'
+      metadata:
+        usfm: JER.31.36
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 33:25
+      metadata:
+        usfm: JER.33.25
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'a decree, and it shall not '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 104:9
+      metadata:
+        usfm: PSA.104.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Esth. 1:19
+      metadata:
+        usfm: EST.1.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 14:5
+      metadata:
+        usfm: JOB.14.5
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: pass away.
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '148:6 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: it shall not be transgressed
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'Praise the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '1'
+      metadata:
+        usfm: PSA.148.1
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: from the earth,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'you '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 1:21
+      metadata:
+        usfm: GEN.1.21
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']; See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 74:13
+      metadata:
+        usfm: PSA.74.13
+    marker-yv: yv-n
+  - type: text
+    text: great sea creatures and all deeps,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 18:12
+      metadata:
+        usfm: PSA.18.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 105:32
+      metadata:
+        usfm: PSA.105.32
+    marker-yv: yv-n
+  - type: text
+    text: 'fire and hail, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 147:16
+      metadata:
+        usfm: PSA.147.16
+    marker-yv: yv-n
+  - type: text
+    text: snow and mist,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 107:25
+      metadata:
+        usfm: PSA.107.25
+    marker-yv: yv-n
+  - type: text
+    text: 'stormy wind '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 103:20
+      metadata:
+        usfm: PSA.103.20
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 147:15-18
+      metadata:
+        usfm: PSA.147.15+PSA.147.16+PSA.147.17+PSA.147.18
+    marker-yv: yv-n
+  - type: text
+    text: fulfilling his word!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 44:23
+      metadata:
+        usfm: ISA.44.23
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 49:13
+      metadata:
+        usfm: ISA.49.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 55:12
+      metadata:
+        usfm: ISA.55.12
+    marker-yv: yv-n
+  - type: text
+    text: Mountains and all hills,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 1:11
+      metadata:
+        usfm: GEN.1.11
+    marker-yv: yv-n
+  - type: text
+    text: 'fruit trees and all '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 104:16
+      metadata:
+        usfm: PSA.104.16
+    marker-yv: yv-n
+  - type: text
+    text: cedars!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 1:24
+      metadata:
+        usfm: GEN.1.24
+    marker-yv: yv-n
+  - type: text
+    text: Beasts and all livestock,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'creeping things and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 1:20
+      metadata:
+        usfm: GEN.1.20
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '21'
+      metadata:
+        usfm: GEN.1.21
+    marker-yv: yv-n
+  - type: text
+    text: flying birds!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'Kings of the earth and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rev. 7:9
+      metadata:
+        usfm: REV.7.9
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: all peoples,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: princes and all rulers of the earth!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: Young men and maidens together,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: old men and children!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '5'
+      metadata:
+        usfm: PSA.148.5
+    marker-yv: yv-n
+  - type: text
+    text: 'Let them praise the name of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ','
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'for '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 8:1
+      metadata:
+        usfm: PSA.8.1
+    marker-yv: yv-n
+  - type: text
+    text: his name alone is exalted;
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 113:4
+      metadata:
+        usfm: PSA.113.4
+    marker-yv: yv-n
+  - type: text
+    text: his majesty is above earth and heaven.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: 'He has '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Sam. 2:1
+      metadata:
+        usfm: 1SA.2.1
+    marker-yv: yv-n
+  - type: text
+    text: raised up a horn for his people,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 44:23
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 49:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 55:12
-      marker-yv: yv-n
+        text: Deut. 10:21
+      metadata:
+        usfm: DEU.10.21
     - type: text
-      text: Mountains and all hills,
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 17:14
+      metadata:
+        usfm: JER.17.14
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: praise for all his saints,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'for the people of Israel who are '
   - type: usfm
-    marker: q2
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 1:11
-      marker-yv: yv-n
+      - type: text
+        text: Deut. 4:7
+      metadata:
+        usfm: DEU.4.7
     - type: text
-      text: 'fruit trees and all '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 104:16
-      marker-yv: yv-n
+      - type: text
+        text: Eph. 2:17
+      metadata:
+        usfm: EPH.2.17
+    marker-yv: yv-n
+  - type: text
+    text: near to him.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 135:1
+      metadata:
+        usfm: PSA.135.1
+    marker-yv: yv-n
+  - type: text
+    text: 'Praise the '
+  - type: usfm
+    marker: nd
+    children:
     - type: text
-      text: cedars!
+      text: Lord
+  - type: text
+    text: '!'

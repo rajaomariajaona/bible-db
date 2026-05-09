@@ -1,516 +1,416 @@
-document_id: NUM.5,21
+document_id: NUM.5
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: ms1
+  children:
+  - type: text
+    text: Lois rituelles diverses
+  marker-yv: yv-h
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Les personnes en état d’impureté
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: ms1
+    marker: vlbl
     children:
     - type: text
-      text: Lois rituelles diverses
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'L’Eternel parla à Moïse et dit : '
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Les personnes en état d’impureté
-    marker-yv: yv-h
+      text: '2'
+  - type: text
+    text: 'Ordonne aux Israélites de renvoyer du camp tous ceux qui ont une maladie de peau à caractère évolutif ou une gonorrhée, ainsi que tous ceux qui se sont rendus rituellement impurs par le contact d’un cadavre. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: Vous renverrez les hommes comme les femmes et vous les reléguerez à l’extérieur du camp pour qu’ils ne rendent pas impur leur camp au milieu duquel j’habite
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: 'L’Eternel parla à Moïse et dit : '
-  '10':
-  - type: usfm
-    marker: p
-    children:
+        text: '5.3 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: 'Chaque prêtre pourra disposer des choses saintes qu’on lui donnera : elles lui appartiennent'
-    - type: usfm
-      marker: f
-      children:
+        text: 'Voir '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '5.10 '
+          text: Lv 13.46
+        metadata:
+          usfm: LEV.13.46
+      - type: text
+        text: .
+    marker-yv: yv-n
+  - type: text
+    text: .
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: Les Israélites obéirent, et renvoyèrent ces gens à l’extérieur du camp, comme l’Eternel l’avait ordonné à Moïse.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: La réparation pour une faute commise envers un tiers
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: L’Eternel parla à Moïse en ces termes
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '5.5 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Pour les v. 5-8, voir '
       - type: usfm
-        marker: ft
+        marker: ref
         children:
         - type: text
-          text: 'Autre traduction : '
+          text: Lv 5.20-26
+        metadata:
+          usfm: LEV.5.20+LEV.5.21+LEV.5.22+LEV.5.23+LEV.5.24+LEV.5.25+LEV.5.26
+      - type: text
+        text: .
+    marker-yv: yv-n
+  - type: text
+    text: '  : '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'Dis aux Israélites : Si un homme ou une femme cause du tort à quelqu’un d’autre, il se rend infidèle à l’égard de l’Eternel et doit être tenu pour coupable. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'Il avouera le péché qu’il a commis et restituera à la personne à qui il a causé du tort ce dont il l’a lésé en y ajoutant un cinquième de sa valeur. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'Si la personne lésée est décédée et n’a pas d’héritier pour recevoir réparation, tout ceci sera donné à l’Eternel, c’est-à-dire au prêtre, en plus du bélier expiatoire par lequel le prêtre accomplira le rite d’expiation pour le coupable. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'Tout don spécial prélevé sur les choses saintes que les Israélites présenteront au prêtre, appartiendra à celui-ci. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'Chaque prêtre pourra disposer des choses saintes qu’on lui donnera : elles lui appartiennent'
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '5.10 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Autre traduction : '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: les choses saintes de chacun sont à lui, mais ce qu’on donne au prêtre appartient au prêtre.
+    marker-yv: yv-n
+  - type: text
+    text: .
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: La femme soupçonnée d’infidélité
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'L’Eternel parla à Moïse en ces termes : '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'Dis aux Israélites : Voici ce que vous ferez si une femme trompe son mari et lui est infidèle ; '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'si un autre homme a couché avec elle sans que son mari en ait la certitude parce que cela s’est fait en cachette, et qu’il n’y a aucun témoin pour déposer contre elle et sans qu’elle ait été surprise en flagrant délit. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: 'Lorsque la jalousie s’emparera de son mari et qu’il soupçonne sa femme – qu’elle se soit effectivement rendue impure ou non – '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: 'il la fera comparaître devant le prêtre et présentera pour elle trois kilogrammes de farine d’orge en offrande ; il n’y versera pas d’huile, et n’y mettra pas d’encens, car c’est une offrande de jalousie, une offrande qui rappelle le souvenir d’une faute. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'Le prêtre fera approcher la femme et elle se tiendra devant l’Eternel. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'Il puisera de l’eau consacrée dans un vase de terre cuite, puis il prendra de la poussière sur l’enceinte du tabernacle pour la mettre dans l’eau. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: Il placera la femme debout devant l’Eternel, lui dénouera la chevelure
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '5.18 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'En signe d’humiliation (cf. les gestes de deuil, '
       - type: usfm
-        marker: fqa
+        marker: ref
         children:
         - type: text
-          text: les choses saintes de chacun sont à lui, mais ce qu’on donne au prêtre appartient au prêtre.
-      marker-yv: yv-n
-    - type: text
-      text: .
+          text: Lv 10.6
+        metadata:
+          usfm: LEV.10.6
+      - type: text
+        text: ).
+    marker-yv: yv-n
+  - type: text
+    text: ' et lui remettra entre les mains l’offrande rappelant la faute, c’est-à-dire l’offrande de jalousie, mais lui-même gardera en main l’eau amère'
   - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: La femme soupçonnée d’infidélité
-    marker-yv: yv-h
-  '11':
-  - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '11'
-    - type: text
-      text: 'L’Eternel parla à Moïse en ces termes : '
-  '12':
-  - type: usfm
-    marker: p
-    children:
+        text: '5.18 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '12'
-    - type: text
-      text: 'Dis aux Israélites : Voici ce que vous ferez si une femme trompe son mari et lui est infidèle ; '
-  '13':
+        text: L’eau consacrée additionnée de poussière et servant à découvrir le coupable.
+    marker-yv: yv-n
+  - type: text
+    text: ' qui porte la malédiction. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: 'Ensuite, il fera prêter serment à la femme en lui disant : « Si un autre homme n’a pas couché avec toi et que tu ne t’es pas rendue impure en trompant ton mari depuis que tu es mariée, alors que cette eau amère qui porte la malédiction ne te fasse encourir aucun châtiment ! '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: text
+    text: 'Mais si, au contraire, étant mariée, tu as trompé ton mari et si tu t’es rendue impure en partageant la couche d’un autre homme », '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: text
+    text: 'tu jures de prendre sur toi les imprécations suivantes : « Que l’Eternel te livre à la malédiction et à l’exécration au milieu de ton peuple ! Qu’il fasse dépérir tes cuisses'
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '13'
-    - type: text
-      text: 'si un autre homme a couché avec elle sans que son mari en ait la certitude parce que cela s’est fait en cachette, et qu’il n’y a aucun témoin pour déposer contre elle et sans qu’elle ait été surprise en flagrant délit. '
-  '14':
-  - type: usfm
-    marker: p
-    children:
+        text: '5.21 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '14'
-    - type: text
-      text: 'Lorsque la jalousie s’emparera de son mari et qu’il soupçonne sa femme – qu’elle se soit effectivement rendue impure ou non – '
-  '15':
-  - type: usfm
-    marker: p
-    children:
+        text: 'Certains traduisent : '
     - type: usfm
-      marker: vlbl
+      marker: fqa
       children:
       - type: text
-        text: '15'
-    - type: text
-      text: 'il la fera comparaître devant le prêtre et présentera pour elle trois kilogrammes de farine d’orge en offrande ; il n’y versera pas d’huile, et n’y mettra pas d’encens, car c’est une offrande de jalousie, une offrande qui rappelle le souvenir d’une faute. '
-  '16':
+        text: te rende stérile.
+    marker-yv: yv-n
+  - type: text
+    text: ' et enfler ton ventre, '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: 'que ces eaux de malédiction pénétrant en toi produisent cet effet ! » La femme répondra : « Oui, qu’il en soit ainsi ! »'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: text
+    text: 'Le prêtre mettra ces imprécations par écrit et les dissoudra dans l’eau amère. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '24'
+  - type: text
+    text: 'Puis il fera boire cette eau amère et porteuse de malédiction à la femme et l’eau pénétrera en elle. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '25'
+  - type: text
+    text: 'Le prêtre prendra des mains de la femme l’offrande de jalousie avec laquelle il fera le geste de présentation devant l’Eternel, et l’apportera à l’autel ; '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '26'
+  - type: text
+    text: 'il en prendra une pleine poignée comme mémorial, et la fera brûler sur l’autel ; après cela, il fera boire l’eau à la femme. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '27'
+  - type: text
+    text: 'Si elle s’est effectivement rendue impure en étant infidèle à son mari, il arrivera que l’eau porteuse de malédiction pénétrera en elle pour y produire l’amertume : son ventre enflera et sa cuisse dépérira'
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '16'
-    - type: text
-      text: 'Le prêtre fera approcher la femme et elle se tiendra devant l’Eternel. '
-  '17':
-  - type: usfm
-    marker: p
-    children:
+        text: '5.27 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '17'
-    - type: text
-      text: 'Il puisera de l’eau consacrée dans un vase de terre cuite, puis il prendra de la poussière sur l’enceinte du tabernacle pour la mettre dans l’eau. '
-  '18':
-  - type: usfm
-    marker: p
-    children:
+        text: 'Certains traduisent : '
     - type: usfm
-      marker: vlbl
+      marker: fqa
       children:
       - type: text
-        text: '18'
-    - type: text
-      text: Il placera la femme debout devant l’Eternel, lui dénouera la chevelure
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5.18 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'En signe d’humiliation (cf. les gestes de deuil, '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Lv 10.6
-        - type: text
-          text: ).
-      marker-yv: yv-n
-    - type: text
-      text: ' et lui remettra entre les mains l’offrande rappelant la faute, c’est-à-dire l’offrande de jalousie, mais lui-même gardera en main l’eau amère'
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5.18 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: L’eau consacrée additionnée de poussière et servant à découvrir le coupable.
-      marker-yv: yv-n
-    - type: text
-      text: ' qui porte la malédiction. '
-  '19':
+        text: elle deviendra stérile.
+    marker-yv: yv-n
+  - type: text
+    text: ', et cette femme sera maudite au milieu de son peuple. '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: text
-      text: 'Ensuite, il fera prêter serment à la femme en lui disant : « Si un autre homme n’a pas couché avec toi et que tu ne t’es pas rendue impure en trompant ton mari depuis que tu es mariée, alors que cette eau amère qui porte la malédiction ne te fasse encourir aucun châtiment ! '
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'Ordonne aux Israélites de renvoyer du camp tous ceux qui ont une maladie de peau à caractère évolutif ou une gonorrhée, ainsi que tous ceux qui se sont rendus rituellement impurs par le contact d’un cadavre. '
-  '20':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '20'
-    - type: text
-      text: 'Mais si, au contraire, étant mariée, tu as trompé ton mari et si tu t’es rendue impure en partageant la couche d’un autre homme », '
-  '21':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '21'
-    - type: text
-      text: 'tu jures de prendre sur toi les imprécations suivantes : « Que l’Eternel te livre à la malédiction et à l’exécration au milieu de ton peuple ! Qu’il fasse dépérir tes cuisses'
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5.21 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Certains traduisent : '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: te rende stérile.
-      marker-yv: yv-n
-    - type: text
-      text: ' et enfler ton ventre, '
-  '22':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '22'
-    - type: text
-      text: 'que ces eaux de malédiction pénétrant en toi produisent cet effet ! » La femme répondra : « Oui, qu’il en soit ainsi ! »'
-  '23':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '23'
-    - type: text
-      text: 'Le prêtre mettra ces imprécations par écrit et les dissoudra dans l’eau amère. '
-  '24':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '24'
-    - type: text
-      text: 'Puis il fera boire cette eau amère et porteuse de malédiction à la femme et l’eau pénétrera en elle. '
-  '25':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '25'
-    - type: text
-      text: 'Le prêtre prendra des mains de la femme l’offrande de jalousie avec laquelle il fera le geste de présentation devant l’Eternel, et l’apportera à l’autel ; '
-  '26':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '26'
-    - type: text
-      text: 'il en prendra une pleine poignée comme mémorial, et la fera brûler sur l’autel ; après cela, il fera boire l’eau à la femme. '
-  '27':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '27'
-    - type: text
-      text: 'Si elle s’est effectivement rendue impure en étant infidèle à son mari, il arrivera que l’eau porteuse de malédiction pénétrera en elle pour y produire l’amertume : son ventre enflera et sa cuisse dépérira'
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5.27 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Certains traduisent : '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: elle deviendra stérile.
-      marker-yv: yv-n
-    - type: text
-      text: ', et cette femme sera maudite au milieu de son peuple. '
-  '28':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '28'
-    - type: text
-      text: Mais si la femme ne s’est pas rendue impure, si elle est vraiment pure, elle n’éprouvera aucun mal et pourra encore avoir des enfants.
-  '29':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '29'
-    - type: text
-      text: 'Telle est la loi concernant la jalousie quand une femme mariée trompe son mari et se rend impure, '
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: Vous renverrez les hommes comme les femmes et vous les reléguerez à l’extérieur du camp pour qu’ils ne rendent pas impur leur camp au milieu duquel j’habite
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5.3 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Voir '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Lv 13.46
-        - type: text
-          text: .
-      marker-yv: yv-n
-    - type: text
-      text: .
-  '30':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '30'
-    - type: text
-      text: 'ou quand la jalousie s’empare d’un homme et qu’il soupçonne sa femme d’infidélité : il la fera comparaître devant l’Eternel, et le prêtre lui appliquera intégralement cette loi. '
-  '31':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '31'
-    - type: text
-      text: Le mari sera alors tenu pour innocent de la faute et c’est la femme qui en portera la responsabilité.
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: Les Israélites obéirent, et renvoyèrent ces gens à l’extérieur du camp, comme l’Eternel l’avait ordonné à Moïse.
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: La réparation pour une faute commise envers un tiers
-    marker-yv: yv-h
-  '5':
+      text: '28'
+  - type: text
+    text: Mais si la femme ne s’est pas rendue impure, si elle est vraiment pure, elle n’éprouvera aucun mal et pourra encore avoir des enfants.
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
     - type: text
-      text: L’Eternel parla à Moïse en ces termes
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5.5 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Pour les v. 5-8, voir '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Lv 5.20-26
-        - type: text
-          text: .
-      marker-yv: yv-n
-    - type: text
-      text: '  : '
-  '6':
+      text: '29'
+  - type: text
+    text: 'Telle est la loi concernant la jalousie quand une femme mariée trompe son mari et se rend impure, '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
     - type: text
-      text: 'Dis aux Israélites : Si un homme ou une femme cause du tort à quelqu’un d’autre, il se rend infidèle à l’égard de l’Eternel et doit être tenu pour coupable. '
-  '7':
+      text: '30'
+  - type: text
+    text: 'ou quand la jalousie s’empare d’un homme et qu’il soupçonne sa femme d’infidélité : il la fera comparaître devant l’Eternel, et le prêtre lui appliquera intégralement cette loi. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
     - type: text
-      text: 'Il avouera le péché qu’il a commis et restituera à la personne à qui il a causé du tort ce dont il l’a lésé en y ajoutant un cinquième de sa valeur. '
-  '8':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: 'Si la personne lésée est décédée et n’a pas d’héritier pour recevoir réparation, tout ceci sera donné à l’Eternel, c’est-à-dire au prêtre, en plus du bélier expiatoire par lequel le prêtre accomplira le rite d’expiation pour le coupable. '
-  '9':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: 'Tout don spécial prélevé sur les choses saintes que les Israélites présenteront au prêtre, appartiendra à celui-ci. '
+      text: '31'
+  - type: text
+    text: Le mari sera alors tenu pour innocent de la faute et c’est la femme qui en portera la responsabilité.

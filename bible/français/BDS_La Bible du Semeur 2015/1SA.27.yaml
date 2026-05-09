@@ -1,205 +1,187 @@
-document_id: 1SA.27,21
+document_id: 1SA.27
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: David se réfugie de nouveau chez les Philistins
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: David se réfugie de nouveau chez les Philistins
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'David réfléchit et se dit : Un jour ou l’autre, Saül finira bien par me tuer. Ce que j’ai de mieux à faire, c’est de m’enfuir pour de bon et de me réfugier au pays des Philistins, pour qu’il renonce à me traquer dans tout le territoire d’Israël ; ainsi j’échapperai à son emprise. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: 2-3
+  - type: text
+    text: 'Là-dessus, David se mit en route avec ses deux femmes, Ahinoam de Jizréel et Abigaïl, femme de Nabal de Karmel, ainsi qu’avec ses six cents hommes et leurs familles ; ils se rendirent chez Akish, fils de Maok, roi de Gath, et s’établirent là. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: On informa Saül que David s’était enfui à Gath et il cessa de le poursuivre.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'David dit à Akish : Si tu acceptes de me faire une faveur, autorise-moi à m’installer dans un village quelconque de la campagne. Il n’y a pas de raison pour que ton serviteur réside dans la ville royale avec toi.'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'Alors Akish lui attribua ce même jour Tsiqlag. C’est pourquoi Tsiqlag a appartenu jusqu’à ce jour aux rois de Juda. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: David demeura un an et quatre mois en Philistie.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Les razzias de David
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'Pendant ce temps, il faisait avec ses hommes des razzias, tour à tour, chez les Gueshouriens, les Guizriens et les Amalécites, des peuplades qui habitaient depuis très longtemps dans le pays qui s’étend en direction de Shour jusqu’à la frontière de l’Egypte. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: David ravageait cette contrée et ne laissait en vie ni homme ni femme ; il ramenait brebis, chèvres et bœufs, ânes, chameaux et vêtements et, à son retour, se rendait chez Akish.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'Quand Akish lui demandait : Où avez-vous fait votre razzia cette fois-ci ?'
+- type: usfm
+  marker: p
+  children:
+  - type: text
+    text: 'David répondait : Dans le sud de Juda. Ou : Dans la partie sud du territoire des Yerahmeélites ou des Qéniens'
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: 'David réfléchit et se dit : Un jour ou l’autre, Saül finira bien par me tuer. Ce que j’ai de mieux à faire, c’est de m’enfuir pour de bon et de me réfugier au pays des Philistins, pour qu’il renonce à me traquer dans tout le territoire d’Israël ; ainsi j’échapperai à son emprise. '
-  '10':
-  - type: usfm
-    marker: p
-    children:
+        text: '27.10 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: 'Quand Akish lui demandait : Où avez-vous fait votre razzia cette fois-ci ?'
-  - type: usfm
-    marker: p
-    children:
-    - type: text
-      text: 'David répondait : Dans le sud de Juda. Ou : Dans la partie sud du territoire des Yerahmeélites ou des Qéniens'
-    - type: usfm
-      marker: f
-      children:
+        text: 'D’après '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '27.10 '
+          text: 1 Ch 2.9
+        metadata:
+          usfm: 1CH.2.9
+      - type: text
+        text: ', '
       - type: usfm
-        marker: ft
+        marker: ref
         children:
         - type: text
-          text: 'D’après '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: 1 Ch 2.9
-        - type: text
-          text: ', '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: '25'
-        - type: text
-          text: ', '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: '26'
-        - type: text
-          text: ', les '
+          text: '25'
+        metadata:
+          usfm: 1CH.2.25
+      - type: text
+        text: ', '
       - type: usfm
-        marker: fqa
+        marker: ref
         children:
         - type: text
-          text: 'Yerahmeélites '
+          text: '26'
+        metadata:
+          usfm: 1CH.2.26
+      - type: text
+        text: ', les '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: 'Yerahmeélites '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'étaient des descendants de Juda par Hetsrôn. Pour les '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: 'Qéniens, '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'voir '
       - type: usfm
-        marker: ft
+        marker: ref
         children:
         - type: text
-          text: 'étaient des descendants de Juda par Hetsrôn. Pour les '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'Qéniens, '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'voir '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Jg 4.11
-        - type: text
-          text: ' et note.'
-      marker-yv: yv-n
-    - type: text
-      text: .
-  '11':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
+          text: Jg 4.11
+        metadata:
+          usfm: JDG.4.11
       - type: text
-        text: '11'
-    - type: text
-      text: 'Il ne laissait pas de survivant pour ne pas avoir à les amener à Gath, afin qu’ils ne rapportent pas les agissements de David. David suivit cette ligne de conduite pendant tout le temps qu’il séjourna en territoire philistin. '
-  '12':
+        text: ' et note.'
+    marker-yv: yv-n
+  - type: text
+    text: .
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '12'
-    - type: text
-      text: 'Akish comptait de plus en plus sur David, car il se disait : Il s’est sûrement attiré la haine d’Israël, son peuple, et il restera pour toujours à mon service.'
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: 2-3
-    - type: text
-      text: 'Là-dessus, David se mit en route avec ses deux femmes, Ahinoam de Jizréel et Abigaïl, femme de Nabal de Karmel, ainsi qu’avec ses six cents hommes et leurs familles ; ils se rendirent chez Akish, fils de Maok, roi de Gath, et s’établirent là. '
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: On informa Saül que David s’était enfui à Gath et il cessa de le poursuivre.
-  '5':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: 'David dit à Akish : Si tu acceptes de me faire une faveur, autorise-moi à m’installer dans un village quelconque de la campagne. Il n’y a pas de raison pour que ton serviteur réside dans la ville royale avec toi.'
-  '6':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'Alors Akish lui attribua ce même jour Tsiqlag. C’est pourquoi Tsiqlag a appartenu jusqu’à ce jour aux rois de Juda. '
-  '7':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: David demeura un an et quatre mois en Philistie.
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Les razzias de David
-    marker-yv: yv-h
-  '8':
+      text: '11'
+  - type: text
+    text: 'Il ne laissait pas de survivant pour ne pas avoir à les amener à Gath, afin qu’ils ne rapportent pas les agissements de David. David suivit cette ligne de conduite pendant tout le temps qu’il séjourna en territoire philistin. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
     - type: text
-      text: 'Pendant ce temps, il faisait avec ses hommes des razzias, tour à tour, chez les Gueshouriens, les Guizriens et les Amalécites, des peuplades qui habitaient depuis très longtemps dans le pays qui s’étend en direction de Shour jusqu’à la frontière de l’Egypte. '
-  '9':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: David ravageait cette contrée et ne laissait en vie ni homme ni femme ; il ramenait brebis, chèvres et bœufs, ânes, chameaux et vêtements et, à son retour, se rendait chez Akish.
+      text: '12'
+  - type: text
+    text: 'Akish comptait de plus en plus sur David, car il se disait : Il s’est sûrement attiré la haine d’Israël, son peuple, et il restera pour toujours à mon service.'

@@ -1,985 +1,1087 @@
-document_id: PSA.42,59
+document_id: PSA.42
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: ms1
+  children:
+  - type: text
+    text: Book Two
+  marker-yv: yv-h
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Why Are You Cast Down, O My Soul?
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: To the choirmaster. A Maskil
   - type: usfm
-    marker: ms1
-    children:
-    - type: text
-      text: Book Two
-    marker-yv: yv-h
-  - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Why Are You Cast Down, O My Soul?
-    marker-yv: yv-h
-  - type: usfm
-    marker: d
-    children:
-    - type: text
-      text: To the choirmaster. A Maskil
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '42:1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: Probably a musical or liturgical term
-      marker-yv: yv-n
-    - type: text
-      text: ' of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Chr. 6:33
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '37'
-      marker-yv: yv-n
-    - type: text
-      text: the Sons of Korah.
-  - type: usfm
-    marker: q1
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
+        text: '42:1 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: Probably a musical or liturgical term
+    marker-yv: yv-n
+  - type: text
+    text: ' of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Chr. 6:33
+      metadata:
+        usfm: 1CH.6.33
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '37'
+      metadata:
+        usfm: 1CH.6.37
+    marker-yv: yv-n
+  - type: text
+    text: the Sons of Korah.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '1'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
       - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Joel 1:20
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: Joel 1:20
+      metadata:
+        usfm: JOL.1.20
     - type: text
-      text: As a deer pants for flowing streams,
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: As a deer pants for flowing streams,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: so pants my soul for you, O God.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: so pants my soul for you, O God.
-  '10':
+      text: '2'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 63:1
+      metadata:
+        usfm: PSA.63.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 7:37
+      metadata:
+        usfm: JHN.7.37
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 41:17
+      metadata:
+        usfm: ISA.41.17
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 55:1
+      metadata:
+        usfm: ISA.55.1
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']; See Ps. 84:2'
+    marker-yv: yv-n
+  - type: text
+    text: My soul thirsts for God,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'for '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 84:2
+      metadata:
+        usfm: PSA.84.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Josh. 3:10
+      metadata:
+        usfm: JOS.3.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Dan. 6:26
+      metadata:
+        usfm: DAN.6.26
+    marker-yv: yv-n
+  - type: text
+    text: the living God.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'When shall I come and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 84:7
+      metadata:
+        usfm: PSA.84.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 23:17
+      metadata:
+        usfm: EXO.23.17
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: appear before God?
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '42:2 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Revocalization yields '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: and see the face of God
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 80:5
+      metadata:
+        usfm: PSA.80.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 102:9
+      metadata:
+        usfm: PSA.102.9
+    marker-yv: yv-n
+  - type: text
+    text: My tears have been my food
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: day and night,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '10'
+      metadata:
+        usfm: PSA.42.10
     - type: text
-      text: As with a deadly wound in my bones,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: my adversaries taunt me,
-  - type: usfm
-    marker: q1
-    children:
+      text: ' ; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '3'
-      marker-yv: yv-n
+      - type: text
+        text: Ps. 79:10
+      metadata:
+        usfm: PSA.79.10
     - type: text
-      text: while they say to me all the day long,
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 115:2
+      metadata:
+        usfm: PSA.115.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Joel 2:17
+      metadata:
+        usfm: JOL.2.17
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mic. 7:10
+      metadata:
+        usfm: MIC.7.10
+    marker-yv: yv-n
+  - type: text
+    text: while they say to me all the day long,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: “Where is your God?”
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: “Where is your God?”
-  '11':
+      text: '4'
+  - type: text
+    text: These things I remember,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'as I '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 62:8
+      metadata:
+        usfm: PSA.62.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Sam. 1:15
+      metadata:
+        usfm: 1SA.1.15
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 30:16
+      metadata:
+        usfm: JOB.30.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lam. 2:19
+      metadata:
+        usfm: LAM.2.19
+    marker-yv: yv-n
+  - type: text
+    text: 'pour out my soul:'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 30:29
+      metadata:
+        usfm: ISA.30.29
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'how I would go '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 55:14
+      metadata:
+        usfm: PSA.55.14
+    marker-yv: yv-n
+  - type: text
+    text: with the throng
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and lead them in procession to the house of God
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: with glad shouts and songs of praise,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Sam. 6:15
+      metadata:
+        usfm: 2SA.6.15
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: a multitude keeping festival.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '11'
+      metadata:
+        usfm: PSA.42.11
     - type: text
-      text: ' '
+      text: ' ; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '5'
-      marker-yv: yv-n
-    - type: text
-      text: Why are you cast down, O my soul,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and why are you in turmoil within me?
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Hope in God; for I shall again praise him,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: my salvation and my God.
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '2'
+        text: Ps. 43:5
+      metadata:
+        usfm: PSA.43.5
     - type: text
-      text: ' '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 63:1
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 7:37
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 41:17
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 55:1
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']; See Ps. 84:2'
-      marker-yv: yv-n
+        text: Matt. 26:38
+      metadata:
+        usfm: MAT.26.38
     - type: text
-      text: My soul thirsts for God,
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 12:27
+      metadata:
+        usfm: JHN.12.27
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Why are you cast down, O my soul,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and why are you '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'for '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 84:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Josh. 3:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Dan. 6:26
-      marker-yv: yv-n
-    - type: text
-      text: the living God.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'When shall I come and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 84:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 23:17
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: appear before God?
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '42:2 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Revocalization yields '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: and see the face of God
-      marker-yv: yv-n
-  '3':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 77:3
+      metadata:
+        usfm: PSA.77.3
+    marker-yv: yv-n
+  - type: text
+    text: in turmoil within me?
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lam. 3:24
+      metadata:
+        usfm: LAM.3.24
+    marker-yv: yv-n
+  - type: text
+    text: Hope in God; for I shall again praise him,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: my salvation
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '42:5 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Hebrew '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: the salvation of my face
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: ; also verse 11 and 43:5
+    marker-yv: yv-n
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: and my God.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: My soul is cast down within me;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'therefore I '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jonah 2:7
+      metadata:
+        usfm: JON.2.7
+    marker-yv: yv-n
+  - type: text
+    text: remember you
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Sam. 17:22
+      metadata:
+        usfm: 2SA.17.22
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '24'
+      metadata:
+        usfm: 2SA.17.24
+    marker-yv: yv-n
+  - type: text
+    text: 'from the land of Jordan and of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 3:9
+      metadata:
+        usfm: DEU.3.9
+    marker-yv: yv-n
+  - type: text
+    text: Hermon,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: from Mount Mizar.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: Deep calls to deep
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: at the roar of your waterfalls;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jonah 2:3
+      metadata:
+        usfm: JON.2.3
+    marker-yv: yv-n
+  - type: text
+    text: 'all your breakers and your '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 88:7
+      metadata:
+        usfm: PSA.88.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 32:6
+      metadata:
+        usfm: PSA.32.6
+    marker-yv: yv-n
+  - type: text
+    text: waves
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: have gone over me.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'By day the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 44:4
+      metadata:
+        usfm: PSA.44.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 68:28
+      metadata:
+        usfm: PSA.68.28
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 71:3
+      metadata:
+        usfm: PSA.71.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 133:3
+      metadata:
+        usfm: PSA.133.3
+    marker-yv: yv-n
+  - type: text
+    text: commands his steadfast love,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and at '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 35:10
+      metadata:
+        usfm: JOB.35.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 4:4
+      metadata:
+        usfm: PSA.4.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 16:7
+      metadata:
+        usfm: PSA.16.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 63:6
+      metadata:
+        usfm: PSA.63.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 77:6
+      metadata:
+        usfm: PSA.77.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 119:55
+      metadata:
+        usfm: PSA.119.55
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '62'
+      metadata:
+        usfm: PSA.119.62
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '148'
+      metadata:
+        usfm: PSA.119.148
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 149:5
+      metadata:
+        usfm: PSA.149.5
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: night his song is with me,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: a prayer to the God of my life.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'I say to God, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 18:2
+      metadata:
+        usfm: PSA.18.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Sam. 22:2
+      metadata:
+        usfm: 2SA.22.2
+    marker-yv: yv-n
+  - type: text
+    text: 'my rock:'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: “Why have you forgotten me?
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 38:6
+      metadata:
+        usfm: PSA.38.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 43:2
+      metadata:
+        usfm: PSA.43.2
+    marker-yv: yv-n
+  - type: text
+    text: Why do I go mourning
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: because of the oppression of the enemy?”
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: As with a deadly wound in my bones,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: my adversaries taunt me,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '3'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 80:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 102:9
-      marker-yv: yv-n
-    - type: text
-      text: My tears have been my food
+      metadata:
+        usfm: PSA.3
+    marker-yv: yv-n
+  - type: text
+    text: while they say to me all the day long,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: “Where is your God?”
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: day and night,
+      text: '11'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '10'
-      - type: text
-        text: ' ; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 79:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 115:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Joel 2:17
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mic. 7:10
-      marker-yv: yv-n
-    - type: text
-      text: while they say to me all the day long,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: “Where is your God?”
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '4'
-    - type: text
-      text: These things I remember,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'as I '
+        text: 'See '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 62:8
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Sam. 1:15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 30:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lam. 2:19
-      marker-yv: yv-n
-    - type: text
-      text: 'pour out my soul:'
-  - type: usfm
-    marker: q1
-    children:
+        text: 'ver. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 30:29
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'how I would go '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 55:14
-      marker-yv: yv-n
-    - type: text
-      text: with the throng
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and lead them in procession to the house of God
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: with glad shouts and songs of praise,
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Sam. 6:15
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: a multitude keeping festival.
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '5'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '11'
-      - type: text
-        text: ' ; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 43:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 26:38
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 12:27
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: Why are you cast down, O my soul,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and why are you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 77:3
-      marker-yv: yv-n
-    - type: text
-      text: in turmoil within me?
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lam. 3:24
-      marker-yv: yv-n
-    - type: text
-      text: Hope in God; for I shall again praise him,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: my salvation
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '42:5 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Hebrew '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: the salvation of my face
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ; also verse 11 and 43:5
-      marker-yv: yv-n
-    - type: text
-      text: ' '
-  '6':
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: and my God.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: My soul is cast down within me;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'therefore I '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jonah 2:7
-      marker-yv: yv-n
-    - type: text
-      text: remember you
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Sam. 17:22
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '24'
-      marker-yv: yv-n
-    - type: text
-      text: 'from the land of Jordan and of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 3:9
-      marker-yv: yv-n
-    - type: text
-      text: Hermon,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: from Mount Mizar.
-  '7':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: Deep calls to deep
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: at the roar of your waterfalls;
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jonah 2:3
-      marker-yv: yv-n
-    - type: text
-      text: 'all your breakers and your '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 88:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 32:6
-      marker-yv: yv-n
-    - type: text
-      text: waves
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: have gone over me.
-  '8':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: 'By day the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 44:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 68:28
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 71:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 133:3
-      marker-yv: yv-n
-    - type: text
-      text: commands his steadfast love,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and at '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 35:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 4:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 16:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 63:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 77:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 119:55
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '62'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '148'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 149:5
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: night his song is with me,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: a prayer to the God of my life.
-  '9':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: 'I say to God, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 18:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Sam. 22:2
-      marker-yv: yv-n
-    - type: text
-      text: 'my rock:'
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: “Why have you forgotten me?
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 38:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 43:2
-      marker-yv: yv-n
-    - type: text
-      text: Why do I go mourning
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: because of the oppression of the enemy?”
+      metadata:
+        usfm: PSA.5
+    marker-yv: yv-n
+  - type: text
+    text: Why are you cast down, O my soul,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and why are you in turmoil within me?
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Hope in God; for I shall again praise him,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: my salvation and my God.

@@ -1,298 +1,321 @@
-document_id: PSA.110,152
+document_id: PSA.110
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Le Messie, roi et prêtre
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Le Messie, roi et prêtre
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: Psaume de David.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: '*L''Eternel a déclaré à mon Seigneur:'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: «Assieds-toi à ma droite
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: jusqu'à ce que j'aie fait de tes ennemis ton marchepied.»
   - type: usfm
-    marker: d
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: Psaume de David.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: '*L''Eternel a déclaré à mon Seigneur:'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: «Assieds-toi à ma droite
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: jusqu'à ce que j'aie fait de tes ennemis ton marchepied.»
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '110.1 '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'L''Eternel… marchepied: '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: cité à de multiples reprises dans le Nouveau Testament en rapport avec Christ (
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matthieu 22.44
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '26.64'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Marc 12.36
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '14.62'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luc 20.42-43
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '22.69'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Actes 2.34-35
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Corinthiens 15.25
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hébreux 1.13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '5.6'
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ; etc.).
-      marker-yv: yv-n
-  '2':
-  - type: usfm
-    marker: q1
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '2'
+        text: '110.1 '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: 'L''Eternel… marchepied: '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: cité à de multiples reprises dans le Nouveau Testament en rapport avec Christ (
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matthieu 22.44
+      metadata:
+        usfm: MAT.22.44
     - type: text
-      text: 'L''Eternel étendra de Sion le sceptre de ta puissance:'
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '26.64'
+      metadata:
+        usfm: MAT.26.64
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Marc 12.36
+      metadata:
+        usfm: MRK.12.36
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '14.62'
+      metadata:
+        usfm: MRK.14.62
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luc 20.42-43
+      metadata:
+        usfm: LUK.20.42+LUK.20.43
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '22.69'
+      metadata:
+        usfm: LUK.22.69
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Actes 2.34-35
+      metadata:
+        usfm: ACT.2.34+ACT.2.35
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Corinthiens 15.25
+      metadata:
+        usfm: 1CO.15.25
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hébreux 1.13
+      metadata:
+        usfm: HEB.1.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '5.6'
+      metadata:
+        usfm: HEB.5.6
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: ; etc.).
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: domine au milieu de tes ennemis!
-  '3':
+      text: '2'
+  - type: text
+    text: 'L''Eternel étendra de Sion le sceptre de ta puissance:'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: domine au milieu de tes ennemis!
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: Ton peuple est plein d'ardeur, quand tu rassembles ton armée;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: avec des ornements sacrés, du sein de l'aurore,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: ta jeunesse vient à toi comme une rosée.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: '*L''Eternel l''a juré, et il ne se rétractera pas:'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: «Tu es prêtre pour toujours
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: à la manière de Melchisédek.»
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: Ton peuple est plein d'ardeur, quand tu rassembles ton armée;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: avec des ornements sacrés, du sein de l'aurore,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: ta jeunesse vient à toi comme une rosée.
-  '4':
-  - type: usfm
-    marker: q1
-    children:
+        text: '110.4 '
     - type: usfm
-      marker: vlbl
+      marker: fq
       children:
       - type: text
-        text: '4'
-    - type: text
-      text: '*L''Eternel l''a juré, et il ne se rétractera pas:'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: «Tu es prêtre pour toujours
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: à la manière de Melchisédek.»
+        text: 'L''Eternel… Melchisédek: '
     - type: usfm
-      marker: f
+      marker: ft
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '110.4 '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'L''Eternel… Melchisédek: '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'cité en '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hébreux 5.6
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '6.20'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '7.17'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '21'
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ' comme s''appliquant à Christ, dont le ministère de prêtre est supérieur à celui des prêtres lévitiques. Melchisédek: '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: roi de Salem et prêtre du Dieu très-haut qui a béni Abram (
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Genèse 14.18-20
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ).
-      marker-yv: yv-n
-  '5':
-  - type: usfm
-    marker: q1
-    children:
+        text: 'cité en '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
+        text: Hébreux 5.6
+      metadata:
+        usfm: HEB.5.6
     - type: text
-      text: Le Seigneur est à ta droite,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: il écrase des rois le jour de sa colère.
-  '6':
-  - type: usfm
-    marker: q1
-    children:
+      text: '; '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '6'
+        text: '6.20'
+      metadata:
+        usfm: HEB.6.20
     - type: text
-      text: 'Il exerce la justice parmi les nations: tout est rempli de cadavres,'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: il écrase des chefs sur tout le territoire.
-  '7':
-  - type: usfm
-    marker: q1
-    children:
+      text: '; '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '7'
+        text: '7.17'
+      metadata:
+        usfm: HEB.7.17
     - type: text
-      text: Il boit au torrent pendant la marche,
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '21'
+      metadata:
+        usfm: HEB.7.21
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: ' comme s''appliquant à Christ, dont le ministère de prêtre est supérieur à celui des prêtres lévitiques. Melchisédek: '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: roi de Salem et prêtre du Dieu très-haut qui a béni Abram (
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Genèse 14.18-20
+      metadata:
+        usfm: GEN.14.18+GEN.14.19+GEN.14.20
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: ).
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: c'est pourquoi il relève la tête.
+      text: '5'
+  - type: text
+    text: Le Seigneur est à ta droite,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: il écrase des rois le jour de sa colère.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'Il exerce la justice parmi les nations: tout est rempli de cadavres,'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: il écrase des chefs sur tout le territoire.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: Il boit au torrent pendant la marche,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: c'est pourquoi il relève la tête.

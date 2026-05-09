@@ -1,168 +1,164 @@
-document_id: ISA.12,21
+document_id: ISA.12
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Le cantique du nouvel exode
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Le cantique du nouvel exode
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Et tu diras en ce jour-là :'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Je te loue, Eternel,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: car même si tu as été ╵irrité contre moi,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: ta colère s’apaise,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: tu me consoles.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: Oui, Dieu est mon Sauveur,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: je me confie en lui ╵et je n’ai plus de crainte,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: car l’Eternel, ╵l’Eternel est ma force, ╵il est le sujet de mes chants,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: il m’a sauvé
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: 'Et tu diras en ce jour-là :'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Je te loue, Eternel,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: car même si tu as été ╵irrité contre moi,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: ta colère s’apaise,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: tu me consoles.
-  '2':
-  - type: usfm
-    marker: q1
-    children:
+        text: '12.2 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: Oui, Dieu est mon Sauveur,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: je me confie en lui ╵et je n’ai plus de crainte,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: car l’Eternel, ╵l’Eternel est ma force, ╵il est le sujet de mes chants,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: il m’a sauvé
-    - type: usfm
-      marker: f
-      children:
+        text: Citation d’
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '12.2 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: Citation d’
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ex 15.2
-        - type: text
-          text: .
-      marker-yv: yv-n
-    - type: text
-      text: .
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
+          text: Ex 15.2
+        metadata:
+          usfm: EXO.15.2
       - type: text
-        text: '3'
-    - type: text
-      text: C’est pourquoi, avec joie, ╵vous puiserez de l’eau
+        text: .
+    marker-yv: yv-n
+  - type: text
+    text: .
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: aux sources du salut,
-  '4':
+      text: '3'
+  - type: text
+    text: C’est pourquoi, avec joie, ╵vous puiserez de l’eau
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: aux sources du salut,
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'et vous direz en ce jour-là :'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Célébrez l’Eternel, ╵invoquez-le,
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: annoncez aux nations ses œuvres
+      text: '4'
+  - type: text
+    text: 'et vous direz en ce jour-là :'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Célébrez l’Eternel, ╵invoquez-le,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: annoncez aux nations ses œuvres
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et proclamez ╵qu’il est sublime.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: et proclamez ╵qu’il est sublime.
-  '5':
+      text: '5'
+  - type: text
+    text: Chantez pour l’Eternel,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: car il a accompli ╵des œuvres magnifiques ;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: que, dans le monde entier, ╵on les connaisse !
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: Chantez pour l’Eternel,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: car il a accompli ╵des œuvres magnifiques ;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: que, dans le monde entier, ╵on les connaisse !
-  '6':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: Poussez des cris de joie, ╵exultez d’allégresse, ╵habitants de Sion !
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Car, au milieu de vous, ╵il est très grand, ╵lui, le Saint d’Israël.
+      text: '6'
+  - type: text
+    text: Poussez des cris de joie, ╵exultez d’allégresse, ╵habitants de Sion !
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Car, au milieu de vous, ╵il est très grand, ╵lui, le Saint d’Israël.

@@ -1,190 +1,187 @@
-document_id: PSA.53,152
+document_id: PSA.53
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Portrait de l'impie
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Portrait de l'impie
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: Au chef de chœur, sur la flûte. Cantique de David.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: d
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'Le fou dit dans son cœur: «Il n''y a pas de Dieu!»'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: '*Ils se sont corrompus, ils ont commis des injustices abominables;'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: il n'y en a aucun qui fasse le bien.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: Du haut du ciel, Dieu observe les hommes
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: pour voir s'il y en a un qui est intelligent,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: qui cherche Dieu.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: Tous se sont détournés, ensemble ils se sont pervertis;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: il n'y en a aucun qui fasse le bien,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: pas même un seul.
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: Au chef de chœur, sur la flûte. Cantique de David.
-  '2':
-  - type: usfm
-    marker: q1
-    children:
+        text: '53.2-4 '
     - type: usfm
-      marker: vlbl
+      marker: fq
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: 'Le fou dit dans son cœur: «Il n''y a pas de Dieu!»'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: '*Ils se sont corrompus, ils ont commis des injustices abominables;'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: il n'y en a aucun qui fasse le bien.
-  '3':
-  - type: usfm
-    marker: q1
-    children:
+        text: 'Ils se sont corrompus… un seul: '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: Du haut du ciel, Dieu observe les hommes
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: pour voir s'il y en a un qui est intelligent,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: qui cherche Dieu.
-  '4':
-  - type: usfm
-    marker: q1
-    children:
+        text: 'similaire au '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '4'
-    - type: text
-      text: Tous se sont détournés, ensemble ils se sont pervertis;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: il n'y en a aucun qui fasse le bien,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: pas même un seul.
+        text: Psaume 14.1-3
+      metadata:
+        usfm: PSA.14.1+PSA.14.2+PSA.14.3
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '53.2-4 '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'Ils se sont corrompus… un seul: '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'similaire au '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Psaume 14.1-3
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ', cité en '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Romains 3.10-12
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: .
-      marker-yv: yv-n
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: Ceux qui commettent l'injustice n'ont-ils aucune connaissance?
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Ils dévorent mon peuple, ils le prennent pour nourriture,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: ils ne font pas appel à Dieu.
-  '6':
-  - type: usfm
-    marker: q1
-    children:
+        text: ', cité en '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '6'
-    - type: text
-      text: Alors ils trembleront d'épouvante
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: sans qu'il y ait de raison d'avoir peur.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Dieu dispersera les os de ceux qui t'assiègent;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: tu les couvriras de honte, car Dieu les a rejetés.
-  '7':
-  - type: usfm
-    marker: q1
-    children:
+        text: Romains 3.10-12
+      metadata:
+        usfm: ROM.3.10+ROM.3.11+ROM.3.12
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '7'
-    - type: text
-      text: Oh! qui accordera depuis Sion la délivrance à Israël?
+        text: .
+    marker-yv: yv-n
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Quand Dieu rétablira son peuple,
+      text: '5'
+  - type: text
+    text: Ceux qui commettent l'injustice n'ont-ils aucune connaissance?
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Ils dévorent mon peuple, ils le prennent pour nourriture,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: ils ne font pas appel à Dieu.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Jacob sera dans l'allégresse, Israël se réjouira.
+      text: '6'
+  - type: text
+    text: Alors ils trembleront d'épouvante
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: sans qu'il y ait de raison d'avoir peur.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Dieu dispersera les os de ceux qui t'assiègent;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: tu les couvriras de honte, car Dieu les a rejetés.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: Oh! qui accordera depuis Sion la délivrance à Israël?
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Quand Dieu rétablira son peuple,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Jacob sera dans l'allégresse, Israël se réjouira.

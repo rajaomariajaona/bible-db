@@ -1,1231 +1,1204 @@
-document_id: LUK.4,93
+document_id: LUK.4
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Tentation de Jésus-Christ
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 1-13: cf. (Mt 4:1-11. Mc 1:12, 13.) Ge 3:1-6.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Tentation de Jésus-Christ
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 1-13: cf. (Mt 4:1-11. Mc 1:12, 13.) Ge 3:1-6.'
-    marker-yv: yv-h
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Mt 4:1
+      metadata:
+        usfm: MAT.4.1
     - type: text
-      text: ' '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mt 4:1
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mc 1:12
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Mc 1:12
+      metadata:
+        usfm: MRK.1.12
     - type: text
-      text: 'Jésus, rempli du Saint-Esprit, revint du Jourdain, et il fut conduit par l’Esprit dans le désert, '
-  '10':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Jésus, rempli du Saint-Esprit, revint du Jourdain, et il fut conduit par l’Esprit dans le désert, '
   - type: usfm
-    marker: m
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '10'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps 91:11
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: Il donnera des ordres à ses anges à ton sujet,
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Afin qu’ils te gardent;
-  '11':
+      text: '2'
+  - type: text
+    text: 'où il fut tenté par le diable pendant quarante jours. '
   - type: usfm
-    marker: m
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
+        text: Ex 34:28
+      metadata:
+        usfm: EXO.34.28
     - type: text
-      text: 'et:'
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 R 19:8
+      metadata:
+        usfm: 1KI.19.8
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Il ne mangea rien durant ces jours-là, et, après qu’ils furent écoulés, il eut faim. '
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Ils te porteront sur les mains,
+      text: '3'
+  - type: text
+    text: 'Le diable lui dit: Si tu es Fils de Dieu, ordonne à cette pierre qu’elle devienne du pain. '
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: De peur que ton pied ne heurte contre une pierre.
-  '12':
+      text: '4'
+  - type: text
+    text: 'Jésus lui répondit: '
   - type: usfm
-    marker: m
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '12'
+        text: De 8:3
+      metadata:
+        usfm: DEU.8.3
     - type: text
-      text: 'Jésus lui répondit: '
+      text: '. '
     - type: usfm
-      marker: wj
+      marker: ref
       children:
       - type: text
-        text: 'Il est dit:'
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: De 6:16
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Tu ne tenteras point le Seigneur, ton Dieu.
-  '13':
-  - type: usfm
-    marker: m
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '13'
+        text: Mt 4:4
+      metadata:
+        usfm: MAT.4.4
     - type: text
-      text: Après l’avoir tenté de toutes ces manières, le diable s’éloigna de lui jusqu’à un moment favorable.
+      text: .
+    marker-yv: yv-n
   - type: usfm
-    marker: s1
+    marker: wj
     children:
     - type: text
-      text: Ministère de Jésus en Galilée
-    marker-yv: yv-h
+      text: 'Il est écrit:'
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: r
+    marker: wj
     children:
     - type: text
-      text: 'V. 14-15: cf. (Mt 4:12, 17. Mc 1:14, 15.) Jn 4.'
-    marker-yv: yv-h
-  '14':
+      text: L’Homme ne vivra pas de pain seulement.
+- type: usfm
+  marker: m
+  children:
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '14'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mt 4:12
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mc 1:14
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 4:43
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ac 10:37
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Jésus, revêtu de la puissance de l’Esprit, retourna en Galilée, et sa renommée se répandit dans tout le pays d’alentour. '
-  '15':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '15'
-    - type: text
-      text: Il enseignait dans les synagogues, et il était glorifié par tous.
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Prédication à Nazareth. Hostilité des habitants
-    marker-yv: yv-h
+      text: '5'
+  - type: text
+    text: 'Le diable, l’ayant élevé, lui montra en un instant tous les royaumes de la terre, '
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 16-30: cf. És 61:1-3. Mc 6:1-6. Jn 1:11. Lu 19:42.'
-    marker-yv: yv-h
-  '16':
+      text: '6'
+  - type: text
+    text: 'et lui dit: Je te donnerai toute cette puissance, et la gloire de ces royaumes; car elle m’a été donnée, et je la donne à qui je veux. '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mt 13:54
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mc 6:1
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 4:43
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Il se rendit à Nazareth, où il avait été élevé, et, selon sa coutume, il entra dans la synagogue le jour du sabbat. '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Né 8:5
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '6'
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Il se leva pour faire la lecture, '
-  '17':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: text
-      text: 'et on lui remit le livre du prophète Ésaïe. L’ayant déroulé, il trouva l’endroit où il était écrit:'
-  '18':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 61:6
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: L’Esprit du Seigneur est sur moi,
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Parce qu’il m’a oint
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mt 11:5
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: pour annoncer une bonne nouvelle aux pauvres;
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Il m’a envoyé pour guérir ceux qui ont le cœur brisé,
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Pour proclamer aux captifs la délivrance,
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Et aux aveugles le recouvrement de la vue,
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Pour renvoyer libres les opprimés,
-  '19':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 42:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 61:1
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '2'
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Pour publier une année de grâce du Seigneur.
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'où il fut tenté par le diable pendant quarante jours. '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex 34:28
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 R 19:8
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Il ne mangea rien durant ces jours-là, et, après qu’ils furent écoulés, il eut faim. '
-  '20':
-  - type: usfm
-    marker: m
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '20'
-    - type: text
-      text: 'Ensuite, il roula le livre, le remit au serviteur, et s’assit. Tous ceux qui se trouvaient dans la synagogue avaient les regards fixés sur lui. '
-  '21':
-  - type: usfm
-    marker: m
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '21'
-    - type: text
-      text: 'Alors il commença à leur dire: '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Aujourd’hui cette parole de l’Écriture, que vous venez d’entendre, est accomplie.
-    - type: text
-      text: ' '
-  '22':
-  - type: usfm
-    marker: m
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '22'
-    - type: text
-      text: 'Et tous lui rendaient témoignage; '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 50:4
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mt 13:54
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mc 6:2
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lu 2:47
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'ils étaient étonnés des paroles de grâce qui sortaient de sa bouche, et ils disaient: '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 6:42
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'N’est-ce pas le fils de Joseph? '
-  '23':
-  - type: usfm
-    marker: m
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '23'
-    - type: text
-      text: 'Jésus leur dit: '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'Sans doute vous m’appliquerez ce proverbe: Médecin, guéris-toi toi-même; et vous me direz: Fais ici, dans ta patrie, tout ce que nous avons appris'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mt 4:13
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: que tu as fait à Capernaüm.
-  '24':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '24'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Mais,
-    - type: text
-      text: ' ajouta-t-il, '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: je vous le dis en vérité,
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mt 13:57
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mc 6:4
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 4:44
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: aucun prophète n’est bien reçu dans sa patrie.
-    - type: text
-      text: ' '
-  '25':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '25'
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'Je vous le dis en vérité: il y avait'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 R 17:7
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ja 5:17
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: plusieurs veuves en Israël du temps d’Élie, lorsque le ciel fut fermé trois ans et six mois et qu’il y eut une grande famine sur toute la terre;
-    - type: text
-      text: ' '
-  '26':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '26'
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: et cependant Élie ne fut envoyé vers aucune d’elles, si ce n’est vers une femme veuve, à Sarepta, dans le pays de Sidon.
-    - type: text
-      text: ' '
-  '27':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '27'
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Il y avait aussi
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 R 5:14
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: plusieurs lépreux en Israël du temps d’Élisée, le prophète; et cependant aucun d’eux ne fut purifié, si ce n’est Naaman le Syrien.
-    - type: text
-      text: ' '
-  '28':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '28'
-    - type: text
-      text: 'Ils furent tous remplis de colère dans la synagogue, lorsqu’ils entendirent ces choses. '
-  '29':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '29'
-    - type: text
-      text: 'Et s’étant levés, ils le chassèrent de la ville, et le menèrent jusqu’au sommet de la montagne sur laquelle leur ville était bâtie, afin de le précipiter en bas. '
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'Le diable lui dit: Si tu es Fils de Dieu, ordonne à cette pierre qu’elle devienne du pain. '
-  '30':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '30'
-    - type: text
-      text: Mais Jésus, passant au milieu d’eux, s’en alla.
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Jésus à Capernaüm. Enseignement dans la synagogue. Guérison d’un démoniaque, de la belle-mère de Pierre et de plusieurs malades. Jésus en divers lieux de la Galilée
-    marker-yv: yv-h
+      text: '7'
+  - type: text
+    text: 'Si donc tu te prosternes devant moi, elle sera toute à toi. '
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 31-37: cf. Mt 4:13-16. Mc 1:21-28.'
-    marker-yv: yv-h
-  '31':
+      text: '8'
+  - type: text
+    text: 'Jésus lui répondit: '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '31'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mt 4:13
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mc 1:21
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Il descendit à Capernaüm, ville de la Galilée; et il enseignait, le jour du sabbat. '
-  '32':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '32'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mt 7:29
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mc 1:22
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'On était frappé de sa doctrine; car il parlait avec autorité. '
-  '33':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '33'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mc 1:23
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Il se trouva dans la synagogue un homme qui avait un esprit de démon impur, et qui s’écria d’une voix forte: '
-  '34':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '34'
-    - type: text
-      text: 'Ah! Qu’y a-t-il entre nous et toi, Jésus de Nazareth? Tu es venu pour nous perdre. Je sais qui tu es: le Saint de Dieu. '
-  '35':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '35'
-    - type: text
-      text: 'Jésus le menaça, disant: '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Tais-toi, et sors de cet homme.
-    - type: text
-      text: ' Et le démon le jeta au milieu de l’assemblée, et sortit de lui, sans lui faire aucun mal. '
-  '36':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '36'
-    - type: text
-      text: 'Tous furent saisis de stupeur, et ils se disaient les uns aux autres: Quelle est cette parole? Il commande avec autorité et puissance aux esprits impurs, et ils sortent! '
-  '37':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '37'
-    - type: text
-      text: Et sa renommée se répandit dans tous les lieux d’alentour.
-  - type: usfm
-    marker: r
+    marker: wj
     children:
     - type: text
-      text: 'V. 38-39: cf. (Mt 8:14, 15. Mc 1:29-31.)'
-    marker-yv: yv-h
-  '38':
+      text: 'Il est écrit:'
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '38'
+        text: De 6:13
+      metadata:
+        usfm: DEU.6.13
     - type: text
-      text: ' '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mt 8:14
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mc 1:29
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: 10:20
+      metadata:
+        usfm: DEU.10.20
     - type: text
-      text: 'En sortant de la synagogue, il se rendit à la maison de Simon. La belle-mère de Simon avait une violente fièvre, et ils le prièrent en sa faveur. '
-  '39':
-  - type: usfm
-    marker: p
-    children:
+      text: '. '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '39'
+        text: 1 S 7:3
+      metadata:
+        usfm: 1SA.7.3
     - type: text
-      text: S’étant penché sur elle, il menaça la fièvre, et la fièvre la quitta. A l’instant elle se leva, et les servit.
+      text: .
+    marker-yv: yv-n
   - type: usfm
-    marker: r
+    marker: wj
     children:
     - type: text
-      text: 'V. 40-44: cf. (Mt 8:16, 17. Mc 1:32-39.)'
-    marker-yv: yv-h
-  '4':
+      text: Tu adoreras le Seigneur, ton Dieu, et tu le serviras lui seul.
+- type: usfm
+  marker: m
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'Le diable le conduisit encore à Jérusalem, le plaça sur le haut du temple, et lui dit: Si tu es Fils de Dieu, jette-toi d’ici en bas; car il est écrit: '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '4'
+        text: Ps 91:11
+      metadata:
+        usfm: PSA.91.11
     - type: text
-      text: 'Jésus lui répondit: '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: De 8:3
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mt 4:4
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'Il est écrit:'
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: Il donnera des ordres à ses anges à ton sujet,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Afin qu’ils te gardent;
+- type: usfm
+  marker: m
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'et:'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Ils te porteront sur les mains,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: De peur que ton pied ne heurte contre une pierre.
+- type: usfm
+  marker: m
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'Jésus lui répondit: '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'Il est dit:'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: wj
+      marker: ref
       children:
       - type: text
-        text: L’Homme ne vivra pas de pain seulement.
-  '40':
+        text: De 6:16
+      metadata:
+        usfm: DEU.6.16
+    - type: text
+      text: .
+    marker-yv: yv-n
   - type: usfm
-    marker: p
+    marker: wj
+    children:
+    - type: text
+      text: Tu ne tenteras point le Seigneur, ton Dieu.
+- type: usfm
+  marker: m
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: Après l’avoir tenté de toutes ces manières, le diable s’éloigna de lui jusqu’à un moment favorable.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Ministère de Jésus en Galilée
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 14-15: cf. (Mt 4:12, 17. Mc 1:14, 15.) Jn 4.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '40'
+        text: Mt 4:12
+      metadata:
+        usfm: MAT.4.12
     - type: text
-      text: ' '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mt 8:16
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mc 1:32
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Mc 1:14
+      metadata:
+        usfm: MRK.1.14
     - type: text
-      text: 'Après le coucher du soleil, tous ceux qui avaient des malades atteints de diverses maladies les lui amenèrent. '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mc 7:32
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 8:23
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '25'
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Jn 4:43
+      metadata:
+        usfm: JHN.4.43
     - type: text
-      text: 'Il imposa les mains à chacun d’eux, et il les guérit. '
-  '41':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ac 10:37
+      metadata:
+        usfm: ACT.10.37
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Jésus, revêtu de la puissance de l’Esprit, retourna en Galilée, et sa renommée se répandit dans tout le pays d’alentour. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: Il enseignait dans les synagogues, et il était glorifié par tous.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Prédication à Nazareth. Hostilité des habitants
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 16-30: cf. És 61:1-3. Mc 6:1-6. Jn 1:11. Lu 19:42.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '41'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mc 1:34
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 3:11
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Mt 13:54
+      metadata:
+        usfm: MAT.13.54
     - type: text
-      text: 'Des démons aussi sortirent de beaucoup de personnes, en criant et en disant: Tu es le Fils de Dieu. Mais il les menaçait et ne leur permettait pas de parler, parce qu’ils savaient qu’il était le Christ. '
-  '42':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mc 6:1
+      metadata:
+        usfm: MRK.6.1
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jn 4:43
+      metadata:
+        usfm: JHN.4.43
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Il se rendit à Nazareth, où il avait été élevé, et, selon sa coutume, il entra dans la synagogue le jour du sabbat. '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '42'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mc 1:35
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Né 8:5
+      metadata:
+        usfm: NEH.8.5
     - type: text
-      text: 'Dès que le jour parut, il sortit et alla dans un lieu désert. Une foule de gens se mirent à sa recherche, et arrivèrent jusqu’à lui; ils voulaient le retenir, afin qu’il ne les quittât point. '
-  '43':
-  - type: usfm
-    marker: p
-    children:
+      text: ', '
     - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '43'
-    - type: text
-      text: 'Mais il leur dit: '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Il faut aussi que j’annonce aux autres villes la bonne nouvelle du royaume de Dieu; car c’est pour cela que j’ai été envoyé.
-    - type: text
-      text: ' '
-  '44':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '44'
-    - type: text
-      text: Et il prêchait dans les synagogues de la Galilée.
-  '5':
-  - type: usfm
-    marker: m
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: 'Le diable, l’ayant élevé, lui montra en un instant tous les royaumes de la terre, '
-  '6':
-  - type: usfm
-    marker: m
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '6'
+      metadata:
+        usfm: NEH.8.6
     - type: text
-      text: 'et lui dit: Je te donnerai toute cette puissance, et la gloire de ces royaumes; car elle m’a été donnée, et je la donne à qui je veux. '
-  '7':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Il se leva pour faire la lecture, '
   - type: usfm
-    marker: m
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'et on lui remit le livre du prophète Ésaïe. L’ayant déroulé, il trouva l’endroit où il était écrit:'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '7'
+        text: És 61:6
+      metadata:
+        usfm: ISA.61.6
     - type: text
-      text: 'Si donc tu te prosternes devant moi, elle sera toute à toi. '
-  '8':
+      text: .
+    marker-yv: yv-n
   - type: usfm
-    marker: m
+    marker: wj
+    children:
+    - type: text
+      text: L’Esprit du Seigneur est sur moi,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: Parce qu’il m’a oint
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '8'
+        text: Mt 11:5
+      metadata:
+        usfm: MAT.11.5
     - type: text
-      text: 'Jésus lui répondit: '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'Il est écrit:'
+      text: .
+    marker-yv: yv-n
   - type: usfm
-    marker: q1
+    marker: wj
+    children:
+    - type: text
+      text: pour annoncer une bonne nouvelle aux pauvres;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: Il m’a envoyé pour guérir ceux qui ont le cœur brisé,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: Pour proclamer aux captifs la délivrance,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: Et aux aveugles le recouvrement de la vue,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: Pour renvoyer libres les opprimés,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: De 6:13
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 10:20
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 S 7:3
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: És 42:7
+      metadata:
+        usfm: ISA.42.7
+    - type: text
+      text: '; '
     - type: usfm
-      marker: wj
+      marker: ref
       children:
       - type: text
-        text: Tu adoreras le Seigneur, ton Dieu, et tu le serviras lui seul.
-  '9':
+        text: 61:1
+      metadata:
+        usfm: ISA.61.1
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '2'
+      metadata:
+        usfm: ISA.61.2
+    - type: text
+      text: .
+    marker-yv: yv-n
   - type: usfm
-    marker: m
+    marker: wj
+    children:
+    - type: text
+      text: Pour publier une année de grâce du Seigneur.
+- type: usfm
+  marker: m
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: text
+    text: 'Ensuite, il roula le livre, le remit au serviteur, et s’assit. Tous ceux qui se trouvaient dans la synagogue avaient les regards fixés sur lui. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: text
+    text: 'Alors il commença à leur dire: '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: Aujourd’hui cette parole de l’Écriture, que vous venez d’entendre, est accomplie.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: 'Et tous lui rendaient témoignage; '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '9'
+        text: És 50:4
+      metadata:
+        usfm: ISA.50.4
     - type: text
-      text: 'Le diable le conduisit encore à Jérusalem, le plaça sur le haut du temple, et lui dit: Si tu es Fils de Dieu, jette-toi d’ici en bas; car il est écrit: '
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mt 13:54
+      metadata:
+        usfm: MAT.13.54
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mc 6:2
+      metadata:
+        usfm: MRK.6.2
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lu 2:47
+      metadata:
+        usfm: LUK.2.47
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'ils étaient étonnés des paroles de grâce qui sortaient de sa bouche, et ils disaient: '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jn 6:42
+      metadata:
+        usfm: JHN.6.42
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'N’est-ce pas le fils de Joseph? '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: text
+    text: 'Jésus leur dit: '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'Sans doute vous m’appliquerez ce proverbe: Médecin, guéris-toi toi-même; et vous me direz: Fais ici, dans ta patrie, tout ce que nous avons appris'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mt 4:13
+      metadata:
+        usfm: MAT.4.13
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: que tu as fait à Capernaüm.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '24'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: Mais,
+  - type: text
+    text: ' ajouta-t-il, '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: je vous le dis en vérité,
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mt 13:57
+      metadata:
+        usfm: MAT.13.57
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mc 6:4
+      metadata:
+        usfm: MRK.6.4
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jn 4:44
+      metadata:
+        usfm: JHN.4.44
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: aucun prophète n’est bien reçu dans sa patrie.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '25'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'Je vous le dis en vérité: il y avait'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 R 17:7
+      metadata:
+        usfm: 1KI.17.7
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ja 5:17
+      metadata:
+        usfm: JAS.5.17
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: plusieurs veuves en Israël du temps d’Élie, lorsque le ciel fut fermé trois ans et six mois et qu’il y eut une grande famine sur toute la terre;
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '26'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: et cependant Élie ne fut envoyé vers aucune d’elles, si ce n’est vers une femme veuve, à Sarepta, dans le pays de Sidon.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '27'
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: Il y avait aussi
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 R 5:14
+      metadata:
+        usfm: 2KI.5.14
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: plusieurs lépreux en Israël du temps d’Élisée, le prophète; et cependant aucun d’eux ne fut purifié, si ce n’est Naaman le Syrien.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '28'
+  - type: text
+    text: 'Ils furent tous remplis de colère dans la synagogue, lorsqu’ils entendirent ces choses. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '29'
+  - type: text
+    text: 'Et s’étant levés, ils le chassèrent de la ville, et le menèrent jusqu’au sommet de la montagne sur laquelle leur ville était bâtie, afin de le précipiter en bas. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '30'
+  - type: text
+    text: Mais Jésus, passant au milieu d’eux, s’en alla.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Jésus à Capernaüm. Enseignement dans la synagogue. Guérison d’un démoniaque, de la belle-mère de Pierre et de plusieurs malades. Jésus en divers lieux de la Galilée
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 31-37: cf. Mt 4:13-16. Mc 1:21-28.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '31'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mt 4:13
+      metadata:
+        usfm: MAT.4.13
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mc 1:21
+      metadata:
+        usfm: MRK.1.21
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Il descendit à Capernaüm, ville de la Galilée; et il enseignait, le jour du sabbat. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '32'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mt 7:29
+      metadata:
+        usfm: MAT.7.29
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mc 1:22
+      metadata:
+        usfm: MRK.1.22
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'On était frappé de sa doctrine; car il parlait avec autorité. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '33'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mc 1:23
+      metadata:
+        usfm: MRK.1.23
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Il se trouva dans la synagogue un homme qui avait un esprit de démon impur, et qui s’écria d’une voix forte: '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '34'
+  - type: text
+    text: 'Ah! Qu’y a-t-il entre nous et toi, Jésus de Nazareth? Tu es venu pour nous perdre. Je sais qui tu es: le Saint de Dieu. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '35'
+  - type: text
+    text: 'Jésus le menaça, disant: '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: Tais-toi, et sors de cet homme.
+  - type: text
+    text: ' Et le démon le jeta au milieu de l’assemblée, et sortit de lui, sans lui faire aucun mal. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '36'
+  - type: text
+    text: 'Tous furent saisis de stupeur, et ils se disaient les uns aux autres: Quelle est cette parole? Il commande avec autorité et puissance aux esprits impurs, et ils sortent! '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '37'
+  - type: text
+    text: Et sa renommée se répandit dans tous les lieux d’alentour.
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 38-39: cf. (Mt 8:14, 15. Mc 1:29-31.)'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '38'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mt 8:14
+      metadata:
+        usfm: MAT.8.14
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mc 1:29
+      metadata:
+        usfm: MRK.1.29
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'En sortant de la synagogue, il se rendit à la maison de Simon. La belle-mère de Simon avait une violente fièvre, et ils le prièrent en sa faveur. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '39'
+  - type: text
+    text: S’étant penché sur elle, il menaça la fièvre, et la fièvre la quitta. A l’instant elle se leva, et les servit.
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 40-44: cf. (Mt 8:16, 17. Mc 1:32-39.)'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '40'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mt 8:16
+      metadata:
+        usfm: MAT.8.16
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mc 1:32
+      metadata:
+        usfm: MRK.1.32
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Après le coucher du soleil, tous ceux qui avaient des malades atteints de diverses maladies les lui amenèrent. '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mc 7:32
+      metadata:
+        usfm: MRK.7.32
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 8:23
+      metadata:
+        usfm: MRK.8.23
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '25'
+      metadata:
+        usfm: MRK.8.25
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Il imposa les mains à chacun d’eux, et il les guérit. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '41'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mc 1:34
+      metadata:
+        usfm: MRK.1.34
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 3:11
+      metadata:
+        usfm: MRK.3.11
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Des démons aussi sortirent de beaucoup de personnes, en criant et en disant: Tu es le Fils de Dieu. Mais il les menaçait et ne leur permettait pas de parler, parce qu’ils savaient qu’il était le Christ. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '42'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mc 1:35
+      metadata:
+        usfm: MRK.1.35
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Dès que le jour parut, il sortit et alla dans un lieu désert. Une foule de gens se mirent à sa recherche, et arrivèrent jusqu’à lui; ils voulaient le retenir, afin qu’il ne les quittât point. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '43'
+  - type: text
+    text: 'Mais il leur dit: '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: Il faut aussi que j’annonce aux autres villes la bonne nouvelle du royaume de Dieu; car c’est pour cela que j’ai été envoyé.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '44'
+  - type: text
+    text: Et il prêchait dans les synagogues de la Galilée.

@@ -1,1382 +1,1456 @@
-document_id: GEN.3,59
+document_id: GEN.3
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: The Fall
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: The Fall
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Now '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Matt. 10:16
+      metadata:
+        usfm: MAT.10.16
     - type: text
-      text: 'Now '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 10:16
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Cor. 11:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 12:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 20:2
-      marker-yv: yv-n
+        text: 2 Cor. 11:3
+      metadata:
+        usfm: 2CO.11.3
     - type: text
-      text: 'the serpent was more crafty than any other beast of the field that the '
+      text: '; '
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: Rev. 12:9
+      metadata:
+        usfm: REV.12.9
     - type: text
-      text: ' God had made.'
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 20:2
+      metadata:
+        usfm: REV.20.2
+    marker-yv: yv-n
+  - type: text
+    text: 'the serpent was more crafty than any other beast of the field that the '
   - type: usfm
-    marker: p
+    marker: nd
     children:
     - type: text
-      text: He said to the woman, “Did God actually say, ‘You
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '3:1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'In Hebrew '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'you '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: is plural in verses 1–5
-      marker-yv: yv-n
-    - type: text
-      text: ' shall not eat of any tree in the garden’?” '
-  '10':
+      text: Lord
+  - type: text
+    text: ' God had made.'
+- type: usfm
+  marker: p
+  children:
+  - type: text
+    text: He said to the woman, “Did God actually say, ‘You
   - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: 'And he said, “I heard the sound of you in the garden, and I was afraid, '
+        text: '3:1 '
     - type: usfm
-      marker: x
+      marker: ft
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '7'
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:25
-      marker-yv: yv-n
-    - type: text
-      text: 'because I was naked, and I hid myself.” '
-  '11':
+        text: 'In Hebrew '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: 'you '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: is plural in verses 1–5
+    marker-yv: yv-n
+  - type: text
+    text: ' shall not eat of any tree in the garden’?” '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'And the woman said to the serpent, “We may eat of the fruit of the trees in the garden, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'but God said, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '11'
-    - type: text
-      text: 'He said, “Who told you that you were naked? Have you eaten of the tree of which I commanded you not to eat?” '
-  '12':
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:17
+      metadata:
+        usfm: GEN.2.17
+    marker-yv: yv-n
+  - type: text
+    text: '‘You shall not eat of the fruit of the tree that is in the midst of the garden, neither shall you touch it, lest you die.’” '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '12'
-    - type: text
-      text: 'The man said, '
+        text: 'ver. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:18
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 31:33
-      marker-yv: yv-n
-    - type: text
-      text: '“The woman whom you gave to be with me, she gave me fruit of the tree, and I ate.” '
-  '13':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '13'
+      metadata:
+        usfm: GEN.3.13
     - type: text
-      text: 'Then the '
+      text: '; '
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: John 8:44
+      metadata:
+        usfm: JHN.8.44
     - type: text
-      text: ' God said to the woman, “What is this that you have done?” The woman said, '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '4'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Cor. 11:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 2:14
-      marker-yv: yv-n
-    - type: text
-      text: “The serpent deceived me, and I ate.”
-  '14':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '14'
-    - type: text
-      text: 'The '
+        text: '['
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' God said to the serpent,'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: “Because you have done this,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: cursed are you above all livestock
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and above all beasts of the field;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: on your belly you shall go,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and '
+        text: 2 Cor. 11:3
+      metadata:
+        usfm: 2CO.11.3
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 65:25
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mic. 7:17
-      marker-yv: yv-n
-    - type: text
-      text: dust you shall eat
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: all the days of your life.
-  '15':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '15'
-    - type: text
-      text: I will put enmity between you and the woman,
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'But the serpent said to the woman, “You will not surely die. '
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: and between your offspring
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '3:15 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Hebrew '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: seed
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ; so throughout Genesis
-      marker-yv: yv-n
-    - type: text
-      text: ' and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 7:14
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mic. 5:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 1:23
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '25'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 1:34
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '35'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gal. 4:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 2:15
-      marker-yv: yv-n
-    - type: text
-      text: her offspring;
+      text: '5'
+  - type: text
+    text: 'For God knows that when you eat of it your eyes will be opened, and you will be like God, knowing good and evil.” '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 16:20
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 2:14
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 20:1-3
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '10'
-      marker-yv: yv-n
-    - type: text
-      text: he shall bruise your head,
-  - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: and you shall bruise his heel.”
-  '16':
+      text: '6'
+  - type: text
+    text: So when the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise,
   - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '16'
-    - type: text
-      text: To the woman he said,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: “I will surely multiply your pain in childbearing;
-  - type: usfm
-    marker: q2
-    children:
+        text: '3:6 '
     - type: usfm
-      marker: x
+      marker: ft
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
       - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 16:21
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
       - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: in pain you shall bring forth children.
+        text: to give insight
+    marker-yv: yv-n
+  - type: text
+    text: ' she took of its fruit '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:7
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Song 7:10
-      marker-yv: yv-n
-    - type: text
-      text: Your desire shall be for
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '3:16 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: to
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ', or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: toward
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ', or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'against '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: (see 4:7)
-      marker-yv: yv-n
-    - type: text
-      text: ' your husband,'
+        text: 1 Tim. 2:14
+      metadata:
+        usfm: 1TI.2.14
+    marker-yv: yv-n
+  - type: text
+    text: 'and ate, and she also gave some to her husband who was with her, '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and he shall '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 11:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 14:34
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 5:22-24
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col. 3:18
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 2:11
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '12'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Titus 2:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 3:1
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '5'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '6'
-      marker-yv: yv-n
-    - type: text
-      text: rule over you.”
-  '17':
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '17'
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 12, 17
+      metadata:
+        usfm: GEN.3.12
     - type: text
-      text: And to Adam he said,
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hos. 6:7
+      metadata:
+        usfm: HOS.6.7
+    marker-yv: yv-n
+  - type: text
+    text: 'and he ate. '
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: “Because you have listened to the voice of your wife
+      text: '7'
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and have eaten of the tree
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:17
-      marker-yv: yv-n
-    - type: text
-      text: of which I commanded you,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: ‘You shall not eat of it,’
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 5:29
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 8:20-22
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: cursed is the ground because of you;
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eccles. 2:22
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '23'
-      marker-yv: yv-n
-    - type: text
-      text: in pain you shall eat of it all the days of your life;
-  '18':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '18'
-    - type: text
-      text: thorns and thistles it shall bring forth for you;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and you shall eat the plants of the field.
-  '19':
-  - type: usfm
-    marker: q1
-    children:
+        text: 'ver. '
     - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: text
-      text: By the sweat of your face
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: you shall eat bread,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: till you return to the ground,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: for out of it you were taken;
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 103:14
-      marker-yv: yv-n
-    - type: text
-      text: for you are dust,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 34:15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 104:29
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eccles. 3:20
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 12:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 5:12
-      marker-yv: yv-n
-    - type: text
-      text: to dust you shall return.”
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'And the woman said to the serpent, “We may eat of the fruit of the trees in the garden, '
-  '20':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '20'
-    - type: text
-      text: The man called his wife’s name Eve, because she was the mother of all living.
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '3:20 '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: 'Eve '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'sounds like the Hebrew for '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'life-giver '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'and resembles the word for '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: living
-      marker-yv: yv-n
-    - type: text
-      text: ' '
-  '21':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '21'
-    - type: text
-      text: 'And the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' God made for Adam and for his wife garments of skins and clothed them.'
-  '22':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '22'
-    - type: text
-      text: 'Then the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' God said, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '5'
-      marker-yv: yv-n
-    - type: text
-      text: '“Behold, the man has become like one of us in knowing good and evil. Now, lest he reach out his hand '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:9
-      marker-yv: yv-n
-    - type: text
-      text: 'and take also of the tree of life and eat, and live forever—” '
-  '23':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '23'
-    - type: text
-      text: 'therefore the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' God sent him out from the garden of Eden '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:5
-      marker-yv: yv-n
-    - type: text
-      text: 'to work the ground from which he was taken. '
-  '24':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '24'
-    - type: text
-      text: 'He drove out the man, and at the east of the garden of Eden he placed the '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 18:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 104:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 1:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 25:18-22
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezek. 28:11-16
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: cherubim and a flaming sword that turned every way to guard the way to the tree of life.
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'but God said, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:17
-      marker-yv: yv-n
-    - type: text
-      text: '‘You shall not eat of the fruit of the tree that is in the midst of the garden, neither shall you touch it, lest you die.’” '
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '13'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 8:44
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Cor. 11:3
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'But the serpent said to the woman, “You will not surely die. '
-  '5':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '5'
-    - type: text
-      text: 'For God knows that when you eat of it your eyes will be opened, and you will be like God, knowing good and evil.” '
-  '6':
+      metadata:
+        usfm: GEN.3.5
+    marker-yv: yv-n
+  - type: text
+    text: 'Then the eyes of both were opened, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '6'
-    - type: text
-      text: So when the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise,
+        text: 'ch. '
     - type: usfm
-      marker: f
+      marker: ref
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '3:6 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: to give insight
-      marker-yv: yv-n
-    - type: text
-      text: ' she took of its fruit '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 2:14
-      marker-yv: yv-n
-    - type: text
-      text: 'and ate, and she also gave some to her husband who was with her, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 12, 17
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hos. 6:7
-      marker-yv: yv-n
-    - type: text
-      text: 'and he ate. '
-  '7':
+        text: 2:25
+      metadata:
+        usfm: GEN.2.25
+    marker-yv: yv-n
+  - type: text
+    text: and they knew that they were naked. And they sewed fig leaves together and made themselves loincloths.
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'And they heard the sound of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' God walking in the garden in the cool'
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
+      children:
+      - type: text
+        text: '3:8 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Hebrew '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: wind
+    marker-yv: yv-n
+  - type: text
+    text: ' of the day, and the man and his wife '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 139:1-12
+      metadata:
+        usfm: PSA.139.1+PSA.139.2+PSA.139.3+PSA.139.4+PSA.139.5+PSA.139.6+PSA.139.7+PSA.139.8+PSA.139.9+PSA.139.10+PSA.139.11+PSA.139.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 23:23
+      metadata:
+        usfm: JER.23.23
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '24'
+      metadata:
+        usfm: JER.23.24
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'hid themselves from the presence of the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' God among the trees of the garden. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'But the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' God called to the man and said to him, “Where are you?”'
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '3:9 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'In Hebrew '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: 'you '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: is singular in verses 9 and 11
+    marker-yv: yv-n
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'And he said, “I heard the sound of you in the garden, and I was afraid, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '7'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '5'
-      marker-yv: yv-n
+      metadata:
+        usfm: GEN.3.7
     - type: text
-      text: 'Then the eyes of both were opened, '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:25
-      marker-yv: yv-n
-    - type: text
-      text: and they knew that they were naked. And they sewed fig leaves together and made themselves loincloths.
-  '8':
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:25
+      metadata:
+        usfm: GEN.2.25
+    marker-yv: yv-n
+  - type: text
+    text: 'because I was naked, and I hid myself.” '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'He said, “Who told you that you were naked? Have you eaten of the tree of which I commanded you not to eat?” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'The man said, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '8'
-    - type: text
-      text: 'And they heard the sound of the '
+        text: 'ch. '
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: 2:18
+      metadata:
+        usfm: GEN.2.18
     - type: text
-      text: ' God walking in the garden in the cool'
+      text: '; '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '3:8 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Hebrew '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: wind
-      marker-yv: yv-n
-    - type: text
-      text: ' of the day, and the man and his wife '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 139:1-12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 23:23
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '24'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'hid themselves from the presence of the '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' God among the trees of the garden. '
-  '9':
+        text: Job 31:33
+      metadata:
+        usfm: JOB.31.33
+    marker-yv: yv-n
+  - type: text
+    text: '“The woman whom you gave to be with me, she gave me fruit of the tree, and I ate.” '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'Then the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' God said to the woman, “What is this that you have done?” The woman said, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '9'
-    - type: text
-      text: 'But the '
+        text: 'ver. '
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: '4'
+      metadata:
+        usfm: GEN.3.4
     - type: text
-      text: ' God called to the man and said to him, “Where are you?”'
+      text: '; '
     - type: usfm
-      marker: f
+      marker: ref
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '3:9 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'In Hebrew '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: 'you '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: is singular in verses 9 and 11
-      marker-yv: yv-n
+      - type: text
+        text: 2 Cor. 11:3
+      metadata:
+        usfm: 2CO.11.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 2:14
+      metadata:
+        usfm: 1TI.2.14
+    marker-yv: yv-n
+  - type: text
+    text: “The serpent deceived me, and I ate.”
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: 'The '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' God said to the serpent,'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: “Because you have done this,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: cursed are you above all livestock
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and above all beasts of the field;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: on your belly you shall go,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 65:25
+      metadata:
+        usfm: ISA.65.25
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mic. 7:17
+      metadata:
+        usfm: MIC.7.17
+    marker-yv: yv-n
+  - type: text
+    text: dust you shall eat
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: all the days of your life.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: I will put enmity between you and the woman,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and between your offspring
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '3:15 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Hebrew '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: seed
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: ; so throughout Genesis
+    marker-yv: yv-n
+  - type: text
+    text: ' and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 7:14
+      metadata:
+        usfm: ISA.7.14
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mic. 5:3
+      metadata:
+        usfm: MIC.5.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 1:23
+      metadata:
+        usfm: MAT.1.23
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '25'
+      metadata:
+        usfm: MAT.1.25
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 1:34
+      metadata:
+        usfm: LUK.1.34
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '35'
+      metadata:
+        usfm: LUK.1.35
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gal. 4:4
+      metadata:
+        usfm: GAL.4.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 2:15
+      metadata:
+        usfm: 1TI.2.15
+    marker-yv: yv-n
+  - type: text
+    text: her offspring;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 16:20
+      metadata:
+        usfm: ROM.16.20
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 2:14
+      metadata:
+        usfm: HEB.2.14
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rev. 20:1-3
+      metadata:
+        usfm: REV.20.1+REV.20.2+REV.20.3
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '10'
+      metadata:
+        usfm: REV.20.10
+    marker-yv: yv-n
+  - type: text
+    text: he shall bruise your head,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and you shall bruise his heel.”
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: To the woman he said,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: “I will surely multiply your pain in childbearing;
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
     - type: text
       text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 16:21
+      metadata:
+        usfm: JHN.16.21
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: in pain you shall bring forth children.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:7
+      metadata:
+        usfm: GEN.4.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Song 7:10
+      metadata:
+        usfm: SNG.7.10
+    marker-yv: yv-n
+  - type: text
+    text: Your desire shall be for
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '3:16 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: to
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: ', or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: toward
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: ', or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: 'against '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: (see 4:7)
+    marker-yv: yv-n
+  - type: text
+    text: ' your husband,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and he shall '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 11:3
+      metadata:
+        usfm: 1CO.11.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 14:34
+      metadata:
+        usfm: 1CO.14.34
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eph. 5:22-24
+      metadata:
+        usfm: EPH.5.22+EPH.5.23+EPH.5.24
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Col. 3:18
+      metadata:
+        usfm: COL.3.18
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 2:11
+      metadata:
+        usfm: 1TI.2.11
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '12'
+      metadata:
+        usfm: 1TI.2.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Titus 2:5
+      metadata:
+        usfm: TIT.2.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pet. 3:1
+      metadata:
+        usfm: 1PE.3.1
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '5'
+      metadata:
+        usfm: 1PE.3.5
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '6'
+      metadata:
+        usfm: 1PE.3.6
+    marker-yv: yv-n
+  - type: text
+    text: rule over you.”
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: And to Adam he said,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: “Because you have listened to the voice of your wife
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and have eaten of the tree
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:17
+      metadata:
+        usfm: GEN.2.17
+    marker-yv: yv-n
+  - type: text
+    text: of which I commanded you,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: ‘You shall not eat of it,’
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 5:29
+      metadata:
+        usfm: GEN.5.29
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 8:20-22
+      metadata:
+        usfm: ROM.8.20+ROM.8.21+ROM.8.22
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: cursed is the ground because of you;
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eccles. 2:22
+      metadata:
+        usfm: ECC.2.22
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '23'
+      metadata:
+        usfm: ECC.2.23
+    marker-yv: yv-n
+  - type: text
+    text: in pain you shall eat of it all the days of your life;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: thorns and thistles it shall bring forth for you;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and you shall eat the plants of the field.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: By the sweat of your face
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: you shall eat bread,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: till you return to the ground,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: for out of it you were taken;
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:7
+      metadata:
+        usfm: GEN.2.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 103:14
+      metadata:
+        usfm: PSA.103.14
+    marker-yv: yv-n
+  - type: text
+    text: for you are dust,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 34:15
+      metadata:
+        usfm: JOB.34.15
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 104:29
+      metadata:
+        usfm: PSA.104.29
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eccles. 3:20
+      metadata:
+        usfm: ECC.3.20
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 12:7
+      metadata:
+        usfm: ECC.12.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 5:12
+      metadata:
+        usfm: ROM.5.12
+    marker-yv: yv-n
+  - type: text
+    text: to dust you shall return.”
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: text
+    text: The man called his wife’s name Eve, because she was the mother of all living.
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '3:20 '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: 'Eve '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'sounds like the Hebrew for '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: 'life-giver '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'and resembles the word for '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: living
+    marker-yv: yv-n
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: text
+    text: 'And the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' God made for Adam and for his wife garments of skins and clothed them.'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: 'Then the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' God said, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '5'
+      metadata:
+        usfm: GEN.3.5
+    marker-yv: yv-n
+  - type: text
+    text: '“Behold, the man has become like one of us in knowing good and evil. Now, lest he reach out his hand '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:9
+      metadata:
+        usfm: GEN.2.9
+    marker-yv: yv-n
+  - type: text
+    text: 'and take also of the tree of life and eat, and live forever—” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: text
+    text: 'therefore the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' God sent him out from the garden of Eden '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:5
+      metadata:
+        usfm: GEN.2.5
+    marker-yv: yv-n
+  - type: text
+    text: 'to work the ground from which he was taken. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '24'
+  - type: text
+    text: 'He drove out the man, and at the east of the garden of Eden he placed the '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 18:10
+      metadata:
+        usfm: PSA.18.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 104:4
+      metadata:
+        usfm: PSA.104.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 1:7
+      metadata:
+        usfm: HEB.1.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 25:18-22
+      metadata:
+        usfm: EXO.25.18+EXO.25.19+EXO.25.20+EXO.25.21+EXO.25.22
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ezek. 28:11-16
+      metadata:
+        usfm: EZK.28.11+EZK.28.12+EZK.28.13+EZK.28.14+EZK.28.15+EZK.28.16
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: cherubim and a flaming sword that turned every way to guard the way to the tree of life.

@@ -1,580 +1,544 @@
-document_id: MAT.4,93
+document_id: MAT.4
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Tentation de Jésus-Christ
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 1-11: cf. (Mc 1:12, 13. Lu 4:1-13.) Ge 3:1-6. (Ps 27:2. Hé 4:15.)'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Tentation de Jésus-Christ
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Alors Jésus '
   - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 1-11: cf. (Mc 1:12, 13. Lu 4:1-13.) Ge 3:1-6. (Ps 27:2. Hé 4:15.)'
-    marker-yv: yv-h
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Mc 1:12
+      metadata:
+        usfm: MRK.1.12
     - type: text
-      text: 'Alors Jésus '
+      text: '. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mc 1:12
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lu 4:1
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'fut emmené par l’Esprit dans le désert, pour être tenté par le diable. '
-  '10':
-  - type: usfm
-    marker: m
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
+        text: Lu 4:1
+      metadata:
+        usfm: LUK.4.1
     - type: text
-      text: 'Jésus lui dit: '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'Retire-toi, Satan! Car il est écrit:'
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'fut emmené par l’Esprit dans le désert, pour être tenté par le diable. '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: De 6:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 10:20
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Tu adoreras le Seigneur, ton Dieu, et tu le serviras lui seul.
-  '11':
-  - type: usfm
-    marker: m
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '11'
-    - type: text
-      text: Alors le diable le laissa. Et voici, des anges vinrent auprès de Jésus, et le servaient.
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Jésus à Capernaüm
-    marker-yv: yv-h
+      text: '2'
+  - type: text
+    text: 'Après avoir jeûné quarante jours et quarante nuits, il eut faim. '
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 12-16: cf. (Mc 1:14, 15. Lu 4:14, 15.) És 8:23; 9:1.'
-    marker-yv: yv-h
-  '12':
+      text: '3'
+  - type: text
+    text: 'Le tentateur, s’étant approché, lui dit: Si tu es Fils de Dieu, ordonne que ces pierres deviennent des pains. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'Jésus répondit: '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: 'Il est écrit:'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: De 8:3
+      metadata:
+        usfm: DEU.8.3
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: L’homme ne vivra pas de pain seulement, mais de toute parole qui sort de la bouche de Dieu.
+- type: usfm
+  marker: m
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'Le diable le transporta dans la ville sainte, le plaça sur le haut du temple, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'et lui dit: Si tu es Fils de Dieu, jette-toi en bas; car il est écrit:'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps 91:11
+      metadata:
+        usfm: PSA.91.11
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '12'
+      metadata:
+        usfm: PSA.91.12
     - type: text
-      text: 'Jésus, ayant appris que '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mc 1:14
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lu 4:14
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Jean avait été livré, se retira '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lu 4:16
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '31'
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 4:43
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'dans la Galilée. '
-  '13':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: Il donnera des ordres à ses anges à ton sujet;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et ils te porteront sur les mains,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: De peur que ton pied ne heurte contre une pierre.
+- type: usfm
+  marker: m
+  children:
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '13'
-    - type: text
-      text: 'Il quitta Nazareth, et vint demeurer à Capernaüm, située près de la mer, dans le territoire de Zabulon et de Nephthali, '
-  '14':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '14'
-    - type: text
-      text: 'afin que s’accomplît ce qui avait été annoncé par Ésaïe, le prophète:'
-  '15':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '15'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 8:23
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 9:1
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: Le peuple de Zabulon et de Nephthali,
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: De la contrée voisine de la mer, du pays au delà du Jourdain,
+      text: '7'
+  - type: text
+    text: 'Jésus lui dit: '
   - type: usfm
-    marker: q1
+    marker: wj
     children:
     - type: text
-      text: Et de la Galilée des Gentils,
-  '16':
+      text: 'Il est aussi écrit:'
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: text
-      text: Ce peuple, assis dans les ténèbres,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: A vu une grande lumière;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Et sur ceux qui étaient assis dans la région et l’ombre de la mort
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: La lumière s’est levée.
-  - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Commencement du ministère de Jésus. Vocation de quatre disciples
-    marker-yv: yv-h
-  - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 17-22: cf. (Mc 1:16-20. Lu 5:1-11.) 1 R 19:19-21.'
-    marker-yv: yv-h
-  '17':
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '17'
+        text: De 6:16
+      metadata:
+        usfm: DEU.6.16
     - type: text
-      text: 'Dès ce moment Jésus commença à prêcher, et à dire: '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mc 1:15
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Repentez-vous, car le royaume des cieux est proche.
-    - type: text
-      text: ' '
-  '18':
+      text: .
+    marker-yv: yv-n
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mc 1:16
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Comme il marchait le long de la mer de Galilée, il vit deux frères, Simon, appelé Pierre, et André, son frère, qui jetaient un filet dans la mer; car ils étaient pêcheurs. '
-  '19':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: text
-      text: 'Il leur dit: '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Suivez-moi, et je vous ferai pêcheurs d’hommes.
-    - type: text
-      text: ' '
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'Après avoir jeûné quarante jours et quarante nuits, il eut faim. '
-  '20':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '20'
-    - type: text
-      text: 'Aussitôt, ils laissèrent les filets, et le suivirent. '
-  '21':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '21'
-    - type: text
-      text: 'De là étant allé plus loin, il vit deux autres frères, Jacques, fils de Zébédée, et Jean, son frère, qui étaient dans une barque avec Zébédée, leur père, et qui réparaient leurs filets. '
-  '22':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '22'
-    - type: text
-      text: Il les appela, et aussitôt ils laissèrent la barque et leur père, et le suivirent.
-  - type: usfm
-    marker: r
+    marker: wj
     children:
     - type: text
-      text: 'V. 23-25: cf. Mt 9:35; 8:16, 17. Mc 1:32-39. Lu 4:43, 44; 6:17-20.'
-    marker-yv: yv-h
-  '23':
+      text: Tu ne tenteras point le Seigneur, ton Dieu.
+- type: usfm
+  marker: m
+  children:
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '23'
-    - type: text
-      text: 'Jésus parcourait toute la Galilée, enseignant dans les synagogues, prêchant la bonne nouvelle du royaume, et guérissant toute maladie et toute infirmité parmi le peuple. '
-  '24':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '24'
-    - type: text
-      text: 'Sa renommée se répandit dans toute la Syrie, et on lui amenait tous ceux qui souffraient de maladies et de douleurs de divers genres, des démoniaques, des lunatiques, des paralytiques; et il les guérissait. '
-  '25':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '25'
-    - type: text
-      text: Une grande foule le suivit, de la Galilée, de la Décapole, de Jérusalem, de la Judée, et d’au delà du Jourdain.
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'Le tentateur, s’étant approché, lui dit: Si tu es Fils de Dieu, ordonne que ces pierres deviennent des pains. '
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'Jésus répondit: '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'Il est écrit:'
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: De 8:3
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: L’homme ne vivra pas de pain seulement, mais de toute parole qui sort de la bouche de Dieu.
-  '5':
-  - type: usfm
-    marker: m
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: 'Le diable le transporta dans la ville sainte, le plaça sur le haut du temple, '
-  '6':
-  - type: usfm
-    marker: m
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'et lui dit: Si tu es Fils de Dieu, jette-toi en bas; car il est écrit:'
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps 91:11
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '12'
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: Il donnera des ordres à ses anges à ton sujet;
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Et ils te porteront sur les mains,
+      text: '8'
+  - type: text
+    text: 'Le diable le transporta encore sur une montagne très élevée, lui montra tous les royaumes du monde et leur gloire, '
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: De peur que ton pied ne heurte contre une pierre.
-  '7':
+      text: '9'
+  - type: text
+    text: 'et lui dit: Je te donnerai toutes ces choses, si tu te prosternes et m’adores. '
   - type: usfm
-    marker: m
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
     - type: text
-      text: 'Jésus lui dit: '
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: 'Il est aussi écrit:'
+      text: '10'
+  - type: text
+    text: 'Jésus lui dit: '
   - type: usfm
-    marker: q1
+    marker: wj
     children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: De 6:16
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: usfm
-      marker: wj
-      children:
-      - type: text
-        text: Tu ne tenteras point le Seigneur, ton Dieu.
-  '8':
-  - type: usfm
-    marker: m
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
     - type: text
-      text: 'Le diable le transporta encore sur une montagne très élevée, lui montra tous les royaumes du monde et leur gloire, '
-  '9':
+      text: 'Retire-toi, Satan! Car il est écrit:'
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: m
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '9'
+        text: De 6:13
+      metadata:
+        usfm: DEU.6.13
     - type: text
-      text: 'et lui dit: Je te donnerai toutes ces choses, si tu te prosternes et m’adores. '
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 10:20
+      metadata:
+        usfm: DEU.10.20
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: Tu adoreras le Seigneur, ton Dieu, et tu le serviras lui seul.
+- type: usfm
+  marker: m
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: Alors le diable le laissa. Et voici, des anges vinrent auprès de Jésus, et le servaient.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Jésus à Capernaüm
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 12-16: cf. (Mc 1:14, 15. Lu 4:14, 15.) És 8:23; 9:1.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'Jésus, ayant appris que '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mc 1:14
+      metadata:
+        usfm: MRK.1.14
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lu 4:14
+      metadata:
+        usfm: LUK.4.14
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Jean avait été livré, se retira '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lu 4:16
+      metadata:
+        usfm: LUK.4.16
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '31'
+      metadata:
+        usfm: LUK.4.31
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jn 4:43
+      metadata:
+        usfm: JHN.4.43
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'dans la Galilée. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'Il quitta Nazareth, et vint demeurer à Capernaüm, située près de la mer, dans le territoire de Zabulon et de Nephthali, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: 'afin que s’accomplît ce qui avait été annoncé par Ésaïe, le prophète:'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: És 8:23
+      metadata:
+        usfm: ISA.8.23
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 9:1
+      metadata:
+        usfm: ISA.9.1
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: Le peuple de Zabulon et de Nephthali,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: De la contrée voisine de la mer, du pays au delà du Jourdain,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et de la Galilée des Gentils,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: Ce peuple, assis dans les ténèbres,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: A vu une grande lumière;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et sur ceux qui étaient assis dans la région et l’ombre de la mort
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: La lumière s’est levée.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Commencement du ministère de Jésus. Vocation de quatre disciples
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 17-22: cf. (Mc 1:16-20. Lu 5:1-11.) 1 R 19:19-21.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'Dès ce moment Jésus commença à prêcher, et à dire: '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mc 1:15
+      metadata:
+        usfm: MRK.1.15
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: Repentez-vous, car le royaume des cieux est proche.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mc 1:16
+      metadata:
+        usfm: MRK.1.16
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Comme il marchait le long de la mer de Galilée, il vit deux frères, Simon, appelé Pierre, et André, son frère, qui jetaient un filet dans la mer; car ils étaient pêcheurs. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: 'Il leur dit: '
+  - type: usfm
+    marker: wj
+    children:
+    - type: text
+      text: Suivez-moi, et je vous ferai pêcheurs d’hommes.
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: text
+    text: 'Aussitôt, ils laissèrent les filets, et le suivirent. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: text
+    text: 'De là étant allé plus loin, il vit deux autres frères, Jacques, fils de Zébédée, et Jean, son frère, qui étaient dans une barque avec Zébédée, leur père, et qui réparaient leurs filets. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: Il les appela, et aussitôt ils laissèrent la barque et leur père, et le suivirent.
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 23-25: cf. Mt 9:35; 8:16, 17. Mc 1:32-39. Lu 4:43, 44; 6:17-20.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: text
+    text: 'Jésus parcourait toute la Galilée, enseignant dans les synagogues, prêchant la bonne nouvelle du royaume, et guérissant toute maladie et toute infirmité parmi le peuple. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '24'
+  - type: text
+    text: 'Sa renommée se répandit dans toute la Syrie, et on lui amenait tous ceux qui souffraient de maladies et de douleurs de divers genres, des démoniaques, des lunatiques, des paralytiques; et il les guérissait. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '25'
+  - type: text
+    text: Une grande foule le suivit, de la Galilée, de la Décapole, de Jérusalem, de la Judée, et d’au delà du Jourdain.

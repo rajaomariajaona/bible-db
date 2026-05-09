@@ -1,61 +1,51 @@
-document_id: PSA.123,96
+document_id: PSA.123
 type_code: plt
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Fanantenana an'Andriamanitra hanafaka amin'ny fanebahana sy ny fanamavoana
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Fanantenana an'Andriamanitra hanafaka amin'ny fanebahana sy ny fanamavoana
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: Fihirana fiakarana
   - type: usfm
-    marker: p
+    marker: x
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
     - type: text
-      text: Fihirana fiakarana
-    - type: usfm
-      marker: x
-      children:
-      - type: text
-        text: 'Na: Fihirana misy hevitra ambaratonga'
-      marker-yv: yv-n
-    - type: text
-      text: . Aminao no anandratako ny masoko, Ry Mpitoetra any an-danitra ô.
-  '2':
+      text: 'Na: Fihirana misy hevitra ambaratonga'
+    marker-yv: yv-n
+  - type: text
+    text: . Aminao no anandratako ny masoko, Ry Mpitoetra any an-danitra ô.
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
     - type: text
-      text: 'Indro, toy ny fijerin''ny ankizilahy Ny tanan''ny tompolahiny, Ary toy ny fijerin''ny ankizivavy Ny tanan''ny tompovaviny, No fijerintsika an''i Jehovah Andriamanitsika, Mandra-pamindra fony amintsika. '
-  '3':
+      text: '2'
+  - type: text
+    text: 'Indro, toy ny fijerin''ny ankizilahy Ny tanan''ny tompolahiny, Ary toy ny fijerin''ny ankizivavy Ny tanan''ny tompovaviny, No fijerintsika an''i Jehovah Andriamanitsika, Mandra-pamindra fony amintsika. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
     - type: text
-      text: 'Mamindrà fo aminay, Jehovah ô, mamindrà fo aminay; Fa tototry ny fanamavoana loatra izahay; '
-  '4':
+      text: '3'
+  - type: text
+    text: 'Mamindrà fo aminay, Jehovah ô, mamindrà fo aminay; Fa tototry ny fanamavoana loatra izahay; '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
     - type: text
-      text: Eny, tototry ny famingavingan'ny miadana ny fanahinay, Sy tototry ny fanamavoan'ny mpiavonavona.
+      text: '4'
+  - type: text
+    text: Eny, tototry ny famingavingan'ny miadana ny fanahinay, Sy tototry ny fanamavoan'ny mpiavonavona.

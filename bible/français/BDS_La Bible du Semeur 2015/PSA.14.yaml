@@ -1,232 +1,229 @@
-document_id: PSA.14,21
+document_id: PSA.14
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Un monde corrompu
   - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Un monde corrompu
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '14 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Voir '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ps 53
-        - type: text
-          text: .
-      marker-yv: yv-n
-    marker-yv: yv-h
-  - type: usfm
-    marker: d
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: 'Au chef de chœur : de David.'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'Les insensés pensent : ╵« Dieu n’existe pas. »'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Ils sont corrompus, ╵leurs agissements sont abominables, ╵et aucun ne fait le bien
+        text: '14 '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '14.1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Les v. 1-3 sont cités en '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Rm 3.10-12
-        - type: text
-          text: .
-      marker-yv: yv-n
-    - type: text
-      text: .
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: 'Du ciel, l’Eternel observe ╵tout le genre humain :'
+        text: 'Voir '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 53
+        metadata:
+          usfm: PSA.53
+      - type: text
+        text: .
+    marker-yv: yv-n
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: « Reste-t-il un homme sage
+      text: '1'
+  - type: text
+    text: 'Au chef de chœur : de David.'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Les insensés pensent : ╵« Dieu n’existe pas. »'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Ils sont corrompus, ╵leurs agissements sont abominables, ╵et aucun ne fait le bien
   - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: qui s’attend à Dieu ?
-  '3':
-  - type: usfm
-    marker: q1
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: Ils se sont tous égarés, ╵tous sont corrompus,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et aucun ne fait le bien,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: même pas un seul.
-  '4':
-  - type: usfm
-    marker: q1
-    children:
+        text: '14.1 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '4'
-    - type: text
-      text: Tous ces gens qui font le mal, ╵n’ont-ils rien compris ?
+        text: 'Les v. 1-3 sont cités en '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rm 3.10-12
+        metadata:
+          usfm: ROM.3.10+ROM.3.11+ROM.3.12
+      - type: text
+        text: .
+    marker-yv: yv-n
+  - type: text
+    text: .
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Car ils dévorent mon peuple, ╵tout comme on mange du pain
+      text: '2'
+  - type: text
+    text: 'Du ciel, l’Eternel observe ╵tout le genre humain :'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: « Reste-t-il un homme sage
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: qui s’attend à Dieu ?
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: Ils se sont tous égarés, ╵tous sont corrompus,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et aucun ne fait le bien,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: même pas un seul.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: Tous ces gens qui font le mal, ╵n’ont-ils rien compris ?
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Car ils dévorent mon peuple, ╵tout comme on mange du pain
+  - type: usfm
+    marker: f
+    children:
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '14.4 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Autre traduction : '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: ils mangent son pain.
-      marker-yv: yv-n
-    - type: text
-      text: '  !'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Jamais ils n’invoquent l’Eternel ! »
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: Ils sont saisis d’épouvante,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: car Dieu est avec les justes.
-  '6':
-  - type: usfm
-    marker: q1
-    children:
+        text: '14.4 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '6'
-    - type: text
-      text: Pensez-vous pouvoir ruiner ╵les projets des pauvres ?
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: L’Eternel est leur refuge.
-  '7':
-  - type: usfm
-    marker: q1
-    children:
+        text: 'Autre traduction : '
     - type: usfm
-      marker: vlbl
+      marker: fqa
       children:
       - type: text
-        text: '7'
-    - type: text
-      text: Ah, que vienne du mont de Sion ╵le salut pour Israël !
+        text: ils mangent son pain.
+    marker-yv: yv-n
+  - type: text
+    text: '  !'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Jamais ils n’invoquent l’Eternel ! »
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Quand l’Eternel changera ╵le sort de son peuple
+      text: '5'
+  - type: text
+    text: Ils sont saisis d’épouvante,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: car Dieu est avec les justes.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: Pensez-vous pouvoir ruiner ╵les projets des pauvres ?
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: L’Eternel est leur refuge.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: Ah, que vienne du mont de Sion ╵le salut pour Israël !
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Quand l’Eternel changera ╵le sort de son peuple
+  - type: usfm
+    marker: f
+    children:
     - type: usfm
-      marker: f
+      marker: fr
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '14.7 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Autre traduction : '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: fera revenir ceux de son peuple qui sont exilés.
-      marker-yv: yv-n
-    - type: text
-      text: ','
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Jacob criera d’allégresse, ╵Israël, de joie.
+      - type: text
+        text: '14.7 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Autre traduction : '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: fera revenir ceux de son peuple qui sont exilés.
+    marker-yv: yv-n
+  - type: text
+    text: ','
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Jacob criera d’allégresse, ╵Israël, de joie.

@@ -1,1006 +1,1025 @@
-document_id: 2SA.16,59
+document_id: 2SA.16
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: David and Ziba
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: David and Ziba
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'When David had passed a little beyond '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: 'When David had passed a little beyond '
+        text: 'ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 15:30
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '32'
-      marker-yv: yv-n
+        text: 15:30
+      metadata:
+        usfm: 2SA.15.30
     - type: text
-      text: 'the summit, '
+      text: ', '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 9:2-13
-      marker-yv: yv-n
-    - type: text
-      text: 'Ziba the servant of Mephibosheth met him, with a couple of donkeys saddled, bearing two hundred loaves of bread, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Sam. 25:18
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'a hundred bunches of raisins, a hundred of summer fruits, and a skin of wine. '
-  '10':
+      - type: text
+        text: '32'
+      metadata:
+        usfm: 2SA.15.32
+    marker-yv: yv-n
+  - type: text
+    text: 'the summit, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: 'But the king said, '
+        text: 'See ch. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:22
-      marker-yv: yv-n
-    - type: text
-      text: '“What have I to do with you, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Sam. 26:6
-      marker-yv: yv-n
-    - type: text
-      text: 'you sons of Zeruiah? If he is cursing because the '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' has said to him, ‘Curse David,’ who then shall say, ‘Why have you done so?’” '
-  '11':
+        text: 9:2-13
+      metadata:
+        usfm: 2SA.9.2+2SA.9.3+2SA.9.4+2SA.9.5+2SA.9.6+2SA.9.7+2SA.9.8+2SA.9.9+2SA.9.10+2SA.9.11+2SA.9.12+2SA.9.13
+    marker-yv: yv-n
+  - type: text
+    text: 'Ziba the servant of Mephibosheth met him, with a couple of donkeys saddled, bearing two hundred loaves of bread, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '11'
-    - type: text
-      text: 'And David said to Abishai and to all his servants, “Behold, '
+        text: '['
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 12:11
-      marker-yv: yv-n
-    - type: text
-      text: 'my own son seeks my life; how much more now may this Benjaminite! Leave him alone, and let him curse, for the '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' has told him to. '
-  '12':
+        text: 1 Sam. 25:18
+      metadata:
+        usfm: 1SA.25.18
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'a hundred bunches of raisins, a hundred of summer fruits, and a skin of wine. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'And the king said to Ziba, “Why have you brought these?” Ziba answered, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '12'
-    - type: text
-      text: 'It may be that the '
+        text: '['
     - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
+        text: Judg. 5:10
+      metadata:
+        usfm: JDG.5.10
     - type: text
-      text: ' will look on the wrong done to me,'
+      text: '; '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '16:12 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Septuagint, Vulgate '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: will look upon my affliction
-      marker-yv: yv-n
-    - type: text
-      text: ' and that the '
-    - type: usfm
-      marker: nd
+      marker: ref
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' will repay me with good for his cursing today.” '
-  '13':
+        text: 10:4
+      metadata:
+        usfm: JDG.10.4
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: '“The donkeys are for the king’s household to ride on, the bread and summer fruit for the young men to eat, and the wine for those who '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '13'
-    - type: text
-      text: 'So David and his men went on the road, while Shimei went along on the hillside opposite him and '
+        text: 'ver. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:21
-      marker-yv: yv-n
-    - type: text
-      text: 'cursed as he went and threw stones at him and flung dust. '
-  '14':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '14'
+      metadata:
+        usfm: 2SA.16.14
     - type: text
-      text: 'And the king, and all the people who were with him, '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '2'
-      marker-yv: yv-n
-    - type: text
-      text: arrived weary at the Jordan.
+      - type: text
+        text: 'ch. '
     - type: usfm
-      marker: f
+      marker: ref
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '16:14 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Septuagint; Hebrew lacks '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: at the Jordan
-      marker-yv: yv-n
-    - type: text
-      text: ' And there he refreshed himself.'
+      - type: text
+        text: 17:29
+      metadata:
+        usfm: 2SA.17.29
+    marker-yv: yv-n
+  - type: text
+    text: 'faint in the wilderness to drink.” '
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Absalom Enters Jerusalem
-    marker-yv: yv-h
-  '15':
+      text: '3'
+  - type: text
+    text: 'And the king said, “And where is your master’s son?” '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '15'
-    - type: text
-      text: ' '
+        text: 'ch. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 15:37
-      marker-yv: yv-n
+      - type: text
+        text: 19:26
+      metadata:
+        usfm: 2SA.19.26
     - type: text
-      text: 'Now Absalom and all the people, the men of Israel, came to Jerusalem, and Ahithophel with him. '
-  '16':
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '27'
+      metadata:
+        usfm: 2SA.19.27
+    marker-yv: yv-n
+  - type: text
+    text: 'Ziba said to the king, “Behold, he remains in Jerusalem, for he said, ‘Today the house of Israel will give me back the kingdom of my father.’” '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: text
-      text: 'And when Hushai the Archite, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '15'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: above]
-      marker-yv: yv-n
-    - type: text
-      text: 'David’s friend, came to Absalom, Hushai said to Absalom, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Sam. 10:24
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Kgs. 1:25
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '39'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Kgs. 11:12
-      marker-yv: yv-n
-    - type: text
-      text: '“Long live the king! Long live the king!” '
-  '17':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: text
-      text: 'And Absalom said to Hushai, “Is this your loyalty to your friend? '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:25
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'Why did you not go with your friend?” '
-  '18':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
-    - type: text
-      text: 'And Hushai said to Absalom, “No, for whom the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' and this people and all the men of Israel have chosen, his I will be, and with him I will remain. '
-  '19':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: text
-      text: 'And again, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 15:34
-      marker-yv: yv-n
-    - type: text
-      text: whom should I serve? Should it not be his son? As I have served your father, so I will serve you.”
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'And the king said to Ziba, “Why have you brought these?” Ziba answered, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Judg. 5:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 10:4
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: '“The donkeys are for the king’s household to ride on, the bread and summer fruit for the young men to eat, and the wine for those who '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '14'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 17:29
-      marker-yv: yv-n
-    - type: text
-      text: 'faint in the wilderness to drink.” '
-  '20':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '20'
-    - type: text
-      text: 'Then Absalom said to Ahithophel, “Give your counsel. What shall we do?” '
-  '21':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '21'
-    - type: text
-      text: 'Ahithophel said to Absalom, “Go in to '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 15:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 20:3
-      marker-yv: yv-n
-    - type: text
-      text: 'your father’s concubines, whom he has left to keep the house, and all Israel will hear that you have made yourself a stench to your father, and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Zech. 8:9
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '13'
-      marker-yv: yv-n
-    - type: text
-      text: 'the hands of all who are with you will be strengthened.” '
-  '22':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '22'
-    - type: text
-      text: 'So they pitched a tent for Absalom '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Sam. 9:25
-      marker-yv: yv-n
-    - type: text
-      text: 'on the roof. And Absalom went in to his father’s concubines '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 12:11
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '12'
-      marker-yv: yv-n
-    - type: text
-      text: 'in the sight of all Israel. '
-  '23':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '23'
-    - type: text
-      text: 'Now in those days the counsel that Ahithophel gave was as if one consulted the word of God; so was all the counsel of Ahithophel esteemed, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 15:12
-      marker-yv: yv-n
-    - type: text
-      text: both by David and by Absalom.
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'And the king said, “And where is your master’s son?” '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:26
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '27'
-      marker-yv: yv-n
-    - type: text
-      text: 'Ziba said to the king, “Behold, he remains in Jerusalem, for he said, ‘Today the house of Israel will give me back the kingdom of my father.’” '
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: Then the king said to Ziba, “Behold, all that belonged to Mephibosheth is now yours.” And Ziba said, “I pay homage; let me ever find favor in your sight, my lord the king.”
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Shimei Curses David
-    marker-yv: yv-h
-  '5':
+      text: '4'
+  - type: text
+    text: Then the king said to Ziba, “Behold, all that belonged to Mephibosheth is now yours.” And Ziba said, “I pay homage; let me ever find favor in your sight, my lord the king.”
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Shimei Curses David
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'When King David came to '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 3:16
+      metadata:
+        usfm: 2SA.3.16
+    marker-yv: yv-n
+  - type: text
+    text: 'Bahurim, there came out a man of the family of the house of Saul, whose name was '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:16
+      metadata:
+        usfm: 2SA.19.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Kgs. 2:8
+      metadata:
+        usfm: 1KI.2.8
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 36-46
+      metadata:
+        usfm: 1KI.2.36+1KI.2.37+1KI.2.38+1KI.2.39+1KI.2.40+1KI.2.41+1KI.2.42+1KI.2.43+1KI.2.44+1KI.2.45+1KI.2.46
+    marker-yv: yv-n
+  - type: text
+    text: 'Shimei, the son of Gera, and as he came '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:21
+      metadata:
+        usfm: 2SA.19.21
+    marker-yv: yv-n
+  - type: text
+    text: 'he cursed continually. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'And he threw stones at David and at all the servants of King David, and all the people and all the mighty men were on his right hand and on his left. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'And Shimei said as he '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[See ver. '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '5'
-    - type: text
-      text: 'When King David came to '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 3:16
-      marker-yv: yv-n
-    - type: text
-      text: 'Bahurim, there came out a man of the family of the house of Saul, whose name was '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Kgs. 2:8
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 36-46
-      marker-yv: yv-n
-    - type: text
-      text: 'Shimei, the son of Gera, and as he came '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:21
-      marker-yv: yv-n
-    - type: text
-      text: 'he cursed continually. '
-  '6':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'And he threw stones at David and at all the servants of King David, and all the people and all the mighty men were on his right hand and on his left. '
-  '7':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: 'And Shimei said as he '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '5'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: above]
-      marker-yv: yv-n
-    - type: text
-      text: 'cursed, “Get out, get out, you man of blood, you worthless man! '
-  '8':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: 'The '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
+      metadata:
+        usfm: 2SA.5
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Judg. 9:24
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '56'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '57'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Kgs. 2:32
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '33'
-      marker-yv: yv-n
-    - type: text
-      text: 'has avenged on you all '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1:16
-      marker-yv: yv-n
-    - type: text
-      text: 'the blood of the house of Saul, in whose place you have reigned, and the '
-    - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' has given the kingdom into the hand of your son Absalom. See, your evil is on you, for you are a man of blood.”'
-  '9':
+        text: above]
+    marker-yv: yv-n
+  - type: text
+    text: 'cursed, “Get out, get out, you man of blood, you worthless man! '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'The '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '9'
+        text: Judg. 9:24
+      metadata:
+        usfm: JDG.9.24
     - type: text
-      text: 'Then Abishai the son of Zeruiah said to the king, “Why should this '
+      text: ', '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 9:8
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Sam. 24:14
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 3:8
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: '56'
+      metadata:
+        usfm: JDG.9.56
     - type: text
-      text: 'dead dog '
+      text: ', '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex. 22:28
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+      - type: text
+        text: '57'
+      metadata:
+        usfm: JDG.9.57
     - type: text
-      text: 'curse my lord the king? Let me go over and take off his head.” '
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Kgs. 2:32
+      metadata:
+        usfm: 1KI.2.32
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '33'
+      metadata:
+        usfm: 1KI.2.33
+    marker-yv: yv-n
+  - type: text
+    text: 'has avenged on you all '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1:16
+      metadata:
+        usfm: 2SA.1.16
+    marker-yv: yv-n
+  - type: text
+    text: 'the blood of the house of Saul, in whose place you have reigned, and the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' has given the kingdom into the hand of your son Absalom. See, your evil is on you, for you are a man of blood.”'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'Then Abishai the son of Zeruiah said to the king, “Why should this '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 9:8
+      metadata:
+        usfm: 2SA.9.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Sam. 24:14
+      metadata:
+        usfm: 1SA.24.14
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 3:8
+      metadata:
+        usfm: 1SA.3.8
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'dead dog '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ex. 22:28
+      metadata:
+        usfm: EXO.22.28
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'curse my lord the king? Let me go over and take off his head.” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'But the king said, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:22
+      metadata:
+        usfm: 2SA.19.22
+    marker-yv: yv-n
+  - type: text
+    text: '“What have I to do with you, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Sam. 26:6
+      metadata:
+        usfm: 1SA.26.6
+    marker-yv: yv-n
+  - type: text
+    text: 'you sons of Zeruiah? If he is cursing because the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' has said to him, ‘Curse David,’ who then shall say, ‘Why have you done so?’” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'And David said to Abishai and to all his servants, “Behold, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 12:11
+      metadata:
+        usfm: 2SA.12.11
+    marker-yv: yv-n
+  - type: text
+    text: 'my own son seeks my life; how much more now may this Benjaminite! Leave him alone, and let him curse, for the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' has told him to. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'It may be that the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' will look on the wrong done to me,'
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '16:12 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Septuagint, Vulgate '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: will look upon my affliction
+    marker-yv: yv-n
+  - type: text
+    text: ' and that the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' will repay me with good for his cursing today.” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'So David and his men went on the road, while Shimei went along on the hillside opposite him and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:21
+      metadata:
+        usfm: 2SA.19.21
+    marker-yv: yv-n
+  - type: text
+    text: 'cursed as he went and threw stones at him and flung dust. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: 'And the king, and all the people who were with him, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '2'
+      metadata:
+        usfm: 2SA.16.2
+    marker-yv: yv-n
+  - type: text
+    text: arrived weary at the Jordan.
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '16:14 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Septuagint; Hebrew lacks '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: at the Jordan
+    marker-yv: yv-n
+  - type: text
+    text: ' And there he refreshed himself.'
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Absalom Enters Jerusalem
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 15:37
+      metadata:
+        usfm: 2SA.15.37
+    marker-yv: yv-n
+  - type: text
+    text: 'Now Absalom and all the people, the men of Israel, came to Jerusalem, and Ahithophel with him. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'And when Hushai the Archite, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[See ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '15'
+      metadata:
+        usfm: 2SA.15
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: above]
+    marker-yv: yv-n
+  - type: text
+    text: 'David’s friend, came to Absalom, Hushai said to Absalom, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Sam. 10:24
+      metadata:
+        usfm: 1SA.10.24
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Kgs. 1:25
+      metadata:
+        usfm: 1KI.1.25
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '39'
+      metadata:
+        usfm: 1KI.1.39
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Kgs. 11:12
+      metadata:
+        usfm: 2KI.11.12
+    marker-yv: yv-n
+  - type: text
+    text: '“Long live the king! Long live the king!” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'And Absalom said to Hushai, “Is this your loyalty to your friend? '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:25
+      metadata:
+        usfm: 2SA.19.25
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'Why did you not go with your friend?” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: 'And Hushai said to Absalom, “No, for whom the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' and this people and all the men of Israel have chosen, his I will be, and with him I will remain. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: 'And again, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 15:34
+      metadata:
+        usfm: 2SA.15.34
+    marker-yv: yv-n
+  - type: text
+    text: whom should I serve? Should it not be his son? As I have served your father, so I will serve you.”
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: text
+    text: 'Then Absalom said to Ahithophel, “Give your counsel. What shall we do?” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: text
+    text: 'Ahithophel said to Absalom, “Go in to '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 15:16
+      metadata:
+        usfm: 2SA.15.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 20:3
+      metadata:
+        usfm: 2SA.20.3
+    marker-yv: yv-n
+  - type: text
+    text: 'your father’s concubines, whom he has left to keep the house, and all Israel will hear that you have made yourself a stench to your father, and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2:7
+      metadata:
+        usfm: 2SA.2.7
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Zech. 8:9
+      metadata:
+        usfm: ZEC.8.9
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '13'
+      metadata:
+        usfm: ZEC.8.13
+    marker-yv: yv-n
+  - type: text
+    text: 'the hands of all who are with you will be strengthened.” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: 'So they pitched a tent for Absalom '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Sam. 9:25
+      metadata:
+        usfm: 1SA.9.25
+    marker-yv: yv-n
+  - type: text
+    text: 'on the roof. And Absalom went in to his father’s concubines '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 12:11
+      metadata:
+        usfm: 2SA.12.11
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '12'
+      metadata:
+        usfm: 2SA.12.12
+    marker-yv: yv-n
+  - type: text
+    text: 'in the sight of all Israel. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: text
+    text: 'Now in those days the counsel that Ahithophel gave was as if one consulted the word of God; so was all the counsel of Ahithophel esteemed, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 15:12
+      metadata:
+        usfm: 2SA.15.12
+    marker-yv: yv-n
+  - type: text
+    text: both by David and by Absalom.

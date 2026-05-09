@@ -1,99 +1,97 @@
-document_id: PSA.123,93
+document_id: PSA.123
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: (Né 2:19, 20; 4:1-4.) Ps 120.
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: (Né 2:19, 20; 4:1-4.) Ps 120.
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: Cantique des degrés,
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: Cantique des degrés,
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps 115:3
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: Je lève mes yeux vers toi,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Qui sièges dans les cieux.
-  '2':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '2'
+        text: Ps 115:3
+      metadata:
+        usfm: PSA.115.3
     - type: text
-      text: Voici, comme les yeux des serviteurs sont fixés sur la main de leurs maîtres,
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: Je lève mes yeux vers toi,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Qui sièges dans les cieux.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Et les yeux de la servante sur la main de sa maîtresse,
+      text: '2'
+  - type: text
+    text: Voici, comme les yeux des serviteurs sont fixés sur la main de leurs maîtres,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et les yeux de la servante sur la main de sa maîtresse,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Ainsi nos yeux se tournent vers l’Éternel, notre Dieu,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Jusqu’à ce qu’il ait pitié de nous.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Ainsi nos yeux se tournent vers l’Éternel, notre Dieu,
+      text: '3'
+  - type: text
+    text: Aie pitié de nous, Éternel, aie pitié de nous!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Car nous sommes assez rassasiés de mépris;
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Jusqu’à ce qu’il ait pitié de nous.
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: Aie pitié de nous, Éternel, aie pitié de nous!
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Car nous sommes assez rassasiés de mépris;
-  '4':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: Notre âme est assez rassasiée
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Des moqueries des orgueilleux, du mépris des hautains.
+      text: '4'
+  - type: text
+    text: Notre âme est assez rassasiée
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Des moqueries des orgueilleux, du mépris des hautains.

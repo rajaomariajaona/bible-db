@@ -1,269 +1,282 @@
-document_id: PSA.3,93
+document_id: PSA.3
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 2 S 15; 16. Ps 4; 5; 27:1-3, 6; 56:3-5.
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 2 S 15; 16. Ps 4; 5; 27:1-3, 6; 56:3-5.
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Psaume de David. A l’occasion de sa '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: 'Psaume de David. A l’occasion de sa '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 S 15:16
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '17'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '18'
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: fuite devant Absalom, son fils.
-  '2':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '2'
+        text: 2 S 15:16
+      metadata:
+        usfm: 2SA.15.16
     - type: text
-      text: O Éternel, que mes ennemis sont nombreux!
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '17'
+      metadata:
+        usfm: 2SA.15.17
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '18'
+      metadata:
+        usfm: 2SA.15.18
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: fuite devant Absalom, son fils.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Quelle multitude se lève contre moi!
-  '3':
+      text: '2'
+  - type: text
+    text: O Éternel, que mes ennemis sont nombreux!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Quelle multitude se lève contre moi!
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'Combien qui disent à mon sujet:'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Plus de salut pour lui auprès de Dieu! '
+  - type: usfm
+    marker: qs
+    children:
+    - type: text
+      text: — Pause.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: Mais toi, ô Éternel! Tu es mon bouclier,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Tu es ma gloire, et tu relèves ma tête.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: De ma voix je crie à l’Éternel,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Et il me répond de sa montagne sainte. '
+  - type: usfm
+    marker: qs
+    children:
+    - type: text
+      text: — Pause.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '3'
+        text: Ps 4:9
+      metadata:
+        usfm: PSA.4.9
     - type: text
-      text: 'Combien qui disent à mon sujet:'
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: Je me couche, et je m’endors;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Je me réveille, car l’Éternel est mon soutien.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: 'Plus de salut pour lui auprès de Dieu! '
-    - type: usfm
-      marker: qs
-      children:
-      - type: text
-        text: — Pause.
-  '4':
+      text: '7'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: Mais toi, ô Éternel! Tu es mon bouclier,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Tu es ma gloire, et tu relèves ma tête.
-  '5':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
+        text: Ps 27:3
+      metadata:
+        usfm: PSA.27.3
     - type: text
-      text: De ma voix je crie à l’Éternel,
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: Je ne crains pas les myriades de peuples
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Qui m’assiègent de toutes parts.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: 'Et il me répond de sa montagne sainte. '
-    - type: usfm
-      marker: qs
-      children:
-      - type: text
-        text: — Pause.
-  '6':
+      text: '8'
+  - type: text
+    text: Lève-toi, Éternel! Sauve-moi, mon Dieu!
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Car tu frappes à la joue tous mes ennemis,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Tu brises les dents des méchants.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps 4:9
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: Je me couche, et je m’endors;
-  - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Je me réveille, car l’Éternel est mon soutien.
-  '7':
+      text: '9'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps 27:3
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: Je ne crains pas les myriades de peuples
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Qui m’assiègent de toutes parts.
-  '8':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '8'
+        text: Pr 21:31
+      metadata:
+        usfm: PRO.21.31
     - type: text
-      text: Lève-toi, Éternel! Sauve-moi, mon Dieu!
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Car tu frappes à la joue tous mes ennemis,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Tu brises les dents des méchants.
-  '9':
-  - type: usfm
-    marker: q1
-    children:
+      text: '. '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '9'
+        text: És 43:11
+      metadata:
+        usfm: ISA.43.11
     - type: text
-      text: ' '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Pr 21:31
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 43:11
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jé 2:23
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Os 13:4
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ap 7:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 19:1
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Jé 2:23
+      metadata:
+        usfm: JER.2.23
     - type: text
-      text: 'Le salut est auprès de l’Éternel:'
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Os 13:4
+      metadata:
+        usfm: HOS.13.4
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ap 7:10
+      metadata:
+        usfm: REV.7.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 19:1
+      metadata:
+        usfm: REV.19.1
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Le salut est auprès de l’Éternel:'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Que ta bénédiction soit sur ton peuple! '
   - type: usfm
-    marker: q1
+    marker: qs
     children:
     - type: text
-      text: 'Que ta bénédiction soit sur ton peuple! '
-    - type: usfm
-      marker: qs
-      children:
-      - type: text
-        text: — Pause.
+      text: — Pause.

@@ -1,201 +1,180 @@
-document_id: EST.7,21
+document_id: EST.7
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Esther présente sa requête
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Esther présente sa requête
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'L’empereur et Haman arrivèrent donc pour festoyer avec l’impératrice Esther. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'Ce deuxième jour, pendant que l’on buvait le vin, l’empereur demanda de nouveau à Esther : Dis-moi quelle est ta requête, impératrice Esther ? Elle te sera accordée. Quelle est ta demande ? Même si c’est la moitié de mon empire, tu l’obtiendras.'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'L’impératrice Esther répondit : Si l’empereur veut m’accorder une faveur, si l’empereur le veut bien, que la vie sauve me soit accordée, c’est là ma requête. Que la vie sauve soit aussi accordée à mon peuple, telle est ma demande. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: En effet, moi et mon peuple, nous avons été livrés pour être massacrés, tués et exterminés. Si nous avions seulement été vendus
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: 'L’empereur et Haman arrivèrent donc pour festoyer avec l’impératrice Esther. '
-  '10':
-  - type: usfm
-    marker: p
-    children:
+        text: '7.4 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: On pendit donc Haman à la potence qu’il avait préparée pour Mardochée. Alors la colère de l’empereur s’apaisa.
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'Ce deuxième jour, pendant que l’on buvait le vin, l’empereur demanda de nouveau à Esther : Dis-moi quelle est ta requête, impératrice Esther ? Elle te sera accordée. Quelle est ta demande ? Même si c’est la moitié de mon empire, tu l’obtiendras.'
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'L’impératrice Esther répondit : Si l’empereur veut m’accorder une faveur, si l’empereur le veut bien, que la vie sauve me soit accordée, c’est là ma requête. Que la vie sauve soit aussi accordée à mon peuple, telle est ma demande. '
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: En effet, moi et mon peuple, nous avons été livrés pour être massacrés, tués et exterminés. Si nous avions seulement été vendus
-    - type: usfm
-      marker: f
-      children:
+        text: 'Voir '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '7.4 '
+          text: '3.9'
+        metadata:
+          usfm: EST.3.9
+      - type: text
+        text: ' et '
       - type: usfm
-        marker: ft
+        marker: ref
         children:
         - type: text
-          text: 'Voir '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: '3.9'
-        - type: text
-          text: ' et '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: '4.7'
-        - type: text
-          text: '  : Esther avait été informée de la transaction proposée par Haman.'
-      marker-yv: yv-n
-    - type: text
-      text: ' comme esclaves et servantes, j’aurais gardé le silence ; car, dans ce cas, notre infortune ne vaudrait pas la peine que l’on importune l’empereur'
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '7.4 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Autre traduction : '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: …j’aurais gardé le silence ; mais la compensation offerte par notre adversaire n’est pas comparable au préjudice que l’empereur va subir.
-      marker-yv: yv-n
-    - type: text
-      text: .
-  '5':
+          text: '4.7'
+        metadata:
+          usfm: EST.4.7
+      - type: text
+        text: '  : Esther avait été informée de la transaction proposée par Haman.'
+    marker-yv: yv-n
+  - type: text
+    text: ' comme esclaves et servantes, j’aurais gardé le silence ; car, dans ce cas, notre infortune ne vaudrait pas la peine que l’on importune l’empereur'
   - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: 'Alors l’empereur Xerxès demanda à l’impératrice Esther : Qui est-il, celui qui a eu l’audace de concevoir un tel dessein ? Où est-il ?'
-  '6':
-  - type: usfm
-    marker: p
-    children:
+        text: '7.4 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '6'
-    - type: text
-      text: 'Esther répondit : Le persécuteur, l’ennemi, c’est Haman, ce misérable !'
-  - type: usfm
-    marker: p
-    children:
-    - type: text
-      text: 'Alors Haman fut épouvanté, devant l’empereur et l’impératrice. '
-  '7':
-  - type: usfm
-    marker: p
-    children:
+        text: 'Autre traduction : '
     - type: usfm
-      marker: vlbl
+      marker: fqa
       children:
       - type: text
-        text: '7'
-    - type: text
-      text: 'Furieux, l’empereur laissa son vin, se leva et sortit dans le jardin du palais. Haman, voyant bien que, dans l’esprit de l’empereur, son malheur était décidé, resta là pour implorer l’impératrice Esther pour sa vie. '
-  '8':
+        text: …j’aurais gardé le silence ; mais la compensation offerte par notre adversaire n’est pas comparable au préjudice que l’empereur va subir.
+    marker-yv: yv-n
+  - type: text
+    text: .
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'Alors l’empereur Xerxès demanda à l’impératrice Esther : Qui est-il, celui qui a eu l’audace de concevoir un tel dessein ? Où est-il ?'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'Esther répondit : Le persécuteur, l’ennemi, c’est Haman, ce misérable !'
+- type: usfm
+  marker: p
+  children:
+  - type: text
+    text: 'Alors Haman fut épouvanté, devant l’empereur et l’impératrice. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'Furieux, l’empereur laissa son vin, se leva et sortit dans le jardin du palais. Haman, voyant bien que, dans l’esprit de l’empereur, son malheur était décidé, resta là pour implorer l’impératrice Esther pour sa vie. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'L’empereur revint du jardin à la salle du festin au moment où Haman se laissait tomber sur le divan où Esther était allongée. Du coup, l’empereur s’écria : Veut-il en plus faire violence à l’impératrice en ma présence dans mon palais ?'
+- type: usfm
+  marker: p
+  children:
+  - type: text
+    text: A peine l’empereur eut-il prononcé ces mots que l’on recouvrit la tête
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '8'
-    - type: text
-      text: 'L’empereur revint du jardin à la salle du festin au moment où Haman se laissait tomber sur le divan où Esther était allongée. Du coup, l’empereur s’écria : Veut-il en plus faire violence à l’impératrice en ma présence dans mon palais ?'
-  - type: usfm
-    marker: p
-    children:
-    - type: text
-      text: A peine l’empereur eut-il prononcé ces mots que l’on recouvrit la tête
+        text: '7.8 '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '7.8 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: On recouvrait la tête des condamnés à mort.
-      marker-yv: yv-n
-    - type: text
-      text: ' de Haman. '
-  '9':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '9'
-    - type: text
-      text: 'Harbona, l’un des eunuques, dit alors devant l’empereur : Il y a justement cette potence que Haman a fait faire pour Mardochée, qui a parlé pour le bien de l’empereur. Elle se trouve dans la cour de Haman et elle a vingt-cinq mètres de haut.'
+        text: On recouvrait la tête des condamnés à mort.
+    marker-yv: yv-n
+  - type: text
+    text: ' de Haman. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
     - type: text
-      text: 'L’empereur ordonna : Qu’on l’y pende !'
+      text: '9'
+  - type: text
+    text: 'Harbona, l’un des eunuques, dit alors devant l’empereur : Il y a justement cette potence que Haman a fait faire pour Mardochée, qui a parlé pour le bien de l’empereur. Elle se trouve dans la cour de Haman et elle a vingt-cinq mètres de haut.'
+- type: usfm
+  marker: p
+  children:
+  - type: text
+    text: 'L’empereur ordonna : Qu’on l’y pende !'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: On pendit donc Haman à la potence qu’il avait préparée pour Mardochée. Alors la colère de l’empereur s’apaisa.

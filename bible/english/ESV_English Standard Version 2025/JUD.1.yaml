@@ -1,1703 +1,1847 @@
-document_id: JUD.1,59
+document_id: JUD.1
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Greeting
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Greeting
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: Jude, a servant
   - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: Jude, a servant
+        text: '1 '
     - type: usfm
-      marker: f
+      marker: ft
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'For the contextual rendering of the Greek word '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: doulos
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ', see Preface'
-      marker-yv: yv-n
-    - type: text
-      text: ' of Jesus Christ and brother of James,'
+      - type: text
+        text: 'For the contextual rendering of the Greek word '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: doulos
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: ', see Preface'
+    marker-yv: yv-n
+  - type: text
+    text: ' of Jesus Christ and brother of James,'
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 1:7
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 1:24
-      marker-yv: yv-n
+        text: Rom. 1:7
+      metadata:
+        usfm: ROM.1.7
     - type: text
-      text: 'To those who are called, '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Thess. 1:4
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Thess. 2:13
-      marker-yv: yv-n
-    - type: text
-      text: 'beloved in God the Father and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 17:11
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '15'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Thess. 5:23
-      marker-yv: yv-n
-    - type: text
-      text: kept for
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: by
-      marker-yv: yv-n
-    - type: text
-      text: ' Jesus Christ:'
-  '10':
+        text: 1 Cor. 1:24
+      metadata:
+        usfm: 1CO.1.24
+    marker-yv: yv-n
+  - type: text
+    text: 'To those who are called, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 2:12
-      marker-yv: yv-n
+        text: 1 Thess. 1:4
+      metadata:
+        usfm: 1TH.1.4
     - type: text
-      text: 'But these people blaspheme all that they do not understand, and they are destroyed by all that they, like unreasoning animals, understand instinctively. '
-  '11':
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Thess. 2:13
+      metadata:
+        usfm: 2TH.2.13
+    marker-yv: yv-n
+  - type: text
+    text: 'beloved in God the Father and '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
+        text: John 17:11
+      metadata:
+        usfm: JHN.17.11
     - type: text
-      text: 'Woe to them! For they walked in '
+      text: ', '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 4:5-8
-      marker-yv: yv-n
-    - type: text
-      text: 'the way of Cain and abandoned themselves for the sake of gain '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 2:15
-      marker-yv: yv-n
-    - type: text
-      text: 'to Balaam’s error and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Num. 16:1-3
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 31-35
-      marker-yv: yv-n
-    - type: text
-      text: 'perished in Korah’s rebellion. '
-  '12':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '12'
-    - type: text
-      text: These are hidden reefs
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '12 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: are blemishes
-      marker-yv: yv-n
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 2:13
-      marker-yv: yv-n
-    - type: text
-      text: 'at your love feasts, as they feast with you without fear, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezek. 34:2
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '8'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '10'
-      marker-yv: yv-n
-    - type: text
-      text: 'shepherds feeding themselves; '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 25:14
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 2:17
-      marker-yv: yv-n
-    - type: text
-      text: 'waterless clouds, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 13:9
-      marker-yv: yv-n
-    - type: text
-      text: 'swept along by winds; fruitless trees in late autumn, twice dead, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 15:13
-      marker-yv: yv-n
-    - type: text
-      text: 'uprooted; '
-  '13':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '13'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 57:20
-      marker-yv: yv-n
-    - type: text
-      text: 'wild waves of the sea, casting up the foam of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Cor. 4:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Phil. 3:19
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'their own shame; '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 14:12
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'wandering stars, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 2:17
-      marker-yv: yv-n
-    - type: text
-      text: for whom the gloom of utter darkness has been reserved forever.
-  '14':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '14'
-    - type: text
-      text: 'It was also about these that Enoch, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 5:18
-      marker-yv: yv-n
-    - type: text
-      text: 'the seventh from Adam, prophesied, saying, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 33:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Dan. 7:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mark 8:38
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Thess. 3:13
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Thess. 1:7
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: '“Behold, the Lord comes with ten thousands of his holy ones, '
-  '15':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '15'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 2:5
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+      metadata:
+        usfm: JHN.17.15
     - type: text
-      text: 'to execute judgment on all and to convict all the ungodly of all their deeds of ungodliness that they have '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 2:6
-      marker-yv: yv-n
-    - type: text
-      text: 'committed in such an ungodly way, and of all '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Sam. 2:3
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 94:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 6:60
-      marker-yv: yv-n
-    - type: text
-      text: 'the harsh things that ungodly sinners have spoken against him.” '
-  '16':
+        text: 1 Thess. 5:23
+      metadata:
+        usfm: 1TH.5.23
+    marker-yv: yv-n
+  - type: text
+    text: kept for
   - type: usfm
-    marker: p
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '16'
-    - type: text
-      text: 'These are grumblers, malcontents, '
+        text: '1 '
     - type: usfm
-      marker: x
+      marker: ft
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 2:10
-      marker-yv: yv-n
-    - type: text
-      text: 'following their own sinful desires; '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 2:18
-      marker-yv: yv-n
-    - type: text
-      text: 'they are loud-mouthed boasters, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lev. 19:15
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 10:17
-      marker-yv: yv-n
-    - type: text
-      text: showing favoritism to gain advantage.
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: by
+    marker-yv: yv-n
+  - type: text
+    text: ' Jesus Christ:'
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: A Call to Persevere
-    marker-yv: yv-h
-  '17':
+      text: '2'
+  - type: text
+    text: 'May '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '17'
-    - type: text
-      text: 'But you must '
+        text: '['
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 3:2
-      marker-yv: yv-n
-    - type: text
-      text: 'remember, beloved, the predictions of the apostles of our Lord Jesus Christ. '
-  '18':
+      - type: text
+        text: 2 John 3
+      metadata:
+        usfm: 2JN.1.3
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'mercy, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '18'
+        text: 1 Pet. 1:2
+      metadata:
+        usfm: 1PE.1.2
     - type: text
-      text: They
+      text: '; '
     - type: usfm
-      marker: f
+      marker: ref
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '18 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: Christ, because they
-      marker-yv: yv-n
-    - type: text
-      text: ' said to you, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 3:3
-      marker-yv: yv-n
-    - type: text
-      text: '“In the last time there will be scoffers, following their own ungodly passions.” '
-  '19':
+      - type: text
+        text: 2 Pet. 1:2
+      metadata:
+        usfm: 2PE.1.2
+    marker-yv: yv-n
+  - type: text
+    text: peace, and love be multiplied to you.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Judgment on False Teachers
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: text
-      text: 'It is these who cause divisions, worldly people, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 8:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Phil. 3:3
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'devoid of the Spirit. '
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'May '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 John 3
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'mercy, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 1:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 1:2
-      marker-yv: yv-n
-    - type: text
-      text: peace, and love be multiplied to you.
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Judgment on False Teachers
-    marker-yv: yv-h
-  '20':
+      text: '3'
+  - type: text
+    text: 'Beloved, although I was very eager to write to you about our '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '20'
-    - type: text
-      text: 'But you, beloved, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col. 2:7
-      marker-yv: yv-n
-    - type: text
-      text: 'building yourselves up in your most holy faith and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 6:18
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 8:26
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'praying in the Holy Spirit, '
-  '21':
+        text: Titus 1:4
+      metadata:
+        usfm: TIT.1.4
+    marker-yv: yv-n
+  - type: text
+    text: 'common salvation, I found it necessary to write appealing to you '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '21'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Cor. 13:14
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 13:43
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: 1 Tim. 6:12
+      metadata:
+        usfm: 1TI.6.12
     - type: text
-      text: 'keep yourselves in the love of God, '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Titus 2:13
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 3:12
-      marker-yv: yv-n
+        text: 2 Tim. 4:7
+      metadata:
+        usfm: 2TI.4.7
     - type: text
-      text: 'waiting for the mercy of our Lord Jesus Christ that leads to eternal life. '
-  '22':
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Luke 13:24
+      metadata:
+        usfm: LUK.13.24
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 9:25
+      metadata:
+        usfm: 1CO.9.25
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Phil. 1:27
+      metadata:
+        usfm: PHP.1.27
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'to contend for the faith that was once for all delivered to the saints. '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '22'
-    - type: text
-      text: 'And have mercy on those who doubt; '
-  '23':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '23'
-    - type: text
-      text: 'save others by '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Amos 4:11
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Zech. 3:2
-      marker-yv: yv-n
-    - type: text
-      text: 'snatching them out of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 3:15
-      marker-yv: yv-n
-    - type: text
-      text: 'the fire; to others show mercy '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Cor. 5:11
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'with fear, hating even '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 3:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Zech. 3:4
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the garment
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '23 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Greek '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: chiton
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: ', a long garment worn under the cloak next to the skin'
-      marker-yv: yv-n
-    - type: text
-      text: ' stained by the flesh.'
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Doxology
-    marker-yv: yv-h
-  '24':
+      text: '4'
+  - type: text
+    text: 'For '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '24'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 16:25
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 3:20
-      marker-yv: yv-n
-    - type: text
-      text: 'Now to him who is able '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 17:12
-      marker-yv: yv-n
-    - type: text
-      text: 'to keep you from stumbling and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Col. 1:22
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 4:13
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'to present you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Eph. 1:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 5:27
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Phil. 2:15
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 14:5
-      marker-yv: yv-n
-    - type: text
-      text: 'blameless before the presence of his glory with great joy, '
-  '25':
+        text: 2 Pet. 2:1
+      metadata:
+        usfm: 2PE.2.1
+    marker-yv: yv-n
+  - type: text
+    text: 'certain people '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '25'
-    - type: text
-      text: 'to '
+        text: '['
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: John 5:44
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 1:17
-      marker-yv: yv-n
-    - type: text
-      text: 'the only God, our Savior, through Jesus Christ our Lord, '
+        text: Gal. 2:4
+      metadata:
+        usfm: GAL.2.4
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rom. 11:36
-      marker-yv: yv-n
-    - type: text
-      text: be glory, majesty, dominion, and authority, before all time
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '25 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: before any age
-      marker-yv: yv-n
-    - type: text
-      text: ' and now and forever. Amen.'
-  '3':
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'have crept in unnoticed '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: 'Beloved, although I was very eager to write to you about our '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Titus 1:4
-      marker-yv: yv-n
-    - type: text
-      text: 'common salvation, I found it necessary to write appealing to you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Tim. 6:12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Tim. 4:7
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Luke 13:24
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 9:25
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Phil. 1:27
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'to contend for the faith that was once for all delivered to the saints. '
-  '4':
+        text: 1 Pet. 2:8
+      metadata:
+        usfm: 1PE.2.8
+    marker-yv: yv-n
+  - type: text
+    text: 'who long ago were designated for this condemnation, ungodly people, who pervert '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '4'
-    - type: text
-      text: 'For '
+        text: 'See '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 2:1
-      marker-yv: yv-n
-    - type: text
-      text: 'certain people '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gal. 2:4
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'have crept in unnoticed '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pet. 2:8
-      marker-yv: yv-n
-    - type: text
-      text: 'who long ago were designated for this condemnation, ungodly people, who pervert '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Acts 11:23
-      marker-yv: yv-n
-    - type: text
-      text: 'the grace of our God into sensuality and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Titus 1:16
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 2:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 John 2:22
-      marker-yv: yv-n
-    - type: text
-      text: deny our only Master and Lord, Jesus Christ.
-  '5':
+        text: Acts 11:23
+      metadata:
+        usfm: ACT.11.23
+    marker-yv: yv-n
+  - type: text
+    text: 'the grace of our God into sensuality and '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: Titus 1:16
+      metadata:
+        usfm: TIT.1.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pet. 2:1
+      metadata:
+        usfm: 2PE.2.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 John 2:22
+      metadata:
+        usfm: 1JN.2.22
+    marker-yv: yv-n
+  - type: text
+    text: deny our only Master and Lord, Jesus Christ.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'Now I want '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pet. 1:12
+      metadata:
+        usfm: 2PE.1.12
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 3:17
+      metadata:
+        usfm: 2PE.3.17
+    marker-yv: yv-n
+  - type: text
+    text: 'to remind you, although you once fully knew it, that '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 10:4
+      metadata:
+        usfm: 1CO.10.4
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '5'
+      metadata:
+        usfm: 1CO.10.5
     - type: text
-      text: 'Now I want '
+      text: ', '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 1:12
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 3:17
-      marker-yv: yv-n
-    - type: text
-      text: 'to remind you, although you once fully knew it, that '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Cor. 10:4
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '5'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '9'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: Jesus, who saved
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '5 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Some manuscripts '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: although you fully knew it, that the Lord who once saved
-      marker-yv: yv-n
-    - type: text
-      text: ' a people out of the land of Egypt, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Num. 14:29
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '37'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 26:64
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '65'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 106:26
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Heb. 3:17-19
-      marker-yv: yv-n
-    - type: text
-      text: 'afterward destroyed those who did not believe. '
-  '6':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'And '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 2:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 20:2
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'the angels who did not stay within their own position of authority, but left their proper dwelling, he has kept in eternal chains under gloomy darkness until the judgment of the great day— '
-  '7':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: 'just as '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 19:24
-      marker-yv: yv-n
-    - type: text
-      text: 'Sodom and Gomorrah and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 29:23
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hos. 11:8
-      marker-yv: yv-n
-    - type: text
-      text: 'the surrounding cities, which likewise indulged in sexual immorality and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 2:10
-      marker-yv: yv-n
-    - type: text
-      text: pursued unnatural desire,
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '7 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Greek '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: different flesh
-      marker-yv: yv-n
-    - type: text
-      text: ' serve as an example by undergoing a punishment of eternal fire.'
-  '8':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: 'Yet in like manner these people also, relying on their dreams, defile the flesh, reject authority, and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 2:10
-      marker-yv: yv-n
-    - type: text
-      text: 'blaspheme the glorious ones. '
-  '9':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '9'
-    - type: text
-      text: 'But when '
+      metadata:
+        usfm: 1CO.10.9
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Thess. 4:16
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Pet. 2:11
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'the archangel '
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Jesus, who saved
+  - type: usfm
+    marker: f
+    children:
     - type: usfm
-      marker: x
+      marker: fr
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Dan. 10:13
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 12:1
+        text: '5 '
+    - type: usfm
+      marker: ft
+      children:
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 12:7
-      marker-yv: yv-n
-    - type: text
-      text: 'Michael, contending with the devil, was disputing '
+        text: 'Some manuscripts '
     - type: usfm
-      marker: x
+      marker: fq
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 34:6
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'about the body of Moses, he did not presume to pronounce a blasphemous judgment, but said, '
+      - type: text
+        text: although you fully knew it, that the Lord who once saved
+    marker-yv: yv-n
+  - type: text
+    text: ' a people out of the land of Egypt, '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Zech. 3:2
-      marker-yv: yv-n
+      - type: text
+        text: Num. 14:29
+      metadata:
+        usfm: NUM.14.29
     - type: text
-      text: '“The Lord rebuke you.” '
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '37'
+      metadata:
+        usfm: NUM.14.37
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 26:64
+      metadata:
+        usfm: NUM.26.64
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '65'
+      metadata:
+        usfm: NUM.26.65
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 106:26
+      metadata:
+        usfm: PSA.106.26
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 3:17-19
+      metadata:
+        usfm: HEB.3.17+HEB.3.18+HEB.3.19
+    marker-yv: yv-n
+  - type: text
+    text: 'afterward destroyed those who did not believe. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'And '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pet. 2:4
+      metadata:
+        usfm: 2PE.2.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rev. 20:2
+      metadata:
+        usfm: REV.20.2
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'the angels who did not stay within their own position of authority, but left their proper dwelling, he has kept in eternal chains under gloomy darkness until the judgment of the great day— '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'just as '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 19:24
+      metadata:
+        usfm: GEN.19.24
+    marker-yv: yv-n
+  - type: text
+    text: 'Sodom and Gomorrah and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 29:23
+      metadata:
+        usfm: DEU.29.23
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hos. 11:8
+      metadata:
+        usfm: HOS.11.8
+    marker-yv: yv-n
+  - type: text
+    text: 'the surrounding cities, which likewise indulged in sexual immorality and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pet. 2:10
+      metadata:
+        usfm: 2PE.2.10
+    marker-yv: yv-n
+  - type: text
+    text: pursued unnatural desire,
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '7 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Greek '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: different flesh
+    marker-yv: yv-n
+  - type: text
+    text: ' serve as an example by undergoing a punishment of eternal fire.'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'Yet in like manner these people also, relying on their dreams, defile the flesh, reject authority, and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pet. 2:10
+      metadata:
+        usfm: 2PE.2.10
+    marker-yv: yv-n
+  - type: text
+    text: 'blaspheme the glorious ones. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'But when '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Thess. 4:16
+      metadata:
+        usfm: 1TH.4.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pet. 2:11
+      metadata:
+        usfm: 2PE.2.11
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'the archangel '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Dan. 10:13
+      metadata:
+        usfm: DAN.10.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 12:1
+      metadata:
+        usfm: DAN.12.1
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rev. 12:7
+      metadata:
+        usfm: REV.12.7
+    marker-yv: yv-n
+  - type: text
+    text: 'Michael, contending with the devil, was disputing '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 34:6
+      metadata:
+        usfm: DEU.34.6
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'about the body of Moses, he did not presume to pronounce a blasphemous judgment, but said, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Zech. 3:2
+      metadata:
+        usfm: ZEC.3.2
+    marker-yv: yv-n
+  - type: text
+    text: '“The Lord rebuke you.” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pet. 2:12
+      metadata:
+        usfm: 2PE.2.12
+    marker-yv: yv-n
+  - type: text
+    text: 'But these people blaspheme all that they do not understand, and they are destroyed by all that they, like unreasoning animals, understand instinctively. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'Woe to them! For they walked in '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 4:5-8
+      metadata:
+        usfm: GEN.4.5+GEN.4.6+GEN.4.7+GEN.4.8
+    marker-yv: yv-n
+  - type: text
+    text: 'the way of Cain and abandoned themselves for the sake of gain '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pet. 2:15
+      metadata:
+        usfm: 2PE.2.15
+    marker-yv: yv-n
+  - type: text
+    text: 'to Balaam’s error and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Num. 16:1-3
+      metadata:
+        usfm: NUM.16.1+NUM.16.2+NUM.16.3
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 31-35
+      metadata:
+        usfm: NUM.16.31+NUM.16.32+NUM.16.33+NUM.16.34+NUM.16.35
+    marker-yv: yv-n
+  - type: text
+    text: 'perished in Korah’s rebellion. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: These are hidden reefs
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '12 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: are blemishes
+    marker-yv: yv-n
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pet. 2:13
+      metadata:
+        usfm: 2PE.2.13
+    marker-yv: yv-n
+  - type: text
+    text: 'at your love feasts, as they feast with you without fear, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ezek. 34:2
+      metadata:
+        usfm: EZK.34.2
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '8'
+      metadata:
+        usfm: EZK.34.8
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '10'
+      metadata:
+        usfm: EZK.34.10
+    marker-yv: yv-n
+  - type: text
+    text: 'shepherds feeding themselves; '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 25:14
+      metadata:
+        usfm: PRO.25.14
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pet. 2:17
+      metadata:
+        usfm: 2PE.2.17
+    marker-yv: yv-n
+  - type: text
+    text: 'waterless clouds, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Heb. 13:9
+      metadata:
+        usfm: HEB.13.9
+    marker-yv: yv-n
+  - type: text
+    text: 'swept along by winds; fruitless trees in late autumn, twice dead, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 15:13
+      metadata:
+        usfm: MAT.15.13
+    marker-yv: yv-n
+  - type: text
+    text: 'uprooted; '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 57:20
+      metadata:
+        usfm: ISA.57.20
+    marker-yv: yv-n
+  - type: text
+    text: 'wild waves of the sea, casting up the foam of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Cor. 4:2
+      metadata:
+        usfm: 2CO.4.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Phil. 3:19
+      metadata:
+        usfm: PHP.3.19
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'their own shame; '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 14:12
+      metadata:
+        usfm: ISA.14.12
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'wandering stars, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pet. 2:17
+      metadata:
+        usfm: 2PE.2.17
+    marker-yv: yv-n
+  - type: text
+    text: for whom the gloom of utter darkness has been reserved forever.
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: 'It was also about these that Enoch, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 5:18
+      metadata:
+        usfm: GEN.5.18
+    marker-yv: yv-n
+  - type: text
+    text: 'the seventh from Adam, prophesied, saying, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 33:2
+      metadata:
+        usfm: DEU.33.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Dan. 7:10
+      metadata:
+        usfm: DAN.7.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mark 8:38
+      metadata:
+        usfm: MRK.8.38
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Thess. 3:13
+      metadata:
+        usfm: 1TH.3.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Thess. 1:7
+      metadata:
+        usfm: 2TH.1.7
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: '“Behold, the Lord comes with ten thousands of his holy ones, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pet. 2:5
+      metadata:
+        usfm: 2PE.2.5
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'to execute judgment on all and to convict all the ungodly of all their deeds of ungodliness that they have '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pet. 2:6
+      metadata:
+        usfm: 2PE.2.6
+    marker-yv: yv-n
+  - type: text
+    text: 'committed in such an ungodly way, and of all '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Sam. 2:3
+      metadata:
+        usfm: 1SA.2.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 94:4
+      metadata:
+        usfm: PSA.94.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 6:60
+      metadata:
+        usfm: JHN.6.60
+    marker-yv: yv-n
+  - type: text
+    text: 'the harsh things that ungodly sinners have spoken against him.” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'These are grumblers, malcontents, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pet. 2:10
+      metadata:
+        usfm: 2PE.2.10
+    marker-yv: yv-n
+  - type: text
+    text: 'following their own sinful desires; '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pet. 2:18
+      metadata:
+        usfm: 2PE.2.18
+    marker-yv: yv-n
+  - type: text
+    text: 'they are loud-mouthed boasters, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lev. 19:15
+      metadata:
+        usfm: LEV.19.15
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 10:17
+      metadata:
+        usfm: DEU.10.17
+    marker-yv: yv-n
+  - type: text
+    text: showing favoritism to gain advantage.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: A Call to Persevere
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'But you must '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pet. 3:2
+      metadata:
+        usfm: 2PE.3.2
+    marker-yv: yv-n
+  - type: text
+    text: 'remember, beloved, the predictions of the apostles of our Lord Jesus Christ. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: They
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '18 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: Christ, because they
+    marker-yv: yv-n
+  - type: text
+    text: ' said to you, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pet. 3:3
+      metadata:
+        usfm: 2PE.3.3
+    marker-yv: yv-n
+  - type: text
+    text: '“In the last time there will be scoffers, following their own ungodly passions.” '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: 'It is these who cause divisions, worldly people, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 8:9
+      metadata:
+        usfm: ROM.8.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Phil. 3:3
+      metadata:
+        usfm: PHP.3.3
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'devoid of the Spirit. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: text
+    text: 'But you, beloved, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Col. 2:7
+      metadata:
+        usfm: COL.2.7
+    marker-yv: yv-n
+  - type: text
+    text: 'building yourselves up in your most holy faith and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eph. 6:18
+      metadata:
+        usfm: EPH.6.18
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 8:26
+      metadata:
+        usfm: ROM.8.26
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'praying in the Holy Spirit, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Cor. 13:14
+      metadata:
+        usfm: 2CO.13.14
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Acts 13:43
+      metadata:
+        usfm: ACT.13.43
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'keep yourselves in the love of God, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Titus 2:13
+      metadata:
+        usfm: TIT.2.13
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Pet. 3:12
+      metadata:
+        usfm: 2PE.3.12
+    marker-yv: yv-n
+  - type: text
+    text: 'waiting for the mercy of our Lord Jesus Christ that leads to eternal life. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: 'And have mercy on those who doubt; '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: text
+    text: 'save others by '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Amos 4:11
+      metadata:
+        usfm: AMO.4.11
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Zech. 3:2
+      metadata:
+        usfm: ZEC.3.2
+    marker-yv: yv-n
+  - type: text
+    text: 'snatching them out of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Cor. 3:15
+      metadata:
+        usfm: 1CO.3.15
+    marker-yv: yv-n
+  - type: text
+    text: 'the fire; to others show mercy '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Cor. 5:11
+      metadata:
+        usfm: 2CO.5.11
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'with fear, hating even '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rev. 3:4
+      metadata:
+        usfm: REV.3.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Zech. 3:4
+      metadata:
+        usfm: ZEC.3.4
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the garment
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '23 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Greek '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: chiton
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: ', a long garment worn under the cloak next to the skin'
+    marker-yv: yv-n
+  - type: text
+    text: ' stained by the flesh.'
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Doxology
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '24'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 16:25
+      metadata:
+        usfm: ROM.16.25
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eph. 3:20
+      metadata:
+        usfm: EPH.3.20
+    marker-yv: yv-n
+  - type: text
+    text: 'Now to him who is able '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 17:12
+      metadata:
+        usfm: JHN.17.12
+    marker-yv: yv-n
+  - type: text
+    text: 'to keep you from stumbling and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Col. 1:22
+      metadata:
+        usfm: COL.1.22
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Pet. 4:13
+      metadata:
+        usfm: 1PE.4.13
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'to present you '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Eph. 1:4
+      metadata:
+        usfm: EPH.1.4
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 5:27
+      metadata:
+        usfm: EPH.5.27
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Phil. 2:15
+      metadata:
+        usfm: PHP.2.15
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rev. 14:5
+      metadata:
+        usfm: REV.14.5
+    marker-yv: yv-n
+  - type: text
+    text: 'blameless before the presence of his glory with great joy, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '25'
+  - type: text
+    text: 'to '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: John 5:44
+      metadata:
+        usfm: JHN.5.44
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Tim. 1:17
+      metadata:
+        usfm: 1TI.1.17
+    marker-yv: yv-n
+  - type: text
+    text: 'the only God, our Savior, through Jesus Christ our Lord, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Rom. 11:36
+      metadata:
+        usfm: ROM.11.36
+    marker-yv: yv-n
+  - type: text
+    text: be glory, majesty, dominion, and authority, before all time
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '25 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: before any age
+    marker-yv: yv-n
+  - type: text
+    text: ' and now and forever. Amen.'

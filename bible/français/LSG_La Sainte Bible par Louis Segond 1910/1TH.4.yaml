@@ -1,505 +1,502 @@
-document_id: 1TH.4,93
+document_id: 1TH.4
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Exhortation à la sainteté, à la charité, au travail
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 1-8: cf. 1 Pi 1:14-16; 4:1-5. Ép 5:3-8. 1 Co 6:13-20.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Exhortation à la sainteté, à la charité, au travail
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'Au reste, frères, puisque vous avez appris de nous '
   - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 1-8: cf. 1 Pi 1:14-16; 4:1-5. Ép 5:3-8. 1 Co 6:13-20.'
-    marker-yv: yv-h
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Ph 1:27
+      metadata:
+        usfm: PHP.1.27
     - type: text
-      text: 'Au reste, frères, puisque vous avez appris de nous '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ph 1:27
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Th 2:12
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: 1 Th 2:12
+      metadata:
+        usfm: 1TH.2.12
     - type: text
-      text: 'comment vous devez vous conduire et plaire à Dieu, et que c’est là ce que vous faites, nous vous prions et nous vous conjurons au nom du Seigneur Jésus de marcher à cet égard de progrès en progrès. '
-  '10':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'comment vous devez vous conduire et plaire à Dieu, et que c’est là ce que vous faites, nous vous prions et nous vous conjurons au nom du Seigneur Jésus de marcher à cet égard de progrès en progrès. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: text
+    text: 'Vous savez, en effet, quels préceptes nous vous avons donnés de la part du Seigneur Jésus. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
+        text: Ro 12:2
+      metadata:
+        usfm: ROM.12.2
     - type: text
-      text: 'et c’est aussi ce que vous faites envers tous les frères dans la Macédoine entière. Mais nous vous exhortons, frères, à abonder toujours plus dans cet amour, '
-  '11':
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ép 5:27
+      metadata:
+        usfm: EPH.5.27
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ph 4:8
+      metadata:
+        usfm: PHP.4.8
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Ce que Dieu veut, c’est votre sanctification; c’est que vous vous absteniez de l’impudicité; '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'c’est que chacun de vous sache posséder son corps dans la sainteté et l’honnêteté, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'sans vous livrer à une convoitise passionnée, comme font les païens '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Th 3:7
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '12'
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: 1 Co 15:34
+      metadata:
+        usfm: 1CO.15.34
     - type: text
-      text: 'et à mettre votre honneur à vivre tranquilles, à vous occuper de vos propres affaires, '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ac 20:34
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ép 4:28
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Ép 4:18
+      metadata:
+        usfm: EPH.4.18
     - type: text
-      text: 'et à travailler de vos mains, comme nous vous l’avons recommandé, '
-  '12':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'qui ne connaissent pas Dieu; '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'c’est que personne n’use envers son frère de fraude et de cupidité dans les affaires, parce que le Seigneur tire vengeance de toutes ces choses, comme nous vous l’avons déjà dit et attesté. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'Car Dieu ne nous a pas appelés à l’impureté, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
+      children:
+      - type: text
+        text: Jn 17:19
+      metadata:
+        usfm: JHN.17.19
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Co 1:2
+      metadata:
+        usfm: 1CO.1.2
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'mais à la sanctification. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lu 10:16
+      metadata:
+        usfm: LUK.10.16
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Celui donc qui rejette ces préceptes ne rejette pas un homme, mais Dieu, '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Co 7:40
+      metadata:
+        usfm: 1CO.7.40
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: qui vous a aussi donné son Saint-Esprit.
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 9-12: cf. 1 Pi 1:22. 2 Th 3:6-12.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lé 19:18
+      metadata:
+        usfm: LEV.19.18
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mt 22:39
+      metadata:
+        usfm: MAT.22.39
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jn 13:34
+      metadata:
+        usfm: JHN.13.34
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 15:12
+      metadata:
+        usfm: JHN.15.12
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ép 5:2
+      metadata:
+        usfm: EPH.5.2
+    - type: text
+      text: '. 2 Pi 4:8. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Jn 3:23
+      metadata:
+        usfm: 1JN.3.23
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:21
+      metadata:
+        usfm: 1JN.4.21
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Pour ce qui est de l’amour fraternel, vous n’avez pas besoin qu’on vous en écrive; car vous avez vous-mêmes appris de Dieu à vous aimer les uns les autres, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'et c’est aussi ce que vous faites envers tous les frères dans la Macédoine entière. Mais nous vous exhortons, frères, à abonder toujours plus dans cet amour, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Th 3:7
+      metadata:
+        usfm: 2TH.3.7
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '12'
+      metadata:
+        usfm: 2TH.3.12
     - type: text
-      text: en sorte que vous vous conduisiez honnêtement envers ceux du dehors, et que vous n’ayez besoin de personne.
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'et à mettre votre honneur à vivre tranquilles, à vous occuper de vos propres affaires, '
   - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Sur la résurrection des morts et l’avènement du Seigneur
-    marker-yv: yv-h
-  - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 13-18: cf. 1 Co 15:19-58. Ph 3:20, 21.'
-    marker-yv: yv-h
-  '13':
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '13'
+        text: Ac 20:34
+      metadata:
+        usfm: ACT.20.34
     - type: text
-      text: 'Nous ne voulons pas, frères, que vous soyez dans l’ignorance au sujet de ceux qui dorment, '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lé 19:28
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: De 14:1
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 S 12:20
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: Ép 4:28
+      metadata:
+        usfm: EPH.4.28
     - type: text
-      text: 'afin que vous ne vous affligiez pas comme les autres qui n’ont point d’espérance. '
-  '14':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'et à travailler de vos mains, comme nous vous l’avons recommandé, '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '14'
-    - type: text
-      text: 'Car, si nous croyons que Jésus est mort et qu’il est ressuscité, croyons aussi que Dieu ramènera par Jésus et avec lui ceux qui sont morts. '
-  '15':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '15'
-    - type: text
-      text: 'Voici, en effet, ce que nous vous déclarons d’après la parole du Seigneur: '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Co 15:22
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '51'
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'nous les vivants, restés pour l’avènement du Seigneur, nous ne devancerons pas ceux qui sont morts. '
-  '16':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mt 24:31
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Co 15:52
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Th 1:7
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Car le Seigneur lui-même, à un signal donné, à la voix d’un archange, et au son de la trompette de Dieu, descendra du ciel, et les morts en Christ ressusciteront premièrement. '
-  '17':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: text
-      text: 'Ensuite, nous les vivants, qui serons restés, nous serons tous ensemble enlevés avec eux sur des nuées, à la rencontre du Seigneur dans les airs, et ainsi nous serons toujours avec le Seigneur. '
-  '18':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
-    - type: text
-      text: Consolez-vous donc les uns les autres par ces paroles.
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'Vous savez, en effet, quels préceptes nous vous avons donnés de la part du Seigneur Jésus. '
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 12:2
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ép 5:27
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ph 4:8
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Ce que Dieu veut, c’est votre sanctification; c’est que vous vous absteniez de l’impudicité; '
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'c’est que chacun de vous sache posséder son corps dans la sainteté et l’honnêteté, '
-  '5':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: 'sans vous livrer à une convoitise passionnée, comme font les païens '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Co 15:34
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ép 4:18
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'qui ne connaissent pas Dieu; '
-  '6':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'c’est que personne n’use envers son frère de fraude et de cupidité dans les affaires, parce que le Seigneur tire vengeance de toutes ces choses, comme nous vous l’avons déjà dit et attesté. '
-  '7':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: 'Car Dieu ne nous a pas appelés à l’impureté, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 17:19
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Co 1:2
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'mais à la sanctification. '
-  '8':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lu 10:16
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Celui donc qui rejette ces préceptes ne rejette pas un homme, mais Dieu, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Co 7:40
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: qui vous a aussi donné son Saint-Esprit.
-  - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 9-12: cf. 1 Pi 1:22. 2 Th 3:6-12.'
-    marker-yv: yv-h
-  '9':
+      text: '12'
+  - type: text
+    text: en sorte que vous vous conduisiez honnêtement envers ceux du dehors, et que vous n’ayez besoin de personne.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Sur la résurrection des morts et l’avènement du Seigneur
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 13-18: cf. 1 Co 15:19-58. Ph 3:20, 21.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'Nous ne voulons pas, frères, que vous soyez dans l’ignorance au sujet de ceux qui dorment, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '9'
+        text: Lé 19:28
+      metadata:
+        usfm: LEV.19.28
     - type: text
-      text: ' '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lé 19:18
       - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Mt 22:39
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 13:34
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 15:12
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ép 5:2
-      - type: text
-        text: '. 2 Pi 4:8. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Jn 3:23
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:21
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: De 14:1
+      metadata:
+        usfm: DEU.14.1
     - type: text
-      text: 'Pour ce qui est de l’amour fraternel, vous n’avez pas besoin qu’on vous en écrive; car vous avez vous-mêmes appris de Dieu à vous aimer les uns les autres, '
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 S 12:20
+      metadata:
+        usfm: 2SA.12.20
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'afin que vous ne vous affligiez pas comme les autres qui n’ont point d’espérance. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: 'Car, si nous croyons que Jésus est mort et qu’il est ressuscité, croyons aussi que Dieu ramènera par Jésus et avec lui ceux qui sont morts. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: 'Voici, en effet, ce que nous vous déclarons d’après la parole du Seigneur: '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Co 15:22
+      metadata:
+        usfm: 1CO.15.22
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '51'
+      metadata:
+        usfm: 1CO.15.51
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'nous les vivants, restés pour l’avènement du Seigneur, nous ne devancerons pas ceux qui sont morts. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Mt 24:31
+      metadata:
+        usfm: MAT.24.31
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Co 15:52
+      metadata:
+        usfm: 1CO.15.52
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Th 1:7
+      metadata:
+        usfm: 2TH.1.7
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Car le Seigneur lui-même, à un signal donné, à la voix d’un archange, et au son de la trompette de Dieu, descendra du ciel, et les morts en Christ ressusciteront premièrement. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'Ensuite, nous les vivants, qui serons restés, nous serons tous ensemble enlevés avec eux sur des nuées, à la rencontre du Seigneur dans les airs, et ainsi nous serons toujours avec le Seigneur. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: Consolez-vous donc les uns les autres par ces paroles.

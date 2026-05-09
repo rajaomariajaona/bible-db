@@ -1,372 +1,398 @@
-document_id: PSA.128,59
+document_id: PSA.128
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: 'Blessed Is Everyone Who Fears the '
   - type: usfm
-    marker: s1
+    marker: nd
     children:
     - type: text
-      text: 'Blessed Is Everyone Who Fears the '
+      text: Lord
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: 'A Song of '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
-    marker-yv: yv-h
-  - type: usfm
-    marker: d
-    children:
-    - type: text
-      text: 'A Song of '
+        text: '[See '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 120
-      - type: text
-        text: ', title'
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: Ascents.
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Ps. 120
+      metadata:
+        usfm: PSA.120
     - type: text
-      text: ' '
+      text: ', title'
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 112:1
-      marker-yv: yv-n
-    - type: text
-      text: 'Blessed is everyone who fears the '
-    - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ','
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: Ascents.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'who '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 119:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 8:32
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: walks in his ways!
-  '2':
+      text: '1'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: 'You '
+        text: 'See '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 3:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 109:11
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: shall eat the fruit of the labor of your hands;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: you shall be blessed, and it shall be well with you.
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: 'Your wife will be like '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezek. 19:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 49:22
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: a fruitful vine
+        text: Ps. 112:1
+      metadata:
+        usfm: PSA.112.1
+    marker-yv: yv-n
+  - type: text
+    text: 'Blessed is everyone who fears the '
   - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: within your house;
+      text: Lord
+  - type: text
+    text: ','
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'who '
   - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'your children will be like '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 52:8
-      marker-yv: yv-n
-    - type: text
-      text: olive shoots
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: around your table.
-  '4':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '4'
+        text: Ps. 119:1
+      metadata:
+        usfm: PSA.119.1
     - type: text
-      text: Behold, thus shall the man be blessed
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'who fears the '
+      text: '; '
     - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: .
-  '5':
-  - type: usfm
-    marker: q1
-    children:
+        text: '['
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: ' '
+        text: Prov. 8:32
+      metadata:
+        usfm: PRO.8.32
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 134:3
-      marker-yv: yv-n
-    - type: text
-      text: 'The '
-    - type: usfm
-      marker: nd
+      marker: xta
       children:
       - type: text
-        text: Lord
-    - type: text
-      text: ' bless you '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 20:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 135:21
-      marker-yv: yv-n
-    - type: text
-      text: from Zion!
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: walks in his ways!
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'May you see '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 122:9
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the prosperity of Jerusalem
+      text: '2'
+  - type: text
+    text: 'You '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: all the days of your life!
-  '6':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '6'
+        text: Isa. 3:10
+      metadata:
+        usfm: ISA.3.10
     - type: text
-      text: 'May you see your '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 17:6
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Job 42:16
-      marker-yv: yv-n
-    - type: text
-      text: children’s children!
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 109:11
+      metadata:
+        usfm: PSA.109.11
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: shall eat the fruit of the labor of your hands;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: you shall be blessed, and it shall be well with you.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: 'Your wife will be like '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 125:5
-      marker-yv: yv-n
+      - type: text
+        text: Ezek. 19:10
+      metadata:
+        usfm: EZK.19.10
     - type: text
-      text: Peace be upon Israel!
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 49:22
+      metadata:
+        usfm: GEN.49.22
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: a fruitful vine
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: within your house;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'your children will be like '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 52:8
+      metadata:
+        usfm: PSA.52.8
+    marker-yv: yv-n
+  - type: text
+    text: olive shoots
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: around your table.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: Behold, thus shall the man be blessed
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'who fears the '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: .
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 134:3
+      metadata:
+        usfm: PSA.134.3
+    marker-yv: yv-n
+  - type: text
+    text: 'The '
+  - type: usfm
+    marker: nd
+    children:
+    - type: text
+      text: Lord
+  - type: text
+    text: ' bless you '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 20:2
+      metadata:
+        usfm: PSA.20.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 135:21
+      metadata:
+        usfm: PSA.135.21
+    marker-yv: yv-n
+  - type: text
+    text: from Zion!
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'May you see '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 122:9
+      metadata:
+        usfm: PSA.122.9
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the prosperity of Jerusalem
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: all the days of your life!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'May you see your '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 17:6
+      metadata:
+        usfm: PRO.17.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Job 42:16
+      metadata:
+        usfm: JOB.42.16
+    marker-yv: yv-n
+  - type: text
+    text: children’s children!
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 125:5
+      metadata:
+        usfm: PSA.125.5
+    marker-yv: yv-n
+  - type: text
+    text: Peace be upon Israel!

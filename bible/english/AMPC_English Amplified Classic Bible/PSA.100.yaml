@@ -1,99 +1,94 @@
-document_id: PSA.100,8
+document_id: PSA.100
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: A Psalm of thanksgiving {and} for the thank offering.
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: A Psalm of thanksgiving {and} for the thank offering.
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: ' MAKE A joyful noise to the Lord, all you lands!'
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
     - type: text
-      text: ' MAKE A joyful noise to the Lord, all you lands!'
-  '2':
+      text: '2'
+  - type: text
+    text: ' Serve the Lord with gladness! Come before His presence with singing!'
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
     - type: text
-      text: ' Serve the Lord with gladness! Come before His presence with singing!'
-  '3':
+      text: '3'
+  - type: text
+    text: ' Know (perceive, recognize, and understand with approval) that the Lord is God! It is He Who has made us, not we ourselves [and we are His]! We are His people and the sheep of His pasture. [Eph. 2:10.]'
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
     - type: text
-      text: ' Know (perceive, recognize, and understand with approval) that the Lord is God! It is He Who has made us, not we ourselves [and we are His]! We are His people and the sheep of His pasture. [Eph. 2:10.]'
-  '4':
+      text: '4'
+  - type: text
+    text: ' Enter into His gates with thanksgiving '
   - type: usfm
-    marker: p
+    marker: it
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
     - type: text
-      text: ' Enter into His gates with thanksgiving '
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: and
-    - type: text
-      text: ' a thank offering and into His courts with praise! Be thankful '
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: and
-    - type: text
-      text: ' say so to Him, bless '
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: and
-    - type: text
-      text: ' affectionately praise His name!'
-  '5':
+      text: and
+  - type: text
+    text: ' a thank offering and into His courts with praise! Be thankful '
   - type: usfm
-    marker: p
+    marker: it
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
     - type: text
-      text: ' For the Lord is good; His mercy '
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: and
+      text: and
+  - type: text
+    text: ' say so to Him, bless '
+  - type: usfm
+    marker: it
+    children:
     - type: text
-      text: ' loving-kindness are everlasting, His faithfulness '
-    - type: usfm
-      marker: it
-      children:
-      - type: text
-        text: and
+      text: and
+  - type: text
+    text: ' affectionately praise His name!'
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
     - type: text
-      text: ' truth endure to all generations.'
+      text: '5'
+  - type: text
+    text: ' For the Lord is good; His mercy '
+  - type: usfm
+    marker: it
+    children:
+    - type: text
+      text: and
+  - type: text
+    text: ' loving-kindness are everlasting, His faithfulness '
+  - type: usfm
+    marker: it
+    children:
+    - type: text
+      text: and
+  - type: text
+    text: ' truth endure to all generations.'

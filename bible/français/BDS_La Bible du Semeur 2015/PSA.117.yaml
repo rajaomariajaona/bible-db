@@ -1,69 +1,69 @@
-document_id: PSA.117,21
+document_id: PSA.117
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Louange universelle
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Louange universelle
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: Louez l’Eternel, ╵vous, gens de toutes nations !
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Chantez ses louanges, ╵ô vous, tous les peuples
   - type: usfm
-    marker: q1
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: Louez l’Eternel, ╵vous, gens de toutes nations !
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Chantez ses louanges, ╵ô vous, tous les peuples
+        text: '117.1 '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '117.1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Cité en '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Rm 15.11
-        - type: text
-          text: .
-      marker-yv: yv-n
-    - type: text
-      text: '  !'
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: Car son amour pour nous est immense.
+        text: 'Cité en '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rm 15.11
+        metadata:
+          usfm: ROM.15.11
+      - type: text
+        text: .
+    marker-yv: yv-n
+  - type: text
+    text: '  !'
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: La fidélité de l’Eternel ╵subsiste à jamais.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Louez l’Eternel !
+      text: '2'
+  - type: text
+    text: Car son amour pour nous est immense.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: La fidélité de l’Eternel ╵subsiste à jamais.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Louez l’Eternel !

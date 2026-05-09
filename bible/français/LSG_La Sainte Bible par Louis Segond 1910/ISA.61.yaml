@@ -1,397 +1,402 @@
-document_id: ISA.61,93
+document_id: ISA.61
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Le salut proclamé
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 1-3: cf. Lu 4:16-21.'
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Le salut proclamé
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: ' '
   - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 1-3: cf. Lu 4:16-21.'
-    marker-yv: yv-h
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Lu 4:17
+      metadata:
+        usfm: LUK.4.17
     - type: text
-      text: ' '
+      text: ', '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lu 4:17
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '18'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '19'
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '20'
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: L’esprit du Seigneur, l’Éternel, est sur moi,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Car l’Éternel m’a oint pour porter de bonnes nouvelles aux malheureux;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Il m’a envoyé pour guérir ceux qui ont le cœur brisé,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Pour proclamer aux captifs la liberté,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Et aux prisonniers la délivrance;
-  '10':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
+        text: '18'
+      metadata:
+        usfm: LUK.4.18
     - type: text
-      text: Je me réjouirai en l’Éternel,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Mon âme sera ravie d’allégresse en mon Dieu;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Car il m’a revêtu des vêtements du salut,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Il m’a couvert du manteau de la délivrance,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Comme le fiancé s’orne d’un diadème,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Comme la fiancée se pare de ses joyaux.
-  '11':
-  - type: usfm
-    marker: q1
-    children:
+      text: ', '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
+        text: '19'
+      metadata:
+        usfm: LUK.4.19
     - type: text
-      text: Car, comme la terre fait éclore son germe,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Et comme un jardin fait pousser ses semences,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Ainsi le Seigneur, l’Éternel, fera germer le salut et la louange,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: En présence de toutes les nations.
-  '2':
-  - type: usfm
-    marker: q1
-    children:
+      text: ', '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '2'
+        text: '20'
+      metadata:
+        usfm: LUK.4.20
     - type: text
-      text: Pour publier une année de grâce de l’Éternel,
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: L’esprit du Seigneur, l’Éternel, est sur moi,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Car l’Éternel m’a oint pour porter de bonnes nouvelles aux malheureux;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Il m’a envoyé pour guérir ceux qui ont le cœur brisé,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Pour proclamer aux captifs la liberté,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et aux prisonniers la délivrance;
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Et un jour de vengeance de notre Dieu;
+      text: '2'
+  - type: text
+    text: Pour publier une année de grâce de l’Éternel,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et un jour de vengeance de notre Dieu;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Pour consoler tous les affligés;
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Pour consoler tous les affligés;
-  '3':
+      text: '3'
+  - type: text
+    text: Pour accorder aux affligés de Sion,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Pour leur donner un diadème au lieu de la cendre,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Une huile de joie au lieu du deuil,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Un vêtement de louange au lieu d’un esprit abattu,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Afin qu’on les appelle des térébinthes de la justice,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Une plantation de l’Éternel, pour servir à sa gloire.
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 4-9: cf. És 14:1, 2. Éz 36:33-36. So 3:19, 20.'
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '3'
+        text: És 58:12
+      metadata:
+        usfm: ISA.58.12
     - type: text
-      text: Pour accorder aux affligés de Sion,
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: Ils rebâtiront sur d’anciennes ruines,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Ils relèveront d’antiques décombres,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Ils renouvelleront des villes ravagées,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Dévastées depuis longtemps.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Pour leur donner un diadème au lieu de la cendre,
+      text: '5'
+  - type: text
+    text: Des étrangers seront là et feront paître vos troupeaux,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Des fils de l’étranger seront vos laboureurs et vos vignerons.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Une huile de joie au lieu du deuil,
+      text: '6'
+  - type: text
+    text: 'Mais vous, on vous appellera '
   - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Un vêtement de louange au lieu d’un esprit abattu,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Afin qu’on les appelle des térébinthes de la justice,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Une plantation de l’Éternel, pour servir à sa gloire.
-  - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 4-9: cf. És 14:1, 2. Éz 36:33-36. So 3:19, 20.'
-    marker-yv: yv-h
-  '4':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '4'
+        text: 1 Pi 2:5
+      metadata:
+        usfm: 1PE.2.5
     - type: text
-      text: ' '
+      text: ', '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: És 58:12
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: Ils rebâtiront sur d’anciennes ruines,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Ils relèveront d’antiques décombres,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Ils renouvelleront des villes ravagées,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Dévastées depuis longtemps.
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: Des étrangers seront là et feront paître vos troupeaux,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Des fils de l’étranger seront vos laboureurs et vos vignerons.
-  '6':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'Mais vous, on vous appellera '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Pi 2:5
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '9'
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ap 1:6
-      - type: text
-        text: ; 5:10, etc.
-      marker-yv: yv-n
-    - type: text
-      text: sacrificateurs de l’Éternel,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: On vous nommera serviteurs de notre Dieu;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Vous mangerez les richesses des nations,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Et vous vous glorifierez de leur gloire.
-  '7':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: Au lieu de votre opprobre, vous aurez une portion double;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Au lieu de l’ignominie, ils seront joyeux de leur part;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Ils posséderont ainsi le double dans leur pays,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Et leur joie sera éternelle.
-  '8':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: Car moi, l’Éternel, j’aime la justice,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Je hais la rapine avec l’iniquité;
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Je leur donnerai fidèlement leur récompense,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Et je traiterai avec eux une alliance éternelle.
-  '9':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '9'
+      metadata:
+        usfm: 1PE.2.9
     - type: text
-      text: Leur race sera connue parmi les nations,
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ap 1:6
+      metadata:
+        usfm: REV.1.6
+    - type: text
+      text: ; 5:10, etc.
+    marker-yv: yv-n
+  - type: text
+    text: sacrificateurs de l’Éternel,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: On vous nommera serviteurs de notre Dieu;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Vous mangerez les richesses des nations,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et vous vous glorifierez de leur gloire.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Et leur postérité parmi les peuples;
+      text: '7'
+  - type: text
+    text: Au lieu de votre opprobre, vous aurez une portion double;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Au lieu de l’ignominie, ils seront joyeux de leur part;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Ils posséderont ainsi le double dans leur pays,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et leur joie sera éternelle.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Tous ceux qui les verront reconnaîtront
+      text: '8'
+  - type: text
+    text: Car moi, l’Éternel, j’aime la justice,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Je hais la rapine avec l’iniquité;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Je leur donnerai fidèlement leur récompense,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et je traiterai avec eux une alliance éternelle.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: Qu’ils sont une race bénie de l’Éternel.
+      text: '9'
+  - type: text
+    text: Leur race sera connue parmi les nations,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et leur postérité parmi les peuples;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Tous ceux qui les verront reconnaîtront
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Qu’ils sont une race bénie de l’Éternel.
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 10-11: cf. És 62:1-5.'
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 10-11: cf. És 62:1-5.'
-    marker-yv: yv-h
+      text: '10'
+  - type: text
+    text: Je me réjouirai en l’Éternel,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Mon âme sera ravie d’allégresse en mon Dieu;
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Car il m’a revêtu des vêtements du salut,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Il m’a couvert du manteau de la délivrance,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Comme le fiancé s’orne d’un diadème,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Comme la fiancée se pare de ses joyaux.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: Car, comme la terre fait éclore son germe,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Et comme un jardin fait pousser ses semences,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Ainsi le Seigneur, l’Éternel, fera germer le salut et la louange,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: En présence de toutes les nations.

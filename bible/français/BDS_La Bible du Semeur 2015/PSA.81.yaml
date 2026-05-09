@@ -1,463 +1,458 @@
-document_id: PSA.81,21
+document_id: PSA.81
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Si mon peuple m’écoutait…
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Si mon peuple m’écoutait…
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: Au chef de chœur. A chanter avec accompagnement de la harpe de Gath
   - type: usfm
-    marker: d
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: Au chef de chœur. A chanter avec accompagnement de la harpe de Gath
+        text: '81.1 '
     - type: usfm
-      marker: f
+      marker: ft
       children:
+      - type: text
+        text: 'Voir note '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '81.1 '
+          text: '8.1'
+        metadata:
+          usfm: PSA.8.1
+      - type: text
+        text: .
+    marker-yv: yv-n
+  - type: text
+    text: . Psaume d’Asaph
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '81.1 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Voir note '
       - type: usfm
-        marker: ft
+        marker: ref
         children:
         - type: text
-          text: 'Voir note '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: '8.1'
-        - type: text
-          text: .
-      marker-yv: yv-n
+          text: '50.1'
+        metadata:
+          usfm: PSA.50.1
+      - type: text
+        text: .
+    marker-yv: yv-n
+  - type: text
+    text: .
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
     - type: text
-      text: . Psaume d’Asaph
+      text: '2'
+  - type: text
+    text: Lancez des cris d’allégresse ╵vers Dieu notre force !
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Acclamez joyeusement ╵le Dieu de Jacob !
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '3'
+  - type: text
+    text: Entonnez un chant, ╵faites résonner le tambourin,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: pincez la lyre harmonieuse, ╵jouez sur le luth !
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: Embouchez le cor ╵au début du mois,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: à la pleine lune, ╵au grand jour de fête
+  - type: usfm
+    marker: f
+    children:
     - type: usfm
-      marker: f
+      marker: fr
       children:
+      - type: text
+        text: '81.4 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: On devait sonner des trompettes au début de chaque mois, à la nouvelle lune (
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '81.1 '
+          text: Nb 10.10
+        metadata:
+          usfm: NUM.10.10
+      - type: text
+        text: ), et en particulier au début du 7
       - type: usfm
-        marker: ft
+        marker: ord
         children:
         - type: text
-          text: 'Voir note '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: '50.1'
-        - type: text
-          text: .
-      marker-yv: yv-n
-    - type: text
-      text: .
-  '10':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
+          text: e
       - type: text
-        text: '10'
-    - type: text
-      text: Tu n’auras chez toi ╵aucun autre Dieu,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: tu n’adoreras ╵aucun des dieux étrangers !
-  '11':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '11'
-    - type: text
-      text: Je suis l’Eternel, ton Dieu,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: qui t’ai fait sortir d’Egypte
-    - type: usfm
-      marker: f
-      children:
+        text: ' mois, pour la fête des Trompettes ('
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '81.11 '
+          text: Lv 23.24
+        metadata:
+          usfm: LEV.23.24
+      - type: text
+        text: '). La '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: fête
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: ': '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: au regard des v. 6, 7, 11, il pourrait s’agir de la Pâque, qui célébrait la sortie d’Egypte (
       - type: usfm
-        marker: ft
+        marker: ref
         children:
         - type: text
-          text: Rappel d’Ex 20.2-3 ; Dt 5.6-7.
-      marker-yv: yv-n
-    - type: text
-      text: .
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Ouvre largement ta bouche, ╵je la remplirai.
-  '12':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
+          text: Ex 12
+        metadata:
+          usfm: EXO.12
       - type: text
-        text: '12'
-    - type: text
-      text: Mais mon peuple ╵n’a pas écouté ma voix,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Israël n’a pas voulu de moi.
-  '13':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '13'
-    - type: text
-      text: Alors je les ai laissé aller ╵selon leur cœur obstiné,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: ils n’ont fait que suivre ╵leurs propres idées.
-  '14':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '14'
-    - type: text
-      text: Si mon peuple m’écoutait,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et si Israël marchait ╵sur les voies que j’ai prescrites,
-  '15':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '15'
-    - type: text
-      text: je ferais en un instant ╵plier tous ses ennemis,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et je tournerais ma main ╵contre ceux qui les oppriment.
-  '16':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: text
-      text: Et ceux qui haïssent l’Eternel ╵lui seraient assujettis,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: le temps de leur soumission ╵durerait toujours.
-  '17':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: text
-      text: Je nourrirais Israël ╵de fleur de froment,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et je le rassasierais ╵du miel d’abeilles sauvages
-    - type: usfm
-      marker: f
-      children:
+        text: ) et se situait vers la pleine lune, le 14 du premier mois. Certains y voient cependant une référence à la fête des Cabanes (1 R 8.2, 65 ; 12.32 ; 2 Ch 5.3 ; 7.8 ; Né 8.14 ; Ez 45.25), qui commençait à la pleine lune, le 15 du 7
       - type: usfm
-        marker: fr
+        marker: ord
         children:
         - type: text
-          text: '81.17 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Allusion à '
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Dt 32.13-14
-        - type: text
-          text: .
-      marker-yv: yv-n
-    - type: text
-      text: .
-  '2':
+          text: e
+      - type: text
+        text: ' mois, et qui servait aussi de fête de reconnaissance pour les dons de Dieu durant la moisson (Lv 23.39-40 ; Dt 16.13-15).'
+    marker-yv: yv-n
+  - type: text
+    text: '  !'
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: C’est la loi pour Israël,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: c’est une ordonnance ╵du Dieu de Jacob,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: et c’est un décret ╵qu’il établit pour Joseph
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: quand il attaqua ╵le pays d’Egypte.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'J’entends un langage ╵que je ne connaissais pas :'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: « J’ai déchargé ses épaules ╵du fardeau
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et ses mains sont libérées ╵de la corvée des corbeilles. »
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'Tu étais dans la détresse : ╵tu as appelé, ╵alors je t’ai délivré,'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: je t’ai répondu, ╵caché au sein du tonnerre,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et je t’ai mis à l’épreuve ╵près des eaux de Meriba
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '2'
-    - type: text
-      text: Lancez des cris d’allégresse ╵vers Dieu notre force !
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Acclamez joyeusement ╵le Dieu de Jacob !
-  '3':
-  - type: usfm
-    marker: q1
-    children:
+        text: '81.8 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: Entonnez un chant, ╵faites résonner le tambourin,
+        text: Voir Ex 17.1-7 ; Nb 20.1-13.
+    marker-yv: yv-n
+  - type: text
+    text: .
+- type: usfm
+  marker: q4
+  children:
+  - type: text
+    text: Pause
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: pincez la lyre harmonieuse, ╵jouez sur le luth !
-  '4':
+      text: '9'
+  - type: text
+    text: Ecoute, ô mon peuple, ╵je t’avertirai.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Ah, si seulement ╵tu m’écoutais, Israël !
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: Tu n’auras chez toi ╵aucun autre Dieu,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: tu n’adoreras ╵aucun des dieux étrangers !
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: Je suis l’Eternel, ton Dieu,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: qui t’ai fait sortir d’Egypte
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '4'
-    - type: text
-      text: Embouchez le cor ╵au début du mois,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: à la pleine lune, ╵au grand jour de fête
+        text: '81.11 '
     - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '81.4 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: On devait sonner des trompettes au début de chaque mois, à la nouvelle lune (
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Nb 10.10
-        - type: text
-          text: ), et en particulier au début du 7
-        - type: usfm
-          marker: ord
-          children:
-          - type: text
-            text: e
-        - type: text
-          text: ' mois, pour la fête des Trompettes ('
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Lv 23.24
-        - type: text
-          text: '). La '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: fête
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: ': '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: au regard des v. 6, 7, 11, il pourrait s’agir de la Pâque, qui célébrait la sortie d’Egypte (
-        - type: usfm
-          marker: ref
-          children:
-          - type: text
-            text: Ex 12
-        - type: text
-          text: ) et se situait vers la pleine lune, le 14 du premier mois. Certains y voient cependant une référence à la fête des Cabanes (1 R 8.2, 65 ; 12.32 ; 2 Ch 5.3 ; 7.8 ; Né 8.14 ; Ez 45.25), qui commençait à la pleine lune, le 15 du 7
-        - type: usfm
-          marker: ord
-          children:
-          - type: text
-            text: e
-        - type: text
-          text: ' mois, et qui servait aussi de fête de reconnaissance pour les dons de Dieu durant la moisson (Lv 23.39-40 ; Dt 16.13-15).'
-      marker-yv: yv-n
-    - type: text
-      text: '  !'
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: C’est la loi pour Israël,
+        text: Rappel d’Ex 20.2-3 ; Dt 5.6-7.
+    marker-yv: yv-n
+  - type: text
+    text: .
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Ouvre largement ta bouche, ╵je la remplirai.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
     children:
     - type: text
-      text: c’est une ordonnance ╵du Dieu de Jacob,
-  '6':
+      text: '12'
+  - type: text
+    text: Mais mon peuple ╵n’a pas écouté ma voix,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Israël n’a pas voulu de moi.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: Alors je les ai laissé aller ╵selon leur cœur obstiné,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: ils n’ont fait que suivre ╵leurs propres idées.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: Si mon peuple m’écoutait,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et si Israël marchait ╵sur les voies que j’ai prescrites,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: je ferais en un instant ╵plier tous ses ennemis,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et je tournerais ma main ╵contre ceux qui les oppriment.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: Et ceux qui haïssent l’Eternel ╵lui seraient assujettis,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: le temps de leur soumission ╵durerait toujours.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: Je nourrirais Israël ╵de fleur de froment,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: et je le rassasierais ╵du miel d’abeilles sauvages
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '6'
-    - type: text
-      text: et c’est un décret ╵qu’il établit pour Joseph
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: quand il attaqua ╵le pays d’Egypte.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'J’entends un langage ╵que je ne connaissais pas :'
-  '7':
-  - type: usfm
-    marker: q1
-    children:
+        text: '81.17 '
     - type: usfm
-      marker: vlbl
+      marker: ft
       children:
       - type: text
-        text: '7'
-    - type: text
-      text: « J’ai déchargé ses épaules ╵du fardeau
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et ses mains sont libérées ╵de la corvée des corbeilles. »
-  '8':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: 'Tu étais dans la détresse : ╵tu as appelé, ╵alors je t’ai délivré,'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: je t’ai répondu, ╵caché au sein du tonnerre,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: et je t’ai mis à l’épreuve ╵près des eaux de Meriba
-    - type: usfm
-      marker: f
-      children:
+        text: 'Allusion à '
       - type: usfm
-        marker: fr
+        marker: ref
         children:
         - type: text
-          text: '81.8 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: Voir Ex 17.1-7 ; Nb 20.1-13.
-      marker-yv: yv-n
-    - type: text
-      text: .
-  - type: usfm
-    marker: q4
-    children:
-    - type: text
-      text: Pause
-  '9':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
+          text: Dt 32.13-14
+        metadata:
+          usfm: DEU.32.13+DEU.32.14
       - type: text
-        text: '9'
-    - type: text
-      text: Ecoute, ô mon peuple, ╵je t’avertirai.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: Ah, si seulement ╵tu m’écoutais, Israël !
+        text: .
+    marker-yv: yv-n
+  - type: text
+    text: .

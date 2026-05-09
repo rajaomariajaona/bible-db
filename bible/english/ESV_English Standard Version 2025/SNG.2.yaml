@@ -1,1338 +1,1433 @@
-document_id: SNG.2,59
+document_id: SNG.2
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: vlbl
+    children:
+    - type: text
+      text: '1'
+  - type: text
+    text: I am a rose
+  - type: usfm
+    marker: f
     children:
     - type: usfm
-      marker: vlbl
+      marker: fr
       children:
       - type: text
-        text: '1'
-    - type: text
-      text: I am a rose
+        text: '2:1 '
     - type: usfm
-      marker: f
+      marker: ft
       children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '2:1 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: Probably a bulb, such as a crocus, asphodel, or narcissus
-      marker-yv: yv-n
-    - type: text
-      text: ' of Sharon,'
+      - type: text
+        text: Probably a bulb, such as a crocus, asphodel, or narcissus
+    marker-yv: yv-n
+  - type: text
+    text: ' of Sharon,'
+- type: usfm
+  marker: q2
+  children:
   - type: usfm
-    marker: q2
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hos. 14:5
       - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 5:13
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
+        text: Hos. 14:5
+      metadata:
+        usfm: HOS.14.5
     - type: text
-      text: a lily of the valleys.
-  - type: usfm
-    marker: sp
-    children:
-    - type: text
-      text: He
-    marker-yv: yv-h
-  '10':
-  - type: usfm
-    marker: q1
-    children:
+      text: '; '
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '10'
-    - type: text
-      text: 'My beloved speaks and says to me:'
-  - type: usfm
-    marker: q1
-    children:
+        text: '[ch. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '13'
-      marker-yv: yv-n
-    - type: text
-      text: “Arise, my love, my beautiful one,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and come away,
-  '11':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
-    - type: text
-      text: for behold, the winter is past;
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Joel 2:23
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the rain is over and gone.
-  '12':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '12'
+        text: 5:13
+      metadata:
+        usfm: HOS.5.13
     - type: text
       text: ' '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Sam. 23:4
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: The flowers appear on the earth,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: the time of singing
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '2:12 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: pruning
-      marker-yv: yv-n
-    - type: text
-      text: ' has come,'
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'and the voice of '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 8:7
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the turtledove
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: is heard in our land.
-  '13':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '13'
-    - type: text
-      text: ' '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Matt. 24:32
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: The fig tree ripens its figs,
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: a lily of the valleys.
+- type: usfm
+  marker: sp
+  children:
+  - type: text
+    text: He
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 7:12
-      marker-yv: yv-n
-    - type: text
-      text: the vines are in blossom;
+      text: '2'
+  - type: text
+    text: As a lily among brambles,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'so is '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: they give forth fragrance.
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '10'
-      marker-yv: yv-n
-    - type: text
-      text: Arise, my love, my beautiful one,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: and come away.
-  '14':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '14'
-    - type: text
-      text: 'O my '
+        text: 'See ch. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 5:2
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 6:9
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1:15
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: 'dove, in the '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 48:28
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 49:16
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Obad. 3
-      marker-yv: yv-n
-    - type: text
-      text: clefts of the rock,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: in the crannies of the cliff,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: let me see your face,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'let me '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 8:13
-      marker-yv: yv-n
-    - type: text
-      text: hear your voice,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: for your voice is sweet,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and your face is '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:3
-      marker-yv: yv-n
-    - type: text
-      text: lovely.
-  '15':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '15'
-    - type: text
-      text: 'Catch '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ezek. 13:4
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the foxes
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '2:15 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: jackals
-      marker-yv: yv-n
-    - type: text
-      text: ' for us,'
+        text: 1:15
+      metadata:
+        usfm: SNG.1.15
+    marker-yv: yv-n
+  - type: text
+    text: my love among the young women.
+- type: usfm
+  marker: sp
+  children:
+  - type: text
+    text: She
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: the little foxes
+      text: '3'
+  - type: text
+    text: As an apple tree among the trees of the forest,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'so is my '
   - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: that spoil the vineyards,
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '[See ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '13'
-      - type: text
-        text: ' '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: above]
-      marker-yv: yv-n
-    - type: text
-      text: for our vineyards are in blossom.”
-  '16':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '16'
-    - type: text
-      text: ' '
+        text: 'ch. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 6:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 7:10
-      marker-yv: yv-n
-    - type: text
-      text: My beloved is mine, and I am his;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'he '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 6:3
-      marker-yv: yv-n
-    - type: text
-      text: grazes
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '2:16 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: he pastures his flock
-      marker-yv: yv-n
-    - type: text
-      text: ' among the lilies.'
-  '17':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '17'
-    - type: text
-      text: 'Until '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:6
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Gen. 3:8
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the day breathes
+        text: 1:16
+      metadata:
+        usfm: SNG.1.16
+    marker-yv: yv-n
+  - type: text
+    text: beloved among the young men.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'With great delight I sat '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jer. 6:4
-      marker-yv: yv-n
-    - type: text
-      text: the shadows flee,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'turn, my beloved, be like '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '9'
-      marker-yv: yv-n
-    - type: text
-      text: a gazelle
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: or a young stag on cleft mountains.
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '2:17 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Or '
-      - type: usfm
-        marker: fqa
-        children:
-        - type: text
-          text: mountains of Bether
-      marker-yv: yv-n
-  '2':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '2'
+        text: Isa. 25:4
+      metadata:
+        usfm: ISA.25.4
     - type: text
-      text: As a lily among brambles,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'so is '
+      text: '; '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1:15
-      marker-yv: yv-n
-    - type: text
-      text: my love among the young women.
-  - type: usfm
-    marker: sp
-    children:
-    - type: text
-      text: She
-    marker-yv: yv-h
-  '3':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: As an apple tree among the trees of the forest,
+        text: 32:2
+      metadata:
+        usfm: ISA.32.2
+    marker-yv: yv-n
+  - type: text
+    text: in his shadow,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and his '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'so is my '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1:16
-      marker-yv: yv-n
-    - type: text
-      text: beloved among the young men.
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'With great delight I sat '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 25:4
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 32:2
-      marker-yv: yv-n
-    - type: text
-      text: in his shadow,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and his '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Rev. 22:2
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: fruit was sweet to my taste.
-  '4':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '4'
-    - type: text
-      text: 'He '
+        text: '['
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1:4
-      marker-yv: yv-n
-    - type: text
-      text: brought me to the banqueting house,
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '2:4 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: 'Hebrew '
-      - type: usfm
-        marker: fq
-        children:
-        - type: text
-          text: the house of wine
-      marker-yv: yv-n
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'and his '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 20:5
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: banner over me was love.
-  '5':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: 'Sustain me with '
+        text: Rev. 22:2
+      metadata:
+        usfm: REV.22.2
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Sam. 6:19
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Chr. 16:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hos. 3:1
-      marker-yv: yv-n
-    - type: text
-      text: raisins;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: refresh me with apples,
-  - type: usfm
-    marker: q2
-    children:
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 5:8
-      marker-yv: yv-n
-    - type: text
-      text: for I am sick with love.
-  '6':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '6'
-    - type: text
-      text: 'His '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 8:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Deut. 33:27
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: left hand is under my head,
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: fruit was sweet to my taste.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'and his right hand '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 4:8
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: embraces me!
-  '7':
+      text: '4'
+  - type: text
+    text: 'He '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '7'
-    - type: text
-      text: 'I '
+        text: 'ch. '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 3:5
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 5:8
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '9'
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 8:4
-      marker-yv: yv-n
-    - type: text
-      text: adjure you,
-    - type: usfm
-      marker: f
-      children:
-      - type: usfm
-        marker: fr
-        children:
-        - type: text
-          text: '2:7 '
-      - type: usfm
-        marker: ft
-        children:
-        - type: text
-          text: That is, I put you on oath; so throughout the Song
-      marker-yv: yv-n
-    - type: text
-      text: ' O '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1:5
-      marker-yv: yv-n
-    - type: text
-      text: daughters of Jerusalem,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'by '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ver. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '9'
-      marker-yv: yv-n
-    - type: text
-      text: the gazelles or the does of the field,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: that you not stir up or awaken love
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: until it pleases.
-  - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: The Bride Adores Her Beloved
-    marker-yv: yv-h
-  '8':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '8'
-    - type: text
-      text: The voice of my beloved!
+        text: 1:4
+      metadata:
+        usfm: SNG.1.4
+    marker-yv: yv-n
+  - type: text
+    text: brought me to the banqueting house,
   - type: usfm
-    marker: q2
+    marker: f
     children:
-    - type: text
-      text: Behold, he comes,
-  - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'leaping '
     - type: usfm
-      marker: x
+      marker: fr
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Isa. 52:7
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: over the mountains,
+      - type: text
+        text: '2:4 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Hebrew '
+    - type: usfm
+      marker: fq
+      children:
+      - type: text
+        text: the house of wine
+    marker-yv: yv-n
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and his '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: bounding over the hills.
-  '9':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 20:5
+      metadata:
+        usfm: PSA.20.5
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: banner over me was love.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'Sustain me with '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Sam. 6:19
+      metadata:
+        usfm: 2SA.6.19
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Chr. 16:3
+      metadata:
+        usfm: 1CH.16.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hos. 3:1
+      metadata:
+        usfm: HOS.3.1
+    marker-yv: yv-n
+  - type: text
+    text: raisins;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: refresh me with apples,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 5:8
+      metadata:
+        usfm: SNG.5.8
+    marker-yv: yv-n
+  - type: text
+    text: for I am sick with love.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'His '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 8:3
+      metadata:
+        usfm: SNG.8.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Deut. 33:27
+      metadata:
+        usfm: DEU.33.27
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: left hand is under my head,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and his right hand '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Prov. 4:8
+      metadata:
+        usfm: PRO.4.8
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: embraces me!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'I '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 3:5
+      metadata:
+        usfm: SNG.3.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 5:8
+      metadata:
+        usfm: SNG.5.8
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: ref
       children:
       - type: text
         text: '9'
+      metadata:
+        usfm: SNG.5.9
     - type: text
-      text: 'My beloved is like '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'ch. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 4:5
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 7:3
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 8:14
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 2 Sam. 2:18
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Chr. 12:8
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 18:33
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hab. 3:19
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: a gazelle
+        text: 8:4
+      metadata:
+        usfm: SNG.8.4
+    marker-yv: yv-n
+  - type: text
+    text: adjure you,
   - type: usfm
-    marker: q2
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '2:7 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: That is, I put you on oath; so throughout the Song
+    marker-yv: yv-n
+  - type: text
+    text: ' O '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1:5
+      metadata:
+        usfm: SNG.1.5
+    marker-yv: yv-n
+  - type: text
+    text: daughters of Jerusalem,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'by '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '9'
+      metadata:
+        usfm: SNG.2.9
+    marker-yv: yv-n
+  - type: text
+    text: the gazelles or the does of the field,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: that you not stir up or awaken love
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: until it pleases.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: The Bride Adores Her Beloved
+  marker-yv: yv-h
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
     children:
     - type: text
-      text: or a young stag.
+      text: '8'
+  - type: text
+    text: The voice of my beloved!
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: Behold, he comes,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'leaping '
   - type: usfm
-    marker: q1
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Isa. 52:7
+      metadata:
+        usfm: ISA.52.7
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: over the mountains,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: bounding over the hills.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
     children:
     - type: text
-      text: Behold, there he stands
+      text: '9'
+  - type: text
+    text: 'My beloved is like '
   - type: usfm
-    marker: q2
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:5
+      metadata:
+        usfm: SNG.4.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 7:3
+      metadata:
+        usfm: SNG.7.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 8:14
+      metadata:
+        usfm: SNG.8.14
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Sam. 2:18
+      metadata:
+        usfm: 2SA.2.18
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1 Chr. 12:8
+      metadata:
+        usfm: 1CH.12.8
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 18:33
+      metadata:
+        usfm: PSA.18.33
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hab. 3:19
+      metadata:
+        usfm: HAB.3.19
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: a gazelle
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: or a young stag.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: Behold, there he stands
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: behind our wall,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: gazing through the windows,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: looking through the lattice.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
     children:
     - type: text
-      text: behind our wall,
+      text: '10'
+  - type: text
+    text: 'My beloved speaks and says to me:'
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '13'
+      metadata:
+        usfm: SNG.2.13
+    marker-yv: yv-n
+  - type: text
+    text: “Arise, my love, my beautiful one,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and come away,
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
     children:
     - type: text
-      text: gazing through the windows,
+      text: '11'
+  - type: text
+    text: for behold, the winter is past;
+- type: usfm
+  marker: q2
+  children:
   - type: usfm
-    marker: q2
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Joel 2:23
+      metadata:
+        usfm: JOL.2.23
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the rain is over and gone.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
     children:
     - type: text
-      text: looking through the lattice.
+      text: '12'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 2 Sam. 23:4
+      metadata:
+        usfm: 2SA.23.4
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: The flowers appear on the earth,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: the time of singing
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '2:12 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: pruning
+    marker-yv: yv-n
+  - type: text
+    text: ' has come,'
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'and the voice of '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 8:7
+      metadata:
+        usfm: JER.8.7
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the turtledove
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: is heard in our land.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Matt. 24:32
+      metadata:
+        usfm: MAT.24.32
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: The fig tree ripens its figs,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 7:12
+      metadata:
+        usfm: SNG.7.12
+    marker-yv: yv-n
+  - type: text
+    text: the vines are in blossom;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: they give forth fragrance.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '10'
+      metadata:
+        usfm: SNG.2.10
+    marker-yv: yv-n
+  - type: text
+    text: Arise, my love, my beautiful one,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and come away.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: 'O my '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 5:2
+      metadata:
+        usfm: SNG.5.2
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 6:9
+      metadata:
+        usfm: SNG.6.9
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1:15
+      metadata:
+        usfm: SNG.1.15
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: 'dove, in the '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 48:28
+      metadata:
+        usfm: JER.48.28
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 49:16
+      metadata:
+        usfm: JER.49.16
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Obad. 3
+      metadata:
+        usfm: OBA.1.3
+    marker-yv: yv-n
+  - type: text
+    text: clefts of the rock,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: in the crannies of the cliff,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: let me see your face,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'let me '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 8:13
+      metadata:
+        usfm: SNG.8.13
+    marker-yv: yv-n
+  - type: text
+    text: hear your voice,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: for your voice is sweet,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and your face is '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 1:5
+      metadata:
+        usfm: SNG.1.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:3
+      metadata:
+        usfm: SNG.4.3
+    marker-yv: yv-n
+  - type: text
+    text: lovely.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: 'Catch '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ezek. 13:4
+      metadata:
+        usfm: EZK.13.4
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the foxes
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '2:15 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: jackals
+    marker-yv: yv-n
+  - type: text
+    text: ' for us,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: the little foxes
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: that spoil the vineyards,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '[See ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '13'
+      metadata:
+        usfm: SNG.2.13
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: above]
+    marker-yv: yv-n
+  - type: text
+    text: for our vineyards are in blossom.”
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 6:3
+      metadata:
+        usfm: SNG.6.3
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 7:10
+      metadata:
+        usfm: SNG.7.10
+    marker-yv: yv-n
+  - type: text
+    text: My beloved is mine, and I am his;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'he '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:5
+      metadata:
+        usfm: SNG.4.5
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 6:3
+      metadata:
+        usfm: SNG.6.3
+    marker-yv: yv-n
+  - type: text
+    text: grazes
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '2:16 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: he pastures his flock
+    marker-yv: yv-n
+  - type: text
+    text: ' among the lilies.'
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'Until '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ch. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 4:6
+      metadata:
+        usfm: SNG.4.6
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: '['
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Gen. 3:8
+      metadata:
+        usfm: GEN.3.8
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the day breathes
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'and '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Jer. 6:4
+      metadata:
+        usfm: JER.6.4
+    marker-yv: yv-n
+  - type: text
+    text: the shadows flee,
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'turn, my beloved, be like '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'ver. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '9'
+      metadata:
+        usfm: SNG.2.9
+    marker-yv: yv-n
+  - type: text
+    text: a gazelle
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: or a young stag on cleft mountains.
+  - type: usfm
+    marker: f
+    children:
+    - type: usfm
+      marker: fr
+      children:
+      - type: text
+        text: '2:17 '
+    - type: usfm
+      marker: ft
+      children:
+      - type: text
+        text: 'Or '
+    - type: usfm
+      marker: fqa
+      children:
+      - type: text
+        text: mountains of Bether
+    marker-yv: yv-n

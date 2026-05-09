@@ -1,393 +1,329 @@
-document_id: NUM.9,93
+document_id: NUM.9
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: La Pâque célébrée au désert de Sinaï
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 1-14: cf. (Jos 5:10, 11. 2 Ch 30; 35:1-19. Esd 6:19-22.)'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: La Pâque célébrée au désert de Sinaï
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'L’Éternel parla à Moïse, dans le désert de Sinaï, le premier mois de la seconde année après leur sortie du pays d’Égypte. '
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 1-14: cf. (Jos 5:10, 11. 2 Ch 30; 35:1-19. Esd 6:19-22.)'
-    marker-yv: yv-h
+      text: '2'
+  - type: text
+    text: 'Il dit: Que les enfants d’Israël célèbrent la '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: 'L’Éternel parla à Moïse, dans le désert de Sinaï, le premier mois de la seconde année après leur sortie du pays d’Égypte. '
-  '10':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '10'
-    - type: text
-      text: 'Parle aux enfants d’Israël, et dis-leur: Si quelqu’un d’entre vous ou de vos descendants est impur à cause d’un mort, ou est en voyage dans le lointain, il célébrera la Pâque en l’honneur de l’Éternel. '
-  '11':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '11'
-    - type: text
-      text: 'C’est au second mois qu’ils la célébreront, le quatorzième jour, entre les deux soirs; ils la mangeront avec des pains sans levain et des herbes amères. '
-  '12':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '12'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex 12:46
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Jn 19:33
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '36'
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Ils n’en laisseront rien jusqu’au matin, et ils n’en briseront aucun os. Ils la célébreront selon toutes les ordonnances de la Pâque. '
-  '13':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '13'
-    - type: text
-      text: 'Si celui qui est pur et qui n’est pas en voyage s’abstient de célébrer la Pâque, celui-là sera retranché de son peuple; parce qu’il n’a pas présenté l’offrande de l’Éternel au temps fixé, cet homme-là portera la peine de son péché. '
-  '14':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '14'
-    - type: text
-      text: 'Si un étranger en séjour chez vous célèbre la Pâque de l’Éternel, il se conformera aux lois et aux ordonnances de la Pâque. '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex 12:49
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: Il y aura une même loi parmi vous, pour l’étranger comme pour l’indigène.
-  - type: usfm
-    marker: s1
+    marker: x
     children:
     - type: text
-      text: La nuée
-    marker-yv: yv-h
+      text: 'Ex 12:1, etc. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Lé 23:5
+      metadata:
+        usfm: LEV.23.5
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: No 28:16
+      metadata:
+        usfm: NUM.28.16
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: De 16:2
+      metadata:
+        usfm: DEU.16.2
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Pâque au temps fixé. '
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 15-23: cf. (Ex 40:34-38. No 10:11-36.) (Jn 10:4, 27.) (Mt 6:10.)'
-    marker-yv: yv-h
-  '15':
+      text: '3'
+  - type: text
+    text: 'Vous la célébrerez au temps fixé, le quatorzième jour de ce mois, entre les deux soirs; vous la célébrerez selon toutes les lois et toutes les ordonnances qui s’y rapportent. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: 'Moïse parla aux enfants d’Israël, afin qu’ils célébrassent la Pâque. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: 'Et ils célébrèrent la Pâque le quatorzième jour du premier mois, entre les deux soirs, dans le désert de Sinaï; les enfants d’Israël se conformèrent à tous les ordres que l’Éternel avait donnés à Moïse. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: 'Il y eut des hommes qui, se trouvant impurs à cause d’un mort, ne pouvaient pas célébrer la Pâque ce jour-là. Ils se présentèrent le même jour devant Moïse et Aaron; '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'et ces hommes dirent à Moïse: Nous sommes impurs à cause d’un mort; pourquoi serions-nous privés de présenter au temps fixé l’offrande de l’Éternel au milieu des enfants d’Israël? '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'Moïse leur dit: Attendez que je sache ce que l’Éternel vous ordonne. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'Et l’Éternel parla à Moïse, et dit: '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'Parle aux enfants d’Israël, et dis-leur: Si quelqu’un d’entre vous ou de vos descendants est impur à cause d’un mort, ou est en voyage dans le lointain, il célébrera la Pâque en l’honneur de l’Éternel. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'C’est au second mois qu’ils la célébreront, le quatorzième jour, entre les deux soirs; ils la mangeront avec des pains sans levain et des herbes amères. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '15'
+        text: Ex 12:46
+      metadata:
+        usfm: EXO.12.46
     - type: text
-      text: ' '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex 40:34
       - type: text
-        text: .
-      marker-yv: yv-n
+        text: Jn 19:33
+      metadata:
+        usfm: JHN.19.33
     - type: text
-      text: 'Le jour où le tabernacle fut dressé, la nuée couvrit le tabernacle, la tente d’assignation; et, depuis le soir jusqu’au matin, elle eut sur le tabernacle l’apparence d’un feu. '
-  '16':
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '36'
+      metadata:
+        usfm: JHN.19.36
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Ils n’en laisseront rien jusqu’au matin, et ils n’en briseront aucun os. Ils la célébreront selon toutes les ordonnances de la Pâque. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: text
+    text: 'Si celui qui est pur et qui n’est pas en voyage s’abstient de célébrer la Pâque, celui-là sera retranché de son peuple; parce qu’il n’a pas présenté l’offrande de l’Éternel au temps fixé, cet homme-là portera la peine de son péché. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: 'Si un étranger en séjour chez vous célèbre la Pâque de l’Éternel, il se conformera aux lois et aux ordonnances de la Pâque. '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '16'
+        text: Ex 12:49
+      metadata:
+        usfm: EXO.12.49
     - type: text
-      text: 'Il en fut continuellement ainsi: la nuée couvrait le tabernacle, et elle avait de nuit l’apparence d’un feu. '
-  '17':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: Il y aura une même loi parmi vous, pour l’étranger comme pour l’indigène.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: La nuée
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 15-23: cf. (Ex 40:34-38. No 10:11-36.) (Jn 10:4, 27.) (Mt 6:10.)'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '17'
+        text: Ex 40:34
+      metadata:
+        usfm: EXO.40.34
     - type: text
-      text: 'Quand la nuée s’élevait de dessus la tente, les enfants d’Israël partaient; et les enfants d’Israël campaient dans le lieu où s’arrêtait la nuée. '
-  '18':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Le jour où le tabernacle fut dressé, la nuée couvrit le tabernacle, la tente d’assignation; et, depuis le soir jusqu’au matin, elle eut sur le tabernacle l’apparence d’un feu. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'Il en fut continuellement ainsi: la nuée couvrait le tabernacle, et elle avait de nuit l’apparence d’un feu. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'Quand la nuée s’élevait de dessus la tente, les enfants d’Israël partaient; et les enfants d’Israël campaient dans le lieu où s’arrêtait la nuée. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: 'Les enfants d’Israël partaient sur l’ordre de l’Éternel, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '18'
+        text: 1 Co 10:1
+      metadata:
+        usfm: 1CO.10.1
     - type: text
-      text: 'Les enfants d’Israël partaient sur l’ordre de l’Éternel, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 1 Co 10:1
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'et ils campaient sur l’ordre de l’Éternel; ils campaient aussi longtemps que la nuée restait sur le tabernacle. '
-  '19':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'et ils campaient sur l’ordre de l’Éternel; ils campaient aussi longtemps que la nuée restait sur le tabernacle. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: 'Quand la nuée restait longtemps sur le tabernacle, les enfants d’Israël obéissaient au commandement de l’Éternel, et ne partaient point. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: text
+    text: 'Quand la nuée restait peu de jours sur le tabernacle, ils campaient sur l’ordre de l’Éternel, et ils partaient sur l’ordre de l’Éternel. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: text
+    text: 'Si la nuée s’arrêtait du soir au matin, et s’élevait le matin, ils partaient. Si la nuée s’élevait après un jour et une nuit, ils partaient. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: 'Si la nuée s’arrêtait sur le tabernacle deux jours, ou un mois, ou une année, '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '19'
+        text: Ex 40:36
+      metadata:
+        usfm: EXO.40.36
     - type: text
-      text: 'Quand la nuée restait longtemps sur le tabernacle, les enfants d’Israël obéissaient au commandement de l’Éternel, et ne partaient point. '
-  '2':
+      text: ', '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: '37'
+      metadata:
+        usfm: EXO.40.37
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'les enfants d’Israël restaient campés, et ne partaient point; et quand elle s’élevait, ils partaient. '
   - type: usfm
-    marker: p
+    marker: vlbl
     children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
     - type: text
-      text: 'Il dit: Que les enfants d’Israël célèbrent la '
-    - type: usfm
-      marker: x
-      children:
-      - type: text
-        text: 'Ex 12:1, etc. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Lé 23:5
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: No 28:16
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: De 16:2
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Pâque au temps fixé. '
-  '20':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '20'
-    - type: text
-      text: 'Quand la nuée restait peu de jours sur le tabernacle, ils campaient sur l’ordre de l’Éternel, et ils partaient sur l’ordre de l’Éternel. '
-  '21':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '21'
-    - type: text
-      text: 'Si la nuée s’arrêtait du soir au matin, et s’élevait le matin, ils partaient. Si la nuée s’élevait après un jour et une nuit, ils partaient. '
-  '22':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '22'
-    - type: text
-      text: 'Si la nuée s’arrêtait sur le tabernacle deux jours, ou un mois, ou une année, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ex 40:36
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '37'
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'les enfants d’Israël restaient campés, et ne partaient point; et quand elle s’élevait, ils partaient. '
-  '23':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '23'
-    - type: text
-      text: Ils campaient sur l’ordre de l’Éternel, et ils partaient sur l’ordre de l’Éternel; ils obéissaient au commandement de l’Éternel, sur l’ordre de l’Éternel par Moïse.
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'Vous la célébrerez au temps fixé, le quatorzième jour de ce mois, entre les deux soirs; vous la célébrerez selon toutes les lois et toutes les ordonnances qui s’y rapportent. '
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'Moïse parla aux enfants d’Israël, afin qu’ils célébrassent la Pâque. '
-  '5':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: 'Et ils célébrèrent la Pâque le quatorzième jour du premier mois, entre les deux soirs, dans le désert de Sinaï; les enfants d’Israël se conformèrent à tous les ordres que l’Éternel avait donnés à Moïse. '
-  '6':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'Il y eut des hommes qui, se trouvant impurs à cause d’un mort, ne pouvaient pas célébrer la Pâque ce jour-là. Ils se présentèrent le même jour devant Moïse et Aaron; '
-  '7':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: 'et ces hommes dirent à Moïse: Nous sommes impurs à cause d’un mort; pourquoi serions-nous privés de présenter au temps fixé l’offrande de l’Éternel au milieu des enfants d’Israël? '
-  '8':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '8'
-    - type: text
-      text: 'Moïse leur dit: Attendez que je sache ce que l’Éternel vous ordonne. '
-  '9':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '9'
-    - type: text
-      text: 'Et l’Éternel parla à Moïse, et dit: '
+      text: '23'
+  - type: text
+    text: Ils campaient sur l’ordre de l’Éternel, et ils partaient sur l’ordre de l’Éternel; ils obéissaient au commandement de l’Éternel, sur l’ordre de l’Éternel par Moïse.

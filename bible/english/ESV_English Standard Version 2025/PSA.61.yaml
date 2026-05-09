@@ -1,343 +1,363 @@
-document_id: PSA.61,59
+document_id: PSA.61
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Lead Me to the Rock
+  marker-yv: yv-h
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: 'To the choirmaster: with '
   - type: usfm
-    marker: s1
-    children:
-    - type: text
-      text: Lead Me to the Rock
-    marker-yv: yv-h
-  - type: usfm
-    marker: d
-    children:
-    - type: text
-      text: 'To the choirmaster: with '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 4
-      - type: text
-        text: ', title'
-      marker-yv: yv-n
-    - type: text
-      text: stringed instruments. Of David.
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Ps. 4
+      metadata:
+        usfm: PSA.4
     - type: text
-      text: Hear my cry, O God,
+      text: ', title'
+    marker-yv: yv-n
+  - type: text
+    text: stringed instruments. Of David.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
+    children:
+    - type: text
+      text: '1'
+  - type: text
+    text: Hear my cry, O God,
+- type: usfm
+  marker: q2
+  children:
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 55:1
       - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '2'
-      marker-yv: yv-n
+        text: Ps. 55:1
+      metadata:
+        usfm: PSA.55.1
     - type: text
-      text: listen to my prayer;
-  '2':
-  - type: usfm
-    marker: q1
-    children:
+      text: ', '
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '2'
-    - type: text
-      text: from the end of the earth I call to you
+      metadata:
+        usfm: PSA.55.2
+    marker-yv: yv-n
+  - type: text
+    text: listen to my prayer;
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'when my heart is '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 77:3
-      marker-yv: yv-n
-    - type: text
-      text: faint.
+      text: '2'
+  - type: text
+    text: from the end of the earth I call to you
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'when my heart is '
   - type: usfm
-    marker: q1
-    children:
-    - type: text
-      text: 'Lead me to '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: '['
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 18:2
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: ']'
-      marker-yv: yv-n
-    - type: text
-      text: the rock
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: that is higher than I,
-  '3':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '3'
-    - type: text
-      text: 'for you have been '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 14:6
-      marker-yv: yv-n
-    - type: text
-      text: my refuge,
+        text: Ps. 77:3
+      metadata:
+        usfm: PSA.77.3
+    marker-yv: yv-n
+  - type: text
+    text: faint.
+- type: usfm
+  marker: q1
+  children:
+  - type: text
+    text: 'Lead me to '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'a strong '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Prov. 18:10
-      marker-yv: yv-n
-    - type: text
-      text: tower against the enemy.
-  '4':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '4'
-    - type: text
-      text: 'Let me '
+        text: '['
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 15:1
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 27:4
-      marker-yv: yv-n
-    - type: text
-      text: dwell in your tent forever!
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'Let me take refuge under '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 17:8
-      marker-yv: yv-n
-    - type: text
-      text: 'the shelter of your wings! '
-    - type: usfm
-      marker: qs
+      marker: ref
       children:
       - type: text
-        text: Selah
-  '5':
-  - type: usfm
-    marker: q1
-    children:
+        text: Ps. 18:2
+      metadata:
+        usfm: PSA.18.2
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '5'
-    - type: text
-      text: For you, O God, have heard my vows;
+        text: ']'
+    marker-yv: yv-n
+  - type: text
+    text: the rock
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: that is higher than I,
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: you have given me the heritage of those who fear your name.
-  '6':
+      text: '3'
+  - type: text
+    text: 'for you have been '
   - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: xta
       children:
       - type: text
-        text: '6'
-    - type: text
-      text: ' '
+        text: 'See '
     - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 21:4
-      marker-yv: yv-n
-    - type: text
-      text: 'Prolong '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 63:11
-      marker-yv: yv-n
-    - type: text
-      text: the life of the king;
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: may his years endure to all generations!
-  '7':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '7'
-    - type: text
-      text: May he be enthroned forever before God;
+        text: Ps. 14:6
+      metadata:
+        usfm: PSA.14.6
+    marker-yv: yv-n
+  - type: text
+    text: my refuge,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'a strong '
   - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: 'appoint '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 40:11
-      marker-yv: yv-n
-    - type: text
-      text: steadfast love and faithfulness to watch over him!
-  '8':
-  - type: usfm
-    marker: q1
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '8'
-    - type: text
-      text: So will I ever sing praises to your name,
+        text: Prov. 18:10
+      metadata:
+        usfm: PRO.18.10
+    marker-yv: yv-n
+  - type: text
+    text: tower against the enemy.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: 'as I '
+      text: '4'
+  - type: text
+    text: 'Let me '
+  - type: usfm
+    marker: x
+    children:
     - type: usfm
-      marker: x
+      marker: xta
       children:
-      - type: usfm
-        marker: xta
-        children:
-        - type: text
-          text: 'See '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ps. 50:14
-      marker-yv: yv-n
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 15:1
+      metadata:
+        usfm: PSA.15.1
     - type: text
-      text: perform my vows day after day.
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 27:4
+      metadata:
+        usfm: PSA.27.4
+    marker-yv: yv-n
+  - type: text
+    text: dwell in your tent forever!
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'Let me take refuge under '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 17:8
+      metadata:
+        usfm: PSA.17.8
+    marker-yv: yv-n
+  - type: text
+    text: 'the shelter of your wings! '
+  - type: usfm
+    marker: qs
+    children:
+    - type: text
+      text: Selah
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '5'
+  - type: text
+    text: For you, O God, have heard my vows;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: you have given me the heritage of those who fear your name.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '6'
+  - type: text
+    text: ' '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 21:4
+      metadata:
+        usfm: PSA.21.4
+    marker-yv: yv-n
+  - type: text
+    text: 'Prolong '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 63:11
+      metadata:
+        usfm: PSA.63.11
+    marker-yv: yv-n
+  - type: text
+    text: the life of the king;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: may his years endure to all generations!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: May he be enthroned forever before God;
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'appoint '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 40:11
+      metadata:
+        usfm: PSA.40.11
+    marker-yv: yv-n
+  - type: text
+    text: steadfast love and faithfulness to watch over him!
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: So will I ever sing praises to your name,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: 'as I '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: xta
+      children:
+      - type: text
+        text: 'See '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ps. 50:14
+      metadata:
+        usfm: PSA.50.14
+    marker-yv: yv-n
+  - type: text
+    text: perform my vows day after day.

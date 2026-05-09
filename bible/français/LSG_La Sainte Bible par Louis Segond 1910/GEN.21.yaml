@@ -1,581 +1,486 @@
-document_id: GEN.21,93
+document_id: GEN.21
 type_code: fra
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Naissance d’Isaac
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 1-7: cf. (Ge 17:15-21; 18:9-15. Hé 11:11, 12.) Ge 17:9-14.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
   - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Naissance d’Isaac
-    marker-yv: yv-h
+      text: '1'
+  - type: text
+    text: 'L’Éternel se souvint de ce qu’il avait dit à Sara, et l’Éternel accomplit pour Sara '
   - type: usfm
-    marker: r
-    children:
-    - type: text
-      text: 'V. 1-7: cf. (Ge 17:15-21; 18:9-15. Hé 11:11, 12.) Ge 17:9-14.'
-    marker-yv: yv-h
-  - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '1'
+        text: Ge 17:19
+      metadata:
+        usfm: GEN.17.19
     - type: text
-      text: 'L’Éternel se souvint de ce qu’il avait dit à Sara, et l’Éternel accomplit pour Sara '
+      text: '; '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ge 17:19
       - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 18:10
-      - type: text
-        text: .
-      marker-yv: yv-n
+        text: 18:10
+      metadata:
+        usfm: GEN.18.10
     - type: text
-      text: 'ce qu’il avait promis. '
-  '10':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'ce qu’il avait promis. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '2'
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '10'
+        text: Ga 4:23
+      metadata:
+        usfm: GAL.4.23
     - type: text
-      text: 'et elle dit à Abraham: '
+      text: '. '
     - type: usfm
-      marker: x
+      marker: ref
       children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ga 4:30
       - type: text
-        text: .
-      marker-yv: yv-n
+        text: Hé 11:11
+      metadata:
+        usfm: HEB.11.11
     - type: text
-      text: 'Chasse cette servante et son fils, car le fils de cette servante n’héritera pas avec mon fils, avec Isaac. '
-  '11':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Sara devint enceinte, et elle enfanta un fils à Abraham dans sa vieillesse, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '11'
+        text: Ge 18:10
+      metadata:
+        usfm: GEN.18.10
     - type: text
-      text: 'Cette parole déplut fort aux yeux d’Abraham, à cause de son fils. '
-  '12':
-  - type: usfm
-    marker: p
-    children:
+      text: ', '
     - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '12'
-    - type: text
-      text: 'Mais Dieu dit à Abraham: Que cela ne déplaise pas à tes yeux, à cause de l’enfant et de ta servante. Accorde à Sara tout ce qu’elle te demandera; '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ro 9:7
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hé 11:18
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'car c’est d’Isaac que sortira une postérité qui te sera propre. '
-  '13':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '13'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ge 16:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 17:20
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Je ferai aussi une nation du fils de ta servante; car il est ta postérité. '
-  '14':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
         text: '14'
+      metadata:
+        usfm: GEN.18.14
     - type: text
-      text: 'Abraham se leva de bon matin; il prit du pain et une outre d’eau, qu’il donna à Agar et plaça sur son épaule; il lui remit aussi l’enfant, et la renvoya. Elle s’en alla, et s’égara dans le désert de Beer-Schéba. '
-  '15':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'au temps fixé dont Dieu lui avait parlé. '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '15'
-    - type: text
-      text: 'Quand l’eau de l’outre fut épuisée, elle laissa l’enfant sous un des arbrisseaux, '
-  '16':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '16'
-    - type: text
-      text: 'et alla s’asseoir vis-à-vis, à une portée d’arc; car elle disait: Que je ne voie pas mourir mon enfant! Elle s’assit donc vis-à-vis de lui, éleva la voix et pleura. '
-  '17':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '17'
-    - type: text
-      text: 'Dieu entendit la voix de l’enfant; et l’ange de Dieu appela du ciel Agar, et lui dit: Qu’as-tu, Agar? Ne crains point, car Dieu a entendu la voix de l’enfant dans le lieu où il est. '
-  '18':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '18'
-    - type: text
-      text: 'Lève-toi, prends l’enfant, saisis-le de ta main; '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ge 16:10
-      - type: text
-        text: '; '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: 17:20
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'car je ferai de lui une grande nation. '
-  '19':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '19'
-    - type: text
-      text: 'Et Dieu lui ouvrit les yeux, et elle vit un puits d’eau; elle alla remplir d’eau l’outre, et donna à boire à l’enfant. '
-  '2':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ga 4:23
-      - type: text
-        text: '. '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Hé 11:11
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'Sara devint enceinte, et elle enfanta un fils à Abraham dans sa vieillesse, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ge 18:10
-      - type: text
-        text: ', '
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: '14'
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'au temps fixé dont Dieu lui avait parlé. '
-  '20':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '20'
-    - type: text
-      text: 'Dieu fut avec l’enfant, qui grandit, habita dans le désert, et devint tireur d’arc. '
-  '21':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '21'
-    - type: text
-      text: Il habita dans le désert de Paran, et sa mère lui prit une femme du pays d’Égypte.
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Alliance d’Abraham avec Abimélec
-    marker-yv: yv-h
+      text: '3'
+  - type: text
+    text: 'Abraham donna le nom d’Isaac au fils qui lui était né, que Sara lui avait enfanté. '
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 22-34: cf. Ge 26:1-6, 12-33.'
-    marker-yv: yv-h
-  '22':
+      text: '4'
+  - type: text
+    text: 'Abraham circoncit son fils Isaac, âgé de huit jours, '
   - type: usfm
-    marker: p
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '22'
+        text: Ge 17:10
+      metadata:
+        usfm: GEN.17.10
     - type: text
-      text: 'En ce temps-là, Abimélec, accompagné de Picol, chef de son armée, parla ainsi à Abraham: Dieu est avec toi dans tout ce que tu fais. '
-  '23':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'comme Dieu le lui avait ordonné. '
   - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '23'
-    - type: text
-      text: 'Jure-moi maintenant ici, par le nom de Dieu, que tu ne tromperas ni moi, ni mes enfants, ni mes petits-enfants, et '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ge 14:23
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'que tu auras pour moi et le pays où tu séjournes la même bienveillance que j’ai eue pour toi. '
-  '24':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '24'
-    - type: text
-      text: 'Abraham dit: Je le jurerai. '
-  '25':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '25'
-    - type: text
-      text: 'Mais Abraham fit des reproches à Abimélec, au sujet d’un puits d’eau, dont s’étaient emparés de force les serviteurs d’Abimélec. '
-  '26':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '26'
-    - type: text
-      text: 'Abimélec répondit: J’ignore qui a fait cette chose-là; tu ne m’en as point informé, et moi, je ne l’apprends qu’aujourd’hui. '
-  '27':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '27'
-    - type: text
-      text: 'Et Abraham prit des brebis et des bœufs, qu’il donna à Abimélec; et ils firent tous deux alliance. '
-  '28':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '28'
-    - type: text
-      text: 'Abraham mit à part sept jeunes brebis. '
-  '29':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '29'
-    - type: text
-      text: 'Et Abimélec dit à Abraham: Qu’est-ce que ces sept jeunes brebis, que tu as mises à part? '
-  '3':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'Abraham donna le nom d’Isaac au fils qui lui était né, que Sara lui avait enfanté. '
-  '30':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '30'
-    - type: text
-      text: 'Il répondit: Tu accepteras de ma main ces sept brebis, afin que cela me serve de témoignage que j’ai creusé ce puits. '
-  '31':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '31'
-    - type: text
-      text: 'C’est pourquoi on appelle ce lieu Beer-Schéba; car c’est là qu’ils jurèrent l’un et l’autre. '
-  '32':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '32'
-    - type: text
-      text: 'Ils firent donc alliance à Beer-Schéba. Après quoi, Abimélec se leva, avec Picol, chef de son armée; et ils retournèrent au pays des Philistins. '
-  '33':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '33'
-    - type: text
-      text: 'Abraham planta des tamaris à Beer-Schéba; et là '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ge 4:26
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'il invoqua le nom de l’Éternel, Dieu de l’éternité. '
-  '34':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '34'
-    - type: text
-      text: Abraham séjourna longtemps dans le pays des Philistins.
-  '4':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: 'Abraham circoncit son fils Isaac, âgé de huit jours, '
-    - type: usfm
-      marker: x
-      children:
-      - type: usfm
-        marker: ref
-        children:
-        - type: text
-          text: Ge 17:10
-      - type: text
-        text: .
-      marker-yv: yv-n
-    - type: text
-      text: 'comme Dieu le lui avait ordonné. '
-  '5':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '5'
-    - type: text
-      text: 'Abraham était âgé de cent ans, à la naissance d’Isaac, son fils. '
-  '6':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '6'
-    - type: text
-      text: 'Et Sara dit: Dieu m’a fait un sujet de rire; quiconque l’apprendra rira de moi. '
-  '7':
-  - type: usfm
-    marker: p
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '7'
-    - type: text
-      text: 'Elle ajouta: Qui aurait dit à Abraham: Sara allaitera des enfants? Cependant je lui ai enfanté un fils dans sa vieillesse.'
-  - type: usfm
-    marker: s1
+    marker: vlbl
     children:
     - type: text
-      text: Agar dans le désert
-    marker-yv: yv-h
+      text: '5'
+  - type: text
+    text: 'Abraham était âgé de cent ans, à la naissance d’Isaac, son fils. '
   - type: usfm
-    marker: r
+    marker: vlbl
     children:
     - type: text
-      text: 'V. 8-21: cf. (Ro 9:6-9. Ga 4:21-31.) (Ge 16; 25:12-18.) Ps 146:7-9.'
-    marker-yv: yv-h
-  '8':
+      text: '6'
+  - type: text
+    text: 'Et Sara dit: Dieu m’a fait un sujet de rire; quiconque l’apprendra rira de moi. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '7'
+  - type: text
+    text: 'Elle ajouta: Qui aurait dit à Abraham: Sara allaitera des enfants? Cependant je lui ai enfanté un fils dans sa vieillesse.'
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Agar dans le désert
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 8-21: cf. (Ro 9:6-9. Ga 4:21-31.) (Ge 16; 25:12-18.) Ps 146:7-9.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '8'
+  - type: text
+    text: 'L’enfant grandit, et fut sevré; et Abraham fit un grand festin le jour où Isaac fut sevré. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '9'
+  - type: text
+    text: 'Sara vit rire le fils qu’Agar, l’Égyptienne, avait enfanté à Abraham; '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '10'
+  - type: text
+    text: 'et elle dit à Abraham: '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '8'
+        text: Ga 4:30
+      metadata:
+        usfm: GAL.4.30
     - type: text
-      text: 'L’enfant grandit, et fut sevré; et Abraham fit un grand festin le jour où Isaac fut sevré. '
-  '9':
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Chasse cette servante et son fils, car le fils de cette servante n’héritera pas avec mon fils, avec Isaac. '
   - type: usfm
-    marker: p
+    marker: vlbl
+    children:
+    - type: text
+      text: '11'
+  - type: text
+    text: 'Cette parole déplut fort aux yeux d’Abraham, à cause de son fils. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '12'
+  - type: text
+    text: 'Mais Dieu dit à Abraham: Que cela ne déplaise pas à tes yeux, à cause de l’enfant et de ta servante. Accorde à Sara tout ce qu’elle te demandera; '
+  - type: usfm
+    marker: x
     children:
     - type: usfm
-      marker: vlbl
+      marker: ref
       children:
       - type: text
-        text: '9'
+        text: Ro 9:7
+      metadata:
+        usfm: ROM.9.7
     - type: text
-      text: 'Sara vit rire le fils qu’Agar, l’Égyptienne, avait enfanté à Abraham; '
+      text: '. '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Hé 11:18
+      metadata:
+        usfm: HEB.11.18
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'car c’est d’Isaac que sortira une postérité qui te sera propre. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '13'
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ge 16:10
+      metadata:
+        usfm: GEN.16.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 17:20
+      metadata:
+        usfm: GEN.17.20
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'Je ferai aussi une nation du fils de ta servante; car il est ta postérité. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '14'
+  - type: text
+    text: 'Abraham se leva de bon matin; il prit du pain et une outre d’eau, qu’il donna à Agar et plaça sur son épaule; il lui remit aussi l’enfant, et la renvoya. Elle s’en alla, et s’égara dans le désert de Beer-Schéba. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '15'
+  - type: text
+    text: 'Quand l’eau de l’outre fut épuisée, elle laissa l’enfant sous un des arbrisseaux, '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '16'
+  - type: text
+    text: 'et alla s’asseoir vis-à-vis, à une portée d’arc; car elle disait: Que je ne voie pas mourir mon enfant! Elle s’assit donc vis-à-vis de lui, éleva la voix et pleura. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '17'
+  - type: text
+    text: 'Dieu entendit la voix de l’enfant; et l’ange de Dieu appela du ciel Agar, et lui dit: Qu’as-tu, Agar? Ne crains point, car Dieu a entendu la voix de l’enfant dans le lieu où il est. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '18'
+  - type: text
+    text: 'Lève-toi, prends l’enfant, saisis-le de ta main; '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ge 16:10
+      metadata:
+        usfm: GEN.16.10
+    - type: text
+      text: '; '
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: 17:20
+      metadata:
+        usfm: GEN.17.20
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'car je ferai de lui une grande nation. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '19'
+  - type: text
+    text: 'Et Dieu lui ouvrit les yeux, et elle vit un puits d’eau; elle alla remplir d’eau l’outre, et donna à boire à l’enfant. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '20'
+  - type: text
+    text: 'Dieu fut avec l’enfant, qui grandit, habita dans le désert, et devint tireur d’arc. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '21'
+  - type: text
+    text: Il habita dans le désert de Paran, et sa mère lui prit une femme du pays d’Égypte.
+- type: usfm
+  marker: s1
+  children:
+  - type: text
+    text: Alliance d’Abraham avec Abimélec
+  marker-yv: yv-h
+- type: usfm
+  marker: r
+  children:
+  - type: text
+    text: 'V. 22-34: cf. Ge 26:1-6, 12-33.'
+  marker-yv: yv-h
+- type: usfm
+  marker: p
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '22'
+  - type: text
+    text: 'En ce temps-là, Abimélec, accompagné de Picol, chef de son armée, parla ainsi à Abraham: Dieu est avec toi dans tout ce que tu fais. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '23'
+  - type: text
+    text: 'Jure-moi maintenant ici, par le nom de Dieu, que tu ne tromperas ni moi, ni mes enfants, ni mes petits-enfants, et '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ge 14:23
+      metadata:
+        usfm: GEN.14.23
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'que tu auras pour moi et le pays où tu séjournes la même bienveillance que j’ai eue pour toi. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '24'
+  - type: text
+    text: 'Abraham dit: Je le jurerai. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '25'
+  - type: text
+    text: 'Mais Abraham fit des reproches à Abimélec, au sujet d’un puits d’eau, dont s’étaient emparés de force les serviteurs d’Abimélec. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '26'
+  - type: text
+    text: 'Abimélec répondit: J’ignore qui a fait cette chose-là; tu ne m’en as point informé, et moi, je ne l’apprends qu’aujourd’hui. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '27'
+  - type: text
+    text: 'Et Abraham prit des brebis et des bœufs, qu’il donna à Abimélec; et ils firent tous deux alliance. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '28'
+  - type: text
+    text: 'Abraham mit à part sept jeunes brebis. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '29'
+  - type: text
+    text: 'Et Abimélec dit à Abraham: Qu’est-ce que ces sept jeunes brebis, que tu as mises à part? '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '30'
+  - type: text
+    text: 'Il répondit: Tu accepteras de ma main ces sept brebis, afin que cela me serve de témoignage que j’ai creusé ce puits. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '31'
+  - type: text
+    text: 'C’est pourquoi on appelle ce lieu Beer-Schéba; car c’est là qu’ils jurèrent l’un et l’autre. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '32'
+  - type: text
+    text: 'Ils firent donc alliance à Beer-Schéba. Après quoi, Abimélec se leva, avec Picol, chef de son armée; et ils retournèrent au pays des Philistins. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '33'
+  - type: text
+    text: 'Abraham planta des tamaris à Beer-Schéba; et là '
+  - type: usfm
+    marker: x
+    children:
+    - type: usfm
+      marker: ref
+      children:
+      - type: text
+        text: Ge 4:26
+      metadata:
+        usfm: GEN.4.26
+    - type: text
+      text: .
+    marker-yv: yv-n
+  - type: text
+    text: 'il invoqua le nom de l’Éternel, Dieu de l’éternité. '
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '34'
+  - type: text
+    text: Abraham séjourna longtemps dans le pays des Philistins.

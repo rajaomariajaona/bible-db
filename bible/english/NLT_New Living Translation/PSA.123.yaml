@@ -1,91 +1,87 @@
-document_id: PSA.123,116
+document_id: PSA.123
 type_code: eng
-verses:
-  '1':
+segments:
+- type: usfm
+  marker: d
+  children:
+  - type: text
+    text: A song for pilgrims ascending to Jerusalem.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: d
+    marker: vlbl
     children:
     - type: text
-      text: A song for pilgrims ascending to Jerusalem.
+      text: '1'
+  - type: text
+    text: I lift my eyes to you,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: O God, enthroned in heaven.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '1'
-    - type: text
-      text: I lift my eyes to you,
-  - type: usfm
-    marker: q2
-    children:
-    - type: text
-      text: O God, enthroned in heaven.
-  '2':
-  - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '2'
-    - type: text
-      text: 'We keep looking to the '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ' our God for his mercy,'
-  - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: just as servants keep their eyes on their master,
+      text: '2'
+  - type: text
+    text: 'We keep looking to the '
   - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: as a slave girl watches her mistress for the slightest signal.
-  '3':
+      text: Lord
+  - type: text
+    text: ' our God for his mercy,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: just as servants keep their eyes on their master,
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: as a slave girl watches her mistress for the slightest signal.
+- type: usfm
+  marker: q1
+  children:
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '3'
-    - type: text
-      text: 'Have mercy on us, '
-    - type: usfm
-      marker: nd
-      children:
-      - type: text
-        text: Lord
-    - type: text
-      text: ', have mercy,'
-  - type: usfm
-    marker: q2
+    marker: vlbl
     children:
     - type: text
-      text: for we have had our fill of contempt.
-  '4':
+      text: '3'
+  - type: text
+    text: 'Have mercy on us, '
   - type: usfm
-    marker: q1
-    children:
-    - type: usfm
-      marker: vlbl
-      children:
-      - type: text
-        text: '4'
-    - type: text
-      text: We have had more than our fill of the scoffing of the proud
-  - type: usfm
-    marker: q2
+    marker: nd
     children:
     - type: text
-      text: and the contempt of the arrogant.
+      text: Lord
+  - type: text
+    text: ', have mercy,'
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: for we have had our fill of contempt.
+- type: usfm
+  marker: q1
+  children:
+  - type: usfm
+    marker: vlbl
+    children:
+    - type: text
+      text: '4'
+  - type: text
+    text: We have had more than our fill of the scoffing of the proud
+- type: usfm
+  marker: q2
+  children:
+  - type: text
+    text: and the contempt of the arrogant.
