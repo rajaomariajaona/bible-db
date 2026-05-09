@@ -16,12 +16,22 @@ verses:
   - type: usfm
     marker: m
     children:
+    - type: usfm
+      marker: vlbl
+      children:
+      - type: text
+        text: '1'
     - type: text
       text: 'This is what Jeremiah told Baruch one day in the fourth year of Jehoiakim’s reign as he was taking dictation from the prophet:'
   '2':
   - type: usfm
     marker: p
     children:
+    - type: usfm
+      marker: vlbl
+      children:
+      - type: text
+        text: 2-3
     - type: text
       text: '“These are the words of '
     - type: usfm
@@ -42,6 +52,11 @@ verses:
   - type: usfm
     marker: p
     children:
+    - type: usfm
+      marker: vlbl
+      children:
+      - type: text
+        text: 4-5
     - type: text
       text: '“But '
     - type: usfm
