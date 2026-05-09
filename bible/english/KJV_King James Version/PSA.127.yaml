@@ -2,77 +2,152 @@ document_id: PSA.127,1
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: A Song of degrees for Solomon.
-  - type: text
-    content: 'Except the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' build the house,'
-  - type: text
-    content: 'They labour in vain that build it:'
-  - type: text
-    content: 'Except the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' keep the city,'
-  - type: text
-    content: 'The watchman waketh '
-  - type: text
-    content: but
-  - type: text
-    content: ' in vain.'
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: A Song of degrees for Solomon.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Except the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' build the house,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'They labour in vain that build it:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Except the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' keep the city,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'The watchman waketh '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: but
+    - type: text
+      text: ' in vain.'
   '2':
-  - type: text
-    content: ' '
-  - type: text
-    content: It is
-  - type: text
-    content: ' vain for you to rise up early, to sit up late, to eat the bread of sorrows:'
-  - type: text
-    content: For
-  - type: text
-    content: ' so he giveth his beloved sleep.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: It is
+    - type: text
+      text: ' vain for you to rise up early, to sit up late, to eat the bread of sorrows:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: For
+    - type: text
+      text: ' so he giveth his beloved sleep.'
   '3':
-  - type: text
-    content: 'Lo, children '
-  - type: text
-    content: are
-  - type: text
-    content: ' an heritage of the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ':'
-  - type: text
-    content: And
-  - type: text
-    content: ' the fruit of the womb '
-  - type: text
-    content: is his
-  - type: text
-    content: ' reward.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Lo, children '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: are
+    - type: text
+      text: ' an heritage of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ':'
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: And
+    - type: text
+      text: ' the fruit of the womb '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is his
+    - type: text
+      text: ' reward.'
   '4':
-  - type: text
-    content: 'As arrows '
-  - type: text
-    content: are
-  - type: text
-    content: ' in the hand of a mighty man;'
-  - type: text
-    content: 'So '
-  - type: text
-    content: are
-  - type: text
-    content: ' children of the youth.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'As arrows '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: are
+    - type: text
+      text: ' in the hand of a mighty man;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'So '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: are
+    - type: text
+      text: ' children of the youth.'
   '5':
-  - type: text
-    content: 'Happy '
-  - type: text
-    content: is
-  - type: text
-    content: ' the man that hath his quiver full of them:'
-  - type: text
-    content: They shall not be ashamed, but they shall speak with the enemies in the gate.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Happy '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' the man that hath his quiver full of them:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: They shall not be ashamed, but they shall speak with the enemies in the gate.

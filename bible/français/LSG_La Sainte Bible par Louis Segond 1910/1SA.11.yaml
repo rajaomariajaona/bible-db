@@ -2,61 +2,136 @@ document_id: 1SA.11,93
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Saül vainqueur des Ammonites
-  - type: heading
-    content: 'V. 1-11: cf. (Jg 11. 1 S 31:11-13.) 1 S 10:7.'
-  - type: text
-    content: 'Nachasch, l’Ammonite, vint assiéger Jabès en Galaad. Tous les habitants de Jabès dirent à Nachasch: Traite alliance avec nous, et nous te servirons. '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Saül vainqueur des Ammonites
+    marker-yv: yv-h
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: 'V. 1-11: cf. (Jg 11. 1 S 31:11-13.) 1 S 10:7.'
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Nachasch, l’Ammonite, vint assiéger Jabès en Galaad. Tous les habitants de Jabès dirent à Nachasch: Traite alliance avec nous, et nous te servirons. '
   '10':
-  - type: text
-    content: 'et qui dirent aux Ammonites: Demain nous nous rendrons à vous, et vous nous traiterez comme bon vous semblera. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'et qui dirent aux Ammonites: Demain nous nous rendrons à vous, et vous nous traiterez comme bon vous semblera. '
   '11':
-  - type: text
-    content: Le lendemain, Saül divisa le peuple en trois corps. Ils pénétrèrent dans le camp des Ammonites à la veille du matin, et ils les battirent jusqu’à la chaleur du jour. Ceux qui échappèrent furent dispersés, et il n’en resta pas deux ensemble.
-  - type: heading
-    content: 'V. 12-15: cf. 1 S 10:17-27. 1 Ch 29:21, 22.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Le lendemain, Saül divisa le peuple en trois corps. Ils pénétrèrent dans le camp des Ammonites à la veille du matin, et ils les battirent jusqu’à la chaleur du jour. Ceux qui échappèrent furent dispersés, et il n’en resta pas deux ensemble.
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: 'V. 12-15: cf. 1 S 10:17-27. 1 Ch 29:21, 22.'
+    marker-yv: yv-h
   '12':
-  - type: text
-    content: 'Le peuple dit à Samuel: '
-  - type: note
-    content: 1 S 10:27.
-  - type: text
-    content: 'Qui est-ce qui disait: Saül régnera-t-il sur nous? Livrez ces gens, et nous les ferons mourir. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Le peuple dit à Samuel: '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 S 10:27
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Qui est-ce qui disait: Saül régnera-t-il sur nous? Livrez ces gens, et nous les ferons mourir. '
   '13':
-  - type: text
-    content: 'Mais Saül dit: Personne ne sera mis à mort en ce jour, car aujourd’hui l’Éternel a opéré une délivrance en Israël. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Mais Saül dit: Personne ne sera mis à mort en ce jour, car aujourd’hui l’Éternel a opéré une délivrance en Israël. '
   '14':
-  - type: text
-    content: 'Et Samuel dit au peuple: Venez, et allons à Guilgal, pour y confirmer la royauté. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Et Samuel dit au peuple: Venez, et allons à Guilgal, pour y confirmer la royauté. '
   '15':
-  - type: text
-    content: Tout le peuple se rendit à Guilgal, et ils établirent Saül pour roi, devant l’Éternel, à Guilgal. Là, ils offrirent des sacrifices d’actions de grâces devant l’Éternel; et là, Saül et tous les hommes d’Israël se livrèrent à de grandes réjouissances.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Tout le peuple se rendit à Guilgal, et ils établirent Saül pour roi, devant l’Éternel, à Guilgal. Là, ils offrirent des sacrifices d’actions de grâces devant l’Éternel; et là, Saül et tous les hommes d’Israël se livrèrent à de grandes réjouissances.
   '2':
-  - type: text
-    content: 'Mais Nachasch, l’Ammonite, leur répondit: Je traiterai avec vous à la condition que je vous crève à tous l’œil droit, et que j’imprime ainsi un opprobre sur tout Israël. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Mais Nachasch, l’Ammonite, leur répondit: Je traiterai avec vous à la condition que je vous crève à tous l’œil droit, et que j’imprime ainsi un opprobre sur tout Israël. '
   '3':
-  - type: text
-    content: 'Les anciens de Jabès lui dirent: Accorde-nous une trêve de sept jours, afin que nous envoyions des messagers dans tout le territoire d’Israël; et s’il n’y a personne qui nous secoure, nous nous rendrons à toi. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Les anciens de Jabès lui dirent: Accorde-nous une trêve de sept jours, afin que nous envoyions des messagers dans tout le territoire d’Israël; et s’il n’y a personne qui nous secoure, nous nous rendrons à toi. '
   '4':
-  - type: text
-    content: 'Les messagers arrivèrent à Guibea de Saül, et dirent ces choses aux oreilles du peuple. Et tout le peuple éleva la voix, et pleura. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Les messagers arrivèrent à Guibea de Saül, et dirent ces choses aux oreilles du peuple. Et tout le peuple éleva la voix, et pleura. '
   '5':
-  - type: text
-    content: 'Et voici, Saül revenait des champs, derrière ses bœufs, et il dit: Qu’a donc le peuple pour pleurer? On lui raconta ce qu’avaient dit ceux de Jabès. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Et voici, Saül revenait des champs, derrière ses bœufs, et il dit: Qu’a donc le peuple pour pleurer? On lui raconta ce qu’avaient dit ceux de Jabès. '
   '6':
-  - type: text
-    content: 'Dès que Saül eut entendu ces choses, il fut saisi par l’esprit de Dieu, et sa colère s’enflamma fortement. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Dès que Saül eut entendu ces choses, il fut saisi par l’esprit de Dieu, et sa colère s’enflamma fortement. '
   '7':
-  - type: text
-    content: 'Il prit une paire de bœufs, et les coupa en morceaux, qu’il envoya par les messagers dans tout le territoire d’Israël, en disant: Quiconque ne marchera pas à la suite de Saül et de Samuel, aura ses bœufs traités de la même manière. La terreur de l’Éternel s’empara du peuple, qui '
-  - type: note
-    content: Jg 20:1.
-  - type: text
-    content: 'se mit en marche comme un seul homme. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Il prit une paire de bœufs, et les coupa en morceaux, qu’il envoya par les messagers dans tout le territoire d’Israël, en disant: Quiconque ne marchera pas à la suite de Saül et de Samuel, aura ses bœufs traités de la même manière. La terreur de l’Éternel s’empara du peuple, qui '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jg 20:1
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'se mit en marche comme un seul homme. '
   '8':
-  - type: text
-    content: 'Saül en fit la revue à Bézek; les enfants d’Israël étaient trois cent mille, et les hommes de Juda trente mille. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Saül en fit la revue à Bézek; les enfants d’Israël étaient trois cent mille, et les hommes de Juda trente mille. '
   '9':
-  - type: text
-    content: 'Ils dirent aux messagers qui étaient venus: Vous parlerez ainsi aux habitants de Jabès en Galaad: Demain vous aurez du secours, quand le soleil sera dans sa chaleur. Les messagers portèrent cette nouvelle à ceux de Jabès, qui furent remplis de joie; '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ils dirent aux messagers qui étaient venus: Vous parlerez ainsi aux habitants de Jabès en Galaad: Demain vous aurez du secours, quand le soleil sera dans sa chaleur. Les messagers portèrent cette nouvelle à ceux de Jabès, qui furent remplis de joie; '

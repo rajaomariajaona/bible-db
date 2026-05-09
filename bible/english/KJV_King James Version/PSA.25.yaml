@@ -2,238 +2,521 @@ document_id: PSA.25,1
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: A Psalm
-  - type: text
-    content: ' of David.'
-  - type: heading
-    content: א Aleph
-  - type: text
-    content: 'Unto thee, O '
-  - type: text
-    content: LORD
-  - type: text
-    content: ', do I lift up my soul. '
+  - type: usfm
+    marker: d
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: A Psalm
+    - type: text
+      text: ' of David.'
+  - type: usfm
+    marker: qa
+    children:
+    - type: text
+      text: א Aleph
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Unto thee, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ', do I lift up my soul. '
   '10':
-  - type: text
-    content: 'All the paths of the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' '
-  - type: text
-    content: are
-  - type: text
-    content: ' mercy and truth'
-  - type: text
-    content: Unto such as keep his covenant and his testimonies.
-  - type: heading
-    content: ל Lamed
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'All the paths of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: are
+    - type: text
+      text: ' mercy and truth'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Unto such as keep his covenant and his testimonies.
+  - type: usfm
+    marker: qa
+    children:
+    - type: text
+      text: ל Lamed
+    marker-yv: yv-h
   '11':
-  - type: text
-    content: 'For thy name''s sake, O '
-  - type: text
-    content: LORD
-  - type: text
-    content: ','
-  - type: text
-    content: 'Pardon mine iniquity; for it '
-  - type: text
-    content: is
-  - type: text
-    content: ' great.'
-  - type: heading
-    content: מ Mem
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'For thy name''s sake, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Pardon mine iniquity; for it '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' great.'
+  - type: usfm
+    marker: qa
+    children:
+    - type: text
+      text: מ Mem
+    marker-yv: yv-h
   '12':
-  - type: text
-    content: 'What man '
-  - type: text
-    content: is
-  - type: text
-    content: ' he that feareth the '
-  - type: text
-    content: LORD
-  - type: text
-    content: '?'
-  - type: text
-    content: 'Him shall he teach in the way '
-  - type: text
-    content: that
-  - type: text
-    content: ' he shall choose.'
-  - type: heading
-    content: נ Nun
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'What man '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' he that feareth the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: '?'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Him shall he teach in the way '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: that
+    - type: text
+      text: ' he shall choose.'
+  - type: usfm
+    marker: qa
+    children:
+    - type: text
+      text: נ Nun
+    marker-yv: yv-h
   '13':
-  - type: text
-    content: His soul shall dwell at ease;
-  - type: text
-    content: And his seed shall inherit the earth.
-  - type: heading
-    content: ס Samek
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: His soul shall dwell at ease;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: And his seed shall inherit the earth.
+  - type: usfm
+    marker: qa
+    children:
+    - type: text
+      text: ס Samek
+    marker-yv: yv-h
   '14':
-  - type: text
-    content: 'The secret of the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' '
-  - type: text
-    content: is
-  - type: text
-    content: ' with them that fear him;'
-  - type: text
-    content: And he will shew them his covenant.
-  - type: heading
-    content: ע Ain
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The secret of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' with them that fear him;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: And he will shew them his covenant.
+  - type: usfm
+    marker: qa
+    children:
+    - type: text
+      text: ע Ain
+    marker-yv: yv-h
   '15':
-  - type: text
-    content: 'Mine eyes '
-  - type: text
-    content: are
-  - type: text
-    content: ' ever toward the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ;
-  - type: text
-    content: For he shall pluck my feet out of the net.
-  - type: heading
-    content: פ Pe
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Mine eyes '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: are
+    - type: text
+      text: ' ever toward the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: For he shall pluck my feet out of the net.
+  - type: usfm
+    marker: qa
+    children:
+    - type: text
+      text: פ Pe
+    marker-yv: yv-h
   '16':
-  - type: text
-    content: Turn thee unto me, and have mercy upon me;
-  - type: text
-    content: 'For I '
-  - type: text
-    content: am
-  - type: text
-    content: ' desolate and afflicted.'
-  - type: heading
-    content: צ Zade
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Turn thee unto me, and have mercy upon me;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'For I '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: am
+    - type: text
+      text: ' desolate and afflicted.'
+  - type: usfm
+    marker: qa
+    children:
+    - type: text
+      text: צ Zade
+    marker-yv: yv-h
   '17':
-  - type: text
-    content: 'The troubles of my heart are enlarged:'
-  - type: text
-    content: O
-  - type: text
-    content: ' bring thou me out of my distresses.'
-  - type: heading
-    content: (ק Qoph)
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The troubles of my heart are enlarged:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: O
+    - type: text
+      text: ' bring thou me out of my distresses.'
+  - type: usfm
+    marker: qa
+    children:
+    - type: text
+      text: (ק Qoph)
+    marker-yv: yv-h
   '18':
-  - type: text
-    content: Look upon mine affliction and my pain;
-  - type: text
-    content: And forgive all my sins.
-  - type: heading
-    content: ר Resh
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Look upon mine affliction and my pain;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: And forgive all my sins.
+  - type: usfm
+    marker: qa
+    children:
+    - type: text
+      text: ר Resh
+    marker-yv: yv-h
   '19':
-  - type: text
-    content: Consider mine enemies; for they are many;
-  - type: text
-    content: And they hate me with cruel hatred.
-  - type: heading
-    content: ש Shin
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Consider mine enemies; for they are many;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: And they hate me with cruel hatred.
+  - type: usfm
+    marker: qa
+    children:
+    - type: text
+      text: ש Shin
+    marker-yv: yv-h
   '2':
-  - type: text
-    content: 'O my God, I trust in thee:'
-  - type: heading
-    content: ב Bet
-  - type: text
-    content: Let me not be ashamed, let not mine enemies triumph over me.
-  - type: heading
-    content: ג Gimel
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'O my God, I trust in thee:'
+  - type: usfm
+    marker: qa
+    children:
+    - type: text
+      text: ב Bet
+    marker-yv: yv-h
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Let me not be ashamed, let not mine enemies triumph over me.
+  - type: usfm
+    marker: qa
+    children:
+    - type: text
+      text: ג Gimel
+    marker-yv: yv-h
   '20':
-  - type: text
-    content: 'O keep my soul, and deliver me:'
-  - type: text
-    content: Let me not be ashamed; for I put my trust in thee.
-  - type: heading
-    content: ת Taw
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'O keep my soul, and deliver me:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Let me not be ashamed; for I put my trust in thee.
+  - type: usfm
+    marker: qa
+    children:
+    - type: text
+      text: ת Taw
+    marker-yv: yv-h
   '21':
-  - type: text
-    content: Let integrity and uprightness preserve me;
-  - type: text
-    content: For I wait on thee.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Let integrity and uprightness preserve me;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: For I wait on thee.
   '22':
-  - type: text
-    content: Redeem Israel, O God, out of all his troubles.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Redeem Israel, O God, out of all his troubles.
   '3':
-  - type: text
-    content: 'Yea, let none that wait on thee be ashamed:'
-  - type: text
-    content: Let them be ashamed which transgress without cause.
-  - type: heading
-    content: ד Dalet
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Yea, let none that wait on thee be ashamed:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Let them be ashamed which transgress without cause.
+  - type: usfm
+    marker: qa
+    children:
+    - type: text
+      text: ד Dalet
+    marker-yv: yv-h
   '4':
-  - type: text
-    content: 'Shew me thy ways, O '
-  - type: text
-    content: LORD
-  - type: text
-    content: ;
-  - type: text
-    content: Teach me thy paths.
-  - type: heading
-    content: ה He
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Shew me thy ways, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Teach me thy paths.
+  - type: usfm
+    marker: qa
+    children:
+    - type: text
+      text: ה He
+    marker-yv: yv-h
   '5':
-  - type: text
-    content: 'Lead me in thy truth, and teach me:'
-  - type: heading
-    content: (ו Waw)
-  - type: text
-    content: 'For thou '
-  - type: text
-    content: art
-  - type: text
-    content: ' the God of my salvation; on thee do I wait all the day.'
-  - type: heading
-    content: ז Zain
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Lead me in thy truth, and teach me:'
+  - type: usfm
+    marker: qa
+    children:
+    - type: text
+      text: (ו Waw)
+    marker-yv: yv-h
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'For thou '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: art
+    - type: text
+      text: ' the God of my salvation; on thee do I wait all the day.'
+  - type: usfm
+    marker: qa
+    children:
+    - type: text
+      text: ז Zain
+    marker-yv: yv-h
   '6':
-  - type: text
-    content: 'Remember, O '
-  - type: text
-    content: LORD
-  - type: text
-    content: ', thy tender mercies and thy lovingkindnesses;'
-  - type: text
-    content: 'For they '
-  - type: text
-    content: have been
-  - type: text
-    content: ' ever of old.'
-  - type: heading
-    content: ח Het
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Remember, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ', thy tender mercies and thy lovingkindnesses;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'For they '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: have been
+    - type: text
+      text: ' ever of old.'
+  - type: usfm
+    marker: qa
+    children:
+    - type: text
+      text: ח Het
+    marker-yv: yv-h
   '7':
-  - type: text
-    content: 'Remember not the sins of my youth, nor my transgressions:'
-  - type: text
-    content: 'According to thy mercy remember thou me for thy goodness'' sake, O '
-  - type: text
-    content: LORD
-  - type: text
-    content: .
-  - type: heading
-    content: ט Tet
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Remember not the sins of my youth, nor my transgressions:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'According to thy mercy remember thou me for thy goodness'' sake, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: .
+  - type: usfm
+    marker: qa
+    children:
+    - type: text
+      text: ט Tet
+    marker-yv: yv-h
   '8':
-  - type: text
-    content: 'Good and upright '
-  - type: text
-    content: is
-  - type: text
-    content: ' the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ':'
-  - type: text
-    content: Therefore will he teach sinners in the way.
-  - type: heading
-    content: י Yod
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Good and upright '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ':'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Therefore will he teach sinners in the way.
+  - type: usfm
+    marker: qa
+    children:
+    - type: text
+      text: י Yod
+    marker-yv: yv-h
   '9':
-  - type: text
-    content: 'The meek will he guide in judgment:'
-  - type: text
-    content: And the meek will he teach his way.
-  - type: heading
-    content: כ Kaph
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The meek will he guide in judgment:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: And the meek will he teach his way.
+  - type: usfm
+    marker: qa
+    children:
+    - type: text
+      text: כ Kaph
+    marker-yv: yv-h

@@ -2,58 +2,115 @@ document_id: PSA.13,1
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: To the chief Musician, A Psalm of David.
-  - type: text
-    content: 'How long wilt thou forget me, O '
-  - type: text
-    content: LORD
-  - type: text
-    content: '? for ever?'
-  - type: text
-    content: How long wilt thou hide thy face from me?
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: To the chief Musician, A Psalm of David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'How long wilt thou forget me, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: '? for ever?'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: How long wilt thou hide thy face from me?
   '2':
-  - type: text
-    content: 'How long shall I take counsel in my soul, '
-  - type: text
-    content: Having
-  - type: text
-    content: ' sorrow in my heart daily?'
-  - type: text
-    content: How long shall mine enemy be exalted over me?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'How long shall I take counsel in my soul, '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: Having
+    - type: text
+      text: ' sorrow in my heart daily?'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: How long shall mine enemy be exalted over me?
   '3':
-  - type: text
-    content: 'Consider '
-  - type: text
-    content: and
-  - type: text
-    content: ' hear me, O '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' my God:'
-  - type: text
-    content: 'Lighten mine eyes, lest I sleep the '
-  - type: text
-    content: sleep of
-  - type: text
-    content: ' death;'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Consider '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: and
+    - type: text
+      text: ' hear me, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' my God:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Lighten mine eyes, lest I sleep the '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: sleep of
+    - type: text
+      text: ' death;'
   '4':
-  - type: text
-    content: Lest mine enemy say, I have prevailed against him;
-  - type: text
-    content: And
-  - type: text
-    content: ' those that trouble me rejoice when I am moved.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Lest mine enemy say, I have prevailed against him;
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: And
+    - type: text
+      text: ' those that trouble me rejoice when I am moved.'
   '5':
-  - type: text
-    content: But I have trusted in thy mercy;
-  - type: text
-    content: My heart shall rejoice in thy salvation.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: But I have trusted in thy mercy;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: My heart shall rejoice in thy salvation.
   '6':
-  - type: text
-    content: 'I will sing unto the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ', because he hath dealt bountifully with me.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I will sing unto the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ', because he hath dealt bountifully with me.'

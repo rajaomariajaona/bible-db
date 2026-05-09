@@ -2,53 +2,237 @@ document_id: PSA.134,104
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Bénissez le Seigneur  !
-  - type: text
-    content: ' '
-  - type: note
-    content: montées 120.1n. –  Bénissez 68.27 ; 103.21s ; 135.19s ; Né 9.5 ; 1Ch 29.20. –  serviteurs du Seigneur 113.1+ ; 135.1 ; Ap 19.5. –  qui vous tenez… 135.2 ; cf. Dt 10.8 ; 18.7 ; 1Ch 23.30 ; 2Ch 29.11 ; Hé 10.11. –  pendant les nuits Es 30.29 ; 1Ch 9.33.
-  - type: text
-    content: Chant des montées.
-  - type: text
-    content: 'Bénissez le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ', vous tous, serviteurs du '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ','
-  - type: text
-    content: 'qui vous tenez dans la maison du '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' pendant les nuits !'
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: 'Bénissez le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: '  !'
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '134.1 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'montées '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '120.1'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: Bénissez
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '68.27 ; 103.21s ; 135.19s ; Né 9.5 ; 1Ch 29.20. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'serviteurs du '
+        - type: usfm
+          marker: nd
+          children:
+          - type: text
+            text: Seigneur
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '113.1+ ; 135.1 ; Ap 19.5. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'qui vous tenez… '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '135.2 ; cf. Dt 10.8 ; 18.7 ; 1Ch 23.30 ; 2Ch 29.11 ; Hé 10.11. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'pendant les nuits '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Es 30.29 ; 1Ch 9.33.
+      marker-yv: yv-n
+    - type: text
+      text: Chant des montées.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Bénissez le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ', vous tous, serviteurs du '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'qui vous tenez dans la maison du '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' pendant les nuits !'
   '2':
-  - type: text
-    content: ' '
-  - type: note
-    content: Elevez vos mains 28.2n  ; 141.2. –  vers le sanctuaire 5.8 ; 138.2.
-  - type: text
-    content: Elevez vos mains vers le sanctuaire
-  - type: text
-    content: 'et bénissez le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: '  !'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '134.2 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Elevez vos mains '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '28.2'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; 141.2. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'vers le sanctuaire '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 5.8 ; 138.2.
+      marker-yv: yv-n
+    - type: text
+      text: Elevez vos mains vers le sanctuaire
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'et bénissez le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: '  !'
   '3':
-  - type: text
-    content: ' '
-  - type: note
-    content: bénisse de Sion 20.3 ; 118.26 ; 128.5 ; cf. Nb 6.22ss ; Dt 21.5 ; 1S 2.20. –  lui qui fait… 115.15+.
-  - type: text
-    content: 'Que le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' te bénisse de Sion,'
-  - type: text
-    content: lui qui fait le ciel et la terre !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '134.3 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'bénisse de Sion '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '20.3 ; 118.26 ; 128.5 ; cf. Nb 6.22ss ; Dt 21.5 ; 1S 2.20. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'lui qui fait… '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 115.15+.
+      marker-yv: yv-n
+    - type: text
+      text: 'Que le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' te bénisse de Sion,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: lui qui fait le ciel et la terre !

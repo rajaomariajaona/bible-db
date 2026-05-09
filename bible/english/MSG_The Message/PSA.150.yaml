@@ -2,33 +2,75 @@ document_id: PSA.150,97
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: Hallelujah!
-  - type: text
-    content: Praise God in his holy house of worship,
-  - type: text
-    content: praise him under the open skies;
-  - type: text
-    content: Praise him for his acts of power,
-  - type: text
-    content: praise him for his magnificent greatness;
-  - type: text
-    content: Praise with a blast on the trumpet,
-  - type: text
-    content: praise by strumming soft strings;
-  - type: text
-    content: Praise him with castanets and dance,
-  - type: text
-    content: praise him with banjo and flute;
-  - type: text
-    content: Praise him with cymbals and a big bass drum,
-  - type: text
-    content: praise him with fiddles and mandolin.
-  - type: text
-    content: 'Let every living, breathing creature praise '
-  - type: text
-    content: God
-  - type: text
-    content: '!'
-  - type: text
-    content: Hallelujah!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Hallelujah!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Praise God in his holy house of worship,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: praise him under the open skies;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Praise him for his acts of power,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: praise him for his magnificent greatness;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Praise with a blast on the trumpet,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: praise by strumming soft strings;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Praise him with castanets and dance,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: praise him with banjo and flute;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Praise him with cymbals and a big bass drum,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: praise him with fiddles and mandolin.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Let every living, breathing creature praise '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: '!'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Hallelujah!

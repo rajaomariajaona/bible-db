@@ -2,81 +2,178 @@ document_id: PSA.93,114
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: The Eternal Reign of the Lord
-  - type: text
-    content: 'The '
-  - type: note
-    content: Ps. 96:10
-  - type: heading
-    content: Lord
-  - type: text
-    content: ' reigns, He is clothed with majesty;'
-  - type: text
-    content: 'The '
-  - type: heading
-    content: Lord
-  - type: text
-    content: ' is clothed,'
-  - type: note
-    content: Ps. 65:6
-  - type: text
-    content: He has girded Himself with strength.
-  - type: text
-    content: Surely the world is established, so that it cannot be moved.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: 'The Eternal Reign of the '
+    - type: usfm
+      marker: sc
+      children:
+      - type: text
+        text: Lord
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: Ps. 96:10
+      marker-yv: yv-n
+    - type: usfm
+      marker: sc
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' reigns, He is clothed with majesty;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: sc
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' is clothed,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: Ps. 65:6
+      marker-yv: yv-n
+    - type: text
+      text: He has girded Himself with strength.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Surely the world is established, so that it cannot be moved.
   '2':
-  - type: note
-    content: Ps. 45:6; (Lam. 5:19)
-  - type: text
-    content: 'Your throne '
-  - type: text
-    content: is
-  - type: text
-    content: ' established from of old;'
-  - type: text
-    content: 'You '
-  - type: text
-    content: are
-  - type: text
-    content: ' from everlasting.'
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: Ps. 45:6; (Lam. 5:19)
+      marker-yv: yv-n
+    - type: text
+      text: 'Your throne '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' established from of old;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'You '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: are
+    - type: text
+      text: ' from everlasting.'
   '3':
-  - type: text
-    content: 'The floods have lifted up, O '
-  - type: heading
-    content: Lord
-  - type: text
-    content: ','
-  - type: text
-    content: The floods have lifted up their voice;
-  - type: text
-    content: The floods lift up their waves.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The floods have lifted up, O '
+    - type: usfm
+      marker: sc
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: The floods have lifted up their voice;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: The floods lift up their waves.
   '4':
-  - type: note
-    content: Ps. 65:7
-  - type: text
-    content: 'The '
-  - type: heading
-    content: Lord
-  - type: text
-    content: ' on high '
-  - type: text
-    content: is
-  - type: text
-    content: ' mightier'
-  - type: text
-    content: Than the noise of many waters,
-  - type: text
-    content: Than
-  - type: text
-    content: ' the mighty waves of the sea.'
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: Ps. 65:7
+      marker-yv: yv-n
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: sc
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' on high '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' mightier'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Than the noise of many waters,
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: Than
+    - type: text
+      text: ' the mighty waves of the sea.'
   '5':
-  - type: text
-    content: Your testimonies are very sure;
-  - type: text
-    content: Holiness adorns Your house,
-  - type: text
-    content: 'O '
-  - type: heading
-    content: Lord
-  - type: text
-    content: ', forever.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Your testimonies are very sure;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Holiness adorns Your house,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'O '
+    - type: usfm
+      marker: sc
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', forever.'

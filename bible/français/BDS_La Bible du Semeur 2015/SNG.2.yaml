@@ -2,167 +2,524 @@ document_id: SNG.2,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Malade d’amour
-  - type: text
-    content: « Moi, je suis une fleur ╵qui pousse dans la plaine du Saron
-  - type: note
-    content: Le narcisse du Saron, une sorte de crocus poussant dans la plaine côtière au sud du Carmel (entre Haïfa et Jaffa).
-  - type: text
-    content: ','
-  - type: text
-    content: un lis de la vallée. »
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Malade d’amour
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: « Moi, je suis une fleur ╵qui pousse dans la plaine du Saron
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Le narcisse du '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Saron, '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: une sorte de crocus poussant dans la plaine côtière au sud du Carmel (entre Haïfa et Jaffa).
+      marker-yv: yv-n
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: un lis de la vallée. »
   '10':
-  - type: text
-    content: Mon bien-aimé me parle,
-  - type: text
-    content: 'et il me dit :'
-  - type: text
-    content: “Lève-toi, mon amie, ╵viens donc, ma belle,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mon bien-aimé me parle,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'et il me dit :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: “Lève-toi, mon amie, ╵viens donc, ma belle,
   '11':
-  - type: text
-    content: car l’hiver est passé
-  - type: text
-    content: et les pluies ont cessé, ╵leur saison est finie.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: car l’hiver est passé
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et les pluies ont cessé, ╵leur saison est finie.
   '12':
-  - type: text
-    content: On voit des fleurs éclore ╵à travers le pays,
-  - type: text
-    content: et le temps de chanter ╵est revenu.
-  - type: text
-    content: La voix des tourterelles ╵retentit dans nos champs.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: On voit des fleurs éclore ╵à travers le pays,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et le temps de chanter ╵est revenu.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: La voix des tourterelles ╵retentit dans nos champs.
   '13':
-  - type: text
-    content: Sur les figuiers, ╵les premiers fruits mûrissent
-  - type: note
-    content: 'Le figuier d’Israël porte deux récoltes de figues par année : les précoces, qui ont passé l’hiver sur l’arbre, au printemps, les tardives en été (Mc 11.13). C’est des premières dont il est question.'
-  - type: text
-    content: .
-  - type: text
-    content: La vigne en fleur ╵exhale son parfum
-  - type: note
-    content: 'Autre traduction : les ceps de Semadar exhalent leur parfum. Il est question d’un lieu appelé Semadar dans les tablettes d’Ebla, site situé en Syrie où l’on a découvert plusieurs milliers de tablettes datant du IIIe millénaire av. J.-C. ; il se peut qu’on y produisait un vin réputé.'
-  - type: text
-    content: .
-  - type: text
-    content: Lève-toi, mon amie, ╵et viens, ╵oui, viens, ma belle.”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Sur les figuiers, ╵les premiers fruits mûrissent
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.13 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Le figuier d’Israël porte deux récoltes de figues par année : les précoces, qui ont passé l’hiver sur l’arbre, au printemps, les tardives en été ('
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Mc 11.13
+        - type: text
+          text: ). C’est des premières dont il est question.
+      marker-yv: yv-n
+    - type: text
+      text: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: La vigne en fleur ╵exhale son parfum
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.13 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Autre traduction : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'les ceps de Semadar exhalent leur parfum. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Il est question d’un lieu appelé Semadar dans les tablettes d’Ebla, site situé en Syrie où l’on a découvert plusieurs milliers de tablettes datant du III
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: e
+        - type: text
+          text: ' millénaire av. J.-C. ; il se peut qu’on y produisait un vin réputé.'
+      marker-yv: yv-n
+    - type: text
+      text: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Lève-toi, mon amie, ╵et viens, ╵oui, viens, ma belle.”
   '14':
-  - type: text
-    content: Ma colombe nichée ╵aux fentes du rocher,
-  - type: text
-    content: cachée au plus secret ╵des parois escarpées,
-  - type: text
-    content: fais-moi voir ton visage
-  - type: text
-    content: et entendre ta voix,
-  - type: text
-    content: car ta voix est bien douce ╵et ton visage est beau.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Ma colombe nichée ╵aux fentes du rocher,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: cachée au plus secret ╵des parois escarpées,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: fais-moi voir ton visage
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et entendre ta voix,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: car ta voix est bien douce ╵et ton visage est beau.
   '15':
-  - type: text
-    content: Prenez-nous les renards
-  - type: note
-    content: Les renards abondaient en Judée et y causaient beaucoup de dommages dans les vignes et les jardins. Cette parole énigmatique peut être une demande que l’on écarte tout ce qui pourrait endommager les vignes en fleur, l’amour du bien-aimé et de sa bien-aimée. Ce pourrait encore être un prétexte pour repousser l’invitation, ou pour se faire prier, par coquetterie.
-  - type: text
-    content: ','
-  - type: text
-    content: oui, les petits renards ╵qui ravagent nos vignes
-  - type: text
-    content: quand elles sont en fleur.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Prenez-nous les renards
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.15 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Les renards abondaient en Judée et y causaient beaucoup de dommages dans les vignes et les jardins. Cette parole énigmatique peut être une demande que l’on écarte tout ce qui pourrait endommager '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'les vignes en fleur, '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: l’amour du bien-aimé et de sa bien-aimée. Ce pourrait encore être un prétexte pour repousser l’invitation, ou pour se faire prier, par coquetterie.
+      marker-yv: yv-n
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: oui, les petits renards ╵qui ravagent nos vignes
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: quand elles sont en fleur.
   '16':
-  - type: text
-    content: Mon bien-aimé, il est à moi, ╵et moi, je suis à lui,
-  - type: text
-    content: il paît parmi les lis
-  - type: note
-    content: Voir 6.3 ; 7.11.
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mon bien-aimé, il est à moi, ╵et moi, je suis à lui,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: il paît parmi les lis
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.16 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Voir 6.3 ; 7.11.
+      marker-yv: yv-n
+    - type: text
+      text: .
   '17':
-  - type: text
-    content: Et quand viendra la brise
-  - type: text
-    content: à la tombée du jour,
-  - type: text
-    content: et quand s’estomperont les ombres,
-  - type: text
-    content: reviens, ô toi mon bien-aimé,
-  - type: text
-    content: pareil à la gazelle ╵ou à un jeune faon
-  - type: text
-    content: sur les monts escarpés
-  - type: note
-    content: 'Autres traductions : sur les monts de Béther, lieu non identifié, ou sur les monts qui nous séparent. Il pourrait encore s’agir d’une image pour les seins de la bien-aimée.'
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et quand viendra la brise
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: à la tombée du jour,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et quand s’estomperont les ombres,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: reviens, ô toi mon bien-aimé,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: pareil à la gazelle ╵ou à un jeune faon
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: sur les monts escarpés
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.17 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Autres traductions : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'sur les monts de Béther, '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'lieu non identifié, ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'sur les monts qui nous séparent. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Il pourrait encore s’agir d’une image pour les seins de la bien-aimée.
+      marker-yv: yv-n
+    - type: text
+      text: .
   '2':
-  - type: text
-    content: « Oui, comme un lis ╵parmi des ronces
-  - type: text
-    content: est mon amie ╵parmi les filles. »
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: « Oui, comme un lis ╵parmi des ronces
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: est mon amie ╵parmi les filles. »
   '3':
-  - type: text
-    content: « Comme un pommier ╵parmi les arbres ╵de la forêt
-  - type: text
-    content: tel est mon bien-aimé ╵parmi les jeunes gens,
-  - type: text
-    content: j’ai grand plaisir ╵à m’asseoir à son ombre.
-  - type: text
-    content: Combien son fruit est doux ╵à mon palais.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: « Comme un pommier ╵parmi les arbres ╵de la forêt
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: tel est mon bien-aimé ╵parmi les jeunes gens,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: j’ai grand plaisir ╵à m’asseoir à son ombre.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Combien son fruit est doux ╵à mon palais.
   '4':
-  - type: text
-    content: Il m’a conduite ╵dans la maison du vin
-  - type: note
-    content: Selon certains, un lieu de banquet et de réjouissances, selon d’autres, non un débit de boisson, mais, au sens figuré, le « lieu » où le bien-aimé et sa bien-aimée s’enivrent l’un de l’autre (voir 5.1).
-  - type: text
-    content: et il a déployé sur moi, ╵l’étendard
-  - type: note
-    content: Signe de ralliement (Es 5.26 ; 11.10) ; selon d’autres, enseigne du « lieu » de l’enivrement mutuel.
-  - type: text
-    content: ' de l’amour.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Il m’a conduite ╵dans la maison du vin
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.4 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Selon certains, un lieu de banquet et de réjouissances, selon d’autres, non un débit de boisson, mais, au sens figuré, le « lieu » où le bien-aimé et sa bien-aimée s’enivrent l’un de l’autre (voir '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: '5.1'
+        - type: text
+          text: ).
+      marker-yv: yv-n
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et il a déployé sur moi, ╵l’étendard
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.4 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Signe de ralliement (Es 5.26 ; 11.10) ; selon d’autres, enseigne du « lieu » de l’enivrement mutuel.
+      marker-yv: yv-n
+    - type: text
+      text: ' de l’amour.'
   '5':
-  - type: text
-    content: Restaurez-moi ╵avec des gâteaux de raisins,
-  - type: text
-    content: soutenez-moi ╵avec des pommes,
-  - type: text
-    content: car je suis malade d’amour.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Restaurez-moi ╵avec des gâteaux de raisins,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: soutenez-moi ╵avec des pommes,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: car je suis malade d’amour.
   '6':
-  - type: text
-    content: Son bras gauche soutient ma tête,
-  - type: text
-    content: et son bras droit m’enlace.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Son bras gauche soutient ma tête,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et son bras droit m’enlace.
   '7':
-  - type: text
-    content: O filles de Jérusalem, ╵oh, je vous en conjure
-  - type: text
-    content: 'par les gazelles ╵ou par les biches ╵de la campagne :'
-  - type: text
-    content: n’éveillez pas, ╵non, ne réveillez pas l’amour
-  - type: text
-    content: avant qu’il ne le veuille
-  - type: note
-    content: 'Voir 3.5 ; 8.4. Autre traduction : n’éveillez pas, non, n’éveillez pas ma bien-aimée avant qu’elle ne le veuille.'
-  - type: text
-    content: .
-  - type: heading
-    content: Le voici, il vient
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: O filles de Jérusalem, ╵oh, je vous en conjure
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'par les gazelles ╵ou par les biches ╵de la campagne :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: n’éveillez pas, ╵non, ne réveillez pas l’amour
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: avant qu’il ne le veuille
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.7 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Voir 3.5 ; 8.4. Autre traduction : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: n’éveillez pas, non, n’éveillez pas ma bien-aimée avant qu’elle ne le veuille.
+      marker-yv: yv-n
+    - type: text
+      text: .
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Le voici, il vient
+    marker-yv: yv-h
   '8':
-  - type: text
-    content: J’entends mon bien-aimé,
-  - type: text
-    content: oui, le voici, il vient,
-  - type: text
-    content: sautant sur les montagnes
-  - type: text
-    content: et bondissant sur les collines.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: J’entends mon bien-aimé,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: oui, le voici, il vient,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: sautant sur les montagnes
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et bondissant sur les collines.
   '9':
-  - type: text
-    content: Mon bien-aimé ressemble ╵à la gazelle
-  - type: text
-    content: ou à un jeune cerf.
-  - type: text
-    content: 'Le voici : il est là, ╵derrière notre mur,'
-  - type: text
-    content: guettant par les fenêtres
-  - type: text
-    content: et lançant des regards ╵à travers les treillis.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mon bien-aimé ressemble ╵à la gazelle
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ou à un jeune cerf.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Le voici : il est là, ╵derrière notre mur,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: guettant par les fenêtres
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et lançant des regards ╵à travers les treillis.

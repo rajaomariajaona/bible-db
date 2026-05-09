@@ -2,101 +2,374 @@ document_id: PSA.93,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: The Lord Reigns
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps. 96:10; See 1 Chr. 16:31
-  - type: text
-    content: 'The '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' reigns; he is '
-  - type: note
-    content: Ps. 104:1
-  - type: text
-    content: robed in majesty;
-  - type: text
-    content: 'the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' is '
-  - type: note
-    content: Isa. 51:9
-  - type: text
-    content: 'robed; he has '
-  - type: note
-    content: Ps. 65:6
-  - type: text
-    content: put on strength as his belt.
-  - type: note
-    content: Ps. 96:10; [ Ps. 46:5 ]
-  - type: text
-    content: 'Yes, the world is established; '
-  - type: note
-    content: See Ps. 125:1
-  - type: text
-    content: it shall never be moved.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' Reigns'
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 96:10
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Chr. 16:31
+      marker-yv: yv-n
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' reigns; he is '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 104:1
+      marker-yv: yv-n
+    - type: text
+      text: robed in majesty;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' is '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 51:9
+      marker-yv: yv-n
+    - type: text
+      text: 'robed; he has '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 65:6
+      marker-yv: yv-n
+    - type: text
+      text: put on strength as his belt.
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 96:10
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 46:5
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'Yes, the world is established; '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 125:1
+      marker-yv: yv-n
+    - type: text
+      text: it shall never be moved.
   '2':
-  - type: text
-    content: ' '
-  - type: note
-    content: '[ Ps. 45:6 ]'
-  - type: text
-    content: Your throne is established from of old;
-  - type: note
-    content: Ps. 90:2
-  - type: text
-    content: you are from everlasting.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 45:6
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: Your throne is established from of old;
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 90:2
+      marker-yv: yv-n
+    - type: text
+      text: you are from everlasting.
   '3':
-  - type: text
-    content: ' '
-  - type: note
-    content: '[ Ps. 98:7, 8; Hab. 3:10 ]'
-  - type: text
-    content: 'The floods have lifted up, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ','
-  - type: text
-    content: the floods have lifted up their voice;
-  - type: text
-    content: the floods lift up their roaring.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 98:7
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '8'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Hab. 3:10
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'The floods have lifted up, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: the floods have lifted up their voice;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: the floods lift up their roaring.
   '4':
-  - type: text
-    content: Mightier than the thunders of many waters,
-  - type: text
-    content: mightier than the waves of the sea,
-  - type: note
-    content: See Ps. 65:6, 7
-  - type: text
-    content: 'the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps. 92:8
-  - type: text
-    content: on high is mighty!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mightier than the thunders of many waters,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: mightier than the waves of the sea,
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 65:6
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '7'
+      marker-yv: yv-n
+    - type: text
+      text: 'the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 92:8
+      marker-yv: yv-n
+    - type: text
+      text: on high is mighty!
   '5':
-  - type: text
-    content: 'Your '
-  - type: note
-    content: '[Ps. 89:28, 37]'
-  - type: text
-    content: decrees are very trustworthy;
-  - type: note
-    content: See Ps. 29:2
-  - type: text
-    content: holiness befits your house,
-  - type: text
-    content: 'O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', forevermore.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Your '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 89:28
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '37'
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: decrees are very trustworthy;
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 29:2
+      marker-yv: yv-n
+    - type: text
+      text: holiness befits your house,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', forevermore.'

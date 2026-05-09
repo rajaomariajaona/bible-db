@@ -2,138 +2,394 @@ document_id: AMO.6,116
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: What sorrow awaits you who lounge in luxury in Jerusalem,
-  - type: note
-    content: Hebrew in Zion.
-  - type: text
-    content: and you who feel secure in Samaria!
-  - type: text
-    content: You are famous and popular in Israel,
-  - type: text
-    content: and people go to you for help.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: What sorrow awaits you who lounge in luxury in Jerusalem,
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '6:1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: in Zion.
+      marker-yv: yv-n
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and you who feel secure in Samaria!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: You are famous and popular in Israel,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and people go to you for help.
   '10':
-  - type: text
-    content: And when a relative who is responsible to dispose of the dead
-  - type: note
-    content: Or to burn the dead. The meaning of the Hebrew is uncertain.
-  - type: text
-    content: ' goes into the house to carry out the bodies, he will ask the last survivor, “Is anyone else with you?” When the person begins to swear, “No, by . . . ,” he will interrupt and say, “Stop! Don’t even mention the name of the '
-  - type: text
-    content: Lord
-  - type: text
-    content: .”)
+  - type: usfm
+    marker: m
+    children:
+    - type: text
+      text: And when a relative who is responsible to dispose of the dead
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '6:10 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'to burn the dead. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: The meaning of the Hebrew is uncertain.
+      marker-yv: yv-n
+    - type: text
+      text: ' goes into the house to carry out the bodies, he will ask the last survivor, “Is anyone else with you?” When the person begins to swear, “No, by . . . ,” he will interrupt and say, “Stop! Don’t even mention the name of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: .”)
   '11':
-  - type: text
-    content: 'When the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' gives the command,'
-  - type: text
-    content: homes both great and small will be smashed to pieces.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'When the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' gives the command,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: homes both great and small will be smashed to pieces.
   '12':
-  - type: text
-    content: Can horses gallop over boulders?
-  - type: text
-    content: Can oxen be used to plow them?
-  - type: text
-    content: But that’s how foolish you are when you turn justice into poison
-  - type: text
-    content: and the sweet fruit of righteousness into bitterness.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Can horses gallop over boulders?
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Can oxen be used to plow them?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: But that’s how foolish you are when you turn justice into poison
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and the sweet fruit of righteousness into bitterness.
   '13':
-  - type: text
-    content: And you brag about your conquest of Lo-debar.
-  - type: note
-    content: Lo-debar means “nothing.”
-  - type: text
-    content: You boast, “Didn’t we take Karnaim
-  - type: note
-    content: Karnaim means “horns,” a term that symbolizes strength.
-  - type: text
-    content: ' by our own strength?”'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: And you brag about your conquest of Lo-debar.
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '6:13a '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Lo-debar '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: means “nothing.”
+      marker-yv: yv-n
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: You boast, “Didn’t we take Karnaim
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '6:13b '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Karnaim '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: means “horns,” a term that symbolizes strength.
+      marker-yv: yv-n
+    - type: text
+      text: ' by our own strength?”'
   '14':
-  - type: text
-    content: “O people of Israel, I am about to bring an enemy nation against you,”
-  - type: text
-    content: 'says the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' God of Heaven’s Armies.'
-  - type: text
-    content: “They will oppress you throughout your land—
-  - type: text
-    content: from Lebo-hamath in the north
-  - type: text
-    content: to the Arabah Valley in the south.”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: “O people of Israel, I am about to bring an enemy nation against you,”
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'says the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' God of Heaven’s Armies.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: “They will oppress you throughout your land—
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: from Lebo-hamath in the north
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: to the Arabah Valley in the south.”
   '2':
-  - type: text
-    content: But go over to Calneh
-  - type: text
-    content: and see what happened there.
-  - type: text
-    content: Then go to the great city of Hamath
-  - type: text
-    content: and down to the Philistine city of Gath.
-  - type: text
-    content: You are no better than they were,
-  - type: text
-    content: and look at how they were destroyed.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: But go over to Calneh
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and see what happened there.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Then go to the great city of Hamath
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and down to the Philistine city of Gath.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: You are no better than they were,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and look at how they were destroyed.
   '3':
-  - type: text
-    content: You push away every thought of coming disaster,
-  - type: text
-    content: but your actions only bring the day of judgment closer.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: You push away every thought of coming disaster,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: but your actions only bring the day of judgment closer.
   '4':
-  - type: text
-    content: How terrible for you who sprawl on ivory beds
-  - type: text
-    content: and lounge on your couches,
-  - type: text
-    content: eating the meat of tender lambs from the flock
-  - type: text
-    content: and of choice calves fattened in the stall.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: How terrible for you who sprawl on ivory beds
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and lounge on your couches,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: eating the meat of tender lambs from the flock
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and of choice calves fattened in the stall.
   '5':
-  - type: text
-    content: You sing trivial songs to the sound of the harp
-  - type: text
-    content: and fancy yourselves to be great musicians like David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: You sing trivial songs to the sound of the harp
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and fancy yourselves to be great musicians like David.
   '6':
-  - type: text
-    content: You drink wine by the bowlful
-  - type: text
-    content: and perfume yourselves with fragrant lotions.
-  - type: text
-    content: You care nothing about the ruin of your nation.
-  - type: note
-    content: Hebrew of Joseph.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: You drink wine by the bowlful
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and perfume yourselves with fragrant lotions.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: You care nothing about the ruin of your nation.
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '6:6 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: of Joseph.
+      marker-yv: yv-n
   '7':
-  - type: text
-    content: Therefore, you will be the first to be led away as captives.
-  - type: text
-    content: Suddenly, all your parties will end.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Therefore, you will be the first to be led away as captives.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Suddenly, all your parties will end.
   '8':
-  - type: text
-    content: 'The Sovereign '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' has sworn by his own name, and this is what he, the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' God of Heaven’s Armies, says:'
-  - type: text
-    content: “I despise the arrogance of Israel,
-  - type: note
-    content: Hebrew Jacob. See note on 3:13.
-  - type: text
-    content: and I hate their fortresses.
-  - type: text
-    content: I will give this city
-  - type: text
-    content: and everything in it to their enemies.”
+  - type: usfm
+    marker: m
+    children:
+    - type: text
+      text: 'The Sovereign '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' has sworn by his own name, and this is what he, the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' God of Heaven’s Armies, says:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: “I despise the arrogance of Israel,
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '6:8 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Jacob. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: See note on 3:13.
+      marker-yv: yv-n
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and I hate their fortresses.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: I will give this city
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and everything in it to their enemies.”
   '9':
-  - type: text
-    content: '(If there are ten men left in one house, they will all die. '
+  - type: usfm
+    marker: m
+    children:
+    - type: text
+      text: '(If there are ten men left in one house, they will all die. '

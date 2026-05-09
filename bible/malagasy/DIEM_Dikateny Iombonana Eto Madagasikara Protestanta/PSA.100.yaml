@@ -2,39 +2,97 @@ document_id: PSA.100,396
 type_code: plt
 verses:
   '1':
-  - type: heading
-    content: SALAMO Isika no vahoakan’Andriamanitra
-  - type: text
-    content: ' '
-  - type: text
-    content: Salamo fampiasa amin’ny sorom-pisaorana.
-  - type: text
-    content: Mihobia ny TOMPO, ry mponin’ny tany tontolo.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: SALAMO Isika no vahoakan’Andriamanitra
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: Salamo fampiasa amin’ny sorom-pisaorana.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mihobia ny TOMPO, ry mponin’ny tany tontolo.
   '2':
-  - type: text
-    content: Anaovy fanompoam-pivavahana amim-pifaliana IZY;
-  - type: text
-    content: midira eo anatrehany amin’ny hiram-piravoana.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Anaovy fanompoam-pivavahana amim-pifaliana IZY;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: midira eo anatrehany amin’ny hiram-piravoana.
   '3':
-  - type: text
-    content: Fantaro fa ny TOMPO no Andriamanitra;
-  - type: text
-    content: 'Izy no nanao antsika: ka Azy isika,'
-  - type: text
-    content: vahoakany sady andian’ondry andrasany.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Fantaro fa ny TOMPO no Andriamanitra;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Izy no nanao antsika: ka Azy isika,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: vahoakany sady andian’ondry andrasany.
   '4':
-  - type: text
-    content: Ny vavahadin’ny tempoliny, idiro amin-tsaotra;
-  - type: text
-    content: ireo kianja ao anatiny, idiro amin-dera;
-  - type: text
-    content: isaory Izy, ary ankalazao ny anarany.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Ny vavahadin’ny tempoliny, idiro amin-tsaotra;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ireo kianja ao anatiny, idiro amin-dera;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: isaory Izy, ary ankalazao ny anarany.
   '5':
-  - type: text
-    content: 'Eny, tsara ny TOMPO:'
-  - type: text
-    content: maharitra mandrakizay ny fitiavany
-  - type: note
-    content: Jereo Sal 106.1 sy nta.
-  - type: text
-    content: ary mahatoky hatrany hatrany Izy.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Eny, tsara ny TOMPO:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: maharitra mandrakizay ny fitiavany
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '100.5 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Jereo Sal 106.1 sy nta.
+      marker-yv: yv-n
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ary mahatoky hatrany hatrany Izy.

@@ -2,104 +2,280 @@ document_id: 1TI.1,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Salutation
-  - type: text
-    content: 'Paul, apôtre de Jésus-Christ, par ordre de Dieu notre Sauveur et de Jésus-Christ notre espérance, '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Salutation
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Paul, apôtre de Jésus-Christ, par ordre de Dieu notre Sauveur et de Jésus-Christ notre espérance, '
   '10':
-  - type: text
-    content: 'les débauchés, les homosexuels, les marchands d’esclaves, les menteurs, les gens sans parole et, d’une manière générale, pour tous ceux qui commettent des actions contraires à l’enseignement sain que vous avez reçu. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'les débauchés, les homosexuels, les marchands d’esclaves, les menteurs, les gens sans parole et, d’une manière générale, pour tous ceux qui commettent des actions contraires à l’enseignement sain que vous avez reçu. '
   '11':
-  - type: text
-    content: Cet enseignement est conforme à l’Evangile qui m’a été confié et qui révèle la gloire du Dieu bienheureux.
-  - type: heading
-    content: La grâce de Dieu envers Paul
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Cet enseignement est conforme à l’Evangile qui m’a été confié et qui révèle la gloire du Dieu bienheureux.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: La grâce de Dieu envers Paul
+    marker-yv: yv-h
   '12':
-  - type: text
-    content: 'Je suis reconnaissant envers celui qui m’a rendu capable de remplir cette tâche, Jésus-Christ, notre Seigneur. En effet, il m’a accordé sa confiance en me choisissant pour ce service, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Je suis reconnaissant envers celui qui m’a rendu capable de remplir cette tâche, Jésus-Christ, notre Seigneur. En effet, il m’a accordé sa confiance en me choisissant pour ce service, '
   '13':
-  - type: text
-    content: 'moi qui, autrefois, l’ai offensé, persécuté et insulté. Mais il a été compatissant envers moi car j’agissais par ignorance, puisque je n’avais pas la foi. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'moi qui, autrefois, l’ai offensé, persécuté et insulté. Mais il a été compatissant envers moi car j’agissais par ignorance, puisque je n’avais pas la foi. '
   '14':
-  - type: text
-    content: Dans la surabondance de sa grâce, notre Seigneur a fait naître en moi la foi et l’amour que l’on trouve dans l’union avec Jésus-Christ.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Dans la surabondance de sa grâce, notre Seigneur a fait naître en moi la foi et l’amour que l’on trouve dans l’union avec Jésus-Christ.
   '15':
-  - type: text
-    content: 'La parole que voici est certaine, elle mérite d’être reçue sans réserve : « Jésus-Christ est venu dans ce monde pour sauver des pécheurs. » Je suis, pour ma part, l’exemple type'
-  - type: note
-    content: 'Autre traduction : le pire.'
-  - type: text
-    content: ' d’entre eux. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'La parole que voici est certaine, elle mérite d’être reçue sans réserve : « Jésus-Christ est venu dans ce monde pour sauver des pécheurs. » Je suis, pour ma part, l’exemple type'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1.15 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Autre traduction : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: le pire.
+      marker-yv: yv-n
+    - type: text
+      text: ' d’entre eux. '
   '16':
-  - type: text
-    content: 'Mais Dieu a été compatissant envers moi pour cette raison : Jésus-Christ a voulu, en moi, l’exemple type'
-  - type: note
-    content: Voir note 1.15.
-  - type: text
-    content: ' des pécheurs, montrer toute l’étendue de sa patience, pour que je serve d’exemple à ceux qui croiraient en lui pour accéder à la vie éternelle.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Mais Dieu a été compatissant envers moi pour cette raison : Jésus-Christ a voulu, en moi, l’exemple type'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1.16 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Voir note '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: '1.15'
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: ' des pécheurs, montrer toute l’étendue de sa patience, pour que je serve d’exemple à ceux qui croiraient en lui pour accéder à la vie éternelle.'
   '17':
-  - type: text
-    content: Au Roi éternel,
-  - type: text
-    content: immortel,
-  - type: text
-    content: invisible,
-  - type: text
-    content: au seul Dieu,
-  - type: text
-    content: soient honneur et gloire
-  - type: text
-    content: pour l’éternité.
-  - type: text
-    content: Amen !
-  - type: heading
-    content: Garder la foi
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Au Roi éternel,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: immortel,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: invisible,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: au seul Dieu,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: soient honneur et gloire
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: pour l’éternité.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Amen !
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Garder la foi
+    marker-yv: yv-h
   '18':
-  - type: text
-    content: 'Timothée, mon enfant, voici le conseil que je t’adresse en accord avec les prophéties prononcées autrefois à ton sujet : en t’appuyant sur ces paroles, combats le bon combat '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Timothée, mon enfant, voici le conseil que je t’adresse en accord avec les prophéties prononcées autrefois à ton sujet : en t’appuyant sur ces paroles, combats le bon combat '
   '19':
-  - type: text
-    content: 'avec foi et avec cette bonne conscience dont certains se sont écartés au point que leur foi a fait naufrage. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'avec foi et avec cette bonne conscience dont certains se sont écartés au point que leur foi a fait naufrage. '
   '2':
-  - type: text
-    content: salue Timothée, son véritable enfant dans la foi.
-  - type: text
-    content: Que Dieu le Père et Jésus-Christ notre Seigneur t’accordent grâce, compassion et paix.
-  - type: heading
-    content: La menace des enseignants de mensonge
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: salue Timothée, son véritable enfant dans la foi.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Que Dieu le Père et Jésus-Christ notre Seigneur t’accordent grâce, compassion et paix.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: La menace des enseignants de mensonge
+    marker-yv: yv-h
   '20':
-  - type: text
-    content: Parmi eux se trouvent Hyménée et Alexandre que j’ai livrés à Satan
-  - type: note
-    content: Voir note 1 Co 5.5.
-  - type: text
-    content: ' pour qu’ils apprennent à ne plus blasphémer.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Parmi eux se trouvent Hyménée et Alexandre que j’ai livrés à Satan
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1.20 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Voir note '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: 1 Co 5.5
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: ' pour qu’ils apprennent à ne plus blasphémer.'
   '3':
-  - type: text
-    content: En partant pour la Macédoine, je t’ai encouragé à demeurer à Ephèse
-  - type: note
-    content: Capitale de la province romaine d’Asie à l’ouest de l’Asie Mineure.
-  - type: text
-    content: ' pour avertir certains de ne pas enseigner de doctrines étrangères à la foi. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: En partant pour la Macédoine, je t’ai encouragé à demeurer à Ephèse
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1.3 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Capitale de la province romaine d’Asie à l’ouest de l’Asie Mineure.
+      marker-yv: yv-n
+    - type: text
+      text: ' pour avertir certains de ne pas enseigner de doctrines étrangères à la foi. '
   '4':
-  - type: text
-    content: Qu’ils cessent de porter leur intérêt à des récits de pure invention et à des généalogies interminables
-  - type: note
-    content: Il s’agissait de spéculations sur les origines et les descendants des patriarches cités en Gn 4 à 5 ; 9 à 11.
-  - type: text
-    content: . Des préoccupations comme celles-ci font naître des spéculations au lieu de nous aider dans les responsabilités que Dieu nous confie dans l’œuvre de la foi.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Qu’ils cessent de porter leur intérêt à des récits de pure invention et à des généalogies interminables
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1.4 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Il s’agissait de spéculations sur les origines et les descendants des patriarches cités en Gn 4 à 5 ; 9 à 11.
+      marker-yv: yv-n
+    - type: text
+      text: . Des préoccupations comme celles-ci font naître des spéculations au lieu de nous aider dans les responsabilités que Dieu nous confie dans l’œuvre de la foi.
   '5':
-  - type: text
-    content: 'Le but de cet avertissement est d’éveiller l’amour, un amour venant d’un cœur pur, d’une bonne conscience et d’une foi sincère. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Le but de cet avertissement est d’éveiller l’amour, un amour venant d’un cœur pur, d’une bonne conscience et d’une foi sincère. '
   '6':
-  - type: text
-    content: 'Certains se sont écartés de ces principes et se sont égarés dans des argumentations sans aucune valeur. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Certains se sont écartés de ces principes et se sont égarés dans des argumentations sans aucune valeur. '
   '7':
-  - type: text
-    content: Ils se posent en enseignants de la Loi mais, au fond, ils ne comprennent ni ce qu’ils disent, ni les sujets sur lesquels ils se montrent si sûrs d’eux-mêmes.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Ils se posent en enseignants de la Loi mais, au fond, ils ne comprennent ni ce qu’ils disent, ni les sujets sur lesquels ils se montrent si sûrs d’eux-mêmes.
   '8':
-  - type: text
-    content: 'Nous savons que la Loi est bonne, mais à condition d’être utilisée en accord avec son but. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Nous savons que la Loi est bonne, mais à condition d’être utilisée en accord avec son but. '
   '9':
-  - type: text
-    content: 'Il faut savoir ceci : la Loi n’est pas faite pour les justes, mais pour les malfaiteurs et les rebelles, pour les gens qui méprisent Dieu et les pécheurs, pour ceux qui n’ont ni respect ni scrupule à l’égard de ce qui est sacré, ceux qui tueraient père et mère, les assassins, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Il faut savoir ceci : la Loi n’est pas faite pour les justes, mais pour les malfaiteurs et les rebelles, pour les gens qui méprisent Dieu et les pécheurs, pour ceux qui n’ont ni respect ni scrupule à l’égard de ce qui est sacré, ceux qui tueraient père et mère, les assassins, '

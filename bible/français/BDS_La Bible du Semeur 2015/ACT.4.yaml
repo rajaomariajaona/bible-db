@@ -2,189 +2,543 @@ document_id: ACT.4,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Pierre et Jean devant le Grand-Conseil
-  - type: text
-    content: Pendant qu’ils parlaient ainsi à la foule, survinrent quelques prêtres
-  - type: note
-    content: 'Certains manuscrits ont : les chefs des prêtres.'
-  - type: text
-    content: ' accompagnés du chef de la police du Temple'
-  - type: note
-    content: Le chef de la police du Temple était le personnage le plus important après le grand-prêtre.
-  - type: text
-    content: ' et des membres du parti des sadducéens : '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Pierre et Jean devant le Grand-Conseil
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Pendant qu’ils parlaient ainsi à la foule, survinrent quelques prêtres
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '4.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Certains manuscrits ont : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: les chefs des prêtres.
+      marker-yv: yv-n
+    - type: text
+      text: ' accompagnés du chef de la police du Temple'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '4.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Le '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'chef de la police du Temple '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: était le personnage le plus important après le grand-prêtre.
+      marker-yv: yv-n
+    - type: text
+      text: ' et des membres du parti des sadducéens : '
   '10':
-  - type: text
-    content: 'Eh bien, sachez-le tous, et que tout le peuple d’Israël le sache : c’est au nom de Jésus-Christ de Nazareth que nous avons agi, de ce Jésus que vous avez crucifié et que Dieu a ressuscité ; c’est grâce à lui que cet homme se tient là, debout, devant vous, en bonne santé. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Eh bien, sachez-le tous, et que tout le peuple d’Israël le sache : c’est au nom de Jésus-Christ de Nazareth que nous avons agi, de ce Jésus que vous avez crucifié et que Dieu a ressuscité ; c’est grâce à lui que cet homme se tient là, debout, devant vous, en bonne santé. '
   '11':
-  - type: text
-    content: 'Il est '
-  - type: text
-    content: la pierre rejetée par les constructeurs
-  - type: text
-    content: ' – par vous – '
-  - type: text
-    content: et qui est devenue la pierre principale, la pierre d’angle
-  - type: note
-    content: Ps 118.22.
-  - type: text
-    content: '. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Il est '
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: la pierre rejetée par les constructeurs
+    - type: text
+      text: ' – par vous – '
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: et qui est devenue la pierre principale, la pierre d’angle
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '4.11 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Ps 118.22
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: '. '
   '12':
-  - type: text
-    content: C’est en lui seul que se trouve le salut. Dans le monde entier, Dieu n’a jamais donné le nom d’aucun autre homme par lequel nous devions être sauvés.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: C’est en lui seul que se trouve le salut. Dans le monde entier, Dieu n’a jamais donné le nom d’aucun autre homme par lequel nous devions être sauvés.
   '13':
-  - type: text
-    content: 'Les membres du Grand-Conseil étaient étonnés de voir l’assurance de Pierre et de Jean, car ils se rendaient compte que c’étaient des gens simples et sans instruction ; ils les reconnaissaient pour avoir été avec Jésus. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Les membres du Grand-Conseil étaient étonnés de voir l’assurance de Pierre et de Jean, car ils se rendaient compte que c’étaient des gens simples et sans instruction ; ils les reconnaissaient pour avoir été avec Jésus. '
   '14':
-  - type: text
-    content: Mais, comme ils voyaient, debout à côté d’eux, l’homme qui avait été guéri, ils ne trouvaient rien à répondre.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Mais, comme ils voyaient, debout à côté d’eux, l’homme qui avait été guéri, ils ne trouvaient rien à répondre.
   '15':
-  - type: text
-    content: 'Alors ils leur ordonnèrent de sortir de la salle et délibérèrent entre eux : '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Alors ils leur ordonnèrent de sortir de la salle et délibérèrent entre eux : '
   '16':
-  - type: text
-    content: 'Qu’allons-nous faire de ces gens-là ? disaient-ils. Car ils ont accompli un signe miraculeux évident et tous les habitants de Jérusalem sont au courant. Nous ne pouvons pas le nier. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Qu’allons-nous faire de ces gens-là ? disaient-ils. Car ils ont accompli un signe miraculeux évident et tous les habitants de Jérusalem sont au courant. Nous ne pouvons pas le nier. '
   '17':
-  - type: text
-    content: Mais il ne faut pas que cela s’ébruite davantage parmi le peuple. Défendons-leur donc, sous peine de sanctions, de parler désormais à qui que ce soit au nom de Jésus.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Mais il ne faut pas que cela s’ébruite davantage parmi le peuple. Défendons-leur donc, sous peine de sanctions, de parler désormais à qui que ce soit au nom de Jésus.
   '18':
-  - type: text
-    content: Là-dessus, ils les firent rappeler et leur interdirent formellement de parler ou d’enseigner au nom de Jésus.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Là-dessus, ils les firent rappeler et leur interdirent formellement de parler ou d’enseigner au nom de Jésus.
   '19':
-  - type: text
-    content: 'Mais Pierre et Jean leur répondirent : Jugez-en vous-mêmes : est-il juste devant Dieu de vous obéir, plutôt qu’à Dieu ? '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Mais Pierre et Jean leur répondirent : Jugez-en vous-mêmes : est-il juste devant Dieu de vous obéir, plutôt qu’à Dieu ? '
   '2':
-  - type: text
-    content: ils étaient irrités de voir les apôtres enseigner le peuple et leur annoncer que, puisque Jésus était ressuscité, les morts ressusciteraient eux aussi
-  - type: note
-    content: Les sadducéens ne croyaient pas à la résurrection des morts.
-  - type: text
-    content: '. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ils étaient irrités de voir les apôtres enseigner le peuple et leur annoncer que, puisque Jésus était ressuscité, les morts ressusciteraient eux aussi
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '4.2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Les sadducéens ne croyaient pas à la résurrection des morts.
+      marker-yv: yv-n
+    - type: text
+      text: '. '
   '20':
-  - type: text
-    content: Quant à nous, nous ne pouvons pas garder le silence sur ce que nous avons vu et entendu.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Quant à nous, nous ne pouvons pas garder le silence sur ce que nous avons vu et entendu.
   '21':
-  - type: text
-    content: 'Après leur avoir fait de nouvelles menaces, ils les relâchèrent. En effet, ils n’avaient pas trouvé de moyen de les punir, parce que tout le peuple louait Dieu pour ce qui venait d’arriver. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Après leur avoir fait de nouvelles menaces, ils les relâchèrent. En effet, ils n’avaient pas trouvé de moyen de les punir, parce que tout le peuple louait Dieu pour ce qui venait d’arriver. '
   '22':
-  - type: text
-    content: L’homme qui avait été miraculeusement guéri était âgé de plus de quarante ans.
-  - type: heading
-    content: Prière des croyants
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: L’homme qui avait été miraculeusement guéri était âgé de plus de quarante ans.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Prière des croyants
+    marker-yv: yv-h
   '23':
-  - type: text
-    content: Sitôt libérés, Pierre et Jean se rendirent auprès de leurs amis et leur racontèrent tout ce que les chefs des prêtres et les responsables du peuple leur avaient dit.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Sitôt libérés, Pierre et Jean se rendirent auprès de leurs amis et leur racontèrent tout ce que les chefs des prêtres et les responsables du peuple leur avaient dit.
   '24':
-  - type: text
-    content: 'Après les avoir écoutés, tous, unanimes, se mirent à prier Dieu, disant :'
-  - type: text
-    content: 'Maître, c’est toi qui as créé le ciel, la terre, la mer et tout ce qui s’y trouve. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Après les avoir écoutés, tous, unanimes, se mirent à prier Dieu, disant :'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Maître, c’est toi qui as créé le ciel, la terre, la mer et tout ce qui s’y trouve. '
   '25':
-  - type: text
-    content: 'C’est toi qui as dit par l’Esprit Saint qui s’est exprimé par la bouche de notre ancêtre David, ton serviteur :'
-  - type: text
-    content: Pourquoi tant d’effervescence
-  - type: text
-    content: parmi les nations ?
-  - type: text
-    content: Et pourquoi les peuples
-  - type: text
-    content: trament-ils ces complots inutiles ?
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'C’est toi qui as dit par l’Esprit Saint qui s’est exprimé par la bouche de notre ancêtre David, ton serviteur :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: Pourquoi tant d’effervescence
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: parmi les nations ?
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: Et pourquoi les peuples
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: trament-ils ces complots inutiles ?
   '26':
-  - type: text
-    content: ' '
-  - type: text
-    content: Les rois de la terre
-  - type: text
-    content: se sont soulevés
-  - type: text
-    content: et les chefs se sont ligués
-  - type: text
-    content: 'contre le Seigneur et son '
-  - type: text
-    content: Messie
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps 2.1-2 cité selon l’ancienne version grecque.
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: Les rois de la terre
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: se sont soulevés
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: et les chefs se sont ligués
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: 'contre le Seigneur et son '
+      - type: usfm
+        marker: w
+        children:
+        - type: text
+          text: Messie
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '4.26 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Ps 2.1-2
+        - type: text
+          text: ' cité selon l’ancienne version grecque.'
+      marker-yv: yv-n
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: .
   '27':
-  - type: text
-    content: 'En effet, c’est bien une '
-  - type: text
-    content: ligue
-  - type: text
-    content: ' qu’Hérode et Ponce Pilate, les peuples étrangers et les peuples d’Israël ont formée dans cette ville contre ton saint serviteur Jésus, que tu as choisi comme Messie. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'En effet, c’est bien une '
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: ligue
+    - type: text
+      text: ' qu’Hérode et Ponce Pilate, les peuples étrangers et les peuples d’Israël ont formée dans cette ville contre ton saint serviteur Jésus, que tu as choisi comme Messie. '
   '28':
-  - type: text
-    content: 'Ils n’ont fait qu’accomplir tout ce que tu avais décidé d’avance, dans ta puissance et ta volonté. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ils n’ont fait qu’accomplir tout ce que tu avais décidé d’avance, dans ta puissance et ta volonté. '
   '29':
-  - type: text
-    content: 'Maintenant, Seigneur, vois comme ils nous menacent, et donne à tes serviteurs la force d’annoncer ta Parole avec une pleine assurance. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Maintenant, Seigneur, vois comme ils nous menacent, et donne à tes serviteurs la force d’annoncer ta Parole avec une pleine assurance. '
   '3':
-  - type: text
-    content: Ils les arrêtèrent donc et, comme il se faisait déjà tard
-  - type: note
-    content: C’était le soir. Or, après 16 h, les portes des parvis étaient fermées. Tout jugement pouvant aboutir à une peine de mort devait être rendu de jour.
-  - type: text
-    content: ', ils les jetèrent en prison jusqu’au lendemain. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Ils les arrêtèrent donc et, comme il se faisait déjà tard
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '4.3 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: C’était le soir. Or, après 16 h, les portes des parvis étaient fermées. Tout jugement pouvant aboutir à une peine de mort devait être rendu de jour.
+      marker-yv: yv-n
+    - type: text
+      text: ', ils les jetèrent en prison jusqu’au lendemain. '
   '30':
-  - type: text
-    content: Etends ta main pour qu’il se produise des guérisons, des miracles et d’autres signes au nom de ton saint serviteur Jésus.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Etends ta main pour qu’il se produise des guérisons, des miracles et d’autres signes au nom de ton saint serviteur Jésus.
   '31':
-  - type: text
-    content: Quand ils eurent fini de prier, la terre se mit à trembler sous leurs pieds à l’endroit où ils étaient assemblés. Ils furent tous remplis du Saint-Esprit et annonçaient la Parole de Dieu avec assurance.
-  - type: heading
-    content: La solidarité des croyants
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Quand ils eurent fini de prier, la terre se mit à trembler sous leurs pieds à l’endroit où ils étaient assemblés. Ils furent tous remplis du Saint-Esprit et annonçaient la Parole de Dieu avec assurance.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: La solidarité des croyants
+    marker-yv: yv-h
   '32':
-  - type: text
-    content: Tous ceux qui étaient devenus des croyants vivaient dans une parfaite unité de cœur et d’esprit. Personne ne se prétendait propriétaire de ses biens, mais ils partageaient tout ce qu’ils avaient.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Tous ceux qui étaient devenus des croyants vivaient dans une parfaite unité de cœur et d’esprit. Personne ne se prétendait propriétaire de ses biens, mais ils partageaient tout ce qu’ils avaient.
   '33':
-  - type: text
-    content: Avec une grande puissance, les apôtres rendaient témoignage de la résurrection du Seigneur Jésus, et la grâce de Dieu agissait avec force en eux tous.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Avec une grande puissance, les apôtres rendaient témoignage de la résurrection du Seigneur Jésus, et la grâce de Dieu agissait avec force en eux tous.
   '34':
-  - type: text
-    content: 'Aucun d’eux n’était dans le besoin, car ceux qui possédaient des champs ou des maisons les vendaient, apportaient le produit de la vente '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Aucun d’eux n’était dans le besoin, car ceux qui possédaient des champs ou des maisons les vendaient, apportaient le produit de la vente '
   '35':
-  - type: text
-    content: 'et le remettaient aux apôtres : ceux-ci le répartissaient alors entre tous et chacun recevait ce dont il avait besoin. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'et le remettaient aux apôtres : ceux-ci le répartissaient alors entre tous et chacun recevait ce dont il avait besoin. '
   '36':
-  - type: text
-    content: C’est ainsi que, par exemple, un certain Joseph possédait un terrain. C’était un lévite originaire de Chypre
-  - type: note
-    content: Beaucoup de Juifs s’étaient établis dans cette île de l’est de la Méditerranée à partir de l’époque des Maccabées au iie siècle avant notre ère.
-  - type: text
-    content: '  ; les apôtres le surnommaient Barnabas, ce qui veut dire « l’homme qui encourage ». '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: C’est ainsi que, par exemple, un certain Joseph possédait un terrain. C’était un lévite originaire de Chypre
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '4.36 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Beaucoup de Juifs s’étaient établis dans cette île de l’est de la Méditerranée à partir de l’époque des Maccabées au '
+        - type: usfm
+          marker: sc
+          children:
+          - type: text
+            text: ii
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: e
+        - type: text
+          text: ' siècle avant notre ère.'
+      marker-yv: yv-n
+    - type: text
+      text: '  ; les apôtres le surnommaient Barnabas, ce qui veut dire « l’homme qui encourage ». '
   '37':
-  - type: text
-    content: Il vendit son terrain, apporta l’argent et en remit le produit aux apôtres.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Il vendit son terrain, apporta l’argent et en remit le produit aux apôtres.
   '4':
-  - type: text
-    content: Cependant, parmi ceux qui avaient entendu leurs paroles, beaucoup crurent, ce qui porta le nombre des croyants à près de cinq mille hommes.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Cependant, parmi ceux qui avaient entendu leurs paroles, beaucoup crurent, ce qui porta le nombre des croyants à près de cinq mille hommes.
   '5':
-  - type: text
-    content: 'Le lendemain, les chefs des Juifs, les responsables du peuple et les spécialistes de la Loi se réunirent à Jérusalem. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Le lendemain, les chefs des Juifs, les responsables du peuple et les spécialistes de la Loi se réunirent à Jérusalem. '
   '6':
-  - type: text
-    content: Il y avait là, en particulier, Hanne le grand-prêtre
-  - type: note
-    content: Hanne avait été déposé par les Romains mais le peuple continuait à le considérer comme le grand-prêtre alors que son gendre Caïphe remplissait cette fonction.
-  - type: text
-    content: ', Caïphe, Jean'
-  - type: note
-    content: 'D’autres manuscrits ont : Jonathan.'
-  - type: text
-    content: ', Alexandre et tous les membres de la famille du grand-prêtre. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Il y avait là, en particulier, Hanne le grand-prêtre
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '4.6 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Hanne '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'avait été déposé par les Romains mais le peuple continuait à le considérer comme le grand-prêtre alors que son gendre '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Caïphe '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: remplissait cette fonction.
+      marker-yv: yv-n
+    - type: text
+      text: ', Caïphe, Jean'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '4.6 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'D’autres manuscrits ont : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: Jonathan.
+      marker-yv: yv-n
+    - type: text
+      text: ', Alexandre et tous les membres de la famille du grand-prêtre. '
   '7':
-  - type: text
-    content: 'Ils firent comparaître Pierre et Jean, les placèrent au milieu de leur assemblée et les interrogèrent : Par quel pouvoir ou au nom de qui avez-vous fait cela ?'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ils firent comparaître Pierre et Jean, les placèrent au milieu de leur assemblée et les interrogèrent : Par quel pouvoir ou au nom de qui avez-vous fait cela ?'
   '8':
-  - type: text
-    content: 'Alors Pierre, rempli de l’Esprit Saint, leur répondit :'
-  - type: text
-    content: 'Dirigeants et responsables de notre peuple ! '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Alors Pierre, rempli de l’Esprit Saint, leur répondit :'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Dirigeants et responsables de notre peuple ! '
   '9':
-  - type: text
-    content: 'Nous sommes aujourd’hui interrogés sur le bien que nous avons fait à un infirme et sur la manière dont il a été guéri. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Nous sommes aujourd’hui interrogés sur le bien que nous avons fait à un infirme et sur la manière dont il a été guéri. '

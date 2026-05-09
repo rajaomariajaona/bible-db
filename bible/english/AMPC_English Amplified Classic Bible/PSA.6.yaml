@@ -2,58 +2,110 @@ document_id: PSA.6,8
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: To the Chief Musician; on stringed instruments, set +[possibly+] an octave below. A Psalm of David.
-  - type: text
-    content: ' O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', rebuke me not in Your anger nor discipline '
-  - type: text
-    content: and
-  - type: text
-    content: ' chasten me in Your hot displeasure.'
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: To the Chief Musician; on stringed instruments, set +[possibly+] an octave below. A Psalm of David.
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', rebuke me not in Your anger nor discipline '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: and
+    - type: text
+      text: ' chasten me in Your hot displeasure.'
   '10':
-  - type: text
-    content: ' Let all my enemies be ashamed and sorely troubled; let them turn back '
-  - type: text
-    content: and
-  - type: text
-    content: ' be put to shame suddenly.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' Let all my enemies be ashamed and sorely troubled; let them turn back '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: and
+    - type: text
+      text: ' be put to shame suddenly.'
   '2':
-  - type: text
-    content: ' Have mercy on me '
-  - type: text
-    content: and
-  - type: text
-    content: ' be gracious to me, O Lord, for I am weak (faint and withered away); O Lord, heal me, for my bones are troubled.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' Have mercy on me '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: and
+    - type: text
+      text: ' be gracious to me, O Lord, for I am weak (faint and withered away); O Lord, heal me, for my bones are troubled.'
   '3':
-  - type: text
-    content: ' My [inner] self [as well as my body] is also exceedingly disturbed '
-  - type: text
-    content: and
-  - type: text
-    content: ' troubled. But You, O Lord, how long [until You return and speak peace to me]?'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' My [inner] self [as well as my body] is also exceedingly disturbed '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: and
+    - type: text
+      text: ' troubled. But You, O Lord, how long [until You return and speak peace to me]?'
   '4':
-  - type: text
-    content: ' Return [to my relief], O Lord, deliver my life; save me for the sake of Your steadfast love '
-  - type: text
-    content: and
-  - type: text
-    content: ' mercy.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' Return [to my relief], O Lord, deliver my life; save me for the sake of Your steadfast love '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: and
+    - type: text
+      text: ' mercy.'
   '5':
-  - type: text
-    content: ' For in death there is no remembrance of You; in Sheol (the place of the dead) who will give You thanks?'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' For in death there is no remembrance of You; in Sheol (the place of the dead) who will give You thanks?'
   '6':
-  - type: text
-    content: ' I am weary with my groaning; all night I soak my pillow with tears, I drench my couch with my weeping.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' I am weary with my groaning; all night I soak my pillow with tears, I drench my couch with my weeping.'
   '7':
-  - type: text
-    content: ' My eye grows dim because of grief; it grows old because of all my enemies.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' My eye grows dim because of grief; it grows old because of all my enemies.'
   '8':
-  - type: text
-    content: ' Depart from me, all you workers of iniquity, for the Lord has heard the voice of my weeping. [Matt. 7:23; Luke 13:27.]'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' Depart from me, all you workers of iniquity, for the Lord has heard the voice of my weeping. [Matt. 7:23; Luke 13:27.]'
   '9':
-  - type: text
-    content: ' The Lord has heard my supplication; the Lord receives my prayer.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' The Lord has heard my supplication; the Lord receives my prayer.'

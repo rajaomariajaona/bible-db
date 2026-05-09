@@ -2,71 +2,229 @@ document_id: PSA.87,116
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: A song. A psalm of the descendants of Korah.
-  - type: text
-    content: On the holy mountain
-  - type: text
-    content: 'stands the city founded by the '
-  - type: text
-    content: Lord
-  - type: text
-    content: .
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: A song. A psalm of the descendants of Korah.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: On the holy mountain
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'stands the city founded by the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: .
   '2':
-  - type: text
-    content: He loves the city of Jerusalem
-  - type: text
-    content: more than any other city in Israel.
-  - type: note
-    content: Hebrew He loves the gates of Zion more than all the dwellings of Jacob. See note on 44:4.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: He loves the city of Jerusalem
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: more than any other city in Israel.
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '87:2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'He loves the gates of Zion more than all the dwellings of Jacob. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: See note on 44:4.
+      marker-yv: yv-n
   '3':
-  - type: text
-    content: O city of God,
-  - type: text
-    content: 'what glorious things are said of you! '
-  - type: text
-    content: Interlude
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: O city of God,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'what glorious things are said of you! '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Interlude
   '4':
-  - type: text
-    content: I will count Egypt
-  - type: note
-    content: Hebrew Rahab, the name of a mythical sea monster that represents chaos in ancient literature. The name is used here as a poetic name for Egypt.
-  - type: text
-    content: ' and Babylon among those who know me—'
-  - type: text
-    content: also Philistia and Tyre, and even distant Ethiopia.
-  - type: note
-    content: Hebrew Cush.
-  - type: text
-    content: They have all become citizens of Jerusalem!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: I will count Egypt
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '87:4a '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Rahab, '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: the name of a mythical sea monster that represents chaos in ancient literature. The name is used here as a poetic name for Egypt.
+      marker-yv: yv-n
+    - type: text
+      text: ' and Babylon among those who know me—'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: also Philistia and Tyre, and even distant Ethiopia.
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '87:4b '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: Cush.
+      marker-yv: yv-n
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: They have all become citizens of Jerusalem!
   '5':
-  - type: text
-    content: Regarding Jerusalem
-  - type: note
-    content: Hebrew Zion.
-  - type: text
-    content: ' it will be said,'
-  - type: text
-    content: “Everyone enjoys the rights of citizenship there.”
-  - type: text
-    content: And the Most High will personally bless this city.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Regarding Jerusalem
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '87:5 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: Zion.
+      marker-yv: yv-n
+    - type: text
+      text: ' it will be said,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: “Everyone enjoys the rights of citizenship there.”
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: And the Most High will personally bless this city.
   '6':
-  - type: text
-    content: 'When the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' registers the nations, he will say,'
-  - type: text
-    content: '“They have all become citizens of Jerusalem.” '
-  - type: text
-    content: Interlude
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'When the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' registers the nations, he will say,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: '“They have all become citizens of Jerusalem.” '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Interlude
   '7':
-  - type: text
-    content: The people will play flutes
-  - type: note
-    content: Or will dance.
-  - type: text
-    content: ' and sing,'
-  - type: text
-    content: “The source of my life springs from Jerusalem!”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: The people will play flutes
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '87:7 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: will dance.
+      marker-yv: yv-n
+    - type: text
+      text: ' and sing,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: “The source of my life springs from Jerusalem!”

@@ -2,49 +2,143 @@ document_id: PSA.15,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Qui peut vivre avec Dieu ?
-  - type: text
-    content: Psaume de David.
-  - type: text
-    content: Eternel, qui pourra séjourner ╵dans ton sanctuaire ?
-  - type: text
-    content: Et qui donc peut demeurer ╵sur ta montagne sacrée
-  - type: note
-    content: La colline de Sion où sera bâti le temple de Jérusalem (voir 2.6).
-  - type: text
-    content: '  ?'
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Qui peut vivre avec Dieu ?
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: Psaume de David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Eternel, qui pourra séjourner ╵dans ton sanctuaire ?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et qui donc peut demeurer ╵sur ta montagne sacrée
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '15.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'La colline de Sion où sera bâti le temple de Jérusalem (voir '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: '2.6'
+        - type: text
+          text: ).
+      marker-yv: yv-n
+    - type: text
+      text: '  ?'
   '2':
-  - type: text
-    content: 'L’homme à la conduite intègre : ╵il pratique la justice,'
-  - type: text
-    content: et il dit la vérité ╵qu’il pense au fond de son cœur
-  - type: note
-    content: 'Autre traduction : qui, dans son cœur, cultive la vérité.'
-  - type: text
-    content: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'L’homme à la conduite intègre : ╵il pratique la justice,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et il dit la vérité ╵qu’il pense au fond de son cœur
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '15.2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Autre traduction : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: qui, dans son cœur, cultive la vérité.
+      marker-yv: yv-n
+    - type: text
+      text: ','
   '3':
-  - type: text
-    content: il ne calomnie pas son prochain,
-  - type: text
-    content: il ne lui fait aucun mal,
-  - type: text
-    content: et il ne s’associe pas ╵à ce qui déprécierait ses proches.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: il ne calomnie pas son prochain,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: il ne lui fait aucun mal,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et il ne s’associe pas ╵à ce qui déprécierait ses proches.
   '4':
-  - type: text
-    content: Il méprise l’homme vil,
-  - type: text
-    content: mais il honore celui ╵qui craint l’Eternel.
-  - type: text
-    content: Il tient toujours ses serments ╵même s’il doit en pâtir.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Il méprise l’homme vil,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: mais il honore celui ╵qui craint l’Eternel.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Il tient toujours ses serments ╵même s’il doit en pâtir.
   '5':
-  - type: text
-    content: Il ne prête pas ╵de l’argent à intérêt
-  - type: note
-    content: La Loi interdisait à l’Israélite de prêter de l’argent contre intérêt à ses compatriotes (Ex 22.24 ; Dt 23.20).
-  - type: text
-    content: ','
-  - type: text
-    content: il refuse qu’on l’achète ╵pour condamner l’innocent.
-  - type: text
-    content: Qui se conduit de la sorte ╵rien ne pourra l’ébranler.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Il ne prête pas ╵de l’argent à intérêt
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '15.5 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: La Loi interdisait à l’Israélite de prêter de l’argent contre intérêt à ses compatriotes (Ex 22.24 ; Dt 23.20).
+      marker-yv: yv-n
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: il refuse qu’on l’achète ╵pour condamner l’innocent.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Qui se conduit de la sorte ╵rien ne pourra l’ébranler.

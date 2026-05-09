@@ -2,48 +2,105 @@ document_id: PSA.126,97
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: It seemed like a dream, too good to be true,
-  - type: text
-    content: 'when '
-  - type: text
-    content: God
-  - type: text
-    content: ' returned Zion’s exiles.'
-  - type: text
-    content: We laughed, we sang,
-  - type: text
-    content: we couldn’t believe our good fortune.
-  - type: text
-    content: We were the talk of the nations—
-  - type: text
-    content: “
-  - type: text
-    content: God
-  - type: text
-    content: ' was wonderful to them!”'
-  - type: text
-    content: 'God '
-  - type: text
-    content: was
-  - type: text
-    content: ' wonderful to us;'
-  - type: text
-    content: we are one happy people.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: It seemed like a dream, too good to be true,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'when '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ' returned Zion’s exiles.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: We laughed, we sang,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: we couldn’t believe our good fortune.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: We were the talk of the nations—
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: “
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ' was wonderful to them!”'
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: 'God '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: was
+    - type: text
+      text: ' wonderful to us;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: we are one happy people.
   '4':
-  - type: text
-    content: 'And now, '
-  - type: text
-    content: God
-  - type: text
-    content: ', do it again—'
-  - type: text
-    content: bring rains to our drought-stricken lives
-  - type: text
-    content: So those who planted their crops in despair
-  - type: text
-    content: will shout “Yes!” at the harvest,
-  - type: text
-    content: So those who went off with heavy hearts
-  - type: text
-    content: will come home laughing, with armloads of blessing.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'And now, '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ', do it again—'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: bring rains to our drought-stricken lives
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: So those who planted their crops in despair
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: will shout “Yes!” at the harvest,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: So those who went off with heavy hearts
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: will come home laughing, with armloads of blessing.

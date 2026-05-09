@@ -2,171 +2,679 @@ document_id: PSA.56,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: In God I Trust
-  - type: text
-    content: 'To the choirmaster: according to The Dove on Far-off Terebinths. A '
-  - type: note
-    content: Ps. 16, title; 57, title
-  - type: text
-    content: Miktam
-  - type: note
-    content: Probably a musical or liturgical term
-  - type: text
-    content: ' of David, when the '
-  - type: note
-    content: '[1 Sam. 21:10, 11; 22:1]'
-  - type: text
-    content: Philistines seized him in Gath.
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps. 57:1; See Ps. 4:1
-  - type: text
-    content: 'Be gracious to me, O God, for man '
-  - type: note
-    content: Ps. 57:3
-  - type: text
-    content: tramples on me;
-  - type: text
-    content: all day long an attacker oppresses me;
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: In God I Trust
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'To the choirmaster: according to The Dove on Far-off Terebinths. A '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 16
+      - type: text
+        text: ', title; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '57'
+      - type: text
+        text: ', title'
+      marker-yv: yv-n
+    - type: text
+      text: Miktam
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '56:1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Probably a musical or liturgical term
+      marker-yv: yv-n
+    - type: text
+      text: ' of David, when the '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Sam. 21:10
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '11'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 22:1
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: Philistines seized him in Gath.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 57:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 4:1
+      marker-yv: yv-n
+    - type: text
+      text: 'Be gracious to me, O God, for man '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 57:3
+      marker-yv: yv-n
+    - type: text
+      text: tramples on me;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: all day long an attacker oppresses me;
   '10':
-  - type: text
-    content: In God, whose word I praise,
-  - type: text
-    content: 'in the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', whose word I praise,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: In God, whose word I praise,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'in the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', whose word I praise,'
   '11':
-  - type: text
-    content: 'in God I trust; '
-  - type: note
-    content: '[See ver. 4 above]'
-  - type: text
-    content: I shall not be afraid.
-  - type: text
-    content: What can man do to me?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'in God I trust; '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[See ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '4'
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: above]
+      marker-yv: yv-n
+    - type: text
+      text: I shall not be afraid.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: What can man do to me?
   '12':
-  - type: text
-    content: 'I must perform my '
-  - type: note
-    content: See Ps. 50:14
-  - type: text
-    content: vows to you, O God;
-  - type: text
-    content: 'I will '
-  - type: note
-    content: See Ps. 50:14
-  - type: text
-    content: render thank offerings to you.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I must perform my '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 50:14
+      marker-yv: yv-n
+    - type: text
+      text: vows to you, O God;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'I will '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 50:14
+      marker-yv: yv-n
+    - type: text
+      text: render thank offerings to you.
   '13':
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps. 49:15; 116:8
-  - type: text
-    content: For you have delivered my soul from death,
-  - type: text
-    content: yes, my feet from falling,
-  - type: note
-    content: Ps. 116:9
-  - type: text
-    content: that I may walk before God
-  - type: note
-    content: '[ Ps. 49:19 ]'
-  - type: text
-    content: in the light of life.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 49:15
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 116:8
+      marker-yv: yv-n
+    - type: text
+      text: For you have delivered my soul from death,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: yes, my feet from falling,
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 116:9
+      marker-yv: yv-n
+    - type: text
+      text: that I may walk before God
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 49:19
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: in the light of life.
   '2':
-  - type: text
-    content: my enemies trample on me all day long,
-  - type: text
-    content: for many attack me proudly.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: my enemies trample on me all day long,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: for many attack me proudly.
   '3':
-  - type: text
-    content: When I am afraid,
-  - type: text
-    content: 'I '
-  - type: note
-    content: See Ps. 11:1
-  - type: text
-    content: put my trust in you.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: When I am afraid,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'I '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 11:1
+      marker-yv: yv-n
+    - type: text
+      text: put my trust in you.
   '4':
-  - type: text
-    content: In God, whose word I praise,
-  - type: text
-    content: 'in God I trust; '
-  - type: note
-    content: Ps. 27:1; 118:6; Isa. 51:12; Heb. 13:6
-  - type: text
-    content: I shall not be afraid.
-  - type: text
-    content: What can flesh do to me?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: In God, whose word I praise,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'in God I trust; '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 27:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 118:6
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 51:12
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Heb. 13:6
+      marker-yv: yv-n
+    - type: text
+      text: I shall not be afraid.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: What can flesh do to me?
   '5':
-  - type: text
-    content: All day long they injure my cause;
-  - type: note
-    content: Or they twist my words
-  - type: text
-    content: all their thoughts are against me for evil.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: All day long they injure my cause;
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '56:5 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: they twist my words
+      marker-yv: yv-n
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: all their thoughts are against me for evil.
   '6':
-  - type: text
-    content: 'They '
-  - type: note
-    content: Ps. 59:3; 140:2; Isa. 54:15
-  - type: text
-    content: 'stir up strife, they '
-  - type: note
-    content: Ps. 10:8
-  - type: text
-    content: lurk;
-  - type: text
-    content: 'they '
-  - type: note
-    content: Ps. 71:10
-  - type: text
-    content: watch my steps,
-  - type: text
-    content: as they have waited for my life.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'They '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 59:3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 140:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 54:15
+      marker-yv: yv-n
+    - type: text
+      text: 'stir up strife, they '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 10:8
+      marker-yv: yv-n
+    - type: text
+      text: lurk;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'they '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 71:10
+      marker-yv: yv-n
+    - type: text
+      text: watch my steps,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: as they have waited for my life.
   '7':
-  - type: text
-    content: For their crime will they escape?
-  - type: note
-    content: Ps. 7:6; 59:5
-  - type: text
-    content: 'In wrath '
-  - type: note
-    content: See Ps. 55:23
-  - type: text
-    content: cast down the peoples, O God!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: For their crime will they escape?
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 7:6
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 59:5
+      marker-yv: yv-n
+    - type: text
+      text: 'In wrath '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 55:23
+      marker-yv: yv-n
+    - type: text
+      text: cast down the peoples, O God!
   '8':
-  - type: text
-    content: You have kept count of my tossings;
-  - type: note
-    content: Or wanderings
-  - type: note
-    content: '[ Ps. 39:12; 2 Kgs. 20:5 ]'
-  - type: text
-    content: put my tears in your bottle.
-  - type: note
-    content: '[ Mal. 3:16 ]'
-  - type: text
-    content: Are they not in your book?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: You have kept count of my tossings;
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '56:8 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: wanderings
+      marker-yv: yv-n
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 39:12
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Kgs. 20:5
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: put my tears in your bottle.
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Mal. 3:16
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: Are they not in your book?
   '9':
-  - type: text
-    content: Then my enemies will turn back
-  - type: note
-    content: Ps. 102:2
-  - type: text
-    content: in the day when I call.
-  - type: text
-    content: This I know, that
-  - type: note
-    content: Or because
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps. 118:6; [Rom. 8:31]
-  - type: text
-    content: God is for me.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Then my enemies will turn back
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 102:2
+      marker-yv: yv-n
+    - type: text
+      text: in the day when I call.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: This I know, that
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '56:9 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: because
+      marker-yv: yv-n
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 118:6
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rom. 8:31
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: God is for me.

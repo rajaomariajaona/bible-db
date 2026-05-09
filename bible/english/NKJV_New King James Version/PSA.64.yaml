@@ -2,102 +2,224 @@ document_id: PSA.64,114
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: Oppressed by the Wicked but Rejoicing in the Lord
-  - type: text
-    content: To the Chief Musician. A Psalm of David.
-  - type: text
-    content: Hear my voice, O God, in my meditation;
-  - type: text
-    content: Preserve my life from fear of the enemy.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: 'Oppressed by the Wicked but Rejoicing in the '
+    - type: usfm
+      marker: sc
+      children:
+      - type: text
+        text: Lord
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: To the Chief Musician. A Psalm of David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Hear my voice, O God, in my meditation;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Preserve my life from fear of the enemy.
   '10':
-  - type: note
-    content: Job 22:19; Ps. 32:11
-  - type: text
-    content: 'The righteous shall be glad in the '
-  - type: heading
-    content: Lord
-  - type: text
-    content: ', and trust in Him.'
-  - type: text
-    content: And all the upright in heart shall glory.
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: Job 22:19; Ps. 32:11
+      marker-yv: yv-n
+    - type: text
+      text: 'The righteous shall be glad in the '
+    - type: usfm
+      marker: sc
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', and trust in Him.'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: And all the upright in heart shall glory.
   '2':
-  - type: text
-    content: Hide me from the secret plots of the wicked,
-  - type: text
-    content: From the rebellion of the workers of iniquity,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Hide me from the secret plots of the wicked,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: From the rebellion of the workers of iniquity,
   '3':
-  - type: text
-    content: Who sharpen their tongue like a sword,
-  - type: note
-    content: Ps. 58:7
-  - type: text
-    content: 'And bend '
-  - type: text
-    content: their
-  - type: text
-    content: ' '
-  - type: text
-    content: bows
-  - type: text
-    content: ' '
-  - type: text
-    content: to
-  - type: text
-    content: ' '
-  - type: text
-    content: shoot
-  - type: text
-    content: ' their arrows—bitter words,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Who sharpen their tongue like a sword,
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: Ps. 58:7
+      marker-yv: yv-n
+    - type: text
+      text: 'And bend '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: their
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: bows
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: to
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: shoot
+    - type: text
+      text: ' their arrows—bitter words,'
   '4':
-  - type: text
-    content: That they may shoot in secret at the blameless;
-  - type: text
-    content: Suddenly they shoot at him and do not fear.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: That they may shoot in secret at the blameless;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Suddenly they shoot at him and do not fear.
   '5':
-  - type: text
-    content: 'They encourage themselves '
-  - type: text
-    content: in
-  - type: text
-    content: ' an evil matter;'
-  - type: text
-    content: They talk of laying snares secretly;
-  - type: note
-    content: Ps. 10:11; 59:7
-  - type: text
-    content: They say, “Who will see them?”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'They encourage themselves '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: in
+    - type: text
+      text: ' an evil matter;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: They talk of laying snares secretly;
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: Ps. 10:11; 59:7
+      marker-yv: yv-n
+    - type: text
+      text: They say, “Who will see them?”
   '6':
-  - type: text
-    content: 'They devise iniquities:'
-  - type: text
-    content: “We have perfected a shrewd scheme.”
-  - type: text
-    content: Both the inward thought and the heart of man are deep.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'They devise iniquities:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: “We have perfected a shrewd scheme.”
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Both the inward thought and the heart of man are deep.
   '7':
-  - type: text
-    content: 'But God shall shoot at them '
-  - type: text
-    content: with
-  - type: text
-    content: ' an arrow;'
-  - type: text
-    content: Suddenly they shall be wounded.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'But God shall shoot at them '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: with
+    - type: text
+      text: ' an arrow;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Suddenly they shall be wounded.
   '8':
-  - type: text
-    content: So He will make them stumble over their own tongue;
-  - type: note
-    content: Ps. 31:11
-  - type: text
-    content: All who see them shall flee away.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: So He will make them stumble over their own tongue;
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: Ps. 31:11
+      marker-yv: yv-n
+    - type: text
+      text: All who see them shall flee away.
   '9':
-  - type: text
-    content: All men shall fear,
-  - type: text
-    content: 'And shall '
-  - type: note
-    content: Jer. 50:28; 51:10
-  - type: text
-    content: declare the work of God;
-  - type: text
-    content: For they shall wisely consider His doing.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: All men shall fear,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'And shall '
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: Jer. 50:28; 51:10
+      marker-yv: yv-n
+    - type: text
+      text: declare the work of God;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: For they shall wisely consider His doing.

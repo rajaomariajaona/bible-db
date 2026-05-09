@@ -2,17 +2,35 @@ document_id: ZEC.INTRO1,111
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: Intro
-  - type: text
-    content: The prophet Zechariah brought his messages to the returned exiles of Judah beginning in the second year of King Darius of Persia (520 BC). The book has two main parts. The first contains two sequences of prophecies, primarily in the form of symbolic vision reports. The second main part is made up mostly of poetic oracles concerned with the nation’s leaders.
-  - type: text
-    content: After a general call to repentance, Zechariah records a series of eight visions to encourage the people in rebuilding the temple. The first and last describe four differently colored horses and their riders sent over the earth. The second and third visions show that hostile foreign powers no longer threaten the country. The sixth and seventh visions report the removal of the people’s sins. The two central visions depict God establishing Joshua the high priest and Zerubbabel the governor. The overall message is that God has everything in place for the rebuilding project.
-  - type: text
-    content: The second sequence of prophecies has six parts. Ever since the disaster of the exile and the temple’s destruction, the people had been fasting at certain times of the year. The messages here urge the people to practice justice as the true form of fasting and to focus on rebuilding. Then Zechariah announces that all their fasts will become joyful celebrations.
-  - type: text
-    content: 'The book’s final section predicts that after the people suffer under bad shepherds, God will send a righteous king from David’s line. The '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' will triumph over every enemy and be king over the whole earth.'
+  - type: usfm
+    marker: imt1
+    children:
+    - type: text
+      text: Intro
+  - type: usfm
+    marker: im
+    children:
+    - type: text
+      text: The prophet Zechariah brought his messages to the returned exiles of Judah beginning in the second year of King Darius of Persia (520 BC). The book has two main parts. The first contains two sequences of prophecies, primarily in the form of symbolic vision reports. The second main part is made up mostly of poetic oracles concerned with the nation’s leaders.
+  - type: usfm
+    marker: ip
+    children:
+    - type: text
+      text: After a general call to repentance, Zechariah records a series of eight visions to encourage the people in rebuilding the temple. The first and last describe four differently colored horses and their riders sent over the earth. The second and third visions show that hostile foreign powers no longer threaten the country. The sixth and seventh visions report the removal of the people’s sins. The two central visions depict God establishing Joshua the high priest and Zerubbabel the governor. The overall message is that God has everything in place for the rebuilding project.
+  - type: usfm
+    marker: ip
+    children:
+    - type: text
+      text: The second sequence of prophecies has six parts. Ever since the disaster of the exile and the temple’s destruction, the people had been fasting at certain times of the year. The messages here urge the people to practice justice as the true form of fasting and to focus on rebuilding. Then Zechariah announces that all their fasts will become joyful celebrations.
+  - type: usfm
+    marker: ip
+    children:
+    - type: text
+      text: 'The book’s final section predicts that after the people suffer under bad shepherds, God will send a righteous king from David’s line. The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' will triumph over every enemy and be king over the whole earth.'

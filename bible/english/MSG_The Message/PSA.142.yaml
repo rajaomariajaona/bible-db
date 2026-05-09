@@ -2,60 +2,135 @@ document_id: PSA.142,97
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: 'I cry out loudly to '
-  - type: text
-    content: God
-  - type: text
-    content: ','
-  - type: text
-    content: 'loudly I plead with '
-  - type: text
-    content: God
-  - type: text
-    content: ' for mercy.'
-  - type: text
-    content: I spill out all my complaints before him,
-  - type: text
-    content: 'and spell out my troubles in detail:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I cry out loudly to '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'loudly I plead with '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ' for mercy.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: I spill out all my complaints before him,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and spell out my troubles in detail:'
   '3':
-  - type: text
-    content: “As I sink in despair, my spirit ebbing away,
-  - type: text
-    content: you know how I’m feeling,
-  - type: text
-    content: Know the danger I’m in,
-  - type: text
-    content: the traps hidden in my path.
-  - type: text
-    content: Look right, look left—
-  - type: text
-    content: there’s not a soul who cares what happens!
-  - type: text
-    content: I’m up against the wall, with no exit—
-  - type: text
-    content: it’s just me, all alone.
-  - type: text
-    content: 'I cry out, '
-  - type: text
-    content: God
-  - type: text
-    content: ', call out:'
-  - type: text
-    content: ‘You’re my last chance, my only hope for life!’
-  - type: text
-    content: Oh listen, please listen;
-  - type: text
-    content: I’ve never been this low.
-  - type: text
-    content: Rescue me from those who are hunting me down;
-  - type: text
-    content: I’m no match for them.
-  - type: text
-    content: Get me out of this dungeon
-  - type: text
-    content: so I can thank you in public.
-  - type: text
-    content: Your people will form a circle around me
-  - type: text
-    content: and you’ll bring me showers of blessing!”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: “As I sink in despair, my spirit ebbing away,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: you know how I’m feeling,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Know the danger I’m in,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: the traps hidden in my path.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Look right, look left—
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: there’s not a soul who cares what happens!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: I’m up against the wall, with no exit—
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: it’s just me, all alone.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I cry out, '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ', call out:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: ‘You’re my last chance, my only hope for life!’
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Oh listen, please listen;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: I’ve never been this low.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Rescue me from those who are hunting me down;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: I’m no match for them.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Get me out of this dungeon
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: so I can thank you in public.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Your people will form a circle around me
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and you’ll bring me showers of blessing!”

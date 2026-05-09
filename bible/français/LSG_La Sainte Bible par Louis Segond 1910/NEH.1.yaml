@@ -2,51 +2,196 @@ document_id: NEH.1,93
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Prière de Néhémie pour les enfants d’Israël
-  - type: heading
-    content: 'V. 1-11: cf. Ps 102:14, 15; 137:1, 5. (Da 9:3-19. Esd 9:5-15.)'
-  - type: text
-    content: 'Paroles de Néhémie, fils de Hacalia. Au mois de Kisleu, la vingtième année, comme j’étais à Suse, dans la capitale, '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Prière de Néhémie pour les enfants d’Israël
+    marker-yv: yv-h
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: 'V. 1-11: cf. Ps 102:14, 15; 137:1, 5. (Da 9:3-19. Esd 9:5-15.)'
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Paroles de Néhémie, fils de Hacalia. Au mois de Kisleu, la vingtième année, comme j’étais à Suse, dans la capitale, '
   '10':
-  - type: text
-    content: 'Ils sont tes serviteurs et ton peuple, que tu as rachetés par ta grande puissance et par ta main forte. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ils sont tes serviteurs et ton peuple, que tu as rachetés par ta grande puissance et par ta main forte. '
   '11':
-  - type: text
-    content: Ah! Seigneur, que ton oreille soit attentive à la prière de ton serviteur, et à la prière de tes serviteurs qui veulent craindre ton nom! Donne aujourd’hui du succès à ton serviteur, et fais-lui trouver grâce devant cet homme! J’étais alors échanson du roi.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Ah! Seigneur, que ton oreille soit attentive à la prière de ton serviteur, et à la prière de tes serviteurs qui veulent craindre ton nom! Donne aujourd’hui du succès à ton serviteur, et fais-lui trouver grâce devant cet homme! J’étais alors échanson du roi.
   '2':
-  - type: text
-    content: 'Hanani, l’un de mes frères, et quelques hommes arrivèrent de Juda. Je les questionnai au sujet des Juifs réchappés qui étaient restés de la captivité, et au sujet de Jérusalem. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Hanani, l’un de mes frères, et quelques hommes arrivèrent de Juda. Je les questionnai au sujet des Juifs réchappés qui étaient restés de la captivité, et au sujet de Jérusalem. '
   '3':
-  - type: text
-    content: 'Ils me répondirent: Ceux qui sont restés de la captivité sont là dans la province, au comble du malheur et de l’opprobre; les murailles de Jérusalem sont en ruines, et ses portes sont consumées par le feu. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ils me répondirent: Ceux qui sont restés de la captivité sont là dans la province, au comble du malheur et de l’opprobre; les murailles de Jérusalem sont en ruines, et ses portes sont consumées par le feu. '
   '4':
-  - type: text
-    content: 'Lorsque j’entendis ces choses, je m’assis, je pleurai, et je fus plusieurs jours dans la désolation. Je jeûnai et je priai devant le Dieu des cieux, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Lorsque j’entendis ces choses, je m’assis, je pleurai, et je fus plusieurs jours dans la désolation. Je jeûnai et je priai devant le Dieu des cieux, '
   '5':
-  - type: text
-    content: 'et je dis: '
-  - type: note
-    content: Da 9:4.
-  - type: text
-    content: 'O Éternel, Dieu des cieux, Dieu grand et redoutable, '
-  - type: note
-    content: Ex 20:6; 34:7. No 14:18. De 5:10. Ps 86:15; 103:8; 145:8.
-  - type: text
-    content: 'toi qui gardes ton alliance et qui fais miséricorde à ceux qui t’aiment et qui observent tes commandements! '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'et je dis: '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Da 9:4
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'O Éternel, Dieu des cieux, Dieu grand et redoutable, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ex 20:6
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 34:7
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: No 14:18
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: De 5:10
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 86:15
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 103:8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 145:8
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'toi qui gardes ton alliance et qui fais miséricorde à ceux qui t’aiment et qui observent tes commandements! '
   '6':
-  - type: text
-    content: 'Que ton oreille soit attentive et que tes yeux soient ouverts: écoute la prière que ton serviteur t’adresse en ce moment, jour et nuit, pour tes serviteurs les enfants d’Israël, en confessant les péchés des enfants d’Israël, nos péchés contre toi; car moi et la maison de mon père, nous avons péché. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Que ton oreille soit attentive et que tes yeux soient ouverts: écoute la prière que ton serviteur t’adresse en ce moment, jour et nuit, pour tes serviteurs les enfants d’Israël, en confessant les péchés des enfants d’Israël, nos péchés contre toi; car moi et la maison de mon père, nous avons péché. '
   '7':
-  - type: text
-    content: 'Nous t’avons offensé, et nous n’avons point observé les commandements, les lois et les ordonnances que tu prescrivis à Moïse, ton serviteur. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Nous t’avons offensé, et nous n’avons point observé les commandements, les lois et les ordonnances que tu prescrivis à Moïse, ton serviteur. '
   '8':
-  - type: text
-    content: 'Souviens-toi de cette '
-  - type: note
-    content: De 4:25, 26, 27; 30:2, 3, 4.
-  - type: text
-    content: 'parole que tu donnas ordre à Moïse, ton serviteur, de prononcer. Lorsque vous pécherez, je vous disperserai parmi les peuples; '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Souviens-toi de cette '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: De 4:25
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '26'
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '27'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 30:2
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '3'
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '4'
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'parole que tu donnas ordre à Moïse, ton serviteur, de prononcer. Lorsque vous pécherez, je vous disperserai parmi les peuples; '
   '9':
-  - type: text
-    content: 'mais si vous revenez à moi, et si vous observez mes commandements et les mettez en pratique, alors, quand vous seriez exilés à l’extrémité du ciel, de là je vous rassemblerai et je vous ramènerai dans le lieu que j’ai choisi pour y faire résider mon nom. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'mais si vous revenez à moi, et si vous observez mes commandements et les mettez en pratique, alors, quand vous seriez exilés à l’extrémité du ciel, de là je vous rassemblerai et je vous ramènerai dans le lieu que j’ai choisi pour y faire résider mon nom. '

@@ -2,44 +2,98 @@ document_id: PSA.54,97
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: God, for your sake, help me!
-  - type: text
-    content: Use your influence to clear me.
-  - type: text
-    content: Listen, God—I’m desperate.
-  - type: text
-    content: Don’t be too busy to hear me.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: God, for your sake, help me!
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Use your influence to clear me.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Listen, God—I’m desperate.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Don’t be too busy to hear me.
   '3':
-  - type: text
-    content: Outlaws are out to get me,
-  - type: text
-    content: hit men are trying to kill me.
-  - type: text
-    content: Nothing will stop them;
-  - type: text
-    content: God means nothing to them.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Outlaws are out to get me,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: hit men are trying to kill me.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Nothing will stop them;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: God means nothing to them.
   '4':
-  - type: text
-    content: Oh, look! God’s right here helping!
-  - type: text
-    content: God
-  - type: text
-    content: ’s on my side,
-  - type: text
-    content: Evil is looping back on my enemies.
-  - type: text
-    content: Don’t let up! Finish them off!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Oh, look! God’s right here helping!
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ’s on my side,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Evil is looping back on my enemies.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Don’t let up! Finish them off!
   '6':
-  - type: text
-    content: I’m ready now to worship, so ready.
-  - type: text
-    content: 'I thank you, '
-  - type: text
-    content: God
-  - type: text
-    content: —you’re so good.
-  - type: text
-    content: You got me out of every scrape,
-  - type: text
-    content: and I saw my enemies get it.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: I’m ready now to worship, so ready.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'I thank you, '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: —you’re so good.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: You got me out of every scrape,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and I saw my enemies get it.

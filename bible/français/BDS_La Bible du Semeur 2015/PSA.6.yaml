@@ -2,67 +2,171 @@ document_id: PSA.6,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Au secours !
-  - type: text
-    content: Au chef de chœur. Un psaume de David, à chanter avec accompagnement de harpes à huit cordes
-  - type: note
-    content: 'Sens incertain. Autre traduction : à l’octave (inférieure), c’est-à-dire pour voix de basse ou instruments à notes graves.'
-  - type: text
-    content: .
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Au secours !
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: Au chef de chœur. Un psaume de David, à chanter avec accompagnement de harpes à huit cordes
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '6.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Sens incertain. Autre traduction : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'à l’octave '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: (inférieure), c’est-à-dire pour voix de basse ou instruments à notes graves.
+      marker-yv: yv-n
+    - type: text
+      text: .
   '10':
-  - type: text
-    content: L’Eternel exauce ╵mes supplications.
-  - type: text
-    content: L’Eternel accueille ╵ma prière.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: L’Eternel exauce ╵mes supplications.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: L’Eternel accueille ╵ma prière.
   '11':
-  - type: text
-    content: Tous mes ennemis ╵seront dans la honte ╵et dans l’épouvante,
-  - type: text
-    content: ils reculeront ╵soudain, tout honteux.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Tous mes ennemis ╵seront dans la honte ╵et dans l’épouvante,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ils reculeront ╵soudain, tout honteux.
   '2':
-  - type: text
-    content: Eternel, mon Dieu, ╵malgré ta colère, ╵ne me punis pas
-  - type: text
-    content: et, dans ton courroux, ╵ne me châtie pas !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Eternel, mon Dieu, ╵malgré ta colère, ╵ne me punis pas
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et, dans ton courroux, ╵ne me châtie pas !
   '3':
-  - type: text
-    content: Eternel, ╵aie pitié de moi, ╵car je suis sans force.
-  - type: text
-    content: O Eternel, guéris-moi, ╵car de tout mon être, ╵vois, je suis dans l’épouvante.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Eternel, ╵aie pitié de moi, ╵car je suis sans force.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: O Eternel, guéris-moi, ╵car de tout mon être, ╵vois, je suis dans l’épouvante.
   '4':
-  - type: text
-    content: Je suis en plein désarroi.
-  - type: text
-    content: Et toi, Eternel, ╵quand donc interviendras-tu ?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Je suis en plein désarroi.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et toi, Eternel, ╵quand donc interviendras-tu ?
   '5':
-  - type: text
-    content: Ne voudrais-tu pas ╵revenir vers moi ╵pour me délivrer ?
-  - type: text
-    content: Dans ton amour, sauve-moi !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Ne voudrais-tu pas ╵revenir vers moi ╵pour me délivrer ?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Dans ton amour, sauve-moi !
   '6':
-  - type: text
-    content: Car ceux qui sont morts ╵ne sont plus capables ╵de parler de toi !
-  - type: text
-    content: Qui peut te louer ╵au séjour des morts ?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Car ceux qui sont morts ╵ne sont plus capables ╵de parler de toi !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Qui peut te louer ╵au séjour des morts ?
   '7':
-  - type: text
-    content: Or, à force de gémir, ╵je suis épuisé,
-  - type: text
-    content: et, durant la nuit, ╵sur mon lit, je pleure ;
-  - type: text
-    content: ma couche est trempée, ╵inondée de larmes.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Or, à force de gémir, ╵je suis épuisé,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et, durant la nuit, ╵sur mon lit, je pleure ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ma couche est trempée, ╵inondée de larmes.
   '8':
-  - type: text
-    content: Mes yeux sont usés, ╵tant j’ai de chagrin, ╵ils n’en peuvent plus.
-  - type: text
-    content: Ce sont tous mes ennemis ╵qui en sont la cause.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mes yeux sont usés, ╵tant j’ai de chagrin, ╵ils n’en peuvent plus.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Ce sont tous mes ennemis ╵qui en sont la cause.
   '9':
-  - type: text
-    content: Retirez-vous tous, ╵artisans du mal !
-  - type: text
-    content: L’Eternel entend mes pleurs
-  - type: note
-    content: Réminiscence en Mt 7.23 ; Lc 13.27.
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Retirez-vous tous, ╵artisans du mal !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: L’Eternel entend mes pleurs
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '6.9 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Réminiscence en Mt 7.23 ; Lc 13.27.
+      marker-yv: yv-n
+    - type: text
+      text: .

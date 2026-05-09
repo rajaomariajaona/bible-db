@@ -2,81 +2,180 @@ document_id: PSA.146,97
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: Hallelujah!
-  - type: text
-    content: 'O my soul, praise '
-  - type: text
-    content: God
-  - type: text
-    content: '!'
-  - type: text
-    content: 'All my life long I’ll praise '
-  - type: text
-    content: God
-  - type: text
-    content: ','
-  - type: text
-    content: singing songs to my God as long as I live.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Hallelujah!
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'O my soul, praise '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: '!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'All my life long I’ll praise '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: singing songs to my God as long as I live.
   '10':
-  - type: text
-    content: ' '
-  - type: text
-    content: God
-  - type: text
-    content: ’s in charge—
-  - type: text
-    content: always.
-  - type: text
-    content: Zion’s God is God for good!
-  - type: text
-    content: Hallelujah!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ’s in charge—
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: always.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Zion’s God is God for good!
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Hallelujah!
   '3':
-  - type: text
-    content: Don’t put your life in the hands of experts
-  - type: text
-    content: 'who know nothing of life, of '
-  - type: text
-    content: salvation
-  - type: text
-    content: ' life.'
-  - type: text
-    content: Mere humans don’t have what it takes;
-  - type: text
-    content: when they die, their projects die with them.
-  - type: text
-    content: Instead, get help from the God of Jacob,
-  - type: text
-    content: 'put your hope in '
-  - type: text
-    content: God
-  - type: text
-    content: ' and know real blessing!'
-  - type: text
-    content: God
-  - type: text
-    content: ' made sky and soil,'
-  - type: text
-    content: sea and all the fish in it.
-  - type: text
-    content: He always does what he says—
-  - type: text
-    content: he defends the wronged,
-  - type: text
-    content: he feeds the hungry.
-  - type: text
-    content: God
-  - type: text
-    content: ' frees prisoners—'
-  - type: text
-    content: he gives sight to the blind,
-  - type: text
-    content: he lifts up the fallen.
-  - type: text
-    content: God
-  - type: text
-    content: ' loves good people, protects strangers,'
-  - type: text
-    content: takes the side of orphans and widows,
-  - type: text
-    content: but makes short work of the wicked.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Don’t put your life in the hands of experts
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'who know nothing of life, of '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: salvation
+    - type: text
+      text: ' life.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mere humans don’t have what it takes;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: when they die, their projects die with them.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Instead, get help from the God of Jacob,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'put your hope in '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ' and know real blessing!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ' made sky and soil,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: sea and all the fish in it.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: He always does what he says—
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: he defends the wronged,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: he feeds the hungry.
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ' frees prisoners—'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: he gives sight to the blind,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: he lifts up the fallen.
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ' loves good people, protects strangers,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: takes the side of orphans and widows,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: but makes short work of the wicked.

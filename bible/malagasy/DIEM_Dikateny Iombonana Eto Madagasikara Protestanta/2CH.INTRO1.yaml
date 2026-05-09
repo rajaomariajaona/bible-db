@@ -2,19 +2,46 @@ document_id: 2CH.INTRO1,396
 type_code: plt
 verses:
   '1':
-  - type: text
-    content: Sava lalana
-  - type: text
-    content: –(Jereo ny Sava lalana momba ny 1 Tantara).
-  - type: text
-    content: 'Ny Boky faharoan’ny Tantara dia misy fizaràna roa: ny nanjakàn’i Salômôna, zanakalahin’i Davida (toko 1–9), ary ny nanjakàn’ireo taranany teo amin’ny fanjakàn’i Joda, hatramin’ny nahazoan’i Nebokadnetsara an’i Jerosalema sy ny sesitany tany Babilôna (toko 10–36).'
-  - type: text
-    content: Ny andininy roa farany amin’ny boky, no mampifandray azy amin’ny Bokin’i Hezrà sy ny Bokin’i Nehemià, sady manainga antsika hanohy ny famakiana ny tantaran’ny vahoaka israelita ao amin’ireo boky ireo. Tsiahivin’ireo manko ny didim-panjakana izay navoakan’ny amperôra Kirôsa ka nahazoan’ny Jiosy hanorina indray ny
-  - type: text
-    content: ' '
-  - type: text
-    content: tempolin’i Jerosalema
-  - type: text
-    content: '. '
-  - type: text
-    content: Io didim-panjakana io dia voatsiahy manontolo ao amin’ny fanombohan’ny bokin’i Hezrà.
+  - type: usfm
+    marker: imt1
+    children:
+    - type: text
+      text: Sava lalana
+  - type: usfm
+    marker: ip
+    children:
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: –(Jereo ny Sava lalana momba ny 1 Tantara).
+  - type: usfm
+    marker: ip
+    children:
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: 'Ny Boky faharoan’ny Tantara dia misy fizaràna roa: ny nanjakàn’i Salômôna, zanakalahin’i Davida (toko 1–9), ary ny nanjakàn’ireo taranany teo amin’ny fanjakàn’i Joda, hatramin’ny nahazoan’i Nebokadnetsara an’i Jerosalema sy ny sesitany tany Babilôna (toko 10–36).'
+  - type: usfm
+    marker: ip
+    children:
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: Ny andininy roa farany amin’ny boky, no mampifandray azy amin’ny Bokin’i Hezrà sy ny Bokin’i Nehemià, sady manainga antsika hanohy ny famakiana ny tantaran’ny vahoaka israelita ao amin’ireo boky ireo. Tsiahivin’ireo manko ny didim-panjakana izay navoakan’ny amperôra Kirôsa ka nahazoan’ny Jiosy hanorina indray ny
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: tempolin’i Jerosalema
+    - type: text
+      text: '. '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: Io didim-panjakana io dia voatsiahy manontolo ao amin’ny fanombohan’ny bokin’i Hezrà.

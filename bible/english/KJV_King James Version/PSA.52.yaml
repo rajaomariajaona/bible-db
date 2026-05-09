@@ -2,93 +2,189 @@ document_id: PSA.52,1
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: 'To the chief Musician, Maschil, '
-  - type: text
-    content: A Psalm
-  - type: text
-    content: ' of David, when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech.'
-  - type: text
-    content: Why boastest thou thyself in mischief, O mighty man?
-  - type: text
-    content: 'The goodness of God '
-  - type: text
-    content: endureth
-  - type: text
-    content: ' continually.'
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'To the chief Musician, Maschil, '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: A Psalm
+    - type: text
+      text: ' of David, when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Why boastest thou thyself in mischief, O mighty man?
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'The goodness of God '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: endureth
+    - type: text
+      text: ' continually.'
   '2':
-  - type: text
-    content: Thy tongue deviseth mischiefs;
-  - type: text
-    content: Like a sharp razor, working deceitfully.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Thy tongue deviseth mischiefs;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Like a sharp razor, working deceitfully.
   '3':
-  - type: text
-    content: Thou lovest evil more than good;
-  - type: text
-    content: And
-  - type: text
-    content: ' lying rather than to speak righteousness. '
-  - type: text
-    content: Selah.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Thou lovest evil more than good;
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: And
+    - type: text
+      text: ' lying rather than to speak righteousness. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Selah.
   '4':
-  - type: text
-    content: Thou lovest all devouring words,
-  - type: text
-    content: 'O '
-  - type: text
-    content: thou
-  - type: text
-    content: ' deceitful tongue.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Thou lovest all devouring words,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'O '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: thou
+    - type: text
+      text: ' deceitful tongue.'
   '5':
-  - type: text
-    content: God shall likewise destroy thee for ever,
-  - type: text
-    content: 'He shall take thee away, and pluck thee out of '
-  - type: text
-    content: thy
-  - type: text
-    content: ' dwelling place, and root thee out of the land of the living. '
-  - type: text
-    content: Selah.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: God shall likewise destroy thee for ever,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'He shall take thee away, and pluck thee out of '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: thy
+    - type: text
+      text: ' dwelling place, and root thee out of the land of the living. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Selah.
   '6':
-  - type: text
-    content: The righteous also shall see, and fear,
-  - type: text
-    content: 'And shall laugh at him:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: The righteous also shall see, and fear,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'And shall laugh at him:'
   '7':
-  - type: text
-    content: 'Lo, '
-  - type: text
-    content: this is
-  - type: text
-    content: ' the man '
-  - type: text
-    content: that
-  - type: text
-    content: ' made not God his strength;'
-  - type: text
-    content: 'But trusted in the abundance of his riches, '
-  - type: text
-    content: and
-  - type: text
-    content: ' strengthened himself in his wickedness.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Lo, '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: this is
+    - type: text
+      text: ' the man '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: that
+    - type: text
+      text: ' made not God his strength;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'But trusted in the abundance of his riches, '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: and
+    - type: text
+      text: ' strengthened himself in his wickedness.'
   '8':
-  - type: text
-    content: 'But I '
-  - type: text
-    content: am
-  - type: text
-    content: ' like a green olive tree in the house of God:'
-  - type: text
-    content: I trust in the mercy of God for ever and ever.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'But I '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: am
+    - type: text
+      text: ' like a green olive tree in the house of God:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: I trust in the mercy of God for ever and ever.
   '9':
-  - type: text
-    content: 'I will praise thee for ever, because thou hast done '
-  - type: text
-    content: 'it:'
-  - type: text
-    content: 'And I will wait on thy name; for '
-  - type: text
-    content: it is
-  - type: text
-    content: ' good before thy saints.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I will praise thee for ever, because thou hast done '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: 'it:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'And I will wait on thy name; for '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: it is
+    - type: text
+      text: ' good before thy saints.'

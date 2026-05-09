@@ -2,155 +2,533 @@ document_id: SNG.1,21
 type_code: fra
 verses:
   '1':
-  - type: text
-    content: Le plus beau des chants, composé par Salomon
-  - type: note
-    content: Voir l’introduction. Le roi est encore mentionné en 1.5 ; 3.7, 9, 11 ; 8.11-12.
-  - type: text
-    content: .
-  - type: heading
-    content: Célébrons l’amour
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Le plus beau des chants, composé par Salomon
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Voir l’introduction. Le roi est encore mentionné en 1.5 ; 3.7, 9, 11 ; 8.11-12.
+      marker-yv: yv-n
+    - type: text
+      text: .
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Célébrons l’amour
+    marker-yv: yv-h
   '10':
-  - type: text
-    content: Tes joues sont belles ╵entre les perles,
-  - type: text
-    content: ton cou est beau ╵dans tes colliers ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Tes joues sont belles ╵entre les perles,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ton cou est beau ╵dans tes colliers ;
   '11':
-  - type: text
-    content: nous te ferons ╵des perles d’or
-  - type: text
-    content: tout incrustées ╵de points d’argent. »
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: nous te ferons ╵des perles d’or
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: tout incrustées ╵de points d’argent. »
   '12':
-  - type: text
-    content: « Jusqu’à ce que le roi ╵parvienne à son enclos
-  - type: note
-    content: 'Autre traduction : pendant que le roi mangeait à sa table.'
-  - type: text
-    content: ','
-  - type: text
-    content: mon nard
-  - type: note
-    content: Plante aromatique originaire de l’Inde.
-  - type: text
-    content: ' exhale son parfum.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: « Jusqu’à ce que le roi ╵parvienne à son enclos
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1.12 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Autre traduction : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: pendant que le roi mangeait à sa table.
+      marker-yv: yv-n
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: mon nard
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1.12 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Plante aromatique originaire de l’Inde.
+      marker-yv: yv-n
+    - type: text
+      text: ' exhale son parfum.'
   '13':
-  - type: text
-    content: Car mon bien-aimé est pour moi ╵comme un sachet de myrrhe
-  - type: note
-    content: La myrrhe était une gomme aromatique extraite du balsamier qui pousse en Arabie, en Ethiopie et aux Indes. Elle était utilisée comme parfum (Est 2.12 ; Pr 7.17 ; Ps 45.9  ; comparer Mt 2.2, 11) ; elle entrait aussi dans la composition de l’huile sainte (Ex 30.23).
-  - type: text
-    content: ','
-  - type: text
-    content: entre mes seins ╵il passera la nuit.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Car mon bien-aimé est pour moi ╵comme un sachet de myrrhe
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1.13 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'La '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'myrrhe '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'était une gomme aromatique extraite du balsamier qui pousse en Arabie, en Ethiopie et aux Indes. Elle était utilisée comme parfum (Est 2.12 ; Pr 7.17 ; Ps 45.9  ; comparer '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Mt 2.2
+        - type: text
+          text: ', '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: '11'
+        - type: text
+          text: ) ; elle entrait aussi dans la composition de l’huile sainte (
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Ex 30.23
+        - type: text
+          text: ).
+      marker-yv: yv-n
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: entre mes seins ╵il passera la nuit.
   '14':
-  - type: text
-    content: Oui, mon bien-aimé est pour moi ╵un bouquet de henné
-  - type: note
-    content: Plante aromatique utilisée comme parfum.
-  - type: text
-    content: des vignes d’Eyn-Guédi
-  - type: note
-    content: Oasis alimentée par une source, à l’ouest de la mer Morte, où poussent beaucoup de plantes aromatiques.
-  - type: text
-    content: . »
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Oui, mon bien-aimé est pour moi ╵un bouquet de henné
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1.14 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Plante aromatique utilisée comme parfum.
+      marker-yv: yv-n
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: des vignes d’Eyn-Guédi
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1.14 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Oasis alimentée par une source, à l’ouest de la mer Morte, où poussent beaucoup de plantes aromatiques.
+      marker-yv: yv-n
+    - type: text
+      text: . »
   '15':
-  - type: text
-    content: « Que tu es belle, ╵ma bien-aimée, ╵que tu es belle !
-  - type: text
-    content: Tes yeux ressemblent ╵à des colombes. »
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: « Que tu es belle, ╵ma bien-aimée, ╵que tu es belle !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Tes yeux ressemblent ╵à des colombes. »
   '16':
-  - type: text
-    content: « Que tu es beau, mon bien-aimé, ╵tu es superbe !
-  - type: text
-    content: Dans la verdure est notre lit.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: « Que tu es beau, mon bien-aimé, ╵tu es superbe !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Dans la verdure est notre lit.
   '17':
-  - type: text
-    content: Les solives de nos maisons, ╵ce sont les cèdres,
-  - type: text
-    content: et les cyprès sont nos lambris. »
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Les solives de nos maisons, ╵ce sont les cèdres,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et les cyprès sont nos lambris. »
   '2':
-  - type: text
-    content: « Ah ! que ta bouche ╵me couvre de baisers,
-  - type: text
-    content: car ton amour ╵est plus exaltant que le vin.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: « Ah ! que ta bouche ╵me couvre de baisers,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: car ton amour ╵est plus exaltant que le vin.
   '3':
-  - type: text
-    content: Combien suaves ╵sont tes parfums,
-  - type: text
-    content: ton nom est comparable
-  - type: note
-    content: 'Autre traduction : et ta renommée est comparable.'
-  - type: text
-    content: ' ╵à une huile odorante ╵qui se répand.'
-  - type: text
-    content: Voilà pourquoi ╵les jeunes filles ╵sont éprises de toi.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Combien suaves ╵sont tes parfums,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ton nom est comparable
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1.3 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Autre traduction : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: et ta renommée est comparable.
+      marker-yv: yv-n
+    - type: text
+      text: ' ╵à une huile odorante ╵qui se répand.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Voilà pourquoi ╵les jeunes filles ╵sont éprises de toi.
   '4':
-  - type: text
-    content: Entraîne-moi derrière toi ! ╵Courons ensemble ! »
-  - type: text
-    content: « Le roi m’a fait entrer ╵dans ses appartements. »
-  - type: heading
-    content: Le chœur
-  - type: text
-    content: « Réjouissons-nous, ╵soyons dans l’allégresse ╵à ton sujet !
-  - type: text
-    content: Célébrons ton amour ╵plus exaltant que le bon vin !
-  - type: text
-    content: C’est bien avec raison ╵qu’on est épris de toi. »
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Entraîne-moi derrière toi ! ╵Courons ensemble ! »
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: « Le roi m’a fait entrer ╵dans ses appartements. »
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Le chœur
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: « Réjouissons-nous, ╵soyons dans l’allégresse ╵à ton sujet !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Célébrons ton amour ╵plus exaltant que le bon vin !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: C’est bien avec raison ╵qu’on est épris de toi. »
   '5':
-  - type: text
-    content: « O filles de Jérusalem
-  - type: note
-    content: Voir v. 3.
-  - type: text
-    content: ', ╵je suis noiraude, ╵et pourtant, je suis belle,'
-  - type: text
-    content: pareille aux tentes de Qédar
-  - type: note
-    content: 'Qédar: tribu arabe fixée au sud-est d’Edom et habitant sous des tentes (Jr 49.29) faites du poil des chèvres noires de ces régions. Le mot Qédar vient d’une racine hébraïque signifiant : être noir.'
-  - type: text
-    content: ', ╵aux tentures de Salomon.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: « O filles de Jérusalem
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1.5 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Voir v. 3.
+      marker-yv: yv-n
+    - type: text
+      text: ', ╵je suis noiraude, ╵et pourtant, je suis belle,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: pareille aux tentes de Qédar
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1.5 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Qédar
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: ': '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: tribu arabe fixée au sud-est d’Edom et habitant sous des tentes (
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Jr 49.29
+        - type: text
+          text: ') faites du poil des chèvres noires de ces régions. Le mot '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Qédar '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'vient d’une racine hébraïque signifiant : être noir.'
+      marker-yv: yv-n
+    - type: text
+      text: ', ╵aux tentures de Salomon.'
   '6':
-  - type: text
-    content: 'Ne vous étonnez pas ╵si je suis bien brunie :'
-  - type: text
-    content: le soleil m’a hâlée,
-  - type: text
-    content: car les fils de ma mère, ╵irrités contre moi,
-  - type: text
-    content: m’ont fait garder les vignes,
-  - type: text
-    content: oui, mais ma vigne à moi, ╵je ne l’ai pas gardée.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Ne vous étonnez pas ╵si je suis bien brunie :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: le soleil m’a hâlée,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: car les fils de ma mère, ╵irrités contre moi,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: m’ont fait garder les vignes,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: oui, mais ma vigne à moi, ╵je ne l’ai pas gardée.
   '7':
-  - type: text
-    content: O toi que mon cœur aime,
-  - type: text
-    content: dis-moi où tu fais paître ╵ton troupeau de brebis,
-  - type: text
-    content: où tu le feras reposer ╵à l’heure de midi,
-  - type: text
-    content: pour que je ne sois pas ╵comme une femme errante
-  - type: note
-    content: 'errante: comme une vagabonde, une coureuse qui cherche l’aventure ; ou : une voilée, c’est-à-dire une prostituée (Gn 38.14-15).'
-  - type: text
-    content: ','
-  - type: text
-    content: rôdant près des troupeaux ╵que gardent tes compagnons. »
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: O toi que mon cœur aime,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: dis-moi où tu fais paître ╵ton troupeau de brebis,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: où tu le feras reposer ╵à l’heure de midi,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: pour que je ne sois pas ╵comme une femme errante
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1.7 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: errante
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: ': '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'comme une vagabonde, une coureuse qui cherche l’aventure ; ou : une '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'voilée, '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: c’est-à-dire une prostituée (
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Gn 38.14-15
+        - type: text
+          text: ).
+      marker-yv: yv-n
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: rôdant près des troupeaux ╵que gardent tes compagnons. »
   '8':
-  - type: text
-    content: « Si tu ne le sais pas, ╵ô toi, la plus belle des femmes,
-  - type: text
-    content: va donc suivre les traces ╵du troupeau de brebis,
-  - type: text
-    content: fais paître tes chevrettes ╵près des huttes des pâtres. »
-  - type: heading
-    content: Avec les yeux de l’amour
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: « Si tu ne le sais pas, ╵ô toi, la plus belle des femmes,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: va donc suivre les traces ╵du troupeau de brebis,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: fais paître tes chevrettes ╵près des huttes des pâtres. »
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Avec les yeux de l’amour
+    marker-yv: yv-h
   '9':
-  - type: text
-    content: « O mon amie, ╵je te trouve pareille
-  - type: text
-    content: à une jument d’attelage ╵du pharaon
-  - type: note
-    content: Voir 1 R 10.29.
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: « O mon amie, ╵je te trouve pareille
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: à une jument d’attelage ╵du pharaon
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1.9 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Voir '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: 1 R 10.29
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: .

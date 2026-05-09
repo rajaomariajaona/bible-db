@@ -2,77 +2,213 @@ document_id: PSA.137,396
 type_code: plt
 verses:
   '1':
-  - type: heading
-    content: SALAMO Teo amoron’ny onin’i Babilôna
-  - type: text
-    content: 'Teo amoron’ny onin’i '
-  - type: text
-    content: Babilôna
-  - type: text
-    content: ' no nipetraka izahay'
-  - type: text
-    content: 'ka nitomany mafy nahatsiaro an’i '
-  - type: text
-    content: Tsiôna
-  - type: text
-    content: '!'
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: 'SALAMO Teo amoron’ny onin’i '
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: Babilôna
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Teo amoron’ny onin’i '
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: Babilôna
+    - type: text
+      text: ' no nipetraka izahay'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'ka nitomany mafy nahatsiaro an’i '
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: Tsiôna
+    - type: text
+      text: '!'
   '2':
-  - type: text
-    content: Ny hazomalahelo izay teny ho eny
-  - type: text
-    content: no nanantonanay ny lokanganay.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Ny hazomalahelo izay teny ho eny
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: no nanantonanay ny lokanganay.
   '3':
-  - type: text
-    content: Dia avy ny mpamabo anay nangata-kira taminay;
-  - type: text
-    content: 'avy ny mpifaoka anay nitaky antsam-pifaliana hoe:'
-  - type: text
-    content: «Mba ihirao amin’ny hiran’i Tsiôna izahay!»
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Dia avy ny mpamabo anay nangata-kira taminay;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'avy ny mpifaoka anay nitaky antsam-pifaliana hoe:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: «Mba ihirao amin’ny hiran’i Tsiôna izahay!»
   '4':
-  - type: text
-    content: Fa dia hataonay ahoana
-  - type: text
-    content: no fihira ny hiran’ny TOMPO
-  - type: text
-    content: atỳ an-tanin’olona atỳ?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Fa dia hataonay ahoana
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: no fihira ny hiran’ny TOMPO
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: atỳ an-tanin’olona atỳ?
   '5':
-  - type: text
-    content: Raha manadino anao aho, ry Jerosalema ô,
-  - type: text
-    content: dia aoka ho tonga malemy ny tanako ankavanana!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Raha manadino anao aho, ry Jerosalema ô,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: dia aoka ho tonga malemy ny tanako ankavanana!
   '6':
-  - type: text
-    content: Raha tsy mahatsiaro anao intsony aho, ry Jerosalema ô,
-  - type: text
-    content: raha tsy ianao no ataoko antom-pifaliako
-  - type: text
-    content: ambony indrindra,
-  - type: text
-    content: dia aoka hiraikitra amin’ny lanilaniko ny lelako
-  - type: note
-    content: Ny tanana maina sy ny lela raikitra dia toa midika hoe tsy hahay mitendry lokanga sy tsy hahay mihira intsony ilay mpanao salamo.
-  - type: text
-    content: '!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Raha tsy mahatsiaro anao intsony aho, ry Jerosalema ô,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: raha tsy ianao no ataoko antom-pifaliako
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ambony indrindra,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: dia aoka hiraikitra amin’ny lanilaniko ny lelako
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '137.6 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Ny '
+      - type: usfm
+        marker: it
+        children:
+        - type: text
+          text: tanana maina sy ny lela raikitra
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' dia toa midika hoe tsy hahay mitendry lokanga sy tsy hahay mihira intsony ilay mpanao salamo.'
+      marker-yv: yv-n
+    - type: text
+      text: '!'
   '7':
-  - type: text
-    content: TOMPO ô, tsarovy ny nafitsoky ny Edômita;
-  - type: text
-    content: fa tamin’ny andro nandravana an’i Jerosalema,
-  - type: text
-    content: 'dia ireo no nandrisika hoe: «Fongory io tanàna io,'
-  - type: text
-    content: eny, fongory hatramin’ny fanorenany!»
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: TOMPO ô, tsarovy ny nafitsoky ny Edômita;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: fa tamin’ny andro nandravana an’i Jerosalema,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'dia ireo no nandrisika hoe: «Fongory io tanàna io,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: eny, fongory hatramin’ny fanorenany!»
   '8':
-  - type: text
-    content: Ianao kosa, ry tanànan’i Babilôna ô, dia efa horavana.
-  - type: text
-    content: Sambatra izay hampanody anao ny nafitsokao anay
-  - type: note
-    content: 'efa horavana: betsaka ny dkt tranainy no ahitana hoe mpandrava. –famaizana an’i Babilôna: jereo Apôk 18.6.'
-  - type: text
-    content: '!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Ianao kosa, ry tanànan’i Babilôna ô, dia efa horavana.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Sambatra izay hampanody anao ny nafitsokao anay
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '137.8 '
+      - type: usfm
+        marker: fk
+        children:
+        - type: text
+          text: 'efa horavana: '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'betsaka ny dkt tranainy no ahitana hoe '
+      - type: usfm
+        marker: it
+        children:
+        - type: text
+          text: mpandrava
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '. –famaizana an’i Babilôna: jereo Apôk 18.6.'
+      marker-yv: yv-n
+    - type: text
+      text: '!'
   '9':
-  - type: text
-    content: Sambatra izay hanainga ny zanakao madinika
-  - type: text
-    content: ka hanorotoro azy eo ambonin’ny vatolampy!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Sambatra izay hanainga ny zanakao madinika
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ka hanorotoro azy eo ambonin’ny vatolampy!

@@ -2,53 +2,183 @@ document_id: PSA.120,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Délivre-moi !
-  - type: text
-    content: Cantique pour la route vers la demeure de l’Eternel
-  - type: note
-    content: L’expression hébraïque (montée) a été diversement comprise. Selon les auteurs juifs, il s’agirait de cantiques chantés lors de la fête des Cabanes sur les degrés du Temple. Pour d’autres, l’expression se rapporterait à une gradation d’un verset à l’autre. L’interprétation la plus probable consiste à voir dans ces psaumes des cantiques chantés durant les pèlerinages à Jérusalem pour les grandes fêtes annuelles pendant que l’on montait vers la ville sainte, située sur une colline.
-  - type: text
-    content: .
-  - type: text
-    content: Dans ma détresse, ╵j’ai fait appel ╵à l’Eternel,
-  - type: text
-    content: et il m’a répondu.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Délivre-moi !
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: Cantique pour la route vers la demeure de l’Eternel
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '120.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: L’expression hébraïque (
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: montée
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ') a été diversement comprise. Selon les auteurs juifs, il s’agirait de cantiques chantés lors de la fête des Cabanes sur les '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'degrés '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'du Temple. Pour d’autres, l’expression se rapporterait à une gradation d’un verset à l’autre. L’interprétation la plus probable consiste à voir dans ces psaumes des cantiques chantés durant les pèlerinages à Jérusalem pour les grandes fêtes annuelles pendant que l’on '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'montait '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: vers la ville sainte, située sur une colline.
+      marker-yv: yv-n
+    - type: text
+      text: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Dans ma détresse, ╵j’ai fait appel ╵à l’Eternel,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et il m’a répondu.
   '2':
-  - type: text
-    content: O Eternel, ╵délivre-moi ╵des lèvres fausses,
-  - type: text
-    content: des langues mensongères !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: O Eternel, ╵délivre-moi ╵des lèvres fausses,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: des langues mensongères !
   '3':
-  - type: text
-    content: Que te donnera l’Eternel ?
-  - type: text
-    content: Comment récompensera-t-il ╵ta langue mensongère ?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Que te donnera l’Eternel ?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Comment récompensera-t-il ╵ta langue mensongère ?
   '4':
-  - type: text
-    content: Il t’enverra ╵une volée de flèches ╵bien aiguisées
-  - type: text
-    content: avec des braises de genêts
-  - type: note
-    content: 'Autres traductions : une volée de flèches, chargées de braises de genêts ; ou : ta langue mensongère ? – Volée de flèches chargées de braises de genêts.'
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Il t’enverra ╵une volée de flèches ╵bien aiguisées
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: avec des braises de genêts
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '120.4 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Autres traductions : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'une volée de flèches, chargées de braises de genêts ; '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'ou : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: ta langue mensongère ? – Volée de flèches chargées de braises de genêts.
+      marker-yv: yv-n
+    - type: text
+      text: .
   '5':
-  - type: text
-    content: Malheur à moi ! ╵Car je vis à Méshek
-  - type: note
-    content: En Asie Mineure.
-  - type: text
-    content: ', en étranger,'
-  - type: text
-    content: ou parmi les nomades de Qédar.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Malheur à moi ! ╵Car je vis à Méshek
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '120.5 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: En Asie Mineure.
+      marker-yv: yv-n
+    - type: text
+      text: ', en étranger,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ou parmi les nomades de Qédar.
   '6':
-  - type: text
-    content: Bien trop longtemps ╵j’ai habité
-  - type: text
-    content: parmi des gens ╵qui détestent la paix.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Bien trop longtemps ╵j’ai habité
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: parmi des gens ╵qui détestent la paix.
   '7':
-  - type: text
-    content: Je veux la paix, ╵mais quand j’en parle,
-  - type: text
-    content: eux, ils sont pour la guerre.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Je veux la paix, ╵mais quand j’en parle,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: eux, ils sont pour la guerre.

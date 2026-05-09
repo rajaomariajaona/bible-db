@@ -2,59 +2,119 @@ document_id: PSA.93,116
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: 'The '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' is king! He is robed in majesty.'
-  - type: text
-    content: 'Indeed, the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' is robed in majesty and armed with strength.'
-  - type: text
-    content: The world stands firm
-  - type: text
-    content: and cannot be shaken.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' is king! He is robed in majesty.'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Indeed, the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' is robed in majesty and armed with strength.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: The world stands firm
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and cannot be shaken.
   '2':
-  - type: text
-    content: 'Your throne, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', has stood from time immemorial.'
-  - type: text
-    content: You yourself are from the everlasting past.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Your throne, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', has stood from time immemorial.'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: You yourself are from the everlasting past.
   '3':
-  - type: text
-    content: 'The floods have risen up, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: .
-  - type: text
-    content: The floods have roared like thunder;
-  - type: text
-    content: the floods have lifted their pounding waves.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The floods have risen up, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: .
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: The floods have roared like thunder;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: the floods have lifted their pounding waves.
   '4':
-  - type: text
-    content: But mightier than the violent raging of the seas,
-  - type: text
-    content: mightier than the breakers on the shore—
-  - type: text
-    content: 'the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' above is mightier than these!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: But mightier than the violent raging of the seas,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: mightier than the breakers on the shore—
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' above is mightier than these!'
   '5':
-  - type: text
-    content: Your royal laws cannot be changed.
-  - type: text
-    content: 'Your reign, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', is holy forever and ever.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Your royal laws cannot be changed.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Your reign, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', is holy forever and ever.'

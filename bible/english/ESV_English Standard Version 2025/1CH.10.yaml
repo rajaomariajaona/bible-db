@@ -2,86 +2,251 @@ document_id: 1CH.10,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: The Death of Saul and His Sons
-  - type: text
-    content: ' '
-  - type: note
-    content: For ver. 1-12, see 1 Sam. 31:1-13
-  - type: text
-    content: 'Now the Philistines fought against Israel, and the men of Israel fled before the Philistines and fell slain on Mount Gilboa. '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: The Death of Saul and His Sons
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'For ver. 1-12, see '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Sam. 31:1-13
+      marker-yv: yv-n
+    - type: text
+      text: 'Now the Philistines fought against Israel, and the men of Israel fled before the Philistines and fell slain on Mount Gilboa. '
   '10':
-  - type: text
-    content: 'And they put his armor in the temple of their gods and fastened his head in the temple of Dagon. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'And they put his armor in the temple of their gods and fastened his head in the temple of Dagon. '
   '11':
-  - type: text
-    content: 'But when all Jabesh-gilead heard all that the Philistines had done to Saul, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'But when all Jabesh-gilead heard all that the Philistines had done to Saul, '
   '12':
-  - type: text
-    content: all the valiant men arose and took away the body of Saul and the bodies of his sons, and brought them to Jabesh. And they buried their bones under the oak in Jabesh and fasted seven days.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: all the valiant men arose and took away the body of Saul and the bodies of his sons, and brought them to Jabesh. And they buried their bones under the oak in Jabesh and fasted seven days.
   '13':
-  - type: text
-    content: 'So Saul died '
-  - type: note
-    content: 1 Sam. 13:13, 14; 15:23
-  - type: text
-    content: 'for his breach of faith. He broke faith with the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' in that he did not keep the command of the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', and also '
-  - type: note
-    content: 1 Sam. 28:7
-  - type: text
-    content: 'consulted a medium, seeking guidance. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'So Saul died '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Sam. 13:13
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '14'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 15:23
+      marker-yv: yv-n
+    - type: text
+      text: 'for his breach of faith. He broke faith with the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' in that he did not keep the command of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', and also '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Sam. 28:7
+      marker-yv: yv-n
+    - type: text
+      text: 'consulted a medium, seeking guidance. '
   '14':
-  - type: text
-    content: 'He '
-  - type: note
-    content: '[1 Sam. 28:6]'
-  - type: text
-    content: 'did not seek guidance from the '
-  - type: text
-    content: Lord
-  - type: text
-    content: '. Therefore the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' put him to death and '
-  - type: note
-    content: ch. 12:23; 1 Sam. 15:28; 2 Sam. 3:9, 10
-  - type: text
-    content: turned the kingdom over to David the son of Jesse.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'He '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Sam. 28:6
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'did not seek guidance from the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: '. Therefore the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' put him to death and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 12:23
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Sam. 15:28
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Sam. 3:9
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '10'
+      marker-yv: yv-n
+    - type: text
+      text: turned the kingdom over to David the son of Jesse.
   '2':
-  - type: text
-    content: 'And the Philistines overtook Saul and his sons, and the Philistines struck down Jonathan and Abinadab and Malchi-shua, the sons of Saul. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'And the Philistines overtook Saul and his sons, and the Philistines struck down Jonathan and Abinadab and Malchi-shua, the sons of Saul. '
   '3':
-  - type: text
-    content: 'The battle pressed hard against Saul, and the archers found him, and he was wounded by the archers. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'The battle pressed hard against Saul, and the archers found him, and he was wounded by the archers. '
   '4':
-  - type: text
-    content: 'Then Saul said to his armor-bearer, “Draw your sword and thrust me through with it, lest these uncircumcised come and mistreat me.” But his armor-bearer would not, for he feared greatly. Therefore Saul took his own sword and fell upon it. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Then Saul said to his armor-bearer, “Draw your sword and thrust me through with it, lest these uncircumcised come and mistreat me.” But his armor-bearer would not, for he feared greatly. Therefore Saul took his own sword and fell upon it. '
   '5':
-  - type: text
-    content: 'And when his armor-bearer saw that Saul was dead, he also fell upon his sword and died. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'And when his armor-bearer saw that Saul was dead, he also fell upon his sword and died. '
   '6':
-  - type: text
-    content: 'Thus Saul died; he and his three sons and all his house died together. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Thus Saul died; he and his three sons and all his house died together. '
   '7':
-  - type: text
-    content: And when all the men of Israel who were in the valley saw that the army
-  - type: note
-    content: Hebrew they
-  - type: text
-    content: ' had fled and that Saul and his sons were dead, they abandoned their cities and fled, and the Philistines came and lived in them.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: And when all the men of Israel who were in the valley saw that the army
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '10:7 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: they
+      marker-yv: yv-n
+    - type: text
+      text: ' had fled and that Saul and his sons were dead, they abandoned their cities and fled, and the Philistines came and lived in them.'
   '8':
-  - type: text
-    content: 'The next day, when the Philistines came to strip the slain, they found Saul and his sons fallen on Mount Gilboa. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'The next day, when the Philistines came to strip the slain, they found Saul and his sons fallen on Mount Gilboa. '
   '9':
-  - type: text
-    content: 'And they stripped him and took his head and his armor, and sent messengers throughout the land of the Philistines to carry the good news to their idols and to the people. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'And they stripped him and took his head and his armor, and sent messengers throughout the land of the Philistines to carry the good news to their idols and to the people. '

@@ -2,33 +2,73 @@ document_id: PSA.133,3103
 type_code: plt
 verses:
   '1':
-  - type: heading
-    content: Endre! Tsara raha ny mpirahalahy no miara-monina
-  - type: text
-    content: Hira fanao amin’ny fiakarana. Nataon’i Davida.
-  - type: text
-    content: Endre! Tsara sady mahafinaritra
-  - type: text
-    content: raha ny mpirahalahy no miara-monina.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Endre! Tsara raha ny mpirahalahy no miara-monina
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: Hira fanao amin’ny fiakarana. Nataon’i Davida.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Endre! Tsara sady mahafinaritra
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: raha ny mpirahalahy no miara-monina.
   '2':
-  - type: text
-    content: Tahaka ny diloilo tsara
-  - type: text
-    content: amin’ny loha,
-  - type: text
-    content: izay mitsororoka amin’ny somotra, dia ny somotr’i Arona,
-  - type: text
-    content: izay mitsororoka amin’ny morontongotr’akanjony.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Tahaka ny diloilo tsara
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: amin’ny loha,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: izay mitsororoka amin’ny somotra, dia ny somotr’i Arona,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: izay mitsororoka amin’ny morontongotr’akanjony.
   '3':
-  - type: text
-    content: Tahaka ny ando any Hermona,
-  - type: text
-    content: 'izay milatsaka amin’ny tendrombohitra '
-  - type: text
-    content: Ziona
-  - type: text
-    content: ;
-  - type: text
-    content: fa voatendrin’NY TOMPO ho eo ny fitahiana,
-  - type: text
-    content: dia fiainana ho mandrakizay.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Tahaka ny ando any Hermona,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'izay milatsaka amin’ny tendrombohitra '
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: Ziona
+    - type: text
+      text: ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: fa voatendrin’NY TOMPO ho eo ny fitahiana,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: dia fiainana ho mandrakizay.

@@ -2,108 +2,883 @@ document_id: PSA.138,104
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Je te célèbre de tout mon cœur
-  - type: text
-    content: ' '
-  - type: note
-    content: Je te célèbre… 9.2 ; 118.28 ; quelques mss hébreux et des versions anciennes ajoutent YHWH (ou Seigneur ). –  de tout mon cœur 86.12+ ; LXX ajoute parce que tu as entendu les paroles de ma bouche. –  face aux dieux ou devant les dieux  ; LXX les anges  ; Syr les rois (v. 4) ; Tg les juges  ; cf. 29.1n  ; 82.1n  ; 86.8 ; 89.7 ; 96.4 ; 97.7,9 ; Ex 15.11 ; Es 43.10 ; 44.8 ; voir aussi Gn 1.1n  ; 1Co 11.10. –  je te chante 7.18n.
-  - type: text
-    content: De David.
-  - type: text
-    content: Je te célèbre de tout mon cœur ;
-  - type: text
-    content: face aux dieux je te chante.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Je te célèbre de tout mon cœur
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '138.1 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Je te célèbre… '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '9.2 ; 118.28 ; quelques mss hébreux et des versions anciennes ajoutent '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'YHWH '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '(ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: Seigneur
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '). –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'de tout mon '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: cœur
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '86.12+ ; '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: LXX
+        - type: text
+          text: ' ajoute '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'parce que tu as entendu les paroles de ma bouche. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '–  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'face aux dieux '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: devant les dieux
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' ; LXX '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: les anges
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' ; '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: Syr
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'les rois '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '(v. 4) ; '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: Tg
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: les juges
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text:  ; cf. 29.1
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; 82.1'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; 86.8 ; 89.7 ; 96.4 ; 97.7,9 ; Ex 15.11 ; Es 43.10 ; 44.8 ; voir aussi Gn 1.1'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; 1Co 11.10. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'je te chante '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '7.18'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: De David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Je te célèbre de tout mon cœur ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: face aux dieux je te chante.
   '2':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'vers ton temple sacré  : cf. 5.8 ; 28.2 ; voir saint. –  tu as magnifié…  : texte obscur et traduction incertaine, litt. tu as grandi ta parole (comme en 119.11n) au-dessus (ou à cause ) de tout ton nom  ; certains modifient le texte hébreu traditionnel pour lire au-dessus du ciel  ; cf. 107.20 ; 119.38n  ; 130.5.'
-  - type: text
-    content: Je me prosterne vers ton temple sacré
-  - type: text
-    content: et je célèbre ton nom,
-  - type: text
-    content: à cause de ta fidélité et de ta loyauté,
-  - type: text
-    content: car tu as magnifié ta parole au-delà de tout renom.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '138.2 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'vers ton '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: temple
+        - type: text
+          text: ' sacré'
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : cf. 5.8 ; 28.2 ; voir '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: saint
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: tu as magnifié…
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : texte obscur et traduction incertaine, litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'tu as grandi ta parole '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: (comme en 119.11
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: ') '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'au-dessus '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '(ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: à cause
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ') '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'de tout ton '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: nom
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' ; certains modifient le texte hébreu traditionnel pour lire '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: au-dessus du ciel
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text:  ; cf. 107.20 ; 119.38
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; 130.5.'
+      marker-yv: yv-n
+    - type: text
+      text: Je me prosterne vers ton temple sacré
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et je célèbre ton nom,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: à cause de ta fidélité et de ta loyauté,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: car tu as magnifié ta parole au-delà de tout renom.
   '3':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'tu m''as répondu 22.22 ; 99.6. –  tu m''as donné…  : texte obscur et traduction incertaine, litt. tu as agité de la force en moi  ; certains modifient légèrement le texte hébreu traditionnel pour lire tu as augmenté la force en moi ou ma force vitale  ; cf. v. 7.'
-  - type: text
-    content: Le jour où je t'ai invoqué, tu m'as répondu,
-  - type: text
-    content: tu m'as donné de la hardiesse, de la force.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '138.3 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'tu m''as répondu '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '22.22 ; 99.6. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: tu m'as donné…
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : texte obscur et traduction incertaine, litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: tu as agité de la force en moi
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' ; certains modifient légèrement le texte hébreu traditionnel pour lire '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'tu as augmenté la force en moi '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: ma force vitale
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text:  ; cf. v. 7.
+      marker-yv: yv-n
+    - type: text
+      text: Le jour où je t'ai invoqué, tu m'as répondu,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: tu m'as donné de la hardiesse, de la force.
   '4':
-  - type: text
-    content: ' '
-  - type: note
-    content: les rois de la terre 68.33 ; cf. 22.28s ; 47.2ss ; 66.8 ; 67.4ss ; 96.7ss. –  quand ils entendront ou parce qu'ils ont entendu.
-  - type: text
-    content: 'Tous les rois de la terre te célébreront, '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ','
-  - type: text
-    content: quand ils entendront les paroles de ta bouche ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '138.4 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'les rois de la terre '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '68.33 ; cf. 22.28s ; 47.2ss ; 66.8 ; 67.4ss ; 96.7ss. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'quand ils entendront '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: parce qu'ils ont entendu.
+      marker-yv: yv-n
+    - type: text
+      text: 'Tous les rois de la terre te célébreront, '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: quand ils entendront les paroles de ta bouche ;
   '5':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'les voies du Seigneur  : autre traduction sur les chemins du Seigneur . – Voir gloire.'
-  - type: text
-    content: 'ils chanteront les voies du '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ','
-  - type: text
-    content: 'car la gloire du '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' est grande.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '138.5 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'les voies du '
+        - type: usfm
+          marker: nd
+          children:
+          - type: text
+            text: Seigneur
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : autre traduction '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'sur les chemins du '
+        - type: usfm
+          marker: nd
+          children:
+          - type: text
+            text: Seigneur
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '. – Voir '
+      - type: usfm
+        marker: fq
+        children:
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: gloire
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'ils chanteront les voies du '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'car la gloire du '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' est grande.'
   '6':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'les gens hautains…  : c.-à-d. il ne les connaît que de loin , ou bien il les reconnaît de loin  ; certains modifient le texte hébreu traditionnel pour lire il humilie les gens hautains  ; 113.5ss ; cf. 14.2 ; 33.13ss ; 34.16s ; 102.20s ; voir aussi Es 57.15 ; Lc 1.48.'
-  - type: text
-    content: 'Le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' est élevé, mais il voit ce qui est abaissé ;'
-  - type: text
-    content: et les gens hautains, il les connaît de loin.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '138.6 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: les gens hautains…
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : c.-à-d. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: il ne les connaît que de loin
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', ou bien '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: il les reconnaît de loin
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' ; certains modifient le texte hébreu traditionnel pour lire '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: il humilie les gens hautains
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text:  ; 113.5ss ; cf. 14.2 ; 33.13ss ; 34.16s ; 102.20s ; voir aussi Es 57.15 ; Lc 1.48.
+      marker-yv: yv-n
+    - type: text
+      text: 'Le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' est élevé, mais il voit ce qui est abaissé ;'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et les gens hautains, il les connaît de loin.
   '7':
-  - type: text
-    content: ' '
-  - type: note
-    content: Si je marche… 23.4. –  la colère ou le nez. –  ta main droite 18.36 ; 118.15s.
-  - type: text
-    content: Si je marche au sein de la détresse, tu me fais vivre,
-  - type: text
-    content: tu étends ta main sur la colère de mes ennemis,
-  - type: text
-    content: ta main droite me sauve.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '138.7 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Si je marche… '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '23.4. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'la colère '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'le nez. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '–  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'ta main droite '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 18.36 ; 118.15s.
+      marker-yv: yv-n
+    - type: text
+      text: Si je marche au sein de la détresse, tu me fais vivre,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: tu étends ta main sur la colère de mes ennemis,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ta main droite me sauve.
   '8':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'mène tout… 57.3 ; cf. Ph 1.6. –  ta fidélité… 100.5+. –  N''abandonne pas ou ne laisse pas en suspens, ne relâche pas. –  les œuvres (ou l''œuvre , selon les mss) de tes mains  : cf. Jb 14.15.'
-  - type: text
-    content: 'Le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' mène tout à bonne fin pour moi.'
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ', ta fidélité est pour toujours !'
-  - type: text
-    content: N'abandonne pas les œuvres de tes mains !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '138.8 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'mène tout… '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '57.3 ; cf. Ph 1.6. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'ta fidélité… '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '100.5+. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'N''abandonne pas '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'ne laisse pas en suspens, ne relâche pas. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '–  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'les œuvres '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '(ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: l'œuvre
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', selon les mss) '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: de tes mains
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : cf. Jb 14.15.'
+      marker-yv: yv-n
+    - type: text
+      text: 'Le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' mène tout à bonne fin pour moi.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ', ta fidélité est pour toujours !'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: N'abandonne pas les œuvres de tes mains !

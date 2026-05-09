@@ -2,37 +2,103 @@ document_id: PSA.131,1588
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: Psalm 131
-  - type: heading
-    content: Childlike Trust in the Lord.
-  - type: text
-    content: 'A Song of '
-  - type: note
-    content: See Psalm 120 title note.
-  - type: text
-    content: Ascents. Of David.
-  - type: text
-    content: L
-  - type: heading
-    content: ord
-  - type: text
-    content: ', my heart is not proud, nor my eyes haughty;'
-  - type: text
-    content: Nor do I involve myself in great matters,
-  - type: text
-    content: Or in things too difficult for me.
+  - type: usfm
+    marker: ms2
+    children:
+    - type: text
+      text: Psalm 131
+    marker-yv: yv-h
+  - type: usfm
+    marker: s1
+    children:
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: Childlike Trust in the L
+      - type: usfm
+        marker: sc
+        children:
+        - type: usfm
+          marker: it
+          children:
+          - type: text
+            text: ord
+      - type: text
+        text: .
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'A Song of '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '131:0 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: See Psalm 120 title note.
+      marker-yv: yv-n
+    - type: text
+      text: Ascents. Of David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: L
+    - type: usfm
+      marker: sc
+      children:
+      - type: text
+        text: ord
+    - type: text
+      text: ', my heart is not proud, nor my eyes haughty;'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Nor do I involve myself in great matters,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Or in things too difficult for me.
   '2':
-  - type: text
-    content: Surely I have calmed and quieted my soul;
-  - type: text
-    content: Like a weaned child [resting] with his mother,
-  - type: text
-    content: My soul is like a weaned child within me [composed and freed from discontent].
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Surely I have calmed and quieted my soul;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Like a weaned child [resting] with his mother,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: My soul is like a weaned child within me [composed and freed from discontent].
   '3':
-  - type: text
-    content: O Israel, hope in the L
-  - type: heading
-    content: ord
-  - type: text
-    content: From this time forth and forever.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: O Israel, hope in the L
+    - type: usfm
+      marker: sc
+      children:
+      - type: text
+        text: ord
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: From this time forth and forever.

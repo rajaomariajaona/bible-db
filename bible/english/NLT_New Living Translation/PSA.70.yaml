@@ -2,49 +2,106 @@ document_id: PSA.70,116
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: 'For the choir director: A psalm of David, asking God to remember him.'
-  - type: text
-    content: Please, God, rescue me!
-  - type: text
-    content: 'Come quickly, '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', and help me.'
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'For the choir director: A psalm of David, asking God to remember him.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Please, God, rescue me!
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Come quickly, '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', and help me.'
   '2':
-  - type: text
-    content: May those who try to kill me
-  - type: text
-    content: be humiliated and put to shame.
-  - type: text
-    content: May those who take delight in my trouble
-  - type: text
-    content: be turned back in disgrace.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: May those who try to kill me
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: be humiliated and put to shame.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: May those who take delight in my trouble
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: be turned back in disgrace.
   '3':
-  - type: text
-    content: Let them be horrified by their shame,
-  - type: text
-    content: for they said, “Aha! We’ve got him now!”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Let them be horrified by their shame,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: for they said, “Aha! We’ve got him now!”
   '4':
-  - type: text
-    content: But may all who search for you
-  - type: text
-    content: be filled with joy and gladness in you.
-  - type: text
-    content: May those who love your salvation
-  - type: text
-    content: repeatedly shout, “God is great!”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: But may all who search for you
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: be filled with joy and gladness in you.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: May those who love your salvation
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: repeatedly shout, “God is great!”
   '5':
-  - type: text
-    content: But as for me, I am poor and needy;
-  - type: text
-    content: please hurry to my aid, O God.
-  - type: text
-    content: You are my helper and my savior;
-  - type: text
-    content: 'O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', do not delay.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: But as for me, I am poor and needy;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: please hurry to my aid, O God.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: You are my helper and my savior;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', do not delay.'

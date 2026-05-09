@@ -2,50 +2,104 @@ document_id: PSA.128,116
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: A song for pilgrims ascending to Jerusalem.
-  - type: text
-    content: 'How joyful are those who fear the '
-  - type: text
-    content: Lord
-  - type: text
-    content: —
-  - type: text
-    content: all who follow his ways!
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: A song for pilgrims ascending to Jerusalem.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'How joyful are those who fear the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: —
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: all who follow his ways!
   '2':
-  - type: text
-    content: You will enjoy the fruit of your labor.
-  - type: text
-    content: How joyful and prosperous you will be!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: You will enjoy the fruit of your labor.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: How joyful and prosperous you will be!
   '3':
-  - type: text
-    content: Your wife will be like a fruitful grapevine,
-  - type: text
-    content: flourishing within your home.
-  - type: text
-    content: Your children will be like vigorous young olive trees
-  - type: text
-    content: as they sit around your table.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Your wife will be like a fruitful grapevine,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: flourishing within your home.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Your children will be like vigorous young olive trees
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: as they sit around your table.
   '4':
-  - type: text
-    content: 'That is the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ’s blessing
-  - type: text
-    content: for those who fear him.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'That is the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ’s blessing
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: for those who fear him.
   '5':
-  - type: text
-    content: 'May the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' continually bless you from Zion.'
-  - type: text
-    content: May you see Jerusalem prosper as long as you live.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'May the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' continually bless you from Zion.'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: May you see Jerusalem prosper as long as you live.
   '6':
-  - type: text
-    content: May you live to enjoy your grandchildren.
-  - type: text
-    content: May Israel have peace!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: May you live to enjoy your grandchildren.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: May Israel have peace!

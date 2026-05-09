@@ -2,25 +2,50 @@ document_id: PSA.134,96
 type_code: plt
 verses:
   '1':
-  - type: heading
-    content: Hira ho fisaorana an'i Jehovah amin'ny alina
-  - type: text
-    content: Fihirana fiakarana
-  - type: note
-    content: 'Na: Fihirana misy hevitra ambaratonga'
-  - type: text
-    content: . Andeha, misaora an'i Jehovah
-  - type: note
-    content: 'Na: misaora an''i Jehovah amin''ny alina'
-  - type: text
-    content: ', ianareo rehetra mpanompon''i Jehovah, Izay mitoetra alina ao an-tranon''i Jehovah. '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Hira ho fisaorana an'i Jehovah amin'ny alina
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Fihirana fiakarana
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: 'Na: Fihirana misy hevitra ambaratonga'
+      marker-yv: yv-n
+    - type: text
+      text: . Andeha, misaora an'i Jehovah
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: 'Na: misaora an''i Jehovah amin''ny alina'
+      marker-yv: yv-n
+    - type: text
+      text: ', ianareo rehetra mpanompon''i Jehovah, Izay mitoetra alina ao an-tranon''i Jehovah. '
   '2':
-  - type: text
-    content: Manandrata ny tananareo ho amin'ny fitoerana masina
-  - type: note
-    content: 'Na: amin''ny fahamasinana'
-  - type: text
-    content: ', Ka misaora an''i Jehovah. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Manandrata ny tananareo ho amin'ny fitoerana masina
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: 'Na: amin''ny fahamasinana'
+      marker-yv: yv-n
+    - type: text
+      text: ', Ka misaora an''i Jehovah. '
   '3':
-  - type: text
-    content: Hitahy anao avy ao Ziona anie Jehovah Mpanao ny lanitra sy ny tany.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Hitahy anao avy ao Ziona anie Jehovah Mpanao ny lanitra sy ny tany.

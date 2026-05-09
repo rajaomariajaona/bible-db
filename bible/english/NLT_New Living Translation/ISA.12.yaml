@@ -2,66 +2,153 @@ document_id: ISA.12,116
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: Songs of Praise for Salvation
-  - type: text
-    content: 'In that day you will sing:'
-  - type: text
-    content: '“I will praise you, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: '!'
-  - type: text
-    content: You were angry with me, but not anymore.
-  - type: text
-    content: Now you comfort me.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Songs of Praise for Salvation
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'In that day you will sing:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: '“I will praise you, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: '!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: You were angry with me, but not anymore.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Now you comfort me.
   '2':
-  - type: text
-    content: See, God has come to save me.
-  - type: text
-    content: I will trust in him and not be afraid.
-  - type: text
-    content: 'The '
-  - type: text
-    content: Lord God
-  - type: text
-    content: ' is my strength and my song;'
-  - type: text
-    content: he has given me victory.”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: See, God has come to save me.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: I will trust in him and not be afraid.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord God
+    - type: text
+      text: ' is my strength and my song;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: he has given me victory.”
   '3':
-  - type: text
-    content: With joy you will drink deeply
-  - type: text
-    content: from the fountain of salvation!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: With joy you will drink deeply
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: from the fountain of salvation!
   '4':
-  - type: text
-    content: 'In that wonderful day you will sing:'
-  - type: text
-    content: '“Thank the '
-  - type: text
-    content: Lord
-  - type: text
-    content: '! Praise his name!'
-  - type: text
-    content: Tell the nations what he has done.
-  - type: text
-    content: Let them know how mighty he is!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'In that wonderful day you will sing:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: '“Thank the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: '! Praise his name!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Tell the nations what he has done.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Let them know how mighty he is!
   '5':
-  - type: text
-    content: 'Sing to the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', for he has done wonderful things.'
-  - type: text
-    content: Make known his praise around the world.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Sing to the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', for he has done wonderful things.'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Make known his praise around the world.
   '6':
-  - type: text
-    content: Let all the people of Jerusalem
-  - type: note
-    content: Hebrew Zion.
-  - type: text
-    content: ' shout his praise with joy!'
-  - type: text
-    content: For great is the Holy One of Israel who lives among you.”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Let all the people of Jerusalem
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '12:6 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: Zion.
+      marker-yv: yv-n
+    - type: text
+      text: ' shout his praise with joy!'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: For great is the Holy One of Israel who lives among you.”

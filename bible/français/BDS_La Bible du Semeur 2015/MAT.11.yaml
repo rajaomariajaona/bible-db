@@ -2,240 +2,664 @@ document_id: MAT.11,21
 type_code: fra
 verses:
   '1':
-  - type: text
-    content: Quand Jésus eut achevé de donner ces instructions à ses douze disciples, il partit de là pour enseigner et prêcher dans les villes de la région.
-  - type: heading
-    content: L’Évangile et la montée de l’opposition
-  - type: heading
-    content: Jésus et Jean-Baptiste
-  - type: heading
-    content: (Lc 7.18-35)
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Quand Jésus eut achevé de donner ces instructions à ses douze disciples, il partit de là pour enseigner et prêcher dans les villes de la région.
+  - type: usfm
+    marker: ms1
+    children:
+    - type: text
+      text: L’Évangile et la montée de l’opposition
+    marker-yv: yv-h
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Jésus et Jean-Baptiste
+    marker-yv: yv-h
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: (Lc 7.18-35)
+    marker-yv: yv-h
   '10':
-  - type: text
-    content: 'Car c’est celui dont il est écrit :'
-  - type: text
-    content: J’enverrai mon messager devant toi,
-  - type: text
-    content: il te préparera le chemin
-  - type: text
-    content: ' '
-  - type: note
-    content: Ml 3.1 .
-  - type: text
-    content: .
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: 'Car c’est celui dont il est écrit :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: wj
+      children:
+      - type: usfm
+        marker: qt
+        children:
+        - type: text
+          text: J’enverrai mon messager devant toi,
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: wj
+      children:
+      - type: usfm
+        marker: qt
+        children:
+        - type: text
+          text: il te préparera le chemin
+      - type: text
+        text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '11.10 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Ml 3.1
+        - type: text
+          text: ' .'
+      marker-yv: yv-n
+    - type: usfm
+      marker: wj
+      children:
+      - type: usfm
+        marker: qt
+        children:
+        - type: text
+          text: .
   '11':
-  - type: text
-    content: ' '
-  - type: text
-    content: 'Vraiment, je vous l’assure : parmi tous les hommes qui sont nés d’une femme, il n’en a paru aucun de plus grand que Jean-Baptiste. Et pourtant, le plus petit dans le '
-  - type: text
-    content: royaume des cieux
-  - type: text
-    content: ' est plus grand que lui.'
-  - type: text
-    content: ' '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: 'Vraiment, je vous l’assure : parmi tous les hommes qui sont nés d’une femme, il n’en a paru aucun de plus grand que Jean-Baptiste. Et pourtant, le plus petit dans le '
+      - type: usfm
+        marker: w
+        children:
+        - type: text
+          text: royaume des cieux
+      - type: text
+        text: ' est plus grand que lui.'
+    - type: text
+      text: ' '
   '12':
-  - type: text
-    content: Depuis l’époque où Jean-Baptiste a paru jusqu’à cette heure, le royaume des cieux se force un passage avec violence
-  - type: note
-    content: 'Autre traduction : le royaume des cieux est soumis à la violence.'
-  - type: text
-    content: ', et ce sont les violents qui s’en emparent'
-  - type: note
-    content: 'Autre traduction : et des hommes violents l’assaillent.'
-  - type: text
-    content: .
-  - type: text
-    content: ' '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: Depuis l’époque où Jean-Baptiste a paru jusqu’à cette heure, le royaume des cieux se force un passage avec violence
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '11.12 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Autre traduction : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: le royaume des cieux est soumis à la violence.
+      marker-yv: yv-n
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: ', et ce sont les violents qui s’en emparent'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '11.12 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Autre traduction : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: et des hommes violents l’assaillent.
+      marker-yv: yv-n
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: .
+    - type: text
+      text: ' '
   '13':
-  - type: text
-    content: 'En effet, jusqu’à Jean, tous les prophètes et la '
-  - type: text
-    content: Loi
-  - type: text
-    content: ' l’ont prophétisé.'
-  - type: text
-    content: ' '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: 'En effet, jusqu’à Jean, tous les prophètes et la '
+      - type: usfm
+        marker: w
+        children:
+        - type: text
+          text: Loi
+      - type: text
+        text: ' l’ont prophétisé.'
+    - type: text
+      text: ' '
   '14':
-  - type: text
-    content: Et, si vous voulez le croire, c’est lui, cet Elie qui devait venir.
-  - type: text
-    content: ' '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: Et, si vous voulez le croire, c’est lui, cet Elie qui devait venir.
+    - type: text
+      text: ' '
   '15':
-  - type: text
-    content: Celui qui a des oreilles, qu’il entende !
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: Celui qui a des oreilles, qu’il entende !
   '16':
-  - type: text
-    content: ' '
-  - type: text
-    content: 'A qui donc pourrais-je comparer les gens de notre temps ? Ils sont comme ces enfants assis sur la place du marché qui crient à leurs camarades :'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: 'A qui donc pourrais-je comparer les gens de notre temps ? Ils sont comme ces enfants assis sur la place du marché qui crient à leurs camarades :'
   '17':
-  - type: text
-    content: ' '
-  - type: text
-    content: Quand nous avons joué de la flûte,
-  - type: text
-    content: vous n’avez pas dansé !
-  - type: text
-    content: Et quand nous avons chanté des airs de deuil,
-  - type: text
-    content: vous ne vous êtes pas lamentés !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: Quand nous avons joué de la flûte,
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: vous n’avez pas dansé !
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: Et quand nous avons chanté des airs de deuil,
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: vous ne vous êtes pas lamentés !
   '18':
-  - type: text
-    content: ' '
-  - type: text
-    content: En effet, Jean est venu, il ne mangeait pas et ne buvait pas de vin. Et qu’a-t-on dit ? « Il a un démon en lui ! »
-  - type: text
-    content: ' '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: En effet, Jean est venu, il ne mangeait pas et ne buvait pas de vin. Et qu’a-t-on dit ? « Il a un démon en lui ! »
+    - type: text
+      text: ' '
   '19':
-  - type: text
-    content: 'Le '
-  - type: text
-    content: Fils de l’homme
-  - type: text
-    content: ' est venu, il mange et boit, et l’on dit : « Cet homme ne pense qu’à faire bonne chère et à boire du vin, il est l’ami des '
-  - type: text
-    content: collecteurs d’impôts
-  - type: text
-    content: ' et des pécheurs notoires. » Et cependant, la sagesse de Dieu se fait reconnaître comme telle par les œuvres qu’elle accomplit'
-  - type: note
-    content: 'Autre traduction : mais la sagesse a été reconnue juste d’après ses effets.'
-  - type: text
-    content: .
-  - type: heading
-    content: Les reproches aux villes rebelles
-  - type: heading
-    content: (Lc 10.12-15)
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: 'Le '
+      - type: usfm
+        marker: w
+        children:
+        - type: text
+          text: Fils de l’homme
+      - type: text
+        text: ' est venu, il mange et boit, et l’on dit : « Cet homme ne pense qu’à faire bonne chère et à boire du vin, il est l’ami des '
+      - type: usfm
+        marker: w
+        children:
+        - type: text
+          text: collecteurs d’impôts
+      - type: text
+        text: ' et des pécheurs notoires. » Et cependant, la sagesse de Dieu se fait reconnaître comme telle par les œuvres qu’elle accomplit'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '11.19 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Autre traduction : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: mais la sagesse a été reconnue juste d’après ses effets.
+      marker-yv: yv-n
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: .
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Les reproches aux villes rebelles
+    marker-yv: yv-h
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: (Lc 10.12-15)
+    marker-yv: yv-h
   '2':
-  - type: text
-    content: 'Du fond de sa prison, Jean apprit tout ce que Christ faisait. Il envoya auprès de lui deux de ses disciples. Ils lui demandèrent : '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Du fond de sa prison, Jean apprit tout ce que Christ faisait. Il envoya auprès de lui deux de ses disciples. Ils lui demandèrent : '
   '20':
-  - type: text
-    content: 'Alors Jésus adressa de sévères reproches aux villes où il avait fait la plupart de ses miracles, parce que leurs habitants n’avaient pas changé :'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Alors Jésus adressa de sévères reproches aux villes où il avait fait la plupart de ses miracles, parce que leurs habitants n’avaient pas changé :'
   '21':
-  - type: text
-    content: ' '
-  - type: text
-    content: Malheur à toi, Chorazin
-  - type: text
-    content: ' '
-  - type: note
-    content: 'Chorazin… Bethsaïda : deux villes voisines de Capernaüm. Tyr… Sidon : deux villes phéniciennes, donc non juives.'
-  - type: text
-    content: '! Malheur à toi, Bethsaïda ! car si les miracles qui se sont produits au milieu de vous avaient eu lieu à '
-  - type: text
-    content: Tyr
-  - type: text
-    content: ' et à Sidonh, il y a longtemps que leurs habitants auraient changé et l’auraient manifesté en revêtant des habits de toile de sac et en se couvrant de cendre.'
-  - type: text
-    content: ' '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: Malheur à toi, Chorazin
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '11.21 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Chorazin… Bethsaïda
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: ': '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'deux villes voisines de Capernaüm. '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Tyr… Sidon
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: ': '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: deux villes phéniciennes, donc non juives.
+      marker-yv: yv-n
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: '! Malheur à toi, Bethsaïda ! car si les miracles qui se sont produits au milieu de vous avaient eu lieu à '
+      - type: usfm
+        marker: w
+        children:
+        - type: text
+          text: Tyr
+      - type: text
+        text: ' et à Sidonh, il y a longtemps que leurs habitants auraient changé et l’auraient manifesté en revêtant des habits de toile de sac et en se couvrant de cendre.'
+    - type: text
+      text: ' '
   '22':
-  - type: text
-    content: 'C’est pourquoi, je vous le déclare : au jour du jugement, ces villes seront traitées avec moins de rigueur que vous.'
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: 'C’est pourquoi, je vous le déclare : au jour du jugement, ces villes seront traitées avec moins de rigueur que vous.'
   '23':
-  - type: text
-    content: ' '
-  - type: text
-    content: 'Et toi, '
-  - type: text
-    content: Capernaüm
-  - type: text
-    content: ', crois-tu que tu seras élevée jusqu’au ciel ? Non ! Tu seras précipitée au séjour des morts. Car si les miracles qui se sont produits chez toi avaient eu lieu à '
-  - type: text
-    content: Sodome
-  - type: text
-    content: ', elle existerait encore aujourd’hui.'
-  - type: text
-    content: ' '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: 'Et toi, '
+      - type: usfm
+        marker: w
+        children:
+        - type: text
+          text: Capernaüm
+      - type: text
+        text: ', crois-tu que tu seras élevée jusqu’au ciel ? Non ! Tu seras précipitée au séjour des morts. Car si les miracles qui se sont produits chez toi avaient eu lieu à '
+      - type: usfm
+        marker: w
+        children:
+        - type: text
+          text: Sodome
+      - type: text
+        text: ', elle existerait encore aujourd’hui.'
+    - type: text
+      text: ' '
   '24':
-  - type: text
-    content: 'C’est pourquoi, je vous le déclare : au jour du jugement, le pays de Sodome sera traité avec moins de rigueur que toi.'
-  - type: heading
-    content: (Lc 10.21-22)
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: 'C’est pourquoi, je vous le déclare : au jour du jugement, le pays de Sodome sera traité avec moins de rigueur que toi.'
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: (Lc 10.21-22)
+    marker-yv: yv-h
   '25':
-  - type: text
-    content: 'Vers cette même époque, Jésus dit : '
-  - type: text
-    content: Je te loue, ô Père, Seigneur du ciel et de la terre, parce que tu as caché ces choses aux sages et aux intelligents, et que tu les as révélées à ceux qui sont tout petits.
-  - type: text
-    content: ' '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Vers cette même époque, Jésus dit : '
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: Je te loue, ô Père, Seigneur du ciel et de la terre, parce que tu as caché ces choses aux sages et aux intelligents, et que tu les as révélées à ceux qui sont tout petits.
+    - type: text
+      text: ' '
   '26':
-  - type: text
-    content: Oui, Père, car dans ta bonté, tu l’as voulu ainsi.
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: Oui, Père, car dans ta bonté, tu l’as voulu ainsi.
   '27':
-  - type: text
-    content: ' '
-  - type: text
-    content: Mon Père a remis toutes choses entre mes mains. Personne ne connaît le Fils, si ce n’est le Père ; et personne ne connaît le Père, si ce n’est le Fils et celui à qui le Fils veut le révéler.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: Mon Père a remis toutes choses entre mes mains. Personne ne connaît le Fils, si ce n’est le Père ; et personne ne connaît le Père, si ce n’est le Fils et celui à qui le Fils veut le révéler.
   '28':
-  - type: text
-    content: ' '
-  - type: text
-    content: Venez à moi, vous tous qui êtes accablés sous le poids d’un lourd fardeau, et je vous donnerai du repos.
-  - type: text
-    content: ' '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: Venez à moi, vous tous qui êtes accablés sous le poids d’un lourd fardeau, et je vous donnerai du repos.
+    - type: text
+      text: ' '
   '29':
-  - type: text
-    content: Prenez mon joug sur vous et mettez-vous à mon école, car je suis doux et humble de cœur, et vous trouverez le repos pour vous-mêmes.
-  - type: text
-    content: ' '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: Prenez mon joug sur vous et mettez-vous à mon école, car je suis doux et humble de cœur, et vous trouverez le repos pour vous-mêmes.
+    - type: text
+      text: ' '
   '3':
-  - type: text
-    content: Es-tu celui qui devait venir
-  - type: note
-    content: 'C’est-à-dire : « Es-tu le Messie attendu, promis par les prophètes ? »'
-  - type: text
-    content: ', ou bien devons-nous en attendre un autre ?'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Es-tu celui qui devait venir
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '11.3 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'C’est-à-dire : « Es-tu le Messie attendu, promis par les prophètes ? »'
+      marker-yv: yv-n
+    - type: text
+      text: ', ou bien devons-nous en attendre un autre ?'
   '30':
-  - type: text
-    content: Oui, mon joug est facile à porter et la charge que je vous impose est légère.
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: Oui, mon joug est facile à porter et la charge que je vous impose est légère.
   '4':
-  - type: text
-    content: 'Et Jésus leur répondit : '
-  - type: text
-    content: 'Retournez auprès de Jean et racontez-lui ce que vous entendez et ce que vous voyez :'
-  - type: text
-    content: ' '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Et Jésus leur répondit : '
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: 'Retournez auprès de Jean et racontez-lui ce que vous entendez et ce que vous voyez :'
+    - type: text
+      text: ' '
   '5':
-  - type: text
-    content: les aveugles voient
-  - type: text
-    content: ', les paralysés marchent normalement, les lépreux sont purifiés, les sourds entendent, les morts ressuscitent, '
-  - type: text
-    content: la Bonne Nouvelle est annoncée aux pauvres
-  - type: note
-    content: Es 35.5-6 ; 61.1.
-  - type: text
-    content: ' '
-  - type: text
-    content: .
-  - type: text
-    content: ' '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: wj
+      children:
+      - type: usfm
+        marker: qt
+        children:
+        - type: text
+          text: les aveugles voient
+      - type: text
+        text: ', les paralysés marchent normalement, les lépreux sont purifiés, les sourds entendent, les morts ressuscitent, '
+      - type: usfm
+        marker: qt
+        children:
+        - type: text
+          text: la Bonne Nouvelle est annoncée aux pauvres
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '11.5 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Es 35.5-6 ; 61.1.
+      marker-yv: yv-n
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: wj
+      children:
+      - type: usfm
+        marker: qt
+        children:
+        - type: text
+          text: .
+    - type: text
+      text: ' '
   '6':
-  - type: text
-    content: Heureux celui qui ne perdra pas la foi à cause de moi !
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: Heureux celui qui ne perdra pas la foi à cause de moi !
   '7':
-  - type: text
-    content: 'Comme les envoyés s’en allaient, Jésus saisit cette occasion pour parler de Jean à la foule : '
-  - type: text
-    content: Qu’êtes-vous allés voir au désert ?
-  - type: text
-    content: ' leur demanda-t-il. '
-  - type: text
-    content: Un roseau agité çà et là par le vent ?
-  - type: text
-    content: ' '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Comme les envoyés s’en allaient, Jésus saisit cette occasion pour parler de Jean à la foule : '
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: Qu’êtes-vous allés voir au désert ?
+    - type: text
+      text: ' leur demanda-t-il. '
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: Un roseau agité çà et là par le vent ?
+    - type: text
+      text: ' '
   '8':
-  - type: text
-    content: Oui, qui donc êtes-vous allés voir ? Un homme habillé avec élégance ? Généralement, ceux qui sont élégamment vêtus vivent dans les palais royaux.
-  - type: text
-    content: ' '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: Oui, qui donc êtes-vous allés voir ? Un homme habillé avec élégance ? Généralement, ceux qui sont élégamment vêtus vivent dans les palais royaux.
+    - type: text
+      text: ' '
   '9':
-  - type: text
-    content: 'Mais qu’êtes-vous donc allés voir au désert ? Un '
-  - type: text
-    content: prophète
-  - type: text
-    content: '  ? Oui, assurément, et même bien plus qu’un prophète, c’est moi qui vous le dis.'
-  - type: text
-    content: ' '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: wj
+      children:
+      - type: text
+        text: 'Mais qu’êtes-vous donc allés voir au désert ? Un '
+      - type: usfm
+        marker: w
+        children:
+        - type: text
+          text: prophète
+      - type: text
+        text: '  ? Oui, assurément, et même bien plus qu’un prophète, c’est moi qui vous le dis.'
+    - type: text
+      text: ' '

@@ -2,42 +2,149 @@ document_id: PSA.117,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: The Lord’s Faithfulness Endures Forever
-  - type: text
-    content: ' '
-  - type: note
-    content: Cited Rom. 15:11
-  - type: text
-    content: 'Praise the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', all nations!'
-  - type: text
-    content: Extol him, all peoples!
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ’s Faithfulness Endures Forever
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'Cited '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rom. 15:11
+      marker-yv: yv-n
+    - type: text
+      text: 'Praise the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', all nations!'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Extol him, all peoples!
   '2':
-  - type: text
-    content: 'For '
-  - type: note
-    content: Ps. 103:11; [Ps. 116:5]
-  - type: text
-    content: great is his steadfast love toward us,
-  - type: text
-    content: 'and '
-  - type: note
-    content: '[Ps. 100:5]'
-  - type: text
-    content: 'the faithfulness of the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' endures forever.'
-  - type: note
-    content: '[See Ps. 116:19 above ]'
-  - type: text
-    content: 'Praise the '
-  - type: text
-    content: Lord
-  - type: text
-    content: '!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'For '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 103:11
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 116:5
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: great is his steadfast love toward us,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 100:5
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'the faithfulness of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' endures forever.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 116:19
+      - type: text
+        text: ' above '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'Praise the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: '!'

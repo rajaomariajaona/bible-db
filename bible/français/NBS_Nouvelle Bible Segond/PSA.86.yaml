@@ -2,181 +2,981 @@ document_id: PSA.86,104
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Au jour de ma détresse, je t'invoque
-  - type: text
-    content: ' '
-  - type: note
-    content: Prière 17.1+. –  tends l'oreille 17.6n. –  pauvre et déshérité 12.6+.
-  - type: text
-    content: Prière. De David.
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ', tends l''oreille, réponds-moi !'
-  - type: text
-    content: Car je suis pauvre et déshérité.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Au jour de ma détresse, je t'invoque
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '86.1 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Prière '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '17.1+. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'tends l''oreille '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '17.6'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'pauvre et déshérité '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 12.6+.
+      marker-yv: yv-n
+    - type: text
+      text: Prière. De David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ', tends l''oreille, réponds-moi !'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Car je suis pauvre et déshérité.
   '10':
-  - type: text
-    content: ' '
-  - type: note
-    content: 77.14s ; 98.1.
-  - type: text
-    content: Car toi, tu es grand et tu fais des choses étonnantes ;
-  - type: text
-    content: toi seul, tu es Dieu.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '86.10 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 77.14s ; 98.1.
+      marker-yv: yv-n
+    - type: text
+      text: Car toi, tu es grand et tu fais des choses étonnantes ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: toi seul, tu es Dieu.
   '11':
-  - type: text
-    content: ' '
-  - type: note
-    content: '25.4s,8,12 ; 27.11 ; 139.24 ; 143.10. –  Je marcherai par ta loyauté  : autre traduction je suivrai la voie de ta loyauté (ou de ta vérité , cf. 25.10n) 26.3. –  Unifie mon cœur  : expression unique dans l''A.T. Il faut probablement la comprendre par opposition au cœur double (cf. 12.3n  ; Jc 1.8n) ; LXX a lu réjouis mon cœur. –  pour que je craigne  : autre traduction pour qu''il craigne.'
-  - type: text
-    content: 'Enseigne-moi ta voie, '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: '  !'
-  - type: text
-    content: Je marcherai par ta loyauté.
-  - type: text
-    content: Unifie mon cœur pour que je craigne ton nom.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '86.11 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '25.4s,8,12 ; 27.11 ; 139.24 ; 143.10. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Je marcherai par ta loyauté
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : autre traduction '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'je suivrai la voie de ta loyauté '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '(ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: de ta vérité
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', cf. 25.10'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: ') 26.3. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Unifie mon '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: cœur
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : expression unique dans l''A.T. Il faut probablement la comprendre par opposition au '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'cœur double '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: (cf. 12.3
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; Jc 1.8'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: ') ; '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: LXX
+        - type: text
+          text: ' a lu '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'réjouis mon cœur. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '–  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'pour que je '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: craigne
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : autre traduction '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: pour qu'il craigne.
+      marker-yv: yv-n
+    - type: text
+      text: 'Enseigne-moi ta voie, '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: '  !'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Je marcherai par ta loyauté.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Unifie mon cœur pour que je craigne ton nom.
   '12':
-  - type: text
-    content: ' '
-  - type: note
-    content: Je te célébrerai… 9.2 ; 111.1 ; 119.2+,7 ; 138.1.
-  - type: text
-    content: Je te célébrerai de tout mon cœur, Seigneur, mon Dieu ;
-  - type: text
-    content: je glorifierai toujours ton nom.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '86.12 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Je te célébrerai… '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 9.2 ; 111.1 ; 119.2+,7 ; 138.1.
+      marker-yv: yv-n
+    - type: text
+      text: Je te célébrerai de tout mon cœur, Seigneur, mon Dieu ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: je glorifierai toujours ton nom.
   '13':
-  - type: text
-    content: ' '
-  - type: note
-    content: 30.4+ ; 71.20 ; 103.4. – Voir séjour des morts.
-  - type: text
-    content: Car ta fidélité est grande envers moi,
-  - type: text
-    content: et tu me délivres des profondeurs du séjour des morts.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '86.13 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '30.4+ ; 71.20 ; 103.4. – Voir '
+      - type: usfm
+        marker: fq
+        children:
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: séjour
+        - type: text
+          text: ' des morts.'
+      marker-yv: yv-n
+    - type: text
+      text: Car ta fidélité est grande envers moi,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et tu me délivres des profondeurs du séjour des morts.
   '14':
-  - type: text
-    content: ' '
-  - type: note
-    content: Cf. 54.5n. –  troupe 22.17n.
-  - type: text
-    content: O Dieu, des gens arrogants se sont dressés contre moi,
-  - type: text
-    content: une troupe de brutes en veulent à ma vie ;
-  - type: text
-    content: ils ne t'ont pas placé devant eux.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '86.14 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Cf. 54.5
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'troupe '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '22.17'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: O Dieu, des gens arrogants se sont dressés contre moi,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: une troupe de brutes en veulent à ma vie ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ils ne t'ont pas placé devant eux.
   '15':
-  - type: text
-    content: ' '
-  - type: note
-    content: '86.5 ; 103.8 ; 111.4 ; 145.9 ; Ex 20.6 ; 34.6 ; Nb 14.18 ; Dt 5.10 ; Lc 6.36. –  Dieu  : hébreu ’El , cf. Gn 21.33n.'
-  - type: text
-    content: Mais toi, Seigneur, tu es un Dieu compatissant et clément,
-  - type: text
-    content: patient et grand par la fidélité et la loyauté ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '86.15 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '86.5 ; 103.8 ; 111.4 ; 145.9 ; Ex 20.6 ; 34.6 ; Nb 14.18 ; Dt 5.10 ; Lc 6.36. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Dieu
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : hébreu '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: ’El
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', cf. Gn 21.33'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: Mais toi, Seigneur, tu es un Dieu compatissant et clément,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: patient et grand par la fidélité et la loyauté ;
   '16':
-  - type: text
-    content: ' '
-  - type: note
-    content: tourne-toi… 25.16. –  ton serviteur… 116.16.
-  - type: text
-    content: tourne-toi vers moi et fais-moi grâce,
-  - type: text
-    content: donne-moi ta force, à moi, ton serviteur,
-  - type: text
-    content: et sauve-moi, moi, le fils de ta servante !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '86.16 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'tourne-toi… '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '25.16. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'ton serviteur… '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 116.16.
+      marker-yv: yv-n
+    - type: text
+      text: tourne-toi vers moi et fais-moi grâce,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: donne-moi ta force, à moi, ton serviteur,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et sauve-moi, moi, le fils de ta servante !
   '17':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'Produis un signe…  : litt. fais avec moi un signe pour le bien ou le bonheur  ; cf. Né 5.19n. –  mes ennemis  : litt. ceux qui me détestent.'
-  - type: text
-    content: Produis un signe en ma faveur !
-  - type: text
-    content: Que mes ennemis le voient et qu'ils aient honte !
-  - type: text
-    content: 'Car c''est toi, '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ', qui me secours et qui me consoles.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '86.17 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Produis un signe…
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'fais avec moi un signe pour le bien '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: le bonheur
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text:  ; cf. Né 5.19
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: mes ennemis
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: ceux qui me détestent.
+      marker-yv: yv-n
+    - type: text
+      text: Produis un signe en ma faveur !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Que mes ennemis le voient et qu'ils aient honte !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Car c''est toi, '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ', qui me secours et qui me consoles.'
   '2':
-  - type: text
-    content: ' '
-  - type: note
-    content: 17.7. –  Garde-moi 25.20. –  confiance 4.6+.
-  - type: text
-    content: Garde-moi, car je suis fidèle !
-  - type: text
-    content: Toi, mon Dieu, sauve-moi, moi qui suis ton serviteur, moi qui mets ma confiance en toi !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '86.2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '17.7. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Garde-moi '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '25.20. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'confiance '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 4.6+.
+      marker-yv: yv-n
+    - type: text
+      text: Garde-moi, car je suis fidèle !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Toi, mon Dieu, sauve-moi, moi qui suis ton serviteur, moi qui mets ma confiance en toi !
   '3':
-  - type: text
-    content: ' '
-  - type: note
-    content: '57.2s. – Voir grâce. –  sans cesse  : litt. tout le jour.'
-  - type: text
-    content: Fais-moi grâce, Seigneur !
-  - type: text
-    content: Car je t'invoque sans cesse.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '86.3 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '57.2s. – Voir '
+      - type: usfm
+        marker: fq
+        children:
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: grâce
+        - type: text
+          text: '. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '–  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: sans cesse
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: tout le jour.
+      marker-yv: yv-n
+    - type: text
+      text: Fais-moi grâce, Seigneur !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Car je t'invoque sans cesse.
   '4':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'Réjouis  : cf. 46.5 ; 51.14 ; 90.15. –  je m''élève 25.1 ; 143.8 ; Lm 3.41.'
-  - type: text
-    content: Réjouis-moi, moi, ton serviteur ;
-  - type: text
-    content: vers toi, Seigneur, je m'élève ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '86.4 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Réjouis
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : cf. 46.5 ; 51.14 ; 90.15. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'je m''élève '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 25.1 ; 143.8 ; Lm 3.41.
+      marker-yv: yv-n
+    - type: text
+      text: Réjouis-moi, moi, ton serviteur ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: vers toi, Seigneur, je m'élève ;
   '5':
-  - type: text
-    content: ' '
-  - type: note
-    content: V. 15+.
-  - type: text
-    content: car toi, Seigneur, tu es bon, tu pardonnes ;
-  - type: text
-    content: tu es grand par ta fidélité envers tous ceux qui t'invoquent.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '86.5 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: V. 15+.
+      marker-yv: yv-n
+    - type: text
+      text: car toi, Seigneur, tu es bon, tu pardonnes ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: tu es grand par ta fidélité envers tous ceux qui t'invoquent.
   '6':
-  - type: text
-    content: ' '
-  - type: note
-    content: 28.2n  ; cf. 5.2s ; 130.2.
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ', prête l''oreille à ma prière,'
-  - type: text
-    content: sois attentif à mes supplications !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '86.6 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '28.2'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; cf. 5.2s ; 130.2.'
+      marker-yv: yv-n
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ', prête l''oreille à ma prière,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: sois attentif à mes supplications !
   '7':
-  - type: text
-    content: ' '
-  - type: note
-    content: jour de ma détresse 9.10+ ; 20.2 ; 77.3. –  tu me réponds 17.6.
-  - type: text
-    content: Au jour de ma détresse, je t'invoque,
-  - type: text
-    content: car tu me réponds.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '86.7 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'jour de ma détresse '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '9.10+ ; 20.2 ; 77.3. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'tu me réponds '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 17.6.
+      marker-yv: yv-n
+    - type: text
+      text: Au jour de ma détresse, je t'invoque,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: car tu me réponds.
   '8':
-  - type: text
-    content: ' '
-  - type: note
-    content: 35.10+ ; 89.7 ; Ex 15.11 ; Dt 3.24 ; 1R 8.23.
-  - type: text
-    content: Nul n'est comme toi parmi les dieux, Seigneur,
-  - type: text
-    content: et rien ne ressemble à tes œuvres.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '86.8 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 35.10+ ; 89.7 ; Ex 15.11 ; Dt 3.24 ; 1R 8.23.
+      marker-yv: yv-n
+    - type: text
+      text: Nul n'est comme toi parmi les dieux, Seigneur,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et rien ne ressemble à tes œuvres.
   '9':
-  - type: text
-    content: ' '
-  - type: note
-    content: 22.28ss ; 66.4 ; Es 2.2-4 ; 24.15 ; Ap 3.9 ; 15.4. – Voir gloire et nom.
-  - type: text
-    content: Toutes les nations que tu as faites viendront
-  - type: text
-    content: se prosterner devant toi, Seigneur,
-  - type: text
-    content: et rendre gloire à ton nom.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '86.9 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '22.28ss ; 66.4 ; Es 2.2-4 ; 24.15 ; '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Ap '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '3.9 ; '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: '15.4. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '– Voir '
+      - type: usfm
+        marker: fq
+        children:
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: gloire
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'et '
+      - type: usfm
+        marker: fq
+        children:
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: nom
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: Toutes les nations que tu as faites viendront
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: se prosterner devant toi, Seigneur,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et rendre gloire à ton nom.

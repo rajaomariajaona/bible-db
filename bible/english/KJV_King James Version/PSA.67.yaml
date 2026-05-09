@@ -2,59 +2,125 @@ document_id: PSA.67,1
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: 'To the chief Musician on Neginoth, A Psalm '
-  - type: text
-    content: or
-  - type: text
-    content: ' Song.'
-  - type: text
-    content: God be merciful unto us, and bless us;
-  - type: text
-    content: And
-  - type: text
-    content: ' cause his face to shine upon us; '
-  - type: text
-    content: Selah.
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'To the chief Musician on Neginoth, A Psalm '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: or
+    - type: text
+      text: ' Song.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: God be merciful unto us, and bless us;
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: And
+    - type: text
+      text: ' cause his face to shine upon us; '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Selah.
   '2':
-  - type: text
-    content: That thy way may be known upon earth,
-  - type: text
-    content: Thy saving health among all nations.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: That thy way may be known upon earth,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Thy saving health among all nations.
   '3':
-  - type: text
-    content: Let the people praise thee, O God;
-  - type: text
-    content: Let all the people praise thee.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Let the people praise thee, O God;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Let all the people praise thee.
   '4':
-  - type: text
-    content: 'O let the nations be glad and sing for joy:'
-  - type: text
-    content: 'For thou shalt judge the people righteously, and govern the nations upon earth. '
-  - type: text
-    content: Selah.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'O let the nations be glad and sing for joy:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'For thou shalt judge the people righteously, and govern the nations upon earth. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Selah.
   '5':
-  - type: text
-    content: Let the people praise thee, O God;
-  - type: text
-    content: Let all the people praise thee.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Let the people praise thee, O God;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Let all the people praise thee.
   '6':
-  - type: text
-    content: ' '
-  - type: text
-    content: Then
-  - type: text
-    content: ' shall the earth yield her increase;'
-  - type: text
-    content: And
-  - type: text
-    content: ' God, '
-  - type: text
-    content: even
-  - type: text
-    content: ' our own God, shall bless us.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: Then
+    - type: text
+      text: ' shall the earth yield her increase;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: And
+    - type: text
+      text: ' God, '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: even
+    - type: text
+      text: ' our own God, shall bless us.'
   '7':
-  - type: text
-    content: God shall bless us;
-  - type: text
-    content: And all the ends of the earth shall fear him.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: God shall bless us;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: And all the ends of the earth shall fear him.

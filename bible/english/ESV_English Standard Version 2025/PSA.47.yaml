@@ -2,117 +2,454 @@ document_id: PSA.47,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: God Is King over All the Earth
-  - type: text
-    content: 'To the choirmaster. A Psalm of '
-  - type: note
-    content: Ps. 42, title
-  - type: text
-    content: the Sons of Korah.
-  - type: text
-    content: ' '
-  - type: note
-    content: 2 Kgs. 11:12; Isa. 55:12; Nah. 3:19
-  - type: text
-    content: Clap your hands, all peoples!
-  - type: note
-    content: Ps. 95:1; [ 1 Sam. 10:24 ]
-  - type: text
-    content: Shout to God with loud songs of joy!
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: God Is King over All the Earth
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'To the choirmaster. A Psalm of '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 42
+      - type: text
+        text: ', title'
+      marker-yv: yv-n
+    - type: text
+      text: the Sons of Korah.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Kgs. 11:12
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 55:12
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Nah. 3:19
+      marker-yv: yv-n
+    - type: text
+      text: Clap your hands, all peoples!
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 95:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Sam. 10:24
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: Shout to God with loud songs of joy!
   '2':
-  - type: text
-    content: 'For the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', the Most High, '
-  - type: note
-    content: Ps. 66:3, 5; 68:35; Deut. 7:21
-  - type: text
-    content: is to be feared,
-  - type: note
-    content: Mal. 1:14
-  - type: text
-    content: a great king over all the earth.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'For the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', the Most High, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 66:3
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '5'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 68:35
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Deut. 7:21
+      marker-yv: yv-n
+    - type: text
+      text: is to be feared,
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Mal. 1:14
+      marker-yv: yv-n
+    - type: text
+      text: a great king over all the earth.
   '3':
-  - type: text
-    content: 'He '
-  - type: note
-    content: See Ps. 18:47
-  - type: text
-    content: subdued peoples under us,
-  - type: text
-    content: and nations under our feet.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'He '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 18:47
+      marker-yv: yv-n
+    - type: text
+      text: subdued peoples under us,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and nations under our feet.
   '4':
-  - type: text
-    content: 'He chose our '
-  - type: note
-    content: Ps. 2:8; [1 Pet. 1:4]
-  - type: text
-    content: heritage for us,
-  - type: note
-    content: Amos 6:8; 8:7; Nah. 2:2
-  - type: text
-    content: 'the pride of Jacob whom he loves. '
-  - type: text
-    content: Selah
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'He chose our '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 2:8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Pet. 1:4
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: heritage for us,
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Amos 6:8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 8:7
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Nah. 2:2
+      marker-yv: yv-n
+    - type: text
+      text: 'the pride of Jacob whom he loves. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Selah
   '5':
-  - type: text
-    content: 'God '
-  - type: note
-    content: 2 Sam. 6:15; [Ps. 68:18]
-  - type: text
-    content: has gone up with a shout,
-  - type: text
-    content: 'the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' with the sound of a trumpet.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'God '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Sam. 6:15
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 68:18
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: has gone up with a shout,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' with the sound of a trumpet.'
   '6':
-  - type: text
-    content: Sing praises to God, sing praises!
-  - type: text
-    content: Sing praises to our King, sing praises!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Sing praises to God, sing praises!
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Sing praises to our King, sing praises!
   '7':
-  - type: text
-    content: 'For God is '
-  - type: note
-    content: Zech. 14:9
-  - type: text
-    content: the King of all the earth;
-  - type: text
-    content: 'sing praises '
-  - type: note
-    content: 1 Cor. 14:15
-  - type: text
-    content: with a psalm!
-  - type: note
-    content: Hebrew maskil
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'For God is '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Zech. 14:9
+      marker-yv: yv-n
+    - type: text
+      text: the King of all the earth;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'sing praises '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Cor. 14:15
+      marker-yv: yv-n
+    - type: text
+      text: with a psalm!
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '47:7 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: maskil
+      marker-yv: yv-n
   '8':
-  - type: text
-    content: 'God '
-  - type: note
-    content: Ps. 22:28; 1 Chr. 16:31
-  - type: text
-    content: reigns over the nations;
-  - type: text
-    content: God sits on his holy throne.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'God '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 22:28
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Chr. 16:31
+      marker-yv: yv-n
+    - type: text
+      text: reigns over the nations;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: God sits on his holy throne.
   '9':
-  - type: text
-    content: ' '
-  - type: note
-    content: '[ Ps. 72:11; Isa. 49:7, 23 ]'
-  - type: text
-    content: The princes of the peoples gather
-  - type: text
-    content: as the people of the God of Abraham.
-  - type: text
-    content: 'For '
-  - type: note
-    content: Ps. 89:18
-  - type: text
-    content: the shields of the earth belong to God;
-  - type: text
-    content: he is highly exalted!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 72:11
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 49:7
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '23'
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: The princes of the peoples gather
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: as the people of the God of Abraham.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'For '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 89:18
+      marker-yv: yv-n
+    - type: text
+      text: the shields of the earth belong to God;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: he is highly exalted!

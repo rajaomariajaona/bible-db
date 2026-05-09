@@ -2,99 +2,198 @@ document_id: PSA.28,1
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: A Psalm
-  - type: text
-    content: ' of David.'
-  - type: text
-    content: 'Unto thee will I cry, O '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' my rock; be not silent to me:'
-  - type: text
-    content: 'Lest, '
-  - type: text
-    content: if
-  - type: text
-    content: ' thou be silent to me, I become like them that go down into the pit.'
+  - type: usfm
+    marker: d
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: A Psalm
+    - type: text
+      text: ' of David.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Unto thee will I cry, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' my rock; be not silent to me:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Lest, '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: if
+    - type: text
+      text: ' thou be silent to me, I become like them that go down into the pit.'
   '2':
-  - type: text
-    content: Hear the voice of my supplications, when I cry unto thee,
-  - type: text
-    content: When I lift up my hands toward thy holy oracle.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Hear the voice of my supplications, when I cry unto thee,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: When I lift up my hands toward thy holy oracle.
   '3':
-  - type: text
-    content: Draw me not away with the wicked, and with the workers of iniquity,
-  - type: text
-    content: 'Which speak peace to their neighbours, but mischief '
-  - type: text
-    content: is
-  - type: text
-    content: ' in their hearts.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Draw me not away with the wicked, and with the workers of iniquity,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Which speak peace to their neighbours, but mischief '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' in their hearts.'
   '4':
-  - type: text
-    content: Give them according to their deeds,
-  - type: text
-    content: 'And according to the wickedness of their endeavours:'
-  - type: text
-    content: Give them after the work of their hands;
-  - type: text
-    content: Render to them their desert.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Give them according to their deeds,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'And according to the wickedness of their endeavours:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Give them after the work of their hands;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Render to them their desert.
   '5':
-  - type: text
-    content: 'Because they regard not the works of the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ', nor the operation of his hands,'
-  - type: text
-    content: He shall destroy them, and not build them up.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Because they regard not the works of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ', nor the operation of his hands,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: He shall destroy them, and not build them up.
   '6':
-  - type: text
-    content: 'Blessed '
-  - type: text
-    content: be
-  - type: text
-    content: ' the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ','
-  - type: text
-    content: Because he hath heard the voice of my supplications.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Blessed '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: be
+    - type: text
+      text: ' the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Because he hath heard the voice of my supplications.
   '7':
-  - type: text
-    content: 'The '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' '
-  - type: text
-    content: is
-  - type: text
-    content: ' my strength and my shield; my heart trusted in him, and I am helped:'
-  - type: text
-    content: Therefore my heart greatly rejoiceth; and with my song will I praise him.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' my strength and my shield; my heart trusted in him, and I am helped:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Therefore my heart greatly rejoiceth; and with my song will I praise him.
   '8':
-  - type: text
-    content: 'The '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' '
-  - type: text
-    content: is
-  - type: text
-    content: ' their strength,'
-  - type: text
-    content: 'And he '
-  - type: text
-    content: is
-  - type: text
-    content: ' the saving strength of his anointed.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' their strength,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'And he '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' the saving strength of his anointed.'
   '9':
-  - type: text
-    content: 'Save thy people, and bless thine inheritance:'
-  - type: text
-    content: Feed them also, and lift them up for ever.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Save thy people, and bless thine inheritance:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Feed them also, and lift them up for ever.

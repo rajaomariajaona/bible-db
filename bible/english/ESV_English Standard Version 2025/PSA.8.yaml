@@ -2,135 +2,556 @@ document_id: PSA.8,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: How Majestic Is Your Name
-  - type: text
-    content: 'To the choirmaster: according to The '
-  - type: note
-    content: Ps. 81, title; 84, title
-  - type: text
-    content: Gittith.
-  - type: note
-    content: Probably a musical or liturgical term
-  - type: text
-    content: ' A Psalm of David.'
-  - type: text
-    content: 'O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', our Lord,'
-  - type: text
-    content: 'how majestic is your '
-  - type: note
-    content: Ps. 148:13; Isa. 12:4; [Ex. 34:5]
-  - type: text
-    content: name in all the earth!
-  - type: text
-    content: 'You have set your '
-  - type: note
-    content: Ps. 113:4
-  - type: text
-    content: glory above the heavens.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: How Majestic Is Your Name
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'To the choirmaster: according to The '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 81
+      - type: text
+        text: ', title; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '84'
+      - type: text
+        text: ', title'
+      marker-yv: yv-n
+    - type: text
+      text: Gittith.
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '8:1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Probably a musical or liturgical term
+      marker-yv: yv-n
+    - type: text
+      text: ' A Psalm of David.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', our Lord,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'how majestic is your '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 148:13
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 12:4
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ex. 34:5
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: name in all the earth!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'You have set your '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 113:4
+      marker-yv: yv-n
+    - type: text
+      text: glory above the heavens.
   '2':
-  - type: text
-    content: ' '
-  - type: note
-    content: Cited Matt. 21:16; [ Matt. 11:25; 1 Cor. 1:27 ]
-  - type: text
-    content: Out of the mouth of babies and infants,
-  - type: text
-    content: 'you have established '
-  - type: note
-    content: Jer. 16:19
-  - type: text
-    content: strength because of your foes,
-  - type: text
-    content: 'to still '
-  - type: note
-    content: Ps. 44:16
-  - type: text
-    content: the enemy and the avenger.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'Cited '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 21:16
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 11:25
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Cor. 1:27
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: Out of the mouth of babies and infants,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'you have established '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 16:19
+      marker-yv: yv-n
+    - type: text
+      text: strength because of your foes,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'to still '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 44:16
+      marker-yv: yv-n
+    - type: text
+      text: the enemy and the avenger.
   '3':
-  - type: text
-    content: 'When I '
-  - type: note
-    content: '[Ps. 111:2]'
-  - type: text
-    content: 'look at your heavens, the work of your '
-  - type: note
-    content: Ex. 8:19; 31:18
-  - type: text
-    content: fingers,
-  - type: text
-    content: 'the moon and the stars, '
-  - type: note
-    content: Gen. 1:16
-  - type: text
-    content: which you have set in place,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'When I '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 111:2
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'look at your heavens, the work of your '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ex. 8:19
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 31:18
+      marker-yv: yv-n
+    - type: text
+      text: fingers,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'the moon and the stars, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Gen. 1:16
+      marker-yv: yv-n
+    - type: text
+      text: which you have set in place,
   '4':
-  - type: text
-    content: ' '
-  - type: note
-    content: Cited Heb. 2:6-8; [ Ps. 144:3; Job 7:17; 25:6 ]
-  - type: text
-    content: 'what is man that you are '
-  - type: note
-    content: '[Gen. 8:1]'
-  - type: text
-    content: mindful of him,
-  - type: text
-    content: 'and '
-  - type: note
-    content: Ps. 80:17
-  - type: text
-    content: 'the son of man that you '
-  - type: note
-    content: Ps. 65:9; Gen. 21:1; 50:24
-  - type: text
-    content: care for him?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'Cited '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Heb. 2:6-8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 144:3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 7:17
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 25:6
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'what is man that you are '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Gen. 8:1
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: mindful of him,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 80:17
+      marker-yv: yv-n
+    - type: text
+      text: 'the son of man that you '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 65:9
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Gen. 21:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 50:24
+      marker-yv: yv-n
+    - type: text
+      text: care for him?
   '5':
-  - type: text
-    content: 'Yet you have made him a little lower than '
-  - type: note
-    content: '[Gen. 1:26]'
-  - type: text
-    content: the heavenly beings
-  - type: note
-    content: Or than God; Septuagint than the angels
-  - type: text
-    content: 'and crowned him with '
-  - type: note
-    content: Ps. 21:5
-  - type: text
-    content: glory and honor.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Yet you have made him a little lower than '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Gen. 1:26
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: the heavenly beings
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '8:5 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: than God
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '; Septuagint '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: than the angels
+      marker-yv: yv-n
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and crowned him with '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 21:5
+      marker-yv: yv-n
+    - type: text
+      text: glory and honor.
   '6':
-  - type: text
-    content: 'You have given him '
-  - type: note
-    content: Gen. 1:26, 28
-  - type: text
-    content: dominion over the works of your hands;
-  - type: note
-    content: Cited 1 Cor. 15:27; [ Matt. 28:18 ]
-  - type: text
-    content: you have put all things under his feet,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'You have given him '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Gen. 1:26
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '28'
+      marker-yv: yv-n
+    - type: text
+      text: dominion over the works of your hands;
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'Cited '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Cor. 15:27
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 28:18
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: you have put all things under his feet,
   '7':
-  - type: text
-    content: all sheep and oxen,
-  - type: text
-    content: and also the beasts of the field,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: all sheep and oxen,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and also the beasts of the field,
   '8':
-  - type: text
-    content: the birds of the heavens, and the fish of the sea,
-  - type: text
-    content: whatever passes along the paths of the seas.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: the birds of the heavens, and the fish of the sea,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: whatever passes along the paths of the seas.
   '9':
-  - type: text
-    content: 'O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', our Lord,'
-  - type: text
-    content: how majestic is your name in all the earth!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', our Lord,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: how majestic is your name in all the earth!

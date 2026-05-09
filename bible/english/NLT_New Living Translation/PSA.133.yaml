@@ -2,31 +2,67 @@ document_id: PSA.133,116
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: A song for pilgrims ascending to Jerusalem. A psalm of David.
-  - type: text
-    content: How wonderful and pleasant it is
-  - type: text
-    content: when brothers live together in harmony!
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: A song for pilgrims ascending to Jerusalem. A psalm of David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: How wonderful and pleasant it is
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: when brothers live together in harmony!
   '2':
-  - type: text
-    content: For harmony is as precious as the anointing oil
-  - type: text
-    content: that was poured over Aaron’s head,
-  - type: text
-    content: that ran down his beard
-  - type: text
-    content: and onto the border of his robe.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: For harmony is as precious as the anointing oil
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: that was poured over Aaron’s head,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: that ran down his beard
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and onto the border of his robe.
   '3':
-  - type: text
-    content: Harmony is as refreshing as the dew from Mount Hermon
-  - type: text
-    content: that falls on the mountains of Zion.
-  - type: text
-    content: 'And there the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' has pronounced his blessing,'
-  - type: text
-    content: even life everlasting.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Harmony is as refreshing as the dew from Mount Hermon
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: that falls on the mountains of Zion.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'And there the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' has pronounced his blessing,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: even life everlasting.

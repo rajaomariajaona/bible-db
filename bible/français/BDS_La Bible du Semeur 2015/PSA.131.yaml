@@ -2,29 +2,79 @@ document_id: PSA.131,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Calme souverain
-  - type: text
-    content: Cantique pour la route vers la demeure de l’Eternel
-  - type: note
-    content: Voir note 120.1.
-  - type: text
-    content: . De David.
-  - type: text
-    content: O Eternel, ╵mon cœur ne s’enfle pas d’orgueil, ╵mes yeux n’ont pas visé trop haut,
-  - type: text
-    content: je ne me suis pas engagé ╵dans des projets trop grands,
-  - type: text
-    content: trop compliqués pour moi.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Calme souverain
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: Cantique pour la route vers la demeure de l’Eternel
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '131.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Voir note '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: '120.1'
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: . De David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: O Eternel, ╵mon cœur ne s’enfle pas d’orgueil, ╵mes yeux n’ont pas visé trop haut,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: je ne me suis pas engagé ╵dans des projets trop grands,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: trop compliqués pour moi.
   '2':
-  - type: text
-    content: 'Bien au contraire : ╵je suis resté tranquille et calme,'
-  - type: text
-    content: comme un enfant sevré ╵porté par sa maman.
-  - type: text
-    content: Oui, je me sens au fond de moi ╵comme l’enfant sevré.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Bien au contraire : ╵je suis resté tranquille et calme,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: comme un enfant sevré ╵porté par sa maman.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Oui, je me sens au fond de moi ╵comme l’enfant sevré.
   '3':
-  - type: text
-    content: Israël, mets ta confiance ╵en l’Eternel,
-  - type: text
-    content: dès maintenant et pour toujours.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Israël, mets ta confiance ╵en l’Eternel,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: dès maintenant et pour toujours.

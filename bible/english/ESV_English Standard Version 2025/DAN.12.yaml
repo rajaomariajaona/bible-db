@@ -2,187 +2,975 @@ document_id: DAN.12,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: The Time of the End
-  - type: text
-    content: '“At that time shall arise '
-  - type: note
-    content: See ch. 10:13
-  - type: text
-    content: 'Michael, the great prince who has charge of your people. And '
-  - type: note
-    content: Jer. 30:7; Matt. 24:21; Mark 13:19; [Rev. 16:18]
-  - type: text
-    content: 'there shall be a time of trouble, such as never has been since there was a nation till that time. But at that time your people shall be delivered, '
-  - type: note
-    content: Ex. 32:32, 33; [Ezek. 13:9; Luke 10:20; Rev. 20:12]
-  - type: text
-    content: 'everyone whose name shall be found written in the book. '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: The Time of the End
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: '“At that time shall arise '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 10:13
+      marker-yv: yv-n
+    - type: text
+      text: 'Michael, the great prince who has charge of your people. And '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 30:7
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 24:21
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Mark 13:19
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rev. 16:18
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'there shall be a time of trouble, such as never has been since there was a nation till that time. But at that time your people shall be delivered, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ex. 32:32
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '33'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ezek. 13:9
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Luke 10:20
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rev. 20:12
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'everyone whose name shall be found written in the book. '
   '10':
-  - type: note
-    content: '[ch. 11:35]'
-  - type: text
-    content: 'Many shall purify themselves and make themselves white and be refined, but '
-  - type: note
-    content: '[Rev. 9:20; 22:11]'
-  - type: text
-    content: 'the wicked shall act wickedly. And none of the wicked shall understand, '
-  - type: note
-    content: '[See ver. 3 above]'
-  - type: text
-    content: 'but those who are wise shall understand. '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 11:35
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'Many shall purify themselves and make themselves white and be refined, but '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rev. 9:20
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 22:11
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'the wicked shall act wickedly. And none of the wicked shall understand, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[See ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '3'
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: above]
+      marker-yv: yv-n
+    - type: text
+      text: 'but those who are wise shall understand. '
   '11':
-  - type: text
-    content: 'And from the time that '
-  - type: note
-    content: ch. 11:31
-  - type: text
-    content: 'the regular burnt offering is taken away and '
-  - type: note
-    content: See ch. 11:31
-  - type: text
-    content: 'the abomination that makes desolate is set up, there shall be 1,290 days. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'And from the time that '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 11:31
+      marker-yv: yv-n
+    - type: text
+      text: 'the regular burnt offering is taken away and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 11:31
+      marker-yv: yv-n
+    - type: text
+      text: 'the abomination that makes desolate is set up, there shall be 1,290 days. '
   '12':
-  - type: note
-    content: '[Matt. 10:22]'
-  - type: text
-    content: 'Blessed is he who waits and arrives at the 1,335 days. '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 10:22
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'Blessed is he who waits and arrives at the 1,335 days. '
   '13':
-  - type: note
-    content: ver. 9
-  - type: text
-    content: 'But go your way till the end. '
-  - type: note
-    content: Isa. 57:2; [Rev. 6:11]
-  - type: text
-    content: 'And you shall rest and shall stand in your allotted place at '
-  - type: note
-    content: '[Matt. 13:39]'
-  - type: text
-    content: the end of the days.”
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '9'
+      marker-yv: yv-n
+    - type: text
+      text: 'But go your way till the end. '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 57:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rev. 6:11
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'And you shall rest and shall stand in your allotted place at '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 13:39
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: the end of the days.”
   '2':
-  - type: text
-    content: 'And many of those who '
-  - type: note
-    content: '[Ps. 17:15; John 11:11]'
-  - type: text
-    content: 'sleep in '
-  - type: note
-    content: '[Isa. 26:19]; See Ezek. 37:1-10'
-  - type: text
-    content: 'the dust of the earth shall '
-  - type: note
-    content: '[Isa. 26:19]; See Ezek. 37:1-10'
-  - type: text
-    content: 'awake, '
-  - type: note
-    content: Matt. 25:46; John 5:28, 29; Acts 24:15; Rev. 20:12, 13
-  - type: text
-    content: 'some to everlasting life, and '
-  - type: note
-    content: Matt. 25:46; John 5:28, 29; Acts 24:15; Rev. 20:12, 13
-  - type: text
-    content: 'some to shame and everlasting contempt. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'And many of those who '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 17:15
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: John 11:11
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'sleep in '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 26:19
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']; See Ezek. 37:1-10'
+      marker-yv: yv-n
+    - type: text
+      text: 'the dust of the earth shall '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 26:19
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']; See Ezek. 37:1-10'
+      marker-yv: yv-n
+    - type: text
+      text: 'awake, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 25:46
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: John 5:28
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '29'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Acts 24:15
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rev. 20:12
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '13'
+      marker-yv: yv-n
+    - type: text
+      text: 'some to everlasting life, and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 25:46
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: John 5:28
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '29'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Acts 24:15
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rev. 20:12
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '13'
+      marker-yv: yv-n
+    - type: text
+      text: 'some to shame and everlasting contempt. '
   '3':
-  - type: note
-    content: ch. 11:33
-  - type: text
-    content: 'And those who are wise '
-  - type: note
-    content: Matt. 13:43
-  - type: text
-    content: shall shine like the brightness of the sky above;
-  - type: note
-    content: Hebrew the expanse; compare Genesis 1:6–8
-  - type: text
-    content: ' and '
-  - type: note
-    content: '[Mal. 2:6]'
-  - type: text
-    content: 'those who turn many to righteousness, like the stars forever and ever. '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 11:33
+      marker-yv: yv-n
+    - type: text
+      text: 'And those who are wise '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 13:43
+      marker-yv: yv-n
+    - type: text
+      text: shall shine like the brightness of the sky above;
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '12:3 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: the expanse
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ; compare Genesis 1:6–8
+      marker-yv: yv-n
+    - type: text
+      text: ' and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Mal. 2:6
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'those who turn many to righteousness, like the stars forever and ever. '
   '4':
-  - type: text
-    content: 'But you, Daniel, '
-  - type: note
-    content: '[ver. 9; ch. 8:26]'
-  - type: text
-    content: 'shut up the words and '
-  - type: note
-    content: Isa. 8:16; 29:11; Rev. 5:1; 10:4; 22:10
-  - type: text
-    content: 'seal the book, until '
-  - type: note
-    content: '[ver. 13]; See ch. 8:17'
-  - type: text
-    content: 'the time of the end. '
-  - type: note
-    content: Amos 8:12
-  - type: text
-    content: Many shall run to and fro, and knowledge shall increase.”
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'But you, Daniel, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ver. 9; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 8:26
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'shut up the words and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 8:16
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 29:11
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rev. 5:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 10:4
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 22:10
+      marker-yv: yv-n
+    - type: text
+      text: 'seal the book, until '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ver. 13'
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 8:17
+      marker-yv: yv-n
+    - type: text
+      text: 'the time of the end. '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Amos 8:12
+      marker-yv: yv-n
+    - type: text
+      text: Many shall run to and fro, and knowledge shall increase.”
   '5':
-  - type: text
-    content: 'Then I, Daniel, looked, and behold, two others stood, one on '
-  - type: note
-    content: '[ch. 10:4]'
-  - type: text
-    content: 'this bank of the stream and one on that bank of the stream. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Then I, Daniel, looked, and behold, two others stood, one on '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 10:4
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'this bank of the stream and one on that bank of the stream. '
   '6':
-  - type: text
-    content: 'And someone said to '
-  - type: note
-    content: ch. 10:5; Ezek. 9:2
-  - type: text
-    content: the man clothed in linen, who was above the waters of the stream,
-  - type: note
-    content: Or who was upstream; also verse 7
-  - type: text
-    content: ' '
-  - type: note
-    content: ch. 8:13
-  - type: text
-    content: '“How long shall it be till the end of these wonders?” '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'And someone said to '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 10:5
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ezek. 9:2
+      marker-yv: yv-n
+    - type: text
+      text: the man clothed in linen, who was above the waters of the stream,
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '12:6 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: who was upstream
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ; also verse 7
+      marker-yv: yv-n
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 8:13
+      marker-yv: yv-n
+    - type: text
+      text: '“How long shall it be till the end of these wonders?” '
   '7':
-  - type: text
-    content: 'And I heard '
-  - type: note
-    content: '[See ver. 6 above]'
-  - type: text
-    content: 'the man clothed in linen, who was above the waters of the stream; '
-  - type: note
-    content: See Gen. 14:22
-  - type: text
-    content: 'he raised his right hand and his left hand toward heaven and '
-  - type: note
-    content: '[Rev. 10:6]'
-  - type: text
-    content: 'swore by him who lives forever that it would be for a '
-  - type: note
-    content: ch. 7:25
-  - type: text
-    content: 'time, times, and half a time, and that when the shattering of '
-  - type: note
-    content: '[ch. 8:24]'
-  - type: text
-    content: 'the power of '
-  - type: note
-    content: '[ch. 8:24]'
-  - type: text
-    content: 'the holy people comes to an end all these things would be finished. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'And I heard '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[See ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '6'
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: above]
+      marker-yv: yv-n
+    - type: text
+      text: 'the man clothed in linen, who was above the waters of the stream; '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Gen. 14:22
+      marker-yv: yv-n
+    - type: text
+      text: 'he raised his right hand and his left hand toward heaven and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rev. 10:6
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'swore by him who lives forever that it would be for a '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 7:25
+      marker-yv: yv-n
+    - type: text
+      text: 'time, times, and half a time, and that when the shattering of '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 8:24
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'the power of '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 8:24
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'the holy people comes to an end all these things would be finished. '
   '8':
-  - type: text
-    content: 'I heard, '
-  - type: note
-    content: '[ch. 8:15]'
-  - type: text
-    content: 'but I did not understand. Then I said, “O my lord, what shall be the outcome of these things?” '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'I heard, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 8:15
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'but I did not understand. Then I said, “O my lord, what shall be the outcome of these things?” '
   '9':
-  - type: text
-    content: 'He said, '
-  - type: note
-    content: ver. 13
-  - type: text
-    content: '“Go your way, Daniel, '
-  - type: note
-    content: '[ver. 4]'
-  - type: text
-    content: 'for the words are shut up and sealed until the time of the end. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'He said, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '13'
+      marker-yv: yv-n
+    - type: text
+      text: '“Go your way, Daniel, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '4'
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'for the words are shut up and sealed until the time of the end. '

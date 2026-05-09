@@ -2,20 +2,58 @@ document_id: PSA.117,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Louange universelle
-  - type: text
-    content: Louez l’Eternel, ╵vous, gens de toutes nations !
-  - type: text
-    content: Chantez ses louanges, ╵ô vous, tous les peuples
-  - type: note
-    content: Cité en Rm 15.11.
-  - type: text
-    content: '  !'
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Louange universelle
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Louez l’Eternel, ╵vous, gens de toutes nations !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Chantez ses louanges, ╵ô vous, tous les peuples
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '117.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Cité en '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Rm 15.11
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: '  !'
   '2':
-  - type: text
-    content: Car son amour pour nous est immense.
-  - type: text
-    content: La fidélité de l’Eternel ╵subsiste à jamais.
-  - type: text
-    content: Louez l’Eternel !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Car son amour pour nous est immense.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: La fidélité de l’Eternel ╵subsiste à jamais.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Louez l’Eternel !

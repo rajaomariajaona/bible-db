@@ -2,45 +2,329 @@ document_id: JER.45,104
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Un message du Seigneur pour Baruch
-  - type: text
-    content: ' '
-  - type: note
-    content: 'Cf. 34.1-7 ; 39.15-18. –  Baruch 32.12+. –  celui-ci  : c.-à-d. Baruch. –  sous la dictée 36.4n. –  la quatrième année de Joïaqim 25.1n.'
-  - type: text
-    content: 'Parole que Jérémie, le prophète, adressa à Baruch, fils de Nériya, lorsque celui-ci écrivit dans un livre ces paroles, sous la dictée de Jérémie, la quatrième année de Joïaqim, fils de Josias, roi de Juda :'
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: 'Un message du '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' pour Baruch'
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '45.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Cf. 34.1-7 ; 39.15-18. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Baruch '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '32.12+. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: celui-ci
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : c.-à-d. Baruch. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'sous la dictée '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '36.4'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'la quatrième année de Joïaqim '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '25.1'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Parole que Jérémie, le prophète, adressa à Baruch, fils de Nériya, lorsque celui-ci écrivit dans un livre ces paroles, sous la dictée de Jérémie, la quatrième année de Joïaqim, fils de Josias, roi de Juda :'
   '2':
-  - type: text
-    content: 'Ainsi parle le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ', le Dieu d''Israël, sur toi, Baruch : '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ainsi parle le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ', le Dieu d''Israël, sur toi, Baruch : '
   '3':
-  - type: note
-    content: 'Tu dis  : LXX a lu puisque tu dis. –  Quel malheur pour moi 10.19. –  je me fatigue à force de gémir Ps 6.7. –  pas le repos  : autre traduction pas de lieu de repos  ; Lm 5.5.'
-  - type: text
-    content: 'Tu dis : « Quel malheur pour moi ! Le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' ajoute le tourment à ma douleur ; je me fatigue à force de gémir, et je ne trouve pas le repos ! » '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '45.3 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Tu dis
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '  : '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: LXX
+        - type: text
+          text: ' a lu '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: puisque tu dis
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Quel malheur pour moi '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '10.19. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'je me fatigue à force de gémir '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Ps 6.7. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: pas le repos
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '  : autre traduction '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: pas de lieu de repos
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '  ; Lm 5.5.'
+      marker-yv: yv-n
+    - type: text
+      text: 'Tu dis : « Quel malheur pour moi ! Le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' ajoute le tourment à ma douleur ; je me fatigue à force de gémir, et je ne trouve pas le repos ! » '
   '4':
-  - type: note
-    content: 1.10+. –  tout ce pays ou toute la terre  ; cette explicitation est omise par LXX.
-  - type: text
-    content: 'C''est ainsi que tu lui parleras : Ainsi parle le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: '  : Je rase ce que j''ai bâti, je déracine ce que j''ai planté – tout ce pays. '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '45.4 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '1.10+. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'tout ce pays '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: toute la terre
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '  ; cette explicitation est omise par LXX.'
+      marker-yv: yv-n
+    - type: text
+      text: 'C''est ainsi que tu lui parleras : Ainsi parle le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: '  : Je rase ce que j''ai bâti, je déracine ce que j''ai planté – tout ce pays. '
   '5':
-  - type: note
-    content: 'de grandes choses  : cf. Ps 131 ; Rm 12.3,16. –  je fais venir… 6.19+. –  sur tous  : litt. sur toute chair. –  ta vie pour butin 21.9n  ; cf. 39.18.'
-  - type: text
-    content: 'Et toi, tu rechercherais de grandes choses ? Ne les recherche pas ! Car je fais venir le malheur sur tous, – déclaration du '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: '  – mais je te donnerai ta vie pour butin, dans tous les lieux où tu iras.'
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '45.5 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: de grandes choses
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '  : cf. Ps 131 ; Rm 12.3,16. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'je fais venir… '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '6.19+. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: sur tous
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '  : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'sur toute '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: chair
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'ta vie pour butin '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '21.9'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; cf. 39.18.'
+      marker-yv: yv-n
+    - type: text
+      text: 'Et toi, tu rechercherais de grandes choses ? Ne les recherche pas ! Car je fais venir le malheur sur tous, – déclaration du '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: '  – mais je te donnerai ta vie pour butin, dans tous les lieux où tu iras.'

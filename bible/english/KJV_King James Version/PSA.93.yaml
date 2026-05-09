@@ -2,69 +2,135 @@ document_id: PSA.93,1
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: 'The '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' reigneth, he is clothed with majesty;'
-  - type: text
-    content: 'The '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' is clothed with strength, '
-  - type: text
-    content: wherewith
-  - type: text
-    content: ' he hath girded himself:'
-  - type: text
-    content: The world also is stablished,
-  - type: text
-    content: That it cannot be moved.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' reigneth, he is clothed with majesty;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' is clothed with strength, '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: wherewith
+    - type: text
+      text: ' he hath girded himself:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: The world also is stablished,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: That it cannot be moved.
   '2':
-  - type: text
-    content: 'Thy throne '
-  - type: text
-    content: is
-  - type: text
-    content: ' established of old:'
-  - type: text
-    content: 'Thou '
-  - type: text
-    content: art
-  - type: text
-    content: ' from everlasting.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Thy throne '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' established of old:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Thou '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: art
+    - type: text
+      text: ' from everlasting.'
   '3':
-  - type: text
-    content: 'The floods have lifted up, O '
-  - type: text
-    content: LORD
-  - type: text
-    content: ', the floods have lifted up their voice;'
-  - type: text
-    content: The floods lift up their waves.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The floods have lifted up, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ', the floods have lifted up their voice;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: The floods lift up their waves.
   '4':
-  - type: text
-    content: 'The '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' on high '
-  - type: text
-    content: is
-  - type: text
-    content: ' mightier than the noise of many waters,'
-  - type: text
-    content: Yea, than
-  - type: text
-    content: ' the mighty waves of the sea.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' on high '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' mightier than the noise of many waters,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: Yea, than
+    - type: text
+      text: ' the mighty waves of the sea.'
   '5':
-  - type: text
-    content: 'Thy testimonies are very sure:'
-  - type: text
-    content: 'Holiness becometh thine house, O '
-  - type: text
-    content: LORD
-  - type: text
-    content: ', for ever.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Thy testimonies are very sure:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Holiness becometh thine house, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ', for ever.'

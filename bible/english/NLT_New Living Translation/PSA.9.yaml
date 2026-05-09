@@ -2,154 +2,377 @@ document_id: PSA.9,116
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: 'For the choir director: A psalm of David, to be sung to the tune “Death of the Son.”'
-  - type: text
-    content: 'I will praise you, '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', with all my heart;'
-  - type: text
-    content: I will tell of all the marvelous things you have done.
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'For the choir director: A psalm of David, to be sung to the tune “Death of the Son.”'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I will praise you, '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', with all my heart;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: I will tell of all the marvelous things you have done.
   '10':
-  - type: text
-    content: Those who know your name trust in you,
-  - type: text
-    content: 'for you, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', do not abandon those who search for you.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Those who know your name trust in you,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'for you, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', do not abandon those who search for you.'
   '11':
-  - type: text
-    content: 'Sing praises to the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' who reigns in Jerusalem.'
-  - type: note
-    content: Hebrew Zion; also in 9:14.
-  - type: text
-    content: Tell the world about his unforgettable deeds.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Sing praises to the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' who reigns in Jerusalem.'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '9:11 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Zion; '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: also in 9:14.
+      marker-yv: yv-n
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Tell the world about his unforgettable deeds.
   '12':
-  - type: text
-    content: For he who avenges murder cares for the helpless.
-  - type: text
-    content: He does not ignore the cries of those who suffer.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: For he who avenges murder cares for the helpless.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: He does not ignore the cries of those who suffer.
   '13':
-  - type: text
-    content: ' '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', have mercy on me.'
-  - type: text
-    content: See how my enemies torment me.
-  - type: text
-    content: Snatch me back from the jaws of death.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', have mercy on me.'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: See how my enemies torment me.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Snatch me back from the jaws of death.
   '14':
-  - type: text
-    content: Save me so I can praise you publicly at Jerusalem’s gates,
-  - type: text
-    content: so I can rejoice that you have rescued me.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Save me so I can praise you publicly at Jerusalem’s gates,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: so I can rejoice that you have rescued me.
   '15':
-  - type: text
-    content: The nations have fallen into the pit they dug for others.
-  - type: text
-    content: Their own feet have been caught in the trap they set.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: The nations have fallen into the pit they dug for others.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Their own feet have been caught in the trap they set.
   '16':
-  - type: text
-    content: 'The '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' is known for his justice.'
-  - type: text
-    content: 'The wicked are trapped by their own deeds. '
-  - type: text
-    content: Quiet Interlude
-  - type: note
-    content: Hebrew Higgaion Selah. The meaning of this phrase is uncertain.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' is known for his justice.'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'The wicked are trapped by their own deeds. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Quiet Interlude
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '9:16 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Higgaion Selah. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: The meaning of this phrase is uncertain.
+      marker-yv: yv-n
   '17':
-  - type: text
-    content: The wicked will go down to the grave.
-  - type: note
-    content: Hebrew to Sheol.
-  - type: text
-    content: This is the fate of all the nations who ignore God.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: The wicked will go down to the grave.
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '9:17 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: to Sheol.
+      marker-yv: yv-n
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: This is the fate of all the nations who ignore God.
   '18':
-  - type: text
-    content: But the needy will not be ignored forever;
-  - type: text
-    content: the hopes of the poor will not always be crushed.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: But the needy will not be ignored forever;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: the hopes of the poor will not always be crushed.
   '19':
-  - type: text
-    content: 'Arise, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: '!'
-  - type: text
-    content: Do not let mere mortals defy you!
-  - type: text
-    content: Judge the nations!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Arise, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: '!'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Do not let mere mortals defy you!
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Judge the nations!
   '2':
-  - type: text
-    content: I will be filled with joy because of you.
-  - type: text
-    content: I will sing praises to your name, O Most High.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: I will be filled with joy because of you.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: I will sing praises to your name, O Most High.
   '20':
-  - type: text
-    content: 'Make them tremble in fear, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: .
-  - type: text
-    content: 'Let the nations know they are merely human. '
-  - type: text
-    content: Interlude
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Make them tremble in fear, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: .
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Let the nations know they are merely human. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Interlude
   '3':
-  - type: text
-    content: My enemies retreated;
-  - type: text
-    content: they staggered and died when you appeared.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: My enemies retreated;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: they staggered and died when you appeared.
   '4':
-  - type: text
-    content: For you have judged in my favor;
-  - type: text
-    content: from your throne you have judged with fairness.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: For you have judged in my favor;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: from your throne you have judged with fairness.
   '5':
-  - type: text
-    content: You have rebuked the nations and destroyed the wicked;
-  - type: text
-    content: you have erased their names forever.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: You have rebuked the nations and destroyed the wicked;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: you have erased their names forever.
   '6':
-  - type: text
-    content: The enemy is finished, in endless ruins;
-  - type: text
-    content: the cities you uprooted are now forgotten.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: The enemy is finished, in endless ruins;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: the cities you uprooted are now forgotten.
   '7':
-  - type: text
-    content: 'But the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' reigns forever,'
-  - type: text
-    content: executing judgment from his throne.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'But the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' reigns forever,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: executing judgment from his throne.
   '8':
-  - type: text
-    content: He will judge the world with justice
-  - type: text
-    content: and rule the nations with fairness.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: He will judge the world with justice
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and rule the nations with fairness.
   '9':
-  - type: text
-    content: 'The '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' is a shelter for the oppressed,'
-  - type: text
-    content: a refuge in times of trouble.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' is a shelter for the oppressed,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: a refuge in times of trouble.

@@ -2,116 +2,757 @@ document_id: PSA.20,104
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Prière pour le roi
-  - type: text
-    content: ' '
-  - type: note
-    content: 13.1+.
-  - type: text
-    content: Du chef de chœur. Psaume. De David.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Prière pour le roi
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '20.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 13.1+.
+      marker-yv: yv-n
+    - type: text
+      text: Du chef de chœur. Psaume. De David.
   '10':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'On pourrait aussi comprendre  : Seigneur, sauve ! Que le roi nous réponde…  ; LXX Seigneur, sauve ton roi et exauce-nous…  ; cf. 28.8s ; 118.25.'
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ', sauve le roi !'
-  - type: text
-    content: Qu'il nous réponde, le jour où nous l'invoquons !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '20.10 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: On pourrait aussi comprendre
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: usfm
+          marker: nd
+          children:
+          - type: text
+            text: Seigneur
+        - type: text
+          text: ', sauve ! Que le roi nous réponde…'
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' ; LXX '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: Seigneur, sauve ton roi et exauce-nous…
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text:  ; cf. 28.8s ; 118.25.
+      marker-yv: yv-n
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ', sauve le roi !'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Qu'il nous réponde, le jour où nous l'invoquons !
   '2':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'au jour de la détresse  : cf. 9.10+ ; 86.7. –  Dieu de Jacob 24.6n  ; 46.8,12 ; 75.10 ; 76.7 ; 81.2,5 ; 84.9 ; 94.7 ; 2S 23.1 ; Mi 4.2. –  te protège  : le verbe hébreu signifie, au propre  : placer dans un lieu élevé , c.-à-d. inaccessible aux ennemis ; de même en 59.2 ; 69.30 ; 91.14 ; 107.41.'
-  - type: text
-    content: 'Que le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' te réponde au jour de la détresse,'
-  - type: text
-    content: que le nom du Dieu de Jacob te protège !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '20.2 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: au jour de la détresse
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : cf. 9.10+ ; 86.7. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Dieu de Jacob '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '24.6'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; 46.8,12 ; 75.10 ; 76.7 ; 81.2,5 ; 84.9 ; 94.7 ; 2S 23.1 ; Mi 4.2. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: te protège
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : le verbe hébreu signifie, au propre'
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: placer dans un lieu élevé
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', c.-à-d. inaccessible aux ennemis ; de même en 59.2 ; 69.30 ; 91.14 ; 107.41.'
+      marker-yv: yv-n
+    - type: text
+      text: 'Que le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' te réponde au jour de la détresse,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: que le nom du Dieu de Jacob te protège !
   '3':
-  - type: text
-    content: ' '
-  - type: note
-    content: de Sion 14.7+ ; cf. 110.2. –  il te soutienne 18.36+.
-  - type: text
-    content: Que du sanctuaire il t'envoie du secours,
-  - type: text
-    content: que de Sion il te soutienne !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '20.3 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'de Sion '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '14.7+ ; cf. 110.2. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'il te soutienne '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 18.36+.
+      marker-yv: yv-n
+    - type: text
+      text: Que du sanctuaire il t'envoie du secours,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: que de Sion il te soutienne !
   '4':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'qu''il agrée  : litt. qu''il trouve gras (les sacrifices) ; certains modifient le texte hébreu traditionnel pour lire qu''il recherche.'
-  - type: text
-    content: Qu'il se souvienne de toutes tes offrandes,
-  - type: text
-    content: 'qu''il agrée tes holocaustes ! '
-  - type: text
-    content: Pause.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '20.4 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: qu'il agrée
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'qu''il trouve gras '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '(les '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: sacrifices
+        - type: text
+          text: ') ; certains modifient le texte hébreu traditionnel pour lire '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: qu'il recherche.
+      marker-yv: yv-n
+    - type: text
+      text: Qu'il se souvienne de toutes tes offrandes,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'qu''il agrée tes holocaustes ! '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Pause.
   '5':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'ce que ton cœur désire  : litt. selon ton cœur  ; cf. 13.6 ; 21.3 ; 37.4 ; 1S 1.17 ; Ph 4.19.'
-  - type: text
-    content: Qu'il te donne ce que ton cœur désire,
-  - type: text
-    content: qu'il accomplisse tous tes projets !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '20.5 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'ce que ton '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: cœur
+        - type: text
+          text: ' désire'
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: selon ton cœur
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text:  ; cf. 13.6 ; 21.3 ; 37.4 ; 1S 1.17 ; Ph 4.19.
+      marker-yv: yv-n
+    - type: text
+      text: Qu'il te donne ce que ton cœur désire,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: qu'il accomplisse tous tes projets !
   '6':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'nous lèverons l''étendard  : LXX nous serons grandis , c.-à-d. glorifiés  ; certains modifient le texte hébreu traditionnel pour lire nous serons dans l''allégresse.'
-  - type: text
-    content: Nous pousserons des cris de joie à cause de ton salut,
-  - type: text
-    content: nous lèverons l'étendard au nom de notre Dieu ;
-  - type: text
-    content: 'le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' accomplira tout ce que tu demandes.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '20.6 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: nous lèverons l'étendard
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: LXX
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: nous serons grandis
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', c.-à-d. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: glorifiés
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' ; certains modifient le texte hébreu traditionnel pour lire '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: nous serons dans l'allégresse.
+      marker-yv: yv-n
+    - type: text
+      text: Nous pousserons des cris de joie à cause de ton salut,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: nous lèverons l'étendard au nom de notre Dieu ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' accomplira tout ce que tu demandes.'
   '7':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'l''homme qui a reçu son onction 2.2n  ; cf. 18.51. –  de son sanctuaire céleste  : litt. du ciel de sa sainteté , ce qui pourrait aussi signifier de son ciel sacré. –  le secours puissant  : autre traduction les hauts faits salvateurs. –  sa main droite 17.7+.'
-  - type: text
-    content: 'Je sais maintenant que le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' sauve l''homme qui a reçu son onction ;'
-  - type: text
-    content: il lui répondra de son sanctuaire céleste
-  - type: text
-    content: par le secours puissant de sa main droite.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '20.7 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'l''homme qui a reçu son '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: onction
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '2.2'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; cf. 18.51. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: de son sanctuaire céleste
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'du ciel de sa '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: sainteté
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', ce qui pourrait aussi signifier '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'de son ciel sacré. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '–  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: le secours puissant
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : autre traduction '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'les hauts faits salvateurs. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '–  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'sa main droite '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 17.7+.
+      marker-yv: yv-n
+    - type: text
+      text: 'Je sais maintenant que le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' sauve l''homme qui a reçu son onction ;'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: il lui répondra de son sanctuaire céleste
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: par le secours puissant de sa main droite.
   '8':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'chars / chevaux 33.16s ; 147.10 ; Dt 17.16 ; Es 30.15s ; 31.1s ; Os 1.7. –  c''est le nom… que nous évoquons  : cf. Ex 3.15n  ; voir aussi Ps 33.21 ; 124.8 ; Pr 18.10.'
-  - type: text
-    content: Les uns, c'est leurs chars, les autres, leurs chevaux ;
-  - type: text
-    content: 'nous, c''est le nom du '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ', notre Dieu, que nous évoquons.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '20.8 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'chars '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '/ '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'chevaux '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '33.16s ; 147.10 ; Dt 17.16 ; Es 30.15s ; 31.1s ; Os 1.7. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'c''est le '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: nom
+        - type: text
+          text: … que nous évoquons
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : cf. Ex 3.15'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; voir aussi Ps 33.21 ; 124.8 ; Pr 18.10.'
+      marker-yv: yv-n
+    - type: text
+      text: Les uns, c'est leurs chars, les autres, leurs chevaux ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'nous, c''est le nom du '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ', notre Dieu, que nous évoquons.'
   '9':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'Cf. Es 40.29-31. –  nous sommes debout  : autre traduction nous nous levons . –  nous tenons  : autre traduction nous nous soutenons.'
-  - type: text
-    content: Eux, ils plient et ils tombent ;
-  - type: text
-    content: nous, nous sommes debout et nous tenons.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '20.9 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Cf. Es 40.29-31. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: nous sommes debout
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : autre traduction '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: nous nous levons
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: nous tenons
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : autre traduction '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: nous nous soutenons.
+      marker-yv: yv-n
+    - type: text
+      text: Eux, ils plient et ils tombent ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: nous, nous sommes debout et nous tenons.

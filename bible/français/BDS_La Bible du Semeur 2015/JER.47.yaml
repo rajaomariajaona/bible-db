@@ -2,93 +2,308 @@ document_id: JER.47,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Contre les Philistins
-  - type: text
-    content: Voici les paroles que l’Eternel adressa au prophète Jérémie au sujet des Philistins, avant que le pharaon
-  - type: note
-    content: Soit le pharaon Néko (voir 46.2), soit le pharaon Hophra (voir 37.5 ; 44.30).
-  - type: text
-    content: ' inflige une défaite à Gaza'
-  - type: note
-    content: L’une des cinq villes principales de la Philistie. Ashkelôn (v. 5, 7) en est une autre.
-  - type: text
-    content: '  :'
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Contre les Philistins
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Voici les paroles que l’Eternel adressa au prophète Jérémie au sujet des Philistins, avant que le pharaon
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '47.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Soit le pharaon Néko (voir '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: '46.2'
+        - type: text
+          text: ), soit le pharaon Hophra (voir 37.5 ; 44.30).
+      marker-yv: yv-n
+    - type: text
+      text: ' inflige une défaite à Gaza'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '47.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'L’une des cinq villes principales de la Philistie. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Ashkelôn '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: (v. 5, 7) en est une autre.
+      marker-yv: yv-n
+    - type: text
+      text: '  :'
   '2':
-  - type: text
-    content: 'Voici ce que déclare l’Eternel :'
-  - type: text
-    content: Des eaux vont s’élever ╵dans le pays du nord
-  - type: note
-    content: Comme dans 46.7, l’invasion est comparée au débordement d’une source ou d’un fleuve.
-  - type: text
-    content: ','
-  - type: text
-    content: bientôt elles seront ╵un torrent qui déborde,
-  - type: text
-    content: 'submergeant le pays ╵et tout ce qui s’y trouve :'
-  - type: text
-    content: les villes avec leurs habitants.
-  - type: text
-    content: Les gens se mettent à crier,
-  - type: text
-    content: et tous les habitants ╵du pays se lamentent
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Voici ce que déclare l’Eternel :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Des eaux vont s’élever ╵dans le pays du nord
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '47.2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Comme dans '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: '46.7'
+        - type: text
+          text: ', l’invasion est comparée au débordement d’une source ou d’un fleuve.'
+      marker-yv: yv-n
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: bientôt elles seront ╵un torrent qui déborde,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'submergeant le pays ╵et tout ce qui s’y trouve :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: les villes avec leurs habitants.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Les gens se mettent à crier,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et tous les habitants ╵du pays se lamentent
   '3':
-  - type: text
-    content: au fracas des sabots ╵des coursiers au galop,
-  - type: text
-    content: au grondement des chars
-  - type: note
-    content: Annonce d’une invasion chaldéenne qui eut effectivement lieu sous Nabuchodonosor en 604 av. J.-C.
-  - type: text
-    content: et au vacarme de leurs roues.
-  - type: text
-    content: Les pères ne s’occupent plus ╵de leurs enfants,
-  - type: text
-    content: tant ils sont abattus.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: au fracas des sabots ╵des coursiers au galop,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: au grondement des chars
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '47.3 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Annonce d’une invasion chaldéenne qui eut effectivement lieu sous Nabuchodonosor en 604 av. J.-C.
+      marker-yv: yv-n
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et au vacarme de leurs roues.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Les pères ne s’occupent plus ╵de leurs enfants,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: tant ils sont abattus.
   '4':
-  - type: text
-    content: Car le jour est venu
-  - type: text
-    content: où tous les Philistins ╵vont être exterminés,
-  - type: text
-    content: où l’on supprimera ╵de Tyr et de Sidon ╵tous les survivants qui pourraient ╵venir à leur secours,
-  - type: text
-    content: parce que l’Eternel ╵anéantit les Philistins,
-  - type: text
-    content: tout ce qui reste de ces gens ╵originaires de l’île de Crète.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Car le jour est venu
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: où tous les Philistins ╵vont être exterminés,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: où l’on supprimera ╵de Tyr et de Sidon ╵tous les survivants qui pourraient ╵venir à leur secours,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: parce que l’Eternel ╵anéantit les Philistins,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: tout ce qui reste de ces gens ╵originaires de l’île de Crète.
   '5':
-  - type: text
-    content: La population de Gaza ╵se rasera la tête
-  - type: text
-    content: et Ashkelôn sera rendue muette.
-  - type: text
-    content: Vous qui restez ╵sur cette plaine
-  - type: note
-    content: 'sur cette plaine: selon le texte hébreu traditionnel dont la traduction est incertaine. L’ancienne version grecque a : le reste des géants.'
-  - type: text
-    content: ','
-  - type: text
-    content: jusques à quand ╵vous ferez-vous des incisions
-  - type: note
-    content: Marques de deuil ; les incisions étaient interdites par la Loi (Lv 19.28 ; Dt 14.1).
-  - type: text
-    content: '  ?'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: La population de Gaza ╵se rasera la tête
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et Ashkelôn sera rendue muette.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Vous qui restez ╵sur cette plaine
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '47.5 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: sur cette plaine
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: ': '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'selon le texte hébreu traditionnel dont la traduction est incertaine. L’ancienne version grecque a : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: le reste des géants.
+      marker-yv: yv-n
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: jusques à quand ╵vous ferez-vous des incisions
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '47.5 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Marques de deuil ; les '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'incisions '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: étaient interdites par la Loi (Lv 19.28 ; Dt 14.1).
+      marker-yv: yv-n
+    - type: text
+      text: '  ?'
   '6':
-  - type: text
-    content: « Malheur ! Epée de l’Eternel,
-  - type: text
-    content: jusques à quand ╵cela va-t-il durer ╵avant que tu t’arrêtes ?
-  - type: text
-    content: Rentre dans ton fourreau !
-  - type: text
-    content: Calme-toi, et reste au repos ! »
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: « Malheur ! Epée de l’Eternel,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: jusques à quand ╵cela va-t-il durer ╵avant que tu t’arrêtes ?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Rentre dans ton fourreau !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Calme-toi, et reste au repos ! »
   '7':
-  - type: text
-    content: Mais comment pourrait-elle ╵se tenir en repos
-  - type: text
-    content: quand l’Eternel lui a donné pour ordre
-  - type: text
-    content: d’attaquer Ashkelôn ╵et les bords de la mer ?
-  - type: text
-    content: Tels sont les buts ╵fixés par lui.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mais comment pourrait-elle ╵se tenir en repos
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: quand l’Eternel lui a donné pour ordre
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: d’attaquer Ashkelôn ╵et les bords de la mer ?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Tels sont les buts ╵fixés par lui.

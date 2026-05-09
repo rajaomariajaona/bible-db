@@ -2,34 +2,70 @@ document_id: PSA.123,116
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: A song for pilgrims ascending to Jerusalem.
-  - type: text
-    content: I lift my eyes to you,
-  - type: text
-    content: O God, enthroned in heaven.
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: A song for pilgrims ascending to Jerusalem.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: I lift my eyes to you,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: O God, enthroned in heaven.
   '2':
-  - type: text
-    content: 'We keep looking to the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' our God for his mercy,'
-  - type: text
-    content: just as servants keep their eyes on their master,
-  - type: text
-    content: as a slave girl watches her mistress for the slightest signal.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'We keep looking to the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' our God for his mercy,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: just as servants keep their eyes on their master,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: as a slave girl watches her mistress for the slightest signal.
   '3':
-  - type: text
-    content: 'Have mercy on us, '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', have mercy,'
-  - type: text
-    content: for we have had our fill of contempt.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Have mercy on us, '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', have mercy,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: for we have had our fill of contempt.
   '4':
-  - type: text
-    content: We have had more than our fill of the scoffing of the proud
-  - type: text
-    content: and the contempt of the arrogant.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: We have had more than our fill of the scoffing of the proud
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and the contempt of the arrogant.

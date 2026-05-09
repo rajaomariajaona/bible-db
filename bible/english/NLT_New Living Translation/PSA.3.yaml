@@ -2,82 +2,201 @@ document_id: PSA.3,116
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: A psalm of David, regarding the time David fled from his son Absalom.
-  - type: text
-    content: 'O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', I have so many enemies;'
-  - type: text
-    content: so many are against me.
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: A psalm of David, regarding the time David fled from his son Absalom.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', I have so many enemies;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: so many are against me.
   '2':
-  - type: text
-    content: So many are saying,
-  - type: text
-    content: '“God will never rescue him!” '
-  - type: text
-    content: Interlude
-  - type: note
-    content: Hebrew Selah. The meaning of this word is uncertain, though it is probably a musical or literary term. It is rendered Interlude throughout the Psalms.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: So many are saying,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: '“God will never rescue him!” '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Interlude
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '3:2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Selah. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'The meaning of this word is uncertain, though it is probably a musical or literary term. It is rendered '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Interlude '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: throughout the Psalms.
+      marker-yv: yv-n
   '3':
-  - type: text
-    content: 'But you, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', are a shield around me;'
-  - type: text
-    content: you are my glory, the one who holds my head high.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'But you, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', are a shield around me;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: you are my glory, the one who holds my head high.
   '4':
-  - type: text
-    content: 'I cried out to the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ','
-  - type: text
-    content: 'and he answered me from his holy mountain. '
-  - type: text
-    content: Interlude
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I cried out to the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and he answered me from his holy mountain. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Interlude
   '5':
-  - type: text
-    content: I lay down and slept,
-  - type: text
-    content: yet I woke up in safety,
-  - type: text
-    content: 'for the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' was watching over me.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: I lay down and slept,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: yet I woke up in safety,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'for the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' was watching over me.'
   '6':
-  - type: text
-    content: I am not afraid of ten thousand enemies
-  - type: text
-    content: who surround me on every side.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: I am not afraid of ten thousand enemies
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: who surround me on every side.
   '7':
-  - type: text
-    content: 'Arise, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: '!'
-  - type: text
-    content: Rescue me, my God!
-  - type: text
-    content: Slap all my enemies in the face!
-  - type: text
-    content: Shatter the teeth of the wicked!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Arise, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: '!'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Rescue me, my God!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Slap all my enemies in the face!
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Shatter the teeth of the wicked!
   '8':
-  - type: text
-    content: 'Victory comes from you, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: .
-  - type: text
-    content: 'May you bless your people. '
-  - type: text
-    content: Interlude
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Victory comes from you, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: .
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'May you bless your people. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Interlude

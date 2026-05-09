@@ -2,146 +2,751 @@ document_id: PSA.23,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: The Lord Is My Shepherd
-  - type: text
-    content: A Psalm of David.
-  - type: text
-    content: 'The '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' is my '
-  - type: note
-    content: Ps. 78:52; 80:1; Isa. 40:11; Jer. 31:10; Ezek. 34:11, 12, 23; John 10:11; Heb. 13:20; 1 Pet. 2:25; 5:4
-  - type: text
-    content: 'shepherd; I shall not '
-  - type: note
-    content: Ps. 34:9, 10; [Matt. 6:33]
-  - type: text
-    content: want.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' Is My Shepherd'
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: A Psalm of David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' is my '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 78:52
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 80:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 40:11
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 31:10
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ezek. 34:11
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '12'
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '23'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: John 10:11
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Heb. 13:20
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Pet. 2:25
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 5:4
+      marker-yv: yv-n
+    - type: text
+      text: 'shepherd; I shall not '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 34:9
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '10'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 6:33
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: want.
   '2':
-  - type: text
-    content: 'He makes me lie down in green '
-  - type: note
-    content: Ezek. 34:14; John 10:9
-  - type: text
-    content: pastures.
-  - type: text
-    content: He leads me beside still waters.
-  - type: note
-    content: Hebrew beside waters of rest
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'He makes me lie down in green '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ezek. 34:14
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: John 10:9
+      marker-yv: yv-n
+    - type: text
+      text: pastures.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: He leads me beside still waters.
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '23:2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: beside waters of rest
+      marker-yv: yv-n
   '3':
-  - type: text
-    content: 'He '
-  - type: note
-    content: Ps. 19:7
-  - type: text
-    content: restores my soul.
-  - type: text
-    content: 'He '
-  - type: note
-    content: Ps. 5:8; 31:3; 139:10, 24; 143:10; Isa. 40:11; 49:10
-  - type: text
-    content: 'leads me in '
-  - type: note
-    content: Prov. 4:11; 8:20
-  - type: text
-    content: paths of righteousness
-  - type: note
-    content: Or in right paths
-  - type: text
-    content: 'for his '
-  - type: note
-    content: Ps. 25:11; 31:3; 79:9; 109:21; Ezek. 20:9, 14
-  - type: text
-    content: name’s sake.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'He '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 19:7
+      marker-yv: yv-n
+    - type: text
+      text: restores my soul.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'He '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 5:8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 31:3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 139:10
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '24'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 143:10
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 40:11
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 49:10
+      marker-yv: yv-n
+    - type: text
+      text: 'leads me in '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Prov. 4:11
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 8:20
+      marker-yv: yv-n
+    - type: text
+      text: paths of righteousness
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '23:3 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: in right paths
+      marker-yv: yv-n
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'for his '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 25:11
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 31:3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 79:9
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 109:21
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ezek. 20:9
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '14'
+      marker-yv: yv-n
+    - type: text
+      text: name’s sake.
   '4':
-  - type: text
-    content: 'Even though I '
-  - type: note
-    content: Ps. 138:7
-  - type: text
-    content: 'walk through the valley of '
-  - type: note
-    content: See Job 3:5
-  - type: text
-    content: the shadow of death,
-  - type: note
-    content: Or the valley of deep darkness
-  - type: text
-    content: 'I will '
-  - type: note
-    content: Ps. 3:6; 27:1, 3; 118:6
-  - type: text
-    content: fear no evil,
-  - type: text
-    content: 'for '
-  - type: note
-    content: Ex. 3:12; Isa. 43:2
-  - type: text
-    content: you are with me;
-  - type: text
-    content: 'your '
-  - type: note
-    content: Mic. 7:14
-  - type: text
-    content: rod and your staff,
-  - type: text
-    content: they comfort me.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Even though I '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 138:7
+      marker-yv: yv-n
+    - type: text
+      text: 'walk through the valley of '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 3:5
+      marker-yv: yv-n
+    - type: text
+      text: the shadow of death,
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '23:4 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: the valley of deep darkness
+      marker-yv: yv-n
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'I will '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 3:6
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 27:1
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '3'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 118:6
+      marker-yv: yv-n
+    - type: text
+      text: fear no evil,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'for '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ex. 3:12
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 43:2
+      marker-yv: yv-n
+    - type: text
+      text: you are with me;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'your '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Mic. 7:14
+      marker-yv: yv-n
+    - type: text
+      text: rod and your staff,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: they comfort me.
   '5':
-  - type: text
-    content: 'You '
-  - type: note
-    content: Ps. 78:19; [Prov. 9:2; John 6:51]; See 2 Sam. 17:27-29
-  - type: text
-    content: prepare a table before me
-  - type: text
-    content: 'in '
-  - type: note
-    content: '[Ps. 31:19]'
-  - type: text
-    content: the presence of my enemies;
-  - type: text
-    content: 'you '
-  - type: note
-    content: Ps. 45:7; 133:2; Luke 7:46; [Ps. 92:10]
-  - type: text
-    content: anoint my head with oil;
-  - type: text
-    content: 'my '
-  - type: note
-    content: Ps. 16:5
-  - type: text
-    content: cup overflows.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'You '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 78:19
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Prov. 9:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: John 6:51
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']; See 2 Sam. 17:27-29'
+      marker-yv: yv-n
+    - type: text
+      text: prepare a table before me
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'in '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 31:19
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: the presence of my enemies;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'you '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 45:7
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 133:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Luke 7:46
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 92:10
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: anoint my head with oil;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'my '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 16:5
+      marker-yv: yv-n
+    - type: text
+      text: cup overflows.
   '6':
-  - type: text
-    content: Surely
-  - type: note
-    content: Or Only
-  - type: text
-    content: ' goodness and mercy'
-  - type: note
-    content: Or steadfast love
-  - type: text
-    content: ' shall follow me'
-  - type: text
-    content: all the days of my life,
-  - type: text
-    content: 'and I shall '
-  - type: note
-    content: Ps. 27:4
-  - type: text
-    content: dwell
-  - type: note
-    content: Or shall return to dwell
-  - type: text
-    content: ' in the house of the '
-  - type: text
-    content: Lord
-  - type: note
-    content: Ps. 21:4
-  - type: text
-    content: forever.
-  - type: note
-    content: Hebrew for length of days
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Surely
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '23:6 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: Only
+      marker-yv: yv-n
+    - type: text
+      text: ' goodness and mercy'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '23:6 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: steadfast love
+      marker-yv: yv-n
+    - type: text
+      text: ' shall follow me'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: all the days of my life,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'and I shall '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 27:4
+      marker-yv: yv-n
+    - type: text
+      text: dwell
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '23:6 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: shall return to dwell
+      marker-yv: yv-n
+    - type: text
+      text: ' in the house of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 21:4
+      marker-yv: yv-n
+    - type: text
+      text: forever.
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '23:6 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: for length of days
+      marker-yv: yv-n

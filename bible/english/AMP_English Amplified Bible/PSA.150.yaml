@@ -2,54 +2,116 @@ document_id: PSA.150,1588
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: Psalm 150
-  - type: heading
-    content: A Psalm of Praise.
-  - type: text
-    content: Praise the L
-  - type: heading
-    content: ord
-  - type: text
-    content: '!'
-  - type: text
-    content: Praise God in His sanctuary;
-  - type: text
-    content: Praise Him in His mighty heavens.
+  - type: usfm
+    marker: ms2
+    children:
+    - type: text
+      text: Psalm 150
+    marker-yv: yv-h
+  - type: usfm
+    marker: s1
+    children:
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: A Psalm of Praise.
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Praise the L
+    - type: usfm
+      marker: sc
+      children:
+      - type: text
+        text: ord
+    - type: text
+      text: '!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Praise God in His sanctuary;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Praise Him in His mighty heavens.
   '2':
-  - type: text
-    content: Praise Him for His mighty acts;
-  - type: text
-    content: Praise Him according to [the abundance of] His greatness. [Deut 3:24; Ps 145:5, 6]
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Praise Him for His mighty acts;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Praise Him according to [the abundance of] His greatness. [Deut 3:24; Ps 145:5, 6]
   '3':
-  - type: text
-    content: ¶Praise Him with trumpet sound;
-  - type: text
-    content: Praise Him with harp and lyre.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ¶Praise Him with trumpet sound;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Praise Him with harp and lyre.
   '4':
-  - type: text
-    content: Praise Him with tambourine and dancing;
-  - type: text
-    content: Praise Him with stringed instruments and flute.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Praise Him with tambourine and dancing;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Praise Him with stringed instruments and flute.
   '5':
-  - type: text
-    content: Praise Him with resounding cymbals;
-  - type: text
-    content: Praise Him with loud cymbals.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Praise Him with resounding cymbals;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Praise Him with loud cymbals.
   '6':
-  - type: text
-    content: 'Let everything that has breath '
-  - type: text
-    content: and
-  - type: text
-    content: ' every breath of life praise the L'
-  - type: heading
-    content: ord
-  - type: text
-    content: '!'
-  - type: text
-    content: Praise the L
-  - type: heading
-    content: ord
-  - type: text
-    content: '! (Hallelujah!)'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Let everything that has breath '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: and
+    - type: text
+      text: ' every breath of life praise the L'
+    - type: usfm
+      marker: sc
+      children:
+      - type: text
+        text: ord
+    - type: text
+      text: '!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Praise the L
+    - type: usfm
+      marker: sc
+      children:
+      - type: text
+        text: ord
+    - type: text
+      text: '! (Hallelujah!)'

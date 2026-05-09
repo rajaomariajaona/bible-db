@@ -2,55 +2,151 @@ document_id: PSA.54,111
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: Psalm 54In Hebrew texts 54:1-7 is numbered 54:3-9.
-  - type: text
-    content: 'For the director of music. With stringed instruments. A '
-  - type: text
-    content: maskil
-  - type: note
-    content: 'Title: Probably a literary or musical term'
-  - type: text
-    content: ' of David. When the Ziphites had gone to Saul and said, “Is not David hiding among us?”'
-  - type: text
-    content: Save me, O God, by your name;
-  - type: text
-    content: vindicate me by your might.
+  - type: usfm
+    marker: cl
+    children:
+    - type: text
+      text: Psalm 54
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: In Hebrew texts 54:1-7 is numbered 54:3-9.
+      marker-yv: yv-n
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'For the director of music. With stringed instruments. A '
+    - type: usfm
+      marker: tl
+      children:
+      - type: text
+        text: maskil
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Title: Probably a literary or musical term'
+      marker-yv: yv-n
+    - type: text
+      text: ' of David. When the Ziphites had gone to Saul and said, “Is not David hiding among us?”'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Save me, O God, by your name;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: vindicate me by your might.
   '2':
-  - type: text
-    content: Hear my prayer, O God;
-  - type: text
-    content: listen to the words of my mouth.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Hear my prayer, O God;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: listen to the words of my mouth.
   '3':
-  - type: text
-    content: Arrogant foes are attacking me;
-  - type: text
-    content: ruthless people are trying to kill me—
-  - type: text
-    content: people without regard for God.
-  - type: note
-    content: The Hebrew has Selah (a word of uncertain meaning) here.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Arrogant foes are attacking me;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: ruthless people are trying to kill me—
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: people without regard for God.
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '54:3 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'The Hebrew has '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Selah '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: (a word of uncertain meaning) here.
+      marker-yv: yv-n
   '4':
-  - type: text
-    content: Surely God is my help;
-  - type: text
-    content: the Lord is the one who sustains me.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Surely God is my help;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: the Lord is the one who sustains me.
   '5':
-  - type: text
-    content: Let evil recoil on those who slander me;
-  - type: text
-    content: in your faithfulness destroy them.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Let evil recoil on those who slander me;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: in your faithfulness destroy them.
   '6':
-  - type: text
-    content: I will sacrifice a freewill offering to you;
-  - type: text
-    content: 'I will praise your name, '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', for it is good.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: I will sacrifice a freewill offering to you;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'I will praise your name, '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', for it is good.'
   '7':
-  - type: text
-    content: You have delivered me from all my troubles,
-  - type: text
-    content: and my eyes have looked in triumph on my foes.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: You have delivered me from all my troubles,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and my eyes have looked in triumph on my foes.

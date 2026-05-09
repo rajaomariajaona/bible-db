@@ -2,130 +2,779 @@ document_id: PSA.46,104
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Le Seigneur est avec nous
-  - type: text
-    content: ' '
-  - type: note
-    content: '42.1n. –  alamoth (= les jeunes filles [ ?]) : indication technique dont le sens nous est inconnu ; peut-être pour voix de femme ; à l''octave supérieure ; en sourdine  ; cf. 9.1n  ; 1Ch 15.20n.'
-  - type: text
-    content: Du chef de chœur. Des fils de Coré. Sur alamoth. Chant.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: 'Le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' est avec nous'
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '46.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '42.1'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'alamoth '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '(= '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'les jeunes filles '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '[ ?]) : indication technique dont le sens nous est inconnu ; peut-être '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: pour voix de femme ; à l'octave supérieure ; en sourdine
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text:  ; cf. 9.1
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; 1Ch 15.20'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: Du chef de chœur. Des fils de Coré. Sur alamoth. Chant.
   '10':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'Il fait cesser les guerres  : cf. 68.31 ; Es 2.4. –  jusqu''aux extrémités  : litt. jusqu''à l''extrémité . –  brise l''arc 76.4 ; 1S 2.4 ; Os 2.20. –  il met le feu… Jos 11.6,9 ; Es 9.4 ; Ez 39.9 ; au lieu de chars (terme habituellement traduit par chariot[s] , cf. Gn 45.19ss ; Nb 7.3ss ; 1S 6.7ss ; 2S 6.3 ; Es 5.18 ; 28.27s ; Am 2.13), LXX a lu boucliers.'
-  - type: text
-    content: Il fait cesser les guerres jusqu'aux extrémités de la terre ;
-  - type: text
-    content: il brise l'arc, il rompt la lance,
-  - type: text
-    content: il met le feu aux chars.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '46.10 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Il fait cesser les guerres
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : cf. 68.31 ; Es 2.4. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: jusqu'aux extrémités
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: jusqu'à l'extrémité
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'brise l''arc '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '76.4 ; 1S 2.4 ; Os 2.20. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'il met le feu… '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Jos 11.6,9 ; Es 9.4 ; Ez 39.9 ; au lieu de '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'chars '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '(terme habituellement traduit par '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: chariot[s]
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', cf. Gn 45.19ss ; Nb 7.3ss ; 1S 6.7ss ; 2S 6.3 ; Es 5.18 ; 28.27s ; Am 2.13), '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: LXX
+        - type: text
+          text: ' a lu '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: boucliers.
+      marker-yv: yv-n
+    - type: text
+      text: Il fait cesser les guerres jusqu'aux extrémités de la terre ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: il brise l'arc, il rompt la lance,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: il met le feu aux chars.
   '11':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'je suis Dieu  : cf. 18.32+ ; 86.10 ; 90.2 ; Dt 32.39 ; Ez 12.16. –  Je domine…  : litt. je suis élevé…  ; cf. 47.8s.'
-  - type: text
-    content: Arrêtez, et sachez que je suis Dieu !
-  - type: text
-    content: Je domine sur les nations, je domine sur la terre.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '46.11 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: je suis Dieu
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : cf. 18.32+ ; 86.10 ; 90.2 ; Dt 32.39 ; Ez 12.16. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Je domine…
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: je suis élevé…
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text:  ; cf. 47.8s.
+      marker-yv: yv-n
+    - type: text
+      text: Arrêtez, et sachez que je suis Dieu !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Je domine sur les nations, je domine sur la terre.
   '12':
-  - type: text
-    content: ' '
-  - type: note
-    content: V. 6.
-  - type: text
-    content: 'Le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' (YHWH) des Armées est avec nous,'
-  - type: text
-    content: 'le Dieu de Jacob est pour nous une citadelle. '
-  - type: text
-    content: Pause.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '46.12 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: V. 6.
+      marker-yv: yv-n
+    - type: text
+      text: 'Le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' (YHWH) des Armées est avec nous,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'le Dieu de Jacob est pour nous une citadelle. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Pause.
   '2':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'un abri 7.2+ ; cf. 62.8s. –  bien présent  : litt. trouvé beaucoup.'
-  - type: text
-    content: Dieu est pour nous un abri et un appui,
-  - type: text
-    content: un secours bien présent dans la détresse.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '46.2 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'un abri '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '7.2+ ; cf. 62.8s. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: bien présent
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: trouvé beaucoup.
+      marker-yv: yv-n
+    - type: text
+      text: Dieu est pour nous un abri et un appui,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: un secours bien présent dans la détresse.
   '3':
-  - type: text
-    content: ' '
-  - type: note
-    content: Cf. Es 54.10 ; voir aussi Jg 5.5 ; Es 5.25 ; 24.19s ; Mi 1.4 ; Ag 2.6 ; Jb 9.5s.
-  - type: text
-    content: C'est pourquoi nous n'avons pas peur quand la terre tremble,
-  - type: text
-    content: quand les montagnes vacillent au cœur des mers,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '46.3 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Cf. Es 54.10 ; voir aussi Jg 5.5 ; Es 5.25 ; 24.19s ; Mi 1.4 ; Ag 2.6 ; Jb 9.5s.
+      marker-yv: yv-n
+    - type: text
+      text: C'est pourquoi nous n'avons pas peur quand la terre tremble,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: quand les montagnes vacillent au cœur des mers,
   '4':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'Cf. 65.8 ; 93.1-4 ; Es 17.12s ; 51.15 ; Lc 21.25. –  en se soulevant  : autre traduction par leur orgueil (même terme en 10.2 etc. ; cf. Jb 38.11, terme apparenté).'
-  - type: text
-    content: quand leurs eaux grondent, écument
-  - type: text
-    content: 'et font trembler les montagnes en se soulevant. '
-  - type: text
-    content: Pause.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '46.4 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Cf. 65.8 ; 93.1-4 ; Es 17.12s ; 51.15 ; Lc 21.25. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: en se soulevant
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : autre traduction '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'par leur orgueil '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: (même terme en 10.2 etc. ; cf. Jb 38.11, terme apparenté).
+      marker-yv: yv-n
+    - type: text
+      text: quand leurs eaux grondent, écument
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'et font trembler les montagnes en se soulevant. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Pause.
   '5':
-  - type: text
-    content: ' '
-  - type: note
-    content: canaux 1.3+. – La cité de Dieu , Jérusalem, n'avait pas de fleuve à proprement parler, mais deux sources (cf. Gn 2.13n  ; Es 8.6n) et un torrent intermittent (le Cédron) ; cf. Ps 65.10 ; Ez 47 ; Jl 4.18 ; Ap 22.1s. –  demeures 43.3+ ; 68.17 ; 78.68s.
-  - type: text
-    content: Il est un fleuve dont les canaux réjouissent la cité de Dieu,
-  - type: text
-    content: le sanctuaire des demeures du Très-Haut.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '46.5 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'canaux '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '1.3+. – La '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: cité de Dieu
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', Jérusalem, n''avait pas de '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'fleuve '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: à proprement parler, mais deux sources (cf. Gn 2.13
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; Es 8.6'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: ') et un torrent intermittent (le Cédron) ; cf. Ps 65.10 ; Ez 47 ; Jl 4.18 ; Ap 22.1s. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'demeures '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 43.3+ ; 68.17 ; 78.68s.
+      marker-yv: yv-n
+    - type: text
+      text: Il est un fleuve dont les canaux réjouissent la cité de Dieu,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: le sanctuaire des demeures du Très-Haut.
   '6':
-  - type: text
-    content: ' '
-  - type: note
-    content: elle ne vacille pas 87.5 ; 125.1. –  à l'approche du matin 90.14 ; 143.8 ; cf. 30.6 ; 57.9 ; 130.5s ; Es 17.14 ; 37.36s.
-  - type: text
-    content: 'Dieu est en son sein : elle ne vacille pas ;'
-  - type: text
-    content: Dieu la secourt à l'approche du matin.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '46.6 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'elle ne vacille pas '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '87.5 ; 125.1. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'à l''approche du matin '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 90.14 ; 143.8 ; cf. 30.6 ; 57.9 ; 130.5s ; Es 17.14 ; 37.36s.
+      marker-yv: yv-n
+    - type: text
+      text: 'Dieu est en son sein : elle ne vacille pas ;'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Dieu la secourt à l'approche du matin.
   '7':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'Des nations grondent  : cf. 2.1-3 ; Ap 11.18. –  sa voix 29.3+ ; cf. 76.9. –  s''effondre  : litt. fond  ; cf. 75.4 ; Am 9.5.'
-  - type: text
-    content: Des nations grondent, des royaumes vacillent ;
-  - type: text
-    content: 'il fait entendre sa voix : la terre s''effondre.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '46.7 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Des nations grondent
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : cf. 2.1-3 ; Ap 11.18. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'sa voix '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '29.3+ ; cf. 76.9. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: s'effondre
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: fond
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text:  ; cf. 75.4 ; Am 9.5.
+      marker-yv: yv-n
+    - type: text
+      text: Des nations grondent, des royaumes vacillent ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'il fait entendre sa voix : la terre s''effondre.'
   '8':
-  - type: text
-    content: ' '
-  - type: note
-    content: Refrain repris au v. 12. –  avec nous 2S 5.10 ; Es 7.14n  ; Za 8.23. –  citadelle 9.10+ ; cf. 48.4.
-  - type: text
-    content: 'Le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' (YHWH) des Armées est avec nous,'
-  - type: text
-    content: 'le Dieu de Jacob est pour nous une citadelle. '
-  - type: text
-    content: Pause.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '46.8 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Refrain repris au v. 12. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'avec nous '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 2S 5.10 ; Es 7.14
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; Za 8.23. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'citadelle '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 9.10+ ; cf. 48.4.
+      marker-yv: yv-n
+    - type: text
+      text: 'Le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' (YHWH) des Armées est avec nous,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'le Dieu de Jacob est pour nous une citadelle. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Pause.
   '9':
-  - type: text
-    content: ' '
-  - type: note
-    content: Venez, regardez… 66.5 ; Es 33.13. –  dévastation Es 13.9.
-  - type: text
-    content: 'Venez, regardez les œuvres du '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ','
-  - type: text
-    content: la dévastation qu'il a semée sur la terre !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '46.9 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Venez, regardez… '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '66.5 ; Es 33.13. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'dévastation '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Es 13.9.
+      marker-yv: yv-n
+    - type: text
+      text: 'Venez, regardez les œuvres du '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: la dévastation qu'il a semée sur la terre !

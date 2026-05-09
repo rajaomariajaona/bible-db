@@ -2,27 +2,54 @@ document_id: JHN.INTRO1,111
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: Intro
-  - type: text
-    content: 'John closes his book by revealing his purpose in writing Jesus’ story: '
-  - type: text
-    content: These are written that you may believe that Jesus is the Messiah, the Son of God, and that by believing you may have life in his name.
-  - type: text
-    content: John begins his book by echoing words from the Bible’s creation story—
-  - type: text
-    content: In the beginning
-  - type: text
-    content: —showing his readers that this is a story of a new creation. Just as the first creation was completed in seven days, John uses the number seven to structure his book. For the Jews the number seven represented completeness and wholeness, a finished work of God revealing his purpose for the world.
-  - type: text
-    content: The story is told in two main parts. The first describes Jesus’ public ministry and has seven sections. Each section closes with a report on how people respond to Jesus, either in faith or unbelief. The second part is devoted to the Passover weekend, when Jesus gave his life for the world.
-  - type: text
-    content: 'John records seven instances in which Jesus revealed his identity by using the phrase '
-  - type: text
-    content: I am
-  - type: text
-    content: ', the name by which God had revealed himself earlier. Similarly, John records seven miraculous signs that Jesus performed. John’s narrative mentions twice that the resurrection of Jesus took place on the'
-  - type: text
-    content: first day of the week.
-  - type: text
-    content: ' In this way he confirms that the power of a new creation has broken into our world.'
+  - type: usfm
+    marker: imt1
+    children:
+    - type: text
+      text: Intro
+  - type: usfm
+    marker: im
+    children:
+    - type: text
+      text: 'John closes his book by revealing his purpose in writing Jesus’ story: '
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: These are written that you may believe that Jesus is the Messiah, the Son of God, and that by believing you may have life in his name.
+  - type: usfm
+    marker: ip
+    children:
+    - type: text
+      text: John begins his book by echoing words from the Bible’s creation story—
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: In the beginning
+    - type: text
+      text: —showing his readers that this is a story of a new creation. Just as the first creation was completed in seven days, John uses the number seven to structure his book. For the Jews the number seven represented completeness and wholeness, a finished work of God revealing his purpose for the world.
+  - type: usfm
+    marker: ip
+    children:
+    - type: text
+      text: The story is told in two main parts. The first describes Jesus’ public ministry and has seven sections. Each section closes with a report on how people respond to Jesus, either in faith or unbelief. The second part is devoted to the Passover weekend, when Jesus gave his life for the world.
+  - type: usfm
+    marker: ip
+    children:
+    - type: text
+      text: 'John records seven instances in which Jesus revealed his identity by using the phrase '
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: I am
+    - type: text
+      text: ', the name by which God had revealed himself earlier. Similarly, John records seven miraculous signs that Jesus performed. John’s narrative mentions twice that the resurrection of Jesus took place on the'
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: first day of the week.
+    - type: text
+      text: ' In this way he confirms that the power of a new creation has broken into our world.'

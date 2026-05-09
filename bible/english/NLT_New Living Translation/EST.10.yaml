@@ -2,17 +2,33 @@ document_id: EST.10,116
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: The Greatness of Xerxes and Mordecai
-  - type: text
-    content: 'King Xerxes imposed a tribute throughout his empire, even to the distant coastlands. '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: The Greatness of Xerxes and Mordecai
+    marker-yv: yv-h
+  - type: usfm
+    marker: m
+    children:
+    - type: text
+      text: 'King Xerxes imposed a tribute throughout his empire, even to the distant coastlands. '
   '2':
-  - type: text
-    content: 'His great achievements and the full account of the greatness of Mordecai, whom the king had promoted, are recorded in '
-  - type: text
-    content: The Book of the History of the Kings of Media and Persia.
-  - type: text
-    content: ' '
+  - type: usfm
+    marker: m
+    children:
+    - type: text
+      text: 'His great achievements and the full account of the greatness of Mordecai, whom the king had promoted, are recorded in '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: The Book of the History of the Kings of Media and Persia.
+    - type: text
+      text: ' '
   '3':
-  - type: text
-    content: Mordecai the Jew became the prime minister, with authority next to that of King Xerxes himself. He was very great among the Jews, who held him in high esteem, because he continued to work for the good of his people and to speak up for the welfare of all their descendants.
+  - type: usfm
+    marker: m
+    children:
+    - type: text
+      text: Mordecai the Jew became the prime minister, with authority next to that of King Xerxes himself. He was very great among the Jews, who held him in high esteem, because he continued to work for the good of his people and to speak up for the welfare of all their descendants.

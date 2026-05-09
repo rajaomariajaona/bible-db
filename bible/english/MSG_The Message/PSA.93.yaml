@@ -2,47 +2,101 @@ document_id: PSA.93,97
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: ' '
-  - type: text
-    content: God
-  - type: text
-    content: ' is King, robed and ruling,'
-  - type: text
-    content: God
-  - type: text
-    content: ' is robed and surging with strength.'
-  - type: text
-    content: And yes, the world is firm, immovable,
-  - type: text
-    content: Your throne ever firm—you’re Eternal!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ' is King, robed and ruling,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ' is robed and surging with strength.'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: And yes, the world is firm, immovable,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Your throne ever firm—you’re Eternal!
   '3':
-  - type: text
-    content: 'Sea storms are up, '
-  - type: text
-    content: God
-  - type: text
-    content: ','
-  - type: text
-    content: Sea storms wild and roaring,
-  - type: text
-    content: Sea storms with thunderous breakers.
-  - type: text
-    content: Stronger than wild sea storms,
-  - type: text
-    content: Mightier than sea-storm breakers,
-  - type: text
-    content: 'Mighty '
-  - type: text
-    content: 'God '
-  - type: text
-    content: rules from High Heaven.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Sea storms are up, '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Sea storms wild and roaring,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Sea storms with thunderous breakers.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Stronger than wild sea storms,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Mightier than sea-storm breakers,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Mighty '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: 'God '
+    - type: text
+      text: rules from High Heaven.
   '5':
-  - type: text
-    content: What you say goes—it always has.
-  - type: text
-    content: “Beauty” and “Holy” mark your palace rule,
-  - type: text
-    content: God
-  - type: text
-    content: ', to the very end of time.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: What you say goes—it always has.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: “Beauty” and “Holy” mark your palace rule,
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ', to the very end of time.'

@@ -2,39 +2,105 @@ document_id: PSA.100,93
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Ps 95:1-7; 117.
-  - type: text
-    content: Psaume de louange.
-  - type: text
-    content: Poussez vers l’Éternel des cris de joie,
-  - type: text
-    content: Vous tous, habitants de la terre!
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: Ps 95:1-7; 117.
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Psaume de louange.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Poussez vers l’Éternel des cris de joie,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Vous tous, habitants de la terre!
   '2':
-  - type: text
-    content: Servez l’Éternel, avec joie,
-  - type: text
-    content: Venez avec allégresse en sa présence!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Servez l’Éternel, avec joie,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Venez avec allégresse en sa présence!
   '3':
-  - type: text
-    content: Sachez que l’Éternel est Dieu!
-  - type: text
-    content: C’est lui qui nous a faits, et nous lui appartenons;
-  - type: text
-    content: 'Nous sommes son peuple, et '
-  - type: note
-    content: Ps 95:7. Éz 34:30, 31.
-  - type: text
-    content: le troupeau de son pâturage.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Sachez que l’Éternel est Dieu!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: C’est lui qui nous a faits, et nous lui appartenons;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Nous sommes son peuple, et '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 95:7
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Éz 34:30
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '31'
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: le troupeau de son pâturage.
   '4':
-  - type: text
-    content: Entrez dans ses portes avec des louanges,
-  - type: text
-    content: Dans ses parvis avec des cantiques!
-  - type: text
-    content: Célébrez-le, bénissez son nom!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Entrez dans ses portes avec des louanges,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Dans ses parvis avec des cantiques!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Célébrez-le, bénissez son nom!
   '5':
-  - type: text
-    content: Car l’Éternel est bon; sa bonté dure toujours,
-  - type: text
-    content: Et sa fidélité de génération en génération.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Car l’Éternel est bon; sa bonté dure toujours,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et sa fidélité de génération en génération.

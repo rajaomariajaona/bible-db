@@ -2,102 +2,287 @@ document_id: PSA.124,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: Our Help Is in the Name of the Lord
-  - type: text
-    content: 'A Song of '
-  - type: note
-    content: '[See Ps. 120, title]'
-  - type: text
-    content: Ascents. Of David.
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps. 94:17
-  - type: text
-    content: 'If it had not been the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' who was on our side—'
-  - type: note
-    content: Ps. 129:1
-  - type: text
-    content: let Israel now say—
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: 'Our Help Is in the Name of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'A Song of '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 120
+      - type: text
+        text: ', title'
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: Ascents. Of David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 94:17
+      marker-yv: yv-n
+    - type: text
+      text: 'If it had not been the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' who was on our side—'
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 129:1
+      marker-yv: yv-n
+    - type: text
+      text: let Israel now say—
   '2':
-  - type: text
-    content: 'if it had not been the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' who was on our side'
-  - type: text
-    content: when people rose up against us,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'if it had not been the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' who was on our side'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: when people rose up against us,
   '3':
-  - type: text
-    content: 'then they would have '
-  - type: note
-    content: See Ps. 56:1
-  - type: text
-    content: swallowed us up alive,
-  - type: text
-    content: when their anger was kindled against us;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'then they would have '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 56:1
+      marker-yv: yv-n
+    - type: text
+      text: swallowed us up alive,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: when their anger was kindled against us;
   '4':
-  - type: text
-    content: 'then '
-  - type: note
-    content: See Ps. 32:6; Job 22:11
-  - type: text
-    content: 'the flood would have '
-  - type: note
-    content: Ps. 69:2; Isa. 8:8
-  - type: text
-    content: swept us away,
-  - type: text
-    content: 'the torrent would have gone '
-  - type: note
-    content: Ps. 69:1
-  - type: text
-    content: over us;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'then '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 32:6
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 22:11
+      marker-yv: yv-n
+    - type: text
+      text: 'the flood would have '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 69:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 8:8
+      marker-yv: yv-n
+    - type: text
+      text: swept us away,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'the torrent would have gone '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 69:1
+      marker-yv: yv-n
+    - type: text
+      text: over us;
   '5':
-  - type: text
-    content: then over us would have gone
-  - type: text
-    content: the raging waters.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: then over us would have gone
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: the raging waters.
   '6':
-  - type: text
-    content: 'Blessed be the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ','
-  - type: text
-    content: who has not given us
-  - type: text
-    content: as prey to their teeth!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Blessed be the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: who has not given us
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: as prey to their teeth!
   '7':
-  - type: text
-    content: We have escaped like a bird
-  - type: text
-    content: 'from '
-  - type: note
-    content: See Ps. 91:3
-  - type: text
-    content: the snare of the fowlers;
-  - type: text
-    content: the snare is broken,
-  - type: text
-    content: and we have escaped!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: We have escaped like a bird
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'from '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 91:3
+      marker-yv: yv-n
+    - type: text
+      text: the snare of the fowlers;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: the snare is broken,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and we have escaped!
   '8':
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps. 121:2
-  - type: text
-    content: 'Our help is in the name of the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ','
-  - type: text
-    content: who made heaven and earth.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 121:2
+      marker-yv: yv-n
+    - type: text
+      text: 'Our help is in the name of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: who made heaven and earth.

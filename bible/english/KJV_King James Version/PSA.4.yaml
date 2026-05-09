@@ -2,96 +2,195 @@ document_id: PSA.4,1
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: To the chief Musician on Neginoth, A Psalm of David.
-  - type: text
-    content: 'Hear me when I call, O God of my righteousness:'
-  - type: text
-    content: 'Thou hast enlarged me '
-  - type: text
-    content: when I was
-  - type: text
-    content: ' in distress; Have mercy upon me, and hear my prayer.'
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: To the chief Musician on Neginoth, A Psalm of David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Hear me when I call, O God of my righteousness:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Thou hast enlarged me '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: when I was
+    - type: text
+      text: ' in distress; Have mercy upon me, and hear my prayer.'
   '2':
-  - type: text
-    content: 'O ye sons of men, how long '
-  - type: text
-    content: will ye turn
-  - type: text
-    content: ' my glory into shame?'
-  - type: text
-    content: How long
-  - type: text
-    content: ' will ye love vanity, '
-  - type: text
-    content: and
-  - type: text
-    content: ' seek after leasing? '
-  - type: text
-    content: Selah.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'O ye sons of men, how long '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: will ye turn
+    - type: text
+      text: ' my glory into shame?'
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: How long
+    - type: text
+      text: ' will ye love vanity, '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: and
+    - type: text
+      text: ' seek after leasing? '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Selah.
   '3':
-  - type: text
-    content: 'But know that the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' hath set apart him that is godly for himself:'
-  - type: text
-    content: 'The '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' will hear when I call unto him.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'But know that the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' hath set apart him that is godly for himself:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' will hear when I call unto him.'
   '4':
-  - type: text
-    content: 'Stand in awe, and sin not:'
-  - type: text
-    content: 'Commune with your own heart upon your bed, and be still. '
-  - type: text
-    content: Selah.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Stand in awe, and sin not:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Commune with your own heart upon your bed, and be still. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Selah.
   '5':
-  - type: text
-    content: Offer the sacrifices of righteousness,
-  - type: text
-    content: 'And put your trust in the '
-  - type: text
-    content: LORD
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Offer the sacrifices of righteousness,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'And put your trust in the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: .
   '6':
-  - type: text
-    content: ' '
-  - type: text
-    content: There be
-  - type: text
-    content: ' many that say,'
-  - type: text
-    content: 'Who will shew us '
-  - type: text
-    content: any
-  - type: text
-    content: ' good?'
-  - type: text
-    content: LORD
-  - type: text
-    content: ', lift thou up'
-  - type: text
-    content: The light of thy countenance upon us.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: There be
+    - type: text
+      text: ' many that say,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Who will shew us '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: any
+    - type: text
+      text: ' good?'
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ', lift thou up'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: The light of thy countenance upon us.
   '7':
-  - type: text
-    content: Thou hast put gladness in my heart,
-  - type: text
-    content: 'More than in the time '
-  - type: text
-    content: that
-  - type: text
-    content: ' their corn and their wine increased.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Thou hast put gladness in my heart,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'More than in the time '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: that
+    - type: text
+      text: ' their corn and their wine increased.'
   '8':
-  - type: text
-    content: 'I will both lay me down in peace, and sleep:'
-  - type: text
-    content: 'For thou, '
-  - type: text
-    content: LORD
-  - type: text
-    content: ', only makest me dwell in safety.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I will both lay me down in peace, and sleep:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'For thou, '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ', only makest me dwell in safety.'

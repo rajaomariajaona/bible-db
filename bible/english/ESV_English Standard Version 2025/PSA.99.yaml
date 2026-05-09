@@ -2,179 +2,817 @@ document_id: PSA.99,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: The Lord Our God Is Holy
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps. 93:1; See 1 Chr. 16:31
-  - type: text
-    content: 'The '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' reigns; '
-  - type: note
-    content: '[Ps. 96:9]'
-  - type: text
-    content: let the peoples tremble!
-  - type: text
-    content: 'He '
-  - type: note
-    content: See Ps. 80:1
-  - type: text
-    content: 'sits enthroned upon the cherubim; '
-  - type: note
-    content: '[Isa. 24:19, 20]'
-  - type: text
-    content: let the earth quake!
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' Our God Is Holy'
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 93:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Chr. 16:31
+      marker-yv: yv-n
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' reigns; '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 96:9
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: let the peoples tremble!
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'He '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 80:1
+      marker-yv: yv-n
+    - type: text
+      text: 'sits enthroned upon the cherubim; '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 24:19
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '20'
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: let the earth quake!
   '2':
-  - type: text
-    content: 'The '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' is '
-  - type: note
-    content: '[Isa. 24:23]'
-  - type: text
-    content: great in Zion;
-  - type: text
-    content: 'he is '
-  - type: note
-    content: Ps. 113:4; [Ps. 92:8; 93:4]
-  - type: text
-    content: exalted over all the peoples.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' is '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 24:23
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: great in Zion;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'he is '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 113:4
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 92:8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 93:4
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: exalted over all the peoples.
   '3':
-  - type: text
-    content: 'Let them praise your '
-  - type: note
-    content: '[Ps. 111:9; Deut. 28:58]'
-  - type: text
-    content: great and awesome name!
-  - type: note
-    content: Josh. 24:19; Isa. 6:3; Rev. 15:4
-  - type: text
-    content: Holy is he!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Let them praise your '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 111:9
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Deut. 28:58
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: great and awesome name!
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Josh. 24:19
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 6:3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rev. 15:4
+      marker-yv: yv-n
+    - type: text
+      text: Holy is he!
   '4':
-  - type: text
-    content: ' '
-  - type: note
-    content: '[ver. 1 ]'
-  - type: text
-    content: 'The King in his might '
-  - type: note
-    content: Ps. 11:7; Isa. 61:8; [Job 36:5-7]
-  - type: text
-    content: loves justice.
-  - type: note
-    content: Or The might of the King loves justice
-  - type: text
-    content: You have established equity;
-  - type: text
-    content: you have executed justice
-  - type: text
-    content: and righteousness in Jacob.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '1'
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'The King in his might '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 11:7
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 61:8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 36:5-7
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: loves justice.
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '99:4 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: The might of the King loves justice
+      marker-yv: yv-n
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: You have established equity;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: you have executed justice
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and righteousness in Jacob.
   '5':
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps. 107:32; 118:28; Ex. 15:2; Isa. 25:1
-  - type: text
-    content: 'Exalt the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' our God;'
-  - type: note
-    content: Ps. 132:7; 1 Chr. 28:2
-  - type: text
-    content: 'worship at his '
-  - type: note
-    content: Isa. 60:13; Lam. 2:1; Ezek. 43:7
-  - type: text
-    content: footstool!
-  - type: note
-    content: '[See ver. 3 above]'
-  - type: text
-    content: Holy is he!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 107:32
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 118:28
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ex. 15:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 25:1
+      marker-yv: yv-n
+    - type: text
+      text: 'Exalt the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' our God;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 132:7
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Chr. 28:2
+      marker-yv: yv-n
+    - type: text
+      text: 'worship at his '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 60:13
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Lam. 2:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ezek. 43:7
+      marker-yv: yv-n
+    - type: text
+      text: footstool!
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[See ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '3'
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: above]
+      marker-yv: yv-n
+    - type: text
+      text: Holy is he!
   '6':
-  - type: text
-    content: ' '
-  - type: note
-    content: '[ Jer. 15:1 ]'
-  - type: text
-    content: 'Moses and Aaron were among his '
-  - type: note
-    content: See Ex. 24:6-8; 40:22-27; Lev. 8:1-30
-  - type: text
-    content: priests,
-  - type: text
-    content: 'Samuel also was among those who '
-  - type: note
-    content: 1 Sam. 7:9; 12:18; See Ps. 105:1
-  - type: text
-    content: called upon his name.
-  - type: text
-    content: 'They '
-  - type: note
-    content: Ps. 106:23; Ex. 14:15; 17:11, 12; 32:30; Num. 12:13; 16:48; Deut. 9:18
-  - type: text
-    content: 'called to the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', and he answered them.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 15:1
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'Moses and Aaron were among his '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ex. 24:6-8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 40:22-27
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Lev. 8:1-30
+      marker-yv: yv-n
+    - type: text
+      text: priests,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Samuel also was among those who '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Sam. 7:9
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 12:18
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 105:1
+      marker-yv: yv-n
+    - type: text
+      text: called upon his name.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'They '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 106:23
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ex. 14:15
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 17:11
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '12'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 32:30
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Num. 12:13
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 16:48
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Deut. 9:18
+      marker-yv: yv-n
+    - type: text
+      text: 'called to the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', and he answered them.'
   '7':
-  - type: text
-    content: 'In '
-  - type: note
-    content: Ex. 33:9; Num. 12:5
-  - type: text
-    content: the pillar of the cloud he spoke to them;
-  - type: text
-    content: 'they '
-  - type: note
-    content: '[Ps. 105:28]'
-  - type: text
-    content: kept his testimonies
-  - type: text
-    content: and the statute that he gave them.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'In '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ex. 33:9
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Num. 12:5
+      marker-yv: yv-n
+    - type: text
+      text: the pillar of the cloud he spoke to them;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'they '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 105:28
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: kept his testimonies
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and the statute that he gave them.
   '8':
-  - type: text
-    content: 'O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' our God, you answered them;'
-  - type: text
-    content: 'you were '
-  - type: note
-    content: Num. 14:20
-  - type: text
-    content: a forgiving God to them,
-  - type: text
-    content: 'but '
-  - type: note
-    content: Ex. 32:35; Num. 20:12; Deut. 9:20; [Jer. 46:28]
-  - type: text
-    content: an avenger of their wrongdoings.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' our God, you answered them;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'you were '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Num. 14:20
+      marker-yv: yv-n
+    - type: text
+      text: a forgiving God to them,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'but '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ex. 32:35
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Num. 20:12
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Deut. 9:20
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 46:28
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: an avenger of their wrongdoings.
   '9':
-  - type: text
-    content: 'Exalt the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' our God,'
-  - type: text
-    content: 'and worship at his '
-  - type: note
-    content: See Ps. 2:6
-  - type: text
-    content: holy mountain;
-  - type: text
-    content: 'for the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' our God is holy!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Exalt the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' our God,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and worship at his '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 2:6
+      marker-yv: yv-n
+    - type: text
+      text: holy mountain;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'for the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' our God is holy!'

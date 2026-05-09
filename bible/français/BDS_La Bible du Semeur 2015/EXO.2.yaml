@@ -2,121 +2,337 @@ document_id: EXO.2,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Moïse
-  - type: heading
-    content: Moïse, sauvé des eaux
-  - type: text
-    content: 'Un homme de la tribu de Lévi épousa une fille de la même tribu. '
+  - type: usfm
+    marker: ms1
+    children:
+    - type: text
+      text: Moïse
+    marker-yv: yv-h
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Moïse, sauvé des eaux
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Un homme de la tribu de Lévi épousa une fille de la même tribu. '
   '10':
-  - type: text
-    content: Quand il eut grandi, elle l’amena à la fille du pharaon. Celle-ci l’adopta comme son fils et lui donna le nom de Moïse (Sorti), car, dit-elle, je l’ai sorti de l’eau.
-  - type: heading
-    content: Le meurtre d’un Egyptien
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Quand il eut grandi, elle l’amena à la fille du pharaon. Celle-ci l’adopta comme son fils et lui donna le nom de Moïse (Sorti), car, dit-elle, je l’ai sorti de l’eau.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Le meurtre d’un Egyptien
+    marker-yv: yv-h
   '11':
-  - type: text
-    content: 'Le temps passa. Lorsque Moïse fut devenu adulte, il alla rendre visite à ses frères de race et fut témoin des corvées qu’on leur imposait. Il vit un Egyptien qui rouait de coups l’un de ses frères hébreux. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Le temps passa. Lorsque Moïse fut devenu adulte, il alla rendre visite à ses frères de race et fut témoin des corvées qu’on leur imposait. Il vit un Egyptien qui rouait de coups l’un de ses frères hébreux. '
   '12':
-  - type: text
-    content: 'Après avoir regardé de côté et d’autre pour voir s’il n’y avait personne, il frappa l’Egyptien à mort et l’enfouit dans le sable. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Après avoir regardé de côté et d’autre pour voir s’il n’y avait personne, il frappa l’Egyptien à mort et l’enfouit dans le sable. '
   '13':
-  - type: text
-    content: 'Le lendemain, il revint et aperçut deux Hébreux qui se battaient. Alors il dit à celui qui avait tort : Pourquoi frappes-tu ton compagnon ?'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Le lendemain, il revint et aperçut deux Hébreux qui se battaient. Alors il dit à celui qui avait tort : Pourquoi frappes-tu ton compagnon ?'
   '14':
-  - type: text
-    content: 'Mais celui-ci répliqua : Qui t’a établi chef et juge'
-  - type: note
-    content: Le terme hébreu rendu par « juge » a aussi le sens de « dirigeant », « chef ». C’est certainement le cas ici, comme dans le livre des Juges.
-  - type: text
-    content: ' sur nous ? Veux-tu aussi me tuer comme tu as tué l’Egyptien ?'
-  - type: text
-    content: Alors Moïse prit peur ; il comprit que l’affaire s’était ébruitée.
-  - type: heading
-    content: La fuite au désert
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Mais celui-ci répliqua : Qui t’a établi chef et juge'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.14 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Le terme hébreu rendu par « juge » a aussi le sens de « dirigeant », « chef ». C’est certainement le cas ici, comme dans le livre des Juges.
+      marker-yv: yv-n
+    - type: text
+      text: ' sur nous ? Veux-tu aussi me tuer comme tu as tué l’Egyptien ?'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Alors Moïse prit peur ; il comprit que l’affaire s’était ébruitée.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: La fuite au désert
+    marker-yv: yv-h
   '15':
-  - type: text
-    content: Effectivement, le pharaon apprit ce qui s’était passé et chercha à faire mourir Moïse, mais celui-ci prit la fuite. Il se rendit au pays de Madian
-  - type: note
-    content: Madian était un fils d’Abraham (Gn 25.2). Les Madianites étaient établis au nord de la presqu’île du Sinaï.
-  - type: text
-    content: ' et s’assit près d’un puits'
-  - type: note
-    content: Voir Ac 7.23-29.
-  - type: text
-    content: .
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Effectivement, le pharaon apprit ce qui s’était passé et chercha à faire mourir Moïse, mais celui-ci prit la fuite. Il se rendit au pays de Madian
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.15 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Madian était un fils d’Abraham (
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Gn 25.2
+        - type: text
+          text: ). Les Madianites étaient établis au nord de la presqu’île du Sinaï.
+      marker-yv: yv-n
+    - type: text
+      text: ' et s’assit près d’un puits'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.15 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Voir '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Ac 7.23-29
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: .
   '16':
-  - type: text
-    content: 'Le prêtre de Madian avait sept filles. Elles vinrent puiser de l’eau et remplirent les abreuvoirs pour faire boire le petit bétail de leur père. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Le prêtre de Madian avait sept filles. Elles vinrent puiser de l’eau et remplirent les abreuvoirs pour faire boire le petit bétail de leur père. '
   '17':
-  - type: text
-    content: 'Mais des bergers survinrent et se mirent à les chasser. Alors Moïse intervint pour les défendre et fit boire leur troupeau. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Mais des bergers survinrent et se mirent à les chasser. Alors Moïse intervint pour les défendre et fit boire leur troupeau. '
   '18':
-  - type: text
-    content: Quand elles revinrent vers Reouel
-  - type: note
-    content: 'Autre nom de Jéthro (3.1). Jéthro pourrait être un titre signifiant : son excellence.'
-  - type: text
-    content: ' leur père, celui-ci leur demanda :'
-  - type: text
-    content: Comment se fait-il que vous soyez si vite de retour aujourd’hui ?
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Quand elles revinrent vers Reouel
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.18 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Autre nom de Jéthro (
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: '3.1'
+        - type: text
+          text: '). Jéthro pourrait être un titre signifiant : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: son excellence.
+      marker-yv: yv-n
+    - type: text
+      text: ' leur père, celui-ci leur demanda :'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Comment se fait-il que vous soyez si vite de retour aujourd’hui ?
   '19':
-  - type: text
-    content: '– Un Egyptien nous a défendues contre les bergers, dirent-elles, et même : il a puisé pour nous beaucoup d’eau et a fait boire le troupeau.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: '– Un Egyptien nous a défendues contre les bergers, dirent-elles, et même : il a puisé pour nous beaucoup d’eau et a fait boire le troupeau.'
   '2':
-  - type: text
-    content: Elle devint enceinte et donna le jour à un fils. Elle vit que c’était un beau bébé et le cacha pendant trois mois
-  - type: note
-    content: Voir Ac 7.20 ; Hé 11.23.
-  - type: text
-    content: '. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Elle devint enceinte et donna le jour à un fils. Elle vit que c’était un beau bébé et le cacha pendant trois mois
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Voir Ac 7.20 ; Hé 11.23.
+      marker-yv: yv-n
+    - type: text
+      text: '. '
   '20':
-  - type: text
-    content: – Où est cet homme à présent ? Pourquoi l’avez-vous laissé là-bas ? Allez le chercher pour qu’il vienne manger chez nous.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: – Où est cet homme à présent ? Pourquoi l’avez-vous laissé là-bas ? Allez le chercher pour qu’il vienne manger chez nous.
   '21':
-  - type: text
-    content: 'Moïse accepta de s’établir chez cet homme qui lui donna sa fille Séphora en mariage. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Moïse accepta de s’établir chez cet homme qui lui donna sa fille Séphora en mariage. '
   '22':
-  - type: text
-    content: Elle lui donna un fils qu’il appela Guershom (Emigré en ces lieux) car, dit-il, je suis un émigré dans une terre étrangère.
-  - type: heading
-    content: Moïse envoyé par Dieu
-  - type: heading
-    content: Dieu intervient selon son alliance
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Elle lui donna un fils qu’il appela Guershom (Emigré en ces lieux) car, dit-il, je suis un émigré dans une terre étrangère.
+  - type: usfm
+    marker: ms1
+    children:
+    - type: text
+      text: Moïse envoyé par Dieu
+    marker-yv: yv-h
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Dieu intervient selon son alliance
+    marker-yv: yv-h
   '23':
-  - type: text
-    content: 'Beaucoup de temps passa. Le pharaon d’Egypte mourut et les Israélites gémissaient et criaient encore sous le poids de l’esclavage, et leur appel parvint jusqu’à Dieu. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Beaucoup de temps passa. Le pharaon d’Egypte mourut et les Israélites gémissaient et criaient encore sous le poids de l’esclavage, et leur appel parvint jusqu’à Dieu. '
   '24':
-  - type: text
-    content: Dieu entendit leur plainte et tint compte de son alliance avec Abraham, avec Isaac et avec Jacob
-  - type: note
-    content: Voir Gn 15.13-14.
-  - type: text
-    content: '. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Dieu entendit leur plainte et tint compte de son alliance avec Abraham, avec Isaac et avec Jacob
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.24 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Voir '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Gn 15.13-14
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: '. '
   '25':
-  - type: text
-    content: Il vit les Israélites et prit leur situation en considération.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Il vit les Israélites et prit leur situation en considération.
   '3':
-  - type: text
-    content: 'Quand elle ne parvint plus à le tenir caché, elle prit une corbeille en papyrus, l’enduisit d’asphalte et de poix et y plaça le petit garçon. Puis elle déposa la corbeille au milieu des joncs sur la rive du Nil. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Quand elle ne parvint plus à le tenir caché, elle prit une corbeille en papyrus, l’enduisit d’asphalte et de poix et y plaça le petit garçon. Puis elle déposa la corbeille au milieu des joncs sur la rive du Nil. '
   '4':
-  - type: text
-    content: La sœur de l’enfant se posta à quelque distance pour voir ce qu’il en adviendrait.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: La sœur de l’enfant se posta à quelque distance pour voir ce qu’il en adviendrait.
   '5':
-  - type: text
-    content: 'Peu après, la fille du pharaon descendit sur les bords du fleuve pour s’y baigner. Ses suivantes se promenaient sur la berge le long du Nil. Elle aperçut la corbeille au milieu des joncs et la fit chercher par sa servante. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Peu après, la fille du pharaon descendit sur les bords du fleuve pour s’y baigner. Ses suivantes se promenaient sur la berge le long du Nil. Elle aperçut la corbeille au milieu des joncs et la fit chercher par sa servante. '
   '6':
-  - type: text
-    content: 'Elle l’ouvrit et vit l’enfant : c’était un petit garçon qui pleurait. Elle eut pitié de lui et dit : C’est un petit des Hébreux.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Elle l’ouvrit et vit l’enfant : c’était un petit garçon qui pleurait. Elle eut pitié de lui et dit : C’est un petit des Hébreux.'
   '7':
-  - type: text
-    content: 'Alors la sœur de l’enfant s’approcha et dit à la fille du pharaon : Veux-tu que j’aille te chercher une nourrice parmi les femmes des Hébreux pour qu’elle t’allaite cet enfant ?'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Alors la sœur de l’enfant s’approcha et dit à la fille du pharaon : Veux-tu que j’aille te chercher une nourrice parmi les femmes des Hébreux pour qu’elle t’allaite cet enfant ?'
   '8':
-  - type: text
-    content: 'La fille du pharaon lui dit : Va !'
-  - type: text
-    content: La jeune fille alla donc chercher la mère de l’enfant.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'La fille du pharaon lui dit : Va !'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: La jeune fille alla donc chercher la mère de l’enfant.
   '9':
-  - type: text
-    content: 'La princesse lui dit : Emmène cet enfant et allaite-le pour moi. Je te paierai un salaire.'
-  - type: text
-    content: 'La femme prit l’enfant et l’allaita. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'La princesse lui dit : Emmène cet enfant et allaite-le pour moi. Je te paierai un salaire.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'La femme prit l’enfant et l’allaita. '

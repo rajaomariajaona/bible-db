@@ -2,108 +2,352 @@ document_id: JER.21,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Sur les rois de Juda
-  - type: heading
-    content: Mauvaise nouvelle
-  - type: text
-    content: Voici ce que l’Eternel dit à Jérémie quand le roi Sédécias
-  - type: note
-    content: Troisième fils de Josias, et dernier roi de Juda qui régna à Jérusalem de 597 à 587 av. J.-C. (voir 2 R 24.17 à 25.7).
-  - type: text
-    content: ' envoya vers lui Pashhour, fils de Malkiya, et le prêtre Sophonie, fils de Maaséya'
-  - type: note
-    content: Ce Pashhour n’est pas à confondre avec Pashhour, fils d’Immer (20.1-6). Ce Sophonie n’est pas le prophète Sophonie.
-  - type: text
-    content: ', pour lui dire : '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Sur les rois de Juda
+    marker-yv: yv-h
+  - type: usfm
+    marker: s2
+    children:
+    - type: text
+      text: Mauvaise nouvelle
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Voici ce que l’Eternel dit à Jérémie quand le roi Sédécias
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '21.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Troisième fils de Josias, et dernier roi de Juda qui régna à Jérusalem de 597 à 587 av. J.-C. (voir 2 R 24.17 à 25.7).
+      marker-yv: yv-n
+    - type: text
+      text: ' envoya vers lui Pashhour, fils de Malkiya, et le prêtre Sophonie, fils de Maaséya'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '21.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Ce '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Pashhour '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: n’est pas à confondre avec Pashhour, fils d’Immer (
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: 20.1-6
+        - type: text
+          text: '). Ce '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Sophonie '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: n’est pas le prophète Sophonie.
+      marker-yv: yv-n
+    - type: text
+      text: ', pour lui dire : '
   '10':
-  - type: text
-    content: 'En effet, l’Eternel le déclare, je me tourne contre cette ville, pour lui faire du mal et non du bien : elle sera livrée au roi de Babylone qui y mettra le feu.'
-  - type: heading
-    content: Au roi de Juda
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'En effet, l’Eternel le déclare, je me tourne contre cette ville, pour lui faire du mal et non du bien : elle sera livrée au roi de Babylone qui y mettra le feu.'
+  - type: usfm
+    marker: s2
+    children:
+    - type: text
+      text: Au roi de Juda
+    marker-yv: yv-h
   '11':
-  - type: text
-    content: 'Et voici ce que tu diras à la maison du roi de Juda :'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Et voici ce que tu diras à la maison du roi de Juda :'
   '12':
-  - type: text
-    content: Ecoutez la parole ╵de l’Eternel,
-  - type: text
-    content: dynastie de David !
-  - type: text
-    content: 'Voici ce que déclare l’Eternel :'
-  - type: text
-    content: Rendez donc la justice ╵dès le matin, selon le droit,
-  - type: text
-    content: délivrez l’opprimé ╵de l’oppresseur,
-  - type: text
-    content: car sinon ma colère ╵éclatera tout comme un feu
-  - type: text
-    content: et elle brûlera ╵sans qu’on puisse l’éteindre,
-  - type: text
-    content: à cause de vos actes ╵qui sont mauvais.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Ecoutez la parole ╵de l’Eternel,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: dynastie de David !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Voici ce que déclare l’Eternel :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Rendez donc la justice ╵dès le matin, selon le droit,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: délivrez l’opprimé ╵de l’oppresseur,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: car sinon ma colère ╵éclatera tout comme un feu
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et elle brûlera ╵sans qu’on puisse l’éteindre,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: à cause de vos actes ╵qui sont mauvais.
   '13':
-  - type: text
-    content: Je vais m’en prendre à toi,
-  - type: text
-    content: palais du roi
-  - type: note
-    content: 'palais du roi: l’hébreu ne précise pas (voir v. 14 et note). Selon d’autres, il s’agirait de Jérusalem.'
-  - type: text
-    content: – l’Eternel le déclare –
-  - type: text
-    content: toi qui t’es installé ╵au rocher du plateau ╵qui domine la plaine !
-  - type: text
-    content: 'J’en veux à vous qui dites : ╵« Qui nous attaquera ?'
-  - type: text
-    content: Qui pourra pénétrer ╵jusque dans nos bastions ? »
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Je vais m’en prendre à toi,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: palais du roi
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '21.13 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: palais du roi
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: ': '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: l’hébreu ne précise pas (voir v. 14 et note). Selon d’autres, il s’agirait de Jérusalem.
+      marker-yv: yv-n
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: – l’Eternel le déclare –
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: toi qui t’es installé ╵au rocher du plateau ╵qui domine la plaine !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'J’en veux à vous qui dites : ╵« Qui nous attaquera ?'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Qui pourra pénétrer ╵jusque dans nos bastions ? »
   '14':
-  - type: text
-    content: Moi, j’interviendrai contre vous
-  - type: text
-    content: selon ce qu’ont produit vos actes,
-  - type: text
-    content: l’Eternel le déclare.
-  - type: text
-    content: Je mettrai le feu ╵à ta forêt
-  - type: note
-    content: Allusion probable au palais du roi construit à Jérusalem, appelé « palais de la Forêt-du-Liban » à cause de ses colonnades en bois de cèdre et ses boiseries (voir 1 R 7.2).
-  - type: text
-    content: ','
-  - type: text
-    content: et il consumera ╵tout ce qui se trouve autour d’elle.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Moi, j’interviendrai contre vous
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: selon ce qu’ont produit vos actes,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: l’Eternel le déclare.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Je mettrai le feu ╵à ta forêt
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '21.14 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Allusion probable au palais du roi construit à Jérusalem, appelé « palais de la Forêt-du-Liban » à cause de ses colonnades en bois de cèdre et ses boiseries (voir '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: 1 R 7.2
+        - type: text
+          text: ).
+      marker-yv: yv-n
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et il consumera ╵tout ce qui se trouve autour d’elle.
   '2':
-  - type: text
-    content: Veuille consulter l’Eternel pour nous, car Nabuchodonosor
-  - type: note
-    content: Roi de Babylone, de 605 à 562 av. J.-C.
-  - type: text
-    content: ', roi de Babylone, nous attaque'
-  - type: note
-    content: Voir 2 R 24.20 à 25.2.
-  - type: text
-    content: . Peut-être l’Eternel fera-t-il encore pour nous un de ses grands prodiges
-  - type: note
-    content: Voir 2 R 19.35-36 et Es 37.33-38.
-  - type: text
-    content: ', pour le faire partir.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Veuille consulter l’Eternel pour nous, car Nabuchodonosor
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '21.2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Roi de Babylone, de 605 à 562 av. J.-C.
+      marker-yv: yv-n
+    - type: text
+      text: ', roi de Babylone, nous attaque'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '21.2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Voir 2 R 24.20 à 25.2.
+      marker-yv: yv-n
+    - type: text
+      text: . Peut-être l’Eternel fera-t-il encore pour nous un de ses grands prodiges
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '21.2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Voir '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: 2 R 19.35-36
+        - type: text
+          text: ' et '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Es 37.33-38
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: ', pour le faire partir.'
   '3':
-  - type: text
-    content: 'Mais Jérémie leur répondit : Vous direz à Sédécias : '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Mais Jérémie leur répondit : Vous direz à Sédécias : '
   '4':
-  - type: text
-    content: 'Voici ce que déclare l’Eternel, le Dieu d’Israël : Les combattants qui luttent avec leurs armes à l’extérieur contre le roi de Babylone et contre les Chaldéens qui vous assiègent, je vais les faire se replier à l’intérieur de cette ville. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Voici ce que déclare l’Eternel, le Dieu d’Israël : Les combattants qui luttent avec leurs armes à l’extérieur contre le roi de Babylone et contre les Chaldéens qui vous assiègent, je vais les faire se replier à l’intérieur de cette ville. '
   '5':
-  - type: text
-    content: Et moi-même, je combattrai contre vous, en déployant ma puissance, avec colère, avec fureur, et une grande indignation.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Et moi-même, je combattrai contre vous, en déployant ma puissance, avec colère, avec fureur, et une grande indignation.
   '6':
-  - type: text
-    content: 'Je frapperai tout ce qui habite dans cette ville, les hommes aussi bien que les bêtes, d’une terrible peste dont ils mourront. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Je frapperai tout ce qui habite dans cette ville, les hommes aussi bien que les bêtes, d’une terrible peste dont ils mourront. '
   '7':
-  - type: text
-    content: Après cela – l’Eternel le déclare – je livrerai Sédécias, roi de Juda, ses fonctionnaires et la population de cette ville qui aura survécu à la peste, à l’épée et à la famine, je les livrerai à Nabuchodonosor, roi de Babylone, à leurs ennemis et à ceux qui en veulent à leur vie. Nabuchodonosor les fera massacrer par l’épée ; il ne les épargnera pas, il sera sans pitié pour eux et n’aura aucune compassion.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Après cela – l’Eternel le déclare – je livrerai Sédécias, roi de Juda, ses fonctionnaires et la population de cette ville qui aura survécu à la peste, à l’épée et à la famine, je les livrerai à Nabuchodonosor, roi de Babylone, à leurs ennemis et à ceux qui en veulent à leur vie. Nabuchodonosor les fera massacrer par l’épée ; il ne les épargnera pas, il sera sans pitié pour eux et n’aura aucune compassion.
   '8':
-  - type: text
-    content: 'Puis, tu diras à ce peuple : Voici ce que déclare l’Eternel : Je vous donne le choix entre le chemin de la vie et celui de la mort. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Puis, tu diras à ce peuple : Voici ce que déclare l’Eternel : Je vous donne le choix entre le chemin de la vie et celui de la mort. '
   '9':
-  - type: text
-    content: 'Celui qui restera dans cette ville mourra par l’épée, par la famine ou par la peste. Mais celui qui en sortira pour se rendre aux Chaldéens qui vous assiègent aura la vie sauve ; il aura au moins gagné cela. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Celui qui restera dans cette ville mourra par l’épée, par la famine ou par la peste. Mais celui qui en sortira pour se rendre aux Chaldéens qui vous assiègent aura la vie sauve ; il aura au moins gagné cela. '

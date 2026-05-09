@@ -2,287 +2,1009 @@ document_id: PSA.116,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: I Love the Lord
-  - type: text
-    content: 'I '
-  - type: note
-    content: Ps. 18:1
-  - type: text
-    content: 'love the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', because he has '
-  - type: note
-    content: Ps. 66:19; 118:21
-  - type: text
-    content: heard
-  - type: text
-    content: my voice and my pleas for mercy.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: 'I Love the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 18:1
+      marker-yv: yv-n
+    - type: text
+      text: 'love the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', because he has '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 66:19
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 118:21
+      marker-yv: yv-n
+    - type: text
+      text: heard
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: my voice and my pleas for mercy.
   '10':
-  - type: text
-    content: ' '
-  - type: note
-    content: Cited 2 Cor. 4:13
-  - type: text
-    content: 'I believed, '
-  - type: note
-    content: '[Ps. 39:3]'
-  - type: text
-    content: even when
-  - type: note
-    content: Or believed, indeed; Septuagint believed, therefore
-  - type: text
-    content: ' I spoke:'
-  - type: text
-    content: “I am greatly afflicted”;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'Cited '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Cor. 4:13
+      marker-yv: yv-n
+    - type: text
+      text: 'I believed, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 39:3
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: even when
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '116:10 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: believed, indeed
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '; Septuagint '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: believed, therefore
+      marker-yv: yv-n
+    - type: text
+      text: ' I spoke:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: “I am greatly afflicted”;
   '11':
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps. 31:22
-  - type: text
-    content: I said in my alarm,
-  - type: note
-    content: '[ Ps. 62:9 ]'
-  - type: text
-    content: “All mankind are liars.”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 31:22
+      marker-yv: yv-n
+    - type: text
+      text: I said in my alarm,
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 62:9
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: “All mankind are liars.”
   '12':
-  - type: text
-    content: 'What shall I '
-  - type: note
-    content: 2 Chr. 32:25
-  - type: text
-    content: 'render to the '
-  - type: text
-    content: Lord
-  - type: text
-    content: for all his benefits to me?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'What shall I '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Chr. 32:25
+      marker-yv: yv-n
+    - type: text
+      text: 'render to the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: for all his benefits to me?
   '13':
-  - type: text
-    content: 'I will lift up '
-  - type: note
-    content: '[Ps. 16:5]'
-  - type: text
-    content: the cup of salvation
-  - type: text
-    content: 'and '
-  - type: note
-    content: See Ps. 99:6; 105:1
-  - type: text
-    content: 'call on the name of the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I will lift up '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 16:5
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: the cup of salvation
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 99:6
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 105:1
+      marker-yv: yv-n
+    - type: text
+      text: 'call on the name of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ','
   '14':
-  - type: text
-    content: 'I will '
-  - type: note
-    content: See Ps. 50:14
-  - type: text
-    content: 'pay my vows to the '
-  - type: text
-    content: Lord
-  - type: text
-    content: in the presence of all his people.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I will '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 50:14
+      marker-yv: yv-n
+    - type: text
+      text: 'pay my vows to the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: in the presence of all his people.
   '15':
-  - type: text
-    content: ' '
-  - type: note
-    content: See Ps. 72:14
-  - type: text
-    content: 'Precious in the sight of the '
-  - type: text
-    content: Lord
-  - type: text
-    content: 'is the death of his '
-  - type: note
-    content: See Ps. 50:5
-  - type: text
-    content: saints.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 72:14
+      marker-yv: yv-n
+    - type: text
+      text: 'Precious in the sight of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'is the death of his '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 50:5
+      marker-yv: yv-n
+    - type: text
+      text: saints.
   '16':
-  - type: text
-    content: 'O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', I am your '
-  - type: note
-    content: Ps. 119:125; 143:12; [Ps. 113:1]
-  - type: text
-    content: servant;
-  - type: text
-    content: 'I am your servant, '
-  - type: note
-    content: Ps. 86:16
-  - type: text
-    content: the son of your maidservant.
-  - type: text
-    content: 'You have '
-  - type: note
-    content: '[Job 12:18]'
-  - type: text
-    content: loosed my bonds.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', I am your '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 119:125
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 143:12
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 113:1
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: servant;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'I am your servant, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 86:16
+      marker-yv: yv-n
+    - type: text
+      text: the son of your maidservant.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'You have '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 12:18
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: loosed my bonds.
   '17':
-  - type: text
-    content: 'I will '
-  - type: note
-    content: See Ps. 50:14
-  - type: text
-    content: offer to you the sacrifice of thanksgiving
-  - type: text
-    content: 'and '
-  - type: note
-    content: '[See ver. 13 above]'
-  - type: text
-    content: 'call on the name of the '
-  - type: text
-    content: Lord
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I will '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 50:14
+      marker-yv: yv-n
+    - type: text
+      text: offer to you the sacrifice of thanksgiving
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[See ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '13'
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: above]
+      marker-yv: yv-n
+    - type: text
+      text: 'call on the name of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: .
   '18':
-  - type: text
-    content: 'I will '
-  - type: note
-    content: '[See ver. 14 above]'
-  - type: text
-    content: 'pay my vows to the '
-  - type: text
-    content: Lord
-  - type: text
-    content: in the presence of all his people,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I will '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[See ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '14'
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: above]
+      marker-yv: yv-n
+    - type: text
+      text: 'pay my vows to the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: in the presence of all his people,
   '19':
-  - type: text
-    content: 'in '
-  - type: note
-    content: See Ps. 92:13
-  - type: text
-    content: 'the courts of the house of the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ','
-  - type: text
-    content: in your midst, O Jerusalem.
-  - type: note
-    content: See Ps. 104:35
-  - type: text
-    content: 'Praise the '
-  - type: text
-    content: Lord
-  - type: text
-    content: '!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'in '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 92:13
+      marker-yv: yv-n
+    - type: text
+      text: 'the courts of the house of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: in your midst, O Jerusalem.
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 104:35
+      marker-yv: yv-n
+    - type: text
+      text: 'Praise the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: '!'
   '2':
-  - type: text
-    content: 'Because he '
-  - type: note
-    content: '[Ps. 31:2]'
-  - type: text
-    content: inclined his ear to me,
-  - type: text
-    content: therefore I will call on him as long as I live.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Because he '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 31:2
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: inclined his ear to me,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: therefore I will call on him as long as I live.
   '3':
-  - type: text
-    content: ' '
-  - type: note
-    content: See Ps. 18:4
-  - type: text
-    content: The snares of death encompassed me;
-  - type: text
-    content: the pangs of Sheol laid hold on me;
-  - type: text
-    content: I suffered distress and anguish.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 18:4
+      marker-yv: yv-n
+    - type: text
+      text: The snares of death encompassed me;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: the pangs of Sheol laid hold on me;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: I suffered distress and anguish.
   '4':
-  - type: text
-    content: 'Then '
-  - type: note
-    content: Ps. 118:5; See Ps. 18:6
-  - type: text
-    content: 'I called on the name of the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ':'
-  - type: text
-    content: '“O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', I pray, deliver my soul!”'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Then '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 118:5
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 18:6
+      marker-yv: yv-n
+    - type: text
+      text: 'I called on the name of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ':'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: '“O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', I pray, deliver my soul!”'
   '5':
-  - type: text
-    content: ' '
-  - type: note
-    content: See Ps. 86:15
-  - type: text
-    content: 'Gracious is the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', and '
-  - type: note
-    content: Ps. 7:9; 119:137; 145:17; Ezra 9:15; Neh. 9:8; Jer. 12:1; Dan. 9:7
-  - type: text
-    content: righteous;
-  - type: text
-    content: 'our God is '
-  - type: note
-    content: See Ps. 62:12
-  - type: text
-    content: merciful.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 86:15
+      marker-yv: yv-n
+    - type: text
+      text: 'Gracious is the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 7:9
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 119:137
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 145:17
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ezra 9:15
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Neh. 9:8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 12:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Dan. 9:7
+      marker-yv: yv-n
+    - type: text
+      text: righteous;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'our God is '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 62:12
+      marker-yv: yv-n
+    - type: text
+      text: merciful.
   '6':
-  - type: text
-    content: 'The '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' preserves '
-  - type: note
-    content: See Ps. 19:7
-  - type: text
-    content: the simple;
-  - type: text
-    content: 'when '
-  - type: note
-    content: Ps. 79:8; 142:6
-  - type: text
-    content: I was brought low, he saved me.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' preserves '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 19:7
+      marker-yv: yv-n
+    - type: text
+      text: the simple;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'when '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 79:8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 142:6
+      marker-yv: yv-n
+    - type: text
+      text: I was brought low, he saved me.
   '7':
-  - type: text
-    content: 'Return, O my soul, to your '
-  - type: note
-    content: Jer. 6:16; [Matt. 11:28]
-  - type: text
-    content: rest;
-  - type: text
-    content: 'for the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' has '
-  - type: note
-    content: See Ps. 13:6
-  - type: text
-    content: dealt bountifully with you.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Return, O my soul, to your '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 6:16
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 11:28
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: rest;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'for the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' has '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 13:6
+      marker-yv: yv-n
+    - type: text
+      text: dealt bountifully with you.
   '8':
-  - type: text
-    content: 'For '
-  - type: note
-    content: Ps. 49:15; 56:13; [Ps. 86:13]
-  - type: text
-    content: you have delivered my soul from death,
-  - type: text
-    content: my eyes from tears,
-  - type: text
-    content: my feet from stumbling;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'For '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 49:15
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 56:13
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 86:13
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: you have delivered my soul from death,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: my eyes from tears,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: my feet from stumbling;
   '9':
-  - type: text
-    content: 'I will walk before the '
-  - type: text
-    content: Lord
-  - type: note
-    content: See Ps. 27:13
-  - type: text
-    content: in the land of the living.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I will walk before the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 27:13
+      marker-yv: yv-n
+    - type: text
+      text: in the land of the living.

@@ -2,67 +2,170 @@ document_id: PSA.110,116
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: A psalm of David.
-  - type: text
-    content: 'The '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' said to my Lord,'
-  - type: note
-    content: Or my lord.
-  - type: text
-    content: “Sit in the place of honor at my right hand
-  - type: text
-    content: until I humble your enemies,
-  - type: text
-    content: making them a footstool under your feet.”
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: A psalm of David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' said to my Lord,'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '110:1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: my lord.
+      marker-yv: yv-n
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: “Sit in the place of honor at my right hand
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: until I humble your enemies,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: making them a footstool under your feet.”
   '2':
-  - type: text
-    content: 'The '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' will extend your powerful kingdom from Jerusalem'
-  - type: note
-    content: Hebrew Zion.
-  - type: text
-    content: ;
-  - type: text
-    content: you will rule over your enemies.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' will extend your powerful kingdom from Jerusalem'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '110:2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: Zion.
+      marker-yv: yv-n
+    - type: text
+      text: ;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: you will rule over your enemies.
   '3':
-  - type: text
-    content: When you go to war,
-  - type: text
-    content: your people will serve you willingly.
-  - type: text
-    content: You are arrayed in holy garments,
-  - type: text
-    content: and your strength will be renewed each day like the morning dew.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: When you go to war,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: your people will serve you willingly.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: You are arrayed in holy garments,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and your strength will be renewed each day like the morning dew.
   '4':
-  - type: text
-    content: 'The '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' has taken an oath and will not break his vow:'
-  - type: text
-    content: “You are a priest forever in the order of Melchizedek.”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' has taken an oath and will not break his vow:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: “You are a priest forever in the order of Melchizedek.”
   '5':
-  - type: text
-    content: The Lord stands at your right hand to protect you.
-  - type: text
-    content: He will strike down many kings when his anger erupts.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: The Lord stands at your right hand to protect you.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: He will strike down many kings when his anger erupts.
   '6':
-  - type: text
-    content: He will punish the nations
-  - type: text
-    content: and fill their lands with corpses;
-  - type: text
-    content: he will shatter heads over the whole earth.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: He will punish the nations
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and fill their lands with corpses;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: he will shatter heads over the whole earth.
   '7':
-  - type: text
-    content: But he himself will be refreshed from brooks along the way.
-  - type: text
-    content: He will be victorious.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: But he himself will be refreshed from brooks along the way.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: He will be victorious.

@@ -2,102 +2,222 @@ document_id: PSA.143,116
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: A psalm of David.
-  - type: text
-    content: 'Hear my prayer, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ;
-  - type: text
-    content: listen to my plea!
-  - type: text
-    content: Answer me because you are faithful and righteous.
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: A psalm of David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Hear my prayer, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: listen to my plea!
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Answer me because you are faithful and righteous.
   '10':
-  - type: text
-    content: Teach me to do your will,
-  - type: text
-    content: for you are my God.
-  - type: text
-    content: May your gracious Spirit lead me forward
-  - type: text
-    content: on a firm footing.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Teach me to do your will,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: for you are my God.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: May your gracious Spirit lead me forward
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: on a firm footing.
   '11':
-  - type: text
-    content: 'For the glory of your name, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', preserve my life.'
-  - type: text
-    content: Because of your faithfulness, bring me out of this distress.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'For the glory of your name, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', preserve my life.'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Because of your faithfulness, bring me out of this distress.
   '12':
-  - type: text
-    content: In your unfailing love, silence all my enemies
-  - type: text
-    content: and destroy all my foes,
-  - type: text
-    content: for I am your servant.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: In your unfailing love, silence all my enemies
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and destroy all my foes,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: for I am your servant.
   '2':
-  - type: text
-    content: Don’t put your servant on trial,
-  - type: text
-    content: for no one is innocent before you.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Don’t put your servant on trial,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: for no one is innocent before you.
   '3':
-  - type: text
-    content: My enemy has chased me.
-  - type: text
-    content: He has knocked me to the ground
-  - type: text
-    content: and forces me to live in darkness like those in the grave.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: My enemy has chased me.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: He has knocked me to the ground
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and forces me to live in darkness like those in the grave.
   '4':
-  - type: text
-    content: I am losing all hope;
-  - type: text
-    content: I am paralyzed with fear.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: I am losing all hope;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: I am paralyzed with fear.
   '5':
-  - type: text
-    content: I remember the days of old.
-  - type: text
-    content: I ponder all your great works
-  - type: text
-    content: and think about what you have done.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: I remember the days of old.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: I ponder all your great works
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and think about what you have done.
   '6':
-  - type: text
-    content: I lift my hands to you in prayer.
-  - type: text
-    content: 'I thirst for you as parched land thirsts for rain. '
-  - type: text
-    content: Interlude
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: I lift my hands to you in prayer.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'I thirst for you as parched land thirsts for rain. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Interlude
   '7':
-  - type: text
-    content: 'Come quickly, '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', and answer me,'
-  - type: text
-    content: for my depression deepens.
-  - type: text
-    content: Don’t turn away from me,
-  - type: text
-    content: or I will die.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Come quickly, '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', and answer me,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: for my depression deepens.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Don’t turn away from me,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: or I will die.
   '8':
-  - type: text
-    content: Let me hear of your unfailing love each morning,
-  - type: text
-    content: for I am trusting you.
-  - type: text
-    content: Show me where to walk,
-  - type: text
-    content: for I give myself to you.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Let me hear of your unfailing love each morning,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: for I am trusting you.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Show me where to walk,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: for I give myself to you.
   '9':
-  - type: text
-    content: 'Rescue me from my enemies, '
-  - type: text
-    content: Lord
-  - type: text
-    content: ;
-  - type: text
-    content: I run to you to hide me.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Rescue me from my enemies, '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: I run to you to hide me.

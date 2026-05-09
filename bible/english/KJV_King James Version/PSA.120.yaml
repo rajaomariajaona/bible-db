@@ -2,55 +2,112 @@ document_id: PSA.120,1
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: A Song of degrees.
-  - type: text
-    content: In my distress
-  - type: text
-    content: 'I cried unto the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ', and he heard me.'
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: A Song of degrees.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: In my distress
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'I cried unto the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ', and he heard me.'
   '2':
-  - type: text
-    content: 'Deliver my soul, O '
-  - type: text
-    content: LORD
-  - type: text
-    content: ', from lying lips,'
-  - type: text
-    content: And
-  - type: text
-    content: ' from a deceitful tongue.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Deliver my soul, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ', from lying lips,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: And
+    - type: text
+      text: ' from a deceitful tongue.'
   '3':
-  - type: text
-    content: What shall be given unto thee? or what shall be done unto thee, thou false tongue?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: What shall be given unto thee? or what shall be done unto thee, thou false tongue?
   '4':
-  - type: text
-    content: Sharp arrows of the mighty, with coals of juniper.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Sharp arrows of the mighty, with coals of juniper.
   '5':
-  - type: text
-    content: Woe is me, that I sojourn in Mesech,
-  - type: text
-    content: That
-  - type: text
-    content: ' I dwell in the tents of Kedar!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Woe is me, that I sojourn in Mesech,
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: That
+    - type: text
+      text: ' I dwell in the tents of Kedar!'
   '6':
-  - type: text
-    content: My soul hath long dwelt
-  - type: text
-    content: With him that hateth peace.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: My soul hath long dwelt
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: With him that hateth peace.
   '7':
-  - type: text
-    content: 'I '
-  - type: text
-    content: am for
-  - type: text
-    content: ' peace:'
-  - type: text
-    content: 'But when I speak, they '
-  - type: text
-    content: are
-  - type: text
-    content: ' for war.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: am for
+    - type: text
+      text: ' peace:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'But when I speak, they '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: are
+    - type: text
+      text: ' for war.'

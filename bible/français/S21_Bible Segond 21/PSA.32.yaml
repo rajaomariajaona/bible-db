@@ -2,73 +2,188 @@ document_id: PSA.32,152
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Le bonheur du pécheur pardonné
-  - type: text
-    content: De David, cantique.
-  - type: text
-    content: '*Heureux celui dont la transgression est enlevée'
-  - type: text
-    content: et dont le péché est pardonné!
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Le bonheur du pécheur pardonné
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: De David, cantique.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: '*Heureux celui dont la transgression est enlevée'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et dont le péché est pardonné!
   '10':
-  - type: text
-    content: Beaucoup de douleurs sont le lot du méchant,
-  - type: text
-    content: mais celui qui se confie en l'Eternel est environné de sa grâce.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Beaucoup de douleurs sont le lot du méchant,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: mais celui qui se confie en l'Eternel est environné de sa grâce.
   '11':
-  - type: text
-    content: Justes, réjouissez-vous en l'Eternel et soyez dans l'allégresse!
-  - type: text
-    content: Poussez des cris de joie, vous tous qui avez le cœur droit!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Justes, réjouissez-vous en l'Eternel et soyez dans l'allégresse!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Poussez des cris de joie, vous tous qui avez le cœur droit!
   '2':
-  - type: text
-    content: Heureux l'homme à qui l'Eternel ne tient pas compte de sa faute
-  - type: note
-    content: 'Heureux… sa faute: cité en Romains 4.7-8 dans l''argumentation de Paul en faveur de la justification sans les œuvres.'
-  - type: text
-    content: et dont l'esprit ne connaît pas la ruse!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Heureux l'homme à qui l'Eternel ne tient pas compte de sa faute
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '32.1-2 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Heureux… sa faute: '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'cité en '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Romains 4.7-8
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' dans l''argumentation de Paul en faveur de la justification sans les œuvres.'
+      marker-yv: yv-n
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et dont l'esprit ne connaît pas la ruse!
   '3':
-  - type: text
-    content: Tant que je me taisais, mon corps dépérissait;
-  - type: text
-    content: je gémissais toute la journée,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Tant que je me taisais, mon corps dépérissait;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: je gémissais toute la journée,
   '4':
-  - type: text
-    content: car nuit et jour ta main pesait lourdement sur moi.
-  - type: text
-    content: 'Ma vigueur avait fait place à la sécheresse de l''été. '
-  - type: text
-    content: – Pause.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: car nuit et jour ta main pesait lourdement sur moi.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Ma vigueur avait fait place à la sécheresse de l''été. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: – Pause.
   '5':
-  - type: text
-    content: Je t'ai fait connaître mon péché, je n'ai pas caché ma faute.
-  - type: text
-    content: 'J''ai dit: «J''avouerai mes transgressions à l''Eternel»,'
-  - type: text
-    content: 'et tu as pardonné mon péché. '
-  - type: text
-    content: – Pause.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Je t'ai fait connaître mon péché, je n'ai pas caché ma faute.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'J''ai dit: «J''avouerai mes transgressions à l''Eternel»,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'et tu as pardonné mon péché. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: – Pause.
   '6':
-  - type: text
-    content: C'est ainsi que tout fidèle peut te prier au moment convenable.
-  - type: text
-    content: Si de grandes eaux débordent, elles ne l'atteindront pas.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: C'est ainsi que tout fidèle peut te prier au moment convenable.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Si de grandes eaux débordent, elles ne l'atteindront pas.
   '7':
-  - type: text
-    content: Tu es un abri pour moi, tu me préserves de la détresse,
-  - type: text
-    content: 'tu m''entoures de chants de délivrance. '
-  - type: text
-    content: – Pause.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Tu es un abri pour moi, tu me préserves de la détresse,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'tu m''entoures de chants de délivrance. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: – Pause.
   '8':
-  - type: text
-    content: Je t'instruirai et te montrerai la voie que tu dois suivre;
-  - type: text
-    content: je te conseillerai, j'aurai le regard sur toi.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Je t'instruirai et te montrerai la voie que tu dois suivre;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: je te conseillerai, j'aurai le regard sur toi.
   '9':
-  - type: text
-    content: 'Ne soyez pas comme un cheval ou un mulet sans intelligence:'
-  - type: text
-    content: on les freine avec un mors et une bride, dont on les orne,
-  - type: text
-    content: afin qu'ils ne te bousculent pas.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Ne soyez pas comme un cheval ou un mulet sans intelligence:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: on les freine avec un mors et une bride, dont on les orne,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: afin qu'ils ne te bousculent pas.

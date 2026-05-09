@@ -2,100 +2,250 @@ document_id: SNG.6,93
 type_code: fra
 verses:
   '1':
-  - type: text
-    content: Où est allé ton bien-aimé,
-  - type: text
-    content: O la plus belle des femmes?
-  - type: text
-    content: De quel côté ton bien-aimé s’est-il dirigé?
-  - type: text
-    content: Nous le chercherons avec toi.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Où est allé ton bien-aimé,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: O la plus belle des femmes?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: De quel côté ton bien-aimé s’est-il dirigé?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Nous le chercherons avec toi.
   '10':
-  - type: text
-    content: Qui est celle qui apparaît comme l’aurore,
-  - type: text
-    content: Belle comme la lune, pure comme le soleil,
-  - type: text
-    content: Mais terrible comme des troupes sous leurs bannières?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Qui est celle qui apparaît comme l’aurore,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Belle comme la lune, pure comme le soleil,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mais terrible comme des troupes sous leurs bannières?
   '11':
-  - type: text
-    content: Je suis descendue au jardin des noyers,
-  - type: text
-    content: Pour voir la verdure de la vallée,
-  - type: text
-    content: Pour voir si la vigne pousse,
-  - type: text
-    content: Si les grenadiers fleurissent.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Je suis descendue au jardin des noyers,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Pour voir la verdure de la vallée,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Pour voir si la vigne pousse,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Si les grenadiers fleurissent.
   '12':
-  - type: text
-    content: Je ne sais, mais mon désir m’a rendue semblable
-  - type: text
-    content: 'Aux chars de mon '
-  - type: note
-    content: Ps 110:3.
-  - type: text
-    content: noble peuple.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Je ne sais, mais mon désir m’a rendue semblable
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Aux chars de mon '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 110:3
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: noble peuple.
   '2':
-  - type: text
-    content: Mon bien-aimé est descendu à son jardin,
-  - type: text
-    content: Au parterre d’aromates,
-  - type: text
-    content: Pour faire paître son troupeau dans les jardins,
-  - type: text
-    content: Et pour cueillir des lis.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mon bien-aimé est descendu à son jardin,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Au parterre d’aromates,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Pour faire paître son troupeau dans les jardins,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et pour cueillir des lis.
   '3':
-  - type: text
-    content: Je suis à mon bien-aimé, et mon bien-aimé est à moi;
-  - type: text
-    content: Il fait paître son troupeau parmi les lis.
-  - type: heading
-    content: '6 v. 4 à 7 v. 1: cf. Ca 4:1-11; 8:10.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Je suis à mon bien-aimé, et mon bien-aimé est à moi;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Il fait paître son troupeau parmi les lis.
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: '6 v. 4 à 7 v. 1: cf. Ca 4:1-11; 8:10.'
+    marker-yv: yv-h
   '4':
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps 45:12. Ca 1:15; 4:1.
-  - type: text
-    content: Tu es belle, mon amie, comme Thirtsa,
-  - type: text
-    content: Agréable comme Jérusalem,
-  - type: text
-    content: Mais terrible comme des troupes sous leurs bannières.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 45:12
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ca 1:15
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 4:1
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: Tu es belle, mon amie, comme Thirtsa,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Agréable comme Jérusalem,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mais terrible comme des troupes sous leurs bannières.
   '5':
-  - type: text
-    content: Détourne de moi tes yeux, car ils me troublent.
-  - type: text
-    content: Tes cheveux sont comme un troupeau de chèvres,
-  - type: text
-    content: Suspendues aux flancs de Galaad.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Détourne de moi tes yeux, car ils me troublent.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Tes cheveux sont comme un troupeau de chèvres,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Suspendues aux flancs de Galaad.
   '6':
-  - type: text
-    content: Tes dents sont comme un troupeau de brebis,
-  - type: text
-    content: Qui remontent de l’abreuvoir;
-  - type: text
-    content: Toutes portent des jumeaux,
-  - type: text
-    content: Aucune d’elles n’est stérile.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Tes dents sont comme un troupeau de brebis,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Qui remontent de l’abreuvoir;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Toutes portent des jumeaux,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Aucune d’elles n’est stérile.
   '7':
-  - type: text
-    content: Ta joue est comme une moitié de grenade,
-  - type: text
-    content: Derrière ton voile…
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Ta joue est comme une moitié de grenade,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Derrière ton voile…
   '8':
-  - type: text
-    content: Il y a soixante reines, quatre-vingts concubines,
-  - type: text
-    content: Et des jeunes filles sans nombre.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Il y a soixante reines, quatre-vingts concubines,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et des jeunes filles sans nombre.
   '9':
-  - type: text
-    content: Une seule est ma colombe, ma parfaite;
-  - type: text
-    content: Elle est l’unique de sa mère,
-  - type: text
-    content: La préférée de celle qui lui donna le jour.
-  - type: text
-    content: Les jeunes filles la voient, et la disent heureuse;
-  - type: text
-    content: Les reines et les concubines aussi, et elles la louent.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Une seule est ma colombe, ma parfaite;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Elle est l’unique de sa mère,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: La préférée de celle qui lui donna le jour.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Les jeunes filles la voient, et la disent heureuse;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Les reines et les concubines aussi, et elles la louent.

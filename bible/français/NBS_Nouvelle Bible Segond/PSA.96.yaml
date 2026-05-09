@@ -2,173 +2,1060 @@ document_id: PSA.96,104
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Un chant pour le Seigneur qui vient
-  - type: heading
-    content: 1Ch 16.23-33
-  - type: text
-    content: ' '
-  - type: note
-    content: 'LXX donne la suscription  : Lorsqu''on rebâtissait la maison (= le temple) après la captivité. Psaume de David. –  chant nouveau 33.3+ ; 98.1 ; 149.1 ; Es 42.10 ; Ap 5.9+. –  terre entière 66.1+.'
-  - type: text
-    content: 'Chantez pour le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' un chant nouveau !'
-  - type: text
-    content: 'Chante pour le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ', terre entière !'
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: 'Un chant pour le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' qui vient'
+    marker-yv: yv-h
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: 1Ch 16.23-33
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '96.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: LXX
+        - type: text
+          text: ' donne la suscription'
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Lorsqu''on rebâtissait la maison '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '(= le '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: temple
+        - type: text
+          text: ') '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'après la captivité. Psaume de David. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '–  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'chant nouveau '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '33.3+ ; 98.1 ; 149.1 ; Es 42.10 ; Ap 5.9+. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'terre entière '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 66.1+.
+      marker-yv: yv-n
+    - type: text
+      text: 'Chantez pour le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' un chant nouveau !'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Chante pour le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ', terre entière !'
   '10':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'Dites… roi ! 1Ch 16.30ns. –  parmi les nations v. 3+. –  C''est le Seigneur (YHWH) qui est roi 93.1n. –  Il juge…  : cf. 9.9 ; 98.9.'
-  - type: text
-    content: 'Dites parmi les nations : C''est le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' (YHWH) qui est roi !'
-  - type: text
-    content: – Ainsi le monde est ferme, il ne vacille pas. –
-  - type: text
-    content: Il juge les peuples avec droiture.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '96.10 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Dites… roi ! '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 1Ch 16.30
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: 's. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'parmi les nations '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'v. 3+. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'C''est le '
+        - type: usfm
+          marker: nd
+          children:
+          - type: text
+            text: Seigneur
+        - type: text
+          text: ' (YHWH) qui est roi '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '93.1'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Il juge…
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : cf. 9.9 ; 98.9.'
+      marker-yv: yv-n
+    - type: text
+      text: 'Dites parmi les nations : C''est le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' (YHWH) qui est roi !'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: – Ainsi le monde est ferme, il ne vacille pas. –
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Il juge les peuples avec droiture.
   '11':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'le ciel (ou les cieux  ; cf. Gn 1.1n) 97.1 ; Es 44.23 ; 49.13 ; Ap 12.12 ; 18.20. –  Que la mer… 98.7 ; Es 42.10-12. –  avec tout ce qui s''y trouve  : litt. et ce qui la remplit  ; 24.1n.'
-  - type: text
-    content: Que le ciel se réjouisse, que la terre soit dans l'allégresse !
-  - type: text
-    content: Que la mer retentisse, avec tout ce qui s'y trouve !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '96.11 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'le ciel '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '(ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: les cieux
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text:  ; cf. Gn 1.1
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: ') 97.1 ; Es 44.23 ; 49.13 ; Ap 12.12 ; 18.20. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Que la mer… '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '98.7 ; Es 42.10-12. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: avec tout ce qui s'y trouve
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: et ce qui la remplit
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text:  ; 24.1
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: Que le ciel se réjouisse, que la terre soit dans l'allégresse !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Que la mer retentisse, avec tout ce qui s'y trouve !
   '12':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'Es 44.23 ; 55.12. –  tout ce qui s''y trouve  : litt. tout ce qui est en elle , autre expression au v. 11n.'
-  - type: text
-    content: Que la campagne exulte, avec tout ce qui s'y trouve,
-  - type: text
-    content: que tous les arbres des forêts poussent des cris de joie
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '96.12 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Es 44.23 ; 55.12. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: tout ce qui s'y trouve
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: tout ce qui est en elle
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', autre expression au v. 11'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: Que la campagne exulte, avec tout ce qui s'y trouve,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: que tous les arbres des forêts poussent des cris de joie
   '13':
-  - type: text
-    content: ' '
-  - type: note
-    content: 98.9. –  il vient Es 40.10 ; 59.19s ; 60.1 ; 62.11. –  juger 7.9 ; 9.9n  ; 94.2+ ; Ac 17.31 ; Ap 19.11 ; voir justice . –  constance 89.2n.
-  - type: text
-    content: 'devant le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ', car il vient !'
-  - type: text
-    content: Car il vient pour juger la terre ;
-  - type: text
-    content: il jugera le monde avec justice,
-  - type: text
-    content: il jugera les peuples par sa constance.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '96.13 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '98.9. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'il vient '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Es 40.10 ; 59.19s ; 60.1 ; 62.11. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'juger '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 7.9 ; 9.9
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; 94.2+ ; Ac 17.31 ; Ap 19.11 ; voir '
+      - type: usfm
+        marker: fq
+        children:
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: justice
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'constance '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '89.2'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'devant le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ', car il vient !'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Car il vient pour juger la terre ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: il jugera le monde avec justice,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: il jugera les peuples par sa constance.
   '2':
-  - type: text
-    content: ' '
-  - type: note
-    content: Voir nom. –  la bonne nouvelle de son salut 68.12+ ; cf. 98.2 ; Es 40.29 ; 41.27 ; 52.7 ; Na 2.1.
-  - type: text
-    content: 'Chantez pour le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ', bénissez son nom,'
-  - type: text
-    content: annoncez jour après jour la bonne nouvelle de son salut !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '96.2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Voir '
+      - type: usfm
+        marker: fk
+        children:
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: nom
+        - type: text
+          text: '. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '–  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'la bonne nouvelle de son salut '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 68.12+ ; cf. 98.2 ; Es 40.29 ; 41.27 ; 52.7 ; Na 2.1.
+      marker-yv: yv-n
+    - type: text
+      text: 'Chantez pour le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ', bénissez son nom,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: annoncez jour après jour la bonne nouvelle de son salut !
   '3':
-  - type: text
-    content: ' '
-  - type: note
-    content: Dites et racontez traduisent un seul verbe hébreu ; cf. 9.2+,12+ ; 105.1. – Voir gloire.
-  - type: text
-    content: Dites parmi les nations sa gloire,
-  - type: text
-    content: racontez parmi tous les peuples ses actes étonnants !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '96.3 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Dites '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'et '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'racontez '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'traduisent un seul verbe hébreu ; cf. 9.2+,12+ ; 105.1. – Voir '
+      - type: usfm
+        marker: fq
+        children:
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: gloire
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: Dites parmi les nations sa gloire,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: racontez parmi tous les peuples ses actes étonnants !
   '4':
-  - type: text
-    content: ' '
-  - type: note
-    content: Cf. 48.2+ ; 95.3+ ; 97.9 ; 99.2 ; 145.3.
-  - type: text
-    content: 'Car le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' est grand et digne de toute louange :'
-  - type: text
-    content: il est redoutable, plus que tous les dieux ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '96.4 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Cf. 48.2+ ; 95.3+ ; 97.9 ; 99.2 ; 145.3.
+      marker-yv: yv-n
+    - type: text
+      text: 'Car le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' est grand et digne de toute louange :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: il est redoutable, plus que tous les dieux ;
   '5':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'des faux dieux  : hébreu ’élilim (Es 2.8n), qui fait assonance avec ’élohim = dieu(x)  ; cf. Lv 19.4n  ; Ps 97.7n  ; 115.4ss ; 1Co 8.4ss ; LXX des démons  ; cf. 1Co 10.20 ; Ap 9.20. –  a fait le ciel 8.4 ; 121.2 ; Gn 1.1,6ss.'
-  - type: text
-    content: car tous les dieux des peuples sont des faux dieux,
-  - type: text
-    content: 'mais c''est le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' (YHWH) qui a fait le ciel.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '96.5 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: des faux dieux
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : hébreu '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: '’élilim '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: (Es 2.8
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '), qui fait assonance avec '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: '’élohim = '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: dieu(x)
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text:  ; cf. Lv 19.4
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; Ps 97.7'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; 115.4ss ; 1Co 8.4ss ; LXX '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: des démons
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' ; cf. 1Co 10.20 ; Ap 9.20. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'a fait le ciel '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 8.4 ; 121.2 ; Gn 1.1,6ss.
+      marker-yv: yv-n
+    - type: text
+      text: car tous les dieux des peuples sont des faux dieux,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'mais c''est le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' (YHWH) qui a fait le ciel.'
   '6':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'Cf. 89.15 ; 104.1 ; 111.3. –  puissance / splendeur  : cf. 78.61n.'
-  - type: text
-    content: L'éclat et la magnificence sont devant lui,
-  - type: text
-    content: la puissance et la splendeur sont dans son sanctuaire.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '96.6 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Cf. 89.15 ; 104.1 ; 111.3. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'puissance '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '/ '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: splendeur
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : cf. 78.61'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: L'éclat et la magnificence sont devant lui,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: la puissance et la splendeur sont dans son sanctuaire.
   '7':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'Clans des peuples  : cf. 22.28n. –  donnez au Seigneur … 29.1s.'
-  - type: text
-    content: 'Clans des peuples, donnez au '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ','
-  - type: text
-    content: 'donnez au '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' gloire et puissance !'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '96.7 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Clans des peuples
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : cf. 22.28'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'donnez au '
+        - type: usfm
+          marker: nd
+          children:
+          - type: text
+            text: Seigneur
+        - type: text
+          text: ' … '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 29.1s.
+      marker-yv: yv-n
+    - type: text
+      text: 'Clans des peuples, donnez au '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'donnez au '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' gloire et puissance !'
   '8':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'des offrandes  : le terme hébreu est au singulier, sans doute collectif ; cf. 68.30 ; 76.12 ; Es 60.6ss. Voir sacrifices. –  les cours de son temple  : litt. ses cours.'
-  - type: text
-    content: 'Donnez au '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' la gloire de son nom !'
-  - type: text
-    content: Apportez des offrandes, entrez dans les cours de son temple !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '96.8 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: des offrandes
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : le terme hébreu est au singulier, sans doute collectif ; cf. 68.30 ; 76.12 ; Es 60.6ss. Voir '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: sacrifices
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: les cours de son temple
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: ses cours.
+      marker-yv: yv-n
+    - type: text
+      text: 'Donnez au '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' la gloire de son nom !'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Apportez des offrandes, entrez dans les cours de son temple !
   '9':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'Prosternez-vous 95.6 ; 99.9. –  quand éclate sa sainteté  : cf. 29.2n. –  Tremble devant lui (litt. devant sa face ) : cf. 55.5 ; 77.17 ; 97.4 ; 110.3n  ; 114.7.'
-  - type: text
-    content: 'Prosternez-vous devant le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' quand éclate sa sainteté.'
-  - type: text
-    content: Tremble devant lui, terre entière !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '96.9 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Prosternez-vous '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '95.6 ; 99.9. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'quand éclate sa '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: sainteté
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : cf. 29.2'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Tremble devant lui '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '(litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: devant sa face
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ') : cf. 55.5 ; 77.17 ; 97.4 ; 110.3'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; 114.7.'
+      marker-yv: yv-n
+    - type: text
+      text: 'Prosternez-vous devant le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' quand éclate sa sainteté.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Tremble devant lui, terre entière !

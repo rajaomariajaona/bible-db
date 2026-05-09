@@ -2,76 +2,186 @@ document_id: PSA.3,111
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: Psalm 3In Hebrew texts 3:1-8 is numbered 3:2-9.
-  - type: text
-    content: A psalm of David. When he fled from his son Absalom.
-  - type: text
-    content: ' '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', how many are my foes!'
-  - type: text
-    content: How many rise up against me!
+  - type: usfm
+    marker: cl
+    children:
+    - type: text
+      text: Psalm 3
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: In Hebrew texts 3:1-8 is numbered 3:2-9.
+      marker-yv: yv-n
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: A psalm of David. When he fled from his son Absalom.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', how many are my foes!'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: How many rise up against me!
   '2':
-  - type: text
-    content: Many are saying of me,
-  - type: text
-    content: “God will not deliver him.”
-  - type: note
-    content: The Hebrew has Selah (a word of uncertain meaning) here and at the end of verses 4 and 8.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Many are saying of me,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: “God will not deliver him.”
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '3:2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'The Hebrew has '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Selah '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: (a word of uncertain meaning) here and at the end of verses 4 and 8.
+      marker-yv: yv-n
   '3':
-  - type: text
-    content: 'But you, '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', are a shield around me,'
-  - type: text
-    content: my glory, the One who lifts my head high.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'But you, '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', are a shield around me,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: my glory, the One who lifts my head high.
   '4':
-  - type: text
-    content: 'I call out to the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ','
-  - type: text
-    content: and he answers me from his holy mountain.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I call out to the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and he answers me from his holy mountain.
   '5':
-  - type: text
-    content: I lie down and sleep;
-  - type: text
-    content: 'I wake again, because the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' sustains me.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: I lie down and sleep;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'I wake again, because the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' sustains me.'
   '6':
-  - type: text
-    content: I will not fear though tens of thousands
-  - type: text
-    content: assail me on every side.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: I will not fear though tens of thousands
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: assail me on every side.
   '7':
-  - type: text
-    content: 'Arise, '
-  - type: text
-    content: Lord
-  - type: text
-    content: '!'
-  - type: text
-    content: Deliver me, my God!
-  - type: text
-    content: Strike all my enemies on the jaw;
-  - type: text
-    content: break the teeth of the wicked.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Arise, '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: '!'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Deliver me, my God!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Strike all my enemies on the jaw;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: break the teeth of the wicked.
   '8':
-  - type: text
-    content: 'From the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' comes deliverance.'
-  - type: text
-    content: May your blessing be on your people.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'From the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' comes deliverance.'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: May your blessing be on your people.

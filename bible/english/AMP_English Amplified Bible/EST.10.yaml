@@ -2,17 +2,36 @@ document_id: EST.10,1588
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: Mordecai’s Greatness
-  - type: text
-    content: 'King Ahasuerus (Xerxes) imposed a tax on the land and on the coastlands of the sea. '
+  - type: usfm
+    marker: s1
+    children:
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: Mordecai’s Greatness
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'King Ahasuerus (Xerxes) imposed a tax on the land and on the coastlands of the sea. '
   '2':
-  - type: text
-    content: 'And all the accomplishments of his authority and strength, and the full account of the greatness of Mordecai to which the king had raised him, are they not written in the Book of the Chronicles of the Kings of Media and Persia? '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'And all the accomplishments of his authority and strength, and the full account of the greatness of Mordecai to which the king had raised him, are they not written in the Book of the Chronicles of the Kings of Media and Persia? '
   '3':
-  - type: text
-    content: 'For Mordecai the Jew was second only to King Ahasuerus, and great among the Jews and in favor with his many fellow people, for he worked for the good of his people and spoke for the welfare '
-  - type: text
-    content: and
-  - type: text
-    content: ' peace of his whole nation.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'For Mordecai the Jew was second only to King Ahasuerus, and great among the Jews and in favor with his many fellow people, for he worked for the good of his people and spoke for the welfare '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: and
+    - type: text
+      text: ' peace of his whole nation.'

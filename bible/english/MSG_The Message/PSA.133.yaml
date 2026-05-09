@@ -2,27 +2,60 @@ document_id: PSA.133,97
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: How wonderful, how beautiful,
-  - type: text
-    content: when brothers and sisters get along!
-  - type: text
-    content: It’s like costly anointing oil
-  - type: text
-    content: flowing down head and beard,
-  - type: text
-    content: Flowing down Aaron’s beard,
-  - type: text
-    content: flowing down the collar of his priestly robes.
-  - type: text
-    content: It’s like the dew on Mount Hermon
-  - type: text
-    content: flowing down the slopes of Zion.
-  - type: text
-    content: 'Yes, that’s where '
-  - type: text
-    content: God
-  - type: text
-    content: ' commands the blessing,'
-  - type: text
-    content: ordains eternal life.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: How wonderful, how beautiful,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: when brothers and sisters get along!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: It’s like costly anointing oil
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: flowing down head and beard,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Flowing down Aaron’s beard,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: flowing down the collar of his priestly robes.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: It’s like the dew on Mount Hermon
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: flowing down the slopes of Zion.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Yes, that’s where '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ' commands the blessing,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: ordains eternal life.

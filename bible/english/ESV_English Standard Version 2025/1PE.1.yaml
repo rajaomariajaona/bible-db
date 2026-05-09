@@ -2,339 +2,1628 @@ document_id: 1PE.1,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: Greeting
-  - type: text
-    content: Peter, an apostle of Jesus Christ,
-  - type: text
-    content: 'To those who are elect exiles of '
-  - type: note
-    content: See James 1:1
-  - type: text
-    content: 'the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia, '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Greeting
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Peter, an apostle of Jesus Christ,
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'To those who are elect exiles of '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: James 1:1
+      marker-yv: yv-n
+    - type: text
+      text: 'the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia, '
   '10':
-  - type: text
-    content: 'Concerning this salvation, '
-  - type: note
-    content: 2 Pet. 1:19; [Dan. 8:15; Matt. 13:17; Luke 10:24]
-  - type: text
-    content: 'the prophets who prophesied about the grace that was to be yours searched and inquired carefully, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Concerning this salvation, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Pet. 1:19
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Dan. 8:15
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 13:17
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Luke 10:24
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'the prophets who prophesied about the grace that was to be yours searched and inquired carefully, '
   '11':
-  - type: text
-    content: 'inquiring '
-  - type: note
-    content: Dan. 9:24-26
-  - type: text
-    content: what person or time
-  - type: note
-    content: Or what time or circumstances
-  - type: text
-    content: ' '
-  - type: note
-    content: Rom. 8:9; [2 Pet. 1:21]; See Acts 16:7
-  - type: text
-    content: 'the Spirit of Christ in them was indicating '
-  - type: note
-    content: See Matt. 26:24
-  - type: text
-    content: 'when he predicted '
-  - type: note
-    content: Isa. 52:13–53:12; Luke 24:26; Acts 3:18
-  - type: text
-    content: 'the sufferings of Christ and the subsequent glories. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'inquiring '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Dan. 9:24-26
+      marker-yv: yv-n
+    - type: text
+      text: what person or time
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1:11 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: what time or circumstances
+      marker-yv: yv-n
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rom. 8:9
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Pet. 1:21
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']; See Acts 16:7'
+      marker-yv: yv-n
+    - type: text
+      text: 'the Spirit of Christ in them was indicating '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 26:24
+      marker-yv: yv-n
+    - type: text
+      text: 'when he predicted '
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: 'Isa. 52:13–53:12; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Luke 24:26
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Acts 3:18
+      marker-yv: yv-n
+    - type: text
+      text: 'the sufferings of Christ and the subsequent glories. '
   '12':
-  - type: note
-    content: Dan. 12:4, 9, 13
-  - type: text
-    content: 'It was revealed to them that '
-  - type: note
-    content: '[Matt. 13:17; Heb. 11:39, 40]'
-  - type: text
-    content: 'they were serving not themselves but you, in the things that have now been announced to you through those who preached the good news to you '
-  - type: note
-    content: Acts 2:2-4
-  - type: text
-    content: 'by the Holy Spirit sent from heaven, '
-  - type: note
-    content: '[Dan. 8:13; 12:5-7; Eph. 3:10]'
-  - type: text
-    content: things into which angels long to look.
-  - type: heading
-    content: Called to Be Holy
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Dan. 12:4
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '9'
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '13'
+      marker-yv: yv-n
+    - type: text
+      text: 'It was revealed to them that '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 13:17
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Heb. 11:39
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '40'
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'they were serving not themselves but you, in the things that have now been announced to you through those who preached the good news to you '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Acts 2:2-4
+      marker-yv: yv-n
+    - type: text
+      text: 'by the Holy Spirit sent from heaven, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Dan. 8:13
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 12:5-7
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Eph. 3:10
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: things into which angels long to look.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Called to Be Holy
+    marker-yv: yv-h
   '13':
-  - type: text
-    content: 'Therefore, '
-  - type: note
-    content: See Luke 12:35
-  - type: text
-    content: preparing your minds for action,
-  - type: note
-    content: Greek girding up the loins of your mind
-  - type: text
-    content: ' and '
-  - type: note
-    content: ch. 4:7; 5:8; 1 Thess. 5:6, 8; 2 Tim. 4:5
-  - type: text
-    content: 'being sober-minded, set your hope fully on the grace that will be brought to you at the revelation of Jesus Christ. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Therefore, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Luke 12:35
+      marker-yv: yv-n
+    - type: text
+      text: preparing your minds for action,
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1:13 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Greek '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: girding up the loins of your mind
+      marker-yv: yv-n
+    - type: text
+      text: ' and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 4:7
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 5:8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Thess. 5:6
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '8'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Tim. 4:5
+      marker-yv: yv-n
+    - type: text
+      text: 'being sober-minded, set your hope fully on the grace that will be brought to you at the revelation of Jesus Christ. '
   '14':
-  - type: text
-    content: 'As obedient children, '
-  - type: note
-    content: ch. 4:2, 3; Rom. 12:2; Titus 3:3
-  - type: text
-    content: 'do not be conformed to the passions '
-  - type: note
-    content: Acts 17:30
-  - type: text
-    content: 'of your former ignorance, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'As obedient children, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 4:2
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '3'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rom. 12:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Titus 3:3
+      marker-yv: yv-n
+    - type: text
+      text: 'do not be conformed to the passions '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Acts 17:30
+      marker-yv: yv-n
+    - type: text
+      text: 'of your former ignorance, '
   '15':
-  - type: text
-    content: 'but '
-  - type: note
-    content: 1 John 3:3; [2 Cor. 7:1; 1 Thess. 4:7; Heb. 12:14]
-  - type: text
-    content: 'as he who called you is holy, you also be holy '
-  - type: note
-    content: James 3:13
-  - type: text
-    content: 'in all your conduct, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'but '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 John 3:3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Cor. 7:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Thess. 4:7
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Heb. 12:14
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'as he who called you is holy, you also be holy '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: James 3:13
+      marker-yv: yv-n
+    - type: text
+      text: 'in all your conduct, '
   '16':
-  - type: text
-    content: 'since it is written, '
-  - type: note
-    content: Cited from Lev. 11:44
-  - type: text
-    content: '“You shall be holy, for I am holy.” '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'since it is written, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'Cited from '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Lev. 11:44
+      marker-yv: yv-n
+    - type: text
+      text: '“You shall be holy, for I am holy.” '
   '17':
-  - type: text
-    content: 'And if you '
-  - type: note
-    content: Jer. 3:19; Mal. 1:6; 2 Cor. 6:18; [Matt. 6:9]
-  - type: text
-    content: 'call on him as Father who '
-  - type: note
-    content: See Ps. 62:12
-  - type: text
-    content: 'judges '
-  - type: note
-    content: See James 2:1
-  - type: text
-    content: 'impartially according to each one’s deeds, conduct yourselves '
-  - type: note
-    content: ch. 3:15; 2 Cor. 7:1; [Rom. 11:20]
-  - type: text
-    content: 'with fear throughout the time of your exile, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'And if you '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 3:19
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Mal. 1:6
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Cor. 6:18
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 6:9
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'call on him as Father who '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 62:12
+      marker-yv: yv-n
+    - type: text
+      text: 'judges '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: James 2:1
+      marker-yv: yv-n
+    - type: text
+      text: 'impartially according to each one’s deeds, conduct yourselves '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 3:15
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Cor. 7:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rom. 11:20
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'with fear throughout the time of your exile, '
   '18':
-  - type: text
-    content: 'knowing that you '
-  - type: note
-    content: '[Ps. 49:8; 130:8; 1 Cor. 6:20; Titus 2:14; 2 Pet. 2:1]'
-  - type: text
-    content: 'were ransomed from '
-  - type: note
-    content: See Eph. 4:17
-  - type: text
-    content: 'the futile ways inherited from your forefathers, not with perishable things such as silver or gold, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'knowing that you '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 49:8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 130:8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Cor. 6:20
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Titus 2:14
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Pet. 2:1
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'were ransomed from '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Eph. 4:17
+      marker-yv: yv-n
+    - type: text
+      text: 'the futile ways inherited from your forefathers, not with perishable things such as silver or gold, '
   '19':
-  - type: text
-    content: 'but '
-  - type: note
-    content: See Acts 20:28
-  - type: text
-    content: 'with the precious blood of Christ, like that of '
-  - type: note
-    content: See John 1:29
-  - type: text
-    content: 'a lamb '
-  - type: note
-    content: Heb. 9:14; [Ex. 12:5]
-  - type: text
-    content: 'without blemish or spot. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'but '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Acts 20:28
+      marker-yv: yv-n
+    - type: text
+      text: 'with the precious blood of Christ, like that of '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: John 1:29
+      marker-yv: yv-n
+    - type: text
+      text: 'a lamb '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Heb. 9:14
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ex. 12:5
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'without blemish or spot. '
   '2':
-  - type: text
-    content: 'according to '
-  - type: note
-    content: Acts 2:23; [Rom. 8:29; 11:2]
-  - type: text
-    content: 'the foreknowledge of God the Father, '
-  - type: note
-    content: See 1 Thess. 4:3
-  - type: text
-    content: 'in the sanctification of the Spirit, for obedience to Jesus Christ and '
-  - type: note
-    content: Heb. 10:22; 12:24
-  - type: text
-    content: 'for sprinkling with his blood:'
-  - type: text
-    content: 'May '
-  - type: note
-    content: 2 Pet. 1:2
-  - type: text
-    content: 'grace and '
-  - type: note
-    content: Dan. 4:1; Jude 2
-  - type: text
-    content: peace be multiplied to you.
-  - type: heading
-    content: Born Again to a Living Hope
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'according to '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Acts 2:23
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rom. 8:29
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 11:2
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'the foreknowledge of God the Father, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Thess. 4:3
+      marker-yv: yv-n
+    - type: text
+      text: 'in the sanctification of the Spirit, for obedience to Jesus Christ and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Heb. 10:22
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 12:24
+      marker-yv: yv-n
+    - type: text
+      text: 'for sprinkling with his blood:'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'May '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Pet. 1:2
+      marker-yv: yv-n
+    - type: text
+      text: 'grace and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Dan. 4:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jude 2
+      marker-yv: yv-n
+    - type: text
+      text: peace be multiplied to you.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Born Again to a Living Hope
+    marker-yv: yv-h
   '20':
-  - type: text
-    content: 'He was foreknown before the foundation of the world but '
-  - type: note
-    content: See Rom. 16:26
-  - type: text
-    content: 'was made manifest '
-  - type: note
-    content: Heb. 1:2
-  - type: text
-    content: 'in the last times for the sake of you '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'He was foreknown before the foundation of the world but '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rom. 16:26
+      marker-yv: yv-n
+    - type: text
+      text: 'was made manifest '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Heb. 1:2
+      marker-yv: yv-n
+    - type: text
+      text: 'in the last times for the sake of you '
   '21':
-  - type: note
-    content: John 12:44
-  - type: text
-    content: 'who through him are believers in God, '
-  - type: note
-    content: '[Rom. 10:9]; See Acts 2:24'
-  - type: text
-    content: 'who raised him from the dead and '
-  - type: note
-    content: Acts 3:13; Heb. 2:9; [ch. 3:22]; See John 7:39
-  - type: text
-    content: gave him glory, so that your faith and hope are in God.
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: John 12:44
+      marker-yv: yv-n
+    - type: text
+      text: 'who through him are believers in God, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rom. 10:9
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']; See Acts 2:24'
+      marker-yv: yv-n
+    - type: text
+      text: 'who raised him from the dead and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Acts 3:13
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Heb. 2:9
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: text
+        text: 3:22
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: John 7:39
+      marker-yv: yv-n
+    - type: text
+      text: gave him glory, so that your faith and hope are in God.
   '22':
-  - type: text
-    content: 'Having purified your souls by your obedience to the truth for '
-  - type: note
-    content: Rom. 12:9; See Heb. 13:1
-  - type: text
-    content: 'a sincere brotherly love, '
-  - type: note
-    content: 1 Tim. 1:5
-  - type: text
-    content: 'love one another earnestly from a pure heart, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Having purified your souls by your obedience to the truth for '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rom. 12:9
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Heb. 13:1
+      marker-yv: yv-n
+    - type: text
+      text: 'a sincere brotherly love, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Tim. 1:5
+      marker-yv: yv-n
+    - type: text
+      text: 'love one another earnestly from a pure heart, '
   '23':
-  - type: note
-    content: ver. 3; [John 3:3; James 1:18]
-  - type: text
-    content: 'since you have been born again, '
-  - type: note
-    content: John 1:13
-  - type: text
-    content: 'not of perishable seed but of imperishable, through '
-  - type: note
-    content: Heb. 4:12
-  - type: text
-    content: 'the living and abiding word of God; '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '3'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: John 3:3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: James 1:18
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'since you have been born again, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: John 1:13
+      marker-yv: yv-n
+    - type: text
+      text: 'not of perishable seed but of imperishable, through '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Heb. 4:12
+      marker-yv: yv-n
+    - type: text
+      text: 'the living and abiding word of God; '
   '24':
-  - type: text
-    content: for
-  - type: note
-    content: James 1:10, 11; Cited from Isa. 40:6, 8
-  - type: text
-    content: “All flesh is like grass
-  - type: text
-    content: and all its glory like the flower of grass.
-  - type: text
-    content: The grass withers,
-  - type: text
-    content: and the flower falls,
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: for
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: James 1:10
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '11'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'Cited from '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 40:6
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '8'
+      marker-yv: yv-n
+    - type: text
+      text: “All flesh is like grass
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and all its glory like the flower of grass.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: The grass withers,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and the flower falls,
   '25':
-  - type: text
-    content: ' '
-  - type: note
-    content: '[ Matt. 24:35 ]'
-  - type: text
-    content: but the word of the Lord remains forever.”
-  - type: text
-    content: 'And this word '
-  - type: note
-    content: Isa. 40:9
-  - type: text
-    content: is the good news that was preached to you.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 24:35
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: but the word of the Lord remains forever.”
+  - type: usfm
+    marker: m
+    children:
+    - type: text
+      text: 'And this word '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 40:9
+      marker-yv: yv-n
+    - type: text
+      text: is the good news that was preached to you.
   '3':
-  - type: text
-    content: ' '
-  - type: note
-    content: 2 Cor. 1:3; Eph. 1:3
-  - type: text
-    content: 'Blessed be the God and Father of our Lord Jesus Christ! '
-  - type: note
-    content: Titus 3:5
-  - type: text
-    content: 'According to his great mercy, '
-  - type: note
-    content: ver. 23
-  - type: text
-    content: 'he has caused us to be born again to a living hope '
-  - type: note
-    content: ch. 3:21; [1 Cor. 15:20]
-  - type: text
-    content: 'through the resurrection of Jesus Christ from the dead, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Cor. 1:3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Eph. 1:3
+      marker-yv: yv-n
+    - type: text
+      text: 'Blessed be the God and Father of our Lord Jesus Christ! '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Titus 3:5
+      marker-yv: yv-n
+    - type: text
+      text: 'According to his great mercy, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '23'
+      marker-yv: yv-n
+    - type: text
+      text: 'he has caused us to be born again to a living hope '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 3:21
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Cor. 15:20
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'through the resurrection of Jesus Christ from the dead, '
   '4':
-  - type: text
-    content: 'to '
-  - type: note
-    content: Rom. 8:17
-  - type: text
-    content: 'an inheritance that is imperishable, undefiled, and '
-  - type: note
-    content: '[ch. 5:4]'
-  - type: text
-    content: 'unfading, '
-  - type: note
-    content: '[Col. 1:5; 2 Tim. 4:8]'
-  - type: text
-    content: 'kept in heaven for you, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'to '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rom. 8:17
+      marker-yv: yv-n
+    - type: text
+      text: 'an inheritance that is imperishable, undefiled, and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 5:4
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'unfading, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Col. 1:5
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Tim. 4:8
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'kept in heaven for you, '
   '5':
-  - type: text
-    content: 'who by God’s power are being guarded '
-  - type: note
-    content: Eph. 2:8
-  - type: text
-    content: 'through faith for a salvation '
-  - type: note
-    content: '[ch. 5:10; Rom. 8:18; 2 Cor. 4:17; Heb. 12:11]'
-  - type: text
-    content: 'ready to be revealed in the last time. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'who by God’s power are being guarded '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Eph. 2:8
+      marker-yv: yv-n
+    - type: text
+      text: 'through faith for a salvation '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 5:10
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rom. 8:18
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Cor. 4:17
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Heb. 12:11
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'ready to be revealed in the last time. '
   '6':
-  - type: text
-    content: 'In this you rejoice, though now for a little while, if necessary, you have been grieved by '
-  - type: note
-    content: James 1:2; [ch. 4:12]
-  - type: text
-    content: 'various trials, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'In this you rejoice, though now for a little while, if necessary, you have been grieved by '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: James 1:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 4:12
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'various trials, '
   '7':
-  - type: text
-    content: 'so that '
-  - type: note
-    content: James 1:3
-  - type: text
-    content: 'the tested genuineness of your faith—more precious than gold that perishes '
-  - type: note
-    content: Job 23:10; Ps. 66:10; Prov. 17:3; Isa. 48:10
-  - type: text
-    content: 'though it is tested by '
-  - type: note
-    content: 1 Cor. 3:13
-  - type: text
-    content: 'fire—may be found to result in '
-  - type: note
-    content: Rom. 2:7, 10; 1 Cor. 4:5; [2 Thess. 1:7-12]
-  - type: text
-    content: 'praise and glory and honor at the revelation of Jesus Christ. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'so that '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: James 1:3
+      marker-yv: yv-n
+    - type: text
+      text: 'the tested genuineness of your faith—more precious than gold that perishes '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 23:10
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 66:10
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Prov. 17:3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 48:10
+      marker-yv: yv-n
+    - type: text
+      text: 'though it is tested by '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Cor. 3:13
+      marker-yv: yv-n
+    - type: text
+      text: 'fire—may be found to result in '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rom. 2:7
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '10'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Cor. 4:5
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Thess. 1:7-12
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'praise and glory and honor at the revelation of Jesus Christ. '
   '8':
-  - type: note
-    content: '[1 John 4:20]'
-  - type: text
-    content: 'Though you have not seen him, you love him. '
-  - type: note
-    content: '[Heb. 11:27]; See John 20:29'
-  - type: text
-    content: 'Though you do not now see him, you believe in him and rejoice with joy that is inexpressible and filled with glory, '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 John 4:20
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'Though you have not seen him, you love him. '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Heb. 11:27
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']; See John 20:29'
+      marker-yv: yv-n
+    - type: text
+      text: 'Though you do not now see him, you believe in him and rejoice with joy that is inexpressible and filled with glory, '
   '9':
-  - type: text
-    content: 'obtaining '
-  - type: note
-    content: Rom. 6:22
-  - type: text
-    content: the outcome of your faith, the salvation of your souls.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'obtaining '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rom. 6:22
+      marker-yv: yv-n
+    - type: text
+      text: the outcome of your faith, the salvation of your souls.

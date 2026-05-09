@@ -2,99 +2,195 @@ document_id: PSA.14,1
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: 'To the chief Musician, '
-  - type: text
-    content: A Psalm
-  - type: text
-    content: ' of David.'
-  - type: text
-    content: 'The fool hath said in his heart, '
-  - type: text
-    content: there is
-  - type: text
-    content: ' no God.'
-  - type: text
-    content: They are corrupt, they have done abominable works,
-  - type: text
-    content: There is
-  - type: text
-    content: ' none that doeth good.'
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'To the chief Musician, '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: A Psalm
+    - type: text
+      text: ' of David.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The fool hath said in his heart, '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: there is
+    - type: text
+      text: ' no God.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: They are corrupt, they have done abominable works,
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: There is
+    - type: text
+      text: ' none that doeth good.'
   '2':
-  - type: text
-    content: 'The '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' looked down from heaven upon the children of men,'
-  - type: text
-    content: 'To see if there were any that did understand, '
-  - type: text
-    content: And
-  - type: text
-    content: ' seek God.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' looked down from heaven upon the children of men,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'To see if there were any that did understand, '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: And
+    - type: text
+      text: ' seek God.'
   '3':
-  - type: text
-    content: 'They are all gone aside, they are '
-  - type: text
-    content: all
-  - type: text
-    content: ' together become filthy:'
-  - type: text
-    content: There is
-  - type: text
-    content: ' none that doeth good, no, not one.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'They are all gone aside, they are '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: all
+    - type: text
+      text: ' together become filthy:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: There is
+    - type: text
+      text: ' none that doeth good, no, not one.'
   '4':
-  - type: text
-    content: Have all the workers of iniquity no knowledge?
-  - type: text
-    content: 'Who eat up my people '
-  - type: text
-    content: as
-  - type: text
-    content: ' they eat bread, and call not upon the '
-  - type: text
-    content: LORD
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Have all the workers of iniquity no knowledge?
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Who eat up my people '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: as
+    - type: text
+      text: ' they eat bread, and call not upon the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: .
   '5':
-  - type: text
-    content: 'There were they in great fear:'
-  - type: text
-    content: 'For God '
-  - type: text
-    content: is
-  - type: text
-    content: ' in the generation of the righteous.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'There were they in great fear:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'For God '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' in the generation of the righteous.'
   '6':
-  - type: text
-    content: Ye have shamed the counsel of the poor,
-  - type: text
-    content: 'Because the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' '
-  - type: text
-    content: is
-  - type: text
-    content: ' his refuge.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Ye have shamed the counsel of the poor,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Because the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' his refuge.'
   '7':
-  - type: text
-    content: 'Oh that the salvation of Israel '
-  - type: text
-    content: were come
-  - type: text
-    content: ' out of Zion!'
-  - type: text
-    content: 'When the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' bringeth back the captivity of his people,'
-  - type: text
-    content: 'Jacob shall rejoice, '
-  - type: text
-    content: and
-  - type: text
-    content: ' Israel shall be glad.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Oh that the salvation of Israel '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: were come
+    - type: text
+      text: ' out of Zion!'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'When the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' bringeth back the captivity of his people,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Jacob shall rejoice, '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: and
+    - type: text
+      text: ' Israel shall be glad.'

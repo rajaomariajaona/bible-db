@@ -2,40 +2,88 @@ document_id: PSA.15,97
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: ' '
-  - type: text
-    content: God
-  - type: text
-    content: ', who gets invited'
-  - type: text
-    content: to dinner at your place?
-  - type: text
-    content: How do we get on your guest list?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ', who gets invited'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: to dinner at your place?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: How do we get on your guest list?
   '2':
-  - type: text
-    content: “Walk straight,
-  - type: text
-    content: act right,
-  - type: text
-    content: tell the truth.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: “Walk straight,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: act right,
+  - type: usfm
+    marker: q3
+    children:
+    - type: text
+      text: tell the truth.
   '3':
-  - type: text
-    content: “Don’t hurt your friend,
-  - type: text
-    content: don’t blame your neighbor;
-  - type: text
-    content: despise the despicable.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: “Don’t hurt your friend,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: don’t blame your neighbor;
+  - type: usfm
+    marker: q3
+    children:
+    - type: text
+      text: despise the despicable.
   '5':
-  - type: text
-    content: “Keep your word even when it costs you,
-  - type: text
-    content: make an honest living,
-  - type: text
-    content: never take a bribe.
-  - type: text
-    content: “You’ll never get
-  - type: text
-    content: blacklisted
-  - type: text
-    content: if you live like this.”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: “Keep your word even when it costs you,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: make an honest living,
+  - type: usfm
+    marker: q3
+    children:
+    - type: text
+      text: never take a bribe.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: “You’ll never get
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: blacklisted
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: if you live like this.”

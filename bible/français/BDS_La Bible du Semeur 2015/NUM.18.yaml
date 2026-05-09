@@ -2,140 +2,425 @@ document_id: NUM.18,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Les prêtres et les lévites
-  - type: heading
-    content: La fonction des prêtres et des lévites
-  - type: text
-    content: 'L’Eternel dit à Aaron : Toi, tes descendants et les membres de ta tribu, vous serez responsables du sanctuaire et vous porterez les conséquences des fautes commises contre lui. De plus, toi et tes descendants, vous serez responsables des fautes commises à l’égard du sacerdoce. '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Les prêtres et les lévites
+    marker-yv: yv-h
+  - type: usfm
+    marker: s2
+    children:
+    - type: text
+      text: La fonction des prêtres et des lévites
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'L’Eternel dit à Aaron : Toi, tes descendants et les membres de ta tribu, vous serez responsables du sanctuaire et vous porterez les conséquences des fautes commises contre lui. De plus, toi et tes descendants, vous serez responsables des fautes commises à l’égard du sacerdoce. '
   '10':
-  - type: text
-    content: Tu les mangeras dans un endroit très saint ; les hommes seuls en mangeront ; tu les tiendras pour sacrées.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Tu les mangeras dans un endroit très saint ; les hommes seuls en mangeront ; tu les tiendras pour sacrées.
   '11':
-  - type: text
-    content: 'De plus, tu recevras ce qui est prélevé sur leurs dons, c’est-à-dire tout ce qui m’est offert de la part des Israélites avec le geste de présentation. Tout cela, je te le donne à toi, à tes fils et à tes filles, en vertu d’une loi immuable. Tous ceux qui, dans ta famille, seront en état de pureté rituelle pourront en manger. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'De plus, tu recevras ce qui est prélevé sur leurs dons, c’est-à-dire tout ce qui m’est offert de la part des Israélites avec le geste de présentation. Tout cela, je te le donne à toi, à tes fils et à tes filles, en vertu d’une loi immuable. Tous ceux qui, dans ta famille, seront en état de pureté rituelle pourront en manger. '
   '12':
-  - type: text
-    content: 'Je te donne aussi les prémices de l’huile, du vin et du blé qu’ils m’offriront, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Je te donne aussi les prémices de l’huile, du vin et du blé qu’ils m’offriront, '
   '13':
-  - type: text
-    content: ainsi que les premiers produits du sol qu’ils apporteront à l’Eternel. Tous ceux qui, dans ta famille, seront en état de pureté rituelle pourront en manger.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ainsi que les premiers produits du sol qu’ils apporteront à l’Eternel. Tous ceux qui, dans ta famille, seront en état de pureté rituelle pourront en manger.
   '14':
-  - type: text
-    content: Tout ce qui, en Israël, m’a été voué définitivement sera pour toi
-  - type: note
-    content: Voir Lv 27.28.
-  - type: text
-    content: '. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Tout ce qui, en Israël, m’a été voué définitivement sera pour toi
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '18.14 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Voir '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Lv 27.28
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: '. '
   '15':
-  - type: text
-    content: Les premiers-nés que les Israélites m’offrent, qu’il s’agisse d’hommes ou d’animaux, te reviendront. Mais tu devras faire racheter tout garçon premier-né, ainsi que le premier-né des animaux rituellement impurs
-  - type: note
-    content: C’est-à-dire qui ne pouvait être ni offert en sacrifice ni consommé (voir Lv 11 ; 27.27 ; Ex 13.13). Revenu supplémentaire pour les prêtres.
-  - type: text
-    content: '. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Les premiers-nés que les Israélites m’offrent, qu’il s’agisse d’hommes ou d’animaux, te reviendront. Mais tu devras faire racheter tout garçon premier-né, ainsi que le premier-né des animaux rituellement impurs
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '18.15 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: C’est-à-dire qui ne pouvait être ni offert en sacrifice ni consommé (voir Lv 11 ; 27.27 ; Ex 13.13). Revenu supplémentaire pour les prêtres.
+      marker-yv: yv-n
+    - type: text
+      text: '. '
   '16':
-  - type: text
-    content: 'Tu feras racheter les enfants à l’âge d’un mois au prix que tu indiqueras, c’est-à-dire cinq sicles d’argent, au cours du sicle utilisé au sanctuaire, qui est de vingt guéras. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Tu feras racheter les enfants à l’âge d’un mois au prix que tu indiqueras, c’est-à-dire cinq sicles d’argent, au cours du sicle utilisé au sanctuaire, qui est de vingt guéras. '
   '17':
-  - type: text
-    content: 'Mais tu n’accepteras pas qu’on rachète les premiers-nés de la vache, de la brebis et de la chèvre : ils sont sacrés. Tu répandras leur sang sur l’autel et tu en brûleras les parties grasses ; c’est un sacrifice consumé par le feu, dont l’odeur apaise l’Eternel. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Mais tu n’accepteras pas qu’on rachète les premiers-nés de la vache, de la brebis et de la chèvre : ils sont sacrés. Tu répandras leur sang sur l’autel et tu en brûleras les parties grasses ; c’est un sacrifice consumé par le feu, dont l’odeur apaise l’Eternel. '
   '18':
-  - type: text
-    content: 'Leur viande te reviendra, comme te reviennent la poitrine pour laquelle on fait le geste de présentation et le gigot droit. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Leur viande te reviendra, comme te reviennent la poitrine pour laquelle on fait le geste de présentation et le gigot droit. '
   '19':
-  - type: text
-    content: Toutes les choses saintes que les Israélites prélèvent pour l’Eternel sur les offrandes, je te les donne, à toi, à tes fils et à tes filles, en vertu d’une ordonnance immuable. C’est une alliance irrévocable
-  - type: note
-    content: 'En hébreu : une alliance de sel, c’est-à-dire comme le précise le mot suivant : immuable, perpétuelle (voir Lv 2.13). Chaque sacrifice devait être assaisonné de sel (comparer Mt 5.13 ; Mc 9.49-50 ; Col 4.6).'
-  - type: text
-    content: ' et immuable, garantie par l’Eternel en ta faveur et en faveur de tes descendants.'
-  - type: heading
-    content: La dîme pour les lévites
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Toutes les choses saintes que les Israélites prélèvent pour l’Eternel sur les offrandes, je te les donne, à toi, à tes fils et à tes filles, en vertu d’une ordonnance immuable. C’est une alliance irrévocable
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '18.19 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'En hébreu : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'une alliance de sel, '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'c’est-à-dire comme le précise le mot suivant : immuable, perpétuelle (voir '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Lv 2.13
+        - type: text
+          text: ). Chaque sacrifice devait être assaisonné de sel (comparer Mt 5.13 ; Mc 9.49-50 ; Col 4.6).
+      marker-yv: yv-n
+    - type: text
+      text: ' et immuable, garantie par l’Eternel en ta faveur et en faveur de tes descendants.'
+  - type: usfm
+    marker: s2
+    children:
+    - type: text
+      text: La dîme pour les lévites
+    marker-yv: yv-h
   '2':
-  - type: text
-    content: Associe-toi tes frères de la tribu de ton ancêtre Lévi pour qu’ils soient attachés
-  - type: note
-    content: En hébreu, le nom de Lévi et le verbe attacher font assonance.
-  - type: text
-    content: ' à ton service et à celui de tes descendants devant la tente de l’acte de l’alliance. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Associe-toi tes frères de la tribu de ton ancêtre Lévi pour qu’ils soient attachés
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '18.2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'En hébreu, le nom de '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Lévi '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'et le verbe '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: attach
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'er '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: font assonance.
+      marker-yv: yv-n
+    - type: text
+      text: ' à ton service et à celui de tes descendants devant la tente de l’acte de l’alliance. '
   '20':
-  - type: text
-    content: 'L’Eternel dit à Aaron : Tu ne posséderas pas de patrimoine foncier'
-  - type: note
-    content: Ou héritage, ainsi que dans la suite du verset et aux v. 23 et 24.
-  - type: text
-    content: ' dans leur pays et il ne te reviendra aucune part au milieu d’eux ; car c’est moi qui suis ta part et ton patrimoine au milieu des Israélites. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'L’Eternel dit à Aaron : Tu ne posséderas pas de patrimoine foncier'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '18.20 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'héritage, '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ainsi que dans la suite du verset et aux v. 23 et 24.
+      marker-yv: yv-n
+    - type: text
+      text: ' dans leur pays et il ne te reviendra aucune part au milieu d’eux ; car c’est moi qui suis ta part et ton patrimoine au milieu des Israélites. '
   '21':
-  - type: text
-    content: Aux lévites, je donne comme possession toutes les dîmes qui seront perçues en Israël, pour le service qu’ils assurent, celui qu’ils accomplissent dans la tente de la Rencontre
-  - type: note
-    content: Voir Lv 27.30-33 ; Dt 14.22-29.
-  - type: text
-    content: '. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Aux lévites, je donne comme possession toutes les dîmes qui seront perçues en Israël, pour le service qu’ils assurent, celui qu’ils accomplissent dans la tente de la Rencontre
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '18.21 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Voir Lv 27.30-33 ; Dt 14.22-29.
+      marker-yv: yv-n
+    - type: text
+      text: '. '
   '22':
-  - type: text
-    content: 'Ainsi les Israélites ne risqueront plus de commettre une faute qui entraînerait leur mort en s’approchant de la tente de la Rencontre. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ainsi les Israélites ne risqueront plus de commettre une faute qui entraînerait leur mort en s’approchant de la tente de la Rencontre. '
   '23':
-  - type: text
-    content: 'Ce seront les lévites qui assureront le service de la tente de la Rencontre et qui porteront la responsabilité des fautes qui s’y commettraient. C’est une ordonnance en vigueur à perpétuité et de génération en génération ; ils n’auront pas de patrimoine foncier au milieu des Israélites, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ce seront les lévites qui assureront le service de la tente de la Rencontre et qui porteront la responsabilité des fautes qui s’y commettraient. C’est une ordonnance en vigueur à perpétuité et de génération en génération ; ils n’auront pas de patrimoine foncier au milieu des Israélites, '
   '24':
-  - type: text
-    content: car je leur donne pour possession la dîme que les Israélites prélèveront pour l’Eternel. C’est pourquoi je leur ai dit qu’ils n’auront pas de patrimoine foncier parmi les Israélites.
-  - type: heading
-    content: La dîme donnée par les lévites
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: car je leur donne pour possession la dîme que les Israélites prélèveront pour l’Eternel. C’est pourquoi je leur ai dit qu’ils n’auront pas de patrimoine foncier parmi les Israélites.
+  - type: usfm
+    marker: s2
+    children:
+    - type: text
+      text: La dîme donnée par les lévites
+    marker-yv: yv-h
   '25':
-  - type: text
-    content: 'L’Eternel parla encore à Moïse en ces termes : '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'L’Eternel parla encore à Moïse en ces termes : '
   '26':
-  - type: text
-    content: 'Dis aux lévites : Lorsque vous recevrez des Israélites les dîmes que je vous donne de leur part en guise de possession, vous en prélèverez le dixième comme offrande pour l’Eternel, ce sera donc la dîme de la dîme. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Dis aux lévites : Lorsque vous recevrez des Israélites les dîmes que je vous donne de leur part en guise de possession, vous en prélèverez le dixième comme offrande pour l’Eternel, ce sera donc la dîme de la dîme. '
   '27':
-  - type: text
-    content: 'Cette offrande que vous ferez sera considérée comme équivalente aux offrandes prélevées sur la moisson de blé ramassée sur l’aire et sur le vin nouveau coulant du pressoir. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Cette offrande que vous ferez sera considérée comme équivalente aux offrandes prélevées sur la moisson de blé ramassée sur l’aire et sur le vin nouveau coulant du pressoir. '
   '28':
-  - type: text
-    content: 'C’est ainsi que vous prélèverez, vous aussi, l’offrande pour l’Eternel sur toutes les dîmes que vous recevrez des Israélites, et vous la donnerez au prêtre Aaron comme une offrande à l’Eternel. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'C’est ainsi que vous prélèverez, vous aussi, l’offrande pour l’Eternel sur toutes les dîmes que vous recevrez des Israélites, et vous la donnerez au prêtre Aaron comme une offrande à l’Eternel. '
   '29':
-  - type: text
-    content: Sur tous les dons que vous recevrez, vous prélèverez une offrande pour l’Eternel, vous prélèverez la meilleure part comme part la plus sainte.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Sur tous les dons que vous recevrez, vous prélèverez une offrande pour l’Eternel, vous prélèverez la meilleure part comme part la plus sainte.
   '3':
-  - type: text
-    content: 'Ils seront à ton service et assureront le service de toute la tente, mais ils ne s’approcheront ni de l’autel ni d’aucun des objets sacrés du sanctuaire de façon à n’exposer ni eux ni vous, à la mort. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ils seront à ton service et assureront le service de toute la tente, mais ils ne s’approcheront ni de l’autel ni d’aucun des objets sacrés du sanctuaire de façon à n’exposer ni eux ni vous, à la mort. '
   '30':
-  - type: text
-    content: 'Tu leur diras encore : Quand vous en aurez prélevé la meilleure part, le reste équivaudra pour vous, lévites, au produit de l’aire et du pressoir. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Tu leur diras encore : Quand vous en aurez prélevé la meilleure part, le reste équivaudra pour vous, lévites, au produit de l’aire et du pressoir. '
   '31':
-  - type: text
-    content: 'Vous le mangerez où vous voudrez, avec vos familles ; car c’est là votre salaire pour les services que vous accomplissez dans la tente de la Rencontre. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Vous le mangerez où vous voudrez, avec vos familles ; car c’est là votre salaire pour les services que vous accomplissez dans la tente de la Rencontre. '
   '32':
-  - type: text
-    content: Vous ne vous rendrez coupables d’aucune faute en cela, du moment que vous en aurez prélevé la meilleure part. Ainsi, vous ne profanerez pas les saintes offrandes des Israélites et vous ne serez pas frappés de mort.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Vous ne vous rendrez coupables d’aucune faute en cela, du moment que vous en aurez prélevé la meilleure part. Ainsi, vous ne profanerez pas les saintes offrandes des Israélites et vous ne serez pas frappés de mort.
   '4':
-  - type: text
-    content: 'Ils seront attachés à ton service et assureront le service de la tente de la Rencontre, en y accomplissant tous les travaux nécessaires ; mais aucun profane ne se joindra à vous. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ils seront attachés à ton service et assureront le service de la tente de la Rencontre, en y accomplissant tous les travaux nécessaires ; mais aucun profane ne se joindra à vous. '
   '5':
-  - type: text
-    content: Vous aurez la responsabilité du sanctuaire et de l’autel, et ma colère ne se déchaînera plus contre les Israélites
-  - type: note
-    content: Allusion à l’événement rapporté en 17.11-12 et à la réaction du peuple en 17.27-28.
-  - type: text
-    content: '. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Vous aurez la responsabilité du sanctuaire et de l’autel, et ma colère ne se déchaînera plus contre les Israélites
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '18.5 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Allusion à l’événement rapporté en '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: 17.11-12
+        - type: text
+          text: ' et à la réaction du peuple en '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: 17.27-28
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: '. '
   '6':
-  - type: text
-    content: 'Car moi-même j’ai choisi vos frères, les lévites, du milieu des Israélites pour vous les attribuer car ils ont été donnés à l’Eternel pour accomplir les tâches relatives à la tente de la Rencontre. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Car moi-même j’ai choisi vos frères, les lévites, du milieu des Israélites pour vous les attribuer car ils ont été donnés à l’Eternel pour accomplir les tâches relatives à la tente de la Rencontre. '
   '7':
-  - type: text
-    content: Quant à toi et tes descendants, vous assumerez vos fonctions sacerdotales pour tout ce qui concerne l’autel et ce qui se trouve dans le lieu très saint derrière le voile, c’est là votre tâche. Je vous ai fait don de votre sacerdoce. Tout profane qui s’approchera comme vous sera puni de mort.
-  - type: heading
-    content: La part des prêtres
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Quant à toi et tes descendants, vous assumerez vos fonctions sacerdotales pour tout ce qui concerne l’autel et ce qui se trouve dans le lieu très saint derrière le voile, c’est là votre tâche. Je vous ai fait don de votre sacerdoce. Tout profane qui s’approchera comme vous sera puni de mort.
+  - type: usfm
+    marker: s2
+    children:
+    - type: text
+      text: La part des prêtres
+    marker-yv: yv-h
   '8':
-  - type: text
-    content: 'L’Eternel dit encore à Aaron : Voici : je te confie moi-même la gérance de tout ce qui est prélevé pour moi sur toutes les choses saintes offertes par les Israélites ; je te le donne, à toi et à tes fils, comme la part qui vous revient : c’est là une ordonnance en vigueur à perpétuité'
-  - type: note
-    content: La tribu de Lévi n’aura pas de patrimoine dans le pays d’Israël, c’est-à-dire pas de terres en propre. Les lévites ne posséderont que quelques villes et les pâturages d’alentour ; les prêtres n’auront rien. Les lévites recevaient en compensation la dîme des Israélites ; ils en redonnaient la dixième partie aux prêtres (v. 25-32). Ceux-ci avaient droit, en plus, à une part des sacrifices offerts par le peuple. Ils pouvaient la manger, selon les cas, soit seuls, soit avec leurs fils (v. 9-10), soit avec toute leur famille en dehors du sanctuaire (v. 11).
-  - type: text
-    content: '. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'L’Eternel dit encore à Aaron : Voici : je te confie moi-même la gérance de tout ce qui est prélevé pour moi sur toutes les choses saintes offertes par les Israélites ; je te le donne, à toi et à tes fils, comme la part qui vous revient : c’est là une ordonnance en vigueur à perpétuité'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '18.8 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: La tribu de Lévi n’aura pas de patrimoine dans le pays d’Israël, c’est-à-dire pas de terres en propre. Les lévites ne posséderont que quelques villes et les pâturages d’alentour ; les prêtres n’auront rien. Les lévites recevaient en compensation la dîme des Israélites ; ils en redonnaient la dixième partie aux prêtres (v. 25-32). Ceux-ci avaient droit, en plus, à une part des sacrifices offerts par le peuple. Ils pouvaient la manger, selon les cas, soit seuls, soit avec leurs fils (v. 9-10), soit avec toute leur famille en dehors du sanctuaire (v. 11).
+      marker-yv: yv-n
+    - type: text
+      text: '. '
   '9':
-  - type: text
-    content: 'Voici ce qui te reviendra des offrandes très saintes, de la partie qui n’en est pas brûlée : toutes les offrandes, tous les sacrifices pour le péché et tous les sacrifices de réparation qu’ils m’apportent ; ces choses très saintes te reviendront, à toi et à tes fils. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Voici ce qui te reviendra des offrandes très saintes, de la partie qui n’en est pas brûlée : toutes les offrandes, tous les sacrifices pour le péché et tous les sacrifices de réparation qu’ils m’apportent ; ces choses très saintes te reviendront, à toi et à tes fils. '

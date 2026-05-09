@@ -2,85 +2,236 @@ document_id: ISA.18,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Contre l’Ethiopie
-  - type: text
-    content: Malheur à ce pays ╵où retentit ╵le bruissement des ailes
-  - type: note
-    content: A l’époque d’Esaïe, vers la fin du viiie siècle, à partir de 715 av. J.-C., des pharaons nubiens (éthiopiens) ont dominé l’Egypte (XXVe dynastie) ; ils ont cherché en Juda un appui contre l’Assyrie (v. 2ss).
-  - type: text
-    content: ','
-  - type: text
-    content: terre au-delà des fleuves ╵de l’Ethiopie,
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Contre l’Ethiopie
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Malheur à ce pays ╵où retentit ╵le bruissement des ailes
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '18.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'A l’époque d’Esaïe, vers la fin du '
+        - type: usfm
+          marker: sc
+          children:
+          - type: text
+            text: viii
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: e
+        - type: text
+          text: ' siècle, à partir de 715 av. J.-C., des pharaons nubiens (éthiopiens) ont dominé l’Egypte (XXV'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: e
+        - type: text
+          text: ' dynastie) ; ils ont cherché en Juda un appui contre l’Assyrie (v. 2ss).'
+      marker-yv: yv-n
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: terre au-delà des fleuves ╵de l’Ethiopie,
   '2':
-  - type: text
-    content: toi qui envoies par mer ╵des émissaires
-  - type: text
-    content: dans des vaisseaux de jonc ╵sur la face des eaux !
-  - type: text
-    content: Rapides messagers,
-  - type: text
-    content: allez vers la nation ╵à la taille élancée, ╵à la peau glabre.
-  - type: text
-    content: Oui, allez vers le peuple ╵que l’on redoute au loin,
-  - type: text
-    content: nation à la langue barbare
-  - type: note
-    content: 'Autre traduction : nation puissante.'
-  - type: text
-    content: ' ╵et qui écrase tout,'
-  - type: text
-    content: dont le pays ╵est sillonné de fleuves.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: toi qui envoies par mer ╵des émissaires
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: dans des vaisseaux de jonc ╵sur la face des eaux !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Rapides messagers,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: allez vers la nation ╵à la taille élancée, ╵à la peau glabre.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Oui, allez vers le peuple ╵que l’on redoute au loin,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: nation à la langue barbare
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '18.2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Autre traduction : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: nation puissante.
+      marker-yv: yv-n
+    - type: text
+      text: ' ╵et qui écrase tout,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: dont le pays ╵est sillonné de fleuves.
   '3':
-  - type: text
-    content: Vous qui peuplez le monde,
-  - type: text
-    content: habitants de la terre,
-  - type: text
-    content: regardez l’étendard ╵quand on va le dresser ╵au sommet des montagnes,
-  - type: text
-    content: et, quand le cor va sonner ╵écoutez bien !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Vous qui peuplez le monde,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: habitants de la terre,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: regardez l’étendard ╵quand on va le dresser ╵au sommet des montagnes,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et, quand le cor va sonner ╵écoutez bien !
   '4':
-  - type: text
-    content: 'Car l’Eternel m’a dit :'
-  - type: text
-    content: Je me tiendrai tranquille ╵et je regarderai ╵de ma demeure,
-  - type: text
-    content: pareil à la chaleur ╵dans la lumière ╵éblouissante du soleil,
-  - type: text
-    content: pareil à la nuée ╵formée par la rosée ╵dans la chaleur de la moisson.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Car l’Eternel m’a dit :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Je me tiendrai tranquille ╵et je regarderai ╵de ma demeure,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: pareil à la chaleur ╵dans la lumière ╵éblouissante du soleil,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: pareil à la nuée ╵formée par la rosée ╵dans la chaleur de la moisson.
   '5':
-  - type: text
-    content: Car, avant la moisson, ╵quand la floraison est finie,
-  - type: text
-    content: quand la fleur deviendra ╵un raisin qui mûrit,
-  - type: text
-    content: alors on coupera ╵les sarments de la vigne ╵avec une serpette.
-  - type: text
-    content: On enlèvera les sarments ╵et l’on élaguera les branches.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Car, avant la moisson, ╵quand la floraison est finie,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: quand la fleur deviendra ╵un raisin qui mûrit,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: alors on coupera ╵les sarments de la vigne ╵avec une serpette.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: On enlèvera les sarments ╵et l’on élaguera les branches.
   '6':
-  - type: text
-    content: Le tout sera abandonné
-  - type: text
-    content: aux oiseaux de proie des montagnes
-  - type: text
-    content: 'et aux bêtes sauvages :'
-  - type: text
-    content: les vautours en feront ╵leur nid pendant l’été,
-  - type: text
-    content: et les bêtes sauvages ╵leur gîte d’hiver.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Le tout sera abandonné
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: aux oiseaux de proie des montagnes
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'et aux bêtes sauvages :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: les vautours en feront ╵leur nid pendant l’été,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et les bêtes sauvages ╵leur gîte d’hiver.
   '7':
-  - type: text
-    content: En ce temps-là, ╵le Seigneur des armées célestes ╵recevra des offrandes
-  - type: text
-    content: de la part de ce peuple ╵à la taille élancée, ╵à la peau glabre,
-  - type: text
-    content: de la part de ce peuple ╵que l’on redoute au loin,
-  - type: text
-    content: nation à la langue barbare ╵et qui écrase tout,
-  - type: text
-    content: dont le pays ╵est sillonné de fleuves,
-  - type: text
-    content: dans le lieu où réside ╵le Seigneur des armées célestes,
-  - type: text
-    content: au mont Sion.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: En ce temps-là, ╵le Seigneur des armées célestes ╵recevra des offrandes
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: de la part de ce peuple ╵à la taille élancée, ╵à la peau glabre,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: de la part de ce peuple ╵que l’on redoute au loin,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: nation à la langue barbare ╵et qui écrase tout,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: dont le pays ╵est sillonné de fleuves,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: dans le lieu où réside ╵le Seigneur des armées célestes,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: au mont Sion.

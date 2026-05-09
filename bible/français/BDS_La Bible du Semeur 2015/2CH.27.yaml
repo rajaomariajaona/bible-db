@@ -2,49 +2,180 @@ document_id: 2CH.27,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Yotam, roi de Juda
-  - type: heading
-    content: (2 R 15.33-38)
-  - type: text
-    content: Yotam avait vingt-cinq ans à son avènement et il régna seize ans à Jérusalem
-  - type: note
-    content: Le règne de Yotam, de 750 à 732 av. J.-C., comprend une corégence avec Ozias, de 750 à 740 av. J.-C., et avec Ahaz, de 735 à 732 av. J.-C.
-  - type: text
-    content: '. Le nom de sa mère était Yerousha, fille de Tsadoq. '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Yotam, roi de Juda
+    marker-yv: yv-h
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: (2 R 15.33-38)
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Yotam avait vingt-cinq ans à son avènement et il régna seize ans à Jérusalem
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '27.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Le règne de '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Yotam, '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: de 750 à 732 av. J.-C., comprend une corégence avec Ozias, de 750 à 740 av. J.-C., et avec Ahaz, de 735 à 732 av. J.-C.
+      marker-yv: yv-n
+    - type: text
+      text: '. Le nom de sa mère était Yerousha, fille de Tsadoq. '
   '2':
-  - type: text
-    content: Il fit ce que l’Eternel considère comme juste et suivit en tout l’exemple de son père Ozias. Toutefois, il n’entra pas dans le temple de l’Eternel
-  - type: note
-    content: Voir 26.16.
-  - type: text
-    content: . Mais le peuple continuait à se corrompre.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Il fit ce que l’Eternel considère comme juste et suivit en tout l’exemple de son père Ozias. Toutefois, il n’entra pas dans le temple de l’Eternel
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '27.2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Voir '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: '26.16'
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: . Mais le peuple continuait à se corrompre.
   '3':
-  - type: text
-    content: Yotam rebâtit la porte supérieure du temple de l’Eternel
-  - type: note
-    content: Sans doute la porte Neuve, mentionnée en Jr 26.10 et 36.10, conduisant au parvis supérieur, celui des prêtres.
-  - type: text
-    content: ' et réalisa de grands travaux dans le rempart du côté du quartier de l’Ophel'
-  - type: note
-    content: Siège de la forteresse de Sion (2 S 5.7) au sud du Temple et du palais royal, centre de la ville au temps des rois.
-  - type: text
-    content: '. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Yotam rebâtit la porte supérieure du temple de l’Eternel
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '27.3 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Sans doute la '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'porte Neuve, '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'mentionnée en '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Jr 26.10
+        - type: text
+          text: ' et '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: '36.10'
+        - type: text
+          text: ', conduisant au parvis supérieur, celui des prêtres.'
+      marker-yv: yv-n
+    - type: text
+      text: ' et réalisa de grands travaux dans le rempart du côté du quartier de l’Ophel'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '27.3 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Siège de la forteresse de Sion (
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: 2 S 5.7
+        - type: text
+          text: ) au sud du Temple et du palais royal, centre de la ville au temps des rois.
+      marker-yv: yv-n
+    - type: text
+      text: '. '
   '4':
-  - type: text
-    content: 'Il construisit aussi des villes dans les monts de Juda, ainsi que des fortins et des tours dans les forêts. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Il construisit aussi des villes dans les monts de Juda, ainsi que des fortins et des tours dans les forêts. '
   '5':
-  - type: text
-    content: 'Il fit la guerre au roi des Ammonites et remporta la victoire sur eux, de sorte que, cette année-là et les deux suivantes, les Ammonites lui payèrent un tribut de trois tonnes et demie d’argent, quatre tonnes et demie de blé et autant d’orge par an. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Il fit la guerre au roi des Ammonites et remporta la victoire sur eux, de sorte que, cette année-là et les deux suivantes, les Ammonites lui payèrent un tribut de trois tonnes et demie d’argent, quatre tonnes et demie de blé et autant d’orge par an. '
   '6':
-  - type: text
-    content: Yotam devint très puissant parce qu’il vivait dans la droiture devant l’Eternel son Dieu.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Yotam devint très puissant parce qu’il vivait dans la droiture devant l’Eternel son Dieu.
   '7':
-  - type: text
-    content: 'Les autres faits et gestes de Yotam, toutes ses guerres et toute sa conduite, sont cités dans le livre des rois d’Israël et de Juda. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Les autres faits et gestes de Yotam, toutes ses guerres et toute sa conduite, sont cités dans le livre des rois d’Israël et de Juda. '
   '8':
-  - type: text
-    content: 'Il avait vingt-cinq ans à son avènement et il régna seize ans à Jérusalem. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Il avait vingt-cinq ans à son avènement et il régna seize ans à Jérusalem. '
   '9':
-  - type: text
-    content: Yotam rejoignit ses ancêtres décédés et on l’enterra dans la Cité de David. Son fils Ahaz lui succéda sur le trône.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Yotam rejoignit ses ancêtres décédés et on l’enterra dans la Cité de David. Son fils Ahaz lui succéda sur le trône.

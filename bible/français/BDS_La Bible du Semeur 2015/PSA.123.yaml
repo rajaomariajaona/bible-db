@@ -2,40 +2,111 @@ document_id: PSA.123,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Dans l’attente de sa grâce
-  - type: text
-    content: Cantique pour la route vers la demeure de l’Eternel
-  - type: note
-    content: Voir note 120.1.
-  - type: text
-    content: .
-  - type: text
-    content: Je lève les yeux vers toi,
-  - type: text
-    content: toi qui sièges dans les cieux.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Dans l’attente de sa grâce
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: Cantique pour la route vers la demeure de l’Eternel
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '123.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Voir note '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: '120.1'
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Je lève les yeux vers toi,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: toi qui sièges dans les cieux.
   '2':
-  - type: text
-    content: Oui, comme les serviteurs ╵fixent leurs regards
-  - type: text
-    content: sur la main du maître,
-  - type: text
-    content: comme la servante ╵fixe ses regards ╵sur la main de sa maîtresse
-  - type: note
-    content: C’est par des gestes de la main que maître et maîtresse font connaître leurs volontés et leurs sentiments à leurs serviteurs.
-  - type: text
-    content: ','
-  - type: text
-    content: ainsi nos regards se tournent ╵vers l’Eternel, notre Dieu,
-  - type: text
-    content: dans l’attente qu’il nous fasse grâce.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Oui, comme les serviteurs ╵fixent leurs regards
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: sur la main du maître,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: comme la servante ╵fixe ses regards ╵sur la main de sa maîtresse
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '123.2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: C’est par des gestes de la main que maître et maîtresse font connaître leurs volontés et leurs sentiments à leurs serviteurs.
+      marker-yv: yv-n
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ainsi nos regards se tournent ╵vers l’Eternel, notre Dieu,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: dans l’attente qu’il nous fasse grâce.
   '3':
-  - type: text
-    content: Fais-nous grâce, ô Eternel ! ╵Manifeste-nous ta compassion !
-  - type: text
-    content: Car nous sommes saturés ╵du mépris qu’on nous témoigne.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Fais-nous grâce, ô Eternel ! ╵Manifeste-nous ta compassion !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Car nous sommes saturés ╵du mépris qu’on nous témoigne.
   '4':
-  - type: text
-    content: Oui, nous sommes saturés
-  - type: text
-    content: des railleries des repus ╵et du mépris des hautains.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Oui, nous sommes saturés
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: des railleries des repus ╵et du mépris des hautains.

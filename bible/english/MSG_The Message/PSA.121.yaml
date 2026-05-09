@@ -2,50 +2,107 @@ document_id: PSA.121,97
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: I look up to the mountains;
-  - type: text
-    content: does my strength come from mountains?
-  - type: text
-    content: 'No, my strength comes from '
-  - type: text
-    content: God
-  - type: text
-    content: ','
-  - type: text
-    content: who made heaven, and earth, and mountains.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: I look up to the mountains;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: does my strength come from mountains?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'No, my strength comes from '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: who made heaven, and earth, and mountains.
   '3':
-  - type: text
-    content: He won’t let you stumble,
-  - type: text
-    content: your Guardian God won’t fall asleep.
-  - type: text
-    content: Not on your life! Israel’s
-  - type: text
-    content: Guardian will never doze or sleep.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: He won’t let you stumble,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: your Guardian God won’t fall asleep.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Not on your life! Israel’s
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Guardian will never doze or sleep.
   '5':
-  - type: text
-    content: ' '
-  - type: text
-    content: God
-  - type: text
-    content: ’s your Guardian,
-  - type: text
-    content: right at your side to protect you—
-  - type: text
-    content: Shielding you from sunstroke,
-  - type: text
-    content: sheltering you from moonstroke.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ’s your Guardian,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: right at your side to protect you—
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Shielding you from sunstroke,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: sheltering you from moonstroke.
   '7':
-  - type: text
-    content: ' '
-  - type: text
-    content: God
-  - type: text
-    content: ' guards you from every evil,'
-  - type: text
-    content: he guards your very life.
-  - type: text
-    content: He guards you when you leave and when you return,
-  - type: text
-    content: he guards you now, he guards you always.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ' guards you from every evil,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: he guards your very life.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: He guards you when you leave and when you return,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: he guards you now, he guards you always.

@@ -2,180 +2,710 @@ document_id: PSA.62,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: My Soul Waits for God Alone
-  - type: text
-    content: 'To the choirmaster: according to '
-  - type: note
-    content: See Ps. 39, title
-  - type: text
-    content: Jeduthun. A Psalm of David.
-  - type: text
-    content: 'For God alone '
-  - type: note
-    content: See Ps. 33:20
-  - type: text
-    content: 'my soul '
-  - type: note
-    content: '[Ps. 37:7]'
-  - type: text
-    content: waits in silence;
-  - type: text
-    content: from him comes my salvation.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: My Soul Waits for God Alone
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'To the choirmaster: according to '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 39
+      - type: text
+        text: ', title'
+      marker-yv: yv-n
+    - type: text
+      text: Jeduthun. A Psalm of David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'For God alone '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 33:20
+      marker-yv: yv-n
+    - type: text
+      text: 'my soul '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 37:7
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: waits in silence;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: from him comes my salvation.
   '10':
-  - type: text
-    content: Put no trust in extortion;
-  - type: note
-    content: See Prov. 1:10-19
-  - type: text
-    content: set no vain hopes on robbery;
-  - type: note
-    content: Luke 12:15; See Ps. 49:6
-  - type: text
-    content: if riches increase, set not your heart on them.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Put no trust in extortion;
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Prov. 1:10-19
+      marker-yv: yv-n
+    - type: text
+      text: set no vain hopes on robbery;
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Luke 12:15
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 49:6
+      marker-yv: yv-n
+    - type: text
+      text: if riches increase, set not your heart on them.
   '11':
-  - type: text
-    content: ' '
-  - type: note
-    content: Job 33:14; 40:5
-  - type: text
-    content: Once God has spoken;
-  - type: note
-    content: Job 33:14; 40:5
-  - type: text
-    content: 'twice have I heard this:'
-  - type: text
-    content: 'that '
-  - type: note
-    content: Rev. 19:1; [Ps. 59:9, 17]
-  - type: text
-    content: power belongs to God,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 33:14
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 40:5
+      marker-yv: yv-n
+    - type: text
+      text: Once God has spoken;
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 33:14
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 40:5
+      marker-yv: yv-n
+    - type: text
+      text: 'twice have I heard this:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'that '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rev. 19:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 59:9
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '17'
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: power belongs to God,
   '12':
-  - type: text
-    content: 'and that to you, O Lord, '
-  - type: note
-    content: Ps. 86:5, 15; 103:8; Dan. 9:9
-  - type: text
-    content: belongs steadfast love.
-  - type: text
-    content: 'For you will '
-  - type: note
-    content: See Job 34:11
-  - type: text
-    content: render to a man
-  - type: text
-    content: according to his work.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and that to you, O Lord, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 86:5
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '15'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 103:8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Dan. 9:9
+      marker-yv: yv-n
+    - type: text
+      text: belongs steadfast love.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'For you will '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 34:11
+      marker-yv: yv-n
+    - type: text
+      text: render to a man
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: according to his work.
   '2':
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps. 18:2
-  - type: text
-    content: He alone is my rock and my salvation,
-  - type: text
-    content: 'my '
-  - type: note
-    content: See Ps. 9:9
-  - type: text
-    content: 'fortress; '
-  - type: note
-    content: See Ps. 10:6
-  - type: text
-    content: I shall not be greatly shaken.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 18:2
+      marker-yv: yv-n
+    - type: text
+      text: He alone is my rock and my salvation,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'my '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 9:9
+      marker-yv: yv-n
+    - type: text
+      text: 'fortress; '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 10:6
+      marker-yv: yv-n
+    - type: text
+      text: I shall not be greatly shaken.
   '3':
-  - type: text
-    content: How long will all of you attack a man
-  - type: text
-    content: to batter him,
-  - type: text
-    content: 'like '
-  - type: note
-    content: '[Isa. 30:13]'
-  - type: text
-    content: a leaning wall, a tottering fence?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: How long will all of you attack a man
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: to batter him,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'like '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 30:13
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: a leaning wall, a tottering fence?
   '4':
-  - type: text
-    content: 'They only plan to thrust him down from his '
-  - type: note
-    content: Job 13:11
-  - type: text
-    content: high position.
-  - type: text
-    content: They take pleasure in falsehood.
-  - type: note
-    content: See Ps. 28:3
-  - type: text
-    content: They bless with their mouths,
-  - type: text
-    content: 'but inwardly they curse. '
-  - type: text
-    content: Selah
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'They only plan to thrust him down from his '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 13:11
+      marker-yv: yv-n
+    - type: text
+      text: high position.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: They take pleasure in falsehood.
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 28:3
+      marker-yv: yv-n
+    - type: text
+      text: They bless with their mouths,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'but inwardly they curse. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Selah
   '5':
-  - type: text
-    content: 'For God alone, O '
-  - type: note
-    content: '[See ver. 1 above]'
-  - type: text
-    content: my soul, wait in silence,
-  - type: text
-    content: for my hope is from him.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'For God alone, O '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[See ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '1'
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: above]
+      marker-yv: yv-n
+    - type: text
+      text: my soul, wait in silence,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: for my hope is from him.
   '6':
-  - type: text
-    content: ' '
-  - type: note
-    content: '[See ver. 2 above]'
-  - type: text
-    content: He only is my rock and my salvation,
-  - type: text
-    content: my fortress; I shall not be shaken.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[See ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '2'
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: above]
+      marker-yv: yv-n
+    - type: text
+      text: He only is my rock and my salvation,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: my fortress; I shall not be shaken.
   '7':
-  - type: text
-    content: 'On God rests my '
-  - type: note
-    content: See Ps. 3:8
-  - type: text
-    content: salvation and my glory;
-  - type: text
-    content: 'my mighty rock, '
-  - type: note
-    content: See Ps. 14:6
-  - type: text
-    content: my refuge is God.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'On God rests my '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 3:8
+      marker-yv: yv-n
+    - type: text
+      text: salvation and my glory;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'my mighty rock, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 14:6
+      marker-yv: yv-n
+    - type: text
+      text: my refuge is God.
   '8':
-  - type: text
-    content: ' '
-  - type: note
-    content: See Ps. 37:3
-  - type: text
-    content: Trust in him at all times, O people;
-  - type: note
-    content: See Ps. 42:4
-  - type: text
-    content: pour out your heart before him;
-  - type: text
-    content: 'God is '
-  - type: note
-    content: '[See ver. 7 above]'
-  - type: text
-    content: 'a refuge for us. '
-  - type: text
-    content: Selah
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 37:3
+      marker-yv: yv-n
+    - type: text
+      text: Trust in him at all times, O people;
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 42:4
+      marker-yv: yv-n
+    - type: text
+      text: pour out your heart before him;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'God is '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[See ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '7'
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: above]
+      marker-yv: yv-n
+    - type: text
+      text: 'a refuge for us. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Selah
   '9':
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps. 39:5; [ Isa. 40:17 ]
-  - type: text
-    content: Those of low estate are but a breath;
-  - type: text
-    content: 'those of high estate '
-  - type: note
-    content: '[Ps. 116:11]'
-  - type: text
-    content: are a delusion;
-  - type: text
-    content: in the balances they go up;
-  - type: note
-    content: Ps. 39:5; [ Isa. 40:17 ]
-  - type: text
-    content: they are together lighter than a breath.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 39:5
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 40:17
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: Those of low estate are but a breath;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'those of high estate '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 116:11
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: are a delusion;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: in the balances they go up;
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 39:5
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 40:17
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: they are together lighter than a breath.

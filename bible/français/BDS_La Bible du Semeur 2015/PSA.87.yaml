@@ -2,67 +2,231 @@ document_id: PSA.87,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Tous les peuples sont nés à Sion
-  - type: text
-    content: Psaume des Qoréites
-  - type: note
-    content: Voir note 42.1.
-  - type: text
-    content: . Cantique
-  - type: note
-    content: Signification incertaine.
-  - type: text
-    content: .
-  - type: text
-    content: Elle est fondée ╵sur les montagnes saintes,
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Tous les peuples sont nés à Sion
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: Psaume des Qoréites
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '87.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Voir note '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: '42.1'
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: . Cantique
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '87.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Signification incertaine.
+      marker-yv: yv-n
+    - type: text
+      text: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Elle est fondée ╵sur les montagnes saintes,
   '2':
-  - type: text
-    content: l’Eternel aime ╵la ville
-  - type: note
-    content: En hébreu, il est question des portes de Sion, les portes représentant la ville tout entière.
-  - type: text
-    content: ' de Sion'
-  - type: text
-    content: plus que tout autre lieu ╵du pays de Jacob.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: l’Eternel aime ╵la ville
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '87.2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'En hébreu, il est question des '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'portes de Sion, '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: les portes représentant la ville tout entière.
+      marker-yv: yv-n
+    - type: text
+      text: ' de Sion'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: plus que tout autre lieu ╵du pays de Jacob.
   '3':
-  - type: text
-    content: O toi, cité de Dieu,
-  - type: text
-    content: 'ce que l’on dit de toi ╵est tout chargé de gloire :'
-  - type: text
-    content: Pause
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: O toi, cité de Dieu,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'ce que l’on dit de toi ╵est tout chargé de gloire :'
+  - type: usfm
+    marker: q4
+    children:
+    - type: text
+      text: Pause
   '4':
-  - type: text
-    content: « Parmi tous ceux qui me connaissent,
-  - type: text
-    content: je ferai mention de Rahav, l’Egypte
-  - type: note
-    content: Les peuples énumérés étaient les ennemis habituels d’Israël (Es 19.2) ; ils représentent l’ensemble des peuples païens. L’Egypte est ici appelée poétiquement Rahav, du nom d’un dragon des mers mythologique opposé au Créateur et associé à l’Egypte qui a opprimé les Israélites (cf. Es 30.7). D’autres textes présentent l’ouverture d’un passage dans la mer des Roseaux pour libérer les Israélites de l’esclavage en Egypte comme une victoire sur le dragon Rahav (Ps 89.11 ; Es 51.9).
-  - type: text
-    content: ' ╵aussi bien que de Babylone,'
-  - type: text
-    content: j’inscris la Philistie, ╵et Tyr, et l’Ethiopie,
-  - type: text
-    content: comme étant nés ici
-  - type: note
-    content: 'C’est-à-dire à Sion. D’autres comprennent : comme étant nés là-bas (chez eux). 5 Pourtant…'
-  - type: text
-    content: . »
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: « Parmi tous ceux qui me connaissent,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: je ferai mention de Rahav, l’Egypte
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '87.4 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Les peuples énumérés étaient les ennemis habituels d’Israël (
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Es 19.2
+        - type: text
+          text: ') ; ils représentent l’ensemble des peuples païens. L’Egypte est ici appelée poétiquement Rahav, du nom d’un dragon des mers mythologique opposé au Créateur et associé à l’Egypte qui a opprimé les Israélites (cf. '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Es 30.7
+        - type: text
+          text: ). D’autres textes présentent l’ouverture d’un passage dans la mer des Roseaux pour libérer les Israélites de l’esclavage en Egypte comme une victoire sur le dragon Rahav (Ps 89.11 ; Es 51.9).
+      marker-yv: yv-n
+    - type: text
+      text: ' ╵aussi bien que de Babylone,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: j’inscris la Philistie, ╵et Tyr, et l’Ethiopie,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: comme étant nés ici
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '87.4 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'C’est-à-dire à Sion. D’autres comprennent : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'comme étant nés là-bas (chez eux). '
+      - type: usfm
+        marker: fv
+        children:
+        - type: text
+          text: '5 '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: Pourtant…
+      marker-yv: yv-n
+    - type: text
+      text: . »
   '5':
-  - type: text
-    content: 'De Sion, on dira : ╵« Tout homme est né ici »,'
-  - type: text
-    content: et le Très-Haut lui-même ╵la maintient fermement.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'De Sion, on dira : ╵« Tout homme est né ici »,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et le Très-Haut lui-même ╵la maintient fermement.
   '6':
-  - type: text
-    content: 'Dans le registre ╵où l’Eternel inscrit les peuples, ╵pour chacun d’eux il note :'
-  - type: text
-    content: « Un tel est né ici »,
-  - type: text
-    content: Pause
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Dans le registre ╵où l’Eternel inscrit les peuples, ╵pour chacun d’eux il note :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: « Un tel est né ici »,
+  - type: usfm
+    marker: q4
+    children:
+    - type: text
+      text: Pause
   '7':
-  - type: text
-    content: 'et ils diront ╵dans leurs chants et leurs danses :'
-  - type: text
-    content: « Toutes mes sources sont en toi. »
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'et ils diront ╵dans leurs chants et leurs danses :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: « Toutes mes sources sont en toi. »

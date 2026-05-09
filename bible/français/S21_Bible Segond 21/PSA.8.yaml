@@ -2,62 +2,200 @@ document_id: PSA.8,152
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: La gloire de Dieu dans la création
-  - type: text
-    content: Au chef de chœur, sur la guitthith. Psaume de David.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: La gloire de Dieu dans la création
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: Au chef de chœur, sur la guitthith. Psaume de David.
   '10':
-  - type: text
-    content: Eternel, notre Seigneur,
-  - type: text
-    content: que ton nom est magnifique sur toute la terre!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Eternel, notre Seigneur,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: que ton nom est magnifique sur toute la terre!
   '2':
-  - type: text
-    content: Eternel, notre Seigneur,
-  - type: text
-    content: que ton nom est magnifique sur toute la terre!
-  - type: text
-    content: Ta majesté domine le ciel.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Eternel, notre Seigneur,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: que ton nom est magnifique sur toute la terre!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Ta majesté domine le ciel.
   '3':
-  - type: text
-    content: '*Par la bouche des enfants et des nourrissons,'
-  - type: text
-    content: tu as fondé ta gloire
-  - type: note
-    content: 'Par la bouche… gloire: cité par Jésus aux autorités religieuses dans le temple en Matthieu 21.16.'
-  - type: text
-    content: ' pour confondre tes adversaires,'
-  - type: text
-    content: pour réduire au silence l'ennemi, l'homme avide de vengeance.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: '*Par la bouche des enfants et des nourrissons,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: tu as fondé ta gloire
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '8.3 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Par la bouche… gloire: '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'cité par Jésus aux autorités religieuses dans le temple en '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matthieu 21.16
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: ' pour confondre tes adversaires,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: pour réduire au silence l'ennemi, l'homme avide de vengeance.
   '4':
-  - type: text
-    content: Quand je contemple le ciel, œuvre de tes mains,
-  - type: text
-    content: la lune et les étoiles que tu y as placées,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Quand je contemple le ciel, œuvre de tes mains,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: la lune et les étoiles que tu y as placées,
   '5':
-  - type: text
-    content: 'je dis: *«Qu''est-ce que l''homme, pour que tu te souviennes de lui,'
-  - type: text
-    content: et le fils de l'homme, pour que tu prennes soin de lui?»
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'je dis: *«Qu''est-ce que l''homme, pour que tu te souviennes de lui,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et le fils de l'homme, pour que tu prennes soin de lui?»
   '6':
-  - type: text
-    content: Tu l'as fait de peu inférieur à Dieu
-  - type: text
-    content: et tu l'as couronné de gloire et d'honneur.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Tu l'as fait de peu inférieur à Dieu
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et tu l'as couronné de gloire et d'honneur.
   '7':
-  - type: text
-    content: Tu lui as donné la domination sur ce que tes mains ont fait,
-  - type: text
-    content: tu as tout mis sous ses pieds,
-  - type: note
-    content: 'Qu''est-ce que l''homme… ses pieds: cité en Hébreux 2.6-8 et partiellement en 1 Corinthiens 15.27; Ephésiens 1.22.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Tu lui as donné la domination sur ce que tes mains ont fait,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: tu as tout mis sous ses pieds,
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '8.5-7 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Qu''est-ce que l''homme… ses pieds: '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'cité en '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Hébreux 2.6-8
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' et partiellement en '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Corinthiens 15.27
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ephésiens 1.22
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: .
+      marker-yv: yv-n
   '8':
-  - type: text
-    content: les brebis comme les bœufs,
-  - type: text
-    content: et même les animaux sauvages,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: les brebis comme les bœufs,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et même les animaux sauvages,
   '9':
-  - type: text
-    content: les oiseaux du ciel et les poissons de la mer,
-  - type: text
-    content: tout ce qui parcourt les sentiers des mers.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: les oiseaux du ciel et les poissons de la mer,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: tout ce qui parcourt les sentiers des mers.

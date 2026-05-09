@@ -2,63 +2,180 @@ document_id: 1CO.13,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: L’amour
-  - type: text
-    content: En effet, si je parlais les langues des hommes et même celles des anges mais sans avoir l’amour, je ne serais rien de plus qu’une trompette claironnante ou une cymbale bruyante
-  - type: note
-    content: L’apôtre semble faire allusion aux marmites d’airain déposées devant certains temples païens (trouvées par les archéologues à Dodone près de Corinthe). Ces marmites se touchaient. On frappait la première. Le son se transmettait de l’une à l’autre faisant entendre une sorte de murmure que le prêtre interprétait comme le langage du dieu. « Airain de Dodone » était devenu en Grèce un synonyme de vain bavardage.
-  - type: text
-    content: .
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: L’amour
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: En effet, si je parlais les langues des hommes et même celles des anges mais sans avoir l’amour, je ne serais rien de plus qu’une trompette claironnante ou une cymbale bruyante
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '13.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: L’apôtre semble faire allusion aux marmites d’airain déposées devant certains temples païens (trouvées par les archéologues à Dodone près de Corinthe). Ces marmites se touchaient. On frappait la première. Le son se transmettait de l’une à l’autre faisant entendre une sorte de murmure que le prêtre interprétait comme le langage du dieu. « Airain de Dodone » était devenu en Grèce un synonyme de vain bavardage.
+      marker-yv: yv-n
+    - type: text
+      text: .
   '10':
-  - type: text
-    content: Mais le jour où la perfection apparaîtra, ce qui est partiel cessera.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Mais le jour où la perfection apparaîtra, ce qui est partiel cessera.
   '11':
-  - type: text
-    content: Lorsque j’étais enfant, je parlais comme un enfant, je pensais et je raisonnais en enfant. Une fois devenu homme, je me suis défait de ce qui est propre à l’enfant.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Lorsque j’étais enfant, je parlais comme un enfant, je pensais et je raisonnais en enfant. Une fois devenu homme, je me suis défait de ce qui est propre à l’enfant.
   '12':
-  - type: text
-    content: Aujourd’hui, certes, nous ne voyons que d’une manière indirecte
-  - type: note
-    content: 'Certains comprennent : nous ne percevons qu’une image confuse de la réalité.'
-  - type: text
-    content: ', comme dans un miroir. Alors, nous verrons directement. Dans le temps présent, je connais d’une manière partielle, mais alors je connaîtrai comme Dieu me connaît.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Aujourd’hui, certes, nous ne voyons que d’une manière indirecte
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '13.12 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Certains comprennent : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: nous ne percevons qu’une image confuse de la réalité.
+      marker-yv: yv-n
+    - type: text
+      text: ', comme dans un miroir. Alors, nous verrons directement. Dans le temps présent, je connais d’une manière partielle, mais alors je connaîtrai comme Dieu me connaît.'
   '13':
-  - type: text
-    content: 'En somme, trois choses demeurent : la foi, l’espérance et l’amour, mais la plus grande d’entre elles, c’est l’amour.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'En somme, trois choses demeurent : la foi, l’espérance et l’amour, mais la plus grande d’entre elles, c’est l’amour.'
   '2':
-  - type: text
-    content: Si j’avais des prophéties, si je connaissais tous les secrets et si je possédais toute la connaissance, si j’avais même dans toute sa plénitude, la foi jusqu’à transporter les montagnes, sans l’amour, je ne serais rien.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Si j’avais des prophéties, si je connaissais tous les secrets et si je possédais toute la connaissance, si j’avais même dans toute sa plénitude, la foi jusqu’à transporter les montagnes, sans l’amour, je ne serais rien.
   '3':
-  - type: text
-    content: Si même je sacrifiais tous mes biens, et jusqu’à ma vie, pour aider les autres, au point de pouvoir m’en vanter
-  - type: note
-    content: 'et jusqu’à… vanter. Certains manuscrits ont : et si je livrais mon corps pour être brûlé.'
-  - type: text
-    content: ', sans l’amour, cela ne me servirait de rien.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Si même je sacrifiais tous mes biens, et jusqu’à ma vie, pour aider les autres, au point de pouvoir m’en vanter
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '13.3 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'et jusqu’à… vanter. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Certains manuscrits ont : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: et si je livrais mon corps pour être brûlé.
+      marker-yv: yv-n
+    - type: text
+      text: ', sans l’amour, cela ne me servirait de rien.'
   '4':
-  - type: text
-    content: 'L’amour est patient, il est plein de bonté, l’amour. Il n’est pas envieux, il ne cherche pas à se faire valoir, il ne s’enfle pas d’orgueil. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'L’amour est patient, il est plein de bonté, l’amour. Il n’est pas envieux, il ne cherche pas à se faire valoir, il ne s’enfle pas d’orgueil. '
   '5':
-  - type: text
-    content: 'Il ne fait rien d’inconvenant. Il ne cherche pas son propre intérêt, il ne s’aigrit pas contre les autres, '
-  - type: text
-    content: il ne trame pas le mal
-  - type: note
-    content: 'Za 7.10 ; 8.17. Autre traduction : il ne tient pas compte du mal.'
-  - type: text
-    content: .
-  - type: text
-    content: ' '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Il ne fait rien d’inconvenant. Il ne cherche pas son propre intérêt, il ne s’aigrit pas contre les autres, '
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: il ne trame pas le mal
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '13.5 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Za 7.10 ; 8.17. Autre traduction : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: il ne tient pas compte du mal.
+      marker-yv: yv-n
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: .
+    - type: text
+      text: ' '
   '6':
-  - type: text
-    content: L’injustice l’attriste, la vérité le réjouit.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: L’injustice l’attriste, la vérité le réjouit.
   '7':
-  - type: text
-    content: 'En toute occasion, il pardonne, il fait confiance, il espère, il persévère. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'En toute occasion, il pardonne, il fait confiance, il espère, il persévère. '
   '8':
-  - type: text
-    content: 'L’amour n’aura pas de fin. Les prophéties cesseront, les langues inconnues prendront fin, et la connaissance particulière cessera. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'L’amour n’aura pas de fin. Les prophéties cesseront, les langues inconnues prendront fin, et la connaissance particulière cessera. '
   '9':
-  - type: text
-    content: Notre connaissance est partielle, et partielles sont nos prophéties.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Notre connaissance est partielle, et partielles sont nos prophéties.

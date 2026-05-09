@@ -2,127 +2,588 @@ document_id: PSA.14,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: The Fool Says, There Is No God
-  - type: text
-    content: To the choirmaster. Of David.
-  - type: text
-    content: ' '
-  - type: note
-    content: For ver. 1-7, see Ps. 53:1-6
-  - type: text
-    content: 'The '
-  - type: note
-    content: Ps. 74:18, 22; Job 2:10
-  - type: text
-    content: 'fool says in his heart, '
-  - type: note
-    content: Ps. 10:4
-  - type: text
-    content: “There is no God.”
-  - type: text
-    content: 'They are '
-  - type: note
-    content: Gen. 6:5, 11, 12
-  - type: text
-    content: corrupt, they do abominable deeds;
-  - type: note
-    content: Cited Rom. 3:10-12
-  - type: text
-    content: there is none who does good.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: The Fool Says, There Is No God
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: To the choirmaster. Of David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'For ver. 1-7, see '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 53:1-6
+      marker-yv: yv-n
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 74:18
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '22'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 2:10
+      marker-yv: yv-n
+    - type: text
+      text: 'fool says in his heart, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 10:4
+      marker-yv: yv-n
+    - type: text
+      text: “There is no God.”
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'They are '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Gen. 6:5
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '11'
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '12'
+      marker-yv: yv-n
+    - type: text
+      text: corrupt, they do abominable deeds;
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'Cited '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rom. 3:10-12
+      marker-yv: yv-n
+    - type: text
+      text: there is none who does good.
   '2':
-  - type: text
-    content: 'The '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps. 102:19; [Ps. 11:4]
-  - type: text
-    content: looks down from heaven on the children of man,
-  - type: text
-    content: to see if there are any who understand,
-  - type: note
-    content: Or that act wisely
-  - type: text
-    content: 'who '
-  - type: note
-    content: 2 Chr. 15:2; 19:3
-  - type: text
-    content: seek after God.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 102:19
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 11:4
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: looks down from heaven on the children of man,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: to see if there are any who understand,
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '14:2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: that act wisely
+      marker-yv: yv-n
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'who '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Chr. 15:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 19:3
+      marker-yv: yv-n
+    - type: text
+      text: seek after God.
   '3':
-  - type: text
-    content: 'They have all turned aside; together they have become '
-  - type: note
-    content: Job 15:16
-  - type: text
-    content: corrupt;
-  - type: text
-    content: there is none who does good,
-  - type: text
-    content: not even one.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'They have all turned aside; together they have become '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 15:16
+      marker-yv: yv-n
+    - type: text
+      text: corrupt;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: there is none who does good,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: not even one.
   '4':
-  - type: text
-    content: 'Have they no '
-  - type: note
-    content: Ps. 82:5; [Isa. 1:3; Jer. 4:22]
-  - type: text
-    content: knowledge, all the evildoers
-  - type: text
-    content: 'who '
-  - type: note
-    content: Prov. 30:14; Jer. 10:25; Hos. 7:7; [Ps. 27:2; Amos 8:4; Mic. 3:3]
-  - type: text
-    content: eat up my people as they eat bread
-  - type: text
-    content: 'and '
-  - type: note
-    content: Ps. 79:6; Jer. 10:25; Hos. 7:7; [Isa. 64:7]
-  - type: text
-    content: 'do not call upon the '
-  - type: text
-    content: Lord
-  - type: text
-    content: '?'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Have they no '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 82:5
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 1:3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 4:22
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: knowledge, all the evildoers
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'who '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Prov. 30:14
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 10:25
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Hos. 7:7
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 27:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Amos 8:4
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Mic. 3:3
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: eat up my people as they eat bread
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 79:6
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 10:25
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Hos. 7:7
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 64:7
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'do not call upon the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: '?'
   '5':
-  - type: text
-    content: There they are in great terror,
-  - type: text
-    content: 'for God is with '
-  - type: note
-    content: Ps. 24:6; 73:15
-  - type: text
-    content: the generation of the righteous.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: There they are in great terror,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'for God is with '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 24:6
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 73:15
+      marker-yv: yv-n
+    - type: text
+      text: the generation of the righteous.
   '6':
-  - type: text
-    content: You would shame the plans of the poor,
-  - type: text
-    content: but
-  - type: note
-    content: Or for
-  - type: text
-    content: ' the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' is his '
-  - type: note
-    content: Ps. 46:1; 61:3; 62:7, 8; 91:2; 142:5
-  - type: text
-    content: refuge.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: You would shame the plans of the poor,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: but
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '14:6 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: for
+      marker-yv: yv-n
+    - type: text
+      text: ' the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' is his '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 46:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 61:3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 62:7
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '8'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 91:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 142:5
+      marker-yv: yv-n
+    - type: text
+      text: refuge.
   '7':
-  - type: text
-    content: Oh, that salvation for Israel would come out of Zion!
-  - type: text
-    content: 'When the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps. 85:1; 126:1; Job 42:10; Jer. 30:18; Ezek. 16:53; 39:25; Hos. 6:11; Joel 3:1
-  - type: text
-    content: restores the fortunes of his people,
-  - type: text
-    content: let Jacob rejoice, let Israel be glad.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Oh, that salvation for Israel would come out of Zion!
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'When the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 85:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 126:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 42:10
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 30:18
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ezek. 16:53
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 39:25
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Hos. 6:11
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Joel 3:1
+      marker-yv: yv-n
+    - type: text
+      text: restores the fortunes of his people,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: let Jacob rejoice, let Israel be glad.

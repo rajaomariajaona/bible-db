@@ -2,25 +2,71 @@ document_id: JER.45,93
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Jérémie console Baruc
-  - type: heading
-    content: 'V. 1-5: cf. Jé 36.'
-  - type: text
-    content: 'La parole que Jérémie, le prophète, adressa à Baruc, fils de Nérija, lorsqu’il écrivit dans un livre ces paroles, sous la dictée de Jérémie, la quatrième année de Jojakim, fils de Josias, roi de Juda. Il dit: '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Jérémie console Baruc
+    marker-yv: yv-h
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: 'V. 1-5: cf. Jé 36.'
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'La parole que Jérémie, le prophète, adressa à Baruc, fils de Nérija, lorsqu’il écrivit dans un livre ces paroles, sous la dictée de Jérémie, la quatrième année de Jojakim, fils de Josias, roi de Juda. Il dit: '
   '2':
-  - type: text
-    content: 'Ainsi parle l’Éternel, le Dieu d’Israël, sur toi, Baruc: '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ainsi parle l’Éternel, le Dieu d’Israël, sur toi, Baruc: '
   '3':
-  - type: text
-    content: 'Tu dis: Malheur à moi! Car l’Éternel ajoute le chagrin à ma douleur; je m’épuise en soupirant, et je ne trouve point de repos. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Tu dis: Malheur à moi! Car l’Éternel ajoute le chagrin à ma douleur; je m’épuise en soupirant, et je ne trouve point de repos. '
   '4':
-  - type: text
-    content: 'Dis-lui: Ainsi parle l’Éternel: Voici, ce que j’ai bâti, je le détruirai; ce que j’ai planté, je l’arracherai, savoir tout ce pays. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Dis-lui: Ainsi parle l’Éternel: Voici, ce que j’ai bâti, je le détruirai; ce que j’ai planté, je l’arracherai, savoir tout ce pays. '
   '5':
-  - type: text
-    content: 'Et toi, rechercherais-tu de grandes choses? Ne les recherche pas! Car voici, je vais faire venir le malheur sur toute chair, dit l’Éternel; et je te donnerai ta vie pour '
-  - type: note
-    content: Jé 21:9; 38:2; 39:18.
-  - type: text
-    content: butin, dans tous les lieux où tu iras.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Et toi, rechercherais-tu de grandes choses? Ne les recherche pas! Car voici, je vais faire venir le malheur sur toute chair, dit l’Éternel; et je te donnerai ta vie pour '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jé 21:9
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 38:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 39:18
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: butin, dans tous les lieux où tu iras.

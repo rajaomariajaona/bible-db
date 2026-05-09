@@ -2,196 +2,827 @@ document_id: COL.4,59
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: Masters, treat your bondservants
-  - type: note
-    content: For the contextual rendering of the Greek word doulos, see Preface; likewise for servant in verse 12
-  - type: text
-    content: ' justly and fairly, knowing that you also have a Master in heaven.'
-  - type: heading
-    content: Further Instructions
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Masters, treat your bondservants
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '4:1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'For the contextual rendering of the Greek word '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: doulos
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', see Preface; likewise for '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'servant '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: in verse 12
+      marker-yv: yv-n
+    - type: text
+      text: ' justly and fairly, knowing that you also have a Master in heaven.'
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Further Instructions
+    marker-yv: yv-h
   '10':
-  - type: text
-    content: ' '
-  - type: note
-    content: Acts 19:29; 20:4; 27:2; Philem. 24; [ Rom. 16:7 ]
-  - type: text
-    content: 'Aristarchus my fellow prisoner greets you, and Mark '
-  - type: note
-    content: See Acts 15:37, 39
-  - type: text
-    content: the cousin of Barnabas (concerning whom you have received instructions—
-  - type: note
-    content: '[2 Tim. 4:11]'
-  - type: text
-    content: 'if he comes to you, welcome him), '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Acts 19:29
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 20:4
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 27:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Philem. 24
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rom. 16:7
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'Aristarchus my fellow prisoner greets you, and Mark '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Acts 15:37
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '39'
+      marker-yv: yv-n
+    - type: text
+      text: the cousin of Barnabas (concerning whom you have received instructions—
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Tim. 4:11
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'if he comes to you, welcome him), '
   '11':
-  - type: text
-    content: 'and Jesus who is called '
-  - type: note
-    content: '[Acts 1:23; 18:7]'
-  - type: text
-    content: 'Justus. '
-  - type: note
-    content: See Acts 11:2
-  - type: text
-    content: 'These are the only men of the circumcision among my fellow workers for the kingdom of God, and '
-  - type: note
-    content: '[Philem. 7]'
-  - type: text
-    content: 'they have been a comfort to me. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'and Jesus who is called '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Acts 1:23
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 18:7
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'Justus. '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Acts 11:2
+      marker-yv: yv-n
+    - type: text
+      text: 'These are the only men of the circumcision among my fellow workers for the kingdom of God, and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Philem. 7
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'they have been a comfort to me. '
   '12':
-  - type: note
-    content: ch. 1:7; Philem. 23
-  - type: text
-    content: 'Epaphras, who is one of you, a servant of Christ Jesus, greets you, always '
-  - type: note
-    content: See Rom. 15:30
-  - type: text
-    content: 'struggling on your behalf in his prayers, that you may stand '
-  - type: note
-    content: See Matt. 5:48
-  - type: text
-    content: 'mature and fully assured in all the will of God. '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1:7
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Philem. 23
+      marker-yv: yv-n
+    - type: text
+      text: 'Epaphras, who is one of you, a servant of Christ Jesus, greets you, always '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rom. 15:30
+      marker-yv: yv-n
+    - type: text
+      text: 'struggling on your behalf in his prayers, that you may stand '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 5:48
+      marker-yv: yv-n
+    - type: text
+      text: 'mature and fully assured in all the will of God. '
   '13':
-  - type: text
-    content: 'For I bear him witness that he has worked hard for you and for those in Laodicea and in Hierapolis. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'For I bear him witness that he has worked hard for you and for those in Laodicea and in Hierapolis. '
   '14':
-  - type: note
-    content: 2 Tim. 4:11; See Acts 16:10
-  - type: text
-    content: 'Luke the beloved physician greets you, as does '
-  - type: note
-    content: 2 Tim. 4:10; Philem. 24
-  - type: text
-    content: 'Demas. '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Tim. 4:11
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Acts 16:10
+      marker-yv: yv-n
+    - type: text
+      text: 'Luke the beloved physician greets you, as does '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Tim. 4:10
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Philem. 24
+      marker-yv: yv-n
+    - type: text
+      text: 'Demas. '
   '15':
-  - type: text
-    content: Give my greetings to the brothers
-  - type: note
-    content: Or brothers and sisters
-  - type: text
-    content: ' at Laodicea, and to Nympha and '
-  - type: note
-    content: See Rom. 16:5
-  - type: text
-    content: 'the church in her house. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Give my greetings to the brothers
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '4:15 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: brothers and sisters
+      marker-yv: yv-n
+    - type: text
+      text: ' at Laodicea, and to Nympha and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rom. 16:5
+      marker-yv: yv-n
+    - type: text
+      text: 'the church in her house. '
   '16':
-  - type: text
-    content: 'And when '
-  - type: note
-    content: 1 Thess. 5:27
-  - type: text
-    content: 'this letter has been read among you, have it also read in the church of the Laodiceans; and see that you also read the letter from Laodicea. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'And when '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Thess. 5:27
+      marker-yv: yv-n
+    - type: text
+      text: 'this letter has been read among you, have it also read in the church of the Laodiceans; and see that you also read the letter from Laodicea. '
   '17':
-  - type: text
-    content: 'And say to '
-  - type: note
-    content: Philem. 2
-  - type: text
-    content: 'Archippus, “See that you fulfill '
-  - type: note
-    content: 2 Tim. 4:5
-  - type: text
-    content: the ministry that you have received in the Lord.”
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'And say to '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Philem. 2
+      marker-yv: yv-n
+    - type: text
+      text: 'Archippus, “See that you fulfill '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Tim. 4:5
+      marker-yv: yv-n
+    - type: text
+      text: the ministry that you have received in the Lord.”
   '18':
-  - type: text
-    content: 'I, Paul, '
-  - type: note
-    content: See 1 Cor. 16:21
-  - type: text
-    content: 'write this greeting with my own hand. '
-  - type: note
-    content: '[Heb. 13:3]'
-  - type: text
-    content: 'Remember '
-  - type: note
-    content: ver. 3; See Phil. 1:7
-  - type: text
-    content: 'my chains. '
-  - type: note
-    content: 1 Tim. 6:21; 2 Tim. 4:22; [Titus 3:15]
-  - type: text
-    content: Grace be with you.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'I, Paul, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Cor. 16:21
+      marker-yv: yv-n
+    - type: text
+      text: 'write this greeting with my own hand. '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Heb. 13:3
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'Remember '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '3'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Phil. 1:7
+      marker-yv: yv-n
+    - type: text
+      text: 'my chains. '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Tim. 6:21
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Tim. 4:22
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Titus 3:15
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: Grace be with you.
   '2':
-  - type: text
-    content: ' '
-  - type: note
-    content: For ver. 2-4, see Eph. 6:18-20
-  - type: text
-    content: 'Continue steadfastly in prayer, being watchful in it '
-  - type: note
-    content: ch. 2:7
-  - type: text
-    content: 'with thanksgiving. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'For ver. 2-4, see '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Eph. 6:18-20
+      marker-yv: yv-n
+    - type: text
+      text: 'Continue steadfastly in prayer, being watchful in it '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2:7
+      marker-yv: yv-n
+    - type: text
+      text: 'with thanksgiving. '
   '3':
-  - type: text
-    content: 'At the same time, pray also for us, that God may '
-  - type: note
-    content: See Acts 14:27
-  - type: text
-    content: 'open to us a door for the word, '
-  - type: note
-    content: See Rom. 16:25
-  - type: text
-    content: 'to declare the mystery of Christ, '
-  - type: note
-    content: ver. 18; Eph. 6:20; See Phil. 1:7
-  - type: text
-    content: 'on account of which I am in prison— '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'At the same time, pray also for us, that God may '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Acts 14:27
+      marker-yv: yv-n
+    - type: text
+      text: 'open to us a door for the word, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rom. 16:25
+      marker-yv: yv-n
+    - type: text
+      text: 'to declare the mystery of Christ, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '18'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Eph. 6:20
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Phil. 1:7
+      marker-yv: yv-n
+    - type: text
+      text: 'on account of which I am in prison— '
   '4':
-  - type: text
-    content: that I may make it clear, which is how I ought to speak.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: that I may make it clear, which is how I ought to speak.
   '5':
-  - type: text
-    content: ' '
-  - type: note
-    content: See Eph. 5:15-17
-  - type: text
-    content: 'Walk in wisdom toward '
-  - type: note
-    content: See Mark 4:11
-  - type: text
-    content: 'outsiders, making the best use of the time. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Eph. 5:15-17
+      marker-yv: yv-n
+    - type: text
+      text: 'Walk in wisdom toward '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Mark 4:11
+      marker-yv: yv-n
+    - type: text
+      text: 'outsiders, making the best use of the time. '
   '6':
-  - type: text
-    content: 'Let your speech always '
-  - type: note
-    content: ch. 3:16
-  - type: text
-    content: 'be gracious, '
-  - type: note
-    content: See Mark 9:50
-  - type: text
-    content: 'seasoned with salt, '
-  - type: note
-    content: 1 Pet. 3:15
-  - type: text
-    content: so that you may know how you ought to answer each person.
-  - type: heading
-    content: Final Greetings
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Let your speech always '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 3:16
+      marker-yv: yv-n
+    - type: text
+      text: 'be gracious, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Mark 9:50
+      marker-yv: yv-n
+    - type: text
+      text: 'seasoned with salt, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Pet. 3:15
+      marker-yv: yv-n
+    - type: text
+      text: so that you may know how you ought to answer each person.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Final Greetings
+    marker-yv: yv-h
   '7':
-  - type: text
-    content: 'Tychicus will tell you '
-  - type: note
-    content: For ver. 7-9, see Eph. 6:21, 22
-  - type: text
-    content: all about my activities. He is a beloved brother and faithful minister and fellow servant
-  - type: note
-    content: For the contextual rendering of the Greek word sundoulos, see Preface
-  - type: text
-    content: ' in the Lord. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Tychicus will tell you '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'For ver. 7-9, see '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Eph. 6:21
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '22'
+      marker-yv: yv-n
+    - type: text
+      text: all about my activities. He is a beloved brother and faithful minister and fellow servant
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '4:7 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'For the contextual rendering of the Greek word '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: sundoulos
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', see Preface'
+      marker-yv: yv-n
+    - type: text
+      text: ' in the Lord. '
   '8':
-  - type: text
-    content: 'I have sent him to you for this very purpose, that you may know how we are and that he may encourage your hearts, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'I have sent him to you for this very purpose, that you may know how we are and that he may encourage your hearts, '
   '9':
-  - type: text
-    content: 'and with him '
-  - type: note
-    content: Philem. 10
-  - type: text
-    content: 'Onesimus, our faithful and '
-  - type: note
-    content: Philem. 16
-  - type: text
-    content: beloved brother, who is one of you. They will tell you of everything that has taken place here.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'and with him '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Philem. 10
+      marker-yv: yv-n
+    - type: text
+      text: 'Onesimus, our faithful and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Philem. 16
+      marker-yv: yv-n
+    - type: text
+      text: beloved brother, who is one of you. They will tell you of everything that has taken place here.

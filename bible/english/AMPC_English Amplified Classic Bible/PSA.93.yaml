@@ -2,33 +2,60 @@ document_id: PSA.93,8
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: ' THE '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' reigns, He is clothed with majesty; the Lord is robed, He has girded Himself with strength '
-  - type: text
-    content: and
-  - type: text
-    content: ' power; the world also is established, that it cannot be moved.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' THE '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' reigns, He is clothed with majesty; the Lord is robed, He has girded Himself with strength '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: and
+    - type: text
+      text: ' power; the world also is established, that it cannot be moved.'
   '2':
-  - type: text
-    content: ' Your throne is established from of old; You are from everlasting.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' Your throne is established from of old; You are from everlasting.'
   '3':
-  - type: text
-    content: ' The floods have lifted up, O Lord, the floods have lifted up their voice; the floods lift up the roaring of their waves.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' The floods have lifted up, O Lord, the floods have lifted up their voice; the floods lift up the roaring of their waves.'
   '4':
-  - type: text
-    content: ' The Lord on high is mightier '
-  - type: text
-    content: and
-  - type: text
-    content: ' more glorious than the noise of many waters, yes, than the mighty breakers '
-  - type: text
-    content: and
-  - type: text
-    content: ' waves of the sea.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' The Lord on high is mightier '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: and
+    - type: text
+      text: ' more glorious than the noise of many waters, yes, than the mighty breakers '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: and
+    - type: text
+      text: ' waves of the sea.'
   '5':
-  - type: text
-    content: ' Your testimonies are very sure; holiness [apparent in separation from sin, with simple trust and hearty obedience] is becoming to Your house, O Lord, forever.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' Your testimonies are very sure; holiness [apparent in separation from sin, with simple trust and hearty obedience] is becoming to Your house, O Lord, forever.'

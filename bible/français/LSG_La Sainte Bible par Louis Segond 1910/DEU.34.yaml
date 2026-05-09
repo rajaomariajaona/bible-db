@@ -2,58 +2,161 @@ document_id: DEU.34,93
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Mort de Moïse
-  - type: heading
-    content: 'V. 1-12: cf. (De 32:48-52. No 20:23-29.) (Ac 3:22-26. Hé 3:1-6.) Ps 116:15, 16. Mt 25:21.'
-  - type: text
-    content: 'Moïse monta des plaines de Moab sur le mont Nebo, au sommet du Pisga, vis-à-vis de Jéricho. Et l’Éternel lui '
-  - type: note
-    content: De 3:17.
-  - type: text
-    content: 'fit voir tout le pays: '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Mort de Moïse
+    marker-yv: yv-h
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: 'V. 1-12: cf. (De 32:48-52. No 20:23-29.) (Ac 3:22-26. Hé 3:1-6.) Ps 116:15, 16. Mt 25:21.'
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Moïse monta des plaines de Moab sur le mont Nebo, au sommet du Pisga, vis-à-vis de Jéricho. Et l’Éternel lui '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: De 3:17
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'fit voir tout le pays: '
   '10':
-  - type: text
-    content: 'Il n’a plus paru en Israël de prophète semblable à Moïse, que l’Éternel connaissait face à face. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Il n’a plus paru en Israël de prophète semblable à Moïse, que l’Éternel connaissait face à face. '
   '11':
-  - type: text
-    content: 'Nul ne peut lui être comparé pour tous les signes et les miracles que Dieu l’envoya faire au pays d’Égypte contre Pharaon, contre ses serviteurs et contre tout son pays, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Nul ne peut lui être comparé pour tous les signes et les miracles que Dieu l’envoya faire au pays d’Égypte contre Pharaon, contre ses serviteurs et contre tout son pays, '
   '12':
-  - type: text
-    content: et pour tous les prodiges de terreur que Moïse accomplit à main forte sous les yeux de tout Israël.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: et pour tous les prodiges de terreur que Moïse accomplit à main forte sous les yeux de tout Israël.
   '2':
-  - type: text
-    content: 'Galaad jusqu’à Dan, tout Nephthali, le pays d’Éphraïm et de Manassé, tout le pays de Juda jusqu’à la mer occidentale, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Galaad jusqu’à Dan, tout Nephthali, le pays d’Éphraïm et de Manassé, tout le pays de Juda jusqu’à la mer occidentale, '
   '3':
-  - type: text
-    content: 'le midi, les environs du Jourdain, la vallée de Jéricho, la ville des palmiers, jusqu’à Tsoar. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'le midi, les environs du Jourdain, la vallée de Jéricho, la ville des palmiers, jusqu’à Tsoar. '
   '4':
-  - type: text
-    content: 'L’Éternel lui dit: C’est là le pays que j’ai juré de donner à '
-  - type: note
-    content: Ge 12:7; 13:5; 15:18; 26:4; 28:13.
-  - type: text
-    content: 'Abraham, à Isaac et à Jacob, en disant: Je le donnerai à ta postérité. Je te l’ai fait voir de tes yeux; mais tu n’y entreras point. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'L’Éternel lui dit: C’est là le pays que j’ai juré de donner à '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ge 12:7
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 13:5
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 15:18
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 26:4
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 28:13
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Abraham, à Isaac et à Jacob, en disant: Je le donnerai à ta postérité. Je te l’ai fait voir de tes yeux; mais tu n’y entreras point. '
   '5':
-  - type: text
-    content: 'Moïse, serviteur de l’Éternel, mourut là, dans le pays de Moab, selon l’ordre de l’Éternel. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Moïse, serviteur de l’Éternel, mourut là, dans le pays de Moab, selon l’ordre de l’Éternel. '
   '6':
-  - type: text
-    content: 'Et l’Éternel l’enterra dans la vallée, au pays de Moab, vis-à-vis de Beth-Peor. '
-  - type: note
-    content: Jud v. 9.
-  - type: text
-    content: 'Personne n’a connu son sépulcre jusqu’à ce jour. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Et l’Éternel l’enterra dans la vallée, au pays de Moab, vis-à-vis de Beth-Peor. '
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: Jud v. 9.
+      marker-yv: yv-n
+    - type: text
+      text: 'Personne n’a connu son sépulcre jusqu’à ce jour. '
   '7':
-  - type: text
-    content: 'Moïse était âgé de cent vingt ans lorsqu’il mourut; sa vue n’était point affaiblie, et sa vigueur n’était point passée. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Moïse était âgé de cent vingt ans lorsqu’il mourut; sa vue n’était point affaiblie, et sa vigueur n’était point passée. '
   '8':
-  - type: text
-    content: 'Les enfants d’Israël pleurèrent Moïse pendant trente jours, dans les plaines de Moab; et ces jours de pleurs et de deuil sur Moïse arrivèrent à leur terme. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Les enfants d’Israël pleurèrent Moïse pendant trente jours, dans les plaines de Moab; et ces jours de pleurs et de deuil sur Moïse arrivèrent à leur terme. '
   '9':
-  - type: text
-    content: 'Josué, fils de Nun, était rempli de l’esprit de sagesse, '
-  - type: note
-    content: No 27:18.
-  - type: text
-    content: 'car Moïse avait posé ses mains sur lui. Les enfants d’Israël lui obéirent, et se conformèrent aux ordres que l’Éternel avait donnés à Moïse. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Josué, fils de Nun, était rempli de l’esprit de sagesse, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: No 27:18
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'car Moïse avait posé ses mains sur lui. Les enfants d’Israël lui obéirent, et se conformèrent aux ordres que l’Éternel avait donnés à Moïse. '

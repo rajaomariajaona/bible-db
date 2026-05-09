@@ -2,69 +2,221 @@ document_id: PSA.54,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Dieu m’a délivré
-  - type: text
-    content: Au chef de chœur. Une méditation
-  - type: note
-    content: Signification incertaine.
-  - type: text
-    content: ' de David, à chanter avec accompagnement d’instruments à cordes. '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Dieu m’a délivré
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: Au chef de chœur. Une méditation
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '54.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Signification incertaine.
+      marker-yv: yv-n
+    - type: text
+      text: ' de David, à chanter avec accompagnement d’instruments à cordes. '
   '2':
-  - type: text
-    content: 'Il le composa lorsque les Ziphiens vinrent dire à Saül : « David est caché parmi nous'
-  - type: note
-    content: Voir 1 S 23.19-28 ; 26.1.
-  - type: text
-    content: . »
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'Il le composa lorsque les Ziphiens vinrent dire à Saül : « David est caché parmi nous'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '54.2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Voir 1 S 23.19-28 ; 26.1.
+      marker-yv: yv-n
+    - type: text
+      text: . »
   '3':
-  - type: text
-    content: Dieu, interviens toi-même ╵et sauve-moi !
-  - type: text
-    content: Agis avec puissance ╵pour me rendre justice !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Dieu, interviens toi-même ╵et sauve-moi !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Agis avec puissance ╵pour me rendre justice !
   '4':
-  - type: text
-    content: Ecoute ma prière,
-  - type: text
-    content: ô Dieu, prête attention ╵à mes paroles !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Ecoute ma prière,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ô Dieu, prête attention ╵à mes paroles !
   '5':
-  - type: text
-    content: Des étrangers
-  - type: note
-    content: 'Les Ziphiens n’étaient pas à proprement parler des étrangers, puisqu’ils faisaient partie de la tribu de Juda, mais souvent le mot étranger avait le sens d’ennemi : dans Es 25.5, il est mis en parallèle avec tyran ; ici, avec « gens violents » ; il se rapporte donc plus au caractère qu’à la nationalité des gens concernés. Certains manuscrits hébreux et la version syriaque portent : des orgueilleux.'
-  - type: text
-    content: ' m’ont attaqué,'
-  - type: text
-    content: des gens violents ╵en veulent à ma vie.
-  - type: text
-    content: Ils n’ont aucun souci de Dieu !
-  - type: text
-    content: Pause
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Des étrangers
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '54.5 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Les Ziphiens n’étaient pas à proprement parler des étrangers, puisqu’ils faisaient partie de la tribu de Juda, mais souvent le mot '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'étranger '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'avait le sens d’ennemi : dans '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Es 25.5
+        - type: text
+          text: ', il est mis en parallèle avec tyran ; ici, avec « gens violents » ; il se rapporte donc plus au caractère qu’à la nationalité des gens concernés. Certains manuscrits hébreux et la version syriaque portent : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: des orgueilleux.
+      marker-yv: yv-n
+    - type: text
+      text: ' m’ont attaqué,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: des gens violents ╵en veulent à ma vie.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Ils n’ont aucun souci de Dieu !
+  - type: usfm
+    marker: q4
+    children:
+    - type: text
+      text: Pause
   '6':
-  - type: text
-    content: Mais Dieu est mon secours !
-  - type: text
-    content: Le Seigneur est mon seul appui
-  - type: note
-    content: 'Cette traduction, déjà adoptée dans l’ancienne version grecque, paraît la mieux appropriée au contexte. Autre traduction : Le Seigneur est avec ceux qui me soutiennent.'
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mais Dieu est mon secours !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Le Seigneur est mon seul appui
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '54.6 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Cette traduction, déjà adoptée dans l’ancienne version grecque, paraît la mieux appropriée au contexte. Autre traduction : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: Le Seigneur est avec ceux qui me soutiennent.
+      marker-yv: yv-n
+    - type: text
+      text: .
   '7':
-  - type: text
-    content: Qu’il fasse retomber le mal ╵sur mes ennemis mêmes.
-  - type: text
-    content: Dans ta fidélité, ╵réduis-les à néant !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Qu’il fasse retomber le mal ╵sur mes ennemis mêmes.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Dans ta fidélité, ╵réduis-les à néant !
   '8':
-  - type: text
-    content: Je t’offrirai ╵des sacrifices volontaires
-  - type: note
-    content: Voir Nb 15.13.
-  - type: text
-    content: .
-  - type: text
-    content: Je te louerai, ╵ô Eternel, ╵car tu es bon,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Je t’offrirai ╵des sacrifices volontaires
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '54.8 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Voir '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Nb 15.13
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Je te louerai, ╵ô Eternel, ╵car tu es bon,
   '9':
-  - type: text
-    content: car de toute détresse, ╵tu me délivres,
-  - type: text
-    content: et je peux regarder ╵mes ennemis en face.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: car de toute détresse, ╵tu me délivres,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et je peux regarder ╵mes ennemis en face.

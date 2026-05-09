@@ -2,149 +2,623 @@ document_id: 1CO.9,93
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: 'V. 1-14: cf. Lu 10:7. Ga 6:6. 1 Ti 5:17, 18.'
-  - type: text
-    content: 'Ne suis-je pas libre? Ne suis-je pas apôtre? '
-  - type: note
-    content: Ac 9:3, 17; 22:14, 18; 23:11. 1 Co 15:8. 2 Co 12:2.
-  - type: text
-    content: 'N’ai-je pas vu Jésus notre Seigneur? '
-  - type: note
-    content: 1 Co 4:15.
-  - type: text
-    content: 'N’êtes-vous pas mon œuvre dans le Seigneur? '
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: 'V. 1-14: cf. Lu 10:7. Ga 6:6. 1 Ti 5:17, 18.'
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ne suis-je pas libre? Ne suis-je pas apôtre? '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ac 9:3
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '17'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 22:14
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '18'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 23:11
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Co 15:8
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Co 12:2
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'N’ai-je pas vu Jésus notre Seigneur? '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Co 4:15
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'N’êtes-vous pas mon œuvre dans le Seigneur? '
   '10':
-  - type: text
-    content: 'ou parle-t-il uniquement à cause de nous? Oui, c’est à cause de nous qu’il a été écrit que celui qui laboure doit labourer avec espérance, et celui qui foule le grain fouler avec l’espérance d’y avoir part. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'ou parle-t-il uniquement à cause de nous? Oui, c’est à cause de nous qu’il a été écrit que celui qui laboure doit labourer avec espérance, et celui qui foule le grain fouler avec l’espérance d’y avoir part. '
   '11':
-  - type: note
-    content: Ro 15:27. Ga 6:6.
-  - type: text
-    content: 'Si nous avons semé parmi vous les biens spirituels, est-ce une grosse affaire si nous moissonnons vos biens temporels. '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ro 15:27
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ga 6:6
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Si nous avons semé parmi vous les biens spirituels, est-ce une grosse affaire si nous moissonnons vos biens temporels. '
   '12':
-  - type: text
-    content: 'Si d’autres jouissent de ce droit sur vous, n’est-ce pas plutôt à nous d’en jouir? '
-  - type: note
-    content: Ac 20:33. 2 Co 11:9; 12:13.
-  - type: text
-    content: 'Mais nous n’avons point usé de ce droit; au contraire, nous souffrons tout, afin de ne pas créer d’obstacle à l’Évangile de Christ. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Si d’autres jouissent de ce droit sur vous, n’est-ce pas plutôt à nous d’en jouir? '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ac 20:33
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Co 11:9
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 12:13
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Mais nous n’avons point usé de ce droit; au contraire, nous souffrons tout, afin de ne pas créer d’obstacle à l’Évangile de Christ. '
   '13':
-  - type: text
-    content: 'Ne savez-vous pas '
-  - type: note
-    content: De 18:1.
-  - type: text
-    content: 'que ceux qui remplissent les fonctions sacrées sont nourris par le temple, que ceux qui servent à l’autel ont part à l’autel? '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ne savez-vous pas '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: De 18:1
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'que ceux qui remplissent les fonctions sacrées sont nourris par le temple, que ceux qui servent à l’autel ont part à l’autel? '
   '14':
-  - type: note
-    content: Lé 19:13. De 24:14; 25:4. Mt 10:10. Lu 10:7. 1 Ti 5:18.
-  - type: text
-    content: De même aussi, le Seigneur a ordonné à ceux qui annoncent l’Évangile de vivre de l’Évangile.
-  - type: heading
-    content: 'V. 15-23: cf. (2 Co 11:7-12; 12:13-15. Ac 20:34, 35.) 1 Co 10:24, 33.'
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Lé 19:13
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: De 24:14
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 25:4
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Mt 10:10
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Lu 10:7
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Ti 5:18
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: De même aussi, le Seigneur a ordonné à ceux qui annoncent l’Évangile de vivre de l’Évangile.
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: 'V. 15-23: cf. (2 Co 11:7-12; 12:13-15. Ac 20:34, 35.) 1 Co 10:24, 33.'
+    marker-yv: yv-h
   '15':
-  - type: text
-    content: 'Pour moi, je n’ai usé d’aucun de ces droits, et ce n’est pas afin de les réclamer en ma faveur que j’écris ainsi; car j’aimerais mieux mourir que de me laisser enlever ce sujet de gloire. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Pour moi, je n’ai usé d’aucun de ces droits, et ce n’est pas afin de les réclamer en ma faveur que j’écris ainsi; car j’aimerais mieux mourir que de me laisser enlever ce sujet de gloire. '
   '16':
-  - type: text
-    content: 'Si j’annonce l’Évangile, ce n’est pas pour moi un sujet de gloire, '
-  - type: note
-    content: Ro 1:14.
-  - type: text
-    content: 'car la nécessité m’en est imposée, et malheur à moi si je n’annonce pas l’Évangile! '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Si j’annonce l’Évangile, ce n’est pas pour moi un sujet de gloire, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ro 1:14
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'car la nécessité m’en est imposée, et malheur à moi si je n’annonce pas l’Évangile! '
   '17':
-  - type: text
-    content: 'Si je le fais de bon cœur, j’en ai la récompense; mais si je le fais malgré moi, c’est une charge qui m’est confiée. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Si je le fais de bon cœur, j’en ai la récompense; mais si je le fais malgré moi, c’est une charge qui m’est confiée. '
   '18':
-  - type: text
-    content: 'Quelle est donc ma récompense? C’est d’offrir gratuitement l’Évangile que j’annonce, sans user de mon droit de prédicateur de l’Évangile. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Quelle est donc ma récompense? C’est d’offrir gratuitement l’Évangile que j’annonce, sans user de mon droit de prédicateur de l’Évangile. '
   '19':
-  - type: text
-    content: 'Car, bien que je sois libre à l’égard de tous, je me suis rendu le serviteur de tous, afin de gagner le plus grand nombre. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Car, bien que je sois libre à l’égard de tous, je me suis rendu le serviteur de tous, afin de gagner le plus grand nombre. '
   '2':
-  - type: text
-    content: 'Si pour d’autres je ne suis pas apôtre, je le suis au moins pour vous; car vous êtes le sceau de mon apostolat dans le Seigneur. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Si pour d’autres je ne suis pas apôtre, je le suis au moins pour vous; car vous êtes le sceau de mon apostolat dans le Seigneur. '
   '20':
-  - type: note
-    content: Ac 16:3; 18:18; 21:23.
-  - type: text
-    content: 'Avec les Juifs, j’ai été comme Juif, afin de gagner les Juifs; avec ceux qui sont sous la loi, comme sous la loi (quoique je ne sois pas moi-même sous la loi), afin de gagner ceux qui sont sous la loi; '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ac 16:3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 18:18
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 21:23
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Avec les Juifs, j’ai été comme Juif, afin de gagner les Juifs; avec ceux qui sont sous la loi, comme sous la loi (quoique je ne sois pas moi-même sous la loi), afin de gagner ceux qui sont sous la loi; '
   '21':
-  - type: note
-    content: Ga 2:3.
-  - type: text
-    content: 'avec ceux qui sont sans loi, comme sans loi (quoique je ne sois point sans la loi de Dieu, étant sous la loi de Christ), afin de gagner ceux qui sont sans loi. '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ga 2:3
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'avec ceux qui sont sans loi, comme sans loi (quoique je ne sois point sans la loi de Dieu, étant sous la loi de Christ), afin de gagner ceux qui sont sans loi. '
   '22':
-  - type: note
-    content: Ro 15:1. 1 Co 10:33. Ga 6:1.
-  - type: text
-    content: 'J’ai été faible avec les faibles, afin de gagner les faibles. Je me suis fait tout à tous, afin d’en sauver de toute manière quelques-uns. '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ro 15:1
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Co 10:33
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ga 6:1
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'J’ai été faible avec les faibles, afin de gagner les faibles. Je me suis fait tout à tous, afin d’en sauver de toute manière quelques-uns. '
   '23':
-  - type: text
-    content: Je fais tout à cause de l’Évangile, afin d’y avoir part.
-  - type: heading
-    content: 'V. 24-27: cf. 2 Ti 2:3-6; 4:5-8. Ph 3:10-14. Ro 8:13.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Je fais tout à cause de l’Évangile, afin d’y avoir part.
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: 'V. 24-27: cf. 2 Ti 2:3-6; 4:5-8. Ph 3:10-14. Ro 8:13.'
+    marker-yv: yv-h
   '24':
-  - type: text
-    content: 'Ne savez-vous pas que ceux qui courent '
-  - type: note
-    content: Ga 2:2; 5:7. Ph 2:16. 2 Ti 4:7. Hé 6:18.
-  - type: text
-    content: 'dans le stade courent tous, mais qu’un seul remporte le prix? Courez de manière à le remporter. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ne savez-vous pas que ceux qui courent '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ga 2:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 5:7
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ph 2:16
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Ti 4:7
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Hé 6:18
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'dans le stade courent tous, mais qu’un seul remporte le prix? Courez de manière à le remporter. '
   '25':
-  - type: note
-    content: 2 Ti 2:4.
-  - type: text
-    content: 'Tous ceux qui combattent s’imposent toute espèce d’abstinences, et ils le font pour obtenir une couronne corruptible; mais nous, faisons-le pour une couronne '
-  - type: note
-    content: 2 Ti 4:8. 1 Pi 1:4; 5:4.
-  - type: text
-    content: 'incorruptible. '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Ti 2:4
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Tous ceux qui combattent s’imposent toute espèce d’abstinences, et ils le font pour obtenir une couronne corruptible; mais nous, faisons-le pour une couronne '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Ti 4:8
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Pi 1:4
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 5:4
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'incorruptible. '
   '26':
-  - type: text
-    content: 'Moi donc, je cours, non pas comme à l’aventure; je frappe, non pas comme battant l’air. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Moi donc, je cours, non pas comme à l’aventure; je frappe, non pas comme battant l’air. '
   '27':
-  - type: text
-    content: Mais je traite durement mon corps et je le tiens assujetti, de peur d’être moi-même rejeté, après avoir prêché aux autres.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Mais je traite durement mon corps et je le tiens assujetti, de peur d’être moi-même rejeté, après avoir prêché aux autres.
   '3':
-  - type: text
-    content: 'C’est là ma défense contre ceux qui m’accusent. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'C’est là ma défense contre ceux qui m’accusent. '
   '4':
-  - type: note
-    content: 1 Co 9:14. 1 Th 2:6. 2 Th 3:9.
-  - type: text
-    content: 'N’avons-nous pas le droit de manger et de boire? '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Co 9:14
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Th 2:6
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Th 3:9
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'N’avons-nous pas le droit de manger et de boire? '
   '5':
-  - type: text
-    content: 'N’avons-nous pas le droit de mener avec nous une sœur qui soit notre femme, comme font les autres apôtres, et les frères du Seigneur, et '
-  - type: note
-    content: Mt 8:14.
-  - type: text
-    content: 'Céphas? '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'N’avons-nous pas le droit de mener avec nous une sœur qui soit notre femme, comme font les autres apôtres, et les frères du Seigneur, et '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Mt 8:14
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Céphas? '
   '6':
-  - type: text
-    content: 'Ou bien, est-ce que moi seul et Barnabas nous n’avons pas le droit de ne point travailler? '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ou bien, est-ce que moi seul et Barnabas nous n’avons pas le droit de ne point travailler? '
   '7':
-  - type: note
-    content: 2 Co 10:4.
-  - type: text
-    content: 'Qui jamais fait le service militaire à ses propres frais? '
-  - type: note
-    content: 1 Co 3:6, 7, 8.
-  - type: text
-    content: 'Qui est-ce qui plante une vigne, et n’en mange pas le fruit? '
-  - type: note
-    content: Jn 21:15. 1 Pi 5:2.
-  - type: text
-    content: 'Qui est-ce qui fait paître un troupeau, et ne se nourrit pas du lait du troupeau? '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Co 10:4
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Qui jamais fait le service militaire à ses propres frais? '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Co 3:6
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '7'
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '8'
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Qui est-ce qui plante une vigne, et n’en mange pas le fruit? '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jn 21:15
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Pi 5:2
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Qui est-ce qui fait paître un troupeau, et ne se nourrit pas du lait du troupeau? '
   '8':
-  - type: text
-    content: 'Ces choses que je dis, n’existent-elles que dans les usages des hommes? La loi ne les dit-elle pas aussi? '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ces choses que je dis, n’existent-elles que dans les usages des hommes? La loi ne les dit-elle pas aussi? '
   '9':
-  - type: text
-    content: 'Car il est écrit dans la loi de Moïse: '
-  - type: note
-    content: De 25:4. 1 Ti 5:18.
-  - type: text
-    content: 'Tu n’emmuselleras point le bœuf quand il foule le grain. Dieu se met-il en peine des bœufs, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Car il est écrit dans la loi de Moïse: '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: De 25:4
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Ti 5:18
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Tu n’emmuselleras point le bœuf quand il foule le grain. Dieu se met-il en peine des bœufs, '

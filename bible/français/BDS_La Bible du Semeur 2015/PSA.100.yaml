@@ -2,43 +2,115 @@ document_id: PSA.100,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: L’Eternel est célébré par son peuple
-  - type: text
-    content: Psaume pour remercier Dieu.
-  - type: text
-    content: Acclame l’Eternel,
-  - type: text
-    content: ô terre tout entière !
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: L’Eternel est célébré par son peuple
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: Psaume pour remercier Dieu.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Acclame l’Eternel,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ô terre tout entière !
   '2':
-  - type: text
-    content: Servez l’Eternel avec joie !
-  - type: text
-    content: Entrez en sa présence ╵avec des chants joyeux !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Servez l’Eternel avec joie !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Entrez en sa présence ╵avec des chants joyeux !
   '3':
-  - type: text
-    content: Sachez que c’est l’Eternel qui est Dieu !
-  - type: text
-    content: C’est lui qui nous a faits, ╵nous lui appartenons
-  - type: note
-    content: 'D’après les indications de lecture des copistes, en marge du texte, et des versions anciennes. L’hébreu a, dans le texte : et non pas nous-mêmes.'
-  - type: text
-    content: ','
-  - type: text
-    content: et nous sommes son peuple, ╵le troupeau qu’il fait paître.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Sachez que c’est l’Eternel qui est Dieu !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: C’est lui qui nous a faits, ╵nous lui appartenons
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '100.3 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'D’après les indications de lecture des copistes, en marge du texte, et des versions anciennes. L’hébreu a, dans le texte : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: et non pas nous-mêmes.
+      marker-yv: yv-n
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et nous sommes son peuple, ╵le troupeau qu’il fait paître.
   '4':
-  - type: text
-    content: Avancez par ses portes ╵avec reconnaissance !
-  - type: text
-    content: Entrez dans ses parvis ╵en chantant ses louanges !
-  - type: text
-    content: Rendez-lui votre hommage ╵bénissez-le.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Avancez par ses portes ╵avec reconnaissance !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Entrez dans ses parvis ╵en chantant ses louanges !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Rendez-lui votre hommage ╵bénissez-le.
   '5':
-  - type: text
-    content: Car l’Eternel est bon, ╵car son amour dure à toujours
-  - type: text
-    content: et sa fidélité ╵s’étendra d’âge en âge
-  - type: note
-    content: Voir 106.1 ; 107.1 ; 118.1, 29 ; 136 ; 1 Ch 16.34 ; 2 Ch 5.13 ; 7.3 ; Esd 3.11 ; Jr 33.11.
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Car l’Eternel est bon, ╵car son amour dure à toujours
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et sa fidélité ╵s’étendra d’âge en âge
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '100.5 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Voir 106.1 ; 107.1 ; 118.1, 29 ; 136 ; 1 Ch 16.34 ; 2 Ch 5.13 ; 7.3 ; Esd 3.11 ; Jr 33.11.
+      marker-yv: yv-n
+    - type: text
+      text: .

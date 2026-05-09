@@ -2,291 +2,1309 @@ document_id: AMO.4,59
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: '“Hear this word, '
-  - type: note
-    content: Ps. 22:12
-  - type: text
-    content: you cows of Bashan,
-  - type: text
-    content: 'who are '
-  - type: note
-    content: ch. 3:9; 6:1
-  - type: text
-    content: on the mountain of Samaria,
-  - type: note
-    content: Hos. 5:11
-  - type: text
-    content: 'who oppress the poor, '
-  - type: note
-    content: Hos. 5:11
-  - type: text
-    content: who crush the needy,
-  - type: text
-    content: who say to your husbands, ‘Bring, that we may drink!’
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: '“Hear this word, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 22:12
+      marker-yv: yv-n
+    - type: text
+      text: you cows of Bashan,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'who are '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 3:9
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 6:1
+      marker-yv: yv-n
+    - type: text
+      text: on the mountain of Samaria,
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Hos. 5:11
+      marker-yv: yv-n
+    - type: text
+      text: 'who oppress the poor, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Hos. 5:11
+      marker-yv: yv-n
+    - type: text
+      text: who crush the needy,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: who say to your husbands, ‘Bring, that we may drink!’
   '10':
-  - type: text
-    content: '“I sent among you a pestilence '
-  - type: note
-    content: Deut. 28:27, 60; [Ex. 12:29; Ps. 78:50; Isa. 10:24, 26]
-  - type: text
-    content: after the manner of Egypt;
-  - type: text
-    content: I killed your young men with the sword,
-  - type: text
-    content: 'and '
-  - type: note
-    content: 2 Kgs. 13:7
-  - type: text
-    content: carried away your horses,
-  - type: note
-    content: Hebrew along with the captivity of your horses
-  - type: text
-    content: 'and '
-  - type: note
-    content: '[Joel 2:20]'
-  - type: text
-    content: I made the stench of your camp go up into your nostrils;
-  - type: note
-    content: '[See ver. 6 above]'
-  - type: text
-    content: yet you did not return to me,”
-  - type: text
-    content: 'declares the '
-  - type: text
-    content: Lord
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: '“I sent among you a pestilence '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Deut. 28:27
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '60'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ex. 12:29
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 78:50
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 10:24
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '26'
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: after the manner of Egypt;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: I killed your young men with the sword,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Kgs. 13:7
+      marker-yv: yv-n
+    - type: text
+      text: carried away your horses,
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '4:10 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: along with the captivity of your horses
+      marker-yv: yv-n
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Joel 2:20
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: I made the stench of your camp go up into your nostrils;
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[See ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '6'
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: above]
+      marker-yv: yv-n
+    - type: text
+      text: yet you did not return to me,”
+  - type: usfm
+    marker: qr
+    children:
+    - type: text
+      text: 'declares the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: .
   '11':
-  - type: text
-    content: “I overthrew some of you,
-  - type: note
-    content: '[ Isa. 13:19 ]'
-  - type: text
-    content: as when God overthrew Sodom and Gomorrah,
-  - type: text
-    content: 'and you were '
-  - type: note
-    content: Zech. 3:2; [Jude 23]
-  - type: text
-    content: as a brand
-  - type: note
-    content: That is, a burning stick
-  - type: text
-    content: ' plucked out of the burning;'
-  - type: note
-    content: '[See ver. 6 above]'
-  - type: text
-    content: yet you did not return to me,”
-  - type: text
-    content: 'declares the '
-  - type: text
-    content: Lord
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: “I overthrew some of you,
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 13:19
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: as when God overthrew Sodom and Gomorrah,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and you were '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Zech. 3:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jude 23
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: as a brand
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '4:11 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: That is, a burning stick
+      marker-yv: yv-n
+    - type: text
+      text: ' plucked out of the burning;'
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[See ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '6'
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: above]
+      marker-yv: yv-n
+    - type: text
+      text: yet you did not return to me,”
+  - type: usfm
+    marker: qr
+    children:
+    - type: text
+      text: 'declares the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: .
   '12':
-  - type: text
-    content: “Therefore thus I will do to you, O Israel;
-  - type: text
-    content: because I will do this to you,
-  - type: text
-    content: prepare to meet your God, O Israel!”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: “Therefore thus I will do to you, O Israel;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: because I will do this to you,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: prepare to meet your God, O Israel!”
   '13':
-  - type: text
-    content: 'For behold, '
-  - type: note
-    content: '[Ps. 102:25]'
-  - type: text
-    content: he who forms the mountains and creates the wind,
-  - type: text
-    content: 'and '
-  - type: note
-    content: '[Ps. 139:2]'
-  - type: text
-    content: declares to man what is his thought,
-  - type: note
-    content: '[ch. 5:8; 8:9 ]'
-  - type: text
-    content: who makes the morning darkness,
-  - type: text
-    content: 'and '
-  - type: note
-    content: Isa. 58:14; Mic. 1:3
-  - type: text
-    content: treads on the heights of the earth—
-  - type: note
-    content: ch. 3:13; 5:8; 9:6; See Jer. 10:16
-  - type: text
-    content: 'the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', the God of hosts, is his name!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'For behold, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 102:25
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: he who forms the mountains and creates the wind,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 139:2
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: declares to man what is his thought,
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 5:8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 8:9
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: who makes the morning darkness,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 58:14
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Mic. 1:3
+      marker-yv: yv-n
+    - type: text
+      text: treads on the heights of the earth—
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 3:13
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 5:8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 9:6
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 10:16
+      marker-yv: yv-n
+    - type: text
+      text: 'the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', the God of hosts, is his name!'
   '2':
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps. 89:35
-  - type: text
-    content: 'The Lord '
-  - type: text
-    content: God
-  - type: text
-    content: ' has sworn by his holiness'
-  - type: text
-    content: that, behold, the days are coming upon you,
-  - type: note
-    content: '[ Jer. 16:16; Hab. 1:15 ]; See 2 Kgs. 19:28'
-  - type: text
-    content: when they shall take you away with hooks,
-  - type: note
-    content: '[ Jer. 16:16; Hab. 1:15 ]; See 2 Kgs. 19:28'
-  - type: text
-    content: even the last of you with fishhooks.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 89:35
+      marker-yv: yv-n
+    - type: text
+      text: 'The Lord '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ' has sworn by his holiness'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: that, behold, the days are coming upon you,
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 16:16
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Hab. 1:15
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Kgs. 19:28
+      marker-yv: yv-n
+    - type: text
+      text: when they shall take you away with hooks,
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 16:16
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Hab. 1:15
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Kgs. 19:28
+      marker-yv: yv-n
+    - type: text
+      text: even the last of you with fishhooks.
   '3':
-  - type: text
-    content: ' '
-  - type: note
-    content: '[ Ezek. 12:5, 12 ]'
-  - type: text
-    content: And you shall go out through the breaches,
-  - type: text
-    content: each one straight ahead;
-  - type: text
-    content: and you shall be cast out into Harmon,”
-  - type: text
-    content: 'declares the '
-  - type: text
-    content: Lord
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ezek. 12:5
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '12'
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: And you shall go out through the breaches,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: each one straight ahead;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and you shall be cast out into Harmon,”
+  - type: usfm
+    marker: qr
+    children:
+    - type: text
+      text: 'declares the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: .
   '4':
-  - type: text
-    content: ' '
-  - type: note
-    content: '[ch. 5:5; Ezek. 20:39; Matt. 23:32 ]'
-  - type: text
-    content: “Come to Bethel, and transgress;
-  - type: text
-    content: 'to '
-  - type: note
-    content: '[ch. 5:5; Hos. 4:15; 9:15; 12:11]'
-  - type: text
-    content: Gilgal, and multiply transgression;
-  - type: note
-    content: '[ch. 5:5; Ezek. 20:39; Matt. 23:32 ]'
-  - type: text
-    content: 'bring your '
-  - type: note
-    content: Num. 28:3, 4; [Jer. 7:21]
-  - type: text
-    content: sacrifices every morning,
-  - type: text
-    content: your tithes every three days;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 5:5
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ezek. 20:39
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 23:32
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: “Come to Bethel, and transgress;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'to '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 5:5
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Hos. 4:15
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 9:15
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 12:11
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: Gilgal, and multiply transgression;
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 5:5
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ezek. 20:39
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 23:32
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'bring your '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Num. 28:3
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '4'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 7:21
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: sacrifices every morning,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: your tithes every three days;
   '5':
-  - type: text
-    content: 'offer a sacrifice of thanksgiving of '
-  - type: note
-    content: Lev. 7:13
-  - type: text
-    content: that which is leavened,
-  - type: text
-    content: 'and proclaim '
-  - type: note
-    content: Ex. 35:29; Lev. 22:18, 21; Deut. 12:6
-  - type: text
-    content: freewill offerings, publish them;
-  - type: note
-    content: '[ Ps. 81:11, 12 ]'
-  - type: text
-    content: for so you love to do, O people of Israel!”
-  - type: text
-    content: 'declares the Lord '
-  - type: text
-    content: God
-  - type: text
-    content: .
-  - type: heading
-    content: Israel Has Not Returned to the Lord
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'offer a sacrifice of thanksgiving of '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Lev. 7:13
+      marker-yv: yv-n
+    - type: text
+      text: that which is leavened,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and proclaim '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ex. 35:29
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Lev. 22:18
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '21'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Deut. 12:6
+      marker-yv: yv-n
+    - type: text
+      text: freewill offerings, publish them;
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 81:11
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '12'
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: for so you love to do, O people of Israel!”
+  - type: usfm
+    marker: qr
+    children:
+    - type: text
+      text: 'declares the Lord '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: .
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: 'Israel Has Not Returned to the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    marker-yv: yv-h
   '6':
-  - type: text
-    content: “I gave you cleanness of teeth in all your cities,
-  - type: text
-    content: 'and '
-  - type: note
-    content: '[Deut. 28:57; Lam. 2:12]'
-  - type: text
-    content: lack of bread in all your places,
-  - type: note
-    content: Jer. 15:7; Hag. 2:17
-  - type: text
-    content: yet you did not return to me,”
-  - type: text
-    content: 'declares the '
-  - type: text
-    content: Lord
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: “I gave you cleanness of teeth in all your cities,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Deut. 28:57
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Lam. 2:12
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: lack of bread in all your places,
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 15:7
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Hag. 2:17
+      marker-yv: yv-n
+    - type: text
+      text: yet you did not return to me,”
+  - type: usfm
+    marker: qr
+    children:
+    - type: text
+      text: 'declares the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: .
   '7':
-  - type: text
-    content: '“I also '
-  - type: note
-    content: Jer. 3:3; [Joel 2:23]
-  - type: text
-    content: withheld the rain from you
-  - type: text
-    content: when there were yet three months to the harvest;
-  - type: note
-    content: '[ Ex. 9:26 ]'
-  - type: text
-    content: I would send rain on one city,
-  - type: text
-    content: and send no rain on another city;
-  - type: text
-    content: one field would have rain,
-  - type: text
-    content: and the field on which it did not rain would wither;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: '“I also '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 3:3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Joel 2:23
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: withheld the rain from you
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: when there were yet three months to the harvest;
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ex. 9:26
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: I would send rain on one city,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and send no rain on another city;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: one field would have rain,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and the field on which it did not rain would wither;
   '8':
-  - type: text
-    content: 'so two or three cities '
-  - type: note
-    content: '[ch. 8:12]'
-  - type: text
-    content: would wander to another city
-  - type: text
-    content: to drink water, and would not be satisfied;
-  - type: note
-    content: '[See ver. 6 above]'
-  - type: text
-    content: yet you did not return to me,”
-  - type: text
-    content: 'declares the '
-  - type: text
-    content: Lord
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'so two or three cities '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 8:12
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: would wander to another city
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: to drink water, and would not be satisfied;
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[See ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '6'
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: above]
+      marker-yv: yv-n
+    - type: text
+      text: yet you did not return to me,”
+  - type: usfm
+    marker: qr
+    children:
+    - type: text
+      text: 'declares the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: .
   '9':
-  - type: text
-    content: ' '
-  - type: note
-    content: Deut. 28:22; Hag. 2:17
-  - type: text
-    content: “I struck you with blight and mildew;
-  - type: text
-    content: your many gardens and your vineyards,
-  - type: text
-    content: 'your fig trees and your olive trees '
-  - type: note
-    content: Joel 1:4
-  - type: text
-    content: the locust devoured;
-  - type: note
-    content: '[See ver. 6 above]'
-  - type: text
-    content: yet you did not return to me,”
-  - type: text
-    content: 'declares the '
-  - type: text
-    content: Lord
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Deut. 28:22
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Hag. 2:17
+      marker-yv: yv-n
+    - type: text
+      text: “I struck you with blight and mildew;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: your many gardens and your vineyards,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'your fig trees and your olive trees '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Joel 1:4
+      marker-yv: yv-n
+    - type: text
+      text: the locust devoured;
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[See ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '6'
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: above]
+      marker-yv: yv-n
+    - type: text
+      text: yet you did not return to me,”
+  - type: usfm
+    marker: qr
+    children:
+    - type: text
+      text: 'declares the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: .

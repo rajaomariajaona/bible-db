@@ -2,167 +2,331 @@ document_id: REV.2,4410
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Chapitre 2
-  - type: heading
-    content: Message de Jésus aux croyants d’Éphèse
-  - type: text
-    content: Maintenant, écris ceci à l’
-  - type: text
-    content: ange
-  - type: text
-    content: ' de l’Église d’Éphèse :'
-  - type: text
-    content: 'Voici le message important que celui qui détient les 7 étoiles t’adresse. Il les tient soigneusement dans sa main droite. Il marche parmi les 7 '
-  - type: text
-    content: chandeliers
-  - type: text
-    content: ' d’or.'
+  - type: usfm
+    marker: cl
+    children:
+    - type: text
+      text: Chapitre 2
+    marker-yv: yv-h
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Message de Jésus aux croyants d’Éphèse
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Maintenant, écris ceci à l’
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: ange
+    - type: text
+      text: ' de l’Église d’Éphèse :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Voici le message important que celui qui détient les 7 étoiles t’adresse. Il les tient soigneusement dans sa main droite. Il marche parmi les 7 '
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: chandeliers
+    - type: text
+      text: ' d’or.'
   '10':
-  - type: text
-    content: 'Je sais que tu auras des souffrances bientôt. Mais n’aie pas peur. Ecoute ! Le '
-  - type: text
-    content: diable
-  - type: text
-    content: ' fera que certains d’entre vous aillent en prison. Il veut voir si vous continuerez à croire en moi. Par conséquent, vous aurez des souffrances pendant 10 jours. Mais continue à croire en moi, même si tu dois mourir. Ensuite, tu gagneras contre le '
-  - type: text
-    content: diable
-  - type: text
-    content: . Je vais te donner un cadeau, comme on donne une couronne au vainqueur d’une course. Je te ferai vivre avec moi toujours.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Je sais que tu auras des souffrances bientôt. Mais n’aie pas peur. Ecoute ! Le '
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: diable
+    - type: text
+      text: ' fera que certains d’entre vous aillent en prison. Il veut voir si vous continuerez à croire en moi. Par conséquent, vous aurez des souffrances pendant 10 jours. Mais continue à croire en moi, même si tu dois mourir. Ensuite, tu gagneras contre le '
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: diable
+    - type: text
+      text: . Je vais te donner un cadeau, comme on donne une couronne au vainqueur d’une course. Je te ferai vivre avec moi toujours.
   '11':
-  - type: text
-    content: L’
-  - type: text
-    content: Esprit
-  - type: text
-    content: ' de Dieu vous parle dans les Églises. Vous avez des oreilles, écoutez donc attentivement. La seconde mort ne touchera personne qui gagne contre Satan.'
-  - type: heading
-    content: Message de Jésus aux croyants de Pergame
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: L’
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: Esprit
+    - type: text
+      text: ' de Dieu vous parle dans les Églises. Vous avez des oreilles, écoutez donc attentivement. La seconde mort ne touchera personne qui gagne contre Satan.'
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Message de Jésus aux croyants de Pergame
+    marker-yv: yv-h
   '12':
-  - type: text
-    content: Ecris ceci à l’
-  - type: text
-    content: ange
-  - type: text
-    content: ' de l’Église de Pergame :'
-  - type: text
-    content: Voici le message important que celui qui a l’épée aiguë à 2 tranchants t’envoie.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Ecris ceci à l’
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: ange
+    - type: text
+      text: ' de l’Église de Pergame :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Voici le message important que celui qui a l’épée aiguë à 2 tranchants t’envoie.
   '13':
-  - type: text
-    content: Je sais où tu vis. C’est l’endroit où Satan habite comme roi. Mais tu continues toujours à me faire confiance. Tu te souviens d’Antipas qui a parlé clairement de moi. À cause de cela, certaines personnes de votre ville l’ont tué. Tu as vu ce qui lui est arrivé, mais tu as continué à croire en moi. Tu me sers toujours, même là où Satan habite.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Je sais où tu vis. C’est l’endroit où Satan habite comme roi. Mais tu continues toujours à me faire confiance. Tu te souviens d’Antipas qui a parlé clairement de moi. À cause de cela, certaines personnes de votre ville l’ont tué. Tu as vu ce qui lui est arrivé, mais tu as continué à croire en moi. Tu me sers toujours, même là où Satan habite.
   '14':
-  - type: text
-    content: 'Mais j’ai quelque chose à dire contre toi. Certaines personnes parmi vous acceptent ce que Balaam a enseigné, il y a longtemps. Il a appris à Balak à faire une mauvaise chose contre le peuple de Dieu. Balak a amené le peuple '
-  - type: text
-    content: israélite
-  - type: text
-    content: ' à faire de mauvaises choses. Par conséquent, ils ont mangé de la nourriture que les gens avaient donnée aux idoles. Ils ont également couché avec des personnes qui n’étaient ni leurs maris ni leurs femmes. '
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Mais j’ai quelque chose à dire contre toi. Certaines personnes parmi vous acceptent ce que Balaam a enseigné, il y a longtemps. Il a appris à Balak à faire une mauvaise chose contre le peuple de Dieu. Balak a amené le peuple '
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: israélite
+    - type: text
+      text: ' à faire de mauvaises choses. Par conséquent, ils ont mangé de la nourriture que les gens avaient donnée aux idoles. Ils ont également couché avec des personnes qui n’étaient ni leurs maris ni leurs femmes. '
   '15':
-  - type: text
-    content: 'En plus, certains parmi vous font les mauvaises choses que les Nicolaïtes enseignent. '
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'En plus, certains parmi vous font les mauvaises choses que les Nicolaïtes enseignent. '
   '16':
-  - type: text
-    content: Tu dois donc laisser de faire ces mauvaises choses. Si tu ne changes pas ta façon de vivre, je vais vite te punir. Je vais lutter contre ces méchants avec mon épée aiguë qui sort de ma bouche.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Tu dois donc laisser de faire ces mauvaises choses. Si tu ne changes pas ta façon de vivre, je vais vite te punir. Je vais lutter contre ces méchants avec mon épée aiguë qui sort de ma bouche.
   '17':
-  - type: text
-    content: L’
-  - type: text
-    content: Esprit
-  - type: text
-    content: ' de Dieu vous parle dans les Églises. Vous avez des oreilles, écoutez‑le donc attentivement. Je donnerai ces choses à tous ceux qui gagneront : une partie de ma nourriture spéciale appelée manne. Je donnerai aussi un caillou blanc à chacun d’eux. J’écrirai un nouveau nom sur cette pierre. Personne ne connaîtra ce nom, sauf la personne qui le reçoit.'
-  - type: heading
-    content: Message de Jésus aux croyants de Thyatire
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: L’
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: Esprit
+    - type: text
+      text: ' de Dieu vous parle dans les Églises. Vous avez des oreilles, écoutez‑le donc attentivement. Je donnerai ces choses à tous ceux qui gagneront : une partie de ma nourriture spéciale appelée manne. Je donnerai aussi un caillou blanc à chacun d’eux. J’écrirai un nouveau nom sur cette pierre. Personne ne connaîtra ce nom, sauf la personne qui le reçoit.'
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Message de Jésus aux croyants de Thyatire
+    marker-yv: yv-h
   '18':
-  - type: text
-    content: Ecris ceci à l’
-  - type: text
-    content: ange
-  - type: text
-    content: ' de l’Église de Thyatire :'
-  - type: text
-    content: Voici le message important que le Fils de Dieu t’envoie. Il a des yeux qui brûlent brillamment comme des feux. Ses pieds brillent comme du métal jaune vif.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Ecris ceci à l’
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: ange
+    - type: text
+      text: ' de l’Église de Thyatire :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Voici le message important que le Fils de Dieu t’envoie. Il a des yeux qui brûlent brillamment comme des feux. Ses pieds brillent comme du métal jaune vif.
   '19':
-  - type: text
-    content: Je sais tout ce que tu fais. Je sais que tu m’aimes beaucoup. Je sais que tu crois en moi. Je sais que tu continues à bien me servir. Tu es patient et fort. Tu fais ces bonnes choses maintenant plus qu’au début.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Je sais tout ce que tu fais. Je sais que tu m’aimes beaucoup. Je sais que tu crois en moi. Je sais que tu continues à bien me servir. Tu es patient et fort. Tu fais ces bonnes choses maintenant plus qu’au début.
   '2':
-  - type: text
-    content: 'Je sais tout ce que tu fais. Tu as beaucoup travaillé pour moi. Tu as continué à travailler patiemment. Je sais que tu n’acceptes pas les mauvaises personnes comme tes amies. Certains de ces méchants disent qu’ils sont des '
-  - type: text
-    content: apôtres
-  - type: text
-    content: ' de Jésus. Tu as bien réfléchi à ce qu’ils enseignent aux gens. Et tu as découvert que ce n’est pas vrai. '
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Je sais tout ce que tu fais. Tu as beaucoup travaillé pour moi. Tu as continué à travailler patiemment. Je sais que tu n’acceptes pas les mauvaises personnes comme tes amies. Certains de ces méchants disent qu’ils sont des '
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: apôtres
+    - type: text
+      text: ' de Jésus. Tu as bien réfléchi à ce qu’ils enseignent aux gens. Et tu as découvert que ce n’est pas vrai. '
   '20':
-  - type: text
-    content: 'Mais j’ai quelque chose à dire contre toi. Tu laisses cette femme Jézabel t’enseigner. Elle dit qu’elle est une prophétesse de Dieu. Mais elle conduit mes serviteurs dans de mauvaises voies. Elle leur apprend à avoir des relations sexuelles avec de nombreuses personnes. Et elle leur apprend à manger les aliments que les gens ont donnés aux idoles. '
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Mais j’ai quelque chose à dire contre toi. Tu laisses cette femme Jézabel t’enseigner. Elle dit qu’elle est une prophétesse de Dieu. Mais elle conduit mes serviteurs dans de mauvaises voies. Elle leur apprend à avoir des relations sexuelles avec de nombreuses personnes. Et elle leur apprend à manger les aliments que les gens ont donnés aux idoles. '
   '21':
-  - type: text
-    content: 'Je lui ai donné le temps d’arrêter de faire ces mauvaises choses. Mais elle refuse de changer sa façon de vivre. Elle n’arrête pas d’avoir de relations sexuelles avec d’autres hommes. '
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Je lui ai donné le temps d’arrêter de faire ces mauvaises choses. Mais elle refuse de changer sa façon de vivre. Elle n’arrête pas d’avoir de relations sexuelles avec d’autres hommes. '
   '22':
-  - type: text
-    content: 'Écoute ça ! Elle a fait de mauvaises choses comme cela sur un lit. Je vais donc lui faire mal au lit. Je causerai également une grande douleur à ceux qui font les mêmes mauvaises choses. Ils doivent cesser de faire les mauvaises choses qu’elle enseigne. '
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Écoute ça ! Elle a fait de mauvaises choses comme cela sur un lit. Je vais donc lui faire mal au lit. Je causerai également une grande douleur à ceux qui font les mêmes mauvaises choses. Ils doivent cesser de faire les mauvaises choses qu’elle enseigne. '
   '23':
-  - type: text
-    content: Je ferai du mal à ceux qui lui obéissent, afin qu’ils meurent. Alors tous les gens dans les Églises sauront que je regarde dans leurs cœurs. Je sais ce que vous voulez vraiment. Je sais vraiment vos pensées. Je donnerai à chacun de vous ce qui lui convient, suite à ce que vous avez fait.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Je ferai du mal à ceux qui lui obéissent, afin qu’ils meurent. Alors tous les gens dans les Églises sauront que je regarde dans leurs cœurs. Je sais ce que vous voulez vraiment. Je sais vraiment vos pensées. Je donnerai à chacun de vous ce qui lui convient, suite à ce que vous avez fait.
   '24':
-  - type: text
-    content: 'Mais je dis à d’autres personnes à Thyatire. Vous n’avez pas accepté ce que Jézabel a enseigné. Vous n’avez pas appris ce qu’ils appellent les secrets profonds de Satan. Alors, je vous dis ceci : Je ne vous dirai pas d’obéir à d’autres règles difficiles. '
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Mais je dis à d’autres personnes à Thyatire. Vous n’avez pas accepté ce que Jézabel a enseigné. Vous n’avez pas appris ce qu’ils appellent les secrets profonds de Satan. Alors, je vous dis ceci : Je ne vous dirai pas d’obéir à d’autres règles difficiles. '
   '25':
-  - type: text
-    content: Mais continuez à obéir à mon message que vous avez déjà. Croyez en moi jusqu’à ce que je vienne.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mais continuez à obéir à mon message que vous avez déjà. Croyez en moi jusqu’à ce que je vienne.
   '26':
-  - type: text
-    content: 'Vous devez continuer à m’obéir jusqu’à la fin. Vous devez gagner contre Satan. Je donnerai un grand pouvoir à quiconque le fera. Il dirigera les pays du monde. '
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Vous devez continuer à m’obéir jusqu’à la fin. Vous devez gagner contre Satan. Je donnerai un grand pouvoir à quiconque le fera. Il dirigera les pays du monde. '
   '27':
-  - type: text
-    content: 'Il les gouvernera avec un bâton de fer et avec une grande puissance. Il sera comme quelqu’un qui brise les pots en terre battue en plusieurs morceaux. '
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Il les gouvernera avec un bâton de fer et avec une grande puissance. Il sera comme quelqu’un qui brise les pots en terre battue en plusieurs morceaux. '
   '28':
-  - type: text
-    content: 'Il aura le même pouvoir que celui que j’ai reçu de mon Père. Je donnerai également l’étoile du matin à ceux qui gagneront contre Satan. '
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Il aura le même pouvoir que celui que j’ai reçu de mon Père. Je donnerai également l’étoile du matin à ceux qui gagneront contre Satan. '
   '29':
-  - type: text
-    content: L’
-  - type: text
-    content: Esprit
-  - type: text
-    content: ' de Dieu vous parle dans les Églises. Vous avez des oreilles, écoutez‑le donc attentivement.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: L’
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: Esprit
+    - type: text
+      text: ' de Dieu vous parle dans les Églises. Vous avez des oreilles, écoutez‑le donc attentivement.'
   '3':
-  - type: text
-    content: 'Tu as été patient et fort dans les moments difficiles. Tu as continué à me servir, parce que tu crois en moi. Tu n’étais pas fatigué (de continuer à me servir). '
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Tu as été patient et fort dans les moments difficiles. Tu as continué à me servir, parce que tu crois en moi. Tu n’étais pas fatigué (de continuer à me servir). '
   '4':
-  - type: text
-    content: Mais j’ai quelque chose à dire contre toi. Tu m’aimais beaucoup quand tu as cru en moi. Tu ne m’aimes plus maintenant comme avant.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mais j’ai quelque chose à dire contre toi. Tu m’aimais beaucoup quand tu as cru en moi. Tu ne m’aimes plus maintenant comme avant.
   '5':
-  - type: text
-    content: 'Réfléchis bien à cela ! Tu ne vis pas maintenant comme tu le faisais au début. Tu dois donc changer ta façon de vivre. Fais à nouveau les bonnes choses que tu faisais au début. Si tu ne changes pas ta façon de vivre, je viendrai te punir. Je retirerai ton '
-  - type: text
-    content: chandelier
-  - type: text
-    content: ' de sa place. '
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Réfléchis bien à cela ! Tu ne vis pas maintenant comme tu le faisais au début. Tu dois donc changer ta façon de vivre. Fais à nouveau les bonnes choses que tu faisais au début. Si tu ne changes pas ta façon de vivre, je viendrai te punir. Je retirerai ton '
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: chandelier
+    - type: text
+      text: ' de sa place. '
   '6':
-  - type: text
-    content: 'Mais il y a quelque chose que tu fais bien : Tu détestes les mauvaises choses que les Nicolaïtes font. Je déteste aussi ce qu’ils font.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Mais il y a quelque chose que tu fais bien : Tu détestes les mauvaises choses que les Nicolaïtes font. Je déteste aussi ce qu’ils font.'
   '7':
-  - type: text
-    content: L’
-  - type: text
-    content: Esprit
-  - type: text
-    content: ' de Dieu vous parle dans les Églises. Vous avez des oreilles, écoutez donc attentivement. Je laisserai tous ceux qui gagneront contre Satan manger mon fruit. Ce fruit provient de l’arbre qui nous fait vivre. Et cet arbre pousse dans le Paradis de Dieu.'
-  - type: heading
-    content: Message de Jésus aux croyants de Smyrne
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: L’
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: Esprit
+    - type: text
+      text: ' de Dieu vous parle dans les Églises. Vous avez des oreilles, écoutez donc attentivement. Je laisserai tous ceux qui gagneront contre Satan manger mon fruit. Ce fruit provient de l’arbre qui nous fait vivre. Et cet arbre pousse dans le Paradis de Dieu.'
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Message de Jésus aux croyants de Smyrne
+    marker-yv: yv-h
   '8':
-  - type: text
-    content: Ecris ceci à l’
-  - type: text
-    content: ange
-  - type: text
-    content: ' de l’Église de Smyrne :'
-  - type: text
-    content: Voici le message important que celui qui est le premier et le dernier t’adresse. Il était mort et il est redevenu vivant.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Ecris ceci à l’
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: ange
+    - type: text
+      text: ' de l’Église de Smyrne :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Voici le message important que celui qui est le premier et le dernier t’adresse. Il était mort et il est redevenu vivant.
   '9':
-  - type: text
-    content: 'Je sais que les mauvaises personnes te font beaucoup de mal. Je sais que tu es pauvre. Mais vraiment, tu es riche. Certains disent qu’ils sont '
-  - type: text
-    content: juifs
-  - type: text
-    content: '. Mais je sais qu’ils disent de mauvaises choses sur toi. Et je sais que ces choses ne sont pas vraies. Ce ne sont donc pas vraiment mes gens qui m’obéissent. Ils sont vraiment un groupe de gens de Satan. '
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Je sais que les mauvaises personnes te font beaucoup de mal. Je sais que tu es pauvre. Mais vraiment, tu es riche. Certains disent qu’ils sont '
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: juifs
+    - type: text
+      text: '. Mais je sais qu’ils disent de mauvaises choses sur toi. Et je sais que ces choses ne sont pas vraies. Ce ne sont donc pas vraiment mes gens qui m’obéissent. Ils sont vraiment un groupe de gens de Satan. '

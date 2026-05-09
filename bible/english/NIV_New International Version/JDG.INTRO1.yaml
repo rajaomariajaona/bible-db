@@ -2,7 +2,13 @@ document_id: JDG.INTRO1,111
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: Intro
-  - type: text
-    content: See the Invitation to Joshua and Judges[on p. Joshua 1:0].
+  - type: usfm
+    marker: imt1
+    children:
+    - type: text
+      text: Intro
+  - type: usfm
+    marker: im
+    children:
+    - type: text
+      text: See the Invitation to Joshua and Judges[on p. Joshua 1:0].

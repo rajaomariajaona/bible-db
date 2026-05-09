@@ -2,101 +2,246 @@ document_id: NEH.8,396
 type_code: plt
 verses:
   '1':
-  - type: text
-    content: Dia nivory toy ny olona iray ihany; teo amin’ny kianja anoloan’ny Vavahadin’ny Rano
-  - type: note
-    content: 'ny kianja... Rano: dia tokony ho teo atsimo-atsinanan’ny tempoly no nisy azy.'
-  - type: text
-    content: ' no nivoriany tamin’ny andro voalohan’io volana io. Nasain’ny vahoaka nalain’i Hezrà mpahay Lalàna ny bokin’ny Lalàn’i Mosesy, izay nandidian’ny TOMPO an’ireo Israelita. Dia nentin’i Hezrà mpisorona izany ho eo anatrehan’ny Fiangonana izay nahitana ny lehilahy sy ny vehivavy ary ny zaza rehetra efa mahahaino. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Dia nivory toy ny olona iray ihany; teo amin’ny kianja anoloan’ny Vavahadin’ny Rano
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '8.1 '
+      - type: usfm
+        marker: fk
+        children:
+        - type: text
+          text: 'ny kianja... Rano: '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: dia tokony ho teo atsimo-atsinanan’ny tempoly no nisy azy.
+      marker-yv: yv-n
+    - type: text
+      text: ' no nivoriany tamin’ny andro voalohan’io volana io. Nasain’ny vahoaka nalain’i Hezrà mpahay Lalàna ny bokin’ny Lalàn’i Mosesy, izay nandidian’ny TOMPO an’ireo Israelita. Dia nentin’i Hezrà mpisorona izany ho eo anatrehan’ny Fiangonana izay nahitana ny lehilahy sy ny vehivavy ary ny zaza rehetra efa mahahaino. '
   '10':
-  - type: text
-    content: 'Dia hoy indray i Hezrà tamin’ny vahoaka:'
-  - type: text
-    content: –Ndeha mody ka manaova sakafo tsara sy misotroa zava-pisotro mamy, ary mba anatero anjara izay tsy nahavoatra; satria voatokana ho an’ny Tompontsika ity andro ity. Koa aza malahelo, fa ny hafaliana avy amin’ny TOMPO no herinareo.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Dia hoy indray i Hezrà tamin’ny vahoaka:'
+  - type: usfm
+    marker: m
+    children:
+    - type: text
+      text: –Ndeha mody ka manaova sakafo tsara sy misotroa zava-pisotro mamy, ary mba anatero anjara izay tsy nahavoatra; satria voatokana ho an’ny Tompontsika ity andro ity. Koa aza malahelo, fa ny hafaliana avy amin’ny TOMPO no herinareo.
   '11':
-  - type: text
-    content: 'Nampangina ny vahoaka rehetra koa ny levita ka nanao hoe:'
-  - type: text
-    content: –Mangina ianareo fa voatokana ho an’Andriamanitra ity andro ity!
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Nampangina ny vahoaka rehetra koa ny levita ka nanao hoe:'
+  - type: usfm
+    marker: m
+    children:
+    - type: text
+      text: –Mangina ianareo fa voatokana ho an’Andriamanitra ity andro ity!
   '12':
-  - type: text
-    content: Dia nody izy rehetra mba hihinana sy hisotro ary hanatitra anjara ho an’ny sasany tsy manana ka nanao fifaliana lehibe. Azony tsara manko ny teny izay nampianarina azy.
-  - type: heading
-    content: Fankalazana ny Tranotomboka
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Dia nody izy rehetra mba hihinana sy hisotro ary hanatitra anjara ho an’ny sasany tsy manana ka nanao fifaliana lehibe. Azony tsara manko ny teny izay nampianarina azy.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Fankalazana ny Tranotomboka
+    marker-yv: yv-h
   '13':
-  - type: text
-    content: 'Ny andro manaraka, dia nivory teo amin’i Hezrà '
-  - type: text
-    content: mpahay lalàna
-  - type: text
-    content: ' ny loham-pianakaviana israelita rehetra sy ny '
-  - type: text
-    content: mpisorona
-  - type: text
-    content: ' ary ny '
-  - type: text
-    content: levita
-  - type: text
-    content: ' mba handinika bebe kokoa ny tenin’ny lalàna. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ny andro manaraka, dia nivory teo amin’i Hezrà '
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: mpahay lalàna
+    - type: text
+      text: ' ny loham-pianakaviana israelita rehetra sy ny '
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: mpisorona
+    - type: text
+      text: ' ary ny '
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: levita
+    - type: text
+      text: ' mba handinika bebe kokoa ny tenin’ny lalàna. '
   '14':
-  - type: text
-    content: 'Dia hitany voasoratra tao amin’io lalàna izay nampitain’ny TOMPO tamin’ny alalan’i Mosesy io, fa tokony hitoetra amina tranotomboka ny Israelita mandritra ny fankalazana ny Tranotomboka amin’ny volana fahafito. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Dia hitany voasoratra tao amin’io lalàna izay nampitain’ny TOMPO tamin’ny alalan’i Mosesy io, fa tokony hitoetra amina tranotomboka ny Israelita mandritra ny fankalazana ny Tranotomboka amin’ny volana fahafito. '
   '15':
-  - type: text
-    content: 'Izany fankalazana izany koa dia tokony hampandrenesina ny olona ka hanaovana antso avo mitety an’i Jerosalema sy ny tanàna rehetra: hasaina mandeha any an-tendrombohitra ny olona haka sampan’ôliva volena na maniry ho azy, sampan-drotra, sampan-drofia, ary sampan-kazo be ravina mba hanaovana tranotomboka.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Izany fankalazana izany koa dia tokony hampandrenesina ny olona ka hanaovana antso avo mitety an’i Jerosalema sy ny tanàna rehetra: hasaina mandeha any an-tendrombohitra ny olona haka sampan’ôliva volena na maniry ho azy, sampan-drotra, sampan-drofia, ary sampan-kazo be ravina mba hanaovana tranotomboka.'
   '16':
-  - type: text
-    content: 'Dia nandeha naka rantsan-kazo ny Israelita ka samy nanao tranotomboka ho azy teo an-tampon-tranony na teo an-tokotaniny na teo an-kianjan’ny '
-  - type: text
-    content: tranon’Andriamanitra
-  - type: text
-    content: ' na teo an-kalalahana akaikin’ny Vavahadin’ny Rano, na teo an-kalalahana akaikin’ny Vavahadin’i Efraîma. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Dia nandeha naka rantsan-kazo ny Israelita ka samy nanao tranotomboka ho azy teo an-tampon-tranony na teo an-tokotaniny na teo an-kianjan’ny '
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: tranon’Andriamanitra
+    - type: text
+      text: ' na teo an-kalalahana akaikin’ny Vavahadin’ny Rano, na teo an-kalalahana akaikin’ny Vavahadin’i Efraîma. '
   '17':
-  - type: text
-    content: 'Eny, nanao tranotomboka sy nipetraka tao anatiny avokoa ny Fiangonana tsivakivolo, dia ireo olona tafaverina avy any an-tsesitany. Ary nisy fifaliana lehibe tokoa tamin’izany, satria tsy mbola nanao toy izany ny Israelita hatramin’ny andron’i Jesoa no mankatỳ. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Eny, nanao tranotomboka sy nipetraka tao anatiny avokoa ny Fiangonana tsivakivolo, dia ireo olona tafaverina avy any an-tsesitany. Ary nisy fifaliana lehibe tokoa tamin’izany, satria tsy mbola nanao toy izany ny Israelita hatramin’ny andron’i Jesoa no mankatỳ. '
   '18':
-  - type: text
-    content: Isan’andro isan’andro, hatreo amin’ny andro voalohan’io fankalazana io ka hatrany amin’ny andro farany, dia novakîna ny teny tao amin’ny boky mirakitra ny lalànan’Andriamanitra. Naharitra fito andro ny fety; ary tamin’ny andro fahavalo dia nisy fanompoam-pivavahana famaranana nivorian’ny vahoaka, araka ny fanao.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Isan’andro isan’andro, hatreo amin’ny andro voalohan’io fankalazana io ka hatrany amin’ny andro farany, dia novakîna ny teny tao amin’ny boky mirakitra ny lalànan’Andriamanitra. Naharitra fito andro ny fety; ary tamin’ny andro fahavalo dia nisy fanompoam-pivavahana famaranana nivorian’ny vahoaka, araka ny fanao.
   '3':
-  - type: text
-    content: Nanomboka ny maraina ka mandra-pahatongan’ny mitataovovonana, dia teo amin’ny kianja anoloan’ny Vavahadin’ny Rano i Hezrà ka namaky ny boky; ary nampandry sofina hihaino izany avokoa ny olona.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Nanomboka ny maraina ka mandra-pahatongan’ny mitataovovonana, dia teo amin’ny kianja anoloan’ny Vavahadin’ny Rano i Hezrà ka namaky ny boky; ary nampandry sofina hihaino izany avokoa ny olona.
   '4':
-  - type: text
-    content: 'Teo ambony lampihazo vao narafitra ho an’io fotoana io no nitsanganan’i Hezrà mpahay lalàna. Ary nitsangana teo anilany ankavanana ry i Matitià sy i Sema, i Hanaià sy i Orià ary i Hilkià sy i Mahaseià; teo ankaviany kosa ry i Pedaià sy i Misaela, i Malkià sy i Hasoma, i Hasbadanà sy i Zakarià ary i Mesolama. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Teo ambony lampihazo vao narafitra ho an’io fotoana io no nitsanganan’i Hezrà mpahay lalàna. Ary nitsangana teo anilany ankavanana ry i Matitià sy i Sema, i Hanaià sy i Orià ary i Hilkià sy i Mahaseià; teo ankaviany kosa ry i Pedaià sy i Misaela, i Malkià sy i Hasoma, i Hasbadanà sy i Zakarià ary i Mesolama. '
   '5':
-  - type: text
-    content: Dia nanokatra ny boky teo imason’ny vahoaka rehetra i Hezrà, satria ambony toerana noho ny daholobe; ka rehefa nosokafany izany, dia nitsangana koa ny vahoaka rehetra
-  - type: note
-    content: Ny and 5-8 dia mamisavisa ny fanompoam-pivavahana izay ho fanaon’ny sinagôga; amin’izany ny tena vontoatin-javatra dia tsy ny sorona tahaka ny ao an-tempoly intsony fa ny famakiana Soratra Masina arahin’ny fivoasana ny rijan-teny.
-  - type: text
-    content: '. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Dia nanokatra ny boky teo imason’ny vahoaka rehetra i Hezrà, satria ambony toerana noho ny daholobe; ka rehefa nosokafany izany, dia nitsangana koa ny vahoaka rehetra
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '8.5 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Ny and 5-8 dia mamisavisa ny fanompoam-pivavahana izay ho fanaon’ny sinagôga; amin’izany ny tena vontoatin-javatra dia tsy ny sorona tahaka ny ao an-tempoly intsony fa ny famakiana Soratra Masina arahin’ny fivoasana ny rijan-teny.
+      marker-yv: yv-n
+    - type: text
+      text: '. '
   '6':
-  - type: text
-    content: 'Nisaotra ny TOMPO Andriamanitra lehibe i Hezrà; ary nanandra-tanana ny vahoaka rehetra ka namaly hoe: «'
-  - type: text
-    content: Amen
-  - type: text
-    content: '!» Avy eo izy ireo dia niondrika sady niankohoka nitehi-tany teo anatrehan’ny TOMPO. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Nisaotra ny TOMPO Andriamanitra lehibe i Hezrà; ary nanandra-tanana ny vahoaka rehetra ka namaly hoe: «'
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: Amen
+    - type: text
+      text: '!» Avy eo izy ireo dia niondrika sady niankohoka nitehi-tany teo anatrehan’ny TOMPO. '
   '7':
-  - type: text
-    content: 'Dia nitsangana indray ny olona ka samy nijanona teo amin’ny toerany avy. Ary ny '
-  - type: text
-    content: levita
-  - type: text
-    content: ', ry i Jesoa sy i Banỳ, i Serebià sy i Jamina, i Hakoba sy i Sabetahy, i Hôdià sy i Mahaseià, i Kelità sy i Hazarià, i Jôzabada sy i Hanàna ary i Pelaià, dia'
-  - type: note
-    content: 'Ary ny levita, ry i Jesoa...Pelaià, dia: araka ny konteksta sy ny dkt tranainy latinina; ny rijan-teny hebreo kosa manao hoe: Ary i Jesoa... Pelaià sy ny levita dia.'
-  - type: text
-    content: ' nampianatra ny vahoaka ny lalàna. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Dia nitsangana indray ny olona ka samy nijanona teo amin’ny toerany avy. Ary ny '
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: levita
+    - type: text
+      text: ', ry i Jesoa sy i Banỳ, i Serebià sy i Jamina, i Hakoba sy i Sabetahy, i Hôdià sy i Mahaseià, i Kelità sy i Hazarià, i Jôzabada sy i Hanàna ary i Pelaià, dia'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '8.7 '
+      - type: usfm
+        marker: fk
+        children:
+        - type: text
+          text: 'Ary ny levita, ry i Jesoa...Pelaià, dia: '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'araka ny konteksta sy ny dkt tranainy latinina; ny rijan-teny hebreo kosa manao hoe: Ary i Jesoa... Pelaià sy ny levita dia.'
+      marker-yv: yv-n
+    - type: text
+      text: ' nampianatra ny vahoaka ny lalàna. '
   '8':
-  - type: text
-    content: Novakîn’ireo levita ireo mazava
-  - type: note
-    content: 'mazava: tsy azo antoka ny hevitr’ilay voambolana hebreo; mety ny fanononana tsara no lazaina amin’izany, kanefa mety ny dikanteny aramianina ho an’ny jiosy tsy dia nahay hebreo intsony.'
-  - type: text
-    content: ' ny boky mirakitra ny lalànan’Andriamanitra sady novoasany koa ny heviny, ka azo tsara ny teny novakîna.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Novakîn’ireo levita ireo mazava
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '8.8 '
+      - type: usfm
+        marker: fk
+        children:
+        - type: text
+          text: 'mazava: '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: tsy azo antoka ny hevitr’ilay voambolana hebreo; mety ny fanononana tsara no lazaina amin’izany, kanefa mety ny dikanteny aramianina ho an’ny jiosy tsy dia nahay hebreo intsony.
+      marker-yv: yv-n
+    - type: text
+      text: ' ny boky mirakitra ny lalànan’Andriamanitra sady novoasany koa ny heviny, ka azo tsara ny teny novakîna.'
   '9':
-  - type: text
-    content: 'Nitomany ny vahoaka rehetra teo, raha nandre ny tenin’ny lalàna. Noho izany i Nehemià governora sy i Hezrà mpisorona sady mpahay lalàna ary ny levita izay nampianatra ny olona dia niteny tamin’izy rehetra hoe:'
-  - type: text
-    content: –Voatokana ho an’ny TOMPO Andriamanitrareo ity andro ity; koa aza malahelo na mitomany!
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Nitomany ny vahoaka rehetra teo, raha nandre ny tenin’ny lalàna. Noho izany i Nehemià governora sy i Hezrà mpisorona sady mpahay lalàna ary ny levita izay nampianatra ny olona dia niteny tamin’izy rehetra hoe:'
+  - type: usfm
+    marker: m
+    children:
+    - type: text
+      text: –Voatokana ho an’ny TOMPO Andriamanitrareo ity andro ity; koa aza malahelo na mitomany!

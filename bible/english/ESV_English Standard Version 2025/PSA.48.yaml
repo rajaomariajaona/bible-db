@@ -2,192 +2,715 @@ document_id: PSA.48,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: Zion, the City of Our God
-  - type: text
-    content: 'A Song. A Psalm of '
-  - type: note
-    content: Ps. 42, title; 46, title
-  - type: text
-    content: the Sons of Korah.
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps. 96:4; 145:3
-  - type: text
-    content: 'Great is the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' and greatly to be praised'
-  - type: text
-    content: 'in '
-  - type: note
-    content: See Ps. 46:4
-  - type: text
-    content: the city of our God!
-  - type: text
-    content: 'His '
-  - type: note
-    content: Ps. 2:6; 87:1; Zech. 8:3; [Isa. 2:3; Mic. 4:1]
-  - type: text
-    content: 'holy mountain, '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Zion, the City of Our God
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'A Song. A Psalm of '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 42
+      - type: text
+        text: ', title; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '46'
+      - type: text
+        text: ', title'
+      marker-yv: yv-n
+    - type: text
+      text: the Sons of Korah.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 96:4
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 145:3
+      marker-yv: yv-n
+    - type: text
+      text: 'Great is the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' and greatly to be praised'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'in '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 46:4
+      marker-yv: yv-n
+    - type: text
+      text: the city of our God!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'His '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 2:6
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 87:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Zech. 8:3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 2:3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Mic. 4:1
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'holy mountain, '
   '10':
-  - type: text
-    content: 'As your '
-  - type: note
-    content: Ps. 113:3; [Ex. 34:5, 6; Deut. 28:58; Mal. 1:11, 14]
-  - type: text
-    content: name, O God,
-  - type: text
-    content: 'so your praise reaches to '
-  - type: note
-    content: See Ps. 22:27
-  - type: text
-    content: the ends of the earth.
-  - type: text
-    content: Your right hand is filled with righteousness.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'As your '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 113:3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ex. 34:5
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '6'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Deut. 28:58
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Mal. 1:11
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '14'
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: name, O God,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'so your praise reaches to '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 22:27
+      marker-yv: yv-n
+    - type: text
+      text: the ends of the earth.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Your right hand is filled with righteousness.
   '11':
-  - type: text
-    content: 'Let Mount '
-  - type: note
-    content: Ps. 97:8
-  - type: text
-    content: Zion be glad!
-  - type: text
-    content: 'Let '
-  - type: note
-    content: Ps. 97:8
-  - type: text
-    content: the daughters of Judah rejoice
-  - type: text
-    content: because of your judgments!
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Let Mount '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 97:8
+      marker-yv: yv-n
+    - type: text
+      text: Zion be glad!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Let '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 97:8
+      marker-yv: yv-n
+    - type: text
+      text: the daughters of Judah rejoice
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: because of your judgments!
   '12':
-  - type: text
-    content: Walk about Zion, go around her,
-  - type: text
-    content: number her towers,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Walk about Zion, go around her,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: number her towers,
   '13':
-  - type: text
-    content: 'consider well her '
-  - type: note
-    content: Ps. 122:7
-  - type: text
-    content: ramparts,
-  - type: text
-    content: go through her citadels,
-  - type: note
-    content: '[ Ps. 78:4-6 ]'
-  - type: text
-    content: that you may tell the next generation
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'consider well her '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 122:7
+      marker-yv: yv-n
+    - type: text
+      text: ramparts,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: go through her citadels,
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 78:4-6
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: that you may tell the next generation
   '14':
-  - type: text
-    content: that this is God,
-  - type: text
-    content: our God forever and ever.
-  - type: text
-    content: 'He will '
-  - type: note
-    content: Ps. 23:3, 4
-  - type: text
-    content: guide us forever.
-  - type: note
-    content: Septuagint; another reading is (compare Jerome, Syriac) He will guide us beyond death
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: that this is God,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: our God forever and ever.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'He will '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 23:3
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '4'
+      marker-yv: yv-n
+    - type: text
+      text: guide us forever.
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '48:14 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Septuagint; another reading is (compare Jerome, Syriac) '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: He will guide us beyond death
+      marker-yv: yv-n
   '2':
-  - type: note
-    content: See Ps. 50:2
-  - type: text
-    content: beautiful in elevation,
-  - type: text
-    content: 'is '
-  - type: note
-    content: Lam. 2:15; [Ezek. 20:6]
-  - type: text
-    content: the joy of all the earth,
-  - type: text
-    content: Mount Zion, in the far north,
-  - type: note
-    content: Matt. 5:35
-  - type: text
-    content: the city of the great King.
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 50:2
+      marker-yv: yv-n
+    - type: text
+      text: beautiful in elevation,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'is '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Lam. 2:15
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ezek. 20:6
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: the joy of all the earth,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mount Zion, in the far north,
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 5:35
+      marker-yv: yv-n
+    - type: text
+      text: the city of the great King.
   '3':
-  - type: text
-    content: Within her citadels God
-  - type: text
-    content: has made himself known as a fortress.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Within her citadels God
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: has made himself known as a fortress.
   '4':
-  - type: text
-    content: 'For behold, '
-  - type: note
-    content: See 2 Sam. 10:6-19
-  - type: text
-    content: the kings assembled;
-  - type: text
-    content: they came on together.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'For behold, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Sam. 10:6-19
+      marker-yv: yv-n
+    - type: text
+      text: the kings assembled;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: they came on together.
   '5':
-  - type: text
-    content: As soon as they saw it, they were astounded;
-  - type: text
-    content: they were in panic; they took to flight.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: As soon as they saw it, they were astounded;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: they were in panic; they took to flight.
   '6':
-  - type: text
-    content: ' '
-  - type: note
-    content: '[ Ex. 15:15 ]'
-  - type: text
-    content: Trembling took hold of them there,
-  - type: text
-    content: 'anguish '
-  - type: note
-    content: Isa. 13:8; Hos. 13:13
-  - type: text
-    content: as of a woman in labor.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ex. 15:15
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: Trembling took hold of them there,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'anguish '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 13:8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Hos. 13:13
+      marker-yv: yv-n
+    - type: text
+      text: as of a woman in labor.
   '7':
-  - type: text
-    content: 'By '
-  - type: note
-    content: Jer. 18:17
-  - type: text
-    content: 'the east wind you '
-  - type: note
-    content: 1 Kgs. 22:48; Ezek. 27:26
-  - type: text
-    content: shattered
-  - type: text
-    content: 'the ships of '
-  - type: note
-    content: 1 Kgs. 10:22
-  - type: text
-    content: Tarshish.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'By '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 18:17
+      marker-yv: yv-n
+    - type: text
+      text: 'the east wind you '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Kgs. 22:48
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ezek. 27:26
+      marker-yv: yv-n
+    - type: text
+      text: shattered
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'the ships of '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Kgs. 10:22
+      marker-yv: yv-n
+    - type: text
+      text: Tarshish.
   '8':
-  - type: text
-    content: As we have heard, so have we seen
-  - type: text
-    content: 'in the city of the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' of hosts,'
-  - type: text
-    content: 'in '
-  - type: note
-    content: '[See ver. 1 above]'
-  - type: text
-    content: the city of our God,
-  - type: text
-    content: 'which God will '
-  - type: note
-    content: Ps. 87:5; Isa. 2:2; Mic. 4:1
-  - type: text
-    content: 'establish forever. '
-  - type: text
-    content: Selah
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: As we have heard, so have we seen
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'in the city of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' of hosts,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'in '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[See ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '1'
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: above]
+      marker-yv: yv-n
+    - type: text
+      text: the city of our God,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'which God will '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 87:5
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 2:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Mic. 4:1
+      marker-yv: yv-n
+    - type: text
+      text: 'establish forever. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Selah
   '9':
-  - type: text
-    content: 'We have thought on your '
-  - type: note
-    content: Ps. 26:3; 40:10
-  - type: text
-    content: steadfast love, O God,
-  - type: text
-    content: in the midst of your temple.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'We have thought on your '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 26:3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 40:10
+      marker-yv: yv-n
+    - type: text
+      text: steadfast love, O God,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: in the midst of your temple.

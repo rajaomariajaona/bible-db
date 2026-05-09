@@ -2,295 +2,1410 @@ document_id: JAS.1,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: Greeting
-  - type: text
-    content: ' '
-  - type: note
-    content: See Acts 12:17
-  - type: text
-    content: James, a servant
-  - type: note
-    content: For the contextual rendering of the Greek word doulos, see Preface
-  - type: text
-    content: ' of God and '
-  - type: note
-    content: Rom. 1:1; 2 Pet. 1:1; Jude 1
-  - type: text
-    content: of the Lord Jesus Christ,
-  - type: text
-    content: 'To '
-  - type: note
-    content: Luke 22:30; Acts 26:7
-  - type: text
-    content: 'the twelve tribes in '
-  - type: note
-    content: 1 Pet. 1:1; [Acts 2:9-11]; See John 7:35
-  - type: text
-    content: 'the Dispersion:'
-  - type: text
-    content: Greetings.
-  - type: heading
-    content: Testing of Your Faith
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Greeting
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Acts 12:17
+      marker-yv: yv-n
+    - type: text
+      text: James, a servant
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1:1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'For the contextual rendering of the Greek word '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: doulos
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', see Preface'
+      marker-yv: yv-n
+    - type: text
+      text: ' of God and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rom. 1:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Pet. 1:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jude 1
+      marker-yv: yv-n
+    - type: text
+      text: of the Lord Jesus Christ,
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'To '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Luke 22:30
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Acts 26:7
+      marker-yv: yv-n
+    - type: text
+      text: 'the twelve tribes in '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Pet. 1:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Acts 2:9-11
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']; See John 7:35'
+      marker-yv: yv-n
+    - type: text
+      text: 'the Dispersion:'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Greetings.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Testing of Your Faith
+    marker-yv: yv-h
   '10':
-  - type: text
-    content: 'and '
-  - type: note
-    content: Jer. 9:23
-  - type: text
-    content: 'the rich in his humiliation, because '
-  - type: note
-    content: '[Ps. 102:4, 11; 1 Cor. 7:31; 1 Pet. 1:24]'
-  - type: text
-    content: like a flower of the grass
-  - type: note
-    content: Or a wild flower
-  - type: text
-    content: ' he will pass away. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 9:23
+      marker-yv: yv-n
+    - type: text
+      text: 'the rich in his humiliation, because '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 102:4
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '11'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Cor. 7:31
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Pet. 1:24
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: like a flower of the grass
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1:10 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: a wild flower
+      marker-yv: yv-n
+    - type: text
+      text: ' he will pass away. '
   '11':
-  - type: text
-    content: 'For the sun rises with its scorching heat and '
-  - type: note
-    content: Isa. 40:7
-  - type: text
-    content: withers the grass; its flower falls, and its beauty perishes. So also will the rich man fade away in the midst of his pursuits.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'For the sun rises with its scorching heat and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 40:7
+      marker-yv: yv-n
+    - type: text
+      text: withers the grass; its flower falls, and its beauty perishes. So also will the rich man fade away in the midst of his pursuits.
   '12':
-  - type: text
-    content: ' '
-  - type: note
-    content: ch. 5:11; Matt. 10:22; 1 Pet. 3:14; [ Dan. 12:12 ]
-  - type: text
-    content: 'Blessed is the man who remains steadfast under trial, for when he has stood the test he will receive '
-  - type: note
-    content: Rev. 2:10; 3:11; [1 Cor. 9:25; 2 Tim. 4:8; 1 Pet. 5:4]
-  - type: text
-    content: 'the crown of life, '
-  - type: note
-    content: ch. 2:5
-  - type: text
-    content: 'which God has promised to those who love him. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 5:11
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 10:22
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Pet. 3:14
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Dan. 12:12
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'Blessed is the man who remains steadfast under trial, for when he has stood the test he will receive '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rev. 2:10
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 3:11
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Cor. 9:25
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Tim. 4:8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Pet. 5:4
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'the crown of life, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2:5
+      marker-yv: yv-n
+    - type: text
+      text: 'which God has promised to those who love him. '
   '13':
-  - type: text
-    content: 'Let no one say when he is tempted, “I am being tempted by God,” for God cannot be tempted with evil, and he himself tempts no one. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Let no one say when he is tempted, “I am being tempted by God,” for God cannot be tempted with evil, and he himself tempts no one. '
   '14':
-  - type: text
-    content: 'But each person is tempted when he is lured and enticed by his own desire. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'But each person is tempted when he is lured and enticed by his own desire. '
   '15':
-  - type: text
-    content: 'Then desire '
-  - type: note
-    content: Job 15:35; Ps. 7:14; Isa. 59:4
-  - type: text
-    content: 'when it has conceived gives birth to sin, and '
-  - type: note
-    content: Rom. 5:12; 6:23
-  - type: text
-    content: sin when it is fully grown brings forth death.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Then desire '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 15:35
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 7:14
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 59:4
+      marker-yv: yv-n
+    - type: text
+      text: 'when it has conceived gives birth to sin, and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rom. 5:12
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 6:23
+      marker-yv: yv-n
+    - type: text
+      text: sin when it is fully grown brings forth death.
   '16':
-  - type: text
-    content: 'Do not be deceived, my beloved brothers. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Do not be deceived, my beloved brothers. '
   '17':
-  - type: note
-    content: Ps. 85:12; John 3:27; 1 Cor. 4:7
-  - type: text
-    content: 'Every good gift and every perfect gift is from above, coming down from '
-  - type: note
-    content: 1 John 1:5
-  - type: text
-    content: 'the Father of lights, '
-  - type: note
-    content: Mal. 3:6
-  - type: text
-    content: with whom there is no variation or shadow due to change.
-  - type: note
-    content: Some manuscripts variation due to a shadow of turning
-  - type: text
-    content: ' '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 85:12
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: John 3:27
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Cor. 4:7
+      marker-yv: yv-n
+    - type: text
+      text: 'Every good gift and every perfect gift is from above, coming down from '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 John 1:5
+      marker-yv: yv-n
+    - type: text
+      text: 'the Father of lights, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Mal. 3:6
+      marker-yv: yv-n
+    - type: text
+      text: with whom there is no variation or shadow due to change.
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1:17 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Some manuscripts '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: variation due to a shadow of turning
+      marker-yv: yv-n
+    - type: text
+      text: ' '
   '18':
-  - type: note
-    content: John 1:13
-  - type: text
-    content: 'Of his own will he '
-  - type: note
-    content: '[Gal. 4:19; 1 Pet. 1:3, 23]'
-  - type: text
-    content: 'brought us forth by the word of truth, '
-  - type: note
-    content: '[Eph. 1:12]'
-  - type: text
-    content: 'that we should be a kind of '
-  - type: note
-    content: Jer. 2:3; Rev. 14:4; [Rom. 8:19-23]
-  - type: text
-    content: firstfruits of his creatures.
-  - type: heading
-    content: Hearing and Doing the Word
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: John 1:13
+      marker-yv: yv-n
+    - type: text
+      text: 'Of his own will he '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Gal. 4:19
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Pet. 1:3
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '23'
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'brought us forth by the word of truth, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Eph. 1:12
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'that we should be a kind of '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 2:3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rev. 14:4
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rom. 8:19-23
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: firstfruits of his creatures.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Hearing and Doing the Word
+    marker-yv: yv-h
   '19':
-  - type: text
-    content: ' '
-  - type: note
-    content: 1 John 2:21
-  - type: text
-    content: 'Know this, my beloved brothers: let every person '
-  - type: note
-    content: '[Eccles. 5:1, 2]'
-  - type: text
-    content: 'be quick to hear, '
-  - type: note
-    content: Prov. 10:19; 17:27
-  - type: text
-    content: 'slow to speak, '
-  - type: note
-    content: See Prov. 14:29
-  - type: text
-    content: 'slow to anger; '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 John 2:21
+      marker-yv: yv-n
+    - type: text
+      text: 'Know this, my beloved brothers: let every person '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Eccles. 5:1
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '2'
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'be quick to hear, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Prov. 10:19
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 17:27
+      marker-yv: yv-n
+    - type: text
+      text: 'slow to speak, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Prov. 14:29
+      marker-yv: yv-n
+    - type: text
+      text: 'slow to anger; '
   '2':
-  - type: text
-    content: ' '
-  - type: note
-    content: See Matt. 5:12
-  - type: text
-    content: Count it all joy, my brothers,
-  - type: note
-    content: Or brothers and sisters. In New Testament usage, depending on the context, the plural Greek word adelphoi (translated “brothers”) may refer either to brothers or to brothers and sisters; also verses 16, 19
-  - type: text
-    content: ' when you meet trials '
-  - type: note
-    content: 1 Pet. 1:6
-  - type: text
-    content: 'of various kinds, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 5:12
+      marker-yv: yv-n
+    - type: text
+      text: Count it all joy, my brothers,
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1:2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'brothers and sisters. In New Testament usage, depending on the context, the plural Greek word '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'adelphoi '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '(translated “brothers”) may refer either to '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'brothers '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'or to '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: brothers and sisters
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ; also verses 16, 19
+      marker-yv: yv-n
+    - type: text
+      text: ' when you meet trials '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Pet. 1:6
+      marker-yv: yv-n
+    - type: text
+      text: 'of various kinds, '
   '20':
-  - type: text
-    content: 'for the anger of man does not produce the righteousness of God. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'for the anger of man does not produce the righteousness of God. '
   '21':
-  - type: text
-    content: 'Therefore '
-  - type: note
-    content: Col. 3:8
-  - type: text
-    content: 'put away all filthiness and rampant wickedness and receive with '
-  - type: note
-    content: ch. 3:13
-  - type: text
-    content: 'meekness the implanted word, '
-  - type: note
-    content: 1 Cor. 15:2; Eph. 1:13
-  - type: text
-    content: which is able to save your souls.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Therefore '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Col. 3:8
+      marker-yv: yv-n
+    - type: text
+      text: 'put away all filthiness and rampant wickedness and receive with '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 3:13
+      marker-yv: yv-n
+    - type: text
+      text: 'meekness the implanted word, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Cor. 15:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Eph. 1:13
+      marker-yv: yv-n
+    - type: text
+      text: which is able to save your souls.
   '22':
-  - type: text
-    content: 'But be '
-  - type: note
-    content: Rom. 2:13; [ch. 2:14-20; Matt. 7:21, 24-27; Luke 8:21; John 13:17]
-  - type: text
-    content: 'doers of the word, and not hearers only, deceiving yourselves. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'But be '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rom. 2:13
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2:14-20
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 7:21
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 24-27
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Luke 8:21
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: John 13:17
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'doers of the word, and not hearers only, deceiving yourselves. '
   '23':
-  - type: text
-    content: 'For if anyone is a hearer of the word and not a doer, he is like a man who looks intently at his natural face in a mirror. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'For if anyone is a hearer of the word and not a doer, he is like a man who looks intently at his natural face in a mirror. '
   '24':
-  - type: text
-    content: 'For he looks at himself and goes away and at once forgets what he was like. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'For he looks at himself and goes away and at once forgets what he was like. '
   '25':
-  - type: text
-    content: 'But the one who looks into the perfect law, '
-  - type: note
-    content: ch. 2:12; [Gal. 2:4; 5:1, 13; 1 Pet. 2:16; 2 Pet. 2:19]; See John 8:32
-  - type: text
-    content: 'the law of liberty, and perseveres, being no hearer who forgets but a doer who acts, '
-  - type: note
-    content: Ps. 1:1, 2; Luke 11:28
-  - type: text
-    content: he will be blessed in his doing.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'But the one who looks into the perfect law, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2:12
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Gal. 2:4
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 5:1
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '13'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Pet. 2:16
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Pet. 2:19
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']; See John 8:32'
+      marker-yv: yv-n
+    - type: text
+      text: 'the law of liberty, and perseveres, being no hearer who forgets but a doer who acts, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 1:1
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '2'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Luke 11:28
+      marker-yv: yv-n
+    - type: text
+      text: he will be blessed in his doing.
   '26':
-  - type: text
-    content: 'If anyone thinks he is religious '
-  - type: note
-    content: ch. 3:2, 3; Ps. 39:1; [ch. 3:6; Ps. 34:13; 141:3]
-  - type: text
-    content: 'and does not bridle his tongue but deceives his heart, this person’s '
-  - type: note
-    content: Acts 26:5
-  - type: text
-    content: 'religion is worthless. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'If anyone thinks he is religious '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 3:2
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '3'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 39:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 3:6
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 34:13
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 141:3
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'and does not bridle his tongue but deceives his heart, this person’s '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Acts 26:5
+      marker-yv: yv-n
+    - type: text
+      text: 'religion is worthless. '
   '27':
-  - type: text
-    content: 'Religion that is pure and undefiled before God the Father is this: '
-  - type: note
-    content: Matt. 25:36
-  - type: text
-    content: 'to visit '
-  - type: note
-    content: Job 31:17, 18; Isa. 1:17, 23
-  - type: text
-    content: 'orphans and widows in their affliction, and '
-  - type: note
-    content: 1 Tim. 5:22; 1 John 5:18
-  - type: text
-    content: 'to keep oneself '
-  - type: note
-    content: 2 Pet. 3:14
-  - type: text
-    content: unstained from the world.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Religion that is pure and undefiled before God the Father is this: '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 25:36
+      marker-yv: yv-n
+    - type: text
+      text: 'to visit '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 31:17
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '18'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 1:17
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '23'
+      marker-yv: yv-n
+    - type: text
+      text: 'orphans and widows in their affliction, and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Tim. 5:22
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 John 5:18
+      marker-yv: yv-n
+    - type: text
+      text: 'to keep oneself '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Pet. 3:14
+      marker-yv: yv-n
+    - type: text
+      text: unstained from the world.
   '3':
-  - type: text
-    content: 'for you know that '
-  - type: note
-    content: 1 Pet. 1:7
-  - type: text
-    content: 'the testing of your faith '
-  - type: note
-    content: Rom. 5:3; [ch. 5:11; Heb. 10:36; 2 Pet. 1:6]
-  - type: text
-    content: 'produces steadfastness. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'for you know that '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Pet. 1:7
+      marker-yv: yv-n
+    - type: text
+      text: 'the testing of your faith '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rom. 5:3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 5:11
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Heb. 10:36
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Pet. 1:6
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'produces steadfastness. '
   '4':
-  - type: text
-    content: 'And let steadfastness have its full effect, that you may be '
-  - type: note
-    content: 1 Thess. 5:23; See Matt. 5:48
-  - type: text
-    content: perfect and complete, lacking in nothing.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'And let steadfastness have its full effect, that you may be '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Thess. 5:23
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 5:48
+      marker-yv: yv-n
+    - type: text
+      text: perfect and complete, lacking in nothing.
   '5':
-  - type: text
-    content: ' '
-  - type: note
-    content: 1 Kgs. 3:9-12; Prov. 2:3-6
-  - type: text
-    content: 'If any of you lacks wisdom, '
-  - type: note
-    content: See Matt. 7:7
-  - type: text
-    content: 'let him ask God, '
-  - type: note
-    content: Prov. 28:5
-  - type: text
-    content: 'who gives generously to all without reproach, and it will be given him. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Kgs. 3:9-12
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Prov. 2:3-6
+      marker-yv: yv-n
+    - type: text
+      text: 'If any of you lacks wisdom, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 7:7
+      marker-yv: yv-n
+    - type: text
+      text: 'let him ask God, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Prov. 28:5
+      marker-yv: yv-n
+    - type: text
+      text: 'who gives generously to all without reproach, and it will be given him. '
   '6':
-  - type: text
-    content: 'But '
-  - type: note
-    content: Mark 11:24
-  - type: text
-    content: 'let him ask in faith, '
-  - type: note
-    content: Matt. 21:21
-  - type: text
-    content: 'with no doubting, for the one who doubts is like '
-  - type: note
-    content: '[Isa. 57:20; Eph. 4:14]'
-  - type: text
-    content: 'a wave of the sea that is driven and tossed by the wind. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'But '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Mark 11:24
+      marker-yv: yv-n
+    - type: text
+      text: 'let him ask in faith, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 21:21
+      marker-yv: yv-n
+    - type: text
+      text: 'with no doubting, for the one who doubts is like '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 57:20
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Eph. 4:14
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'a wave of the sea that is driven and tossed by the wind. '
   '7':
-  - type: text
-    content: 'For that person must not suppose that he will receive anything from the Lord; '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'For that person must not suppose that he will receive anything from the Lord; '
   '8':
-  - type: note
-    content: ch. 4:8
-  - type: text
-    content: 'he is a double-minded man, '
-  - type: note
-    content: '[2 Pet. 2:14; 3:16]'
-  - type: text
-    content: unstable in all his ways.
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 4:8
+      marker-yv: yv-n
+    - type: text
+      text: 'he is a double-minded man, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Pet. 2:14
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 3:16
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: unstable in all his ways.
   '9':
-  - type: text
-    content: 'Let the lowly brother boast in his exaltation, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Let the lowly brother boast in his exaltation, '

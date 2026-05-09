@@ -2,107 +2,308 @@ document_id: ACT.25,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Paul en appelle à César
-  - type: text
-    content: Trois jours après avoir pris ses fonctions à la tête de la province, Festus se rendit de Césarée à Jérusalem
-  - type: note
-    content: 'Jérusalem: à une centaine de kilomètres de Césarée.'
-  - type: text
-    content: '. '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Paul en appelle à César
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Trois jours après avoir pris ses fonctions à la tête de la province, Festus se rendit de Césarée à Jérusalem
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '25.1 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Jérusalem
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: ': '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: à une centaine de kilomètres de Césarée.
+      marker-yv: yv-n
+    - type: text
+      text: '. '
   '10':
-  - type: text
-    content: '– Non, répliqua Paul, je me tiens ici devant le tribunal de l’empereur, et c’est devant ce tribunal que je dois être jugé. Quant aux Juifs, je ne leur ai fait aucun tort, tu as pu fort bien t’en rendre compte par toi-même. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: '– Non, répliqua Paul, je me tiens ici devant le tribunal de l’empereur, et c’est devant ce tribunal que je dois être jugé. Quant aux Juifs, je ne leur ai fait aucun tort, tu as pu fort bien t’en rendre compte par toi-même. '
   '11':
-  - type: text
-    content: Si je suis coupable et si j’ai commis un crime passible de la peine de mort, je ne refuse pas de mourir. Mais si les accusations de ces gens-là sont sans aucun fondement, nul n’a le droit de me livrer entre leurs mains. J’en appelle à l’empereur
-  - type: note
-    content: Tout citoyen romain avait le droit de faire appel d’une décision d’un tribunal romain à celui de l’empereur, à Rome.
-  - type: text
-    content: '  !'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Si je suis coupable et si j’ai commis un crime passible de la peine de mort, je ne refuse pas de mourir. Mais si les accusations de ces gens-là sont sans aucun fondement, nul n’a le droit de me livrer entre leurs mains. J’en appelle à l’empereur
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '25.11 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Tout citoyen romain avait le droit de faire appel d’une décision d’un tribunal romain à celui de l’empereur, à Rome.
+      marker-yv: yv-n
+    - type: text
+      text: '  !'
   '12':
-  - type: text
-    content: 'Alors Festus, après avoir délibéré avec ses conseillers, décida : Tu en as appelé à l’empereur ; tu comparaîtras donc devant l’empereur.'
-  - type: heading
-    content: Paul devant Festus et Agrippa
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Alors Festus, après avoir délibéré avec ses conseillers, décida : Tu en as appelé à l’empereur ; tu comparaîtras donc devant l’empereur.'
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Paul devant Festus et Agrippa
+    marker-yv: yv-h
   '13':
-  - type: text
-    content: Quelque temps plus tard, le roi Agrippa
-  - type: note
-    content: 'Agrippa: Hérode Agrippa II, fils d’Hérode Agrippa Ier (voir Ac 12) régnait sur une région située au nord du pays d’Israël. Sa sœur Bérénice était une sœur de Drusille (24.24).'
-  - type: text
-    content: ' et Bérénice arrivèrent à Césarée pour rendre visite à Festus'
-  - type: note
-    content: 'Festus: voir note 24.27.'
-  - type: text
-    content: '. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Quelque temps plus tard, le roi Agrippa
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '25.13 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Agrippa
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: ': '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Hérode Agrippa II, fils d’Hérode Agrippa I
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: er
+        - type: text
+          text: ' (voir '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Ac 12
+        - type: text
+          text: ) régnait sur une région située au nord du pays d’Israël. Sa sœur Bérénice était une sœur de Drusille (
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: '24.24'
+        - type: text
+          text: ).
+      marker-yv: yv-n
+    - type: text
+      text: ' et Bérénice arrivèrent à Césarée pour rendre visite à Festus'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '25.13 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Festus
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: ': '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'voir note '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: '24.27'
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: '. '
   '14':
-  - type: text
-    content: Leur séjour dura plusieurs jours.
-  - type: text
-    content: 'Festus en profita pour exposer au roi le cas de Paul : J’ai là un homme, dit-il, que mon prédécesseur Félix a laissé en prison. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Leur séjour dura plusieurs jours.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Festus en profita pour exposer au roi le cas de Paul : J’ai là un homme, dit-il, que mon prédécesseur Félix a laissé en prison. '
   '15':
-  - type: text
-    content: 'Lors de mon passage à Jérusalem, les chefs des prêtres et les responsables des Juifs sont venus porter plainte contre lui et ils m’ont demandé de le condamner. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Lors de mon passage à Jérusalem, les chefs des prêtres et les responsables des Juifs sont venus porter plainte contre lui et ils m’ont demandé de le condamner. '
   '16':
-  - type: text
-    content: 'Mais je leur ai répondu que les Romains n’ont pas coutume de livrer un prévenu avant de l’avoir confronté avec ses accusateurs et de lui avoir donné l’occasion de se défendre de leurs accusations. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Mais je leur ai répondu que les Romains n’ont pas coutume de livrer un prévenu avant de l’avoir confronté avec ses accusateurs et de lui avoir donné l’occasion de se défendre de leurs accusations. '
   '17':
-  - type: text
-    content: Ils sont donc venus ici avec moi. Je n’ai pas voulu remettre l’affaire à plus tard et, dès le lendemain, j’ai tenu audience et donné l’ordre d’amener cet homme.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Ils sont donc venus ici avec moi. Je n’ai pas voulu remettre l’affaire à plus tard et, dès le lendemain, j’ai tenu audience et donné l’ordre d’amener cet homme.
   '18':
-  - type: text
-    content: 'Je m’attendais à ce que ses accusateurs le chargent de toutes sortes de crimes graves. Il n’en fut rien. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Je m’attendais à ce que ses accusateurs le chargent de toutes sortes de crimes graves. Il n’en fut rien. '
   '19':
-  - type: text
-    content: 'Il ne s’agissait que de discussions au sujet de leur propre religion et d’un certain Jésus qui est mort et dont Paul dit qu’il est vivant. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Il ne s’agissait que de discussions au sujet de leur propre religion et d’un certain Jésus qui est mort et dont Paul dit qu’il est vivant. '
   '2':
-  - type: text
-    content: 'Les chefs des prêtres et les notables juifs se présentèrent devant lui pour porter plainte contre Paul. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Les chefs des prêtres et les notables juifs se présentèrent devant lui pour porter plainte contre Paul. '
   '20':
-  - type: text
-    content: 'Je me suis trouvé dans l’incapacité de prendre une décision dans un débat de ce genre. J’ai donc demandé à Paul s’il consentait à monter à Jérusalem pour que son affaire y soit jugée. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Je me suis trouvé dans l’incapacité de prendre une décision dans un débat de ce genre. J’ai donc demandé à Paul s’il consentait à monter à Jérusalem pour que son affaire y soit jugée. '
   '21':
-  - type: text
-    content: Mais il a préféré user de son droit d’appel et il a demandé que sa cause soit portée devant le tribunal de l’empereur. J’ai donc ordonné de le garder en prison jusqu’à ce que je puisse l’envoyer à César.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Mais il a préféré user de son droit d’appel et il a demandé que sa cause soit portée devant le tribunal de l’empereur. J’ai donc ordonné de le garder en prison jusqu’à ce que je puisse l’envoyer à César.
   '22':
-  - type: text
-    content: 'Alors Agrippa dit à Festus : J’aimerais bien entendre cet homme, moi aussi.'
-  - type: text
-    content: – Tu pourras l’entendre dès demain, lui répondit Festus.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Alors Agrippa dit à Festus : J’aimerais bien entendre cet homme, moi aussi.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: – Tu pourras l’entendre dès demain, lui répondit Festus.
   '23':
-  - type: text
-    content: Le lendemain, donc, Agrippa et Bérénice arrivèrent en grand apparat et firent leur entrée dans la salle d’audience, suivis des officiers supérieurs et des notables de la ville. Sur un ordre de Festus, Paul fut introduit.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Le lendemain, donc, Agrippa et Bérénice arrivèrent en grand apparat et firent leur entrée dans la salle d’audience, suivis des officiers supérieurs et des notables de la ville. Sur un ordre de Festus, Paul fut introduit.
   '24':
-  - type: text
-    content: '– Roi Agrippa, dit alors le gouverneur, et vous tous qui êtes ici présents, vous avez devant vous l’homme au sujet duquel toute la foule des Juifs est venue me trouver, à Jérusalem aussi bien qu’ici, pour crier qu’il n’avait plus le droit de vivre. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: '– Roi Agrippa, dit alors le gouverneur, et vous tous qui êtes ici présents, vous avez devant vous l’homme au sujet duquel toute la foule des Juifs est venue me trouver, à Jérusalem aussi bien qu’ici, pour crier qu’il n’avait plus le droit de vivre. '
   '25':
-  - type: text
-    content: 'Or, en ce qui me concerne, je n’ai rien trouvé dans son cas qui puisse mériter une condamnation à mort. Cependant, puisqu’il en a appelé à l’empereur, j’ai décidé de le lui envoyer. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Or, en ce qui me concerne, je n’ai rien trouvé dans son cas qui puisse mériter une condamnation à mort. Cependant, puisqu’il en a appelé à l’empereur, j’ai décidé de le lui envoyer. '
   '26':
-  - type: text
-    content: 'Seulement, je ne dispose d’aucun fait précis à écrire à l’empereur. C’est pourquoi je le fais comparaître devant vous, et tout spécialement devant toi, roi Agrippa, afin d’avoir quelque chose à écrire après cet interrogatoire. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Seulement, je ne dispose d’aucun fait précis à écrire à l’empereur. C’est pourquoi je le fais comparaître devant vous, et tout spécialement devant toi, roi Agrippa, afin d’avoir quelque chose à écrire après cet interrogatoire. '
   '27':
-  - type: text
-    content: Car il est absurde, me semble-t-il, d’envoyer ainsi un prisonnier à Rome sans pouvoir préciser les accusations dont il est l’objet.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Car il est absurde, me semble-t-il, d’envoyer ainsi un prisonnier à Rome sans pouvoir préciser les accusations dont il est l’objet.
   '3':
-  - type: text
-    content: 'Ils lui demandèrent avec insistance, comme une faveur spéciale, de faire transférer l’accusé à Jérusalem. Ils avaient déjà fait leurs plans : sur le trajet, ils voulaient lui dresser une embuscade et le tuer.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ils lui demandèrent avec insistance, comme une faveur spéciale, de faire transférer l’accusé à Jérusalem. Ils avaient déjà fait leurs plans : sur le trajet, ils voulaient lui dresser une embuscade et le tuer.'
   '4':
-  - type: text
-    content: 'Mais Festus leur répondit : Paul est en prison à Césarée, et je ne vais pas tarder à retourner moi-même dans cette ville. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Mais Festus leur répondit : Paul est en prison à Césarée, et je ne vais pas tarder à retourner moi-même dans cette ville. '
   '5':
-  - type: text
-    content: 'Il y a parmi vous des hommes compétents : qu’ils m’y accompagnent, et si cet homme a commis quelque irrégularité, qu’ils portent plainte contre lui !'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Il y a parmi vous des hommes compétents : qu’ils m’y accompagnent, et si cet homme a commis quelque irrégularité, qu’ils portent plainte contre lui !'
   '6':
-  - type: text
-    content: 'Festus ne resta pas plus de huit à dix jours à Jérusalem, puis il redescendit à Césarée. Le lendemain de son retour, il alla siéger au tribunal et y fit comparaître Paul. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Festus ne resta pas plus de huit à dix jours à Jérusalem, puis il redescendit à Césarée. Le lendemain de son retour, il alla siéger au tribunal et y fit comparaître Paul. '
   '7':
-  - type: text
-    content: A peine celui-ci fut-il entré, que les Juifs venus de Jérusalem l’entourèrent et portèrent contre lui un grand nombre de graves accusations, mais ils ne pouvaient pas les prouver.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: A peine celui-ci fut-il entré, que les Juifs venus de Jérusalem l’entourèrent et portèrent contre lui un grand nombre de graves accusations, mais ils ne pouvaient pas les prouver.
   '8':
-  - type: text
-    content: 'Paul, quant à lui, disait pour sa défense : Je n’ai commis aucune faute ni contre la loi juive, ni contre le temple, ni contre César.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Paul, quant à lui, disait pour sa défense : Je n’ai commis aucune faute ni contre la loi juive, ni contre le temple, ni contre César.'
   '9':
-  - type: text
-    content: 'Mais Festus voulait se concilier la faveur des Juifs ; il demanda donc à Paul : Acceptes-tu de retourner à Jérusalem pour y être jugé sur cette affaire sous ma présidence ?'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Mais Festus voulait se concilier la faveur des Juifs ; il demanda donc à Paul : Acceptes-tu de retourner à Jérusalem pour y être jugé sur cette affaire sous ma présidence ?'

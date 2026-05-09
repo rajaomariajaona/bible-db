@@ -2,39 +2,79 @@ document_id: PSA.134,111
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: Psalm 134
-  - type: text
-    content: A song of ascents.
-  - type: text
-    content: 'Praise the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', all you servants of the '
-  - type: text
-    content: Lord
-  - type: text
-    content: 'who minister by night in the house of the '
-  - type: text
-    content: Lord
-  - type: text
-    content: .
+  - type: usfm
+    marker: cl
+    children:
+    - type: text
+      text: Psalm 134
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: A song of ascents.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Praise the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', all you servants of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'who minister by night in the house of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: .
   '2':
-  - type: text
-    content: Lift up your hands in the sanctuary
-  - type: text
-    content: 'and praise the '
-  - type: text
-    content: Lord
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Lift up your hands in the sanctuary
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and praise the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: .
   '3':
-  - type: text
-    content: 'May the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' bless you from Zion,'
-  - type: text
-    content: he who is the Maker of heaven and earth.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'May the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' bless you from Zion,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: he who is the Maker of heaven and earth.

@@ -2,102 +2,210 @@ document_id: PSA.76,1
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: 'To the chief Musician on Neginoth, A Psalm '
-  - type: text
-    content: or
-  - type: text
-    content: ' Song of Asaph.'
-  - type: text
-    content: 'In Judah '
-  - type: text
-    content: is
-  - type: text
-    content: ' God known:'
-  - type: text
-    content: 'His name '
-  - type: text
-    content: is
-  - type: text
-    content: ' great in Israel.'
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'To the chief Musician on Neginoth, A Psalm '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: or
+    - type: text
+      text: ' Song of Asaph.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'In Judah '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' God known:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'His name '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' great in Israel.'
   '10':
-  - type: text
-    content: 'Surely the wrath of man shall praise thee:'
-  - type: text
-    content: The remainder of wrath shalt thou restrain.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Surely the wrath of man shall praise thee:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: The remainder of wrath shalt thou restrain.
   '11':
-  - type: text
-    content: 'Vow, and pay unto the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' your God: Let all that be round about him'
-  - type: text
-    content: Bring presents unto him that ought to be feared.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Vow, and pay unto the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' your God: Let all that be round about him'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Bring presents unto him that ought to be feared.
   '12':
-  - type: text
-    content: 'He shall cut off the spirit of princes:'
-  - type: text
-    content: He is
-  - type: text
-    content: ' terrible to the kings of the earth.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'He shall cut off the spirit of princes:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: He is
+    - type: text
+      text: ' terrible to the kings of the earth.'
   '2':
-  - type: text
-    content: In Salem also is his tabernacle,
-  - type: text
-    content: And his dwelling place in Zion.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: In Salem also is his tabernacle,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: And his dwelling place in Zion.
   '3':
-  - type: text
-    content: There brake he the arrows of the bow,
-  - type: text
-    content: 'The shield, and the sword, and the battle. '
-  - type: text
-    content: Selah.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: There brake he the arrows of the bow,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'The shield, and the sword, and the battle. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Selah.
   '4':
-  - type: text
-    content: 'Thou '
-  - type: text
-    content: art
-  - type: text
-    content: ' more glorious '
-  - type: text
-    content: and
-  - type: text
-    content: ' excellent'
-  - type: text
-    content: Than the mountains of prey.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Thou '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: art
+    - type: text
+      text: ' more glorious '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: and
+    - type: text
+      text: ' excellent'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Than the mountains of prey.
   '5':
-  - type: text
-    content: 'The stouthearted are spoiled, they have slept their sleep:'
-  - type: text
-    content: And none of the men of might have found their hands.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The stouthearted are spoiled, they have slept their sleep:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: And none of the men of might have found their hands.
   '6':
-  - type: text
-    content: At thy rebuke, O God of Jacob,
-  - type: text
-    content: Both the chariot and horse are cast into a dead sleep.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: At thy rebuke, O God of Jacob,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Both the chariot and horse are cast into a dead sleep.
   '7':
-  - type: text
-    content: 'Thou, '
-  - type: text
-    content: even
-  - type: text
-    content: ' thou, '
-  - type: text
-    content: art
-  - type: text
-    content: ' to be feared:'
-  - type: text
-    content: And who may stand in thy sight when once thou art angry?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Thou, '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: even
+    - type: text
+      text: ' thou, '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: art
+    - type: text
+      text: ' to be feared:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: And who may stand in thy sight when once thou art angry?
   '8':
-  - type: text
-    content: Thou didst cause judgment to be heard from heaven;
-  - type: text
-    content: The earth feared, and was still,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Thou didst cause judgment to be heard from heaven;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: The earth feared, and was still,
   '9':
-  - type: text
-    content: When God arose to judgment,
-  - type: text
-    content: 'To save all the meek of the earth. '
-  - type: text
-    content: Selah.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: When God arose to judgment,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'To save all the meek of the earth. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Selah.

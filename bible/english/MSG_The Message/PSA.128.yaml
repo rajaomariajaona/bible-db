@@ -2,41 +2,89 @@ document_id: PSA.128,97
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: 'All you who fear '
-  - type: text
-    content: God
-  - type: text
-    content: ', how blessed you are!'
-  - type: text
-    content: how happily you walk on his smooth straight road!
-  - type: text
-    content: You worked hard and deserve all you’ve got coming.
-  - type: text
-    content: Enjoy the blessing! Soak in the goodness!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'All you who fear '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ', how blessed you are!'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: how happily you walk on his smooth straight road!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: You worked hard and deserve all you’ve got coming.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Enjoy the blessing! Soak in the goodness!
   '3':
-  - type: text
-    content: Your wife will bear children as a vine bears grapes,
-  - type: text
-    content: your household lush as a vineyard,
-  - type: text
-    content: The children around your table
-  - type: text
-    content: as fresh and promising as young olive shoots.
-  - type: text
-    content: Stand in awe of God’s Yes.
-  - type: text
-    content: 'Oh, how he blesses the one who fears '
-  - type: text
-    content: God
-  - type: text
-    content: '!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Your wife will bear children as a vine bears grapes,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: your household lush as a vineyard,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: The children around your table
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: as fresh and promising as young olive shoots.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Stand in awe of God’s Yes.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Oh, how he blesses the one who fears '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: '!'
   '5':
-  - type: text
-    content: Enjoy the good life in Jerusalem
-  - type: text
-    content: every day of your life.
-  - type: text
-    content: And enjoy your grandchildren.
-  - type: text
-    content: Peace to Israel!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Enjoy the good life in Jerusalem
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: every day of your life.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: And enjoy your grandchildren.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Peace to Israel!

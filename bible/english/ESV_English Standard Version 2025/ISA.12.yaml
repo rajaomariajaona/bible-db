@@ -2,122 +2,503 @@ document_id: ISA.12,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: The Lord Is My Strength and My Song
-  - type: text
-    content: You
-  - type: note
-    content: The Hebrew for you is singular in verse 1
-  - type: text
-    content: ' will say '
-  - type: note
-    content: ch. 11:11
-  - type: text
-    content: 'in that day:'
-  - type: text
-    content: '“I will give thanks to you, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ','
-  - type: text
-    content: for though you were angry with me,
-  - type: note
-    content: '[ch. 10:4 ]'
-  - type: text
-    content: your anger turned away,
-  - type: text
-    content: that you might comfort me.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' Is My Strength and My Song'
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: You
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '12:1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'The Hebrew for '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'you '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: is singular in verse 1
+      marker-yv: yv-n
+    - type: text
+      text: ' will say '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 11:11
+      marker-yv: yv-n
+    - type: text
+      text: 'in that day:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: '“I will give thanks to you, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: for though you were angry with me,
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 10:4
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: your anger turned away,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: that you might comfort me.
   '2':
-  - type: text
-    content: “Behold, God is my salvation;
-  - type: text
-    content: I will trust, and will not be afraid;
-  - type: text
-    content: 'for '
-  - type: note
-    content: Ex. 15:2; Ps. 118:14
-  - type: text
-    content: 'the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' '
-  - type: text
-    content: God
-  - type: note
-    content: Hebrew for Yah, the Lord
-  - type: text
-    content: is my strength and my song,
-  - type: text
-    content: and he has become my salvation.”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: “Behold, God is my salvation;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: I will trust, and will not be afraid;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'for '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ex. 15:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 118:14
+      marker-yv: yv-n
+    - type: text
+      text: 'the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '12:2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'for Yah, the '
+      - type: usfm
+        marker: bdit
+        children:
+        - type: text
+          text: Lord
+      marker-yv: yv-n
+    - type: text
+      text: is my strength and my song,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and he has become my salvation.”
   '3':
-  - type: text
-    content: ' '
-  - type: note
-    content: '[ John 4:13, 14; 7:37, 38 ]'
-  - type: text
-    content: With joy you
-  - type: note
-    content: The Hebrew for you is plural in verses 3, 4
-  - type: text
-    content: ' will draw water from the wells of salvation. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: John 4:13
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '14'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 7:37
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '38'
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: With joy you
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '12:3 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'The Hebrew for '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'you '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: is plural in verses 3, 4
+      marker-yv: yv-n
+    - type: text
+      text: ' will draw water from the wells of salvation. '
   '4':
-  - type: note
-    content: ch. 11:11
-  - type: text
-    content: 'And you will say in that day:'
-  - type: note
-    content: Ps. 105:1
-  - type: text
-    content: '“Give thanks to the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ','
-  - type: text
-    content: call upon his name,
-  - type: note
-    content: '[ Ps. 145:4-6 ]'
-  - type: text
-    content: make known his deeds among the peoples,
-  - type: text
-    content: 'proclaim '
-  - type: note
-    content: Ps. 148:13
-  - type: text
-    content: that his name is exalted.
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 11:11
+      marker-yv: yv-n
+    - type: text
+      text: 'And you will say in that day:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 105:1
+      marker-yv: yv-n
+    - type: text
+      text: '“Give thanks to the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: call upon his name,
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 145:4-6
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: make known his deeds among the peoples,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'proclaim '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 148:13
+      marker-yv: yv-n
+    - type: text
+      text: that his name is exalted.
   '5':
-  - type: text
-    content: ' '
-  - type: note
-    content: Ex. 15:1; Ps. 98:1
-  - type: text
-    content: '“Sing praises to the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', for he has done gloriously;'
-  - type: text
-    content: let this be made known
-  - type: note
-    content: Or this is made known
-  - type: text
-    content: ' in all the earth.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ex. 15:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 98:1
+      marker-yv: yv-n
+    - type: text
+      text: '“Sing praises to the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', for he has done gloriously;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: let this be made known
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '12:5 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: this is made known
+      marker-yv: yv-n
+    - type: text
+      text: ' in all the earth.'
   '6':
-  - type: text
-    content: Shout, and sing for joy, O inhabitant of Zion,
-  - type: text
-    content: 'for great '
-  - type: note
-    content: Ps. 46:5; Hos. 11:9
-  - type: text
-    content: in your
-  - type: note
-    content: The Hebrew for your in verse 6 is singular, referring to the inhabitant of Zion
-  - type: text
-    content: ' midst is '
-  - type: note
-    content: ch. 5:24; 41:14, 16
-  - type: text
-    content: the Holy One of Israel.”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Shout, and sing for joy, O inhabitant of Zion,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'for great '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 46:5
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Hos. 11:9
+      marker-yv: yv-n
+    - type: text
+      text: in your
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '12:6 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'The Hebrew for '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'your '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'in verse 6 is singular, referring to the '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: inhabitant of Zion
+      marker-yv: yv-n
+    - type: text
+      text: ' midst is '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 5:24
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 41:14
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '16'
+      marker-yv: yv-n
+    - type: text
+      text: the Holy One of Israel.”

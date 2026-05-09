@@ -2,168 +2,801 @@ document_id: GEN.13,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: Abram and Lot Separate
-  - type: text
-    content: 'So Abram went up from Egypt, he and his wife and all that he had, and Lot with him, '
-  - type: note
-    content: ch. 12:9
-  - type: text
-    content: into the Negeb.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Abram and Lot Separate
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'So Abram went up from Egypt, he and his wife and all that he had, and Lot with him, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 12:9
+      marker-yv: yv-n
+    - type: text
+      text: into the Negeb.
   '10':
-  - type: text
-    content: 'And Lot lifted up his eyes and saw that the '
-  - type: note
-    content: ch. 19:17, 25, 28; Deut. 34:3; 1 Kgs. 7:46; [Matt. 3:5]
-  - type: text
-    content: 'Jordan Valley was well watered everywhere like '
-  - type: note
-    content: ch. 2:8; Isa. 51:3; Ezek. 28:13; Joel 2:3
-  - type: text
-    content: 'the garden of the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', like the land of Egypt, in the direction of '
-  - type: note
-    content: ch. 14:2, 8; 19:22
-  - type: text
-    content: 'Zoar. (This was before the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' '
-  - type: note
-    content: ch. 19:24, 25
-  - type: text
-    content: 'destroyed Sodom and Gomorrah.) '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'And Lot lifted up his eyes and saw that the '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 19:17
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '25'
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '28'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Deut. 34:3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Kgs. 7:46
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 3:5
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'Jordan Valley was well watered everywhere like '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2:8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 51:3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ezek. 28:13
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Joel 2:3
+      marker-yv: yv-n
+    - type: text
+      text: 'the garden of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', like the land of Egypt, in the direction of '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 14:2
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '8'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 19:22
+      marker-yv: yv-n
+    - type: text
+      text: 'Zoar. (This was before the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 19:24
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '25'
+      marker-yv: yv-n
+    - type: text
+      text: 'destroyed Sodom and Gomorrah.) '
   '11':
-  - type: text
-    content: 'So Lot chose for himself all the Jordan Valley, and Lot journeyed east. Thus they separated from each other. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'So Lot chose for himself all the Jordan Valley, and Lot journeyed east. Thus they separated from each other. '
   '12':
-  - type: text
-    content: 'Abram settled in the land of Canaan, while Lot settled among the cities of the valley and moved his tent as far as Sodom. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Abram settled in the land of Canaan, while Lot settled among the cities of the valley and moved his tent as far as Sodom. '
   '13':
-  - type: text
-    content: 'Now the men of Sodom '
-  - type: note
-    content: ch. 18:20; Ezek. 16:49; 2 Pet. 2:7, 8
-  - type: text
-    content: 'were wicked, great sinners against the '
-  - type: text
-    content: Lord
-  - type: text
-    content: .
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Now the men of Sodom '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 18:20
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ezek. 16:49
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Pet. 2:7
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '8'
+      marker-yv: yv-n
+    - type: text
+      text: 'were wicked, great sinners against the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: .
   '14':
-  - type: text
-    content: 'The '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' said to Abram, after Lot had separated from him, “Lift up your eyes and look from the place where you are, '
-  - type: note
-    content: ch. 28:14
-  - type: text
-    content: 'northward and southward and eastward and westward, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' said to Abram, after Lot had separated from him, “Lift up your eyes and look from the place where you are, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 28:14
+      marker-yv: yv-n
+    - type: text
+      text: 'northward and southward and eastward and westward, '
   '15':
-  - type: text
-    content: 'for all the land that you see I will give '
-  - type: note
-    content: ch. 17:8; 28:13; 35:12; Acts 7:5
-  - type: text
-    content: 'to you and '
-  - type: note
-    content: ch. 12:7; 15:18; 24:7; 26:4; Deut. 34:4; 2 Chr. 20:7
-  - type: text
-    content: 'to your offspring forever. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'for all the land that you see I will give '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 17:8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 28:13
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 35:12
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Acts 7:5
+      marker-yv: yv-n
+    - type: text
+      text: 'to you and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 12:7
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 15:18
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 24:7
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 26:4
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Deut. 34:4
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Chr. 20:7
+      marker-yv: yv-n
+    - type: text
+      text: 'to your offspring forever. '
   '16':
-  - type: note
-    content: ch. 22:17; 28:14; 32:12; Num. 23:10; [1 Kgs. 3:8]; See ch. 15:5
-  - type: text
-    content: 'I will make your offspring as the dust of the earth, so that if one can count the dust of the earth, your offspring also can be counted. '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 22:17
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 28:14
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 32:12
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Num. 23:10
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Kgs. 3:8
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 15:5
+      marker-yv: yv-n
+    - type: text
+      text: 'I will make your offspring as the dust of the earth, so that if one can count the dust of the earth, your offspring also can be counted. '
   '17':
-  - type: text
-    content: 'Arise, walk through the length and the breadth of the land, for I will give it to you.” '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Arise, walk through the length and the breadth of the land, for I will give it to you.” '
   '18':
-  - type: text
-    content: 'So Abram moved his tent and came and '
-  - type: note
-    content: ch. 14:13
-  - type: text
-    content: 'settled by the '
-  - type: note
-    content: ch. 12:6
-  - type: text
-    content: oaks
-  - type: note
-    content: Or terebinths
-  - type: text
-    content: ' of Mamre, which '
-  - type: note
-    content: ch. 35:27
-  - type: text
-    content: 'are at Hebron, and there he built an altar to the '
-  - type: text
-    content: Lord
-  - type: text
-    content: .
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'So Abram moved his tent and came and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 14:13
+      marker-yv: yv-n
+    - type: text
+      text: 'settled by the '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 12:6
+      marker-yv: yv-n
+    - type: text
+      text: oaks
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '13:18 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: terebinths
+      marker-yv: yv-n
+    - type: text
+      text: ' of Mamre, which '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 35:27
+      marker-yv: yv-n
+    - type: text
+      text: 'are at Hebron, and there he built an altar to the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: .
   '2':
-  - type: text
-    content: ' '
-  - type: note
-    content: ch. 24:35; [ Ps. 112:1-3; Prov. 10:22 ]
-  - type: text
-    content: 'Now Abram was very rich in livestock, in silver, and in gold. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 24:35
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 112:1-3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Prov. 10:22
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'Now Abram was very rich in livestock, in silver, and in gold. '
   '3':
-  - type: text
-    content: 'And he journeyed on from the Negeb as far as Bethel to the place where his tent had been at the beginning, between Bethel and Ai, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'And he journeyed on from the Negeb as far as Bethel to the place where his tent had been at the beginning, between Bethel and Ai, '
   '4':
-  - type: text
-    content: 'to '
-  - type: note
-    content: ch. 12:7, 8
-  - type: text
-    content: 'the place where he had made an altar at the first. And there Abram called upon the name of the '
-  - type: text
-    content: Lord
-  - type: text
-    content: '. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'to '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 12:7
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '8'
+      marker-yv: yv-n
+    - type: text
+      text: 'the place where he had made an altar at the first. And there Abram called upon the name of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: '. '
   '5':
-  - type: text
-    content: 'And Lot, who went with Abram, also had flocks and herds and tents, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'And Lot, who went with Abram, also had flocks and herds and tents, '
   '6':
-  - type: text
-    content: 'so that '
-  - type: note
-    content: ch. 36:6, 7
-  - type: text
-    content: 'the land could not support both of them dwelling together; for their possessions were so great that they could not dwell together, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'so that '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 36:6
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '7'
+      marker-yv: yv-n
+    - type: text
+      text: 'the land could not support both of them dwelling together; for their possessions were so great that they could not dwell together, '
   '7':
-  - type: note
-    content: ch. 26:20
-  - type: text
-    content: 'and there was strife between the herdsmen of Abram’s livestock and the herdsmen of Lot’s livestock. At that time '
-  - type: note
-    content: ch. 12:6
-  - type: text
-    content: the Canaanites and the Perizzites were dwelling in the land.
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 26:20
+      marker-yv: yv-n
+    - type: text
+      text: 'and there was strife between the herdsmen of Abram’s livestock and the herdsmen of Lot’s livestock. At that time '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 12:6
+      marker-yv: yv-n
+    - type: text
+      text: the Canaanites and the Perizzites were dwelling in the land.
   '8':
-  - type: text
-    content: 'Then Abram said to Lot, '
-  - type: note
-    content: '[1 Cor. 6:1-8]'
-  - type: text
-    content: '“Let there be no strife between you and me, and between your herdsmen and my herdsmen, '
-  - type: note
-    content: '[Acts 7:26]'
-  - type: text
-    content: for we are kinsmen.
-  - type: note
-    content: Hebrew we are men, brothers
-  - type: text
-    content: ' '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Then Abram said to Lot, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Cor. 6:1-8
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: '“Let there be no strife between you and me, and between your herdsmen and my herdsmen, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Acts 7:26
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: for we are kinsmen.
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '13:8 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: we are men, brothers
+      marker-yv: yv-n
+    - type: text
+      text: ' '
   '9':
-  - type: note
-    content: ch. 20:15; 34:10
-  - type: text
-    content: 'Is not the whole land before you? Separate yourself from me. If you take the left hand, then I will go to the right, or if you take the right hand, then I will go to the left.” '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 20:15
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 34:10
+      marker-yv: yv-n
+    - type: text
+      text: 'Is not the whole land before you? Separate yourself from me. If you take the left hand, then I will go to the right, or if you take the right hand, then I will go to the left.” '

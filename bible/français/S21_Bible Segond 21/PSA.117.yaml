@@ -2,20 +2,66 @@ document_id: PSA.117,152
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Louange universelle à Dieu
-  - type: text
-    content: '*Louez l''Eternel, vous, toutes les nations,'
-  - type: text
-    content: célébrez-le, vous, tous les peuples
-  - type: note
-    content: 'Louez… peuples: cité en Romains 15.11.'
-  - type: text
-    content: ','
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Louange universelle à Dieu
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: '*Louez l''Eternel, vous, toutes les nations,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: célébrez-le, vous, tous les peuples
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '117.1 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Louez… peuples: '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'cité en '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Romains 15.11
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: ','
   '2':
-  - type: text
-    content: car sa bonté est grande envers nous
-  - type: text
-    content: et sa vérité dure éternellement!
-  - type: text
-    content: Louez l'Eternel!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: car sa bonté est grande envers nous
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et sa vérité dure éternellement!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Louez l'Eternel!

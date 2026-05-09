@@ -2,33 +2,69 @@ document_id: PSA.131,116
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: A song for pilgrims ascending to Jerusalem. A psalm of David.
-  - type: text
-    content: ' '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', my heart is not proud;'
-  - type: text
-    content: my eyes are not haughty.
-  - type: text
-    content: I don’t concern myself with matters too great
-  - type: text
-    content: or too awesome for me to grasp.
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: A song for pilgrims ascending to Jerusalem. A psalm of David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', my heart is not proud;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: my eyes are not haughty.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: I don’t concern myself with matters too great
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: or too awesome for me to grasp.
   '2':
-  - type: text
-    content: Instead, I have calmed and quieted myself,
-  - type: text
-    content: like a weaned child who no longer cries for its mother’s milk.
-  - type: text
-    content: Yes, like a weaned child is my soul within me.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Instead, I have calmed and quieted myself,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: like a weaned child who no longer cries for its mother’s milk.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Yes, like a weaned child is my soul within me.
   '3':
-  - type: text
-    content: 'O Israel, put your hope in the '
-  - type: text
-    content: Lord
-  - type: text
-    content: —
-  - type: text
-    content: now and always.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'O Israel, put your hope in the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: —
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: now and always.

@@ -2,39 +2,116 @@ document_id: PSA.43,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Mets ton espoir en DieuDans plusieurs manuscrits hébreux, les Ps 42 et 43 constituent un seul psaume.
-  - type: text
-    content: Fais-moi justice, ô Dieu,
-  - type: text
-    content: et prends en main ma cause ╵contre un peuple d’impies !
-  - type: text
-    content: Sauve-moi de ces gens ╵menteurs et criminels !
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Mets ton espoir en Dieu
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '43 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Dans plusieurs manuscrits hébreux, les '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Ps 42
+        - type: text
+          text: ' et '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: '43'
+        - type: text
+          text: ' constituent un seul psaume.'
+      marker-yv: yv-n
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Fais-moi justice, ô Dieu,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et prends en main ma cause ╵contre un peuple d’impies !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Sauve-moi de ces gens ╵menteurs et criminels !
   '2':
-  - type: text
-    content: O Dieu, tu es ma forteresse, ╵pourquoi donc me rejettes-tu,
-  - type: text
-    content: et pourquoi me faut-il ╵vivre dans la tristesse,
-  - type: text
-    content: subissant l’oppression ╵de l’ennemi ?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: O Dieu, tu es ma forteresse, ╵pourquoi donc me rejettes-tu,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et pourquoi me faut-il ╵vivre dans la tristesse,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: subissant l’oppression ╵de l’ennemi ?
   '3':
-  - type: text
-    content: Fais-moi voir ta lumière, ╵avec ta vérité
-  - type: text
-    content: pour qu’elles me conduisent
-  - type: text
-    content: et qu’elles soient mes guides ╵vers ta montagne sainte ╵jusque dans ta demeure.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Fais-moi voir ta lumière, ╵avec ta vérité
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: pour qu’elles me conduisent
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et qu’elles soient mes guides ╵vers ta montagne sainte ╵jusque dans ta demeure.
   '4':
-  - type: text
-    content: Alors j’avancerai ╵jusqu’à l’autel de Dieu,
-  - type: text
-    content: vers toi, Dieu de ma joie ╵et de mon allégresse.
-  - type: text
-    content: 'Alors je te louerai ╵en m’accompagnant de la lyre. ╵O Dieu : tu es mon Dieu !'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Alors j’avancerai ╵jusqu’à l’autel de Dieu,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: vers toi, Dieu de ma joie ╵et de mon allégresse.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Alors je te louerai ╵en m’accompagnant de la lyre. ╵O Dieu : tu es mon Dieu !'
   '5':
-  - type: text
-    content: Pourquoi donc, ô mon âme, ╵es-tu si abattue ╵et gémis-tu sur moi ?
-  - type: text
-    content: Mets ton espoir en Dieu ! ╵Je le louerai encore,
-  - type: text
-    content: mon Sauveur et mon Dieu.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Pourquoi donc, ô mon âme, ╵es-tu si abattue ╵et gémis-tu sur moi ?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mets ton espoir en Dieu ! ╵Je le louerai encore,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: mon Sauveur et mon Dieu.

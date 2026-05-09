@@ -2,147 +2,297 @@ document_id: PSA.92,1
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: 'A Psalm '
-  - type: text
-    content: or
-  - type: text
-    content: ' Song for the sabbath day.'
-  - type: text
-    content: ' '
-  - type: text
-    content: It is
-  - type: text
-    content: ' a good thing to give thanks unto the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ','
-  - type: text
-    content: 'And to sing praises unto thy name, O most High:'
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'A Psalm '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: or
+    - type: text
+      text: ' Song for the sabbath day.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: It is
+    - type: text
+      text: ' a good thing to give thanks unto the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'And to sing praises unto thy name, O most High:'
   '10':
-  - type: text
-    content: 'But my horn shalt thou exalt like '
-  - type: text
-    content: the horn of
-  - type: text
-    content: ' an unicorn:'
-  - type: text
-    content: I shall be anointed with fresh oil.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'But my horn shalt thou exalt like '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: the horn of
+    - type: text
+      text: ' an unicorn:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: I shall be anointed with fresh oil.
   '11':
-  - type: text
-    content: 'Mine eye also shall see '
-  - type: text
-    content: my desire
-  - type: text
-    content: ' on mine enemies,'
-  - type: text
-    content: And
-  - type: text
-    content: ' mine ears shall hear '
-  - type: text
-    content: my desire
-  - type: text
-    content: ' of the wicked that rise up against me.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Mine eye also shall see '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: my desire
+    - type: text
+      text: ' on mine enemies,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: And
+    - type: text
+      text: ' mine ears shall hear '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: my desire
+    - type: text
+      text: ' of the wicked that rise up against me.'
   '12':
-  - type: text
-    content: 'The righteous shall flourish like the palm tree:'
-  - type: text
-    content: He shall grow like a cedar in Lebanon.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The righteous shall flourish like the palm tree:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: He shall grow like a cedar in Lebanon.
   '13':
-  - type: text
-    content: 'Those that be planted in the house of the '
-  - type: text
-    content: LORD
-  - type: text
-    content: Shall flourish in the courts of our God.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Those that be planted in the house of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Shall flourish in the courts of our God.
   '14':
-  - type: text
-    content: They shall still bring forth fruit in old age;
-  - type: text
-    content: They shall be fat and flourishing;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: They shall still bring forth fruit in old age;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: They shall be fat and flourishing;
   '15':
-  - type: text
-    content: 'To shew that the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' '
-  - type: text
-    content: is
-  - type: text
-    content: ' upright: '
-  - type: text
-    content: He is
-  - type: text
-    content: ' my rock,'
-  - type: text
-    content: 'And '
-  - type: text
-    content: there is
-  - type: text
-    content: ' no unrighteousness in him.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'To shew that the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' upright: '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: He is
+    - type: text
+      text: ' my rock,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'And '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: there is
+    - type: text
+      text: ' no unrighteousness in him.'
   '2':
-  - type: text
-    content: To shew forth thy lovingkindness in the morning,
-  - type: text
-    content: And thy faithfulness every night,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: To shew forth thy lovingkindness in the morning,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: And thy faithfulness every night,
   '3':
-  - type: text
-    content: Upon an instrument of ten strings, and upon the psaltery;
-  - type: text
-    content: Upon the harp with a solemn sound.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Upon an instrument of ten strings, and upon the psaltery;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Upon the harp with a solemn sound.
   '4':
-  - type: text
-    content: 'For thou, '
-  - type: text
-    content: LORD
-  - type: text
-    content: ', hast made me glad through thy work:'
-  - type: text
-    content: I will triumph in the works of thy hands.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'For thou, '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ', hast made me glad through thy work:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: I will triumph in the works of thy hands.
   '5':
-  - type: text
-    content: 'O '
-  - type: text
-    content: LORD
-  - type: text
-    content: ', how great are thy works!'
-  - type: text
-    content: And
-  - type: text
-    content: ' thy thoughts are very deep.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ', how great are thy works!'
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: And
+    - type: text
+      text: ' thy thoughts are very deep.'
   '6':
-  - type: text
-    content: A brutish man knoweth not;
-  - type: text
-    content: Neither doth a fool understand this.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: A brutish man knoweth not;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Neither doth a fool understand this.
   '7':
-  - type: text
-    content: When the wicked spring as the grass,
-  - type: text
-    content: And when all the workers of iniquity do flourish;
-  - type: text
-    content: It is
-  - type: text
-    content: ' that they shall be destroyed for ever:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: When the wicked spring as the grass,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: And when all the workers of iniquity do flourish;
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: It is
+    - type: text
+      text: ' that they shall be destroyed for ever:'
   '8':
-  - type: text
-    content: 'But thou, '
-  - type: text
-    content: LORD
-  - type: text
-    content: ', '
-  - type: text
-    content: art most
-  - type: text
-    content: ' high for evermore.'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'But thou, '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: art most
+    - type: text
+      text: ' high for evermore.'
   '9':
-  - type: text
-    content: 'For, lo, thine enemies, O '
-  - type: text
-    content: LORD
-  - type: text
-    content: ', for, lo, thine enemies shall perish;'
-  - type: text
-    content: All the workers of iniquity shall be scattered.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'For, lo, thine enemies, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ', for, lo, thine enemies shall perish;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: All the workers of iniquity shall be scattered.

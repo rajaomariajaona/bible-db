@@ -2,93 +2,282 @@ document_id: PSA.8,111
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: Psalm 8In Hebrew texts 8:1-9 is numbered 8:2-10.
-  - type: text
-    content: 'For the director of music. According to '
-  - type: text
-    content: gittith.
-  - type: note
-    content: 'Title: Probably a musical term'
-  - type: text
-    content: ' A psalm of David.'
-  - type: text
-    content: ' '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', our Lord,'
-  - type: text
-    content: how majestic is your name in all the earth!
-  - type: text
-    content: You have set your glory
-  - type: text
-    content: in the heavens.
+  - type: usfm
+    marker: cl
+    children:
+    - type: text
+      text: Psalm 8
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: In Hebrew texts 8:1-9 is numbered 8:2-10.
+      marker-yv: yv-n
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'For the director of music. According to '
+    - type: usfm
+      marker: tl
+      children:
+      - type: text
+        text: gittith.
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Title: Probably a musical term'
+      marker-yv: yv-n
+    - type: text
+      text: ' A psalm of David.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', our Lord,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: how majestic is your name in all the earth!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: You have set your glory
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: in the heavens.
   '2':
-  - type: text
-    content: Through the praise of children and infants
-  - type: text
-    content: you have established a stronghold against your enemies,
-  - type: text
-    content: to silence the foe and the avenger.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Through the praise of children and infants
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: you have established a stronghold against your enemies,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: to silence the foe and the avenger.
   '3':
-  - type: text
-    content: When I consider your heavens,
-  - type: text
-    content: the work of your fingers,
-  - type: text
-    content: the moon and the stars,
-  - type: text
-    content: which you have set in place,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: When I consider your heavens,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: the work of your fingers,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: the moon and the stars,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: which you have set in place,
   '4':
-  - type: text
-    content: what is mankind that you are mindful of them,
-  - type: text
-    content: human beings that you care for them?
-  - type: note
-    content: Or what is a human being that you are mindful of him, / a son of man that you care for him?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: what is mankind that you are mindful of them,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: human beings that you care for them?
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '8:4 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: what is a human being that you are mindful of him, / a son of man that you care for him?
+      marker-yv: yv-n
   '5':
-  - type: text
-    content: You have made them
-  - type: note
-    content: Or him
-  - type: text
-    content: ' a little lower than the angels'
-  - type: note
-    content: Or than God
-  - type: text
-    content: and crowned them
-  - type: note
-    content: Or him
-  - type: text
-    content: ' with glory and honor.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: You have made them
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '8:5 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: him
+      marker-yv: yv-n
+    - type: text
+      text: ' a little lower than the angels'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '8:5 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: than God
+      marker-yv: yv-n
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and crowned them
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '8:5 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: him
+      marker-yv: yv-n
+    - type: text
+      text: ' with glory and honor.'
   '6':
-  - type: text
-    content: You made them rulers over the works of your hands;
-  - type: text
-    content: you put everything under their
-  - type: note
-    content: Or made him ruler…; / …his
-  - type: text
-    content: ' feet:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: You made them rulers over the works of your hands;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: you put everything under their
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '8:6 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: made him ruler…; / …his
+      marker-yv: yv-n
+    - type: text
+      text: ' feet:'
   '7':
-  - type: text
-    content: all flocks and herds,
-  - type: text
-    content: and the animals of the wild,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: all flocks and herds,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and the animals of the wild,
   '8':
-  - type: text
-    content: the birds in the sky,
-  - type: text
-    content: and the fish in the sea,
-  - type: text
-    content: all that swim the paths of the seas.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: the birds in the sky,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and the fish in the sea,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: all that swim the paths of the seas.
   '9':
-  - type: text
-    content: ' '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', our Lord,'
-  - type: text
-    content: how majestic is your name in all the earth!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', our Lord,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: how majestic is your name in all the earth!

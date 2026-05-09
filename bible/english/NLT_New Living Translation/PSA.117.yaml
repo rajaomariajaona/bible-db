@@ -2,26 +2,50 @@ document_id: PSA.117,116
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: 'Praise the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', all you nations.'
-  - type: text
-    content: Praise him, all you people of the earth.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Praise the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', all you nations.'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Praise him, all you people of the earth.
   '2':
-  - type: text
-    content: For his unfailing love for us is powerful;
-  - type: text
-    content: 'the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ’s faithfulness endures forever.
-  - type: text
-    content: 'Praise the '
-  - type: text
-    content: Lord
-  - type: text
-    content: '!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: For his unfailing love for us is powerful;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ’s faithfulness endures forever.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Praise the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: '!'

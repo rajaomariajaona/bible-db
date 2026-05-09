@@ -2,39 +2,73 @@ document_id: PSA.100,8
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: A Psalm of thanksgiving {and} for the thank offering.
-  - type: text
-    content: ' MAKE A joyful noise to the Lord, all you lands!'
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: A Psalm of thanksgiving {and} for the thank offering.
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' MAKE A joyful noise to the Lord, all you lands!'
   '2':
-  - type: text
-    content: ' Serve the Lord with gladness! Come before His presence with singing!'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' Serve the Lord with gladness! Come before His presence with singing!'
   '3':
-  - type: text
-    content: ' Know (perceive, recognize, and understand with approval) that the Lord is God! It is He Who has made us, not we ourselves [and we are His]! We are His people and the sheep of His pasture. [Eph. 2:10.]'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' Know (perceive, recognize, and understand with approval) that the Lord is God! It is He Who has made us, not we ourselves [and we are His]! We are His people and the sheep of His pasture. [Eph. 2:10.]'
   '4':
-  - type: text
-    content: ' Enter into His gates with thanksgiving '
-  - type: text
-    content: and
-  - type: text
-    content: ' a thank offering and into His courts with praise! Be thankful '
-  - type: text
-    content: and
-  - type: text
-    content: ' say so to Him, bless '
-  - type: text
-    content: and
-  - type: text
-    content: ' affectionately praise His name!'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' Enter into His gates with thanksgiving '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: and
+    - type: text
+      text: ' a thank offering and into His courts with praise! Be thankful '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: and
+    - type: text
+      text: ' say so to Him, bless '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: and
+    - type: text
+      text: ' affectionately praise His name!'
   '5':
-  - type: text
-    content: ' For the Lord is good; His mercy '
-  - type: text
-    content: and
-  - type: text
-    content: ' loving-kindness are everlasting, His faithfulness '
-  - type: text
-    content: and
-  - type: text
-    content: ' truth endure to all generations.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' For the Lord is good; His mercy '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: and
+    - type: text
+      text: ' loving-kindness are everlasting, His faithfulness '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: and
+    - type: text
+      text: ' truth endure to all generations.'

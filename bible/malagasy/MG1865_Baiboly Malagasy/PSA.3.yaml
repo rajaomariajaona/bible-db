@@ -2,32 +2,64 @@ document_id: PSA.3,96
 type_code: plt
 verses:
   '1':
-  - type: heading
-    content: Ny fahatokian'izay manana an'Andriamanitra ho Mpiaro. na dia be aza ny fahavalony
-  - type: text
-    content: 'Salamo nataon''i Davida, fony izy nandositra an''i Absaloma zanany. Jehovah ô, akory izato hamaroan''ny mampahory ahy! Maro no mitsangana hanohitra ahy. '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Ny fahatokian'izay manana an'Andriamanitra ho Mpiaro. na dia be aza ny fahavalony
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Salamo nataon''i Davida, fony izy nandositra an''i Absaloma zanany. Jehovah ô, akory izato hamaroan''ny mampahory ahy! Maro no mitsangana hanohitra ahy. '
   '2':
-  - type: text
-    content: 'Maro no milaza ny fanahiko hoe: tsy manam-pamonjena amin''Andriamanitra izy. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Maro no milaza ny fanahiko hoe: tsy manam-pamonjena amin''Andriamanitra izy. '
   '3':
-  - type: text
-    content: Kanjo Hianao, Jehovah ô, no ampinga manodidina ahy, Voninahitro sy mpanandratra ny lohako.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Kanjo Hianao, Jehovah ô, no ampinga manodidina ahy, Voninahitro sy mpanandratra ny lohako.
   '4':
-  - type: text
-    content: 'Amin''ny feoko no iantsoako an''i Jehovah, ary any an-tendrombohiny masina no mamaly ahy Izy. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Amin''ny feoko no iantsoako an''i Jehovah, ary any an-tendrombohiny masina no mamaly ahy Izy. '
   '5':
-  - type: text
-    content: 'Izaho nandry ka natory; nifoha aho, satria Jehovah no manohana ahy. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Izaho nandry ka natory; nifoha aho, satria Jehovah no manohana ahy. '
   '6':
-  - type: text
-    content: Tsy hatahotra olona alinalina aho, izay milahatra manodidina hamely ahy.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Tsy hatahotra olona alinalina aho, izay milahatra manodidina hamely ahy.
   '7':
-  - type: text
-    content: 'Mitsangàna, Jehovah ô; vonjeo aho, Andriamanitro ô; fa efa namely ny takolaky ny fahavaloko rehetra Hianao; ny nifin''ny ratsy fanahy novakivakinao. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Mitsangàna, Jehovah ô; vonjeo aho, Andriamanitro ô; fa efa namely ny takolaky ny fahavaloko rehetra Hianao; ny nifin''ny ratsy fanahy novakivakinao. '
   '8':
-  - type: text
-    content: An'i Jehovah ny famonjena; Ho amin'ny olonao anie ny fitahianao
-  - type: note
-    content: 'Na: Ho amin''ny olonao ny fitahianao'
-  - type: text
-    content: .
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: An'i Jehovah ny famonjena; Ho amin'ny olonao anie ny fitahianao
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: 'Na: Ho amin''ny olonao ny fitahianao'
+      marker-yv: yv-n
+    - type: text
+      text: .

@@ -2,116 +2,423 @@ document_id: PSA.12,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: The Faithful Have Vanished
-  - type: text
-    content: 'To the choirmaster: according to The Sheminith.'
-  - type: note
-    content: Probably a musical or liturgical term
-  - type: text
-    content: ' A Psalm of David.'
-  - type: text
-    content: 'Save, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', for '
-  - type: note
-    content: Isa. 57:1; Mic. 7:2
-  - type: text
-    content: the godly one is gone;
-  - type: text
-    content: for the faithful have vanished from among the children of man.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: The Faithful Have Vanished
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'To the choirmaster: according to The Sheminith.'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '12:1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Probably a musical or liturgical term
+      marker-yv: yv-n
+    - type: text
+      text: ' A Psalm of David.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Save, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', for '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 57:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Mic. 7:2
+      marker-yv: yv-n
+    - type: text
+      text: the godly one is gone;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: for the faithful have vanished from among the children of man.
   '2':
-  - type: text
-    content: 'Everyone '
-  - type: note
-    content: Ps. 41:6; 144:8
-  - type: text
-    content: utters lies to his neighbor;
-  - type: text
-    content: 'with '
-  - type: note
-    content: Ps. 5:9; Jer. 9:8; Rom. 16:18
-  - type: text
-    content: 'flattering lips and '
-  - type: note
-    content: 1 Chr. 12:33; James 1:8
-  - type: text
-    content: a double heart they speak.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Everyone '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 41:6
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 144:8
+      marker-yv: yv-n
+    - type: text
+      text: utters lies to his neighbor;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'with '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 5:9
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 9:8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rom. 16:18
+      marker-yv: yv-n
+    - type: text
+      text: 'flattering lips and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Chr. 12:33
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: James 1:8
+      marker-yv: yv-n
+    - type: text
+      text: a double heart they speak.
   '3':
-  - type: text
-    content: 'May the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' cut off all '
-  - type: note
-    content: '[See ver. 2 above]'
-  - type: text
-    content: flattering lips,
-  - type: text
-    content: 'the tongue that makes '
-  - type: note
-    content: Dan. 7:8; Rev. 13:5; [Ps. 17:10]
-  - type: text
-    content: great boasts,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'May the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' cut off all '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[See ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '2'
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: above]
+      marker-yv: yv-n
+    - type: text
+      text: flattering lips,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'the tongue that makes '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Dan. 7:8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rev. 13:5
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 17:10
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: great boasts,
   '4':
-  - type: text
-    content: those who say, “With our tongue we will prevail,
-  - type: text
-    content: our lips are with us; who is master over us?”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: those who say, “With our tongue we will prevail,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: our lips are with us; who is master over us?”
   '5':
-  - type: text
-    content: '“Because '
-  - type: note
-    content: Ps. 9:12
-  - type: text
-    content: the poor are plundered, because the needy groan,
-  - type: note
-    content: Isa. 33:10; [ Ps. 82:8 ]
-  - type: text
-    content: 'I will now arise,” says the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ;
-  - type: text
-    content: '“I will place him in the '
-  - type: note
-    content: See Ps. 55:18
-  - type: text
-    content: safety for which he longs.”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: '“Because '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 9:12
+      marker-yv: yv-n
+    - type: text
+      text: the poor are plundered, because the needy groan,
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 33:10
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 82:8
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'I will now arise,” says the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: '“I will place him in the '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 55:18
+      marker-yv: yv-n
+    - type: text
+      text: safety for which he longs.”
   '6':
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps. 18:30; 119:140; Prov. 30:5; [ Ps. 19:8 ]
-  - type: text
-    content: 'The words of the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' are pure words,'
-  - type: text
-    content: like silver refined in a furnace on the ground,
-  - type: text
-    content: purified seven times.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 18:30
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 119:140
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Prov. 30:5
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 19:8
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'The words of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' are pure words,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: like silver refined in a furnace on the ground,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: purified seven times.
   '7':
-  - type: text
-    content: 'You, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', will keep them;'
-  - type: text
-    content: you will guard us
-  - type: note
-    content: Or guard him
-  - type: text
-    content: ' from this generation forever.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'You, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', will keep them;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: you will guard us
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '12:7 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: guard him
+      marker-yv: yv-n
+    - type: text
+      text: ' from this generation forever.'
   '8':
-  - type: text
-    content: On every side the wicked prowl,
-  - type: text
-    content: as vileness is exalted among the children of man.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: On every side the wicked prowl,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: as vileness is exalted among the children of man.

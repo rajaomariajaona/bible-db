@@ -2,82 +2,263 @@ document_id: PSA.126,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: Restore Our Fortunes, O Lord
-  - type: text
-    content: 'A Song of '
-  - type: note
-    content: '[See Ps. 120, title]'
-  - type: text
-    content: Ascents.
-  - type: text
-    content: 'When the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' '
-  - type: note
-    content: See Ps. 14:7
-  - type: text
-    content: restored the fortunes of Zion,
-  - type: text
-    content: 'we were like those who '
-  - type: note
-    content: '[Acts 12:9]'
-  - type: text
-    content: dream.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: 'Restore Our Fortunes, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'A Song of '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 120
+      - type: text
+        text: ', title'
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: Ascents.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'When the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 14:7
+      marker-yv: yv-n
+    - type: text
+      text: restored the fortunes of Zion,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'we were like those who '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Acts 12:9
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: dream.
   '2':
-  - type: text
-    content: 'Then our '
-  - type: note
-    content: Job 8:21
-  - type: text
-    content: mouth was filled with laughter,
-  - type: text
-    content: and our tongue with shouts of joy;
-  - type: text
-    content: then they said among the nations,
-  - type: note
-    content: See Ps. 71:19
-  - type: text
-    content: '“The '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' has done great things for them.”'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Then our '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 8:21
+      marker-yv: yv-n
+    - type: text
+      text: mouth was filled with laughter,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and our tongue with shouts of joy;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: then they said among the nations,
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 71:19
+      marker-yv: yv-n
+    - type: text
+      text: '“The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' has done great things for them.”'
   '3':
-  - type: text
-    content: 'The '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' has done great things for us;'
-  - type: text
-    content: we are glad.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' has done great things for us;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: we are glad.
   '4':
-  - type: text
-    content: 'Restore our fortunes, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ','
-  - type: text
-    content: like streams in the Negeb!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Restore our fortunes, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: like streams in the Negeb!
   '5':
-  - type: text
-    content: ' '
-  - type: note
-    content: '[ Ezra 6:22; Neh. 12:43; Jer. 31:9; Gal. 6:9 ]; See Hag. 2:3-9'
-  - type: text
-    content: Those who sow in tears
-  - type: text
-    content: shall reap with shouts of joy!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ezra 6:22
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Neh. 12:43
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 31:9
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Gal. 6:9
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']; See Hag. 2:3-9'
+      marker-yv: yv-n
+    - type: text
+      text: Those who sow in tears
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: shall reap with shouts of joy!
   '6':
-  - type: text
-    content: He who goes out weeping,
-  - type: text
-    content: bearing the seed for sowing,
-  - type: text
-    content: shall come home with shouts of joy,
-  - type: text
-    content: bringing his sheaves with him.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: He who goes out weeping,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: bearing the seed for sowing,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: shall come home with shouts of joy,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: bringing his sheaves with him.

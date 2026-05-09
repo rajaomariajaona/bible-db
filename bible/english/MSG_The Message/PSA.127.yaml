@@ -2,48 +2,105 @@ document_id: PSA.127,97
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: 'If '
-  - type: text
-    content: God
-  - type: text
-    content: ' doesn’t build the house,'
-  - type: text
-    content: the builders only build shacks.
-  - type: text
-    content: 'If '
-  - type: text
-    content: God
-  - type: text
-    content: ' doesn’t guard the city,'
-  - type: text
-    content: the night watchman might as well nap.
-  - type: text
-    content: It’s useless to rise early and go to bed late,
-  - type: text
-    content: and work your worried fingers to the bone.
-  - type: text
-    content: Don’t you know he enjoys
-  - type: text
-    content: giving rest to those he loves?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'If '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ' doesn’t build the house,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: the builders only build shacks.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'If '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ' doesn’t guard the city,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: the night watchman might as well nap.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: It’s useless to rise early and go to bed late,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and work your worried fingers to the bone.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Don’t you know he enjoys
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: giving rest to those he loves?
   '3':
-  - type: text
-    content: 'Don’t you see that children are '
-  - type: text
-    content: God
-  - type: text
-    content: ’s best gift?
-  - type: text
-    content: the fruit of the womb his generous legacy?
-  - type: text
-    content: Like a warrior’s fistful of arrows
-  - type: text
-    content: are the children of a vigorous youth.
-  - type: text
-    content: Oh, how blessed are you parents,
-  - type: text
-    content: with your quivers full of children!
-  - type: text
-    content: Your enemies don’t stand a chance against you;
-  - type: text
-    content: you’ll sweep them right off your doorstep.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Don’t you see that children are '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ’s best gift?
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: the fruit of the womb his generous legacy?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Like a warrior’s fistful of arrows
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: are the children of a vigorous youth.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Oh, how blessed are you parents,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: with your quivers full of children!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Your enemies don’t stand a chance against you;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: you’ll sweep them right off your doorstep.

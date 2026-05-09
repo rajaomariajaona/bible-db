@@ -2,72 +2,165 @@ document_id: ISA.12,111
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: Songs of Praise
-  - type: text
-    content: 'In that day you will say:'
-  - type: text
-    content: '“I will praise you, '
-  - type: text
-    content: Lord
-  - type: text
-    content: .
-  - type: text
-    content: Although you were angry with me,
-  - type: text
-    content: your anger has turned away
-  - type: text
-    content: and you have comforted me.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Songs of Praise
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'In that day you will say:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: '“I will praise you, '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: .
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Although you were angry with me,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: your anger has turned away
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and you have comforted me.
   '2':
-  - type: text
-    content: Surely God is my salvation;
-  - type: text
-    content: I will trust and not be afraid.
-  - type: text
-    content: 'The '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' himself, is my strength and my defense'
-  - type: note
-    content: Or song
-  - type: text
-    content: ;
-  - type: text
-    content: he has become my salvation.”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Surely God is my salvation;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: I will trust and not be afraid.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' himself, is my strength and my defense'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '12:2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: song
+      marker-yv: yv-n
+    - type: text
+      text: ;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: he has become my salvation.”
   '3':
-  - type: text
-    content: With joy you will draw water
-  - type: text
-    content: from the wells of salvation.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: With joy you will draw water
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: from the wells of salvation.
   '4':
-  - type: text
-    content: 'In that day you will say:'
-  - type: text
-    content: '“Give praise to the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', proclaim his name;'
-  - type: text
-    content: make known among the nations what he has done,
-  - type: text
-    content: and proclaim that his name is exalted.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'In that day you will say:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: '“Give praise to the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', proclaim his name;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: make known among the nations what he has done,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and proclaim that his name is exalted.
   '5':
-  - type: text
-    content: 'Sing to the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', for he has done glorious things;'
-  - type: text
-    content: let this be known to all the world.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Sing to the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', for he has done glorious things;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: let this be known to all the world.
   '6':
-  - type: text
-    content: Shout aloud and sing for joy, people of Zion,
-  - type: text
-    content: for great is the Holy One of Israel among you.”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Shout aloud and sing for joy, people of Zion,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: for great is the Holy One of Israel among you.”

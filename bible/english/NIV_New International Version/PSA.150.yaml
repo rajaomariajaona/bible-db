@@ -2,50 +2,124 @@ document_id: PSA.150,111
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: Psalm 150
-  - type: text
-    content: 'Praise the '
-  - type: text
-    content: Lord
-  - type: text
-    content: .
-  - type: note
-    content: Hebrew Hallelu Yah; also in verse 6
-  - type: text
-    content: Praise God in his sanctuary;
-  - type: text
-    content: praise him in his mighty heavens.
+  - type: usfm
+    marker: cl
+    children:
+    - type: text
+      text: Psalm 150
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Praise the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: .
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '150:1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: Hallelu Yah
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ; also in verse 6
+      marker-yv: yv-n
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Praise God in his sanctuary;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: praise him in his mighty heavens.
   '2':
-  - type: text
-    content: Praise him for his acts of power;
-  - type: text
-    content: praise him for his surpassing greatness.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Praise him for his acts of power;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: praise him for his surpassing greatness.
   '3':
-  - type: text
-    content: Praise him with the sounding of the trumpet,
-  - type: text
-    content: praise him with the harp and lyre,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Praise him with the sounding of the trumpet,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: praise him with the harp and lyre,
   '4':
-  - type: text
-    content: praise him with timbrel and dancing,
-  - type: text
-    content: praise him with the strings and pipe,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: praise him with timbrel and dancing,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: praise him with the strings and pipe,
   '5':
-  - type: text
-    content: praise him with the clash of cymbals,
-  - type: text
-    content: praise him with resounding cymbals.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: praise him with the clash of cymbals,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: praise him with resounding cymbals.
   '6':
-  - type: text
-    content: 'Let everything that has breath praise the '
-  - type: text
-    content: Lord
-  - type: text
-    content: .
-  - type: text
-    content: 'Praise the '
-  - type: text
-    content: Lord
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Let everything that has breath praise the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Praise the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: .

@@ -2,23 +2,47 @@ document_id: PSA.117,97
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: 'Praise '
-  - type: text
-    content: God
-  - type: text
-    content: ', everybody!'
-  - type: text
-    content: 'Applaud '
-  - type: text
-    content: God
-  - type: text
-    content: ', all people!'
-  - type: text
-    content: His love has taken over our lives;
-  - type: text
-    content: God
-  - type: text
-    content: ’s faithful ways are eternal.
-  - type: text
-    content: Hallelujah!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Praise '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ', everybody!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Applaud '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ', all people!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: His love has taken over our lives;
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ’s faithful ways are eternal.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Hallelujah!

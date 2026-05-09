@@ -2,46 +2,389 @@ document_id: ISA.20,104
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Sans chaussures et sans vêtements
-  - type: text
-    content: ' '
-  - type: note
-    content: 'Ashdod  : l''une des cinq villes de Philistie (Am 1.6) ; alliée de l''Egypte, elle avait essayé d''engager Juda dans une coalition contre l''Assyrie. Sargon II la fit attaquer et la prit en 711 av. J.-C. –  général en chef  : litt. tartân , titre assyrien (2R 18.17n).'
-  - type: text
-    content: 'L''année de son arrivée à Ashdod, le général en chef envoyé par Sargon, roi d''Assyrie, fit la guerre à Ashdod et la prit. '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Sans chaussures et sans vêtements
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '20.1 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Ashdod
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : l''une des cinq villes de Philistie (Am 1.6) ; alliée de l''Egypte, elle avait essayé d''engager Juda dans une coalition contre l''Assyrie. Sargon II la fit attaquer et la prit en 711 av. J.-C. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: général en chef
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: tartân
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', titre assyrien (2R 18.17'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: ).
+      marker-yv: yv-n
+    - type: text
+      text: 'L''année de son arrivée à Ashdod, le général en chef envoyé par Sargon, roi d''Assyrie, fit la guerre à Ashdod et la prit. '
   '2':
-  - type: note
-    content: 'Esaïe, fils d''Amots 1.1n. –  détache le sac  : signe de deuil ou vêtement distinctif du prophète. Sur ce type d’action symbolique, cf. 8.1-4 ; 1R 11.29-31 ; Jr 13.1-7 ; Ez 12.1-15 ; Os 1–3. –  nu et déchaussé  : cf. 1S 19.24 ; Mi 1.8.'
-  - type: text
-    content: 'En ce temps-là le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' avait parlé par l''intermédiaire d''Esaïe, fils d''Amots, en disant : Va, détache le sac de tes reins et ôte tes sandales de tes pieds. Il fit ainsi. Il marcha nu et déchaussé.'
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '20.2 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Esaïe, fils d''Amots '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '1.1'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: détache le sac
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '  : signe de deuil ou vêtement distinctif du '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: prophète
+        - type: text
+          text: . Sur ce type d’
+        - type: usfm
+          marker: bdit
+          children:
+          - type: text
+            text: action symbolique
+        - type: text
+          text: ', cf. 8.1-4 ; 1R 11.29-31 ; Jr 13.1-7 ; Ez 12.1-15 ; Os 1–3. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: nu et déchaussé
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '  : cf. 1S 19.24 ; Mi 1.8.'
+      marker-yv: yv-n
+    - type: text
+      text: 'En ce temps-là le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' avait parlé par l''intermédiaire d''Esaïe, fils d''Amots, en disant : Va, détache le sac de tes reins et ôte tes sandales de tes pieds. Il fit ainsi. Il marcha nu et déchaussé.'
   '3':
-  - type: text
-    content: ' '
-  - type: note
-    content: signe / présage 8.18n. –  Koush ou la Nubie  ; cf. 11.11 ; 18.1n  ; Gn 2.13n.
-  - type: text
-    content: 'Le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' dit : De même qu''Esaïe, mon serviteur, a marché nu et déchaussé – ce sera pour trois ans un signe et un présage pour l''Egypte et pour Koush – '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '20.3 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'signe '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '/ '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'présage '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '8.18'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Koush '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: la Nubie
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text:  ; cf. 11.11 ; 18.1
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; Gn 2.13'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' dit : De même qu''Esaïe, mon serviteur, a marché nu et déchaussé – ce sera pour trois ans un signe et un présage pour l''Egypte et pour Koush – '
   '4':
-  - type: note
-    content: les fesses découvertes  ; cf. 2S 10.4. –  Honte ou nudité.
-  - type: text
-    content: 'de même le roi d''Assyrie emmènera les captifs égyptiens et les exilés koushites, les jeunes et les vieux, nus et déchaussés, les fesses découvertes. Honte pour l''Egypte ! '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '20.4 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: les fesses découvertes
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '  ; cf. 2S 10.4. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Honte '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: nudité.
+      marker-yv: yv-n
+    - type: text
+      text: 'de même le roi d''Assyrie emmènera les captifs égyptiens et les exilés koushites, les jeunes et les vieux, nus et déchaussés, les fesses découvertes. Honte pour l''Egypte ! '
   '5':
-  - type: note
-    content: 'leur espoir  : litt. leur regard, de même au v. 6 ; cf. 31.3. –  leur splendeur  : autre traduction leur parure.'
-  - type: text
-    content: 'Ainsi ils seront terrifiés et honteux à cause de Koush, leur espoir, et de l''Egypte, leur splendeur ; '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '20.5 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: leur espoir
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '  : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: leur regard
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', de même au v. 6 ; cf. 31.3. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: leur splendeur
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '  : autre traduction '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: leur parure.
+      marker-yv: yv-n
+    - type: text
+      text: 'Ainsi ils seront terrifiés et honteux à cause de Koush, leur espoir, et de l''Egypte, leur splendeur ; '
   '6':
-  - type: note
-    content: 'de cette côte  : litt. de cette île, cf. 11.11+ ; Gn 10.5n  ; il s''agit ici de la Philistie ; mais la leçon vise surtout Juda, dans l''arrière-pays. –  espoir v. 5n.'
-  - type: text
-    content: 'les habitants de cette côte diront en ce jour-là : Voilà bien notre espoir, notre refuge pour être secourus, pour être délivrés du roi d''Assyrie ! Comment pourrions-nous échapper ?'
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '20.6 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: de cette côte
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '  : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: de cette île
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', cf. 11.11+ ; Gn 10.5'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; il s''agit ici de la Philistie ; mais la leçon vise surtout Juda, dans l''arrière-pays. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'espoir '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: v. 5
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'les habitants de cette côte diront en ce jour-là : Voilà bien notre espoir, notre refuge pour être secourus, pour être délivrés du roi d''Assyrie ! Comment pourrions-nous échapper ?'

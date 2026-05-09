@@ -2,134 +2,642 @@ document_id: ECC.6,59
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: ' '
-  - type: note
-    content: ch. 5:13
-  - type: text
-    content: 'There is an evil that I have seen under the sun, and it lies heavy on mankind: '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 5:13
+      marker-yv: yv-n
+    - type: text
+      text: 'There is an evil that I have seen under the sun, and it lies heavy on mankind: '
   '10':
-  - type: text
-    content: 'Whatever has come to be has '
-  - type: note
-    content: ch. 1:10; 3:15
-  - type: text
-    content: 'already been named, and it is known what man is, and that he is not able to '
-  - type: note
-    content: Job 9:32; Isa. 45:9; [1 Cor. 10:22]
-  - type: text
-    content: 'dispute with one stronger than he. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Whatever has come to be has '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1:10
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 3:15
+      marker-yv: yv-n
+    - type: text
+      text: 'already been named, and it is known what man is, and that he is not able to '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 9:32
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 45:9
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Cor. 10:22
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'dispute with one stronger than he. '
   '11':
-  - type: text
-    content: 'The more words, the more vanity, and what is the advantage to man? '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'The more words, the more vanity, and what is the advantage to man? '
   '12':
-  - type: text
-    content: 'For who knows what is good for man while he lives the few days of his '
-  - type: note
-    content: '[ch. 7:15; 9:9]'
-  - type: text
-    content: vain
-  - type: note
-    content: The Hebrew term hebel can refer to a “vapor” or “mere breath” (see note on 1:2)
-  - type: text
-    content: ' life, which he passes like '
-  - type: note
-    content: ch. 8:13; See Job 14:2
-  - type: text
-    content: 'a shadow? For who can tell man what will be '
-  - type: note
-    content: '[ch. 2:18; 3:22]'
-  - type: text
-    content: after him under the sun?
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'For who knows what is good for man while he lives the few days of his '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 7:15
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 9:9
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: vain
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '6:12 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'The Hebrew term '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'hebel '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: can refer to a “vapor” or “mere breath” (see note on 1:2)
+      marker-yv: yv-n
+    - type: text
+      text: ' life, which he passes like '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 8:13
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 14:2
+      marker-yv: yv-n
+    - type: text
+      text: 'a shadow? For who can tell man what will be '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2:18
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 3:22
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: after him under the sun?
   '2':
-  - type: text
-    content: 'a man '
-  - type: note
-    content: ch. 5:19
-  - type: text
-    content: 'to whom '
-  - type: note
-    content: '[1 Kgs. 3:13]'
-  - type: text
-    content: 'God gives wealth, possessions, and honor, so that he '
-  - type: note
-    content: Ps. 17:14; 73:7; See Job 21:7-13
-  - type: text
-    content: 'lacks nothing of all that he desires, yet God '
-  - type: note
-    content: '[ch. 5:19; Luke 12:20]'
-  - type: text
-    content: does not give him power to enjoy them, but a stranger enjoys them. This is vanity;
-  - type: note
-    content: The Hebrew term hebel can refer to a “vapor” or “mere breath”; also verses 4, 9, 11 (see note on 1:2)
-  - type: text
-    content: ' it is a grievous evil. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'a man '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 5:19
+      marker-yv: yv-n
+    - type: text
+      text: 'to whom '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Kgs. 3:13
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'God gives wealth, possessions, and honor, so that he '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 17:14
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 73:7
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 21:7-13
+      marker-yv: yv-n
+    - type: text
+      text: 'lacks nothing of all that he desires, yet God '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 5:19
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Luke 12:20
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: does not give him power to enjoy them, but a stranger enjoys them. This is vanity;
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '6:2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'The Hebrew term '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'hebel '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: can refer to a “vapor” or “mere breath”; also verses 4, 9, 11 (see note on 1:2)
+      marker-yv: yv-n
+    - type: text
+      text: ' it is a grievous evil. '
   '3':
-  - type: text
-    content: 'If a man fathers a hundred children and lives many years, so that '
-  - type: note
-    content: Gen. 47:8, 9
-  - type: text
-    content: 'the days of his years are many, but his soul is not satisfied with life’s '
-  - type: note
-    content: '[ver. 6]'
-  - type: text
-    content: 'good things, and he also has no '
-  - type: note
-    content: Isa. 14:20; Jer. 8:2; 22:19; [2 Kgs. 9:35]
-  - type: text
-    content: 'burial, I say that '
-  - type: note
-    content: ch. 4:3; Job 3:16
-  - type: text
-    content: 'a stillborn child is better off than he. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'If a man fathers a hundred children and lives many years, so that '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Gen. 47:8
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '9'
+      marker-yv: yv-n
+    - type: text
+      text: 'the days of his years are many, but his soul is not satisfied with life’s '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '6'
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'good things, and he also has no '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 14:20
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 8:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 22:19
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Kgs. 9:35
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'burial, I say that '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 4:3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 3:16
+      marker-yv: yv-n
+    - type: text
+      text: 'a stillborn child is better off than he. '
   '4':
-  - type: text
-    content: 'For it comes in vanity and goes in darkness, and in darkness its name is covered. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'For it comes in vanity and goes in darkness, and in darkness its name is covered. '
   '5':
-  - type: text
-    content: 'Moreover, it has not '
-  - type: note
-    content: ch. 7:11; 11:7
-  - type: text
-    content: 'seen the sun or known anything, yet it finds '
-  - type: note
-    content: ch. 4:6
-  - type: text
-    content: 'rest rather than he. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Moreover, it has not '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 7:11
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 11:7
+      marker-yv: yv-n
+    - type: text
+      text: 'seen the sun or known anything, yet it finds '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 4:6
+      marker-yv: yv-n
+    - type: text
+      text: 'rest rather than he. '
   '6':
-  - type: text
-    content: Even though he should live a thousand years twice over, yet enjoy
-  - type: note
-    content: Or see
-  - type: text
-    content: ' no good—do not all go to the one place?'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Even though he should live a thousand years twice over, yet enjoy
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '6:6 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: see
+      marker-yv: yv-n
+    - type: text
+      text: ' no good—do not all go to the one place?'
   '7':
-  - type: text
-    content: ' '
-  - type: note
-    content: '[ Prov. 16:26 ]'
-  - type: text
-    content: All the toil of man is for his mouth, yet his appetite is not satisfied.
-  - type: note
-    content: Hebrew filled
-  - type: text
-    content: ' '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Prov. 16:26
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: All the toil of man is for his mouth, yet his appetite is not satisfied.
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '6:7 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: filled
+      marker-yv: yv-n
+    - type: text
+      text: ' '
   '8':
-  - type: text
-    content: 'For what advantage has the wise man '
-  - type: note
-    content: '[ch. 2:15]'
-  - type: text
-    content: 'over the fool? And what does the poor man have who knows how to conduct himself before the living? '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'For what advantage has the wise man '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2:15
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'over the fool? And what does the poor man have who knows how to conduct himself before the living? '
   '9':
-  - type: text
-    content: 'Better '
-  - type: note
-    content: ch. 11:9
-  - type: text
-    content: 'is the sight of the eyes than the wandering of the appetite: this also is '
-  - type: note
-    content: See ch. 1:14
-  - type: text
-    content: vanity and a striving after wind.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Better '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 11:9
+      marker-yv: yv-n
+    - type: text
+      text: 'is the sight of the eyes than the wandering of the appetite: this also is '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1:14
+      marker-yv: yv-n
+    - type: text
+      text: vanity and a striving after wind.

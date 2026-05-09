@@ -2,39 +2,87 @@ document_id: JER.45,116
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: A Message for Baruch
-  - type: text
-    content: The prophet Jeremiah gave a message to Baruch son of Neriah in the fourth year of the reign of Jehoiakim son of Josiah,
-  - type: note
-    content: The fourth year of Jehoiakim’s reign was 605 b.c.
-  - type: text
-    content: ' after Baruch had written down everything Jeremiah had dictated to him. He said, '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: A Message for Baruch
+    marker-yv: yv-h
+  - type: usfm
+    marker: m
+    children:
+    - type: text
+      text: The prophet Jeremiah gave a message to Baruch son of Neriah in the fourth year of the reign of Jehoiakim son of Josiah,
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '45:1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'The fourth year of Jehoiakim’s reign was 605 '
+        - type: usfm
+          marker: sc
+          children:
+          - type: text
+            text: b.c.
+      marker-yv: yv-n
+    - type: text
+      text: ' after Baruch had written down everything Jeremiah had dictated to him. He said, '
   '2':
-  - type: text
-    content: '“This is what the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', the God of Israel, says to you, Baruch: '
+  - type: usfm
+    marker: m
+    children:
+    - type: text
+      text: '“This is what the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', the God of Israel, says to you, Baruch: '
   '3':
-  - type: text
-    content: 'You have said, ‘I am overwhelmed with trouble! Haven’t I had enough pain already? And now the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' has added more! I am worn out from sighing and can find no rest.’'
+  - type: usfm
+    marker: m
+    children:
+    - type: text
+      text: 'You have said, ‘I am overwhelmed with trouble! Haven’t I had enough pain already? And now the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' has added more! I am worn out from sighing and can find no rest.’'
   '4':
-  - type: text
-    content: '“Baruch, this is what the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' says: ‘I will destroy this nation that I built. I will uproot what I planted. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: '“Baruch, this is what the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' says: ‘I will destroy this nation that I built. I will uproot what I planted. '
   '5':
-  - type: text
-    content: 'Are you seeking great things for yourself? Don’t do it! I will bring great disaster upon all these people; but I will give you your life as a reward wherever you go. I, the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', have spoken!’”'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Are you seeking great things for yourself? Don’t do it! I will bring great disaster upon all these people; but I will give you your life as a reward wherever you go. I, the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', have spoken!’”'

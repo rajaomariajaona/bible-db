@@ -2,45 +2,90 @@ document_id: PSA.134,97
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: 'Come, bless '
-  - type: text
-    content: God
-  - type: text
-    content: ','
-  - type: text
-    content: 'all you servants of '
-  - type: text
-    content: God
-  - type: text
-    content: '!'
-  - type: text
-    content: 'You priests of '
-  - type: text
-    content: God,
-  - type: text
-    content: ' posted to the nightwatch'
-  - type: text
-    content: 'in '
-  - type: text
-    content: God
-  - type: text
-    content: ’s shrine,
-  - type: text
-    content: Lift your praising hands to the Holy Place,
-  - type: text
-    content: 'and bless '
-  - type: text
-    content: God
-  - type: text
-    content: .
-  - type: text
-    content: 'In turn, may '
-  - type: text
-    content: God
-  - type: text
-    content: ' of Zion bless you—'
-  - type: text
-    content: God
-  - type: text
-    content: ' who made heaven and earth!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Come, bless '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'all you servants of '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: '!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'You priests of '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God,
+    - type: text
+      text: ' posted to the nightwatch'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'in '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ’s shrine,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Lift your praising hands to the Holy Place,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and bless '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'In turn, may '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ' of Zion bless you—'
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: God
+    - type: text
+      text: ' who made heaven and earth!'

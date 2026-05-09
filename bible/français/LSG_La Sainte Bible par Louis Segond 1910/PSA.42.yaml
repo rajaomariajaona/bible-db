@@ -2,100 +2,258 @@ document_id: PSA.42,93
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: LIVRE DEUXIÈME
-  - type: heading
-    content: (Ex 15:1, 21.)
-  - type: heading
-    content: 2 S 17:22-29. (Ps 43; 27; 84; 63.) La 3:24. És 8:17.
-  - type: text
-    content: Au chef des chantres. Cantique des fils de Koré.
+  - type: usfm
+    marker: ms1
+    children:
+    - type: text
+      text: LIVRE DEUXIÈME
+    marker-yv: yv-h
+  - type: usfm
+    marker: mr
+    children:
+    - type: text
+      text: (Ex 15:1, 21.)
+    marker-yv: yv-h
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: 2 S 17:22-29. (Ps 43; 27; 84; 63.) La 3:24. És 8:17.
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Au chef des chantres. Cantique des fils de Koré.
   '10':
-  - type: text
-    content: 'Je dis à Dieu, mon rocher: Pourquoi m’oublies-tu?'
-  - type: text
-    content: 'Pourquoi dois-je marcher '
-  - type: note
-    content: Ps 35:14; 38:7; 43:2.
-  - type: text
-    content: dans la tristesse,
-  - type: text
-    content: Sous l’oppression de l’ennemi?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Je dis à Dieu, mon rocher: Pourquoi m’oublies-tu?'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Pourquoi dois-je marcher '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 35:14
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 38:7
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 43:2
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: dans la tristesse,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Sous l’oppression de l’ennemi?
   '11':
-  - type: text
-    content: Mes os se brisent quand mes persécuteurs m’outragent,
-  - type: text
-    content: 'En me disant sans cesse: Où est ton Dieu?'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mes os se brisent quand mes persécuteurs m’outragent,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'En me disant sans cesse: Où est ton Dieu?'
   '12':
-  - type: text
-    content: Pourquoi t’abats-tu, mon âme, et gémis-tu au-dedans de moi?
-  - type: text
-    content: Espère en Dieu, car je le louerai encore;
-  - type: text
-    content: Il est mon salut et mon Dieu.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Pourquoi t’abats-tu, mon âme, et gémis-tu au-dedans de moi?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Espère en Dieu, car je le louerai encore;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Il est mon salut et mon Dieu.
   '2':
-  - type: text
-    content: Comme une biche soupire après des courants d’eau,
-  - type: text
-    content: Ainsi mon âme soupire après toi, ô Dieu!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Comme une biche soupire après des courants d’eau,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Ainsi mon âme soupire après toi, ô Dieu!
   '3':
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps 63:2.
-  - type: text
-    content: 'Mon âme a soif de Dieu, du Dieu vivant:'
-  - type: text
-    content: Quand irai-je et paraîtrai-je devant la face de Dieu?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 63:2
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Mon âme a soif de Dieu, du Dieu vivant:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Quand irai-je et paraîtrai-je devant la face de Dieu?
   '4':
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps 80:6.
-  - type: text
-    content: Mes larmes sont ma nourriture jour et nuit,
-  - type: text
-    content: 'Pendant qu’on me dit sans cesse:'
-  - type: text
-    content: Où est ton Dieu?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 80:6
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: Mes larmes sont ma nourriture jour et nuit,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Pendant qu’on me dit sans cesse:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Où est ton Dieu?
   '5':
-  - type: text
-    content: Je me rappelle avec effusion de cœur
-  - type: text
-    content: Quand je marchais entouré de la foule,
-  - type: text
-    content: Et que je m’avançais à sa tête vers la maison de Dieu,
-  - type: text
-    content: Au milieu des cris de joie et des actions de grâces
-  - type: text
-    content: D’une multitude en fête.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Je me rappelle avec effusion de cœur
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Quand je marchais entouré de la foule,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et que je m’avançais à sa tête vers la maison de Dieu,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Au milieu des cris de joie et des actions de grâces
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: D’une multitude en fête.
   '6':
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps 43:5.
-  - type: text
-    content: Pourquoi t’abats-tu, mon âme, et gémis-tu au-dedans de moi?
-  - type: text
-    content: Espère en Dieu, car je le louerai encore;
-  - type: text
-    content: Il est mon salut et mon Dieu.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 43:5
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: Pourquoi t’abats-tu, mon âme, et gémis-tu au-dedans de moi?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Espère en Dieu, car je le louerai encore;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Il est mon salut et mon Dieu.
   '7':
-  - type: text
-    content: 'Mon âme est abattue au-dedans de moi:'
-  - type: text
-    content: Aussi c’est à toi que je pense, depuis le pays du Jourdain,
-  - type: text
-    content: Depuis l’Hermon, depuis la montagne de Mitsear.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Mon âme est abattue au-dedans de moi:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Aussi c’est à toi que je pense, depuis le pays du Jourdain,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Depuis l’Hermon, depuis la montagne de Mitsear.
   '8':
-  - type: text
-    content: Un flot appelle un autre flot au bruit de tes ondées;
-  - type: text
-    content: Toutes tes vagues et tous tes flots passent sur moi.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Un flot appelle un autre flot au bruit de tes ondées;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Toutes tes vagues et tous tes flots passent sur moi.
   '9':
-  - type: text
-    content: Le jour, l’Éternel m’accordait sa grâce;
-  - type: text
-    content: La nuit, je chantais ses louanges,
-  - type: text
-    content: J’adressais une prière au Dieu de ma vie.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Le jour, l’Éternel m’accordait sa grâce;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: La nuit, je chantais ses louanges,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: J’adressais une prière au Dieu de ma vie.

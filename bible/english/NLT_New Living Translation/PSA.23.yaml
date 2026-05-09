@@ -2,60 +2,149 @@ document_id: PSA.23,116
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: A psalm of David.
-  - type: text
-    content: 'The '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' is my shepherd;'
-  - type: text
-    content: I have all that I need.
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: A psalm of David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' is my shepherd;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: I have all that I need.
   '2':
-  - type: text
-    content: He lets me rest in green meadows;
-  - type: text
-    content: he leads me beside peaceful streams.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: He lets me rest in green meadows;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: he leads me beside peaceful streams.
   '3':
-  - type: text
-    content: He renews my strength.
-  - type: text
-    content: He guides me along right paths,
-  - type: text
-    content: bringing honor to his name.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: He renews my strength.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: He guides me along right paths,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: bringing honor to his name.
   '4':
-  - type: text
-    content: Even when I walk
-  - type: text
-    content: through the darkest valley,
-  - type: note
-    content: Or the dark valley of death.
-  - type: text
-    content: I will not be afraid,
-  - type: text
-    content: for you are close beside me.
-  - type: text
-    content: Your rod and your staff
-  - type: text
-    content: protect and comfort me.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Even when I walk
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: through the darkest valley,
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '23:4 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: the dark valley of death.
+      marker-yv: yv-n
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: I will not be afraid,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: for you are close beside me.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Your rod and your staff
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: protect and comfort me.
   '5':
-  - type: text
-    content: You prepare a feast for me
-  - type: text
-    content: in the presence of my enemies.
-  - type: text
-    content: You honor me by anointing my head with oil.
-  - type: text
-    content: My cup overflows with blessings.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: You prepare a feast for me
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: in the presence of my enemies.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: You honor me by anointing my head with oil.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: My cup overflows with blessings.
   '6':
-  - type: text
-    content: Surely your goodness and unfailing love will pursue me
-  - type: text
-    content: all the days of my life,
-  - type: text
-    content: 'and I will live in the house of the '
-  - type: text
-    content: Lord
-  - type: text
-    content: forever.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Surely your goodness and unfailing love will pursue me
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: all the days of my life,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'and I will live in the house of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: forever.

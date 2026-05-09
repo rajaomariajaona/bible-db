@@ -2,46 +2,97 @@ document_id: PSA.13,116
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: 'For the choir director: A psalm of David.'
-  - type: text
-    content: 'O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', how long will you forget me? Forever?'
-  - type: text
-    content: How long will you look the other way?
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'For the choir director: A psalm of David.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', how long will you forget me? Forever?'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: How long will you look the other way?
   '2':
-  - type: text
-    content: How long must I struggle with anguish in my soul,
-  - type: text
-    content: with sorrow in my heart every day?
-  - type: text
-    content: How long will my enemy have the upper hand?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: How long must I struggle with anguish in my soul,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: with sorrow in my heart every day?
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: How long will my enemy have the upper hand?
   '3':
-  - type: text
-    content: 'Turn and answer me, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' my God!'
-  - type: text
-    content: Restore the sparkle to my eyes, or I will die.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Turn and answer me, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' my God!'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Restore the sparkle to my eyes, or I will die.
   '4':
-  - type: text
-    content: Don’t let my enemies gloat, saying, “We have defeated him!”
-  - type: text
-    content: Don’t let them rejoice at my downfall.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Don’t let my enemies gloat, saying, “We have defeated him!”
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Don’t let them rejoice at my downfall.
   '5':
-  - type: text
-    content: But I trust in your unfailing love.
-  - type: text
-    content: I will rejoice because you have rescued me.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: But I trust in your unfailing love.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: I will rejoice because you have rescued me.
   '6':
-  - type: text
-    content: 'I will sing to the '
-  - type: text
-    content: Lord
-  - type: text
-    content: because he is good to me.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I will sing to the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: because he is good to me.

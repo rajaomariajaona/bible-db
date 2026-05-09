@@ -2,66 +2,291 @@ document_id: 1TH.1,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Salutation
-  - type: text
-    content: Paul, Silvain et Timothée saluent l’Eglise des Thessaloniciens
-  - type: note
-    content: 'Silvain: ou Silas. Voir Ac 15.22. Timothée: voir Ac 16.1. Silvain et Timothée ont collaboré à la fondation de l’Eglise à Thessalonique. Thessaloni que : port du nord de la Grèce. Voir Ac 17.1-9.'
-  - type: text
-    content: ' dans la communion avec Dieu le Père et avec le Seigneur Jésus-Christ.'
-  - type: text
-    content: Que la grâce et la paix vous soient accordées.
-  - type: heading
-    content: Paul et les chrétiens de Thessalonique
-  - type: heading
-    content: La foi et l’exemple des Thessaloniciens
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Salutation
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Paul, Silvain et Timothée saluent l’Eglise des Thessaloniciens
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1.1 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Silvain
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: ': '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'ou Silas. Voir '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Ac 15.22
+        - type: text
+          text: '. '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Timothée
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: ': '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'voir '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Ac 16.1
+        - type: text
+          text: '. Silvain et Timothée ont collaboré à la fondation de l’Eglise à Thessalonique. '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Thessaloni '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'que : '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'port du nord de la Grèce. Voir '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Ac 17.1-9
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: ' dans la communion avec Dieu le Père et avec le Seigneur Jésus-Christ.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Que la grâce et la paix vous soient accordées.
+  - type: usfm
+    marker: ms1
+    children:
+    - type: text
+      text: Paul et les chrétiens de Thessalonique
+    marker-yv: yv-h
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: La foi et l’exemple des Thessaloniciens
+    marker-yv: yv-h
   '10':
-  - type: text
-    content: et pour attendre que revienne du ciel son Fils qu’il a ressuscité, Jésus, qui nous délivre de la colère à venir
-  - type: note
-    content: Au jugement dernier (voir 5.9 ; Jn 5.24 ; Rm 1.18).
-  - type: text
-    content: .
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: et pour attendre que revienne du ciel son Fils qu’il a ressuscité, Jésus, qui nous délivre de la colère à venir
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1.10 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Au jugement dernier (voir 5.9 ; Jn 5.24 ; Rm 1.18).
+      marker-yv: yv-n
+    - type: text
+      text: .
   '2':
-  - type: text
-    content: 'Nous exprimons constamment notre reconnaissance à Dieu au sujet de vous tous lorsque, dans nos prières, nous faisons mention de vous : '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Nous exprimons constamment notre reconnaissance à Dieu au sujet de vous tous lorsque, dans nos prières, nous faisons mention de vous : '
   '3':
-  - type: text
-    content: nous nous rappelons sans cesse, devant Dieu notre Père, votre foi agissante, votre amour actif, et votre persévérance soutenue par votre espérance en notre Seigneur Jésus-Christ
-  - type: note
-    content: 'Autre traduction : nous nous rappelons sans cesse votre foi agissante, votre amour actif et votre persévérance soutenue par votre espérance, qui sont dus à notre Seigneur Jésus-Christ et que vous vivez devant Dieu.'
-  - type: text
-    content: '. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: nous nous rappelons sans cesse, devant Dieu notre Père, votre foi agissante, votre amour actif, et votre persévérance soutenue par votre espérance en notre Seigneur Jésus-Christ
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1.3 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Autre traduction : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: nous nous rappelons sans cesse votre foi agissante, votre amour actif et votre persévérance soutenue par votre espérance, qui sont dus à notre Seigneur Jésus-Christ et que vous vivez devant Dieu.
+      marker-yv: yv-n
+    - type: text
+      text: '. '
   '4':
-  - type: text
-    content: 'Car nous savons, frères et sœurs, que Dieu vous a choisis, vous qu’il aime. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Car nous savons, frères et sœurs, que Dieu vous a choisis, vous qu’il aime. '
   '5':
-  - type: text
-    content: En effet, l’Evangile que nous annonçons, nous ne vous l’avons pas apporté en paroles seulement, mais aussi avec puissance, par le Saint-Esprit et avec une pleine conviction.
-  - type: text
-    content: 'Et vous le savez bien, puisque vous avez vu comment nous nous sommes comportés parmi vous, pour votre bien. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: En effet, l’Evangile que nous annonçons, nous ne vous l’avons pas apporté en paroles seulement, mais aussi avec puissance, par le Saint-Esprit et avec une pleine conviction.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Et vous le savez bien, puisque vous avez vu comment nous nous sommes comportés parmi vous, pour votre bien. '
   '6':
-  - type: text
-    content: 'Quant à vous, vous avez suivi notre exemple et celui du Seigneur, car vous avez accueilli la Parole au milieu d’épreuves nombreuses, mais avec la joie que produit le Saint-Esprit. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Quant à vous, vous avez suivi notre exemple et celui du Seigneur, car vous avez accueilli la Parole au milieu d’épreuves nombreuses, mais avec la joie que produit le Saint-Esprit. '
   '7':
-  - type: text
-    content: Aussi vous êtes devenus, à votre tour, des modèles pour tous les croyants de la Macédoine et de l’Achaïe
-  - type: note
-    content: 'Macédoine: voir note 2 Co 1.16. Achaïe: voir note 2 Co 1.1.'
-  - type: text
-    content: .
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Aussi vous êtes devenus, à votre tour, des modèles pour tous les croyants de la Macédoine et de l’Achaïe
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1.7 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Macédoine
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: ': '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'voir note '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: 2 Co 1.16
+        - type: text
+          text: '. '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Achaïe
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: ': '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'voir note '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: 2 Co 1.1
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: .
   '8':
-  - type: text
-    content: Non seulement l’œuvre accomplie chez vous par la Parole du Seigneur a eu un grand retentissement jusqu’en Macédoine et en Achaïe, mais encore la nouvelle de votre foi en Dieu est parvenue en tout lieu
-  - type: note
-    content: 'S’explique par la situation portuaire de Thessalonique : des gens de partout y faisaient escale et les chrétiens pouvaient leur annoncer l’Evangile. De plus, Thessalonique se trouvait sur la voie Egnatienne, l’une des grandes routes de l’Empire romain.'
-  - type: text
-    content: ', et nous n’avons même pas besoin d’en parler. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Non seulement l’œuvre accomplie chez vous par la Parole du Seigneur a eu un grand retentissement jusqu’en Macédoine et en Achaïe, mais encore la nouvelle de votre foi en Dieu est parvenue en tout lieu
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1.8 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'S’explique par la situation portuaire de Thessalonique : des gens de partout y faisaient escale et les chrétiens pouvaient leur annoncer l’Evangile. De plus, Thessalonique se trouvait sur la voie Egnatienne, l’une des grandes routes de l’Empire romain.'
+      marker-yv: yv-n
+    - type: text
+      text: ', et nous n’avons même pas besoin d’en parler. '
   '9':
-  - type: text
-    content: On raconte, en effet, à notre sujet, quel accueil vous nous avez réservé et comment vous vous êtes tournés vers Dieu en vous détournant des idoles
-  - type: note
-    content: La plupart des membres de l’Eglise étaient des non-Juifs.
-  - type: text
-    content: ' pour servir le Dieu vivant et vrai '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: On raconte, en effet, à notre sujet, quel accueil vous nous avez réservé et comment vous vous êtes tournés vers Dieu en vous détournant des idoles
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1.9 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: La plupart des membres de l’Eglise étaient des non-Juifs.
+      marker-yv: yv-n
+    - type: text
+      text: ' pour servir le Dieu vivant et vrai '

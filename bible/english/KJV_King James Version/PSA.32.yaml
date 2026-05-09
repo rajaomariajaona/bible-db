@@ -2,129 +2,261 @@ document_id: PSA.32,1
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: A Psalm
-  - type: text
-    content: ' of David, Maschil.'
-  - type: text
-    content: 'Blessed '
-  - type: text
-    content: is he whose
-  - type: text
-    content: ' transgression '
-  - type: text
-    content: is
-  - type: text
-    content: ' forgiven,'
-  - type: text
-    content: Whose
-  - type: text
-    content: ' sin '
-  - type: text
-    content: is
-  - type: text
-    content: ' covered.'
+  - type: usfm
+    marker: d
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: A Psalm
+    - type: text
+      text: ' of David, Maschil.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Blessed '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is he whose
+    - type: text
+      text: ' transgression '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' forgiven,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: Whose
+    - type: text
+      text: ' sin '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' covered.'
   '10':
-  - type: text
-    content: 'Many sorrows '
-  - type: text
-    content: shall be
-  - type: text
-    content: ' to the wicked:'
-  - type: text
-    content: 'But he that trusteth in the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ', mercy shall compass him about.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Many sorrows '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: shall be
+    - type: text
+      text: ' to the wicked:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'But he that trusteth in the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ', mercy shall compass him about.'
   '11':
-  - type: text
-    content: 'Be glad in the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ', and rejoice, ye righteous:'
-  - type: text
-    content: 'And shout for joy, all '
-  - type: text
-    content: ye that are
-  - type: text
-    content: ' upright in heart.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Be glad in the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ', and rejoice, ye righteous:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'And shout for joy, all '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: ye that are
+    - type: text
+      text: ' upright in heart.'
   '2':
-  - type: text
-    content: 'Blessed '
-  - type: text
-    content: is
-  - type: text
-    content: ' the man unto whom the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' imputeth not iniquity,'
-  - type: text
-    content: 'And in whose spirit '
-  - type: text
-    content: there is
-  - type: text
-    content: ' no guile.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Blessed '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' the man unto whom the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' imputeth not iniquity,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'And in whose spirit '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: there is
+    - type: text
+      text: ' no guile.'
   '3':
-  - type: text
-    content: When I kept silence, my bones waxed old
-  - type: text
-    content: Through my roaring all the day long.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: When I kept silence, my bones waxed old
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Through my roaring all the day long.
   '4':
-  - type: text
-    content: 'For day and night thy hand was heavy upon me:'
-  - type: text
-    content: 'My moisture is turned into the drought of summer. '
-  - type: text
-    content: Selah.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'For day and night thy hand was heavy upon me:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'My moisture is turned into the drought of summer. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Selah.
   '5':
-  - type: text
-    content: I acknowledged my sin unto thee,
-  - type: text
-    content: And mine iniquity have I not hid.
-  - type: text
-    content: 'I said, I will confess my transgressions unto the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ;
-  - type: text
-    content: 'And thou forgavest the iniquity of my sin. '
-  - type: text
-    content: Selah.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: I acknowledged my sin unto thee,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: And mine iniquity have I not hid.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I said, I will confess my transgressions unto the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'And thou forgavest the iniquity of my sin. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Selah.
   '6':
-  - type: text
-    content: 'For this shall every one that is godly pray unto thee in a time when thou mayest be found:'
-  - type: text
-    content: Surely in the floods of great waters they shall not come nigh unto him.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'For this shall every one that is godly pray unto thee in a time when thou mayest be found:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Surely in the floods of great waters they shall not come nigh unto him.
   '7':
-  - type: text
-    content: 'Thou '
-  - type: text
-    content: art
-  - type: text
-    content: ' my hiding place; thou shalt preserve me from trouble;'
-  - type: text
-    content: 'Thou shalt compass me about with songs of deliverance. '
-  - type: text
-    content: Selah.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Thou '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: art
+    - type: text
+      text: ' my hiding place; thou shalt preserve me from trouble;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Thou shalt compass me about with songs of deliverance. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Selah.
   '8':
-  - type: text
-    content: 'I will instruct thee and teach thee in the way which thou shalt go:'
-  - type: text
-    content: I will guide thee with mine eye.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I will instruct thee and teach thee in the way which thou shalt go:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: I will guide thee with mine eye.
   '9':
-  - type: text
-    content: 'Be ye not as the horse, '
-  - type: text
-    content: or
-  - type: text
-    content: ' as the mule, '
-  - type: text
-    content: which
-  - type: text
-    content: ' have no understanding:'
-  - type: text
-    content: Whose mouth must be held in with bit and bridle, lest they come near unto thee.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Be ye not as the horse, '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: or
+    - type: text
+      text: ' as the mule, '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: which
+    - type: text
+      text: ' have no understanding:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Whose mouth must be held in with bit and bridle, lest they come near unto thee.

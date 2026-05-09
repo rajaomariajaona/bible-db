@@ -2,110 +2,523 @@ document_id: 1PE.5,93
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Aux anciens
-  - type: heading
-    content: 'V. 1-4: cf. Ac 20:28. 2 Co 4:2, 5. 1 Ti 3:1-7; 4:12.'
-  - type: text
-    content: 'Voici les exhortations que j’adresse aux anciens qui sont parmi vous, moi ancien comme eux, témoin des souffrances de Christ, et participant de la gloire qui doit être manifestée: '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Aux anciens
+    marker-yv: yv-h
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: 'V. 1-4: cf. Ac 20:28. 2 Co 4:2, 5. 1 Ti 3:1-7; 4:12.'
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Voici les exhortations que j’adresse aux anciens qui sont parmi vous, moi ancien comme eux, témoin des souffrances de Christ, et participant de la gloire qui doit être manifestée: '
   '10':
-  - type: text
-    content: 'Le Dieu de toute grâce, qui vous a appelés en Jésus-Christ à sa gloire éternelle, après que vous aurez souffert '
-  - type: note
-    content: Hé 10:37. 1 Pi 1:6.
-  - type: text
-    content: 'un peu de temps, vous perfectionnera lui-même, vous affermira, vous fortifiera, vous rendra inébranlables. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Le Dieu de toute grâce, qui vous a appelés en Jésus-Christ à sa gloire éternelle, après que vous aurez souffert '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Hé 10:37
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Pi 1:6
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'un peu de temps, vous perfectionnera lui-même, vous affermira, vous fortifiera, vous rendra inébranlables. '
   '11':
-  - type: text
-    content: A lui soit la puissance aux siècles des siècles! Amen!
-  - type: heading
-    content: Vœux et salutations
-  - type: heading
-    content: 'V. 12-14: cf. 1 Th 5:23-28. 2 Co 13:12, 13.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: A lui soit la puissance aux siècles des siècles! Amen!
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Vœux et salutations
+    marker-yv: yv-h
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: 'V. 12-14: cf. 1 Th 5:23-28. 2 Co 13:12, 13.'
+    marker-yv: yv-h
   '12':
-  - type: text
-    content: 'C’est par Silvain, qui est à mes yeux un frère fidèle, que je vous écris ce peu de mots, pour vous exhorter et pour vous attester que la grâce de Dieu à laquelle vous êtes attachés est la véritable. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'C’est par Silvain, qui est à mes yeux un frère fidèle, que je vous écris ce peu de mots, pour vous exhorter et pour vous attester que la grâce de Dieu à laquelle vous êtes attachés est la véritable. '
   '13':
-  - type: text
-    content: 'L’Église des élus qui est à Babylone vous salue, ainsi que Marc, mon fils. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'L’Église des élus qui est à Babylone vous salue, ainsi que Marc, mon fils. '
   '14':
-  - type: text
-    content: 'Saluez-vous les uns les autres '
-  - type: note
-    content: Ro 16:16. 1 Co 16:20. 2 Co 13:12. 1 Th 5:26.
-  - type: text
-    content: par un baiser d’affection. Que la paix soit avec vous tous qui êtes en Christ!
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Saluez-vous les uns les autres '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ro 16:16
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Co 16:20
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Co 13:12
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Th 5:26
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: par un baiser d’affection. Que la paix soit avec vous tous qui êtes en Christ!
   '2':
-  - type: note
-    content: Ac 20:28.
-  - type: text
-    content: 'Paissez le troupeau de Dieu qui est sous votre garde, non par contrainte, mais volontairement, selon Dieu; '
-  - type: note
-    content: 1 Ti 3:3. Tit 1:7.
-  - type: text
-    content: 'non pour un gain sordide, mais avec dévouement; '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ac 20:28
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Paissez le troupeau de Dieu qui est sous votre garde, non par contrainte, mais volontairement, selon Dieu; '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Ti 3:3
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Tit 1:7
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'non pour un gain sordide, mais avec dévouement; '
   '3':
-  - type: note
-    content: 2 Co 1:24.
-  - type: text
-    content: 'non comme dominant sur ceux qui vous sont échus en partage, '
-  - type: note
-    content: Ph 3:17. 1 Ti 4:12. Tit 2:7.
-  - type: text
-    content: 'mais en étant les modèles du troupeau. '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Co 1:24
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'non comme dominant sur ceux qui vous sont échus en partage, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ph 3:17
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Ti 4:12
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Tit 2:7
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'mais en étant les modèles du troupeau. '
   '4':
-  - type: text
-    content: 'Et lorsque '
-  - type: note
-    content: És 40:11. Éz 34:23. Jn 10:11. Hé 13:20. 1 Pi 2:25.
-  - type: text
-    content: 'le souverain pasteur paraîtra, '
-  - type: note
-    content: 1 Co 9:25. 2 Ti 4:8. Ja 1:12. 1 Pi 1:4.
-  - type: text
-    content: vous obtiendrez la couronne incorruptible de la gloire.
-  - type: heading
-    content: Humilité et vigilance
-  - type: heading
-    content: 'V. 5-11: cf. (Ép 5:21. Ph 2:3. Ja 4:6, 10.) (1 Th 5:6-8. Ép 6:10-18.)'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Et lorsque '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: És 40:11
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Éz 34:23
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jn 10:11
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Hé 13:20
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Pi 2:25
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'le souverain pasteur paraîtra, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Co 9:25
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Ti 4:8
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ja 1:12
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Pi 1:4
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: vous obtiendrez la couronne incorruptible de la gloire.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Humilité et vigilance
+    marker-yv: yv-h
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: 'V. 5-11: cf. (Ép 5:21. Ph 2:3. Ja 4:6, 10.) (1 Th 5:6-8. Ép 6:10-18.)'
+    marker-yv: yv-h
   '5':
-  - type: text
-    content: 'De même, vous qui êtes jeunes, soyez soumis aux anciens. '
-  - type: note
-    content: Ro 12:10. Ph 2:3.
-  - type: text
-    content: 'Et tous, dans vos rapports mutuels, revêtez-vous d’humilité; car '
-  - type: note
-    content: Pr 3:34. Ja 4:6.
-  - type: text
-    content: 'Dieu résiste aux orgueilleux, Mais il fait grâce aux humbles. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'De même, vous qui êtes jeunes, soyez soumis aux anciens. '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ro 12:10
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ph 2:3
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Et tous, dans vos rapports mutuels, revêtez-vous d’humilité; car '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Pr 3:34
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ja 4:6
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Dieu résiste aux orgueilleux, Mais il fait grâce aux humbles. '
   '6':
-  - type: note
-    content: Job 22:29. Pr 29:23. Mt 23:12. Lu 14:11. Ja 4:10.
-  - type: text
-    content: 'Humiliez-vous donc sous la puissante main de Dieu, afin qu’il vous élève au temps convenable; '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 22:29
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Pr 29:23
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Mt 23:12
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Lu 14:11
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ja 4:10
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Humiliez-vous donc sous la puissante main de Dieu, afin qu’il vous élève au temps convenable; '
   '7':
-  - type: text
-    content: 'et '
-  - type: note
-    content: Ps 55:23. Mt 6:25. Lu 12:22. Ph 4:6. 1 Ti 6:8.
-  - type: text
-    content: 'déchargez-vous sur lui de tous vos soucis, '
-  - type: note
-    content: 1 Co 9:9. Hé 13:5.
-  - type: text
-    content: 'car lui-même prend soin de vous. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'et '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 55:23
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Mt 6:25
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Lu 12:22
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ph 4:6
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Ti 6:8
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'déchargez-vous sur lui de tous vos soucis, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Co 9:9
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Hé 13:5
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'car lui-même prend soin de vous. '
   '8':
-  - type: note
-    content: 1 Th 5:6. 1 Pi 1:13; 4:7.
-  - type: text
-    content: 'Soyez sobres, veillez. '
-  - type: note
-    content: Job 1:7. Lu 22:31.
-  - type: text
-    content: 'Votre adversaire, le diable, rôde comme un lion rugissant, cherchant qui il dévorera. '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Th 5:6
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Pi 1:13
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 4:7
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Soyez sobres, veillez. '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 1:7
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Lu 22:31
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Votre adversaire, le diable, rôde comme un lion rugissant, cherchant qui il dévorera. '
   '9':
-  - type: note
-    content: Ép 4:27. Ja 4:7.
-  - type: text
-    content: 'Résistez-lui avec une foi ferme, sachant que les mêmes souffrances sont imposées à vos frères dans le monde. '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ép 4:27
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ja 4:7
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Résistez-lui avec une foi ferme, sachant que les mêmes souffrances sont imposées à vos frères dans le monde. '

@@ -2,53 +2,113 @@ document_id: PSA.134,114
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: Praising the Lord in His House at Night
-  - type: text
-    content: A Song of Ascents.
-  - type: text
-    content: 'Behold, bless the '
-  - type: heading
-    content: Lord
-  - type: text
-    content: ','
-  - type: text
-    content: 'All '
-  - type: text
-    content: you
-  - type: text
-    content: ' servants of the '
-  - type: heading
-    content: Lord
-  - type: text
-    content: ','
-  - type: text
-    content: 'Who by night stand in the house of the '
-  - type: heading
-    content: Lord
-  - type: text
-    content: '!'
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: 'Praising the '
+    - type: usfm
+      marker: sc
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' in His House at Night'
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: A Song of Ascents.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Behold, bless the '
+    - type: usfm
+      marker: sc
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'All '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: you
+    - type: text
+      text: ' servants of the '
+    - type: usfm
+      marker: sc
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Who by night stand in the house of the '
+    - type: usfm
+      marker: sc
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: '!'
   '2':
-  - type: note
-    content: Lev. 25:21; Deut. 28:8; Ps. 42:8
-  - type: text
-    content: 'Lift up your hands '
-  - type: text
-    content: in
-  - type: text
-    content: ' the sanctuary,'
-  - type: text
-    content: 'And bless the '
-  - type: heading
-    content: Lord
-  - type: text
-    content: .
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: Lev. 25:21; Deut. 28:8; Ps. 42:8
+      marker-yv: yv-n
+    - type: text
+      text: 'Lift up your hands '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: in
+    - type: text
+      text: ' the sanctuary,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'And bless the '
+    - type: usfm
+      marker: sc
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: .
   '3':
-  - type: text
-    content: 'The '
-  - type: heading
-    content: Lord
-  - type: text
-    content: ' who made heaven and earth'
-  - type: text
-    content: Bless you from Zion!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: sc
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' who made heaven and earth'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Bless you from Zion!

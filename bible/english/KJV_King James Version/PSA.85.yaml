@@ -2,107 +2,218 @@ document_id: PSA.85,1
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: To the chief Musician, A Psalm for the sons of Korah.
-  - type: text
-    content: ' '
-  - type: text
-    content: LORD
-  - type: text
-    content: ', thou hast been favourable unto thy land:'
-  - type: text
-    content: Thou hast brought back the captivity of Jacob.
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: To the chief Musician, A Psalm for the sons of Korah.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ', thou hast been favourable unto thy land:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Thou hast brought back the captivity of Jacob.
   '10':
-  - type: text
-    content: Mercy and truth are met together;
-  - type: text
-    content: 'Righteousness and peace have kissed '
-  - type: text
-    content: each other
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mercy and truth are met together;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Righteousness and peace have kissed '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: each other
+    - type: text
+      text: .
   '11':
-  - type: text
-    content: Truth shall spring out of the earth;
-  - type: text
-    content: And righteousness shall look down from heaven.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Truth shall spring out of the earth;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: And righteousness shall look down from heaven.
   '12':
-  - type: text
-    content: 'Yea, the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' shall give '
-  - type: text
-    content: that which is
-  - type: text
-    content: ' good;'
-  - type: text
-    content: And our land shall yield her increase.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Yea, the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' shall give '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: that which is
+    - type: text
+      text: ' good;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: And our land shall yield her increase.
   '13':
-  - type: text
-    content: Righteousness shall go before him;
-  - type: text
-    content: 'And shall set '
-  - type: text
-    content: us
-  - type: text
-    content: ' in the way of his steps.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Righteousness shall go before him;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'And shall set '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: us
+    - type: text
+      text: ' in the way of his steps.'
   '2':
-  - type: text
-    content: Thou hast forgiven the iniquity of thy people,
-  - type: text
-    content: 'Thou hast covered all their sin. '
-  - type: text
-    content: Selah.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Thou hast forgiven the iniquity of thy people,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Thou hast covered all their sin. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Selah.
   '3':
-  - type: text
-    content: 'Thou hast taken away all thy wrath:'
-  - type: text
-    content: 'Thou hast turned '
-  - type: text
-    content: thyself
-  - type: text
-    content: ' from the fierceness of thine anger.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Thou hast taken away all thy wrath:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Thou hast turned '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: thyself
+    - type: text
+      text: ' from the fierceness of thine anger.'
   '4':
-  - type: text
-    content: Turn us, O God of our salvation,
-  - type: text
-    content: And cause thine anger toward us to cease.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Turn us, O God of our salvation,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: And cause thine anger toward us to cease.
   '5':
-  - type: text
-    content: Wilt thou be angry with us for ever?
-  - type: text
-    content: Wilt thou draw out thine anger to all generations?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Wilt thou be angry with us for ever?
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Wilt thou draw out thine anger to all generations?
   '6':
-  - type: text
-    content: 'Wilt thou not revive us again:'
-  - type: text
-    content: That thy people may rejoice in thee?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Wilt thou not revive us again:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: That thy people may rejoice in thee?
   '7':
-  - type: text
-    content: 'Shew us thy mercy, O '
-  - type: text
-    content: LORD
-  - type: text
-    content: ','
-  - type: text
-    content: And grant us thy salvation.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Shew us thy mercy, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: And grant us thy salvation.
   '8':
-  - type: text
-    content: 'I will hear what God the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' will speak:'
-  - type: text
-    content: 'For he will speak peace unto his people, and to his saints: But let them not turn again to folly.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I will hear what God the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' will speak:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'For he will speak peace unto his people, and to his saints: But let them not turn again to folly.'
   '9':
-  - type: text
-    content: 'Surely his salvation '
-  - type: text
-    content: is
-  - type: text
-    content: ' nigh them that fear him;'
-  - type: text
-    content: That glory may dwell in our land.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Surely his salvation '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' nigh them that fear him;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: That glory may dwell in our land.

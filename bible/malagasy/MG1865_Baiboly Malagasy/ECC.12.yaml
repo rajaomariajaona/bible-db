@@ -2,58 +2,116 @@ document_id: ECC.12,96
 type_code: plt
 verses:
   '1':
-  - type: heading
-    content: Teny farany
-  - type: text
-    content: 'Ary tsarovy ny Mpanao anao amin''ny andro fahatanoranao, dieny tsy mbola tonga ny andro mahory, ary tsy mbola mihatra ny taona izay hanaovanao hoe; Tsy sitrako izao; '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Teny farany
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ary tsarovy ny Mpanao anao amin''ny andro fahatanoranao, dieny tsy mbola tonga ny andro mahory, ary tsy mbola mihatra ny taona izay hanaovanao hoe; Tsy sitrako izao; '
   '10':
-  - type: text
-    content: Mpitoriteny nitady hahita teny mahafinaritra; ary izay mahitsy no voasorany, dia tenin'ny fahamarinana.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Mpitoriteny nitady hahita teny mahafinaritra; ary izay mahitsy no voasorany, dia tenin'ny fahamarinana.
   '11':
-  - type: text
-    content: 'Ny tenin''ny hendry dia toy ny fanindronan-omby sy toy ny hombo voatsatoka, ry mpanangona, omen''ny mpiandry iray izy; '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ny tenin''ny hendry dia toy ny fanindronan-omby sy toy ny hombo voatsatoka, ry mpanangona, omen''ny mpiandry iray izy; '
   '12':
-  - type: text
-    content: 'ary he koa, anaka! minoa anatra ianao; fa tsy misy farany ny manao boky maro, ary manasatra ny tena ny fianarana be. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'ary he koa, anaka! minoa anatra ianao; fa tsy misy farany ny manao boky maro, ary manasatra ny tena ny fianarana be. '
   '13':
-  - type: text
-    content: 'Ary rehefa re izany rehetra izany, dia izao no faran''ny teny: Andriamanitra no atahory, ary ny didiny no tandremo, fa izany no tokony hataon''ny olona rehetra. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ary rehefa re izany rehetra izany, dia izao no faran''ny teny: Andriamanitra no atahory, ary ny didiny no tandremo, fa izany no tokony hataon''ny olona rehetra. '
   '14':
-  - type: text
-    content: Fa ny atao rehetra dia ho entin'Andriamanitra ho amin'ny fitsarana ny
-  - type: note
-    content: 'Na: mbamin''ny'
-  - type: text
-    content: ' zava-miafina rehetra, na soa na ratsy.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Fa ny atao rehetra dia ho entin'Andriamanitra ho amin'ny fitsarana ny
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: 'Na: mbamin''ny'
+      marker-yv: yv-n
+    - type: text
+      text: ' zava-miafina rehetra, na soa na ratsy.'
   '2':
-  - type: text
-    content: 'dieny tsy mbola maizina ny masoandro sy ny fahazavana sy ny volana sy ny kintana, ary tsy mbola mitambatra indray ny rahona, rehefa latsaka ny ranonorana; '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'dieny tsy mbola maizina ny masoandro sy ny fahazavana sy ny volana sy ny kintana, ary tsy mbola mitambatra indray ny rahona, rehefa latsaka ny ranonorana; '
   '3':
-  - type: text
-    content: 'fa amin''izay dia hangovitra ny mpiandry trano, ary hanjoko ny lehilahy matanjaka, ary hitsahatra ny ankizivavy mpitoto, satria efa vitsy ireo, ary ho maizina ny vehivavy mitsirika eo am-baravarankely, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'fa amin''izay dia hangovitra ny mpiandry trano, ary hanjoko ny lehilahy matanjaka, ary hitsahatra ny ankizivavy mpitoto, satria efa vitsy ireo, ary ho maizina ny vehivavy mitsirika eo am-baravarankely, '
   '4':
-  - type: text
-    content: ary hirindrina ny varavarana kopa-droa mankeny an-dalambe, rehefa malemy ny feon'ny fikosoham-bary; ary ho taitra ny olona, raha vao maneno ny voronkely
-  - type: note
-    content: 'Na: ka tsy mafy noho ny an''ny voron-kely aza ny feony'
-  - type: text
-    content: ', ary halemy feo ny zazavavy mpihira rehetra; '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ary hirindrina ny varavarana kopa-droa mankeny an-dalambe, rehefa malemy ny feon'ny fikosoham-bary; ary ho taitra ny olona, raha vao maneno ny voronkely
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: 'Na: ka tsy mafy noho ny an''ny voron-kely aza ny feony'
+      marker-yv: yv-n
+    - type: text
+      text: ', ary halemy feo ny zazavavy mpihira rehetra; '
   '5':
-  - type: text
-    content: ary koa, hatahotra ny fiakarana izy, ary toa hisy zava-mahatahotra eny an-dalana; ary hamony ny hazo amygdala, ary ny valala aza ho tonga mavesatra, ary ny voan-tsimperifery aza tsy hanan-kery intsony
-  - type: note
-    content: 'Na: hitsaha-panirian-javatra izy'
-  - type: text
-    content: ' fa mandroso ho any amin''ny tranony mandrakizay ny olona, ary ny mpisaona mandehandeha eny an-dalambe '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ary koa, hatahotra ny fiakarana izy, ary toa hisy zava-mahatahotra eny an-dalana; ary hamony ny hazo amygdala, ary ny valala aza ho tonga mavesatra, ary ny voan-tsimperifery aza tsy hanan-kery intsony
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: 'Na: hitsaha-panirian-javatra izy'
+      marker-yv: yv-n
+    - type: text
+      text: ' fa mandroso ho any amin''ny tranony mandrakizay ny olona, ary ny mpisaona mandehandeha eny an-dalambe '
   '6':
-  - type: text
-    content: 'dieny tsy mbola mivaha ny kofehy volafotsy, ary tsy mbola vaky ny vilia volamena fitoeran-diloilo, ary tsy mbola rava ny barika eo an-doharano, ary tsy mbola tapaka ny kodia eo an-davaka famorian-drano, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'dieny tsy mbola mivaha ny kofehy volafotsy, ary tsy mbola vaky ny vilia volamena fitoeran-diloilo, ary tsy mbola rava ny barika eo an-doharano, ary tsy mbola tapaka ny kodia eo an-davaka famorian-drano, '
   '7':
-  - type: text
-    content: 'ka ny vovoka dia hiverina amin''ny tany ho toy ny teo, fa ny fanahy kosa hiverina amin''Andriamanitra, Izay nanome iny. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'ka ny vovoka dia hiverina amin''ny tany ho toy ny teo, fa ny fanahy kosa hiverina amin''Andriamanitra, Izay nanome iny. '
   '8':
-  - type: text
-    content: Zava-poana dia zava-poana, hoy Mpitoriteny, eny, zava-poana ny zavatra rehetra!
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Zava-poana dia zava-poana, hoy Mpitoriteny, eny, zava-poana ny zavatra rehetra!
   '9':
-  - type: text
-    content: 'Ary koa, satria hendry Mpitoriteny, dia nampianatra ny olona fahalalana izy; eny, nandinika sy nieritreritra ary nandahatra ohabolana maro izy. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ary koa, satria hendry Mpitoriteny, dia nampianatra ny olona fahalalana izy; eny, nandinika sy nieritreritra ary nandahatra ohabolana maro izy. '

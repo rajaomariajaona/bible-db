@@ -2,15 +2,30 @@ document_id: GEN.INTRO1,111
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: Intro
-  - type: text
-    content: Genesis and the other “books of Moses” (Exodus, Leviticus, Numbers and Deuteronomy) introduce the continuous story of Israel running through the first quarter of the Bible. Genesis is traditionally attributed to Moses, the one who led the people of Israel out of Egypt.
-  - type: text
-    content: Genesis explains how one nation comes to have a special role in God’s plan for all of humanity. Early on, the order and harmony of God’s good creation are overwhelmed by the destructive consequences of human rebellion and pride. The violence, injustice and suffering that follow lead God to condemn and restrain human wickedness through the judgment of the great flood. God then makes a covenant with Abraham and his descendants, providing an ongoing framework for the story. The family of Abraham—Israel—will be God’s chosen means to bring the nations back to himself. Genesis closes with Abraham’s descendants having grown into a league of large tribes, but they are not in the land God has promised them. So the story leads naturally into the books that follow.
-  - type: text
-    content: 'The book is divided into twelve parts by eleven repetitions of the phrase '
-  - type: text
-    content: this is the account of.
-  - type: text
-    content: ' Each section is about the life and family of the person named. These are woven together to document the story of human history and the beginning of God’s plan to restore humanity and their place in his world through Israel.'
+  - type: usfm
+    marker: imt1
+    children:
+    - type: text
+      text: Intro
+  - type: usfm
+    marker: im
+    children:
+    - type: text
+      text: Genesis and the other “books of Moses” (Exodus, Leviticus, Numbers and Deuteronomy) introduce the continuous story of Israel running through the first quarter of the Bible. Genesis is traditionally attributed to Moses, the one who led the people of Israel out of Egypt.
+  - type: usfm
+    marker: ip
+    children:
+    - type: text
+      text: Genesis explains how one nation comes to have a special role in God’s plan for all of humanity. Early on, the order and harmony of God’s good creation are overwhelmed by the destructive consequences of human rebellion and pride. The violence, injustice and suffering that follow lead God to condemn and restrain human wickedness through the judgment of the great flood. God then makes a covenant with Abraham and his descendants, providing an ongoing framework for the story. The family of Abraham—Israel—will be God’s chosen means to bring the nations back to himself. Genesis closes with Abraham’s descendants having grown into a league of large tribes, but they are not in the land God has promised them. So the story leads naturally into the books that follow.
+  - type: usfm
+    marker: ip
+    children:
+    - type: text
+      text: 'The book is divided into twelve parts by eleven repetitions of the phrase '
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: this is the account of.
+    - type: text
+      text: ' Each section is about the life and family of the person named. These are woven together to document the story of human history and the beginning of God’s plan to restore humanity and their place in his world through Israel.'

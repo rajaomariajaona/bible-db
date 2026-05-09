@@ -2,47 +2,128 @@ document_id: PSA.120,93
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Esd 4. Ps 12.
-  - type: text
-    content: Cantique des degrés.
-  - type: text
-    content: Dans ma détresse, c’est à l’Éternel
-  - type: text
-    content: Que je crie, et il m’exauce.
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: Esd 4. Ps 12.
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Cantique des degrés.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Dans ma détresse, c’est à l’Éternel
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Que je crie, et il m’exauce.
   '2':
-  - type: text
-    content: Éternel, délivre mon âme de la lèvre mensongère,
-  - type: note
-    content: 1 S 24:10; 26:19.
-  - type: text
-    content: De la langue trompeuse!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Éternel, délivre mon âme de la lèvre mensongère,
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 S 24:10
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 26:19
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: De la langue trompeuse!
   '3':
-  - type: text
-    content: Que te donne, que te rapporte
-  - type: text
-    content: Une langue trompeuse?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Que te donne, que te rapporte
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Une langue trompeuse?
   '4':
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps 11:2; 59:8.
-  - type: text
-    content: Les traits aigus du guerrier,
-  - type: text
-    content: Avec les charbons ardents du genêt.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 11:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 59:8
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: Les traits aigus du guerrier,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Avec les charbons ardents du genêt.
   '5':
-  - type: text
-    content: Malheureux que je suis de séjourner à Méschec,
-  - type: text
-    content: D’habiter parmi les tentes de Kédar!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Malheureux que je suis de séjourner à Méschec,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: D’habiter parmi les tentes de Kédar!
   '6':
-  - type: text
-    content: Assez longtemps mon âme a demeuré
-  - type: text
-    content: Auprès de ceux qui haïssent la paix.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Assez longtemps mon âme a demeuré
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Auprès de ceux qui haïssent la paix.
   '7':
-  - type: text
-    content: Je suis pour la paix; mais dès que je parle,
-  - type: text
-    content: Ils sont pour la guerre.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Je suis pour la paix; mais dès que je parle,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Ils sont pour la guerre.

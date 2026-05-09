@@ -2,47 +2,95 @@ document_id: PSA.125,116
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: A song for pilgrims ascending to Jerusalem.
-  - type: text
-    content: 'Those who trust in the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' are as secure as Mount Zion;'
-  - type: text
-    content: they will not be defeated but will endure forever.
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: A song for pilgrims ascending to Jerusalem.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Those who trust in the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' are as secure as Mount Zion;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: they will not be defeated but will endure forever.
   '2':
-  - type: text
-    content: Just as the mountains surround Jerusalem,
-  - type: text
-    content: 'so the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' surrounds his people, both now and forever.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Just as the mountains surround Jerusalem,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'so the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' surrounds his people, both now and forever.'
   '3':
-  - type: text
-    content: The wicked will not rule the land of the godly,
-  - type: text
-    content: for then the godly might be tempted to do wrong.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: The wicked will not rule the land of the godly,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: for then the godly might be tempted to do wrong.
   '4':
-  - type: text
-    content: 'O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', do good to those who are good,'
-  - type: text
-    content: whose hearts are in tune with you.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', do good to those who are good,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: whose hearts are in tune with you.
   '5':
-  - type: text
-    content: 'But banish those who turn to crooked ways, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: .
-  - type: text
-    content: Take them away with those who do evil.
-  - type: text
-    content: May Israel have peace!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'But banish those who turn to crooked ways, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: .
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Take them away with those who do evil.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: May Israel have peace!

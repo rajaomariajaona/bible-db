@@ -2,25 +2,49 @@ document_id: EPH.INTRO1,111
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: Intro
-  - type: text
-    content: 'Traditionally named Ephesians, this letter may not actually have been written to the believers in Ephesus. Some of the best early copies of the letter don’t include the phrase '
-  - type: text
-    content: in Ephesus
-  - type: text
-    content: ' in the greeting. While Paul spent two years in Ephesus, this letter appears to address people Paul has never met.'
-  - type: text
-    content: Paul here presents a two-fold pattern, first explaining the new identity believers have in Christ and then bringing out the implications for their new way of life. God has brought everything together under the rule of the Messiah, exalting Jesus above all things. Paul echoes a phrase from Psalm 8—
-  - type: text
-    content: God placed all things under his feet
-  - type: text
-    content: '—to show that Jesus is the truly human one. Jesus fulfills the original human calling to rule over the creation properly. Jews and Gentiles have been brought together into one body, with Jesus at the head. God is now creating '
-  - type: text
-    content: one new humanity
-  - type: text
-    content: ' from all over the world through the reconciling work of the Messiah.'
-  - type: text
-    content: 'This means Jesus-followers must give up their former way of life and practice purity in daily living and integrity in their relationships. The reciprocal responsibilities of those in and under authority are used as key examples of the new kinds of relationships God is expecting. Paul cautions his readers that they are entering a spiritual battle. They must arm themselves with all the resources God has provided, until the Messiah brings '
-  - type: text
-    content: unity to all things in heaven and on earth.
+  - type: usfm
+    marker: imt1
+    children:
+    - type: text
+      text: Intro
+  - type: usfm
+    marker: im
+    children:
+    - type: text
+      text: 'Traditionally named Ephesians, this letter may not actually have been written to the believers in Ephesus. Some of the best early copies of the letter don’t include the phrase '
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: in Ephesus
+    - type: text
+      text: ' in the greeting. While Paul spent two years in Ephesus, this letter appears to address people Paul has never met.'
+  - type: usfm
+    marker: ip
+    children:
+    - type: text
+      text: Paul here presents a two-fold pattern, first explaining the new identity believers have in Christ and then bringing out the implications for their new way of life. God has brought everything together under the rule of the Messiah, exalting Jesus above all things. Paul echoes a phrase from Psalm 8—
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: God placed all things under his feet
+    - type: text
+      text: '—to show that Jesus is the truly human one. Jesus fulfills the original human calling to rule over the creation properly. Jews and Gentiles have been brought together into one body, with Jesus at the head. God is now creating '
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: one new humanity
+    - type: text
+      text: ' from all over the world through the reconciling work of the Messiah.'
+  - type: usfm
+    marker: ip
+    children:
+    - type: text
+      text: 'This means Jesus-followers must give up their former way of life and practice purity in daily living and integrity in their relationships. The reciprocal responsibilities of those in and under authority are used as key examples of the new kinds of relationships God is expecting. Paul cautions his readers that they are entering a spiritual battle. They must arm themselves with all the resources God has provided, until the Messiah brings '
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: unity to all things in heaven and on earth.

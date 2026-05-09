@@ -2,143 +2,404 @@ document_id: HOS.12,93
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Culpabilité des enfants de Jacob
-  - type: heading
-    content: 'V. 1-3: cf. 1 R 17:1-4, 18-20. És 30:1-7.'
-  - type: text
-    content: Éphraïm m’entoure de mensonge,
-  - type: text
-    content: Et la maison d’Israël de tromperie;
-  - type: text
-    content: Juda est encore sans frein vis-à-vis de Dieu,
-  - type: text
-    content: Vis-à-vis du Saint fidèle.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Culpabilité des enfants de Jacob
+    marker-yv: yv-h
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: 'V. 1-3: cf. 1 R 17:1-4, 18-20. És 30:1-7.'
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Éphraïm m’entoure de mensonge,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et la maison d’Israël de tromperie;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Juda est encore sans frein vis-à-vis de Dieu,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Vis-à-vis du Saint fidèle.
   '10':
-  - type: text
-    content: 'Et moi, je suis l’Éternel, ton Dieu, '
-  - type: note
-    content: És 43:11.
-  - type: text
-    content: dès le pays d’Égypte;
-  - type: text
-    content: Je te ferai encore habiter sous des tentes, comme aux jours de fêtes.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Et moi, je suis l’Éternel, ton Dieu, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: És 43:11
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: dès le pays d’Égypte;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Je te ferai encore habiter sous des tentes, comme aux jours de fêtes.
   '11':
-  - type: text
-    content: J’ai parlé aux prophètes,
-  - type: text
-    content: J’ai multiplié les visions,
-  - type: text
-    content: Et par les prophètes j’ai proposé des paraboles.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: J’ai parlé aux prophètes,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: J’ai multiplié les visions,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et par les prophètes j’ai proposé des paraboles.
   '12':
-  - type: text
-    content: 'Si '
-  - type: note
-    content: Os 6:8.
-  - type: text
-    content: 'Galaad n’est que néant, ils seront certainement anéantis. Ils sacrifient des bœufs dans '
-  - type: note
-    content: Os 4:15; 9:15.
-  - type: text
-    content: 'Guilgal: Aussi leurs autels seront comme des monceaux de pierres'
-  - type: text
-    content: Sur les sillons des champs.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Si '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Os 6:8
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Galaad n’est que néant, ils seront certainement anéantis. Ils sacrifient des bœufs dans '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Os 4:15
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 9:15
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Guilgal: Aussi leurs autels seront comme des monceaux de pierres'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Sur les sillons des champs.
   '13':
-  - type: text
-    content: ' '
-  - type: note
-    content: Ge 28:5, etc.
-  - type: text
-    content: Jacob s’enfuit au pays d’Aram,
-  - type: text
-    content: 'Israël servit pour une '
-  - type: note
-    content: Ge 29:20, 28.
-  - type: text
-    content: femme,
-  - type: text
-    content: Et pour une femme il garda les troupeaux.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: Ge 28:5, etc.
+      marker-yv: yv-n
+    - type: text
+      text: Jacob s’enfuit au pays d’Aram,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Israël servit pour une '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ge 29:20
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '28'
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: femme,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et pour une femme il garda les troupeaux.
   '14':
-  - type: text
-    content: Par un prophète l’Éternel fit monter Israël hors d’Égypte,
-  - type: text
-    content: Et par un prophète Israël fut gardé.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Par un prophète l’Éternel fit monter Israël hors d’Égypte,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et par un prophète Israël fut gardé.
   '15':
-  - type: text
-    content: 'Éphraïm a irrité l’Éternel amèrement:'
-  - type: text
-    content: Son Seigneur rejettera sur lui le sang qu’il a répandu,
-  - type: text
-    content: Il fera retomber sur lui la honte qui lui appartient.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Éphraïm a irrité l’Éternel amèrement:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Son Seigneur rejettera sur lui le sang qu’il a répandu,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Il fera retomber sur lui la honte qui lui appartient.
   '2':
-  - type: text
-    content: Éphraïm se repaît de vent, et poursuit le vent d’orient;
-  - type: text
-    content: Chaque jour il multiplie le mensonge et la violence;
-  - type: text
-    content: Il fait alliance avec l’Assyrie,
-  - type: text
-    content: Et on porte de l’huile en Égypte.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Éphraïm se repaît de vent, et poursuit le vent d’orient;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Chaque jour il multiplie le mensonge et la violence;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Il fait alliance avec l’Assyrie,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et on porte de l’huile en Égypte.
   '3':
-  - type: text
-    content: L’Éternel est aussi en contestation avec Juda,
-  - type: text
-    content: Et il punira Jacob pour sa conduite,
-  - type: text
-    content: Il lui rendra selon ses œuvres.
-  - type: heading
-    content: 'V. 4-7: cf. Ge 32:24, etc.; 35:9-15.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: L’Éternel est aussi en contestation avec Juda,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et il punira Jacob pour sa conduite,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Il lui rendra selon ses œuvres.
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: 'V. 4-7: cf. Ge 32:24, etc.; 35:9-15.'
+    marker-yv: yv-h
   '4':
-  - type: text
-    content: 'Dans le sein maternel Jacob '
-  - type: note
-    content: Ge 25:26.
-  - type: text
-    content: saisit son frère par le talon,
-  - type: text
-    content: 'Et dans sa vigueur, il lutta '
-  - type: note
-    content: Ge 35:9, 10.
-  - type: text
-    content: avec Dieu.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Dans le sein maternel Jacob '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ge 25:26
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: saisit son frère par le talon,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Et dans sa vigueur, il lutta '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ge 35:9
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '10'
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: avec Dieu.
   '5':
-  - type: text
-    content: Il lutta avec l’ange, et il fut vainqueur,
-  - type: text
-    content: Il pleura, et lui adressa des supplications.
-  - type: text
-    content: 'Jacob l’avait trouvé à '
-  - type: note
-    content: Ge 28:12, 19; 35:7, 14, 15.
-  - type: text
-    content: Béthel,
-  - type: text
-    content: Et c’est là que Dieu nous a parlé.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Il lutta avec l’ange, et il fut vainqueur,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Il pleura, et lui adressa des supplications.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Jacob l’avait trouvé à '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ge 28:12
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '19'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 35:7
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '14'
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '15'
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: Béthel,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et c’est là que Dieu nous a parlé.
   '6':
-  - type: text
-    content: L’Éternel est le Dieu des armées;
-  - type: text
-    content: Son nom est l’Éternel.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: L’Éternel est le Dieu des armées;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Son nom est l’Éternel.
   '7':
-  - type: text
-    content: Et toi, reviens à ton Dieu,
-  - type: text
-    content: Garde la piété et la justice,
-  - type: text
-    content: Et espère toujours en ton Dieu.
-  - type: heading
-    content: 'V. 8-15: cf. (Am 8:4-8. Mi 6:9-16.) Os 9:15-17.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et toi, reviens à ton Dieu,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Garde la piété et la justice,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et espère toujours en ton Dieu.
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: 'V. 8-15: cf. (Am 8:4-8. Mi 6:9-16.) Os 9:15-17.'
+    marker-yv: yv-h
   '8':
-  - type: text
-    content: Éphraïm est un marchand qui a dans sa main des balances fausses,
-  - type: text
-    content: Il aime à tromper.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Éphraïm est un marchand qui a dans sa main des balances fausses,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Il aime à tromper.
   '9':
-  - type: text
-    content: 'Et Éphraïm dit: A la vérité, je me suis enrichi,'
-  - type: text
-    content: J’ai acquis de la fortune;
-  - type: text
-    content: Mais c’est entièrement le produit de mon travail;
-  - type: text
-    content: On ne trouvera chez moi aucune iniquité, rien qui soit un crime.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Et Éphraïm dit: A la vérité, je me suis enrichi,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: J’ai acquis de la fortune;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mais c’est entièrement le produit de mon travail;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: On ne trouvera chez moi aucune iniquité, rien qui soit un crime.

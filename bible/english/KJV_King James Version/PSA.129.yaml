@@ -2,68 +2,137 @@ document_id: PSA.129,1
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: A Song of degrees.
-  - type: text
-    content: Many a time have they afflicted me from my youth,
-  - type: text
-    content: 'May Israel now say:'
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: A Song of degrees.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Many a time have they afflicted me from my youth,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'May Israel now say:'
   '2':
-  - type: text
-    content: 'Many a time have they afflicted me from my youth:'
-  - type: text
-    content: Yet they have not prevailed against me.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Many a time have they afflicted me from my youth:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Yet they have not prevailed against me.
   '3':
-  - type: text
-    content: 'The plowers plowed upon my back:'
-  - type: text
-    content: They made long their furrows.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The plowers plowed upon my back:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: They made long their furrows.
   '4':
-  - type: text
-    content: 'The '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' '
-  - type: text
-    content: is
-  - type: text
-    content: ' righteous:'
-  - type: text
-    content: He hath cut asunder the cords of the wicked.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' righteous:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: He hath cut asunder the cords of the wicked.
   '5':
-  - type: text
-    content: Let them all be confounded and turned back
-  - type: text
-    content: That hate Zion.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Let them all be confounded and turned back
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: That hate Zion.
   '6':
-  - type: text
-    content: 'Let them be as the grass '
-  - type: text
-    content: upon
-  - type: text
-    content: ' the housetops,'
-  - type: text
-    content: 'Which withereth afore it groweth up:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Let them be as the grass '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: upon
+    - type: text
+      text: ' the housetops,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Which withereth afore it groweth up:'
   '7':
-  - type: text
-    content: Wherewith the mower filleth not his hand;
-  - type: text
-    content: Nor he that bindeth sheaves his bosom.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Wherewith the mower filleth not his hand;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Nor he that bindeth sheaves his bosom.
   '8':
-  - type: text
-    content: 'Neither do they which go by say, the blessing of the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' '
-  - type: text
-    content: be
-  - type: text
-    content: ' upon you:'
-  - type: text
-    content: 'We bless you in the name of the '
-  - type: text
-    content: LORD
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Neither do they which go by say, the blessing of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: be
+    - type: text
+      text: ' upon you:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'We bless you in the name of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: .

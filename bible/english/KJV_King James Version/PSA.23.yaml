@@ -2,48 +2,96 @@ document_id: PSA.23,1
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: A Psalm of David.
-  - type: text
-    content: 'The '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' '
-  - type: text
-    content: is
-  - type: text
-    content: ' my shepherd; I shall not want.'
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: A Psalm of David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' my shepherd; I shall not want.'
   '2':
-  - type: text
-    content: 'He maketh me to lie down in green pastures:'
-  - type: text
-    content: He leadeth me beside the still waters.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'He maketh me to lie down in green pastures:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: He leadeth me beside the still waters.
   '3':
-  - type: text
-    content: 'He restoreth my soul:'
-  - type: text
-    content: He leadeth me in the paths of righteousness for his name's sake.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'He restoreth my soul:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: He leadeth me in the paths of righteousness for his name's sake.
   '4':
-  - type: text
-    content: 'Yea, though I walk through the valley of the shadow of death, I will fear no evil:'
-  - type: text
-    content: 'for thou '
-  - type: text
-    content: art
-  - type: text
-    content: ' with me; Thy rod and thy staff they comfort me.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Yea, though I walk through the valley of the shadow of death, I will fear no evil:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'for thou '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: art
+    - type: text
+      text: ' with me; Thy rod and thy staff they comfort me.'
   '5':
-  - type: text
-    content: 'Thou preparest a table before me in the presence of mine enemies:'
-  - type: text
-    content: Thou anointest my head with oil; my cup runneth over.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Thou preparest a table before me in the presence of mine enemies:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Thou anointest my head with oil; my cup runneth over.
   '6':
-  - type: text
-    content: 'Surely goodness and mercy shall follow me all the days of my life:'
-  - type: text
-    content: 'And I will dwell in the house of the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' for ever.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Surely goodness and mercy shall follow me all the days of my life:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'And I will dwell in the house of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' for ever.'

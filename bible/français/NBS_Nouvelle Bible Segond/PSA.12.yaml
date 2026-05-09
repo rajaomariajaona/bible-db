@@ -2,113 +2,714 @@ document_id: PSA.12,104
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Les paroles pures du Seigneur
-  - type: text
-    content: ' '
-  - type: note
-    content: Sur la lyre… 6.1n.
-  - type: text
-    content: Du chef de chœur. Sur la lyre à huit cordes. Psaume. De David.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: 'Les paroles pures du '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '12.1 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Sur la lyre… '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '6.1'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: Du chef de chœur. Sur la lyre à huit cordes. Psaume. De David.
   '2':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'Cf. 4.4n  ; 14.3 ; Es 57.1 ; Jr 5.1 ; Os 4.1 ; Mi 7.2 ; Rm 3.10-12. –  fidèles  : cf. 17.7n. –  sûrs ou dignes de confiance  ; cf. 31.24.'
-  - type: text
-    content: 'Sauve, '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ', car c''en est fini des fidèles,'
-  - type: text
-    content: les hommes sûrs disparaissent.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '12.2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Cf. 4.4
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; 14.3 ; Es 57.1 ; Jr 5.1 ; Os 4.1 ; Mi 7.2 ; Rm 3.10-12. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: fidèles
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : cf. 17.7'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'sûrs '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: dignes de confiance
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text:  ; cf. 31.24.
+      marker-yv: yv-n
+    - type: text
+      text: 'Sauve, '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ', car c''en est fini des fidèles,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: les hommes sûrs disparaissent.
   '3':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'parle faussement  : cf. 41.7 ; 144.8,11 ; Jr 9.2-8. –  lèvres enjôleuses ou flatteuses, complaisantes  ; cf. 5.10n  ; 55.22 ; 59.8,13 ; 140.4 ; cf. 28.3+. –  un cœur double  : litt. cœur et cœur  ; cf. 1Ch 12.34.'
-  - type: text
-    content: Chacun parle faussement à son prochain.
-  - type: text
-    content: On se parle avec des lèvres enjôleuses
-  - type: text
-    content: et un cœur double.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '12.3 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: parle faussement
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : cf. 41.7 ; 144.8,11 ; Jr 9.2-8. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'lèvres enjôleuses '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: flatteuses, complaisantes
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text:  ; cf. 5.10
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; 55.22 ; 59.8,13 ; 140.4 ; cf. 28.3+. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'un '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: cœur
+        - type: text
+          text: ' double'
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: cœur et cœur
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text:  ; cf. 1Ch 12.34.
+      marker-yv: yv-n
+    - type: text
+      text: Chacun parle faussement à son prochain.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: On se parle avec des lèvres enjôleuses
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et un cœur double.
   '4':
-  - type: text
-    content: ' '
-  - type: note
-    content: '31.19. –  discourt avec arrogance  : litt. dit de grandes choses.'
-  - type: text
-    content: 'Que le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' retranche toutes les lèvres enjôleuses,'
-  - type: text
-    content: la langue qui discourt avec arrogance,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '12.4 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '31.19. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: discourt avec arrogance
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: dit de grandes choses.
+      marker-yv: yv-n
+    - type: text
+      text: 'Que le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' retranche toutes les lèvres enjôleuses,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: la langue qui discourt avec arrogance,
   '5':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'Nous sommes puissants…  : LXX a lu nous fortifierons notre langue. –  maître ou seigneur.'
-  - type: text
-    content: 'ceux qui disent : Nous sommes puissants par notre langue,'
-  - type: text
-    content: nos lèvres sont avec nous ;
-  - type: text
-    content: qui serait notre maître ?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '12.5 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Nous sommes puissants…
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: LXX
+        - type: text
+          text: ' a lu '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'nous fortifierons notre langue. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '–  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'maître '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: seigneur.
+      marker-yv: yv-n
+    - type: text
+      text: 'ceux qui disent : Nous sommes puissants par notre langue,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: nos lèvres sont avec nous ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: qui serait notre maître ?
   '6':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'pauvres (9.13n) / déshérités  : cf. 35.10 ; 37.14 ; 40.18 ; 70.6 ; 72.4 ; 74.21 ; 82.3s ; 86.1 ; 109.16,22 ; 140.13 ; Es 32.7 ; 41.17 ; Ez 16.49 ; 18.12 ; 22.29 ; Am 8.4. –  sont opprimés… 72.4 ; Dt 24.14 ; Es 3.15 ; 10.2 ; Am 2.6 ; 5.12 ; Pr 14.31 ; 22.16. –  maintenant… je me lève Es 33.10. –  le salut Es 12.2. –  à ceux sur qui l''on souffle  : cf. 10.5 ; on a aussi compris  : à ceux contre qui l''on témoigne (Pr 6.19n  ; 12.17n)  ; à ceux qui soupirent après lui  ; LXX (et) je paraîtrai ouvertement en lui.'
-  - type: text
-    content: Parce que les pauvres sont opprimés,
-  - type: text
-    content: parce que les déshérités gémissent,
-  - type: text
-    content: 'maintenant, dit le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ', je me lève :'
-  - type: text
-    content: j'apporte le salut à ceux sur qui l'on souffle.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '12.6 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'pauvres '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: (9.13
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: ') / '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: déshérités
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : cf. 35.10 ; 37.14 ; 40.18 ; 70.6 ; 72.4 ; 74.21 ; 82.3s ; 86.1 ; 109.16,22 ; 140.13 ; Es 32.7 ; 41.17 ; Ez 16.49 ; 18.12 ; 22.29 ; Am 8.4. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'sont opprimés… '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '72.4 ; Dt 24.14 ; Es 3.15 ; 10.2 ; Am 2.6 ; 5.12 ; Pr 14.31 ; 22.16. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'maintenant… je me lève '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Es 33.10. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'le salut '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Es 12.2. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: à ceux sur qui l'on souffle
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : cf. 10.5 ; on a aussi compris'
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'à ceux contre qui l''on témoigne '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: (Pr 6.19
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; 12.17'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: ') '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text:  ; à ceux qui soupirent après lui
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' ; LXX '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: (et) je paraîtrai ouvertement en lui.
+      marker-yv: yv-n
+    - type: text
+      text: Parce que les pauvres sont opprimés,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: parce que les déshérités gémissent,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'maintenant, dit le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ', je me lève :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: j'apporte le salut à ceux sur qui l'on souffle.
   '7':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'Cf. 18.31 ; 19.8-10 ; 119.140 ; Pr 30.5. –  au creuset de la terre  : traduction et sens incertains.'
-  - type: text
-    content: 'Les paroles du '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' sont des paroles pures ;'
-  - type: text
-    content: un argent éprouvé au creuset de la terre,
-  - type: text
-    content: et sept fois épuré.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '12.7 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Cf. 18.31 ; 19.8-10 ; 119.140 ; Pr 30.5. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: au creuset de la terre
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : traduction et sens incertains.'
+      marker-yv: yv-n
+    - type: text
+      text: 'Les paroles du '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' sont des paroles pures ;'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: un argent éprouvé au creuset de la terre,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et sept fois épuré.
   '8':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'tu les garderas  : quelques mss hébreux et des versions anciennes portent tu nous garderas. –  de cette génération  : autre traduction de cette engeance.'
-  - type: text
-    content: 'Toi, '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ', tu les garderas,'
-  - type: text
-    content: tu nous préserveras de cette génération pour toujours.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '12.8 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: tu les garderas
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : quelques mss hébreux et des versions anciennes portent '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'tu nous garderas. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '–  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'de cette '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: génération
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : autre traduction '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: de cette engeance.
+      marker-yv: yv-n
+    - type: text
+      text: 'Toi, '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ', tu les garderas,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: tu nous préserveras de cette génération pour toujours.
   '9':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'quand la bassesse s''élève…  : le dernier vers, assez obscur en hébreu, a été diversement compris par les versions anciennes.'
-  - type: text
-    content: Les méchants se promènent de toutes parts,
-  - type: text
-    content: quand la bassesse s'élève parmi les humains.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '12.9 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: quand la bassesse s'élève…
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : le dernier vers, assez obscur en hébreu, a été diversement compris par les versions anciennes.'
+      marker-yv: yv-n
+    - type: text
+      text: Les méchants se promènent de toutes parts,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: quand la bassesse s'élève parmi les humains.

@@ -2,79 +2,160 @@ document_id: PSA.125,1
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: A Song of degrees.
-  - type: text
-    content: 'They that trust in the '
-  - type: text
-    content: LORD
-  - type: text
-    content: Shall be
-  - type: text
-    content: ' as mount Zion,'
-  - type: text
-    content: Which
-  - type: text
-    content: ' cannot be removed,'
-  - type: text
-    content: But
-  - type: text
-    content: ' abideth for ever.'
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: A Song of degrees.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'They that trust in the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: Shall be
+    - type: text
+      text: ' as mount Zion,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: Which
+    - type: text
+      text: ' cannot be removed,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: But
+    - type: text
+      text: ' abideth for ever.'
   '2':
-  - type: text
-    content: ' '
-  - type: text
-    content: As
-  - type: text
-    content: ' the mountains '
-  - type: text
-    content: are
-  - type: text
-    content: ' round about Jerusalem,'
-  - type: text
-    content: 'So the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' '
-  - type: text
-    content: is
-  - type: text
-    content: ' round about his people from henceforth even for ever.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: As
+    - type: text
+      text: ' the mountains '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: are
+    - type: text
+      text: ' round about Jerusalem,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'So the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' round about his people from henceforth even for ever.'
   '3':
-  - type: text
-    content: For the rod of the wicked shall not rest upon the lot of the righteous;
-  - type: text
-    content: Lest the righteous put forth their hands unto iniquity.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: For the rod of the wicked shall not rest upon the lot of the righteous;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Lest the righteous put forth their hands unto iniquity.
   '4':
-  - type: text
-    content: 'Do good, O '
-  - type: text
-    content: LORD
-  - type: text
-    content: ','
-  - type: text
-    content: 'Unto '
-  - type: text
-    content: those that be
-  - type: text
-    content: ' good, and to '
-  - type: text
-    content: them that are
-  - type: text
-    content: ' upright in their hearts.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Do good, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Unto '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: those that be
+    - type: text
+      text: ' good, and to '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: them that are
+    - type: text
+      text: ' upright in their hearts.'
   '5':
-  - type: text
-    content: 'As for such as turn aside unto their crooked ways, the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' shall lead them forth with the workers of iniquity:'
-  - type: text
-    content: But
-  - type: text
-    content: ' peace '
-  - type: text
-    content: shall be
-  - type: text
-    content: ' upon Israel.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'As for such as turn aside unto their crooked ways, the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' shall lead them forth with the workers of iniquity:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: But
+    - type: text
+      text: ' peace '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: shall be
+    - type: text
+      text: ' upon Israel.'

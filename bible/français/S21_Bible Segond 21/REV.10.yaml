@@ -2,43 +2,110 @@ document_id: REV.10,152
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Le petit livre
-  - type: text
-    content: 'Puis je vis un [autre] ange puissant descendre du ciel, enveloppé d''une nuée. Au-dessus de sa tête était l''arc-en-ciel; son visage était comme le soleil et ses jambes comme des colonnes de feu. '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Le petit livre
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Puis je vis un [autre] ange puissant descendre du ciel, enveloppé d''une nuée. Au-dessus de sa tête était l''arc-en-ciel; son visage était comme le soleil et ses jambes comme des colonnes de feu. '
   '10':
-  - type: text
-    content: 'Je pris le petit livre de la main de l''ange et '
-  - type: text
-    content: je l'avalai. Dans ma bouche, il fut doux comme du miel
-  - type: note
-    content: 'Je l''avalai… miel: renvoi à Ezéchiel 3.3.'
-  - type: text
-    content: ', mais quand je l''eus avalé, mon ventre fut rempli d''amertume. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Je pris le petit livre de la main de l''ange et '
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: je l'avalai. Dans ma bouche, il fut doux comme du miel
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '10.10 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Je l''avalai… miel: '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'renvoi à '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ezéchiel 3.3
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: ', mais quand je l''eus avalé, mon ventre fut rempli d''amertume. '
   '11':
-  - type: text
-    content: 'Puis on me dit: «Il faut que tu prophétises de nouveau sur un grand nombre de peuples, de nations, de langues et de rois.»'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Puis on me dit: «Il faut que tu prophétises de nouveau sur un grand nombre de peuples, de nations, de langues et de rois.»'
   '2':
-  - type: text
-    content: 'Il tenait dans sa main un petit livre ouvert. Il posa son pied droit sur la mer et son pied gauche sur la terre, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Il tenait dans sa main un petit livre ouvert. Il posa son pied droit sur la mer et son pied gauche sur la terre, '
   '3':
-  - type: text
-    content: 'et il cria d''une voix forte, comme un lion qui rugit. Quand il eut crié, les sept tonnerres firent entendre leur voix. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'et il cria d''une voix forte, comme un lion qui rugit. Quand il eut crié, les sept tonnerres firent entendre leur voix. '
   '4':
-  - type: text
-    content: 'Quand les sept tonnerres eurent fini de parler, j''allais écrire, mais j''entendis du ciel une voix qui disait: «Marque du sceau du secret ce qu''ont dit les sept tonnerres, ne l''écris pas.»'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Quand les sept tonnerres eurent fini de parler, j''allais écrire, mais j''entendis du ciel une voix qui disait: «Marque du sceau du secret ce qu''ont dit les sept tonnerres, ne l''écris pas.»'
   '5':
-  - type: text
-    content: 'Alors l''ange que j''avais vu debout sur la mer et sur la terre leva sa main [droite] vers le ciel '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Alors l''ange que j''avais vu debout sur la mer et sur la terre leva sa main [droite] vers le ciel '
   '6':
-  - type: text
-    content: 'et jura par celui qui vit aux siècles des siècles, qui a créé le ciel et ce qui s''y trouve, la terre et ce qui s''y trouve ainsi que la mer et ce qui s''y trouve: «Il n''y aura plus de délai, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'et jura par celui qui vit aux siècles des siècles, qui a créé le ciel et ce qui s''y trouve, la terre et ce qui s''y trouve ainsi que la mer et ce qui s''y trouve: «Il n''y aura plus de délai, '
   '7':
-  - type: text
-    content: mais quand viendront les jours où l'on entendra le septième ange sonner de la trompette, le mystère de Dieu s'accomplira, comme il l'a annoncé à ses serviteurs les prophètes.»
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: mais quand viendront les jours où l'on entendra le septième ange sonner de la trompette, le mystère de Dieu s'accomplira, comme il l'a annoncé à ses serviteurs les prophètes.»
   '8':
-  - type: text
-    content: 'La voix que j''avais entendue du ciel me parla de nouveau et me dit: «Va, prends le petit livre ouvert dans la main de l''ange qui se tient debout sur la mer et sur la terre.» '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'La voix que j''avais entendue du ciel me parla de nouveau et me dit: «Va, prends le petit livre ouvert dans la main de l''ange qui se tient debout sur la mer et sur la terre.» '
   '9':
-  - type: text
-    content: 'J''allai donc vers l''ange et lui demandai de me donner le petit livre. Il me dit: «Prends-le et avale-le; il sera amer dans ton ventre, mais dans ta bouche il sera doux comme du miel.» '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'J''allai donc vers l''ange et lui demandai de me donner le petit livre. Il me dit: «Prends-le et avale-le; il sera amer dans ton ventre, mais dans ta bouche il sera doux comme du miel.» '

@@ -2,127 +2,346 @@ document_id: MRK.11,152
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Entrée triomphale de Jésus à Jérusalem
-  - type: text
-    content: 'Lorsqu''ils approchèrent de Jérusalem, près de Bethphagé et de Béthanie, vers le mont des Oliviers, Jésus envoya deux de ses disciples '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Entrée triomphale de Jésus à Jérusalem
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Lorsqu''ils approchèrent de Jérusalem, près de Bethphagé et de Béthanie, vers le mont des Oliviers, Jésus envoya deux de ses disciples '
   '10':
-  - type: text
-    content: Béni soit le règne qui vient [au nom du Seigneur], le règne de David, notre père! Hosanna dans les lieux très hauts!»
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Béni soit le règne qui vient [au nom du Seigneur], le règne de David, notre père! Hosanna dans les lieux très hauts!»
   '11':
-  - type: text
-    content: Jésus entra à Jérusalem et se rendit au temple. Après avoir tout regardé autour de lui, comme il était déjà tard, il sortit pour aller à Béthanie avec les douze.
-  - type: heading
-    content: Jésus dans le temple
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Jésus entra à Jérusalem et se rendit au temple. Après avoir tout regardé autour de lui, comme il était déjà tard, il sortit pour aller à Béthanie avec les douze.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Jésus dans le temple
+    marker-yv: yv-h
   '12':
-  - type: text
-    content: 'Le lendemain, comme ils quittaient Béthanie, Jésus eut faim. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Le lendemain, comme ils quittaient Béthanie, Jésus eut faim. '
   '13':
-  - type: text
-    content: 'Il aperçut de loin un figuier qui avait des feuilles et alla voir s''il y trouverait quelque chose, mais quand il se fut approché, il ne trouva que des feuilles, car ce n''était pas la saison des figues. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Il aperçut de loin un figuier qui avait des feuilles et alla voir s''il y trouverait quelque chose, mais quand il se fut approché, il ne trouva que des feuilles, car ce n''était pas la saison des figues. '
   '14':
-  - type: text
-    content: 'Alors Jésus prit la parole et lui dit: «Que plus jamais personne ne mange de ton fruit!» Et ses disciples l''entendirent.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Alors Jésus prit la parole et lui dit: «Que plus jamais personne ne mange de ton fruit!» Et ses disciples l''entendirent.'
   '15':
-  - type: text
-    content: 'Ils arrivèrent à Jérusalem, et Jésus entra dans le temple. Il se mit à chasser ceux qui vendaient et qui achetaient dans le temple, et il renversa les tables des changeurs de monnaie et les sièges des vendeurs de pigeons. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ils arrivèrent à Jérusalem, et Jésus entra dans le temple. Il se mit à chasser ceux qui vendaient et qui achetaient dans le temple, et il renversa les tables des changeurs de monnaie et les sièges des vendeurs de pigeons. '
   '16':
-  - type: text
-    content: 'Il ne laissait personne transporter un objet à travers le temple '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Il ne laissait personne transporter un objet à travers le temple '
   '17':
-  - type: text
-    content: 'et il les enseignait en disant: «N''est-il pas écrit: '
-  - type: text
-    content: Mon temple sera appelé une maison de prière pour toutes les nations
-  - type: note
-    content: 'Mon temple… nations: citation d''Esaïe 56.7.'
-  - type: text
-    content: '? Mais vous, vous en avez fait '
-  - type: text
-    content: une caverne de voleurs
-  - type: note
-    content: 'Une caverne de voleurs: renvoi à Jérémie 7.11.'
-  - type: text
-    content: '.» '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'et il les enseignait en disant: «N''est-il pas écrit: '
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: Mon temple sera appelé une maison de prière pour toutes les nations
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '11.17 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Mon temple… nations: citation d'''
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Esaïe 56.7
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: '? Mais vous, vous en avez fait '
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: une caverne de voleurs
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '11.17 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Une caverne de voleurs: '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'renvoi à '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jérémie 7.11
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: '.» '
   '18':
-  - type: text
-    content: 'Les chefs des prêtres et les spécialistes de la loi l''entendirent, et ils cherchaient les moyens de le faire mourir; ils le redoutaient en effet, parce que toute la foule était frappée par son enseignement. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Les chefs des prêtres et les spécialistes de la loi l''entendirent, et ils cherchaient les moyens de le faire mourir; ils le redoutaient en effet, parce que toute la foule était frappée par son enseignement. '
   '19':
-  - type: text
-    content: Le soir venu, Jésus sortit de la ville.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Le soir venu, Jésus sortit de la ville.
   '2':
-  - type: text
-    content: 'en leur disant: «Allez au village qui est devant vous. Dès que vous y serez entrés, vous trouverez un ânon attaché, sur lequel personne n''est encore monté. Détachez-le et amenez-le. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'en leur disant: «Allez au village qui est devant vous. Dès que vous y serez entrés, vous trouverez un ânon attaché, sur lequel personne n''est encore monté. Détachez-le et amenez-le. '
   '20':
-  - type: text
-    content: 'Le lendemain matin, en passant, les disciples virent le figuier: il était desséché jusqu''aux racines. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Le lendemain matin, en passant, les disciples virent le figuier: il était desséché jusqu''aux racines. '
   '21':
-  - type: text
-    content: 'Se rappelant ce qui s''était passé, Pierre dit à Jésus: «Maître, regarde, le figuier que tu as maudit est desséché.» '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Se rappelant ce qui s''était passé, Pierre dit à Jésus: «Maître, regarde, le figuier que tu as maudit est desséché.» '
   '22':
-  - type: text
-    content: 'Jésus leur dit alors: «Ayez foi en Dieu. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Jésus leur dit alors: «Ayez foi en Dieu. '
   '23':
-  - type: text
-    content: 'Je vous le dis en vérité, si quelqu''un dit à cette montagne: ‘Retire-toi de là et jette-toi dans la mer’, et s''il ne doute pas dans son cœur mais croit que ce qu''il dit arrive, il le verra s''accomplir. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Je vous le dis en vérité, si quelqu''un dit à cette montagne: ‘Retire-toi de là et jette-toi dans la mer’, et s''il ne doute pas dans son cœur mais croit que ce qu''il dit arrive, il le verra s''accomplir. '
   '24':
-  - type: text
-    content: 'C''est pourquoi je vous le dis: tout ce que vous demanderez en priant, croyez que vous l''avez reçu et cela vous sera accordé. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'C''est pourquoi je vous le dis: tout ce que vous demanderez en priant, croyez que vous l''avez reçu et cela vous sera accordé. '
   '25':
-  - type: text
-    content: 'Et lorsque vous êtes debout pour prier, si vous avez quelque chose contre quelqu''un, pardonnez-lui afin que votre Père céleste vous pardonne aussi vos fautes. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Et lorsque vous êtes debout pour prier, si vous avez quelque chose contre quelqu''un, pardonnez-lui afin que votre Père céleste vous pardonne aussi vos fautes. '
   '26':
-  - type: text
-    content: '[Mais si vous ne pardonnez pas, votre Père céleste ne vous pardonnera pas non plus vos fautes.]»'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: '[Mais si vous ne pardonnez pas, votre Père céleste ne vous pardonnera pas non plus vos fautes.]»'
   '27':
-  - type: text
-    content: 'Ils se rendirent de nouveau à Jérusalem et, pendant que Jésus se promenait dans le temple, les chefs des prêtres, les spécialistes de la loi et les anciens vinrent vers lui '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ils se rendirent de nouveau à Jérusalem et, pendant que Jésus se promenait dans le temple, les chefs des prêtres, les spécialistes de la loi et les anciens vinrent vers lui '
   '28':
-  - type: text
-    content: 'et lui dirent: «Par quelle autorité fais-tu ces choses et qui t''a donné l''autorité de les faire?» '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'et lui dirent: «Par quelle autorité fais-tu ces choses et qui t''a donné l''autorité de les faire?» '
   '29':
-  - type: text
-    content: 'Jésus leur répondit: «Je vous poserai [moi aussi] une question; répondez-moi, et je vous dirai par quelle autorité je fais ces choses. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Jésus leur répondit: «Je vous poserai [moi aussi] une question; répondez-moi, et je vous dirai par quelle autorité je fais ces choses. '
   '3':
-  - type: text
-    content: 'Si quelqu''un vous demande: ‘Pourquoi faites-vous cela?’ répondez: ‘Le Seigneur en a besoin’, et à l''instant il le laissera venir ici.»'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Si quelqu''un vous demande: ‘Pourquoi faites-vous cela?’ répondez: ‘Le Seigneur en a besoin’, et à l''instant il le laissera venir ici.»'
   '30':
-  - type: text
-    content: 'Le baptême de Jean venait-il du ciel ou des hommes? Répondez-moi.» '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Le baptême de Jean venait-il du ciel ou des hommes? Répondez-moi.» '
   '31':
-  - type: text
-    content: 'Mais ils raisonnèrent ainsi entre eux: «Si nous répondons: ‘Du ciel’, il dira: ‘Pourquoi donc n''avez-vous pas cru en lui?’ '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Mais ils raisonnèrent ainsi entre eux: «Si nous répondons: ‘Du ciel’, il dira: ‘Pourquoi donc n''avez-vous pas cru en lui?’ '
   '32':
-  - type: text
-    content: 'Et si nous répondons: ‘Des hommes…’» Ils redoutaient les réactions du peuple, car tous considéraient réellement Jean comme un prophète. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Et si nous répondons: ‘Des hommes…’» Ils redoutaient les réactions du peuple, car tous considéraient réellement Jean comme un prophète. '
   '33':
-  - type: text
-    content: 'Alors ils répondirent à Jésus: «Nous ne savons pas.» Jésus leur répondit: «Moi non plus, je ne vous dirai pas par quelle autorité je fais ces choses.»'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Alors ils répondirent à Jésus: «Nous ne savons pas.» Jésus leur répondit: «Moi non plus, je ne vous dirai pas par quelle autorité je fais ces choses.»'
   '4':
-  - type: text
-    content: 'Les disciples partirent; ils trouvèrent l''ânon attaché dehors près d''une porte, dans la rue, et ils le détachèrent. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Les disciples partirent; ils trouvèrent l''ânon attaché dehors près d''une porte, dans la rue, et ils le détachèrent. '
   '5':
-  - type: text
-    content: 'Quelques-uns de ceux qui étaient là leur dirent: «Que faites-vous? Pourquoi détachez-vous cet ânon?» '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Quelques-uns de ceux qui étaient là leur dirent: «Que faites-vous? Pourquoi détachez-vous cet ânon?» '
   '6':
-  - type: text
-    content: 'Ils répondirent comme Jésus le leur avait dit, et on les laissa faire. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ils répondirent comme Jésus le leur avait dit, et on les laissa faire. '
   '7':
-  - type: text
-    content: 'Ils amenèrent l''ânon à Jésus, jetèrent leurs vêtements sur lui, et Jésus s''assit dessus. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ils amenèrent l''ânon à Jésus, jetèrent leurs vêtements sur lui, et Jésus s''assit dessus. '
   '8':
-  - type: text
-    content: 'Beaucoup de gens étendirent leurs vêtements sur le chemin, et d''autres des branches qu''ils coupèrent dans les champs. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Beaucoup de gens étendirent leurs vêtements sur le chemin, et d''autres des branches qu''ils coupèrent dans les champs. '
   '9':
-  - type: text
-    content: 'Ceux qui précédaient et ceux qui suivaient Jésus criaient: «'
-  - type: text
-    content: Hosanna!
-  - type: note
-    content: 'Hosanna: expression signifiant sauve donc et devenue une exclamation de joie ou un cri de bienvenue.'
-  - type: text
-    content: Béni soit celui qui vient au nom du Seigneur!
-  - type: note
-    content: 'Hosanna… Seigneur: citation du Psaume 118.25, 26.'
-  - type: text
-    content: ' '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ceux qui précédaient et ceux qui suivaient Jésus criaient: «'
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: Hosanna!
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '11.9 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Hosanna: '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: expression signifiant sauve donc et devenue une exclamation de joie ou un cri de bienvenue.
+      marker-yv: yv-n
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: Béni soit celui qui vient au nom du Seigneur!
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '11.9 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hosanna… Seigneur: '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'citation du '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Psaume 118.25
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '26'
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: ' '

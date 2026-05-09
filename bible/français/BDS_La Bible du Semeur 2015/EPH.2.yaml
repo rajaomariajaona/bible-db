@@ -2,120 +2,359 @@ document_id: EPH.2,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: De la mort à la vie
-  - type: text
-    content: 'Autrefois, vous étiez morts à cause de vos fautes et de vos péchés. '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: De la mort à la vie
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Autrefois, vous étiez morts à cause de vos fautes et de vos péchés. '
   '10':
-  - type: text
-    content: Ce que nous sommes, nous le devons à Dieu ; car par notre union avec Jésus-Christ, Dieu nous a créés pour une vie riche d’œuvres bonnes qu’il a préparées à l’avance afin que nous les accomplissions.
-  - type: heading
-    content: Juifs et non-Juifs réconciliés par Jésus-Christ
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Ce que nous sommes, nous le devons à Dieu ; car par notre union avec Jésus-Christ, Dieu nous a créés pour une vie riche d’œuvres bonnes qu’il a préparées à l’avance afin que nous les accomplissions.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Juifs et non-Juifs réconciliés par Jésus-Christ
+    marker-yv: yv-h
   '11':
-  - type: text
-    content: 'C’est pourquoi, vous qui portez, dans votre corps, la preuve que vous n’êtes pas des Juifs et qui donc êtes traités d’« incirconcis » par ceux qui se disent « les circoncis » à cause d’un rite accompli sur leur corps et par des hommes, rappelez-vous quelle était votre situation autrefois. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'C’est pourquoi, vous qui portez, dans votre corps, la preuve que vous n’êtes pas des Juifs et qui donc êtes traités d’« incirconcis » par ceux qui se disent « les circoncis » à cause d’un rite accompli sur leur corps et par des hommes, rappelez-vous quelle était votre situation autrefois. '
   '12':
-  - type: text
-    content: En ce temps-là, vous étiez sans Messie, vous n’aviez pas le droit de faire partie du peuple d’Israël, vous étiez étrangers aux alliances conclues par Dieu pour garantir sa promesse, sans espérance et sans Dieu dans le monde.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: En ce temps-là, vous étiez sans Messie, vous n’aviez pas le droit de faire partie du peuple d’Israël, vous étiez étrangers aux alliances conclues par Dieu pour garantir sa promesse, sans espérance et sans Dieu dans le monde.
   '13':
-  - type: text
-    content: 'Mais maintenant, par votre union avec Jésus-Christ, vous qui, autrefois, étiez '
-  - type: text
-    content: loin,
-  - type: text
-    content: ' vous êtes devenus '
-  - type: text
-    content: proches
-  - type: text
-    content: ' grâce au sacrifice de Christ'
-  - type: note
-    content: Voir la citation au v. 17.
-  - type: text
-    content: .
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Mais maintenant, par votre union avec Jésus-Christ, vous qui, autrefois, étiez '
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: loin,
+    - type: text
+      text: ' vous êtes devenus '
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: proches
+    - type: text
+      text: ' grâce au sacrifice de Christ'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.13 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Voir la citation au v. 17.
+      marker-yv: yv-n
+    - type: text
+      text: .
   '14':
-  - type: text
-    content: ' '
-  - type: text
-    content: Car nous lui devons notre paix
-  - type: text
-    content: ' '
-  - type: note
-    content: Mi 5.4 .
-  - type: text
-    content: . Il a, en effet, instauré l’unité entre les Juifs et les non-Juifs et abattu le mur
-  - type: note
-    content: Allusion probable à la haute muraille qui, dans le temple de Jérusalem, séparait le parvis des non-Juifs de celui où les Juifs seuls avaient accès.
-  - type: text
-    content: ' qui les séparait : en livrant son corps à la mort, il a annulé les effets de ce qui faisait d’eux des ennemis, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: Car nous lui devons notre paix
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.14 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Mi 5.4
+        - type: text
+          text: ' .'
+      marker-yv: yv-n
+    - type: text
+      text: . Il a, en effet, instauré l’unité entre les Juifs et les non-Juifs et abattu le mur
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.14 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Allusion probable à la haute muraille qui, dans le temple de Jérusalem, séparait le parvis des non-Juifs de celui où les Juifs seuls avaient accès.
+      marker-yv: yv-n
+    - type: text
+      text: ' qui les séparait : en livrant son corps à la mort, il a annulé les effets de ce qui faisait d’eux des ennemis, '
   '15':
-  - type: text
-    content: 'c’est-à-dire de la Loi de Moïse, dans ses commandements et ses règles. Il voulait ainsi créer une seule et nouvelle humanité à partir des Juifs et des non-Juifs qu’il a unis à lui-même, en établissant la paix. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'c’est-à-dire de la Loi de Moïse, dans ses commandements et ses règles. Il voulait ainsi créer une seule et nouvelle humanité à partir des Juifs et des non-Juifs qu’il a unis à lui-même, en établissant la paix. '
   '16':
-  - type: text
-    content: Il voulait aussi les réconcilier les uns et les autres avec Dieu et les unir en un seul corps, en supprimant, par sa mort sur la croix, ce qui faisait d’eux des ennemis.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Il voulait aussi les réconcilier les uns et les autres avec Dieu et les unir en un seul corps, en supprimant, par sa mort sur la croix, ce qui faisait d’eux des ennemis.
   '17':
-  - type: text
-    content: 'Ainsi '
-  - type: text
-    content: il est venu annoncer la paix à vous qui étiez loin et la paix à ceux qui étaient proches
-  - type: note
-    content: Es 57.19 (voir Za 6.15).
-  - type: text
-    content: .
-  - type: text
-    content: ' '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ainsi '
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: il est venu annoncer la paix à vous qui étiez loin et la paix à ceux qui étaient proches
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.17 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Es 57.19
+        - type: text
+          text: ' (voir '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Za 6.15
+        - type: text
+          text: ).
+      marker-yv: yv-n
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: .
+    - type: text
+      text: ' '
   '18':
-  - type: text
-    content: Car, grâce à lui, nous avons accès, les uns comme les autres, auprès du Père, par le même Esprit.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Car, grâce à lui, nous avons accès, les uns comme les autres, auprès du Père, par le même Esprit.
   '19':
-  - type: text
-    content: Voilà pourquoi vous n’êtes plus des étrangers ou des résidents temporaires
-  - type: note
-    content: Le terme grec désignait les étrangers autorisés à résider comme émigrés en Israël, sans y jouir du droit de cité.
-  - type: text
-    content: ', vous êtes concitoyens des membres du peuple saint, vous faites partie de la famille de Dieu. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Voilà pourquoi vous n’êtes plus des étrangers ou des résidents temporaires
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.19 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Le terme grec désignait les étrangers autorisés à résider comme émigrés en Israël, sans y jouir du droit de cité.
+      marker-yv: yv-n
+    - type: text
+      text: ', vous êtes concitoyens des membres du peuple saint, vous faites partie de la famille de Dieu. '
   '2':
-  - type: text
-    content: Par ces actes, vous conformiez alors votre manière de vivre à celle de ce monde et vous suiviez le chef des puissances spirituelles mauvaises, cet esprit qui agit maintenant dans les hommes rebelles à Dieu.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Par ces actes, vous conformiez alors votre manière de vivre à celle de ce monde et vous suiviez le chef des puissances spirituelles mauvaises, cet esprit qui agit maintenant dans les hommes rebelles à Dieu.
   '20':
-  - type: text
-    content: Dieu vous a intégrés à l’édifice qu’il construit sur le fondement que sont les apôtres, ses prophètes
-  - type: note
-    content: 'Voir Ap 21.14. Autre traduction : sur le fondement posé par les apôtres, ses prophètes. Certains traduisent la fin du verset : les apôtres et les prophètes.'
-  - type: text
-    content: ', et dont Jésus-Christ lui-même est la pierre principale.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Dieu vous a intégrés à l’édifice qu’il construit sur le fondement que sont les apôtres, ses prophètes
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.20 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Voir '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Ap 21.14
+        - type: text
+          text: '. Autre traduction : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'sur le fondement posé par les apôtres, ses prophètes. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Certains traduisent la fin du verset : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: les apôtres et les prophètes.
+      marker-yv: yv-n
+    - type: text
+      text: ', et dont Jésus-Christ lui-même est la pierre principale.'
   '21':
-  - type: text
-    content: 'En lui toute la construction s’élève, bien coordonnée, afin d’être un temple saint dans le Seigneur, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'En lui toute la construction s’élève, bien coordonnée, afin d’être un temple saint dans le Seigneur, '
   '22':
-  - type: text
-    content: et, unis à Christ, vous avez été intégrés ensemble à cette construction pour former une demeure où Dieu habite par l’Esprit.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: et, unis à Christ, vous avez été intégrés ensemble à cette construction pour former une demeure où Dieu habite par l’Esprit.
   '3':
-  - type: text
-    content: Nous aussi, nous faisions autrefois tous partie de ces hommes. Nous vivions selon nos mauvais désirs d’hommes livrés à eux-mêmes et nous accomplissions tout ce que notre corps et notre esprit nous poussaient à faire. Aussi étions-nous, par nature, voués à la colère de Dieu comme le reste des hommes.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Nous aussi, nous faisions autrefois tous partie de ces hommes. Nous vivions selon nos mauvais désirs d’hommes livrés à eux-mêmes et nous accomplissions tout ce que notre corps et notre esprit nous poussaient à faire. Aussi étions-nous, par nature, voués à la colère de Dieu comme le reste des hommes.
   '4':
-  - type: text
-    content: 'Mais Dieu est riche en bonté. Aussi, à cause du grand amour dont il nous a aimés, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Mais Dieu est riche en bonté. Aussi, à cause du grand amour dont il nous a aimés, '
   '5':
-  - type: text
-    content: alors que nous étions morts
-  - type: note
-    content: 'Autre traduction : sous le coup d’une condamnation à mort.'
-  - type: text
-    content: ' à cause de nos fautes, il nous a fait revivre les uns et les autres avec Christ. – C’est par la grâce que vous êtes sauvés. – '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: alors que nous étions morts
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.5 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Autre traduction : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: sous le coup d’une condamnation à mort.
+      marker-yv: yv-n
+    - type: text
+      text: ' à cause de nos fautes, il nous a fait revivre les uns et les autres avec Christ. – C’est par la grâce que vous êtes sauvés. – '
   '6':
-  - type: text
-    content: Par notre union avec Jésus-Christ, Dieu nous a ressuscités les uns et les autres
-  - type: note
-    content: 'Autre traduction : avec lui. De même dans la suite du verset.'
-  - type: text
-    content: ' et nous a fait siéger les uns et les autres dans le monde céleste. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Par notre union avec Jésus-Christ, Dieu nous a ressuscités les uns et les autres
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.6 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Autre traduction : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'avec lui. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: De même dans la suite du verset.
+      marker-yv: yv-n
+    - type: text
+      text: ' et nous a fait siéger les uns et les autres dans le monde céleste. '
   '7':
-  - type: text
-    content: Il l’a fait afin de démontrer pour tous les âges à venir, l’extraordinaire richesse de sa grâce qu’il a manifestée en Jésus-Christ par sa bonté envers nous.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Il l’a fait afin de démontrer pour tous les âges à venir, l’extraordinaire richesse de sa grâce qu’il a manifestée en Jésus-Christ par sa bonté envers nous.
   '8':
-  - type: text
-    content: 'Car c’est par grâce que vous êtes sauvés, par le moyen de la foi. Cela ne vient pas de vous, c’est un don de Dieu ; '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Car c’est par grâce que vous êtes sauvés, par le moyen de la foi. Cela ne vient pas de vous, c’est un don de Dieu ; '
   '9':
-  - type: text
-    content: 'ce n’est pas le fruit d’œuvres que vous auriez accomplies. Personne n’a donc de raison de se vanter. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'ce n’est pas le fruit d’œuvres que vous auriez accomplies. Personne n’a donc de raison de se vanter. '

@@ -2,156 +2,573 @@ document_id: PSA.6,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: O Lord, Deliver My Life
-  - type: text
-    content: 'To the choirmaster: with stringed instruments; according to '
-  - type: note
-    content: 1 Chr. 15:21
-  - type: text
-    content: The Sheminith.
-  - type: note
-    content: Probably a musical or liturgical term
-  - type: text
-    content: ' A Psalm of David.'
-  - type: text
-    content: 'O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', '
-  - type: note
-    content: Ps. 38:1
-  - type: text
-    content: rebuke me not in your anger,
-  - type: text
-    content: 'nor '
-  - type: note
-    content: '[Ps. 94:12; 118:18; Prov. 3:11, 12; Jer. 30:11; 46:28]; See Heb. 12:3-11'
-  - type: text
-    content: discipline me in your wrath.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: 'O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', Deliver My Life'
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'To the choirmaster: with stringed instruments; according to '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Chr. 15:21
+      marker-yv: yv-n
+    - type: text
+      text: The Sheminith.
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '6:1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Probably a musical or liturgical term
+      marker-yv: yv-n
+    - type: text
+      text: ' A Psalm of David.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 38:1
+      marker-yv: yv-n
+    - type: text
+      text: rebuke me not in your anger,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'nor '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 94:12
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 118:18
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Prov. 3:11
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '12'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 30:11
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 46:28
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']; See Heb. 12:3-11'
+      marker-yv: yv-n
+    - type: text
+      text: discipline me in your wrath.
   '10':
-  - type: text
-    content: All my enemies shall be ashamed and greatly troubled;
-  - type: text
-    content: 'they shall '
-  - type: note
-    content: Ps. 40:14; 56:9
-  - type: text
-    content: turn back and be put to shame in a moment.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: All my enemies shall be ashamed and greatly troubled;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'they shall '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 40:14
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 56:9
+      marker-yv: yv-n
+    - type: text
+      text: turn back and be put to shame in a moment.
   '2':
-  - type: text
-    content: 'Be gracious to me, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', for I am languishing;'
-  - type: note
-    content: Ps. 30:2; 41:4; 103:3
-  - type: text
-    content: 'heal me, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', '
-  - type: note
-    content: See Ps. 31:10
-  - type: text
-    content: for my bones are troubled.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Be gracious to me, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', for I am languishing;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 30:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 41:4
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 103:3
+      marker-yv: yv-n
+    - type: text
+      text: 'heal me, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 31:10
+      marker-yv: yv-n
+    - type: text
+      text: for my bones are troubled.
   '3':
-  - type: text
-    content: 'My '
-  - type: note
-    content: '[John 12:27]'
-  - type: text
-    content: soul also is greatly troubled.
-  - type: text
-    content: 'But you, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: —
-  - type: note
-    content: Ps. 90:13
-  - type: text
-    content: how long?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'My '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: John 12:27
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: soul also is greatly troubled.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'But you, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: —
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 90:13
+      marker-yv: yv-n
+    - type: text
+      text: how long?
   '4':
-  - type: text
-    content: 'Turn, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', deliver my life;'
-  - type: text
-    content: save me for the sake of your steadfast love.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Turn, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', deliver my life;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: save me for the sake of your steadfast love.
   '5':
-  - type: text
-    content: 'For in '
-  - type: note
-    content: Ps. 30:9; 88:10-12; 115:17; Isa. 38:18
-  - type: text
-    content: death there is no remembrance of you;
-  - type: text
-    content: in Sheol who will give you praise?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'For in '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 30:9
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 88:10-12
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 115:17
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 38:18
+      marker-yv: yv-n
+    - type: text
+      text: death there is no remembrance of you;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: in Sheol who will give you praise?
   '6':
-  - type: text
-    content: 'I am '
-  - type: note
-    content: Ps. 69:3
-  - type: text
-    content: 'weary with my '
-  - type: note
-    content: Ps. 38:9
-  - type: text
-    content: moaning;
-  - type: text
-    content: every night I flood my bed with tears;
-  - type: text
-    content: I drench my couch with my weeping.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I am '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 69:3
+      marker-yv: yv-n
+    - type: text
+      text: 'weary with my '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 38:9
+      marker-yv: yv-n
+    - type: text
+      text: moaning;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: every night I flood my bed with tears;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: I drench my couch with my weeping.
   '7':
-  - type: text
-    content: 'My '
-  - type: note
-    content: Ps. 31:9; 88:9; [Ps. 38:10; Job 17:7; Lam. 2:11; 5:17]
-  - type: text
-    content: eye wastes away because of grief;
-  - type: text
-    content: it grows weak because of all my foes.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'My '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 31:9
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 88:9
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 38:10
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 17:7
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Lam. 2:11
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 5:17
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: eye wastes away because of grief;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: it grows weak because of all my foes.
   '8':
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps. 119:115; 139:19; Matt. 7:23; 25:41; Luke 13:27
-  - type: text
-    content: 'Depart from me, all you '
-  - type: note
-    content: Ps. 94:4
-  - type: text
-    content: workers of evil,
-  - type: text
-    content: 'for the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' '
-  - type: note
-    content: '[Ps. 3:4]'
-  - type: text
-    content: has heard the sound of my weeping.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 119:115
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 139:19
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 7:23
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 25:41
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Luke 13:27
+      marker-yv: yv-n
+    - type: text
+      text: 'Depart from me, all you '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 94:4
+      marker-yv: yv-n
+    - type: text
+      text: workers of evil,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'for the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 3:4
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: has heard the sound of my weeping.
   '9':
-  - type: text
-    content: 'The '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' has heard my '
-  - type: note
-    content: Ps. 55:1; 1 Kgs. 8:38
-  - type: text
-    content: plea;
-  - type: text
-    content: 'the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' accepts my prayer.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' has heard my '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 55:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Kgs. 8:38
+      marker-yv: yv-n
+    - type: text
+      text: plea;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' accepts my prayer.'

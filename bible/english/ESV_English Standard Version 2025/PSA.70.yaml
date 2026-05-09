@@ -2,61 +2,172 @@ document_id: PSA.70,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: O Lord, Do Not Delay
-  - type: text
-    content: 'To the choirmaster. Of David, '
-  - type: note
-    content: Ps. 38, title; [1 Chr. 16:4]
-  - type: text
-    content: for the memorial offering.
-  - type: text
-    content: ' '
-  - type: note
-    content: For ver. 1-5, see Ps. 40:13-17
-  - type: text
-    content: Make haste, O God, to deliver me!
-  - type: text
-    content: 'O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', make haste to help me!'
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: 'O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', Do Not Delay'
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'To the choirmaster. Of David, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 38
+      - type: text
+        text: ', title; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Chr. 16:4
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: for the memorial offering.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'For ver. 1-5, see '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 40:13-17
+      marker-yv: yv-n
+    - type: text
+      text: Make haste, O God, to deliver me!
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', make haste to help me!'
   '2':
-  - type: text
-    content: Let them be put to shame and confusion
-  - type: text
-    content: who seek my life!
-  - type: text
-    content: Let them be turned back and brought to dishonor
-  - type: text
-    content: who delight in my hurt!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Let them be put to shame and confusion
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: who seek my life!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Let them be turned back and brought to dishonor
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: who delight in my hurt!
   '3':
-  - type: text
-    content: Let them turn back because of their shame
-  - type: text
-    content: who say, “Aha, Aha!”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Let them turn back because of their shame
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: who say, “Aha, Aha!”
   '4':
-  - type: text
-    content: May all who seek you
-  - type: text
-    content: rejoice and be glad in you!
-  - type: text
-    content: May those who love your salvation
-  - type: text
-    content: say evermore, “God is great!”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: May all who seek you
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: rejoice and be glad in you!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: May those who love your salvation
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: say evermore, “God is great!”
   '5':
-  - type: text
-    content: But I am poor and needy;
-  - type: note
-    content: Ps. 141:1
-  - type: text
-    content: hasten to me, O God!
-  - type: text
-    content: You are my help and my deliverer;
-  - type: text
-    content: 'O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', do not delay!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: But I am poor and needy;
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 141:1
+      marker-yv: yv-n
+    - type: text
+      text: hasten to me, O God!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: You are my help and my deliverer;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', do not delay!'

@@ -2,69 +2,159 @@ document_id: JOS.INTRO1,396
 type_code: plt
 verses:
   '1':
-  - type: text
-    content: Boky ara-tantara
-  - type: text
-    content: 'Ny andiany faharoa amin’ireo bokin’ny Testamenta Taloha hebreo voalahatra araka ny Baiboly grika Septoazinta dia ireo boky ara-tantara manomboka eo amin’ny '
-  - type: text
-    content: Josoa
-  - type: text
-    content: ' ka miafara amin’ny '
-  - type: text
-    content: Estera
-  - type: text
-    content: '. Ao anatin’ireo boky ireo no ahitana ny tantaran’ilay Israely vahoakan’Andriamanitra, indrindra hatreo amin’ny nidirany tao amin’ny tany nampanantenaina ka hatrany amin’ny niverenany avy any amin’ny fahababoana tany Babilônia. Ireto avy ireo boky ara-tantara amin’ity edisiona ity: '
-  - type: text
-    content: Josoa, Mpitsara, 1
-  - type: text
-    content: ' sy '
-  - type: text
-    content: 2 Samoela
-  - type: text
-    content: ', ary '
-  - type: text
-    content: '1'
-  - type: text
-    content: ' sy '
-  - type: text
-    content: 2 Mpanjaka, 1
-  - type: text
-    content: ' sy '
-  - type: text
-    content: 2 Tantara, Hezrà, Nehemià
-  - type: text
-    content: ' ary '
-  - type: text
-    content: Estera
-  - type: text
-    content: .
-  - type: text
-    content: Sava lalana
-  - type: text
-    content: –Ny bokin’i
-  - type: text
-    content: ' Josoa '
-  - type: text
-    content: 'dia mitantara amintsika ny fakàna ny tany Kanahàna sy ny fametrahana ireo foko israelita hiorim-ponenana ao amin’io tany io teo ambany fitarihan’i Josoa izay nandimby an’i Mosesy. Azo faritana mora ihany ireo fizaràna telo ao amin’ny boky:'
-  - type: text
-    content: 1. Ny fakana ny tany Kanahàna (toko 1–12).
-  - type: text
-    content: 2. Ny fizaràna ny tany (toko 13–21).
-  - type: text
-    content: 3. Ny fiafaran’ny fiainan’i Josoa (toko 22–24).
-  - type: text
-    content: Raha manome tany ho an’ny vahoakany Andriamanitra, dia manatanteraka ny fampanantenana nataony tamin’ireo razamben’ny Israelita sy nohavaoziny tamin’i Mosesy. Ao amin’ny tantaran’ny fifandraisan’Andriamanitra sy i Israely, ny fakana an’i Kanahàna dia manana anjara toerana lehibe azo ampitahaina amin’ny fialana tany Ejipta. Marihin’ny fandraisan’Andriamanitra anjara toy ny fialana tany Ejipta izany, amin’Izy miady eo anilan’ny vahoakany ka manome azy fahombiazana sy fandresena.
-  - type: text
-    content: Ny fizaràna sy fanomezana ireo faritany efa azo na mbola halaina dia mampiseho amin’ny antsipiriany ny hatsarampon’Andriamanitra Izay mamela ny Israelita rehetra hivelona noho ny fananana tany. Amin’izay lafiny izay no tokony handraisana ny fitanisan-toerana raketin’ireo toko sasany ato amin’ity boky ity (ohatra ny toko 13 sy 15 ary 16).
-  - type: text
-    content: Manerana izany tantaran’ny fakana sy fizaràna ny tany Kanahàna izany, dia ampahatsiahivin’ny bokin’i Josoa fa tsy mivadika amin’ireo fampanantenana nataony Andriamanitra, ka mitaky fanomezan-toky avy amin’ny vahoaka mba ho setriny. Ny fametrahana ny Israelita hiorim-ponenana eo anivon’ny firenen-kafa tsy mahalala an’Andriamanitra dia mety hitarika fivadihan’ny vahoaka indray. Izany no mahatonga an’i Josoa hampanao io fanomezan-toky io ho karazana fanavaozana manetriketrika ilay
-  - type: text
-    content: ' '
-  - type: text
-    content: fanekempihavanana
-  - type: text
-    content: ' '
-  - type: text
-    content: 'tany Sinay: tamin’ny fivoriana tao Sekema no nanaovana azy ka ny fitantarana azy no mamarana ny boky (toko 24). Amin’izay indrindra ny vahoaka no mifidy ny hanompo an’Andriamanitra. Dia misokatra hatreto ny tantara lavabe momba ny Israelita sy ny taniny izay ho voatohintohina mandrakariva ny fananany azy tahaka ny tsy maintsy hampahatsiarovana mandrakariva ny vahoaka israelita ireo zavatra takin’ny safidy nataony.'
-  - type: text
-    content: 'Ny foto-javatra lehibe ara-pinoana, azo raisina ato amin’ny bokin’i Josoa, dia ny fanamafisana ny fahefana feno ananan’Andriamanitra amin’ny fiainan’ny Israelita. Ny nandresena ny fahavalony dia tamin’ny herin’ny Tompo irery ihany, fa Izy no nampirodana ny mandan’i Jerikao sy nampijanona ny masoandro ambara-pandresin’ny Israelita ireo Amôrita: ary na dia ny fitsinjarana tanàna sy fizaràna faritany ho an’ny isam-poko aza dia asan’ny fahasoavan’Andriamanitra irery ihany.'
+  - type: usfm
+    marker: imt1
+    children:
+    - type: text
+      text: Boky ara-tantara
+  - type: usfm
+    marker: ip
+    children:
+    - type: text
+      text: 'Ny andiany faharoa amin’ireo bokin’ny Testamenta Taloha hebreo voalahatra araka ny Baiboly grika Septoazinta dia ireo boky ara-tantara manomboka eo amin’ny '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: Josoa
+    - type: text
+      text: ' ka miafara amin’ny '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: Estera
+    - type: text
+      text: '. Ao anatin’ireo boky ireo no ahitana ny tantaran’ilay Israely vahoakan’Andriamanitra, indrindra hatreo amin’ny nidirany tao amin’ny tany nampanantenaina ka hatrany amin’ny niverenany avy any amin’ny fahababoana tany Babilônia. Ireto avy ireo boky ara-tantara amin’ity edisiona ity: '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: Josoa, Mpitsara, 1
+    - type: text
+      text: ' sy '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: 2 Samoela
+    - type: text
+      text: ', ary '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: '1'
+    - type: text
+      text: ' sy '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: 2 Mpanjaka, 1
+    - type: text
+      text: ' sy '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: 2 Tantara, Hezrà, Nehemià
+    - type: text
+      text: ' ary '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: Estera
+    - type: text
+      text: .
+  - type: usfm
+    marker: iot
+    children:
+    - type: text
+      text: Sava lalana
+  - type: usfm
+    marker: ip
+    children:
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: –Ny bokin’i
+    - type: text
+      text: ' Josoa '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: 'dia mitantara amintsika ny fakàna ny tany Kanahàna sy ny fametrahana ireo foko israelita hiorim-ponenana ao amin’io tany io teo ambany fitarihan’i Josoa izay nandimby an’i Mosesy. Azo faritana mora ihany ireo fizaràna telo ao amin’ny boky:'
+  - type: usfm
+    marker: ip
+    children:
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: 1. Ny fakana ny tany Kanahàna (toko 1–12).
+  - type: usfm
+    marker: ip
+    children:
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: 2. Ny fizaràna ny tany (toko 13–21).
+  - type: usfm
+    marker: ip
+    children:
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: 3. Ny fiafaran’ny fiainan’i Josoa (toko 22–24).
+  - type: usfm
+    marker: ip
+    children:
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: Raha manome tany ho an’ny vahoakany Andriamanitra, dia manatanteraka ny fampanantenana nataony tamin’ireo razamben’ny Israelita sy nohavaoziny tamin’i Mosesy. Ao amin’ny tantaran’ny fifandraisan’Andriamanitra sy i Israely, ny fakana an’i Kanahàna dia manana anjara toerana lehibe azo ampitahaina amin’ny fialana tany Ejipta. Marihin’ny fandraisan’Andriamanitra anjara toy ny fialana tany Ejipta izany, amin’Izy miady eo anilan’ny vahoakany ka manome azy fahombiazana sy fandresena.
+  - type: usfm
+    marker: ip
+    children:
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: Ny fizaràna sy fanomezana ireo faritany efa azo na mbola halaina dia mampiseho amin’ny antsipiriany ny hatsarampon’Andriamanitra Izay mamela ny Israelita rehetra hivelona noho ny fananana tany. Amin’izay lafiny izay no tokony handraisana ny fitanisan-toerana raketin’ireo toko sasany ato amin’ity boky ity (ohatra ny toko 13 sy 15 ary 16).
+  - type: usfm
+    marker: ip
+    children:
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: Manerana izany tantaran’ny fakana sy fizaràna ny tany Kanahàna izany, dia ampahatsiahivin’ny bokin’i Josoa fa tsy mivadika amin’ireo fampanantenana nataony Andriamanitra, ka mitaky fanomezan-toky avy amin’ny vahoaka mba ho setriny. Ny fametrahana ny Israelita hiorim-ponenana eo anivon’ny firenen-kafa tsy mahalala an’Andriamanitra dia mety hitarika fivadihan’ny vahoaka indray. Izany no mahatonga an’i Josoa hampanao io fanomezan-toky io ho karazana fanavaozana manetriketrika ilay
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: fanekempihavanana
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: 'tany Sinay: tamin’ny fivoriana tao Sekema no nanaovana azy ka ny fitantarana azy no mamarana ny boky (toko 24). Amin’izay indrindra ny vahoaka no mifidy ny hanompo an’Andriamanitra. Dia misokatra hatreto ny tantara lavabe momba ny Israelita sy ny taniny izay ho voatohintohina mandrakariva ny fananany azy tahaka ny tsy maintsy hampahatsiarovana mandrakariva ny vahoaka israelita ireo zavatra takin’ny safidy nataony.'
+  - type: usfm
+    marker: ip
+    children:
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: 'Ny foto-javatra lehibe ara-pinoana, azo raisina ato amin’ny bokin’i Josoa, dia ny fanamafisana ny fahefana feno ananan’Andriamanitra amin’ny fiainan’ny Israelita. Ny nandresena ny fahavalony dia tamin’ny herin’ny Tompo irery ihany, fa Izy no nampirodana ny mandan’i Jerikao sy nampijanona ny masoandro ambara-pandresin’ny Israelita ireo Amôrita: ary na dia ny fitsinjarana tanàna sy fizaràna faritany ho an’ny isam-poko aza dia asan’ny fahasoavan’Andriamanitra irery ihany.'

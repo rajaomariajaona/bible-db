@@ -2,26 +2,52 @@ document_id: JOB.25,96
 type_code: plt
 verses:
   '1':
-  - type: heading
-    content: Ny teny fanintelony nataon'i Bilidada
-  - type: text
-    content: Dia namaly Bildada Sohita ka nanao hoe.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Ny teny fanintelony nataon'i Bilidada
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Dia namaly Bildada Sohita ka nanao hoe.
   '2':
-  - type: text
-    content: Fanapahana sy fampahatahorana no ao aminy, manao fihavanana any amin'ny avo Izy.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Fanapahana sy fampahatahorana no ao aminy, manao fihavanana any amin'ny avo Izy.
   '3':
-  - type: text
-    content: Azo isaina va ny miaramilany? Ary fahazavan'iza no tsy ihoaran'ny Azy
-  - type: note
-    content: 'Na: Amin''iza no tsy iposahan''ny fahazavany?'
-  - type: text
-    content: '?'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Azo isaina va ny miaramilany? Ary fahazavan'iza no tsy ihoaran'ny Azy
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: 'Na: Amin''iza no tsy iposahan''ny fahazavany?'
+      marker-yv: yv-n
+    - type: text
+      text: '?'
   '4':
-  - type: text
-    content: Ary aiza no hahamarina ny zanak'olombelona eo anatrehan'Andriamanitra? Ary aiza no hadio izay tera-behivavy?
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Ary aiza no hahamarina ny zanak'olombelona eo anatrehan'Andriamanitra? Ary aiza no hadio izay tera-behivavy?
   '5':
-  - type: text
-    content: Indro, ny volana aza tsy mangarangarana, ary ny kintana aza tsy madio eo imasony;
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Indro, ny volana aza tsy mangarangarana, ary ny kintana aza tsy madio eo imasony;
   '6':
-  - type: text
-    content: Koa mainka fa ny olombelona, izay kankana, ary ny zanak'olombelona, izay olitra.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Koa mainka fa ny olombelona, izay kankana, ary ny zanak'olombelona, izay olitra.

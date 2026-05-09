@@ -2,55 +2,329 @@ document_id: 1CH.25,396
 type_code: plt
 verses:
   '1':
-  - type: heading
-    content: Ireo antoko mpihira
-  - type: text
-    content: I Davida sy ny lehiben’ireo andiana levita voatokana ho an’ny fanompoam-pivavahana dia nanavaka
-  - type: note
-    content: 'I Davida... taranany avy: dkt hafa I Davida mbamin’ireo komandin’ny tafika dia nanavaka an-dry i Asafa sy i Hemàna ary i Jedotòna mbamin’ny taranany avy, ho an’ny fanompoam-pivavahana.'
-  - type: text
-    content: 'ny taranak’i Asafa sy i Hemàna ary i Jedotòna, ho mpampita an-kira ny hafatr’Andriamanitra, ombàn’ny lokanga sy ny valiha ary ny kipantsona; ka izao no isan’ny lehilahy mpanao izany raharaha izany araka ny fanompoany avy:'
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Ireo antoko mpihira
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: I Davida sy ny lehiben’ireo andiana levita voatokana ho an’ny fanompoam-pivavahana dia nanavaka
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '25.1 '
+      - type: usfm
+        marker: bd
+        children:
+        - type: text
+          text: 'I Davida... taranany avy:'
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'dkt hafa '
+      - type: usfm
+        marker: it
+        children:
+        - type: text
+          text: I Davida mbamin’ireo komandin’ny tafika dia nanavaka an-dry i Asafa sy i Hemàna ary i Jedotòna mbamin’ny taranany avy, ho an’ny fanompoam-pivavahana
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'ny taranak’i Asafa sy i Hemàna ary i Jedotòna, ho mpampita an-kira ny hafatr’Andriamanitra, ombàn’ny lokanga sy ny valiha ary ny kipantsona; ka izao no isan’ny lehilahy mpanao izany raharaha izany araka ny fanompoany avy:'
   '2':
-  - type: text
-    content: Ny an’ny zanakalahin’i Asafa dia ry i Zakora sy i Jôsefa ary i Netanià sy i Asarelà. Ireo zanakalahin’i Asafa ireo dia notarihin’i Asafa rainy izay nampita an-kira ny hafatr’Andriamanitra araka ny fitarihan’ny mpanjaka.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Ny an’ny zanakalahin’i Asafa dia ry i Zakora sy i Jôsefa ary i Netanià sy i Asarelà. Ireo zanakalahin’i Asafa ireo dia notarihin’i Asafa rainy izay nampita an-kira ny hafatr’Andriamanitra araka ny fitarihan’ny mpanjaka.
   '3':
-  - type: text
-    content: Ny an’ny zanakalahin’i Jedotòna dia ry i Gedalià sy i Tserỳ, i Jesahià sy i Simehỳ
-  - type: note
-    content: 'Simehỳ: araka ny dkt grika tranainy Septoazinta sy ny lisitra etsy ambanimbany; tsy ao amin’ny RM io anarana io, kanefa ilaina mba hahazoana ny isa enina.'
-  - type: text
-    content: ' ary i Hasabià sy i Matitià. Izy enin-dahy ireo dia notarihin’i Jedotòna rainy izay nampita an-kira ny hafatr’Andriamanitra, ombàn’ny lokanga, mba hankalazana sy hiderana ny TOMPO. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Ny an’ny zanakalahin’i Jedotòna dia ry i Gedalià sy i Tserỳ, i Jesahià sy i Simehỳ
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '25.3 '
+      - type: usfm
+        marker: fk
+        children:
+        - type: text
+          text: 'Simehỳ: '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: araka ny dkt grika tranainy Septoazinta sy ny lisitra etsy ambanimbany; tsy ao amin’ny RM io anarana io, kanefa ilaina mba hahazoana ny isa enina.
+      marker-yv: yv-n
+    - type: text
+      text: ' ary i Hasabià sy i Matitià. Izy enin-dahy ireo dia notarihin’i Jedotòna rainy izay nampita an-kira ny hafatr’Andriamanitra, ombàn’ny lokanga, mba hankalazana sy hiderana ny TOMPO. '
   '4':
-  - type: text
-    content: Ny an’ny zanakalahin’i Hemàna dia ry i Bokià sy i Matanià, i Hoziela, i Seboela, i Jerimôta, i Hananià, i Hananỳ, i Eliatà, i Gidaltỳ, i Rômamtỳ-Hezera, i Jôsbekasà, i Malôtỳ, i Hôtira, ary i Mahaziôta
-  - type: note
-    content: 'Ny anarana sivy farany eto amin’ity lisitra ity (manomboka amin’ny hoe Hananià ka miafara amin’ny hoe Mahaziôta) dia mamorona fehezanteny hebreo izay azo adika toy izao: Amindrao fo aho, Tompo ô; / amindrao fo aho. / Ianao no Andriamanitro. Nankalazaiko sy nasandratro ny fanampianao. / Tanaty fahoriana aho / no niteny. / Omeo betsaka / ny fisehoam-pahitana.'
-  - type: text
-    content: '. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Ny an’ny zanakalahin’i Hemàna dia ry i Bokià sy i Matanià, i Hoziela, i Seboela, i Jerimôta, i Hananià, i Hananỳ, i Eliatà, i Gidaltỳ, i Rômamtỳ-Hezera, i Jôsbekasà, i Malôtỳ, i Hôtira, ary i Mahaziôta
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '25.4 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Ny anarana sivy farany eto amin’ity lisitra ity (manomboka amin’ny hoe '
+      - type: usfm
+        marker: it
+        children:
+        - type: text
+          text: Hananià
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' ka miafara amin’ny hoe '
+      - type: usfm
+        marker: it
+        children:
+        - type: text
+          text: Mahaziôta
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ') dia mamorona fehezanteny hebreo izay azo adika toy izao: '
+      - type: usfm
+        marker: it
+        children:
+        - type: text
+          text: Amindrao fo aho, Tompo ô; / amindrao fo aho. / Ianao no Andriamanitro. Nankalazaiko sy nasandratro ny fanampianao. / Tanaty fahoriana aho / no niteny. / Omeo betsaka / ny fisehoam-pahitana
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: '. '
   '5':
-  - type: text
-    content: Ireo rehetra ireo no zanakalahin’i Hemàna izay isehoam-pahitana ka mampita amin’ny mpanjaka ireo tenin’Andriamanitra, mba hanandratana ny heriny
-  - type: note
-    content: 'heriny: tsy mazava ny RM ka tsy fantatra na ny herin’Andriamanitra na ny herin’ny mpanjaka no ambara eto.'
-  - type: text
-    content: . Ary zazalahy 14 sy zazavavy telo no efa nomen’Andriamanitra an’i Hemàna.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Ireo rehetra ireo no zanakalahin’i Hemàna izay isehoam-pahitana ka mampita amin’ny mpanjaka ireo tenin’Andriamanitra, mba hanandratana ny heriny
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '25.5 '
+      - type: usfm
+        marker: fk
+        children:
+        - type: text
+          text: 'heriny: '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'tsy mazava ny RM ka tsy fantatra na ny '
+      - type: usfm
+        marker: it
+        children:
+        - type: text
+          text: herin’
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Andriamanitra na ny '
+      - type: usfm
+        marker: it
+        children:
+        - type: text
+          text: herin’
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ny mpanjaka no ambara eto.
+      marker-yv: yv-n
+    - type: text
+      text: . Ary zazalahy 14 sy zazavavy telo no efa nomen’Andriamanitra an’i Hemàna.
   '6':
-  - type: text
-    content: Izy rehetra ireo dia samy notarihin-drainy avy no nihira tao an-
-  - type: text
-    content: tranon’ny Tompo
-  - type: text
-    content: ', ombàn’ny kipantsona sy ny valiha ary ny lokanga; ny hanao fanompoana tao an-tranon’ny TOMPO no raharahany, teo ambany fitarihan’ny mpanjaka mbamin-dry i Asafa sy i Jedotòna ary i Hemàna. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Izy rehetra ireo dia samy notarihin-drainy avy no nihira tao an-
+    - type: usfm
+      marker: w
+      children:
+      - type: text
+        text: tranon’ny Tompo
+    - type: text
+      text: ', ombàn’ny kipantsona sy ny valiha ary ny lokanga; ny hanao fanompoana tao an-tranon’ny TOMPO no raharahany, teo ambany fitarihan’ny mpanjaka mbamin-dry i Asafa sy i Jedotòna ary i Hemàna. '
   '7':
-  - type: text
-    content: 'Ireo rehetra efa havanana amin’ny hira ireo, miaraka amin’ny sokaji-mpihira izay ofaniny koa hihira ho an’ny TOMPO, dia 288 no isany. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Ireo rehetra efa havanana amin’ny hira ireo, miaraka amin’ny sokaji-mpihira izay ofaniny koa hihira ho an’ny TOMPO, dia 288 no isany. '
   '8':
-  - type: text
-    content: 'Nanao antsapaka ny anjara raharahany avy izy rehetra, na ny kely na ny lehibe, na ny efa havanana na ny mbola miofana. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Nanao antsapaka ny anjara raharahany avy izy rehetra, na ny kely na ny lehibe, na ny efa havanana na ny mbola miofana. '
   '9':
-  - type: text
-    content: Ka ny antsapaka voalohany dia azon’i Jôsefa; ny faharoa, azon’i Gedalià; ny fahatelo, azon’i Zakora; ny fahefatra, azon’i Jitserỳ; ny fahadimy, azon’i Netanià; ny fahenina azon’i Bokià; ny fahafito, azon’i Asarelà; ny fahavalo, azon’i Jesahià; ny fahasivy azon’i Matanià; ny faha-folo, azon’i Simehỳ; ny faha-11, azon’i Hoziela; ny faha-12, azon’i Hasabià; ny faha-13, azon’i Sobaela; ny faha-14, azon’i Matitià; ny faha-15, azon’i Jeremôta; ny faha-16, azon’i Hananià; ny faha-17, azon’i Jôsbekasà; ny faha-18, azon’i Hananỳ; ny faha-19, azon’i Malôtỳ; ny faharoapolo, azon’i Eliatà; ny faha-21, azon’i Hôtira; ny faha-22, azon’i Gidaltỳ; ny faha-23, azon’i Mehaziôta; ny faha-24, azon’i Rômamtỳ-Hezera
-  - type: note
-    content: 'Misy anarana vitsivitsy ato amin’ity lisitra farany ity hafa fanoratra noho ny ao amin’ny and 2-4: Jitserỳ (fahefatra) =Tserỳ (and 3); Jesarelà (fahafito) =Asarelà (and 2); Hazarela (faha-11)=Hoziela (and 4); Sobaela (faha-13) =Seboela (and 4); Jeremôta (faha-15) =Jerimôta (and 4).'
-  - type: text
-    content: . Izy tsirairay avy, mbamin’ny zanany sy havany miaraka aminy, dia samy sokajy misy olona 12 lahy.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Ka ny antsapaka voalohany dia azon’i Jôsefa; ny faharoa, azon’i Gedalià; ny fahatelo, azon’i Zakora; ny fahefatra, azon’i Jitserỳ; ny fahadimy, azon’i Netanià; ny fahenina azon’i Bokià; ny fahafito, azon’i Asarelà; ny fahavalo, azon’i Jesahià; ny fahasivy azon’i Matanià; ny faha-folo, azon’i Simehỳ; ny faha-11, azon’i Hoziela; ny faha-12, azon’i Hasabià; ny faha-13, azon’i Sobaela; ny faha-14, azon’i Matitià; ny faha-15, azon’i Jeremôta; ny faha-16, azon’i Hananià; ny faha-17, azon’i Jôsbekasà; ny faha-18, azon’i Hananỳ; ny faha-19, azon’i Malôtỳ; ny faharoapolo, azon’i Eliatà; ny faha-21, azon’i Hôtira; ny faha-22, azon’i Gidaltỳ; ny faha-23, azon’i Mehaziôta; ny faha-24, azon’i Rômamtỳ-Hezera
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '25.31 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Misy anarana vitsivitsy ato amin’ity lisitra farany ity hafa fanoratra noho ny ao amin’ny and 2-4: '
+      - type: usfm
+        marker: it
+        children:
+        - type: text
+          text: Jitserỳ
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' (fahefatra) ='
+      - type: usfm
+        marker: it
+        children:
+        - type: text
+          text: Tserỳ
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' (and 3); '
+      - type: usfm
+        marker: it
+        children:
+        - type: text
+          text: Jesarelà
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' (fahafito) ='
+      - type: usfm
+        marker: it
+        children:
+        - type: text
+          text: Asarelà
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' (and 2); '
+      - type: usfm
+        marker: it
+        children:
+        - type: text
+          text: Hazarela
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' (faha-11)='
+      - type: usfm
+        marker: it
+        children:
+        - type: text
+          text: Hoziela
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' (and 4); '
+      - type: usfm
+        marker: it
+        children:
+        - type: text
+          text: Sobaela
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' (faha-13) ='
+      - type: usfm
+        marker: it
+        children:
+        - type: text
+          text: Seboela
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' (and 4); '
+      - type: usfm
+        marker: it
+        children:
+        - type: text
+          text: Jeremôta
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' (faha-15) ='
+      - type: usfm
+        marker: it
+        children:
+        - type: text
+          text: Jerimôta
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' (and 4).'
+      marker-yv: yv-n
+    - type: text
+      text: . Izy tsirairay avy, mbamin’ny zanany sy havany miaraka aminy, dia samy sokajy misy olona 12 lahy.

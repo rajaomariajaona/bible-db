@@ -2,153 +2,597 @@ document_id: PSA.83,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Ne laisse pas faire tes ennemis
-  - type: text
-    content: Psaume d’Asaph
-  - type: note
-    content: Voir note 50.1.
-  - type: text
-    content: ', à chanter.'
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Ne laisse pas faire tes ennemis
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: Psaume d’Asaph
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '83.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Voir note '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: '50.1'
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: ', à chanter.'
   '10':
-  - type: text
-    content: Traite-les donc comme Madian
-  - type: note
-    content: Lors de la grande victoire remportée sur eux par Gédéon (Jg 7 et 8), restée pour tous les temps le type d’une victoire complète (Es 9.3).
-  - type: text
-    content: ','
-  - type: text
-    content: comme Sisera et Yabîn
-  - type: note
-    content: Yabîn était le roi cananéen de Hatsor (Jg 4.2), Sisera, son général (4.7). Ils furent vaincus par Débora (Jg 4 et 5 ; 1 S 12.9).
-  - type: text
-    content: ' ╵au torrent de Qishôn.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Traite-les donc comme Madian
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '83.10 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Lors de la grande victoire remportée sur eux par Gédéon (
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Jg 7
+        - type: text
+          text: ' et '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: '8'
+        - type: text
+          text: ), restée pour tous les temps le type d’une victoire complète (
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Es 9.3
+        - type: text
+          text: ).
+      marker-yv: yv-n
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: comme Sisera et Yabîn
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '83.10 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Yabîn '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: était le roi cananéen de Hatsor (
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Jg 4.2
+        - type: text
+          text: '), '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Sisera, '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: son général (
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: '4.7'
+        - type: text
+          text: ). Ils furent vaincus par Débora (
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Jg 4
+        - type: text
+          text: ' et 5 ; 1 S 12.9).'
+      marker-yv: yv-n
+    - type: text
+      text: ' ╵au torrent de Qishôn.'
   '11':
-  - type: text
-    content: Ils furent détruits à Eyn-Dor
-  - type: note
-    content: Localité galiléenne entre le Thabor et le Petit-Hermon, près de la plaine de Jizréel (Jos 17.11) au nord-est du lieu où la bataille mentionnée v. 10 fut livrée. C’est sans doute là que la plupart des fuyards furent capturés et supprimés.
-  - type: text
-    content: ','
-  - type: text
-    content: laissés comme du fumier pour la terre.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Ils furent détruits à Eyn-Dor
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '83.11 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Localité galiléenne entre le Thabor et le Petit-Hermon, près de la plaine de Jizréel (
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Jos 17.11
+        - type: text
+          text: ) au nord-est du lieu où la bataille mentionnée v. 10 fut livrée. C’est sans doute là que la plupart des fuyards furent capturés et supprimés.
+      marker-yv: yv-n
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: laissés comme du fumier pour la terre.
   '12':
-  - type: text
-    content: Que tous leurs princes soient pareils ╵à Oreb et à Zéeb,
-  - type: text
-    content: et que leurs chefs deviennent ╵comme Zébah et Tsalmounna
-  - type: note
-    content: Chefs des Madianites vaincus par Gédéon (Jg 7.25 ; 8.5). Pour les v. 11-12, voir Jg 7 et 8.
-  - type: text
-    content: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Que tous leurs princes soient pareils ╵à Oreb et à Zéeb,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et que leurs chefs deviennent ╵comme Zébah et Tsalmounna
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '83.12 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Chefs des Madianites vaincus par Gédéon (Jg 7.25 ; 8.5). Pour les v. 11-12, voir '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Jg 7
+        - type: text
+          text: ' et '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: '8'
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: ','
   '13':
-  - type: text
-    content: 'eux qui disaient : « Emparons-nous'
-  - type: text
-    content: du domaine de Dieu ! »
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'eux qui disaient : « Emparons-nous'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: du domaine de Dieu ! »
   '14':
-  - type: text
-    content: Mon Dieu, fais-les tourbillonner
-  - type: text
-    content: comme la paille emportée par le vent ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mon Dieu, fais-les tourbillonner
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: comme la paille emportée par le vent ;
   '15':
-  - type: text
-    content: comme un feu brûle la forêt,
-  - type: text
-    content: comme les flammes embrasent les monts,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: comme un feu brûle la forêt,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: comme les flammes embrasent les monts,
   '16':
-  - type: text
-    content: pourchasse-les par ta tempête !
-  - type: text
-    content: Que, par ton ouragan, ╵ils soient épouvantés !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: pourchasse-les par ta tempête !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Que, par ton ouragan, ╵ils soient épouvantés !
   '17':
-  - type: text
-    content: Qu’ils soient couverts d’opprobre
-  - type: text
-    content: afin qu’ils se tournent vers toi, ╵ô Eternel !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Qu’ils soient couverts d’opprobre
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: afin qu’ils se tournent vers toi, ╵ô Eternel !
   '18':
-  - type: text
-    content: Qu’ils soient couverts de honte, ╵et dans l’épouvante à jamais
-  - type: text
-    content: et qu’ils périssent ╵saisis de confusion !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Qu’ils soient couverts de honte, ╵et dans l’épouvante à jamais
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et qu’ils périssent ╵saisis de confusion !
   '19':
-  - type: text
-    content: Qu’ils reconnaissent que toi seul, ╵toi dont le nom est l’Eternel,
-  - type: text
-    content: tu es le Très-Haut régnant sur la terre entière !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Qu’ils reconnaissent que toi seul, ╵toi dont le nom est l’Eternel,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: tu es le Très-Haut régnant sur la terre entière !
   '2':
-  - type: text
-    content: O Dieu, ╵sors donc de ton silence,
-  - type: text
-    content: ne te tais pas ! ╵Ne reste pas dans l’inaction, ô Dieu !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: O Dieu, ╵sors donc de ton silence,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ne te tais pas ! ╵Ne reste pas dans l’inaction, ô Dieu !
   '3':
-  - type: text
-    content: Voici, tes ennemis s’agitent,
-  - type: text
-    content: et ceux qui te haïssent ╵ont levé haut la tête.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Voici, tes ennemis s’agitent,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et ceux qui te haïssent ╵ont levé haut la tête.
   '4':
-  - type: text
-    content: Contre ton peuple, ils se concertent,
-  - type: text
-    content: ils trament des complots ╵contre les tiens, que tu protèges.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Contre ton peuple, ils se concertent,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ils trament des complots ╵contre les tiens, que tu protèges.
   '5':
-  - type: text
-    content: 'Ils ont dit : « Exterminons-les, ╵et que leur nation disparaisse'
-  - type: text
-    content: afin que le nom d’Israël ╵soit oublié. »
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Ils ont dit : « Exterminons-les, ╵et que leur nation disparaisse'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: afin que le nom d’Israël ╵soit oublié. »
   '6':
-  - type: text
-    content: Ils se sont consultés, ╵d’accord entre eux,
-  - type: text
-    content: 'et ils ont conclu une alliance ╵pour s’opposer à toi :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Ils se sont consultés, ╵d’accord entre eux,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'et ils ont conclu une alliance ╵pour s’opposer à toi :'
   '7':
-  - type: text
-    content: enfants d’Edom
-  - type: note
-    content: Descendants d’Esaü établis au sud de la mer Morte (Gn 25.30 ; 47.9).
-  - type: text
-    content: ', Ismaélites'
-  - type: note
-    content: Descendants d’Ismaël, fils d’Abraham (Gn 25.12-18), nomades du désert.
-  - type: text
-    content: ','
-  - type: text
-    content: Moabites
-  - type: note
-    content: Petit royaume ennemi d’Israël, à l’est de la mer Morte (Gn 19.37-38).
-  - type: text
-    content: ' et Agaréniens'
-  - type: note
-    content: Tribus nomades établies à l’est du Jourdain (1 Ch 5.10, 19-20), descendants d’Agar (donc un autre nom des Ismaélites) ou confédération syriaque mentionnée dans des inscriptions assyriennes.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: enfants d’Edom
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '83.7 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Descendants d’Esaü établis au sud de la mer Morte (Gn 25.30 ; 47.9).
+      marker-yv: yv-n
+    - type: text
+      text: ', Ismaélites'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '83.7 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Descendants d’Ismaël, fils d’Abraham (
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Gn 25.12-18
+        - type: text
+          text: ), nomades du désert.
+      marker-yv: yv-n
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Moabites
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '83.7 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Petit royaume ennemi d’Israël, à l’est de la mer Morte (
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Gn 19.37-38
+        - type: text
+          text: ).
+      marker-yv: yv-n
+    - type: text
+      text: ' et Agaréniens'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '83.7 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Tribus nomades établies à l’est du Jourdain (
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: 1 Ch 5.10
+        - type: text
+          text: ', '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: 19-20
+        - type: text
+          text: ), descendants d’Agar (donc un autre nom des Ismaélites) ou confédération syriaque mentionnée dans des inscriptions assyriennes.
+      marker-yv: yv-n
   '8':
-  - type: text
-    content: Guébal
-  - type: note
-    content: Ancien nom de Byblos, ville phénicienne importante (Ez 27.9). Ce nom pourrait aussi désigner ici un petit royaume au sud de la mer Morte.
-  - type: text
-    content: ', Ammon'
-  - type: note
-    content: Les Ammonites étaient installés à l’est du Jourdain (Gn 19.38).
-  - type: text
-    content: ' et Amalec'
-  - type: note
-    content: Les Amalécites étaient des nomades du désert situé au sud du pays d’Israël (Gn 14.7).
-  - type: text
-    content: ','
-  - type: text
-    content: les Philistins ╵avec les habitants de Tyr ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Guébal
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '83.8 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Ancien nom de Byblos, ville phénicienne importante (
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Ez 27.9
+        - type: text
+          text: ). Ce nom pourrait aussi désigner ici un petit royaume au sud de la mer Morte.
+      marker-yv: yv-n
+    - type: text
+      text: ', Ammon'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '83.8 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Les Ammonites étaient installés à l’est du Jourdain (
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Gn 19.38
+        - type: text
+          text: ).
+      marker-yv: yv-n
+    - type: text
+      text: ' et Amalec'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '83.8 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Les Amalécites étaient des nomades du désert situé au sud du pays d’Israël (
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Gn 14.7
+        - type: text
+          text: ).
+      marker-yv: yv-n
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: les Philistins ╵avec les habitants de Tyr ;
   '9':
-  - type: text
-    content: et même l’Assyrie ╵s’est jointe à eux
-  - type: note
-    content: L’Assyrie, mentionnée seulement comme alliée des Moabites et des Ammonites, ne devait pas encore être devenue une puissance constituant en elle-même une menace directe pour Israël, comme au temps de Menahem (1 R 15.19).
-  - type: text
-    content: ','
-  - type: text
-    content: prêtant main-forte aux descendants de Loth
-  - type: note
-    content: Les Moabites et les Ammonites (v. 7-8 ; Gn 19.30-38), ennemis héréditaires d’Israël.
-  - type: text
-    content: .
-  - type: text
-    content: Pause
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et même l’Assyrie ╵s’est jointe à eux
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '83.9 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: L’
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Assyrie, '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: mentionnée seulement comme alliée des Moabites et des Ammonites, ne devait pas encore être devenue une puissance constituant en elle-même une menace directe pour Israël, comme au temps de Menahem (
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: 1 R 15.19
+        - type: text
+          text: ).
+      marker-yv: yv-n
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: prêtant main-forte aux descendants de Loth
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '83.9 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Les Moabites et les Ammonites (v. 7-8 ; '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Gn 19.30-38
+        - type: text
+          text: ), ennemis héréditaires d’Israël.
+      marker-yv: yv-n
+    - type: text
+      text: .
+  - type: usfm
+    marker: q4
+    children:
+    - type: text
+      text: Pause

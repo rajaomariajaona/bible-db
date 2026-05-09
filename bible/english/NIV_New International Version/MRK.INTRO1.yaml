@@ -2,25 +2,52 @@ document_id: MRK.INTRO1,111
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: Intro
-  - type: text
-    content: Mark appears to be written for an audience in Rome. A Roman centurion’s declaration near the end of the book—
-  - type: text
-    content: Surely this man was the Son of God!
-  - type: text
-    content: —models the witness to Jesus this gospel calls for.
-  - type: text
-    content: 'The opening half of this fast-moving drama keys on the question: '
-  - type: text
-    content: Who do you say I am?
-  - type: text
-    content: ' An episode at the end of the first half shows Jesus healing a blind man in two stages, so that he slowly comes to see. In the same way the disciples have only gradually come to recognize who Jesus is. Then in a key moment in the story, between its two halves, Peter confesses that Jesus is the Messiah.'
-  - type: text
-    content: 'Now the conflict moves out into the open. Jesus has come to introduce a radical new way of life that will undercut existing power relationships. The second half of the drama depicts this in three acts:'
-  - type: text
-    content: : First, Jesus and his disciples travel to Jerusalem.
-  - type: text
-    content: : Next, Jesus teaches in the temple and clashes with the established leadership.
-  - type: text
-    content: : In the final act, that leadership executes its plan and has Jesus arrested and crucified, seemingly overturning all he has done. But then God overturns their deed and raises Jesus to life. So Mark’s readers are called to be faithful to Jesus, even in suffering, because this is how God continues to overturn the existing order and establish the way of life that Jesus taught.
+  - type: usfm
+    marker: imt1
+    children:
+    - type: text
+      text: Intro
+  - type: usfm
+    marker: im
+    children:
+    - type: text
+      text: Mark appears to be written for an audience in Rome. A Roman centurion’s declaration near the end of the book—
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: Surely this man was the Son of God!
+    - type: text
+      text: —models the witness to Jesus this gospel calls for.
+  - type: usfm
+    marker: ip
+    children:
+    - type: text
+      text: 'The opening half of this fast-moving drama keys on the question: '
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: Who do you say I am?
+    - type: text
+      text: ' An episode at the end of the first half shows Jesus healing a blind man in two stages, so that he slowly comes to see. In the same way the disciples have only gradually come to recognize who Jesus is. Then in a key moment in the story, between its two halves, Peter confesses that Jesus is the Messiah.'
+  - type: usfm
+    marker: ip
+    children:
+    - type: text
+      text: 'Now the conflict moves out into the open. Jesus has come to introduce a radical new way of life that will undercut existing power relationships. The second half of the drama depicts this in three acts:'
+  - type: usfm
+    marker: ili1
+    children:
+    - type: text
+      text: : First, Jesus and his disciples travel to Jerusalem.
+  - type: usfm
+    marker: ili1
+    children:
+    - type: text
+      text: : Next, Jesus teaches in the temple and clashes with the established leadership.
+  - type: usfm
+    marker: ili1
+    children:
+    - type: text
+      text: : In the final act, that leadership executes its plan and has Jesus arrested and crucified, seemingly overturning all he has done. But then God overturns their deed and raises Jesus to life. So Mark’s readers are called to be faithful to Jesus, even in suffering, because this is how God continues to overturn the existing order and establish the way of life that Jesus taught.

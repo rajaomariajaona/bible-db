@@ -2,203 +2,884 @@ document_id: PSA.39,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: What Is the Measure of My Days?
-  - type: text
-    content: 'To the choirmaster: to '
-  - type: note
-    content: Ps. 62, title; 77, title; 1 Chr. 16:41; 25:1
-  - type: text
-    content: Jeduthun. A Psalm of David.
-  - type: text
-    content: 'I said, “I will '
-  - type: note
-    content: 1 Kgs. 2:4; 2 Kgs. 10:31
-  - type: text
-    content: guard my ways,
-  - type: text
-    content: 'that I '
-  - type: note
-    content: Job 2:10
-  - type: text
-    content: may not sin with my tongue;
-  - type: text
-    content: 'I will '
-  - type: note
-    content: See Ps. 34:13
-  - type: text
-    content: guard my mouth with a muzzle,
-  - type: text
-    content: so long as the wicked are in my presence.”
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: What Is the Measure of My Days?
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'To the choirmaster: to '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 62
+      - type: text
+        text: ', title; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '77'
+      - type: text
+        text: ', title; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Chr. 16:41
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 25:1
+      marker-yv: yv-n
+    - type: text
+      text: Jeduthun. A Psalm of David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I said, “I will '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Kgs. 2:4
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Kgs. 10:31
+      marker-yv: yv-n
+    - type: text
+      text: guard my ways,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'that I '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 2:10
+      marker-yv: yv-n
+    - type: text
+      text: may not sin with my tongue;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I will '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 34:13
+      marker-yv: yv-n
+    - type: text
+      text: guard my mouth with a muzzle,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: so long as the wicked are in my presence.”
   '10':
-  - type: text
-    content: ' '
-  - type: note
-    content: Job 9:34; 13:21
-  - type: text
-    content: Remove your stroke from me;
-  - type: text
-    content: I am spent by the hostility of your hand.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 9:34
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 13:21
+      marker-yv: yv-n
+    - type: text
+      text: Remove your stroke from me;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: I am spent by the hostility of your hand.
   '11':
-  - type: text
-    content: When you discipline a man
-  - type: text
-    content: 'with '
-  - type: note
-    content: Ps. 80:16
-  - type: text
-    content: rebukes for sin,
-  - type: text
-    content: 'you '
-  - type: note
-    content: Ps. 49:14
-  - type: text
-    content: 'consume like a '
-  - type: note
-    content: Job 13:28; Isa. 50:9
-  - type: text
-    content: moth what is dear to him;
-  - type: note
-    content: See ver. 5
-  - type: text
-    content: 'surely all mankind is a mere breath! '
-  - type: text
-    content: Selah
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: When you discipline a man
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'with '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 80:16
+      marker-yv: yv-n
+    - type: text
+      text: rebukes for sin,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'you '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 49:14
+      marker-yv: yv-n
+    - type: text
+      text: 'consume like a '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 13:28
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 50:9
+      marker-yv: yv-n
+    - type: text
+      text: moth what is dear to him;
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '5'
+      marker-yv: yv-n
+    - type: text
+      text: 'surely all mankind is a mere breath! '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Selah
   '12':
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps. 102:1
-  - type: text
-    content: '“Hear my prayer, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ','
-  - type: text
-    content: and give ear to my cry;
-  - type: text
-    content: hold not your peace at my tears!
-  - type: text
-    content: 'For I am '
-  - type: note
-    content: Ps. 119:19; Lev. 25:23; 1 Chr. 29:15; Heb. 11:13; 1 Pet. 2:11; [Gen. 47:9]
-  - type: text
-    content: a sojourner with you,
-  - type: note
-    content: Ps. 119:19; Lev. 25:23; 1 Chr. 29:15; Heb. 11:13; 1 Pet. 2:11; [ Gen. 47:9 ]
-  - type: text
-    content: a guest, like all my fathers.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 102:1
+      marker-yv: yv-n
+    - type: text
+      text: '“Hear my prayer, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and give ear to my cry;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: hold not your peace at my tears!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'For I am '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 119:19
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Lev. 25:23
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Chr. 29:15
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Heb. 11:13
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Pet. 2:11
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Gen. 47:9
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: a sojourner with you,
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 119:19
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Lev. 25:23
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Chr. 29:15
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Heb. 11:13
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Pet. 2:11
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Gen. 47:9
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: a guest, like all my fathers.
   '13':
-  - type: text
-    content: ' '
-  - type: note
-    content: Job 7:19
-  - type: text
-    content: Look away from me, that I may smile again,
-  - type: note
-    content: Job 10:21
-  - type: text
-    content: 'before I depart and '
-  - type: note
-    content: Job 7:8; 14:10-12; 20:9
-  - type: text
-    content: am no more!”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 7:19
+      marker-yv: yv-n
+    - type: text
+      text: Look away from me, that I may smile again,
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 10:21
+      marker-yv: yv-n
+    - type: text
+      text: 'before I depart and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 7:8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 14:10-12
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 20:9
+      marker-yv: yv-n
+    - type: text
+      text: am no more!”
   '2':
-  - type: text
-    content: 'I was '
-  - type: note
-    content: ver. 9; Job 40:4, 5; See Ps. 38:13
-  - type: text
-    content: mute and silent;
-  - type: text
-    content: I held my peace to no avail,
-  - type: text
-    content: and my distress grew worse.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I was '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '9'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 40:4
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '5'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 38:13
+      marker-yv: yv-n
+    - type: text
+      text: mute and silent;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: I held my peace to no avail,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: and my distress grew worse.
   '3':
-  - type: text
-    content: 'My '
-  - type: note
-    content: Jer. 20:9; Luke 24:32; [Job 32:18, 19]
-  - type: text
-    content: heart became hot within me.
-  - type: text
-    content: As I mused, the fire burned;
-  - type: text
-    content: 'then I spoke with my tongue:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'My '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 20:9
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Luke 24:32
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 32:18
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '19'
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: heart became hot within me.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: As I mused, the fire burned;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'then I spoke with my tongue:'
   '4':
-  - type: text
-    content: '“O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', '
-  - type: note
-    content: Ps. 90:12
-  - type: text
-    content: make me know my end
-  - type: text
-    content: and what is the measure of my days;
-  - type: text
-    content: let me know how fleeting I am!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: '“O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 90:12
+      marker-yv: yv-n
+    - type: text
+      text: make me know my end
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and what is the measure of my days;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: let me know how fleeting I am!
   '5':
-  - type: text
-    content: Behold, you have made my days a few handbreadths,
-  - type: text
-    content: 'and '
-  - type: note
-    content: Ps. 89:47; 90:4
-  - type: text
-    content: my lifetime is as nothing before you.
-  - type: text
-    content: 'Surely '
-  - type: note
-    content: ver. 11; [Job 14:2]
-  - type: text
-    content: 'all mankind stands as a mere breath! '
-  - type: text
-    content: Selah
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Behold, you have made my days a few handbreadths,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 89:47
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 90:4
+      marker-yv: yv-n
+    - type: text
+      text: my lifetime is as nothing before you.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Surely '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '11'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 14:2
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'all mankind stands as a mere breath! '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Selah
   '6':
-  - type: text
-    content: 'Surely a man '
-  - type: note
-    content: '[1 Cor. 7:31; James 4:14]'
-  - type: text
-    content: goes about as a shadow!
-  - type: text
-    content: Surely for nothing
-  - type: note
-    content: Hebrew Surely as a breath
-  - type: text
-    content: ' they are in turmoil;'
-  - type: text
-    content: 'man '
-  - type: note
-    content: Ps. 49:10; Job 27:16, 17; Luke 12:20; [Eccles. 2:18, 21, 26; Jer. 17:11]
-  - type: text
-    content: heaps up wealth and does not know who will gather!
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Surely a man '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Cor. 7:31
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: James 4:14
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: goes about as a shadow!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Surely for nothing
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '39:6 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Surely as a breath
+      marker-yv: yv-n
+    - type: text
+      text: ' they are in turmoil;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'man '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 49:10
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 27:16
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '17'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Luke 12:20
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Eccles. 2:18
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '21'
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '26'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 17:11
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: heaps up wealth and does not know who will gather!
   '7':
-  - type: text
-    content: “And now, O Lord, for what do I wait?
-  - type: note
-    content: Ps. 38:15
-  - type: text
-    content: My hope is in you.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: “And now, O Lord, for what do I wait?
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 38:15
+      marker-yv: yv-n
+    - type: text
+      text: My hope is in you.
   '8':
-  - type: text
-    content: Deliver me from all my transgressions.
-  - type: note
-    content: See Ps. 44:13
-  - type: text
-    content: Do not make me the scorn of the fool!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Deliver me from all my transgressions.
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 44:13
+      marker-yv: yv-n
+    - type: text
+      text: Do not make me the scorn of the fool!
   '9':
-  - type: text
-    content: ' '
-  - type: note
-    content: ver. 2
-  - type: text
-    content: I am mute; I do not open my mouth,
-  - type: note
-    content: 2 Sam. 16:10; Job 2:10
-  - type: text
-    content: for it is you who have done it.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '2'
+      marker-yv: yv-n
+    - type: text
+      text: I am mute; I do not open my mouth,
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Sam. 16:10
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 2:10
+      marker-yv: yv-n
+    - type: text
+      text: for it is you who have done it.

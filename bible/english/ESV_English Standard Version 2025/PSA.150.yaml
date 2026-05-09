@@ -2,108 +2,412 @@ document_id: PSA.150,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: Let Everything Praise the Lord
-  - type: text
-    content: ' '
-  - type: note
-    content: '[See Ps. 148:14 above ]'
-  - type: text
-    content: 'Praise the '
-  - type: text
-    content: Lord
-  - type: text
-    content: '!'
-  - type: text
-    content: 'Praise God in his '
-  - type: note
-    content: '[Ps. 11:4; 134:2]'
-  - type: text
-    content: sanctuary;
-  - type: text
-    content: 'praise him in '
-  - type: note
-    content: '[Ps. 68:34]'
-  - type: text
-    content: his mighty heavens!
-  - type: note
-    content: Hebrew expanse (compare Genesis 1:6–8)
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: 'Let Everything Praise the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 148:14
+      - type: text
+        text: ' above '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'Praise the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: '!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Praise God in his '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 11:4
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 134:2
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: sanctuary;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'praise him in '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 68:34
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: his mighty heavens!
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '150:1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'expanse '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: (compare Genesis 1:6–8)
+      marker-yv: yv-n
   '2':
-  - type: text
-    content: 'Praise him for his '
-  - type: note
-    content: Ps. 145:12
-  - type: text
-    content: mighty deeds;
-  - type: text
-    content: 'praise him according to his excellent '
-  - type: note
-    content: Deut. 3:24
-  - type: text
-    content: greatness!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Praise him for his '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 145:12
+      marker-yv: yv-n
+    - type: text
+      text: mighty deeds;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'praise him according to his excellent '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Deut. 3:24
+      marker-yv: yv-n
+    - type: text
+      text: greatness!
   '3':
-  - type: text
-    content: 'Praise him with '
-  - type: note
-    content: Ps. 98:6
-  - type: text
-    content: trumpet sound;
-  - type: text
-    content: 'praise him with '
-  - type: note
-    content: Ps. 33:2; 71:22
-  - type: text
-    content: 'lute and '
-  - type: note
-    content: Ps. 33:2; 71:22
-  - type: text
-    content: harp!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Praise him with '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 98:6
+      marker-yv: yv-n
+    - type: text
+      text: trumpet sound;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'praise him with '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 33:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 71:22
+      marker-yv: yv-n
+    - type: text
+      text: 'lute and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 33:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 71:22
+      marker-yv: yv-n
+    - type: text
+      text: harp!
   '4':
-  - type: text
-    content: 'Praise him with '
-  - type: note
-    content: Ps. 149:3
-  - type: text
-    content: 'tambourine and '
-  - type: note
-    content: Ps. 149:3
-  - type: text
-    content: dance;
-  - type: text
-    content: 'praise him with '
-  - type: note
-    content: Ps. 45:8; [Isa. 38:20]
-  - type: text
-    content: 'strings and '
-  - type: note
-    content: Job 21:12
-  - type: text
-    content: pipe!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Praise him with '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 149:3
+      marker-yv: yv-n
+    - type: text
+      text: 'tambourine and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 149:3
+      marker-yv: yv-n
+    - type: text
+      text: dance;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'praise him with '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 45:8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Isa. 38:20
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'strings and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 21:12
+      marker-yv: yv-n
+    - type: text
+      text: pipe!
   '5':
-  - type: text
-    content: 'Praise him with sounding '
-  - type: note
-    content: 2 Sam. 6:5; 1 Chr. 15:16, 19, 28; 25:1, 6
-  - type: text
-    content: cymbals;
-  - type: text
-    content: praise him with loud clashing cymbals!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Praise him with sounding '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Sam. 6:5
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Chr. 15:16
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '19'
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '28'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 25:1
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '6'
+      marker-yv: yv-n
+    - type: text
+      text: cymbals;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: praise him with loud clashing cymbals!
   '6':
-  - type: text
-    content: 'Let '
-  - type: note
-    content: '[Ps. 145:21]'
-  - type: text
-    content: 'everything that has breath praise the '
-  - type: text
-    content: Lord
-  - type: text
-    content: '!'
-  - type: note
-    content: ver. 1
-  - type: text
-    content: 'Praise the '
-  - type: text
-    content: Lord
-  - type: text
-    content: '!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Let '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 145:21
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'everything that has breath praise the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: '!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '1'
+      marker-yv: yv-n
+    - type: text
+      text: 'Praise the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: '!'

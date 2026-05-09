@@ -2,59 +2,119 @@ document_id: PSA.15,1
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: A Psalm of David.
-  - type: text
-    content: ' '
-  - type: text
-    content: LORD
-  - type: text
-    content: ', who shall abide in thy tabernacle?'
-  - type: text
-    content: Who shall dwell in thy holy hill?
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: A Psalm of David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ', who shall abide in thy tabernacle?'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Who shall dwell in thy holy hill?
   '2':
-  - type: text
-    content: He that walketh uprightly,
-  - type: text
-    content: and worketh righteousness, and speaketh the truth in his heart.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: He that walketh uprightly,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and worketh righteousness, and speaketh the truth in his heart.
   '3':
-  - type: text
-    content: ' '
-  - type: text
-    content: He that
-  - type: text
-    content: ' backbiteth not with his tongue, nor doeth evil to his neighbour,'
-  - type: text
-    content: Nor taketh up a reproach against his neighbour.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: He that
+    - type: text
+      text: ' backbiteth not with his tongue, nor doeth evil to his neighbour,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Nor taketh up a reproach against his neighbour.
   '4':
-  - type: text
-    content: In whose eyes a vile person is contemned;
-  - type: text
-    content: 'But he honoureth them that fear the '
-  - type: text
-    content: LORD
-  - type: text
-    content: .
-  - type: text
-    content: He that
-  - type: text
-    content: ' sweareth to '
-  - type: text
-    content: his own
-  - type: text
-    content: ' hurt, and changeth not.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: In whose eyes a vile person is contemned;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'But he honoureth them that fear the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: He that
+    - type: text
+      text: ' sweareth to '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: his own
+    - type: text
+      text: ' hurt, and changeth not.'
   '5':
-  - type: text
-    content: ' '
-  - type: text
-    content: He that
-  - type: text
-    content: ' putteth not out his money to usury,'
-  - type: text
-    content: Nor taketh reward against the innocent.
-  - type: text
-    content: 'He that doeth these '
-  - type: text
-    content: things
-  - type: text
-    content: ' shall never be moved.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: He that
+    - type: text
+      text: ' putteth not out his money to usury,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Nor taketh reward against the innocent.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'He that doeth these '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: things
+    - type: text
+      text: ' shall never be moved.'

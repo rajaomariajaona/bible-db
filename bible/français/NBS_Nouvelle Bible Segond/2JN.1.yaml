@@ -2,87 +2,980 @@ document_id: 2JN.1,104
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Salutation
-  - type: text
-    content: ' '
-  - type: note
-    content: 'Cf. 3Jn 1. –  L''ancien  : outre son grand âge et sa position d''autorité (cf. 1P 5.1), l''auteur veut peut-être signifier par cette appellation son appartenance au groupe des témoins oculaires des événements fondateurs du christianisme (cf. v. 5 ; 1Jn 1.1-3 ; 2.7). –  la Dame  : en grec kuria , féminin de kurios, Seigneur  ; le mot désigne vraisemblablement une communauté chrétienne, mais certains y ont vu un nom propre (habituellement transcrit Kyria ). –  choisie ou élue  : cf. v. 13 ; 2Tm 2.10 ; Tt 1.1 ; 1P 2.9 ; 5.13. –  ses enfants v. 4. –  que… j''aime v. 5. –  dans la vérité  : autre traduction en vérité v. 2 ; Ep 4.15 ; 1Jn 3.18 ; 3Jn 1. –  connaissent (1Jn 2.3n) la vérité Jn 8.32 ; 1Tm 2.4 ; 4.3 ; 2Tm 3.7 ; 1Jn 2.21.'
-  - type: text
-    content: 'L''ancien, à la Dame choisie et à ses enfants que, moi, j''aime dans la vérité – et non pas moi seulement, mais aussi tous ceux qui connaissent la vérité – '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Salutation
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Cf. 3Jn 1. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: L'ancien
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : outre son grand âge et sa position d''autorité (cf. 1P 5.1), l''auteur veut peut-être signifier par cette appellation son appartenance au groupe des témoins oculaires des événements fondateurs du christianisme (cf. v. 5 ; 1Jn 1.1-3 ; 2.7). –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: la Dame
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : en grec '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: kuria
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', féminin de '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: kurios, Seigneur
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' ; le mot désigne vraisemblablement une communauté chrétienne, mais certains y ont vu un nom propre (habituellement transcrit '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: Kyria
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '). –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'choisie '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: élue
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : cf. v. 13 ; 2Tm 2.10 ; Tt 1.1 ; 1P 2.9 ; 5.13. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'ses enfants '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'v. 4. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'que… j''aime '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'v. 5. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: dans la vérité
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : autre traduction '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'en vérité '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'v. 2 ; Ep 4.15 ; 1Jn 3.18 ; 3Jn 1. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'connaissent '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: (1Jn 2.3
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: ') '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'la vérité '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Jn 8.32 ; 1Tm 2.4 ; 4.3 ; 2Tm 3.7 ; 1Jn 2.21.
+      marker-yv: yv-n
+    - type: text
+      text: 'L''ancien, à la Dame choisie et à ses enfants que, moi, j''aime dans la vérité – et non pas moi seulement, mais aussi tous ceux qui connaissent la vérité – '
   '10':
-  - type: note
-    content: 'Cf. Mt 10.13s ; Rm 16.17 ; 1Co 5.6,9 ; 2Th 3.6,14s ; Tt 3.10. –  bonjour  : litt. (de) se réjouir  ; sur cette salutation courante en grec, voir Mt 26.49n.'
-  - type: text
-    content: 'Si quelqu''un vient vous voir sans apporter cet enseignement, ne le recevez pas chez vous et ne lui dites même pas bonjour. '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '10 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Cf. Mt 10.13s ; Rm 16.17 ; 1Co 5.6,9 ; 2Th 3.6,14s ; Tt 3.10. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: bonjour
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '  : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: (de) se réjouir
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '  ; sur cette salutation courante en grec, voir Mt 26.49'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Si quelqu''un vient vous voir sans apporter cet enseignement, ne le recevez pas chez vous et ne lui dites même pas bonjour. '
   '11':
-  - type: note
-    content: 'se rend complice de ou s''associe à  : cf. Ep 5.11 ; 1Tm 5.22n  ; Ap 18.4.'
-  - type: text
-    content: Car celui qui lui dit bonjour se rend complice de ses œuvres mauvaises.
-  - type: heading
-    content: En attendant le revoir
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '11 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'se rend complice de '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: s'associe à
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '  : cf. Ep 5.11 ; 1Tm 5.22'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; Ap 18.4.'
+      marker-yv: yv-n
+    - type: text
+      text: Car celui qui lui dit bonjour se rend complice de ses œuvres mauvaises.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: En attendant le revoir
+    marker-yv: yv-h
   '12':
-  - type: text
-    content: ' '
-  - type: note
-    content: '3Jn 13s. –  de vive voix  : litt. bouche à bouche , expression qui peut être comprise au sens de face à face , cf. Nb 12.8n. –  que notre (ou votre , selon certains mss) joie soit complète 1Jn 1.4+.'
-  - type: text
-    content: Quoique j'aie beaucoup à vous écrire, je n'ai pas souhaité le faire avec le papier et l'encre ; mais j'espère aller vous voir et vous parler de vive voix, pour que notre joie soit complète.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '12 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '3Jn 13s. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: de vive voix
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: bouche à bouche
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', expression qui peut être comprise au sens de '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: face à face
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', cf. Nb 12.8'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'que notre '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '(ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: votre
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', selon certains mss) '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'joie soit complète '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 1Jn 1.4+.
+      marker-yv: yv-n
+    - type: text
+      text: Quoique j'aie beaucoup à vous écrire, je n'ai pas souhaité le faire avec le papier et l'encre ; mais j'espère aller vous voir et vous parler de vive voix, pour que notre joie soit complète.
   '13':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'ta sœur  : sans doute la communauté chrétienne à laquelle appartient l''auteur, cf. v. 1n  ; 1P 5.13.'
-  - type: text
-    content: Les enfants de ta sœur choisie te saluent.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '13 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: ta sœur
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : sans doute la communauté chrétienne à laquelle appartient l''auteur, cf. v. 1'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; 1P 5.13.'
+      marker-yv: yv-n
+    - type: text
+      text: Les enfants de ta sœur choisie te saluent.
   '2':
-  - type: note
-    content: 'la vérité Jn 8.32+ ; 1Jn 2.4. –  demeure en nous  : cf. 1Jn 2.27 ; 3.9 ; voir aussi 2P 1.12. –  pour toujours  : cf. Jn 14.16s.'
-  - type: text
-    content: 'à cause de la vérité qui demeure en nous et qui sera avec nous pour toujours : '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'la vérité '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Jn 8.32+ ; 1Jn 2.4. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: demeure en nous
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '  : cf. 1Jn 2.27 ; 3.9 ; voir aussi 2P 1.12. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: pour toujours
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '  : cf. Jn 14.16s.'
+      marker-yv: yv-n
+    - type: text
+      text: 'à cause de la vérité qui demeure en nous et qui sera avec nous pour toujours : '
   '3':
-  - type: note
-    content: 'Cf. 1Tm 1.2 ; 2Tm 1.2. –  grâce / paix… Rm 1.7+. – Voir Fils. –  avec nous  : certains mss portent avec vous  ; cf. 1Co 1.8.'
-  - type: text
-    content: La grâce, la compassion et la paix de Dieu, le Père, et de Jésus-Christ, le Fils du Père, seront avec nous dans la vérité et l'amour.
-  - type: heading
-    content: Le commandement reçu du Père
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '3 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Cf. 1Tm 1.2 ; 2Tm 1.2. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: grâce
+        - type: text
+          text: ' / '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: paix
+        - type: text
+          text: '… '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Rm 1.7+. – Voir '
+      - type: usfm
+        marker: fq
+        children:
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: Fils
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: avec nous
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '  : certains mss portent '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: avec vous
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '  ; cf. 1Co 1.8.'
+      marker-yv: yv-n
+    - type: text
+      text: La grâce, la compassion et la paix de Dieu, le Père, et de Jésus-Christ, le Fils du Père, seront avec nous dans la vérité et l'amour.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Le commandement reçu du Père
+    marker-yv: yv-h
   '4':
-  - type: text
-    content: ' '
-  - type: note
-    content: '3Jn 3s. –  vivant  : litt. marchant , de même v. 6. –  le commandement v. 5 ; 1Jn 4.21 ; voir loi.'
-  - type: text
-    content: 'Je me suis beaucoup réjoui de trouver quelques-uns de tes enfants vivant dans la vérité, selon le commandement que nous avons reçu du Père. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '4 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '3Jn 3s. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: vivant
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: marchant
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', de même v. 6. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'le commandement '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'v. 5 ; 1Jn 4.21 ; voir '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: loi
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Je me suis beaucoup réjoui de trouver quelques-uns de tes enfants vivant dans la vérité, selon le commandement que nous avons reçu du Père. '
   '5':
-  - type: note
-    content: 'chère Dame  : grec kuria, voir v. 1n. –  commandement nouveau  : cf. Jn 13.34+ ; voir 1Jn 2.7s,24 ; 3.11,23.'
-  - type: text
-    content: 'Et maintenant, chère Dame, je te demande – ce que je t''écris n''est pas un commandement nouveau, mais seulement celui que nous avons eu dès le commencement – que nous nous aimions les uns les autres. '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '5 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: chère Dame
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '  : grec '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: kuria
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', voir v. 1'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: commandement nouveau
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '  : cf. Jn 13.34+ ; voir 1Jn 2.7s,24 ; 3.11,23.'
+      marker-yv: yv-n
+    - type: text
+      text: 'Et maintenant, chère Dame, je te demande – ce que je t''écris n''est pas un commandement nouveau, mais seulement celui que nous avons eu dès le commencement – que nous nous aimions les uns les autres. '
   '6':
-  - type: note
-    content: V. 4n  ; Jn 14.15,23s ; 1Jn 5.3.
-  - type: text
-    content: Et l'amour consiste à vivre selon ses commandements. C'est là le commandement dans lequel vous devez vivre, comme vous l'avez entendu dès le commencement.
-  - type: heading
-    content: L'enseignement du Christ
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '6 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: V. 4
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; Jn 14.15,23s ; 1Jn 5.3.'
+      marker-yv: yv-n
+    - type: text
+      text: Et l'amour consiste à vivre selon ses commandements. C'est là le commandement dans lequel vous devez vivre, comme vous l'avez entendu dès le commencement.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: L'enseignement du Christ
+    marker-yv: yv-h
   '7':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'd''imposteurs ou de trompeurs  : le terme grec est apparenté à celui qui est habituellement traduit par erreur ou égarement  ; cf. 1Jn 2.26+ ; voir aussi Mt 27.64+ ; 2P 2.1. –  ne reconnaissent pas  : autre traduction ne confessent pas  ; cf. 1Jn 1.9n. –  venant , au présent, autre temps qu''en 1Jn 4.2n. – Voir chair . –  antichrist 1Jn 2.18+.'
-  - type: text
-    content: 'En effet, beaucoup d''imposteurs sont sortis dans le monde, qui ne reconnaissent pas Jésus-Christ venant en chair. Voilà l''imposteur et l''antichrist. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '7 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'd''imposteurs '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: de trompeurs
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : le terme grec est apparenté à celui qui est habituellement traduit par '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'erreur '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: égarement
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' ; cf. 1Jn 2.26+ ; voir aussi Mt 27.64+ ; 2P 2.1. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: ne reconnaissent pas
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : autre traduction '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: ne confessent pas
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text:  ; cf. 1Jn 1.9
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: venant
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', au présent, autre temps qu''en 1Jn 4.2'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '. – Voir '
+      - type: usfm
+        marker: fq
+        children:
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: chair
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'antichrist '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 1Jn 2.18+.
+      marker-yv: yv-n
+    - type: text
+      text: 'En effet, beaucoup d''imposteurs sont sortis dans le monde, qui ne reconnaissent pas Jésus-Christ venant en chair. Voilà l''imposteur et l''antichrist. '
   '8':
-  - type: note
-    content: 'notre travail  : litt. ce pour quoi nous avons travaillé  ; certains mss portent vous avez travaillé, c.-à-d. votre travail  ; cf. Rt 2.12 ; Mt 10.42 ; Jn 6.27n-30. –  récompense Mt 5.12+.'
-  - type: text
-    content: Prenez garde à vous-mêmes, afin de ne pas perdre le fruit de notre travail, mais de recevoir une pleine récompense.
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '8 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: notre travail
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '  : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: ce pour quoi nous avons travaillé
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '  ; certains mss portent '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: vous avez travaillé
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', c.-à-d. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: votre travail
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '  ; cf. Rt 2.12 ; Mt 10.42 ; Jn 6.27'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '-30. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'récompense '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Mt 5.12+.
+      marker-yv: yv-n
+    - type: text
+      text: Prenez garde à vous-mêmes, afin de ne pas perdre le fruit de notre travail, mais de recevoir une pleine récompense.
   '9':
-  - type: text
-    content: ' '
-  - type: note
-    content: Cf. 1Jn 2.23s ; 4.15 ; 5.12. – Voir Fils.
-  - type: text
-    content: 'Quiconque va plus loin et ne demeure pas dans l''enseignement du Christ n''a pas Dieu ; celui qui demeure dans cet enseignement a le Père et le Fils. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '9 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Cf. 1Jn 2.23s ; 4.15 ; 5.12. – Voir '
+      - type: usfm
+        marker: fq
+        children:
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: Fils
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Quiconque va plus loin et ne demeure pas dans l''enseignement du Christ n''a pas Dieu ; celui qui demeure dans cet enseignement a le Père et le Fils. '

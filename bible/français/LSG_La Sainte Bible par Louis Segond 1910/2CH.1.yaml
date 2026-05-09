@@ -2,103 +2,343 @@ document_id: 2CH.1,93
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: HISTOIRE DE SALOMON
-  - type: heading
-    content: Ch. 1 à 9. (Ac 7:47.)
-  - type: heading
-    content: Salomon roi. — Dieu lui accorde sagesse et gloire
-  - type: heading
-    content: 'V. 1-12: cf. (1 Ch 21:29. 1 R 3:1-15.) (Lu 11:13. Ja 1:5-7. Pr 2:3-9.)'
-  - type: text
-    content: 'Salomon, fils de David, '
-  - type: note
-    content: 1 R 2:46.
-  - type: text
-    content: 's’affermit dans son règne; l’Éternel, son Dieu, fut avec lui, et l’éleva à un haut degré. '
+  - type: usfm
+    marker: ms2
+    children:
+    - type: text
+      text: HISTOIRE DE SALOMON
+    marker-yv: yv-h
+  - type: usfm
+    marker: mr
+    children:
+    - type: text
+      text: Ch. 1 à 9. (Ac 7:47.)
+    marker-yv: yv-h
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Salomon roi. — Dieu lui accorde sagesse et gloire
+    marker-yv: yv-h
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: 'V. 1-12: cf. (1 Ch 21:29. 1 R 3:1-15.) (Lu 11:13. Ja 1:5-7. Pr 2:3-9.)'
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Salomon, fils de David, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 R 2:46
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 's’affermit dans son règne; l’Éternel, son Dieu, fut avec lui, et l’éleva à un haut degré. '
   '10':
-  - type: note
-    content: 1 R 3:9, 11, 12.
-  - type: text
-    content: 'Accorde-moi donc de la sagesse et de l’intelligence, afin que je sache me conduire à la tête de ce peuple! Car qui pourrait juger ton peuple, ce peuple si grand? '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 R 3:9
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '11'
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '12'
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Accorde-moi donc de la sagesse et de l’intelligence, afin que je sache me conduire à la tête de ce peuple! Car qui pourrait juger ton peuple, ce peuple si grand? '
   '11':
-  - type: text
-    content: 'Dieu dit à Salomon: Puisque c’est là ce qui est dans ton cœur, puisque tu ne demandes ni des richesses, ni des biens, ni de la gloire, ni la mort de tes ennemis, ni même une longue vie, et que tu demandes pour toi de la sagesse et de l’intelligence afin de juger mon peuple sur lequel je t’ai fait régner, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Dieu dit à Salomon: Puisque c’est là ce qui est dans ton cœur, puisque tu ne demandes ni des richesses, ni des biens, ni de la gloire, ni la mort de tes ennemis, ni même une longue vie, et que tu demandes pour toi de la sagesse et de l’intelligence afin de juger mon peuple sur lequel je t’ai fait régner, '
   '12':
-  - type: text
-    content: 'la sagesse et l’intelligence te sont accordées. Je te donnerai, en outre, des richesses, des biens et de la gloire, comme n’en a jamais eu '
-  - type: note
-    content: 1 R 3:13. 1 Ch 29:25. 2 Ch 9:22.
-  - type: text
-    content: aucun roi avant toi et comme n’en aura aucun après toi.
-  - type: heading
-    content: 'V. 13-17: cf. 1 R 3:15-28; 10:26-29.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'la sagesse et l’intelligence te sont accordées. Je te donnerai, en outre, des richesses, des biens et de la gloire, comme n’en a jamais eu '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 R 3:13
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Ch 29:25
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Ch 9:22
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: aucun roi avant toi et comme n’en aura aucun après toi.
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: 'V. 13-17: cf. 1 R 3:15-28; 10:26-29.'
+    marker-yv: yv-h
   '13':
-  - type: text
-    content: 'Salomon revint à Jérusalem, après avoir quitté le haut lieu qui était à Gabaon et la tente d’assignation. Et il régna sur Israël. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Salomon revint à Jérusalem, après avoir quitté le haut lieu qui était à Gabaon et la tente d’assignation. Et il régna sur Israël. '
   '14':
-  - type: text
-    content: 'Salomon '
-  - type: note
-    content: 1 R 4:26; 10:26. 2 Ch 9:25.
-  - type: text
-    content: 'rassembla des chars et de la cavalerie; il avait quatorze cents chars et douze mille cavaliers, qu’il plaça dans les villes où il tenait ses chars et à Jérusalem près du roi. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Salomon '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 R 4:26
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 10:26
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Ch 9:25
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'rassembla des chars et de la cavalerie; il avait quatorze cents chars et douze mille cavaliers, qu’il plaça dans les villes où il tenait ses chars et à Jérusalem près du roi. '
   '15':
-  - type: text
-    content: 'Le roi rendit l’argent et l’or aussi communs à Jérusalem que les pierres, et les cèdres aussi communs que les sycomores qui croissent dans la plaine. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Le roi rendit l’argent et l’or aussi communs à Jérusalem que les pierres, et les cèdres aussi communs que les sycomores qui croissent dans la plaine. '
   '16':
-  - type: note
-    content: 1 R 10:28. 2 Ch 9:28.
-  - type: text
-    content: 'C’était de l’Égypte que Salomon tirait ses chevaux; une caravane de marchands du roi allait les chercher par troupes à un prix fixe; '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 R 10:28
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Ch 9:28
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'C’était de l’Égypte que Salomon tirait ses chevaux; une caravane de marchands du roi allait les chercher par troupes à un prix fixe; '
   '17':
-  - type: text
-    content: on faisait monter et sortir d’Égypte un char pour six cents sicles d’argent, et un cheval pour cent cinquante sicles. Ils en amenaient de même avec eux pour tous les rois des Héthiens et pour les rois de Syrie.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: on faisait monter et sortir d’Égypte un char pour six cents sicles d’argent, et un cheval pour cent cinquante sicles. Ils en amenaient de même avec eux pour tous les rois des Héthiens et pour les rois de Syrie.
   '2':
-  - type: text
-    content: 'Salomon donna des ordres à tout Israël, aux chefs de milliers et de centaines, aux juges, aux princes de tout Israël, aux chefs des maisons paternelles; '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Salomon donna des ordres à tout Israël, aux chefs de milliers et de centaines, aux juges, aux princes de tout Israël, aux chefs des maisons paternelles; '
   '3':
-  - type: text
-    content: 'et '
-  - type: note
-    content: 1 R 3:4.
-  - type: text
-    content: 'Salomon se rendit avec toute l’assemblée au haut lieu qui était à Gabaon. '
-  - type: note
-    content: 1 Ch 16:39; 21:29.
-  - type: text
-    content: 'Là se trouvait la tente d’assignation de Dieu, faite dans le désert par Moïse, serviteur de l’Éternel; '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'et '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 R 3:4
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Salomon se rendit avec toute l’assemblée au haut lieu qui était à Gabaon. '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Ch 16:39
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 21:29
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Là se trouvait la tente d’assignation de Dieu, faite dans le désert par Moïse, serviteur de l’Éternel; '
   '4':
-  - type: text
-    content: 'mais '
-  - type: note
-    content: 2 S 6:2, 17. 1 Ch 16:1.
-  - type: text
-    content: 'l’arche de Dieu avait été transportée par David de Kirjath-Jearim à la place qu’il lui avait préparée, car il avait dressé pour elle une tente à Jérusalem. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'mais '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 S 6:2
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '17'
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Ch 16:1
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'l’arche de Dieu avait été transportée par David de Kirjath-Jearim à la place qu’il lui avait préparée, car il avait dressé pour elle une tente à Jérusalem. '
   '5':
-  - type: text
-    content: 'Là se trouvait aussi, devant le tabernacle de l’Éternel, l’autel d’airain qu’avait fait '
-  - type: note
-    content: Ex 38:1.
-  - type: text
-    content: 'Betsaleel, fils d’Uri, fils de Hur. Salomon et l’assemblée cherchèrent l’Éternel. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Là se trouvait aussi, devant le tabernacle de l’Éternel, l’autel d’airain qu’avait fait '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ex 38:1
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Betsaleel, fils d’Uri, fils de Hur. Salomon et l’assemblée cherchèrent l’Éternel. '
   '6':
-  - type: text
-    content: 'Et ce fut là, sur l’autel d’airain qui était devant la tente d’assignation, que Salomon offrit à l’Éternel mille holocaustes. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Et ce fut là, sur l’autel d’airain qui était devant la tente d’assignation, que Salomon offrit à l’Éternel mille holocaustes. '
   '7':
-  - type: text
-    content: 'Pendant la nuit, Dieu apparut à Salomon et lui dit: Demande ce que tu veux que je te donne. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Pendant la nuit, Dieu apparut à Salomon et lui dit: Demande ce que tu veux que je te donne. '
   '8':
-  - type: text
-    content: 'Salomon répondit à Dieu: Tu as traité David, mon père, avec une grande bienveillance, '
-  - type: note
-    content: 1 Ch 28:5.
-  - type: text
-    content: 'et tu m’as fait régner à sa place. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Salomon répondit à Dieu: Tu as traité David, mon père, avec une grande bienveillance, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Ch 28:5
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'et tu m’as fait régner à sa place. '
   '9':
-  - type: text
-    content: 'Maintenant, Éternel Dieu, que ta promesse à David, mon père, s’accomplisse, '
-  - type: note
-    content: 1 R 3:7.
-  - type: text
-    content: 'puisque tu m’as fait régner sur un peuple nombreux comme la poussière de la terre! '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Maintenant, Éternel Dieu, que ta promesse à David, mon père, s’accomplisse, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 R 3:7
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'puisque tu m’as fait régner sur un peuple nombreux comme la poussière de la terre! '

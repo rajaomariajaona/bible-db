@@ -2,252 +2,993 @@ document_id: ISA.23,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: An Oracle Concerning Tyre and Sidon
-  - type: text
-    content: 'The '
-  - type: note
-    content: See ch. 13:1
-  - type: text
-    content: 'oracle concerning '
-  - type: note
-    content: '[Jer. 25:22; 27:2, 3]; See Ezek. 26:2–28:24; Joel 3:4-8; Amos 1:9, 10; Zech. 9:2-4'
-  - type: text
-    content: Tyre.
-  - type: text
-    content: 'Wail, O '
-  - type: note
-    content: ver. 14; 1 Kgs. 10:22; 22:48
-  - type: text
-    content: ships of Tarshish,
-  - type: text
-    content: 'for Tyre is laid waste, '
-  - type: note
-    content: ch. 24:10
-  - type: text
-    content: without house or harbor!
-  - type: text
-    content: 'From '
-  - type: note
-    content: Jer. 2:10; See Gen. 10:4
-  - type: text
-    content: the land of Cyprus
-  - type: note
-    content: Hebrew Kittim; also verse 12
-  - type: text
-    content: it is revealed to them.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: An Oracle Concerning Tyre and Sidon
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 13:1
+      marker-yv: yv-n
+    - type: text
+      text: 'oracle concerning '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 25:22
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 27:2
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '3'
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']; See '
+      - type: text
+        text: 'Ezek. 26:2–28:24; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Joel 3:4-8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Amos 1:9
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '10'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Zech. 9:2-4
+      marker-yv: yv-n
+    - type: text
+      text: Tyre.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Wail, O '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '14'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Kgs. 10:22
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 22:48
+      marker-yv: yv-n
+    - type: text
+      text: ships of Tarshish,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'for Tyre is laid waste, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 24:10
+      marker-yv: yv-n
+    - type: text
+      text: without house or harbor!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'From '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 2:10
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Gen. 10:4
+      marker-yv: yv-n
+    - type: text
+      text: the land of Cyprus
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '23:1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Kittim
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ; also verse 12
+      marker-yv: yv-n
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: it is revealed to them.
   '10':
-  - type: text
-    content: Cross over your land like the Nile,
-  - type: text
-    content: O daughter of Tarshish;
-  - type: text
-    content: there is no restraint anymore.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Cross over your land like the Nile,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: O daughter of Tarshish;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: there is no restraint anymore.
   '11':
-  - type: text
-    content: ' '
-  - type: note
-    content: '[ Ex. 14:21 ]'
-  - type: text
-    content: He has stretched out his hand over the sea;
-  - type: text
-    content: he has shaken the kingdoms;
-  - type: text
-    content: 'the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' has given command concerning Canaan'
-  - type: text
-    content: to destroy its strongholds.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ex. 14:21
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: He has stretched out his hand over the sea;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: he has shaken the kingdoms;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' has given command concerning Canaan'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: to destroy its strongholds.
   '12':
-  - type: text
-    content: 'And he said:'
-  - type: text
-    content: “You will no more exult,
-  - type: text
-    content: 'O oppressed virgin daughter of '
-  - type: note
-    content: See ver. 2
-  - type: text
-    content: Sidon;
-  - type: text
-    content: 'arise, '
-  - type: note
-    content: ver. 6
-  - type: text
-    content: 'cross over to '
-  - type: note
-    content: ver. 1
-  - type: text
-    content: Cyprus,
-  - type: text
-    content: even there you will have no rest.”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'And he said:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: “You will no more exult,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'O oppressed virgin daughter of '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '2'
+      marker-yv: yv-n
+    - type: text
+      text: Sidon;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'arise, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '6'
+      marker-yv: yv-n
+    - type: text
+      text: 'cross over to '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '1'
+      marker-yv: yv-n
+    - type: text
+      text: Cyprus,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: even there you will have no rest.”
   '13':
-  - type: text
-    content: 'Behold the land of '
-  - type: note
-    content: ch. 47:1; 48:14
-  - type: text
-    content: the Chaldeans! This is the people that was not;
-  - type: note
-    content: Or that has become nothing
-  - type: text
-    content: ' Assyria destined it for wild beasts. They erected '
-  - type: note
-    content: '[2 Kgs. 25:1]'
-  - type: text
-    content: their siege towers, they stripped her palaces bare, they made her a ruin.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Behold the land of '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 47:1
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 48:14
+      marker-yv: yv-n
+    - type: text
+      text: the Chaldeans! This is the people that was not;
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '23:13 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: that has become nothing
+      marker-yv: yv-n
+    - type: text
+      text: ' Assyria destined it for wild beasts. They erected '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Kgs. 25:1
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: their siege towers, they stripped her palaces bare, they made her a ruin.
   '14':
-  - type: text
-    content: ' '
-  - type: note
-    content: See ver. 1
-  - type: text
-    content: Wail, O ships of Tarshish,
-  - type: text
-    content: for your stronghold is laid waste.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '1'
+      marker-yv: yv-n
+    - type: text
+      text: Wail, O ships of Tarshish,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: for your stronghold is laid waste.
   '15':
-  - type: text
-    content: 'In that day Tyre will be forgotten for '
-  - type: note
-    content: Jer. 25:11, 22
-  - type: text
-    content: seventy years, like the days
-  - type: note
-    content: Or lifetime
-  - type: text
-    content: ' of one king. At the end of '
-  - type: note
-    content: Jer. 25:11, 22
-  - type: text
-    content: 'seventy years, it will happen to Tyre as in the song of the prostitute:'
+  - type: usfm
+    marker: m
+    children:
+    - type: text
+      text: 'In that day Tyre will be forgotten for '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 25:11
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '22'
+      marker-yv: yv-n
+    - type: text
+      text: seventy years, like the days
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '23:15 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Or '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: lifetime
+      marker-yv: yv-n
+    - type: text
+      text: ' of one king. At the end of '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 25:11
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '22'
+      marker-yv: yv-n
+    - type: text
+      text: 'seventy years, it will happen to Tyre as in the song of the prostitute:'
   '16':
-  - type: text
-    content: “Take a harp;
-  - type: text
-    content: go about the city,
-  - type: text
-    content: O forgotten prostitute!
-  - type: text
-    content: Make sweet melody;
-  - type: text
-    content: sing many songs,
-  - type: text
-    content: that you may be remembered.”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: “Take a harp;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: go about the city,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: O forgotten prostitute!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Make sweet melody;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: sing many songs,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: that you may be remembered.”
   '17':
-  - type: text
-    content: 'At the end of '
-  - type: note
-    content: Jer. 25:11, 22
-  - type: text
-    content: 'seventy years, the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' will visit Tyre, and she will return to her wages and '
-  - type: note
-    content: Rev. 17:1, 2
-  - type: text
-    content: 'will prostitute herself with all the kingdoms of the world on the face of the earth. '
+  - type: usfm
+    marker: m
+    children:
+    - type: text
+      text: 'At the end of '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 25:11
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '22'
+      marker-yv: yv-n
+    - type: text
+      text: 'seventy years, the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' will visit Tyre, and she will return to her wages and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Rev. 17:1
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '2'
+      marker-yv: yv-n
+    - type: text
+      text: 'will prostitute herself with all the kingdoms of the world on the face of the earth. '
   '18':
-  - type: text
-    content: 'Her merchandise and her wages will be holy to the '
-  - type: text
-    content: Lord
-  - type: text
-    content: '. It will not be stored or hoarded, but her merchandise will supply abundant food and fine clothing for those who dwell before the '
-  - type: text
-    content: Lord
-  - type: text
-    content: .
+  - type: usfm
+    marker: m
+    children:
+    - type: text
+      text: 'Her merchandise and her wages will be holy to the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: '. It will not be stored or hoarded, but her merchandise will supply abundant food and fine clothing for those who dwell before the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: .
   '2':
-  - type: text
-    content: Be still, O inhabitants of the coast;
-  - type: text
-    content: 'the merchants of '
-  - type: note
-    content: ver. 4, 12; Gen. 10:15; Josh. 19:28; Jer. 25:22; 27:3; Ezek. 27:8; 32:30; Joel 3:4; Zech. 9:2
-  - type: text
-    content: Sidon, who cross the sea, have filled you.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Be still, O inhabitants of the coast;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'the merchants of '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 4, 12
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Gen. 10:15
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Josh. 19:28
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 25:22
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 27:3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ezek. 27:8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 32:30
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Joel 3:4
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Zech. 9:2
+      marker-yv: yv-n
+    - type: text
+      text: Sidon, who cross the sea, have filled you.
   '3':
-  - type: text
-    content: And on many waters
-  - type: text
-    content: your revenue was the grain of Shihor,
-  - type: text
-    content: the harvest of the Nile;
-  - type: text
-    content: 'you were '
-  - type: note
-    content: See Ezek. 27:3-23
-  - type: text
-    content: the merchant of the nations.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: And on many waters
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: your revenue was the grain of Shihor,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: the harvest of the Nile;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'you were '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ezek. 27:3-23
+      marker-yv: yv-n
+    - type: text
+      text: the merchant of the nations.
   '4':
-  - type: text
-    content: 'Be ashamed, O '
-  - type: note
-    content: '[See ver. 2 above]'
-  - type: text
-    content: Sidon, for the sea has spoken,
-  - type: text
-    content: 'the stronghold of the sea, saying:'
-  - type: text
-    content: “I have neither labored nor given birth,
-  - type: text
-    content: I have neither reared young men
-  - type: text
-    content: nor brought up young women.”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Be ashamed, O '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[See ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '2'
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: above]
+      marker-yv: yv-n
+    - type: text
+      text: Sidon, for the sea has spoken,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'the stronghold of the sea, saying:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: “I have neither labored nor given birth,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: I have neither reared young men
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: nor brought up young women.”
   '5':
-  - type: text
-    content: When the report comes to Egypt,
-  - type: text
-    content: they will be in anguish
-  - type: note
-    content: Hebrew they will have labor pains
-  - type: text
-    content: ' over the report about Tyre.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: When the report comes to Egypt,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: they will be in anguish
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '23:5 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hebrew '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: they will have labor pains
+      marker-yv: yv-n
+    - type: text
+      text: ' over the report about Tyre.'
   '6':
-  - type: text
-    content: ' '
-  - type: note
-    content: ver. 12
-  - type: text
-    content: Cross over to Tarshish;
-  - type: text
-    content: wail, O inhabitants of the coast!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '12'
+      marker-yv: yv-n
+    - type: text
+      text: Cross over to Tarshish;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: wail, O inhabitants of the coast!
   '7':
-  - type: text
-    content: Is this your exultant city
-  - type: note
-    content: '[ Gen. 10:15 ]'
-  - type: text
-    content: whose origin is from days of old,
-  - type: text
-    content: whose feet carried her
-  - type: text
-    content: to settle far away?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Is this your exultant city
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Gen. 10:15
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: whose origin is from days of old,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: whose feet carried her
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: to settle far away?
   '8':
-  - type: text
-    content: Who has purposed this
-  - type: text
-    content: against Tyre, the bestower of crowns,
-  - type: text
-    content: whose merchants were princes,
-  - type: text
-    content: whose traders were the honored of the earth?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Who has purposed this
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: against Tyre, the bestower of crowns,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: whose merchants were princes,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: whose traders were the honored of the earth?
   '9':
-  - type: text
-    content: 'The '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' of hosts has purposed it,'
-  - type: note
-    content: '[ Ezek. 28:7 ]'
-  - type: text
-    content: to defile the pompous pride of all glory,
-  - type: note
-    content: The Hebrew words for glory and hosts sound alike
-  - type: text
-    content: to dishonor all the honored of the earth.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' of hosts has purposed it,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ezek. 28:7
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: to defile the pompous pride of all glory,
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '23:9 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'The Hebrew words for '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'glory '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'and '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'hosts '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: sound alike
+      marker-yv: yv-n
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: to dishonor all the honored of the earth.

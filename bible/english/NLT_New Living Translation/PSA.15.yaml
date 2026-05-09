@@ -2,43 +2,91 @@ document_id: PSA.15,116
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: A psalm of David.
-  - type: text
-    content: 'Who may worship in your sanctuary, '
-  - type: text
-    content: Lord
-  - type: text
-    content: '?'
-  - type: text
-    content: Who may enter your presence on your holy hill?
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: A psalm of David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Who may worship in your sanctuary, '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: '?'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Who may enter your presence on your holy hill?
   '2':
-  - type: text
-    content: Those who lead blameless lives and do what is right,
-  - type: text
-    content: speaking the truth from sincere hearts.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Those who lead blameless lives and do what is right,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: speaking the truth from sincere hearts.
   '3':
-  - type: text
-    content: Those who refuse to gossip
-  - type: text
-    content: or harm their neighbors
-  - type: text
-    content: or speak evil of their friends.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Those who refuse to gossip
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: or harm their neighbors
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: or speak evil of their friends.
   '4':
-  - type: text
-    content: Those who despise flagrant sinners,
-  - type: text
-    content: 'and honor the faithful followers of the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ','
-  - type: text
-    content: and keep their promises even when it hurts.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Those who despise flagrant sinners,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and honor the faithful followers of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and keep their promises even when it hurts.
   '5':
-  - type: text
-    content: Those who lend money without charging interest,
-  - type: text
-    content: and who cannot be bribed to lie about the innocent.
-  - type: text
-    content: Such people will stand firm forever.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Those who lend money without charging interest,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and who cannot be bribed to lie about the innocent.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Such people will stand firm forever.

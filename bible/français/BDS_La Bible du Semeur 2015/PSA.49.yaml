@@ -2,137 +2,366 @@ document_id: PSA.49,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Un linceul n’a pas de poches
-  - type: text
-    content: Au chef de chœur. Un psaume des Qoréites
-  - type: note
-    content: Voir note 42.1.
-  - type: text
-    content: .
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Un linceul n’a pas de poches
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: Au chef de chœur. Un psaume des Qoréites
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '49.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Voir note '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: '42.1'
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: .
   '10':
-  - type: text
-    content: Vivront-ils toujours ?
-  - type: text
-    content: Eviteront-ils la fosse ?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Vivront-ils toujours ?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Eviteront-ils la fosse ?
   '11':
-  - type: text
-    content: On voit bien mourir le sage,
-  - type: text
-    content: et le sot et l’insensé ╵vont périr également,
-  - type: text
-    content: en laissant leurs biens à d’autres.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: On voit bien mourir le sage,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et le sot et l’insensé ╵vont périr également,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: en laissant leurs biens à d’autres.
   '12':
-  - type: text
-    content: Cependant, ils s’imaginent ╵que leurs maisons vont durer ╵jusque dans l’éternité
-  - type: note
-    content: 'Selon le texte hébreu. Les anciennes versions grecque et syriaque ont : cependant leur tombe sera leur maison pour toujours, leur demeure pour des générations.'
-  - type: text
-    content: et que leurs demeures ╵seront à l’abri du temps ╵pendant des générations,
-  - type: text
-    content: eux qui voulaient que leurs terres ╵soient appelées de leur nom.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Cependant, ils s’imaginent ╵que leurs maisons vont durer ╵jusque dans l’éternité
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '49.12 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Selon le texte hébreu. Les anciennes versions grecque et syriaque ont : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: cependant leur tombe sera leur maison pour toujours, leur demeure pour des générations.
+      marker-yv: yv-n
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et que leurs demeures ╵seront à l’abri du temps ╵pendant des générations,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: eux qui voulaient que leurs terres ╵soient appelées de leur nom.
   '13':
-  - type: text
-    content: 'L’homme le plus honoré ╵ne vit pas longtemps :'
-  - type: text
-    content: car il est semblable aux animaux ╵qui doivent périr
-  - type: note
-    content: Dans l’ancienne version grecque et la version syriaque, les v. 13 et 21 sont identiques.
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'L’homme le plus honoré ╵ne vit pas longtemps :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: car il est semblable aux animaux ╵qui doivent périr
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '49.13 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Dans l’ancienne version grecque et la version syriaque, les v. 13 et 21 sont identiques.
+      marker-yv: yv-n
+    - type: text
+      text: .
   '14':
-  - type: text
-    content: Tel est l’avenir de ceux ╵qui leur font confiance,
-  - type: text
-    content: qui approuvent leurs discours
-  - type: note
-    content: 'Autre traduction : telle est leur voie, leur folie, et ceux qui les suivent approuvent leurs discours.'
-  - type: text
-    content: .
-  - type: text
-    content: Pause
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Tel est l’avenir de ceux ╵qui leur font confiance,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: qui approuvent leurs discours
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '49.14 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Autre traduction : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: telle est leur voie, leur folie, et ceux qui les suivent approuvent leurs discours.
+      marker-yv: yv-n
+    - type: text
+      text: .
+  - type: usfm
+    marker: q4
+    children:
+    - type: text
+      text: Pause
   '15':
-  - type: text
-    content: On les pousse vers la tombe ╵comme un troupeau de moutons,
-  - type: text
-    content: et la mort se repaît d’eux.
-  - type: text
-    content: Au matin, les hommes droits ╵vont les piétiner.
-  - type: text
-    content: Loin de leur demeure, ╵au séjour des morts, ╵leur beauté s’évanouira.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: On les pousse vers la tombe ╵comme un troupeau de moutons,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et la mort se repaît d’eux.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Au matin, les hommes droits ╵vont les piétiner.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Loin de leur demeure, ╵au séjour des morts, ╵leur beauté s’évanouira.
   '16':
-  - type: text
-    content: Mais Dieu me délivrera ╵du séjour des morts,
-  - type: text
-    content: car il me prendra.
-  - type: text
-    content: Pause
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mais Dieu me délivrera ╵du séjour des morts,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: car il me prendra.
+  - type: usfm
+    marker: q4
+    children:
+    - type: text
+      text: Pause
   '17':
-  - type: text
-    content: Ne sois donc pas alarmé ╵quand un homme s’enrichit,
-  - type: text
-    content: quand tu vois le luxe ╵s’étaler dans sa maison.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Ne sois donc pas alarmé ╵quand un homme s’enrichit,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: quand tu vois le luxe ╵s’étaler dans sa maison.
   '18':
-  - type: text
-    content: 'Car, lorsqu’il mourra, ╵il n’emportera ╵rien de ce qu’il possédait :'
-  - type: text
-    content: ses biens ne le suivront pas
-  - type: note
-    content: Voir 1 Tm 6.7.
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Car, lorsqu’il mourra, ╵il n’emportera ╵rien de ce qu’il possédait :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ses biens ne le suivront pas
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '49.18 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Voir '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: 1 Tm 6.7
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: .
   '19':
-  - type: text
-    content: Pendant sa vie il pouvait ╵se dire béni
-  - type: text
-    content: – et les gens vous louent ╵lorsque tout va bien pour vous – ,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Pendant sa vie il pouvait ╵se dire béni
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: – et les gens vous louent ╵lorsque tout va bien pour vous – ,
   '2':
-  - type: text
-    content: O vous, tous les peuples, ╵écoutez ceci !
-  - type: text
-    content: Habitants du monde, ╵prêtez attention,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: O vous, tous les peuples, ╵écoutez ceci !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Habitants du monde, ╵prêtez attention,
   '20':
-  - type: text
-    content: il lui faudra bien rejoindre ╵ses ancêtres décédés
-  - type: text
-    content: qui, jamais plus, ne verront ╵briller la lumière.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: il lui faudra bien rejoindre ╵ses ancêtres décédés
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: qui, jamais plus, ne verront ╵briller la lumière.
   '21':
-  - type: text
-    content: L’homme le plus honoré, ╵s’il n’a pas d’intelligence,
-  - type: text
-    content: est semblable aux animaux ╵qui doivent périr.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: L’homme le plus honoré, ╵s’il n’a pas d’intelligence,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: est semblable aux animaux ╵qui doivent périr.
   '3':
-  - type: text
-    content: vous, gens d’humble condition ╵et vous, gens de haute condition,
-  - type: text
-    content: vous, les hommes riches ╵comme vous les pauvres !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: vous, gens d’humble condition ╵et vous, gens de haute condition,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: vous, les hommes riches ╵comme vous les pauvres !
   '4':
-  - type: text
-    content: De ma bouche sortent ╵des paroles sages,
-  - type: text
-    content: et mon cœur médite ╵des propos sensés.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: De ma bouche sortent ╵des paroles sages,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et mon cœur médite ╵des propos sensés.
   '5':
-  - type: text
-    content: Mon oreille écoute ╵des proverbes sages.
-  - type: text
-    content: Au son de la lyre, ╵je vais révéler ╵le sens d’une énigme.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mon oreille écoute ╵des proverbes sages.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Au son de la lyre, ╵je vais révéler ╵le sens d’une énigme.
   '6':
-  - type: text
-    content: Pourquoi donc craindrais-je, ╵aux jours du malheur,
-  - type: text
-    content: où je suis environné ╵des méfaits des fourbes ?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Pourquoi donc craindrais-je, ╵aux jours du malheur,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: où je suis environné ╵des méfaits des fourbes ?
   '7':
-  - type: text
-    content: Ils ont foi en leur fortune
-  - type: text
-    content: et ils tirent vanité ╵de leurs immenses richesses.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Ils ont foi en leur fortune
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et ils tirent vanité ╵de leurs immenses richesses.
   '8':
-  - type: text
-    content: Aucun homme, cependant, ╵ne peut racheter un autre.
-  - type: text
-    content: Aucun ne saurait payer ╵à Dieu sa propre rançon.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Aucun homme, cependant, ╵ne peut racheter un autre.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Aucun ne saurait payer ╵à Dieu sa propre rançon.
   '9':
-  - type: text
-    content: Car le rachat de leur vie ╵est bien trop coûteux.
-  - type: text
-    content: Il leur faut, à tout jamais, ╵en abandonner l’idée.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Car le rachat de leur vie ╵est bien trop coûteux.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Il leur faut, à tout jamais, ╵en abandonner l’idée.

@@ -2,41 +2,103 @@ document_id: PSA.15,93
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: (Ps 24; 34:12-15.) Éz 18:5-9. Éz 33:14, etc. (1 Jn 2:6; 3:24.)
-  - type: text
-    content: Psaume de David.
-  - type: text
-    content: O Éternel! Qui séjournera dans ta tente?
-  - type: text
-    content: Qui demeurera sur ta montagne sainte?
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: (Ps 24; 34:12-15.) Éz 18:5-9. Éz 33:14, etc. (1 Jn 2:6; 3:24.)
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Psaume de David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: O Éternel! Qui séjournera dans ta tente?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Qui demeurera sur ta montagne sainte?
   '2':
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps 24:4. És 33:15.
-  - type: text
-    content: Celui qui marche dans l’intégrité, qui pratique la justice
-  - type: text
-    content: Et qui dit la vérité selon son cœur.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 24:4
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: És 33:15
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: Celui qui marche dans l’intégrité, qui pratique la justice
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et qui dit la vérité selon son cœur.
   '3':
-  - type: text
-    content: Il ne calomnie point avec sa langue,
-  - type: text
-    content: Il ne fait point de mal à son semblable,
-  - type: text
-    content: Et il ne jette point l’opprobre sur son prochain.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Il ne calomnie point avec sa langue,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Il ne fait point de mal à son semblable,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et il ne jette point l’opprobre sur son prochain.
   '4':
-  - type: text
-    content: Il regarde avec dédain celui qui est méprisable,
-  - type: text
-    content: Mais il honore ceux qui craignent l’Éternel;
-  - type: text
-    content: Il ne se rétracte point, s’il fait un serment à son préjudice.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Il regarde avec dédain celui qui est méprisable,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mais il honore ceux qui craignent l’Éternel;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Il ne se rétracte point, s’il fait un serment à son préjudice.
   '5':
-  - type: text
-    content: Il n’exige point d’intérêt de son argent,
-  - type: text
-    content: Et il n’accepte point de don contre l’innocent.
-  - type: text
-    content: Celui qui se conduit ainsi ne chancelle jamais.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Il n’exige point d’intérêt de son argent,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et il n’accepte point de don contre l’innocent.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Celui qui se conduit ainsi ne chancelle jamais.

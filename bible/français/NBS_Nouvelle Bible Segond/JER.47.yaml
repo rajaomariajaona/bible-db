@@ -2,121 +2,787 @@ document_id: JER.47,104
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Sur les Philistins
-  - type: text
-    content: ' '
-  - type: note
-    content: Philistins / Gaza 25.20n  ; Jos 13.3 ; 1S 6.17.
-  - type: text
-    content: 'Voici la parole du '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' qui parvint à Jérémie, le prophète, au sujet des Philistins, avant que le pharaon mette à mal Gaza :'
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Sur les Philistins
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '47.1 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Philistins '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '/ '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Gaza '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '25.20'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; Jos 13.3 ; 1S 6.17.'
+      marker-yv: yv-n
+    - type: text
+      text: 'Voici la parole du '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' qui parvint à Jérémie, le prophète, au sujet des Philistins, avant que le pharaon mette à mal Gaza :'
   '2':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'Des eaux s''élèvent…  : cf. 46.7+,8 ; Es 28.2 ; 30.28 ; Na 1.8 ; Ps 124.4s. –  du nord 1.14n. –  impétueux (cf. Es 30.28n) et elles déferlent sur (autre traduction inondent ) traduisent deux formes du même verbe hébreu. –  le pays… 8.16n.'
-  - type: text
-    content: 'Ainsi parle le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: '  :'
-  - type: text
-    content: Des eaux s'élèvent du nord,
-  - type: text
-    content: elles deviennent un torrent impétueux ;
-  - type: text
-    content: elles déferlent sur le pays et sur tout ce qui s'y trouve,
-  - type: text
-    content: sur la ville et sur tous ceux qui l'habitent.
-  - type: text
-    content: Les hommes crient,
-  - type: text
-    content: tous les habitants du pays hurlent
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '47.2 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Des eaux s'élèvent…
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : cf. 46.7+,8 ; Es 28.2 ; 30.28 ; Na 1.8 ; Ps 124.4s. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'du nord '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '1.14'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'impétueux '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: (cf. Es 30.28
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: ') et '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'elles déferlent sur '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '(autre traduction '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: inondent
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ') traduisent deux formes du même verbe hébreu. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'le pays… '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '8.16'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Ainsi parle le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: '  :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Des eaux s'élèvent du nord,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: elles deviennent un torrent impétueux ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: elles déferlent sur le pays et sur tout ce qui s'y trouve,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: sur la ville et sur tous ceux qui l'habitent.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Les hommes crient,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: tous les habitants du pays hurlent
   '3':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'sabots… roues  : cf. 4.13 ; 46.9 ; Jg 5.22 ; Es 5.28 ; Ez 26.10 ; Na 2.5 ; 3.2s. –  étalons 50.11 ; Gn 49.24n. –  grondement 10.22n. –  les pères ne se tournent pas vers les fils  : ou bien en attendant d''eux le secours, ou au contraire dans leur fuite, ils ne se retournent même pas vers leurs enfants pour les sauver . –  tous ont perdu courage  : litt. les mains se sont affaiblies 6.24+.'
-  - type: text
-    content: au tonnerre des sabots de ses étalons,
-  - type: text
-    content: au grondement de ses chars
-  - type: text
-    content: et au vacarme de ses roues ;
-  - type: text
-    content: les pères ne se tournent pas vers les fils,
-  - type: text
-    content: car tous ont perdu courage.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '47.3 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: sabots… roues
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : cf. 4.13 ; 46.9 ; Jg 5.22 ; Es 5.28 ; Ez 26.10 ; Na 2.5 ; 3.2s. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'étalons '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 50.11 ; Gn 49.24
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'grondement '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '10.22'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: les pères ne se tournent pas vers les fils
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : ou bien en attendant d''eux le secours, ou au contraire '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: dans leur fuite, ils ne se retournent même pas vers leurs enfants pour les sauver
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: tous ont perdu courage
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'les mains se sont affaiblies '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 6.24+.
+      marker-yv: yv-n
+    - type: text
+      text: au tonnerre des sabots de ses étalons,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: au grondement de ses chars
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et au vacarme de ses roues ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: les pères ne se tournent pas vers les fils,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: car tous ont perdu courage.
   '4':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'il arrive, le jour Jl 1.15 ; 2.1 ; 3.4. –  toute la Philistie  : litt. tous les Philistins  ; cf. Ez 25.16 ; Jl 4.4. –  tout survivant qui puisse secourir  : le texte évoque peut-être la disparition des mercenaires philistins à la solde de la Phénicie, plus au nord sur la même côte méditerranéenne ( Tyr et Sidon  ; cf. 25.22 ; Es 23.1n) ; selon certains il s''agirait, à l''opposé, de retrancher à la Philistie tout secours possible de la part de Tyr et de Sidon. –  Kaphtor , lieu d''origine des Philistins, pourrait être la Crète ; cf. Gn 10.14n  ; Dt 2.23 ; Am 9.7.'
-  - type: text
-    content: Car il arrive, le jour
-  - type: text
-    content: de ravager toute la Philistie,
-  - type: text
-    content: de retrancher de Tyr et de Sidon
-  - type: text
-    content: tout survivant qui puisse secourir ;
-  - type: text
-    content: 'car le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' ravage la Philistie,'
-  - type: text
-    content: les restes de l'île de Kaphtor.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '47.4 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'il arrive, le jour '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Jl 1.15 ; 2.1 ; 3.4. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: toute la Philistie
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: tous les Philistins
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' ; cf. Ez 25.16 ; Jl 4.4. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: tout survivant qui puisse secourir
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : le texte évoque peut-être la disparition des mercenaires philistins à la solde de la Phénicie, plus au nord sur la même côte méditerranéenne ('
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Tyr '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'et '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Sidon
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text:  ; cf. 25.22 ; Es 23.1
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: ') ; selon certains il s''agirait, à l''opposé, de retrancher à la Philistie tout secours possible de la part de Tyr et de Sidon. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Kaphtor
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', lieu d''origine des Philistins, pourrait être la Crète ; cf. Gn 10.14'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; Dt 2.23 ; Am 9.7.'
+      marker-yv: yv-n
+    - type: text
+      text: Car il arrive, le jour
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: de ravager toute la Philistie,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: de retrancher de Tyr et de Sidon
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: tout survivant qui puisse secourir ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'car le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' ravage la Philistie,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: les restes de l'île de Kaphtor.
   '5':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'Gaza / Ashqelôn v. 1+ ; Am 1.7s. –  est tondue  : allusion à un rite de deuil (de même pour les incisions 16.6+) ; cf. 48.37 ; Es 3.24 ; Am 8.10. –  le reste de leur plaine  : LXX a lu le reste des Anaqim Nb 13.28 ; Dt 2.10s ; cf. Jos 11.22.'
-  - type: text
-    content: Gaza est tondue,
-  - type: text
-    content: Ashqelôn est réduite au silence,
-  - type: text
-    content: le reste de leur plaine aussi.
-  - type: text
-    content: Jusqu'à quand te feras-tu des incisions ?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '47.5 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Gaza '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '/ '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Ashqelôn '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'v. 1+ ; Am 1.7s. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: est tondue
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : allusion à un rite de deuil (de même pour les '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'incisions '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '16.6+) ; cf. 48.37 ; Es 3.24 ; Am 8.10. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: le reste de leur plaine
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: LXX
+        - type: text
+          text: ' a lu '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'le reste des Anaqim '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Nb 13.28 ; Dt 2.10s ; cf. Jos 11.22.
+      marker-yv: yv-n
+    - type: text
+      text: Gaza est tondue,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Ashqelôn est réduite au silence,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: le reste de leur plaine aussi.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Jusqu'à quand te feras-tu des incisions ?
   '6':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'Malheur ! 48.2. –  Epée du Seigneur 12.12+ ; 46.10 ; 50.35-38. –  fais silence  : autre traduction calme-toi.'
-  - type: text
-    content: 'Malheur ! Epée du '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ','
-  - type: text
-    content: jusqu'où iras-tu, sans repos ?
-  - type: text
-    content: Rentre dans ton fourreau,
-  - type: text
-    content: sois tranquille et fais silence.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '47.6 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Malheur ! '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '48.2. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Epée du '
+        - type: usfm
+          marker: nd
+          children:
+          - type: text
+            text: Seigneur
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '12.12+ ; 46.10 ; 50.35-38. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: fais silence
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : autre traduction '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: calme-toi.
+      marker-yv: yv-n
+    - type: text
+      text: 'Malheur ! Epée du '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: jusqu'où iras-tu, sans repos ?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Rentre dans ton fourreau,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: sois tranquille et fais silence.
   '7':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'te reposerais-tu  : versions anciennes se reposerait-elle ! –  qu''il la dirige  : litt. qu''il lui a donné rendez-vous.'
-  - type: text
-    content: – Comment te reposerais-tu ?
-  - type: text
-    content: 'C''est le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' qui lui ordonne'
-  - type: text
-    content: d'aller vers Ashqelôn et vers la côte de la mer !
-  - type: text
-    content: C'est là qu'il la dirige !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '47.7 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: te reposerais-tu
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : versions anciennes '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'se reposerait-elle ! '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '–  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: qu'il la dirige
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: qu'il lui a donné rendez-vous.
+      marker-yv: yv-n
+    - type: text
+      text: – Comment te reposerais-tu ?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'C''est le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' qui lui ordonne'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: d'aller vers Ashqelôn et vers la côte de la mer !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: C'est là qu'il la dirige !

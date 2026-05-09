@@ -2,186 +2,799 @@ document_id: ROM.1,93
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Adresse et salutation
-  - type: heading
-    content: 'V. 1-7: cf. Tit 1:1-4. Ga 1:1-5.'
-  - type: text
-    content: 'Paul, serviteur de Jésus-Christ, appelé à être apôtre, '
-  - type: note
-    content: Ac 9:15; 13:2. Ga 1:15.
-  - type: text
-    content: 'mis à part pour annoncer l’Évangile de Dieu, '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Adresse et salutation
+    marker-yv: yv-h
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: 'V. 1-7: cf. Tit 1:1-4. Ga 1:1-5.'
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Paul, serviteur de Jésus-Christ, appelé à être apôtre, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ac 9:15
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 13:2
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ga 1:15
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'mis à part pour annoncer l’Évangile de Dieu, '
   '10':
-  - type: note
-    content: Ro 15:23, 32.
-  - type: text
-    content: 'demandant continuellement dans mes prières d’avoir enfin, par sa volonté, le bonheur d’aller vers vous. '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ro 15:23
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '32'
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'demandant continuellement dans mes prières d’avoir enfin, par sa volonté, le bonheur d’aller vers vous. '
   '11':
-  - type: note
-    content: 1 Th 3:10.
-  - type: text
-    content: 'Car je désire vous voir, '
-  - type: note
-    content: Ro 15:29.
-  - type: text
-    content: 'pour vous communiquer quelque don spirituel, afin que vous soyez affermis, '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Th 3:10
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Car je désire vous voir, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ro 15:29
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'pour vous communiquer quelque don spirituel, afin que vous soyez affermis, '
   '12':
-  - type: text
-    content: 'ou plutôt, afin que nous soyons encouragés ensemble au milieu de vous par la foi qui nous est commune, à vous et à moi. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'ou plutôt, afin que nous soyons encouragés ensemble au milieu de vous par la foi qui nous est commune, à vous et à moi. '
   '13':
-  - type: text
-    content: 'Je ne veux pas vous laisser ignorer, frères, '
-  - type: note
-    content: 1 Th 2:18.
-  - type: text
-    content: 'que j’ai souvent formé le projet d’aller vous voir, afin de recueillir quelque fruit parmi vous, comme parmi les autres nations; mais j’en ai été empêché jusqu’ici. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Je ne veux pas vous laisser ignorer, frères, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Th 2:18
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'que j’ai souvent formé le projet d’aller vous voir, afin de recueillir quelque fruit parmi vous, comme parmi les autres nations; mais j’en ai été empêché jusqu’ici. '
   '14':
-  - type: note
-    content: 1 Co 9:16.
-  - type: text
-    content: 'Je me dois aux Grecs et aux barbares, aux savants et aux ignorants. '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Co 9:16
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Je me dois aux Grecs et aux barbares, aux savants et aux ignorants. '
   '15':
-  - type: text
-    content: Ainsi j’ai un vif désir de vous annoncer aussi l’Évangile, à vous qui êtes à Rome.
-  - type: heading
-    content: La justice par la foi, sujet de l’épître
-  - type: heading
-    content: 'V. 16-17: cf. Mc 16:15, 16. 1 Co 1:18-24. Ro 3:21-25.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Ainsi j’ai un vif désir de vous annoncer aussi l’Évangile, à vous qui êtes à Rome.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: La justice par la foi, sujet de l’épître
+    marker-yv: yv-h
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: 'V. 16-17: cf. Mc 16:15, 16. 1 Co 1:18-24. Ro 3:21-25.'
+    marker-yv: yv-h
   '16':
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps 40:10. 2 Ti 1:8.
-  - type: text
-    content: 'Car je n’ai point honte de l’Évangile: '
-  - type: note
-    content: 1 Co 1:18; 15:2.
-  - type: text
-    content: 'c’est une puissance de Dieu pour le salut de quiconque croit, du Juif premièrement, puis du Grec, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 40:10
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Ti 1:8
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Car je n’ai point honte de l’Évangile: '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Co 1:18
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 15:2
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'c’est une puissance de Dieu pour le salut de quiconque croit, du Juif premièrement, puis du Grec, '
   '17':
-  - type: note
-    content: Ro 3:21. Ph 3:9.
-  - type: text
-    content: 'parce qu’en lui est révélée la justice de Dieu par la foi et pour la foi, selon qu’il est écrit: '
-  - type: note
-    content: Ha 2:4. Jn 3:36. Ga 3:11. Hé 10:38.
-  - type: text
-    content: Le juste vivra par la foi.
-  - type: heading
-    content: État de péché et de condamnation de l’humanité
-  - type: heading
-    content: 'V. 18-32: cf. (Ps 19:2-5. Ac 14:16, 17.) (Ps 81:12, 13. És 44:9-20.) (Ép 4:17-19. 1 Pi 4:3-5.)'
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ro 3:21
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ph 3:9
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'parce qu’en lui est révélée la justice de Dieu par la foi et pour la foi, selon qu’il est écrit: '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ha 2:4
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jn 3:36
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ga 3:11
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Hé 10:38
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: Le juste vivra par la foi.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: État de péché et de condamnation de l’humanité
+    marker-yv: yv-h
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: 'V. 18-32: cf. (Ps 19:2-5. Ac 14:16, 17.) (Ps 81:12, 13. És 44:9-20.) (Ép 4:17-19. 1 Pi 4:3-5.)'
+    marker-yv: yv-h
   '18':
-  - type: text
-    content: 'La colère de Dieu se révèle du ciel contre toute impiété et toute injustice des hommes qui retiennent injustement la vérité captive, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'La colère de Dieu se révèle du ciel contre toute impiété et toute injustice des hommes qui retiennent injustement la vérité captive, '
   '19':
-  - type: note
-    content: Ac 14:17.
-  - type: text
-    content: 'car ce qu’on peut connaître de Dieu est manifeste pour eux, Dieu le leur ayant fait connaître. '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ac 14:17
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'car ce qu’on peut connaître de Dieu est manifeste pour eux, Dieu le leur ayant fait connaître. '
   '2':
-  - type: text
-    content: 'qui avait été '
-  - type: note
-    content: Ge 3:15; 22:18; 26:4; 49:10. De 18:15. 2 S 7:12. Ps 132:11. És 4:2; 7:14; 9:5; 40:10. Jé 23:5; 33:14. Éz 34:23; 37:24. Da 9:24. Mi 7:20.
-  - type: text
-    content: 'promis auparavant de la part de Dieu par ses prophètes dans les saintes Écritures, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'qui avait été '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ge 3:15
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 22:18
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 26:4
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 49:10
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: De 18:15
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 S 7:12
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 132:11
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: És 4:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 7:14
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 9:5
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 40:10
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jé 23:5
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 33:14
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Éz 34:23
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 37:24
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Da 9:24
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Mi 7:20
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'promis auparavant de la part de Dieu par ses prophètes dans les saintes Écritures, '
   '20':
-  - type: note
-    content: Ps 19:2.
-  - type: text
-    content: 'En effet, les perfections invisibles de Dieu, sa puissance éternelle et sa divinité, se voient comme à l’œil, depuis la création du monde, quand on les considère dans ses ouvrages. Ils sont donc inexcusables, '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 19:2
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'En effet, les perfections invisibles de Dieu, sa puissance éternelle et sa divinité, se voient comme à l’œil, depuis la création du monde, quand on les considère dans ses ouvrages. Ils sont donc inexcusables, '
   '21':
-  - type: text
-    content: 'puisque ayant connu Dieu, ils ne l’ont point glorifié comme Dieu, et ne lui ont point rendu grâces; mais '
-  - type: note
-    content: De 28:28.
-  - type: text
-    content: 'ils se sont égarés dans leurs pensées, et leur cœur sans intelligence a été plongé dans les ténèbres. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'puisque ayant connu Dieu, ils ne l’ont point glorifié comme Dieu, et ne lui ont point rendu grâces; mais '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: De 28:28
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'ils se sont égarés dans leurs pensées, et leur cœur sans intelligence a été plongé dans les ténèbres. '
   '22':
-  - type: text
-    content: 'Se vantant d’être sages, ils sont devenus fous; '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Se vantant d’être sages, ils sont devenus fous; '
   '23':
-  - type: note
-    content: 2 R 17:29.
-  - type: text
-    content: 'et ils ont changé la gloire du Dieu incorruptible en images représentant l’homme corruptible, des oiseaux, des quadrupèdes, et des reptiles. '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 R 17:29
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'et ils ont changé la gloire du Dieu incorruptible en images représentant l’homme corruptible, des oiseaux, des quadrupèdes, et des reptiles. '
   '24':
-  - type: text
-    content: 'C’est pourquoi Dieu les a livrés à l’impureté, selon les convoitises de leurs cœurs; en sorte qu’ils déshonorent eux-mêmes leurs propres corps; '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'C’est pourquoi Dieu les a livrés à l’impureté, selon les convoitises de leurs cœurs; en sorte qu’ils déshonorent eux-mêmes leurs propres corps; '
   '25':
-  - type: text
-    content: 'eux qui ont changé la vérité de Dieu en mensonge, et qui ont adoré et servi la créature au lieu du Créateur, qui est béni éternellement. Amen! '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'eux qui ont changé la vérité de Dieu en mensonge, et qui ont adoré et servi la créature au lieu du Créateur, qui est béni éternellement. Amen! '
   '26':
-  - type: text
-    content: 'C’est pourquoi Dieu les a livrés '
-  - type: note
-    content: Lé 18:22, 23.
-  - type: text
-    content: 'à des passions infâmes: car leurs femmes ont changé l’usage naturel en celui qui est contre nature; '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'C’est pourquoi Dieu les a livrés '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Lé 18:22
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '23'
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'à des passions infâmes: car leurs femmes ont changé l’usage naturel en celui qui est contre nature; '
   '27':
-  - type: text
-    content: 'et de même les hommes, abandonnant l’usage naturel de la femme, se sont enflammés dans leurs désirs les uns pour les autres, commettant homme avec homme des choses infâmes, et recevant en eux-mêmes le salaire que méritait leur égarement. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'et de même les hommes, abandonnant l’usage naturel de la femme, se sont enflammés dans leurs désirs les uns pour les autres, commettant homme avec homme des choses infâmes, et recevant en eux-mêmes le salaire que méritait leur égarement. '
   '28':
-  - type: text
-    content: 'Comme ils ne se sont pas souciés de connaître Dieu, Dieu les a livrés à leur sens réprouvé, pour commettre des choses indignes, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Comme ils ne se sont pas souciés de connaître Dieu, Dieu les a livrés à leur sens réprouvé, pour commettre des choses indignes, '
   '29':
-  - type: text
-    content: 'étant remplis de toute espèce d’injustice, de méchanceté, de cupidité, de malice; pleins d’envie, de meurtre, de querelle, de ruse, de malignité; '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'étant remplis de toute espèce d’injustice, de méchanceté, de cupidité, de malice; pleins d’envie, de meurtre, de querelle, de ruse, de malignité; '
   '3':
-  - type: text
-    content: 'et qui concerne son Fils (né de la '
-  - type: note
-    content: Mt 1:1. Lu 1:32. Ac 2:30; 13:23. 2 Ti 2:8.
-  - type: text
-    content: 'postérité de David, selon la chair, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'et qui concerne son Fils (né de la '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Mt 1:1
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Lu 1:32
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ac 2:30
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 13:23
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Ti 2:8
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'postérité de David, selon la chair, '
   '30':
-  - type: text
-    content: 'rapporteurs, médisants, impies, arrogants, hautains, fanfarons, ingénieux au mal, rebelles à leurs parents, dépourvus d’intelligence, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'rapporteurs, médisants, impies, arrogants, hautains, fanfarons, ingénieux au mal, rebelles à leurs parents, dépourvus d’intelligence, '
   '31':
-  - type: text
-    content: 'de loyauté, d’affection naturelle, de miséricorde. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'de loyauté, d’affection naturelle, de miséricorde. '
   '32':
-  - type: text
-    content: 'Et, bien qu’ils connaissent le jugement de Dieu, déclarant dignes de mort ceux qui commettent de telles choses, non seulement ils les font, '
-  - type: note
-    content: Os 7:3.
-  - type: text
-    content: mais ils approuvent ceux qui les font.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Et, bien qu’ils connaissent le jugement de Dieu, déclarant dignes de mort ceux qui commettent de telles choses, non seulement ils les font, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Os 7:3
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: mais ils approuvent ceux qui les font.
   '4':
-  - type: text
-    content: 'et déclaré '
-  - type: note
-    content: És 9:5; 44:6; 54:5. Jn 2:19. Ro 9:5. 1 Jn 5:20.
-  - type: text
-    content: 'Fils de Dieu avec puissance, selon l’Esprit de sainteté, par sa résurrection d’entre les morts), Jésus-Christ notre Seigneur, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'et déclaré '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: És 9:5
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 44:6
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 54:5
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jn 2:19
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ro 9:5
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Jn 5:20
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Fils de Dieu avec puissance, selon l’Esprit de sainteté, par sa résurrection d’entre les morts), Jésus-Christ notre Seigneur, '
   '5':
-  - type: text
-    content: 'par qui nous avons reçu la grâce et l’apostolat, pour amener en son nom à l’obéissance de la foi tous les païens, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'par qui nous avons reçu la grâce et l’apostolat, pour amener en son nom à l’obéissance de la foi tous les païens, '
   '6':
-  - type: text
-    content: 'parmi lesquels vous êtes aussi, vous qui avez été appelés par Jésus-Christ, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'parmi lesquels vous êtes aussi, vous qui avez été appelés par Jésus-Christ, '
   '7':
-  - type: text
-    content: 'à tous ceux qui, à Rome, sont bien-aimés de Dieu, '
-  - type: note
-    content: 1 Co 1:2. Ép 1:1.
-  - type: text
-    content: 'appelés à être saints: que la grâce et la paix vous soient données de la part de Dieu notre Père et du Seigneur Jésus-Christ!'
-  - type: heading
-    content: Amour de Paul pour les chrétiens de Rome. Son désir d’aller les voir
-  - type: heading
-    content: 'V. 8-15: cf. (1 Th 1:2, 3, 8; 3:7-13.) Ro 15:23-32.'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'à tous ceux qui, à Rome, sont bien-aimés de Dieu, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Co 1:2
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ép 1:1
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'appelés à être saints: que la grâce et la paix vous soient données de la part de Dieu notre Père et du Seigneur Jésus-Christ!'
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Amour de Paul pour les chrétiens de Rome. Son désir d’aller les voir
+    marker-yv: yv-h
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: 'V. 8-15: cf. (1 Th 1:2, 3, 8; 3:7-13.) Ro 15:23-32.'
+    marker-yv: yv-h
   '8':
-  - type: text
-    content: 'Je rends d’abord grâces à mon Dieu par Jésus-Christ, au sujet de vous tous, de ce que votre foi est renommée dans le monde entier. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Je rends d’abord grâces à mon Dieu par Jésus-Christ, au sujet de vous tous, de ce que votre foi est renommée dans le monde entier. '
   '9':
-  - type: note
-    content: Ro 9:1. 2 Co 1:23; 11:31. Ga 1:20. Ph 1:8. 1 Th 2:5.
-  - type: text
-    content: 'Dieu, '
-  - type: note
-    content: 2 Ti 1:3.
-  - type: text
-    content: 'que je sers en mon esprit dans l’Évangile de son Fils, m’est témoin que je fais sans cesse mention de vous, '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ro 9:1
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Co 1:23
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 11:31
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ga 1:20
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ph 1:8
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Th 2:5
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Dieu, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Ti 1:3
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'que je sers en mon esprit dans l’Évangile de son Fils, m’est témoin que je fais sans cesse mention de vous, '

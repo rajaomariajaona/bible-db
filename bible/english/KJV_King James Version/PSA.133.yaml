@@ -2,39 +2,84 @@ document_id: PSA.133,1
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: A Song of degrees of David.
-  - type: text
-    content: 'Behold, how good and how pleasant '
-  - type: text
-    content: it is
-  - type: text
-    content: For brethren to dwell together in unity!
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: A Song of degrees of David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Behold, how good and how pleasant '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: it is
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: For brethren to dwell together in unity!
   '2':
-  - type: text
-    content: ' '
-  - type: text
-    content: It is
-  - type: text
-    content: ' like the precious ointment upon the head, that ran down upon the beard,'
-  - type: text
-    content: Even
-  - type: text
-    content: ' Aaron''s beard: That went down to the skirts of his garments;'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: It is
+    - type: text
+      text: ' like the precious ointment upon the head, that ran down upon the beard,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: Even
+    - type: text
+      text: ' Aaron''s beard: That went down to the skirts of his garments;'
   '3':
-  - type: text
-    content: As the dew of Hermon,
-  - type: text
-    content: And as the dew
-  - type: text
-    content: ' that descended upon the mountains of Zion:'
-  - type: text
-    content: 'For there the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' commanded the blessing,'
-  - type: text
-    content: Even
-  - type: text
-    content: ' life for evermore.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: As the dew of Hermon,
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: And as the dew
+    - type: text
+      text: ' that descended upon the mountains of Zion:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'For there the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' commanded the blessing,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: Even
+    - type: text
+      text: ' life for evermore.'

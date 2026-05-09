@@ -2,43 +2,125 @@ document_id: PSA.43,93
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Ps 42.
-  - type: text
-    content: Rends-moi justice, ô Dieu, défends ma cause contre une nation infidèle!
-  - type: text
-    content: Délivre-moi des hommes de fraude et d’iniquité!
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: Ps 42.
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Rends-moi justice, ô Dieu, défends ma cause contre une nation infidèle!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Délivre-moi des hommes de fraude et d’iniquité!
   '2':
-  - type: text
-    content: Toi, mon Dieu protecteur, pourquoi me repousses-tu?
-  - type: text
-    content: 'Pourquoi dois-je marcher '
-  - type: note
-    content: Ps 35:14; 38:7; 42:10.
-  - type: text
-    content: dans la tristesse,
-  - type: text
-    content: Sous l’oppression de l’ennemi?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Toi, mon Dieu protecteur, pourquoi me repousses-tu?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Pourquoi dois-je marcher '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 35:14
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 38:7
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 42:10
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: dans la tristesse,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Sous l’oppression de l’ennemi?
   '3':
-  - type: text
-    content: Envoie ta lumière et ta fidélité!
-  - type: text
-    content: Qu’elles me guident,
-  - type: text
-    content: Qu’elles me conduisent à ta montagne sainte et à tes demeures!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Envoie ta lumière et ta fidélité!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Qu’elles me guident,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Qu’elles me conduisent à ta montagne sainte et à tes demeures!
   '4':
-  - type: text
-    content: J’irai vers l’autel de Dieu, de Dieu, ma joie et mon allégresse,
-  - type: text
-    content: Et je te célébrerai sur la harpe, ô Dieu, mon Dieu!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: J’irai vers l’autel de Dieu, de Dieu, ma joie et mon allégresse,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et je te célébrerai sur la harpe, ô Dieu, mon Dieu!
   '5':
-  - type: text
-    content: ' '
-  - type: note
-    content: Ps 42:6, 12.
-  - type: text
-    content: Pourquoi t’abats-tu, mon âme, et gémis-tu au-dedans de moi?
-  - type: text
-    content: Espère en Dieu, car je le louerai encore;
-  - type: text
-    content: Il est mon salut et mon Dieu.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 42:6
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '12'
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: Pourquoi t’abats-tu, mon âme, et gémis-tu au-dedans de moi?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Espère en Dieu, car je le louerai encore;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Il est mon salut et mon Dieu.

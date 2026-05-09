@@ -2,43 +2,92 @@ document_id: JER.45,1588
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: Message to Baruch
-  - type: text
-    content: 'The word that Jeremiah the prophet spoke to '
-  - type: note
-    content: Baruch served as Jeremiah’s faithful friend and scribe, and he carefully recorded the prophecies given to Jeremiah by God. He was from a prominent family and his grandfather Maaseiah had been governor of Jerusalem in the days of King Josiah (2 Chr 34:8).
-  - type: text
-    content: 'Baruch the son of Neriah, when he had written these words in a book at the dictation of Jeremiah, in the fourth year of Jehoiakim the son of Josiah, king of Judah, saying, '
+  - type: usfm
+    marker: s1
+    children:
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: Message to Baruch
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'The word that Jeremiah the prophet spoke to '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '45:1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Baruch served as Jeremiah’s faithful friend and scribe, and he carefully recorded the prophecies given to Jeremiah by God. He was from a prominent family and his grandfather Maaseiah had been governor of Jerusalem in the days of King Josiah (2 Chr 34:8).
+      marker-yv: yv-n
+    - type: text
+      text: 'Baruch the son of Neriah, when he had written these words in a book at the dictation of Jeremiah, in the fourth year of Jehoiakim the son of Josiah, king of Judah, saying, '
   '2':
-  - type: text
-    content: “Thus says the L
-  - type: heading
-    content: ord
-  - type: text
-    content: ', the God of Israel, to you, O Baruch: '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: “Thus says the L
+    - type: usfm
+      marker: sc
+      children:
+      - type: text
+        text: ord
+    - type: text
+      text: ', the God of Israel, to you, O Baruch: '
   '3':
-  - type: text
-    content: ‘You said, “Woe is me! For the L
-  - type: heading
-    content: ord
-  - type: text
-    content: ' has added sorrow to my pain; I am weary with my groaning '
-  - type: text
-    content: and
-  - type: text
-    content: ' sighing and I find no rest.” ’ '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: ‘You said, “Woe is me! For the L
+    - type: usfm
+      marker: sc
+      children:
+      - type: text
+        text: ord
+    - type: text
+      text: ' has added sorrow to my pain; I am weary with my groaning '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: and
+    - type: text
+      text: ' sighing and I find no rest.” ’ '
   '4':
-  - type: text
-    content: Say this to him, ‘The L
-  - type: heading
-    content: ord
-  - type: text
-    content: ' speaks in this way, “Behold, what I have built I will break down, and that which I have planted I will uproot, that is, the whole land.” '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Say this to him, ‘The L
+    - type: usfm
+      marker: sc
+      children:
+      - type: text
+        text: ord
+    - type: text
+      text: ' speaks in this way, “Behold, what I have built I will break down, and that which I have planted I will uproot, that is, the whole land.” '
   '5':
-  - type: text
-    content: And do you seek great things for yourself? Do not seek them; for behold, I will bring disaster on all flesh,’ says the L
-  - type: heading
-    content: ord
-  - type: text
-    content: ', ‘but I will give your life to you [as your only reward and] as a prize of war wherever you go.’ ”'
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: And do you seek great things for yourself? Do not seek them; for behold, I will bring disaster on all flesh,’ says the L
+    - type: usfm
+      marker: sc
+      children:
+      - type: text
+        text: ord
+    - type: text
+      text: ', ‘but I will give your life to you [as your only reward and] as a prize of war wherever you go.’ ”'

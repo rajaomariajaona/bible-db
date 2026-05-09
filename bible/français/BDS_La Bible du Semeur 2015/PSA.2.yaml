@@ -2,90 +2,280 @@ document_id: PSA.2,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: L’intronisation du Roi
-  - type: text
-    content: Pourquoi tant d’effervescence ╵parmi les nations ?
-  - type: text
-    content: Et pourquoi les peuples ╵trament-ils ces complots inutiles ?
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: L’intronisation du Roi
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Pourquoi tant d’effervescence ╵parmi les nations ?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et pourquoi les peuples ╵trament-ils ces complots inutiles ?
   '10':
-  - type: text
-    content: C’est pourquoi, rois de la terre, ╵montrez-vous intelligents,
-  - type: text
-    content: vous qui exercez ╵le gouvernement ╵en ce monde, ╵laissez-vous donc avertir !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: C’est pourquoi, rois de la terre, ╵montrez-vous intelligents,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: vous qui exercez ╵le gouvernement ╵en ce monde, ╵laissez-vous donc avertir !
   '11':
-  - type: text
-    content: Servez l’Eternel ╵avec crainte !
-  - type: text
-    content: Et, tout en tremblant, ╵exultez de joie !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Servez l’Eternel ╵avec crainte !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et, tout en tremblant, ╵exultez de joie !
   '12':
-  - type: text
-    content: Au Fils, rendez votre hommage
-  - type: note
-    content: 'Hébreu difficile. Litt. : Baisez le fils, si on interprète le mot fils comme un terme araméen.'
-  - type: text
-    content: ', ╵pour éviter qu’il s’irrite'
-  - type: text
-    content: et que vous périssiez tous ╵dans la voie que vous suivez.
-  - type: text
-    content: En un instant, sa colère ╵contre vous peut s’enflammer.
-  - type: text
-    content: Oui, heureux sont tous les hommes ╵qui, en lui, cherchent refuge !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Au Fils, rendez votre hommage
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.12 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Hébreu difficile. Litt. : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Baisez le fils, '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'si on interprète le mot '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'fils '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: comme un terme araméen.
+      marker-yv: yv-n
+    - type: text
+      text: ', ╵pour éviter qu’il s’irrite'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et que vous périssiez tous ╵dans la voie que vous suivez.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: En un instant, sa colère ╵contre vous peut s’enflammer.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Oui, heureux sont tous les hommes ╵qui, en lui, cherchent refuge !
   '2':
-  - type: text
-    content: Pourquoi les rois de la terre ╵se sont-ils tous soulevés
-  - type: text
-    content: et les grands conspirent-ils ensemble
-  - type: text
-    content: contre l’Eternel ╵et contre l’homme qui a reçu ╵l’onction de sa part
-  - type: note
-    content: Les v. 1-2 sont cités, d’après la version grecque, en Ac 4.25-26 où les apôtres appliquent ces paroles à Hérode et à Pilate, aux Juifs et aux païens, qui se sont « ligués » contre Jésus-Christ.
-  - type: text
-    content: '  ?'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Pourquoi les rois de la terre ╵se sont-ils tous soulevés
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et les grands conspirent-ils ensemble
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: contre l’Eternel ╵et contre l’homme qui a reçu ╵l’onction de sa part
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.2 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Les v. 1-2 sont cités, d’après la version grecque, en '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Ac 4.25-26
+        - type: text
+          text: ' où les apôtres appliquent ces paroles à Hérode et à Pilate, aux Juifs et aux païens, qui se sont « ligués » contre Jésus-Christ.'
+      marker-yv: yv-n
+    - type: text
+      text: '  ?'
   '3':
-  - type: text
-    content: 'Ils s’écrient :'
-  - type: text
-    content: « Faisons sauter tous leurs liens
-  - type: text
-    content: et jetons au loin leurs chaînes ! »
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Ils s’écrient :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: « Faisons sauter tous leurs liens
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et jetons au loin leurs chaînes ! »
   '4':
-  - type: text
-    content: Mais il rit, celui qui siège ╵sur son trône dans les cieux. ╵Le Seigneur se moque d’eux.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mais il rit, celui qui siège ╵sur son trône dans les cieux. ╵Le Seigneur se moque d’eux.
   '5':
-  - type: text
-    content: Dans sa colère il leur parle,
-  - type: text
-    content: dans sa fureur il les épouvante,
-  - type: text
-    content: 'en leur tenant ce discours :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Dans sa colère il leur parle,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: dans sa fureur il les épouvante,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'en leur tenant ce discours :'
   '6':
-  - type: text
-    content: « Moi, j’ai établi ╵mon Roi par l’onction
-  - type: text
-    content: sur Sion, ma montagne sainte. »
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: « Moi, j’ai établi ╵mon Roi par l’onction
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: sur Sion, ma montagne sainte. »
   '7':
-  - type: text
-    content: Je publierai le décret ╵qu’a promulgué l’Eternel.
-  - type: text
-    content: 'Il m’a dit : « Tu es mon Fils ;'
-  - type: text
-    content: aujourd’hui, ╵je fais de toi mon enfant
-  - type: note
-    content: Le jour de son intronisation, le roi est adopté par Dieu comme son fils (cf. 2 S 7.5, 14). Cité en Ac 13.33 ; Hé 1.5 ; 5.5.
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Je publierai le décret ╵qu’a promulgué l’Eternel.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Il m’a dit : « Tu es mon Fils ;'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: aujourd’hui, ╵je fais de toi mon enfant
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.7 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Le jour de son intronisation, le roi est adopté par Dieu comme son fils (cf. '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: 2 S 7.5
+        - type: text
+          text: ', '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: '14'
+        - type: text
+          text: ). Cité en Ac 13.33 ; Hé 1.5 ; 5.5.
+      marker-yv: yv-n
+    - type: text
+      text: .
   '8':
-  - type: text
-    content: 'Demande-moi : Que veux-tu ? ╵Je te donne en patrimoine ╵tous les peuples de la terre ;'
-  - type: text
-    content: et le monde, ╵jusqu’en ses confins lointains, ╵sera ta propriété.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Demande-moi : Que veux-tu ? ╵Je te donne en patrimoine ╵tous les peuples de la terre ;'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et le monde, ╵jusqu’en ses confins lointains, ╵sera ta propriété.
   '9':
-  - type: text
-    content: Avec un sceptre de fer, ╵tu les soumettras
-  - type: note
-    content: 'D’après la vocalisation suivie par les versions grecque et syriaque. Le texte hébreu traditionnel a : tu les briseras. Réminiscences en Ap 2.26-27 ; 12.5 ; 19.15.'
-  - type: text
-    content: '  ;'
-  - type: text
-    content: comme des vases d’argile, ╵tu les briseras. »
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Avec un sceptre de fer, ╵tu les soumettras
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.9 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'D’après la vocalisation suivie par les versions grecque et syriaque. Le texte hébreu traditionnel a : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'tu les briseras. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Réminiscences en Ap 2.26-27 ; 12.5 ; 19.15.
+      marker-yv: yv-n
+    - type: text
+      text: '  ;'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: comme des vases d’argile, ╵tu les briseras. »

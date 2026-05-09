@@ -2,57 +2,114 @@ document_id: PSA.70,1
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: 'To the chief Musician, '
-  - type: text
-    content: A Psalm
-  - type: text
-    content: ' of David, to bring to remembrance.'
-  - type: text
-    content: ' '
-  - type: text
-    content: Make haste
-  - type: text
-    content: ', O God, to deliver me;'
-  - type: text
-    content: 'Make haste to help me, O '
-  - type: text
-    content: LORD
-  - type: text
-    content: .
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'To the chief Musician, '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: A Psalm
+    - type: text
+      text: ' of David, to bring to remembrance.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: Make haste
+    - type: text
+      text: ', O God, to deliver me;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Make haste to help me, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: .
   '2':
-  - type: text
-    content: 'Let them be ashamed and confounded that seek after my soul:'
-  - type: text
-    content: Let them be turned backward, and put to confusion, that desire my hurt.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Let them be ashamed and confounded that seek after my soul:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Let them be turned backward, and put to confusion, that desire my hurt.
   '3':
-  - type: text
-    content: Let them be turned back for a reward of their shame
-  - type: text
-    content: That say, Aha, aha.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Let them be turned back for a reward of their shame
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: That say, Aha, aha.
   '4':
-  - type: text
-    content: 'Let all those that seek thee rejoice and be glad in thee:'
-  - type: text
-    content: And let such as love thy salvation say continually, let God be magnified.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Let all those that seek thee rejoice and be glad in thee:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: And let such as love thy salvation say continually, let God be magnified.
   '5':
-  - type: text
-    content: 'But I '
-  - type: text
-    content: am
-  - type: text
-    content: ' poor and needy;'
-  - type: text
-    content: 'Make haste unto me, O God:'
-  - type: text
-    content: 'Thou '
-  - type: text
-    content: art
-  - type: text
-    content: ' my help and my deliverer;'
-  - type: text
-    content: 'O '
-  - type: text
-    content: LORD
-  - type: text
-    content: ', make no tarrying.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'But I '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: am
+    - type: text
+      text: ' poor and needy;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Make haste unto me, O God:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Thou '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: art
+    - type: text
+      text: ' my help and my deliverer;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ', make no tarrying.'

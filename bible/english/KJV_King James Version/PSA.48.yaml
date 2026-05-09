@@ -2,128 +2,260 @@ document_id: PSA.48,1
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: 'A Song '
-  - type: text
-    content: and
-  - type: text
-    content: ' Psalm for the sons of Korah.'
-  - type: text
-    content: 'Great '
-  - type: text
-    content: is
-  - type: text
-    content: ' the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ', and greatly to be praised'
-  - type: text
-    content: 'In the city of our God, '
-  - type: text
-    content: in
-  - type: text
-    content: ' the mountain of his holiness.'
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'A Song '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: and
+    - type: text
+      text: ' Psalm for the sons of Korah.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Great '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ', and greatly to be praised'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'In the city of our God, '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: in
+    - type: text
+      text: ' the mountain of his holiness.'
   '10':
-  - type: text
-    content: 'According to thy name, O God, so '
-  - type: text
-    content: is
-  - type: text
-    content: ' thy praise unto the ends of the earth:'
-  - type: text
-    content: Thy right hand is full of righteousness.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'According to thy name, O God, so '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' thy praise unto the ends of the earth:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Thy right hand is full of righteousness.
   '11':
-  - type: text
-    content: Let mount Zion rejoice,
-  - type: text
-    content: Let the daughters of Judah be glad, because of thy judgments.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Let mount Zion rejoice,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Let the daughters of Judah be glad, because of thy judgments.
   '12':
-  - type: text
-    content: 'Walk about Zion, and go round about her:'
-  - type: text
-    content: Tell the towers thereof.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Walk about Zion, and go round about her:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Tell the towers thereof.
   '13':
-  - type: text
-    content: Mark ye well her bulwarks, consider her palaces;
-  - type: text
-    content: 'That ye may tell '
-  - type: text
-    content: it
-  - type: text
-    content: ' to the generation following.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mark ye well her bulwarks, consider her palaces;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'That ye may tell '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: it
+    - type: text
+      text: ' to the generation following.'
   '14':
-  - type: text
-    content: 'For this God '
-  - type: text
-    content: is
-  - type: text
-    content: ' our God for ever and ever:'
-  - type: text
-    content: 'He will be our guide '
-  - type: text
-    content: even
-  - type: text
-    content: ' unto death.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'For this God '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: is
+    - type: text
+      text: ' our God for ever and ever:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'He will be our guide '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: even
+    - type: text
+      text: ' unto death.'
   '2':
-  - type: text
-    content: Beautiful for situation, the joy of the whole earth,
-  - type: text
-    content: Is
-  - type: text
-    content: ' mount Zion, '
-  - type: text
-    content: on
-  - type: text
-    content: ' the sides of the north,'
-  - type: text
-    content: 'The city of the great King. '
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Beautiful for situation, the joy of the whole earth,
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: Is
+    - type: text
+      text: ' mount Zion, '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: on
+    - type: text
+      text: ' the sides of the north,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The city of the great King. '
   '3':
-  - type: text
-    content: God is known in her palaces for a refuge.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: God is known in her palaces for a refuge.
   '4':
-  - type: text
-    content: For, lo, the kings were assembled,
-  - type: text
-    content: They passed by together.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: For, lo, the kings were assembled,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: They passed by together.
   '5':
-  - type: text
-    content: 'They saw '
-  - type: text
-    content: it, and
-  - type: text
-    content: ' so they marvelled;'
-  - type: text
-    content: 'They were troubled, '
-  - type: text
-    content: and
-  - type: text
-    content: ' hasted away.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'They saw '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: it, and
+    - type: text
+      text: ' so they marvelled;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'They were troubled, '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: and
+    - type: text
+      text: ' hasted away.'
   '6':
-  - type: text
-    content: Fear took hold upon them there,
-  - type: text
-    content: And
-  - type: text
-    content: ' pain, as of a woman in travail.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Fear took hold upon them there,
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: And
+    - type: text
+      text: ' pain, as of a woman in travail.'
   '7':
-  - type: text
-    content: Thou breakest the ships of Tarshish
-  - type: text
-    content: With an east wind.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Thou breakest the ships of Tarshish
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: With an east wind.
   '8':
-  - type: text
-    content: 'As we have heard, so have we seen in the city of the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' of hosts, in the city of our God:'
-  - type: text
-    content: 'God will establish it for ever. '
-  - type: text
-    content: Selah.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'As we have heard, so have we seen in the city of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' of hosts, in the city of our God:'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'God will establish it for ever. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Selah.
   '9':
-  - type: text
-    content: We have thought of thy lovingkindness, O God,
-  - type: text
-    content: In the midst of thy temple.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: We have thought of thy lovingkindness, O God,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: In the midst of thy temple.

@@ -2,177 +2,1109 @@ document_id: PSA.29,104
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: La voix du Seigneur
-  - type: text
-    content: ' '
-  - type: note
-    content: 'On a observé de nombreuses analogies entre ce psaume et des hymnes d''Ougarit adressés à Baal, dieu de l''orage. –  Psaume. De David 3.1n  ; LXX ajoute en quittant la tente , ce qui pourrait signifier que ce psaume était chanté à la fin de la fête des Huttes ou des Tentes (cf. Dt 16.13-15 ; Za 14.16-19 ; voir aussi calendrier et fêtes). –  Fils des dieux (hébreu ’élim , pluriel de ’el , traduit par Dieu au v. 3, voir Gn 21.33n) : l''expression peut être comprise au sens de dieux, êtres divins  ; cf. 82.1 ; 89.7 ; 97.7 ; 138.1n  ; 148.1ss ; certains mss portent béliers au lieu de dieux , ce qui donne  : Donnez au Seigneur des béliers. –  donnez au Seigneur … 96.7s ; 1Ch 16.28s.'
-  - type: text
-    content: Psaume. De David.
-  - type: text
-    content: 'Fils des dieux, donnez au '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' (YHWH),'
-  - type: text
-    content: 'donnez au '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' gloire et puissance !'
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: 'La voix du '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '29.1 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'On a observé de nombreuses analogies entre ce psaume et des hymnes '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: d'Ougarit
+        - type: text
+          text: ' adressés à '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: Baal
+        - type: text
+          text: ', dieu de l''orage. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Psaume. De David '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '3.1'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: LXX
+        - type: text
+          text: ' ajoute '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: en quittant la tente
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', ce qui pourrait signifier que ce psaume était chanté à la fin de la fête des Huttes ou des Tentes (cf. Dt 16.13-15 ; Za 14.16-19 ; voir aussi '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: calendrier
+        - type: text
+          text: ' et fêtes). –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: Fils
+        - type: text
+          text: ' des dieux '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '(hébreu '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: ’élim
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', pluriel de '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: ’el
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', traduit par '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Dieu '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: au v. 3, voir Gn 21.33
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: ') : l''expression peut être comprise au sens de '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: dieux, êtres divins
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text:  ; cf. 82.1 ; 89.7 ; 97.7 ; 138.1
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; 148.1ss ; certains mss portent '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'béliers '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'au lieu de '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: dieux
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', ce qui donne'
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Donnez au '
+        - type: usfm
+          marker: nd
+          children:
+          - type: text
+            text: Seigneur
+        - type: text
+          text: ' des béliers. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '–  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'donnez au '
+        - type: usfm
+          marker: nd
+          children:
+          - type: text
+            text: Seigneur
+        - type: text
+          text: ' … '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 96.7s ; 1Ch 16.28s.
+      marker-yv: yv-n
+    - type: text
+      text: Psaume. De David.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Fils des dieux, donnez au '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' (YHWH),'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'donnez au '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' gloire et puissance !'
   '10':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'habite le déluge  : autre traduction est assis (comme roi, ou comme juge) sur le déluge , ce dernier terme désignant probablement ici les « eaux d''en haut » associées aux récits de la création et du déluge ; certains comprennent était installé lors du déluge  ; cf. 9.8 ; 93.1ss ; 102.13 ; 104.3+ ; Gn 6.17n.'
-  - type: text
-    content: 'Le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' habite le déluge,'
-  - type: text
-    content: 'le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' est assis en roi pour toujours.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '29.10 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: habite le déluge
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : autre traduction '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'est assis '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '(comme roi, ou comme juge) '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: sur le déluge
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ', ce dernier terme désignant probablement ici les « eaux d''en haut » associées aux récits de la création et du déluge ; certains comprennent '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: était installé lors du déluge
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text:  ; cf. 9.8 ; 93.1ss ; 102.13 ; 104.3+ ; Gn 6.17
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: 'Le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' habite le déluge,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' est assis en roi pour toujours.'
   '11':
-  - type: text
-    content: ' '
-  - type: note
-    content: 28.8n. –  par (ou dans ) la paix ou la prospérité.
-  - type: text
-    content: 'Le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' donnera la puissance à son peuple ;'
-  - type: text
-    content: 'le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' bénira son peuple par la paix.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '29.11 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '28.8'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'par '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '(ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: dans
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ') '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'la '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: paix
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: la prospérité.
+      marker-yv: yv-n
+    - type: text
+      text: 'Le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' donnera la puissance à son peuple ;'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' bénira son peuple par la paix.'
   '2':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'quand éclate sa sainteté  : traduction incertaine, litt. dans l''éclat de la sainteté  ; on a aussi compris avec des ornements sacrés  ; versions anciennes dans sa cour sacrée  ; cf. 96.9 ; 110.3n  ; 1Ch 16.29 ; 2Ch 20.21.'
-  - type: text
-    content: 'Donnez au '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' la gloire de son nom !'
-  - type: text
-    content: 'Prosternez-vous devant le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' quand éclate sa sainteté !'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '29.2 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'quand éclate sa '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: sainteté
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : traduction incertaine, litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: dans l'éclat de la sainteté
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' ; on a aussi compris '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: avec des ornements sacrés
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' ; versions anciennes '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: dans sa cour sacrée
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text:  ; cf. 96.9 ; 110.3
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; 1Ch 16.29 ; 2Ch 20.21.'
+      marker-yv: yv-n
+    - type: text
+      text: 'Donnez au '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' la gloire de son nom !'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Prosternez-vous devant le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' quand éclate sa sainteté !'
   '3':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'La voix du Seigneur  : cette expression, qui revient sept fois dans le psaume, y désigne manifestement le tonnerre ; cf. 18.11-16 ; 46.7 ; 68.34 ; 77.17-19 ; 97.2-4 ; 104.7 ; Ex 9.23n  ; 19.16,18,19 ; 1S 2.10 ; 7.10 ; 12.16ss ; Es 30.30 ; Jr 25.30 ; Jl 4.16 ; Am 1.2 ; Ha 3 ; Jb 37.2-5 ; voir aussi Ap 10.3. –  retentit et est sont sous-entendus dans le texte. –  sur les eaux  : cf. v. 10+ ; Gn 1.7. –  Dieu glorieux  : cf. 24.7-10 ; Ac 7.2.'
-  - type: text
-    content: 'La voix du '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' retentit sur les eaux,'
-  - type: text
-    content: le Dieu glorieux fait gronder le tonnerre ;
-  - type: text
-    content: 'le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' est sur les grandes eaux.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '29.3 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'La voix du '
+        - type: usfm
+          marker: nd
+          children:
+          - type: text
+            text: Seigneur
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : cette expression, qui revient sept fois dans le psaume, y désigne manifestement le tonnerre ; cf. 18.11-16 ; 46.7 ; 68.34 ; 77.17-19 ; 97.2-4 ; 104.7 ; Ex 9.23'
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; 19.16,18,19 ; 1S 2.10 ; 7.10 ; 12.16ss ; Es 30.30 ; Jr 25.30 ; Jl 4.16 ; Am 1.2 ; Ha 3 ; Jb 37.2-5 ; voir aussi Ap 10.3. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'retentit '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'et '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'est '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'sont sous-entendus dans le texte. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: sur les eaux
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : cf. v. 10+ ; Gn 1.7. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Dieu '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: glorieux
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : cf. 24.7-10 ; Ac 7.2.'
+      marker-yv: yv-n
+    - type: text
+      text: 'La voix du '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' retentit sur les eaux,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: le Dieu glorieux fait gronder le tonnerre ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' est sur les grandes eaux.'
   '4':
-  - type: text
-    content: 'La voix du '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ', avec puissance,'
-  - type: text
-    content: 'la voix du '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ', avec magnificence,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'La voix du '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ', avec puissance,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'la voix du '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ', avec magnificence,'
   '5':
-  - type: text
-    content: ' '
-  - type: note
-    content: cèdres du Liban 92.13 ; 104.16 ; Es 2.13+.
-  - type: text
-    content: 'la voix du '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' brise les cèdres ;'
-  - type: text
-    content: 'le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' brise les cèdres du Liban,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '29.5 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'cèdres du Liban '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 92.13 ; 104.16 ; Es 2.13+.
+      marker-yv: yv-n
+    - type: text
+      text: 'la voix du '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' brise les cèdres ;'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' brise les cèdres du Liban,'
   '6':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'Autre traduction  : il les fait bondir, le Liban comme un taurillon et le Siriôn (nom cananéen du mont Hermon, cf. 42.7 ; 89.13 ; 133.3 ; Dt 3.9) comme un aurochs (cf. Ps 92.11+) ; voir aussi Ps 114.4. –  il fait bondir  : sous-entendu dans le texte.'
-  - type: text
-    content: il les fait bondir comme un taurillon,
-  - type: text
-    content: il fait bondir le Liban et le Siriôn comme un aurochs.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '29.6 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Autre traduction
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'il les fait bondir, le Liban comme un taurillon et le Siriôn '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '(nom cananéen du mont Hermon, cf. 42.7 ; 89.13 ; 133.3 ; Dt 3.9) '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'comme un aurochs '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '(cf. Ps 92.11+) ; voir aussi Ps 114.4. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: il fait bondir
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : sous-entendu dans le texte.'
+      marker-yv: yv-n
+    - type: text
+      text: il les fait bondir comme un taurillon,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: il fait bondir le Liban et le Siriôn comme un aurochs.
   '7':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'feux flamboyants  : litt. flammes de feu  ; autre traduction éclairs  ; cf. v. 3n  ; 104.4 ; Es 30.27 ; Na 3.3 ; Ha 3.11 ; voir aussi Gn 3.24.'
-  - type: text
-    content: 'La voix du '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' fait jaillir des feux flamboyants.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '29.7 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: feux flamboyants
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : litt. '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: flammes de feu
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' ; autre traduction '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: éclairs
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text:  ; cf. v. 3
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '  ; 104.4 ; Es 30.27 ; Na 3.3 ; Ha 3.11 ; voir aussi Gn 3.24.'
+      marker-yv: yv-n
+    - type: text
+      text: 'La voix du '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' fait jaillir des feux flamboyants.'
   '8':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'Qadesh ( Saint ou Sacré ) : cf. Nb 20.'
-  - type: text
-    content: 'La voix du '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' fait trembler le désert ;'
-  - type: text
-    content: 'le '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' fait trembler le désert de Qadesh.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '29.8 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Qadesh '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: (
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Saint '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: Sacré
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ') : cf. Nb 20.'
+      marker-yv: yv-n
+    - type: text
+      text: 'La voix du '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' fait trembler le désert ;'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'le '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' fait trembler le désert de Qadesh.'
   '9':
-  - type: text
-    content: ' '
-  - type: note
-    content: 'fait accoucher les biches  : texte obscur et traduction incertaine ; certains comprennent fait trembler les chênes  ; cf. Jb 39.1-4. –  son temple ou son palais  ; cf. 11.4n. –  Gloire v. 1s ; 19.2 ; 148.1 ; Es 6.3.'
-  - type: text
-    content: 'La voix du '
-  - type: text
-    content: Seigneur
-  - type: text
-    content: ' fait accoucher les biches,'
-  - type: text
-    content: elle dépouille les forêts.
-  - type: text
-    content: Et dans son temple
-  - type: text
-    content: 'tout s''écrie : Gloire !'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '29.9 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: fait accoucher les biches
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' : texte obscur et traduction incertaine ; certains comprennent '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: fait trembler les chênes
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' ; cf. Jb 39.1-4. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'son '
+        - type: usfm
+          marker: w
+          children:
+          - type: text
+            text: temple
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'ou '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: son palais
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: ' '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text:  ; cf. 11.4
+        - type: usfm
+          marker: ord
+          children:
+          - type: text
+            text: n
+        - type: text
+          text: '. –  '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'Gloire '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: v. 1s ; 19.2 ; 148.1 ; Es 6.3.
+      marker-yv: yv-n
+    - type: text
+      text: 'La voix du '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Seigneur
+    - type: text
+      text: ' fait accoucher les biches,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: elle dépouille les forêts.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et dans son temple
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'tout s''écrie : Gloire !'

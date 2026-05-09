@@ -2,64 +2,257 @@ document_id: ISA.20,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: A Sign Against Egypt and Cush
-  - type: text
-    content: 'In the year that '
-  - type: note
-    content: 2 Kgs. 18:17
-  - type: text
-    content: 'the commander in chief, who was sent by Sargon the king of Assyria, came to '
-  - type: note
-    content: 1 Sam. 5:1
-  - type: text
-    content: 'Ashdod and fought against it and captured it— '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: A Sign Against Egypt and Cush
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'In the year that '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Kgs. 18:17
+      marker-yv: yv-n
+    - type: text
+      text: 'the commander in chief, who was sent by Sargon the king of Assyria, came to '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Sam. 5:1
+      marker-yv: yv-n
+    - type: text
+      text: 'Ashdod and fought against it and captured it— '
   '2':
-  - type: text
-    content: 'at that time the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' spoke by Isaiah the son of Amoz, saying, “Go, and loose the sackcloth from your waist and take off your sandals from your feet,” and he did so, walking '
-  - type: note
-    content: Mic. 1:8, 11; [1 Sam. 19:24]
-  - type: text
-    content: naked and barefoot.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'at that time the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' spoke by Isaiah the son of Amoz, saying, “Go, and loose the sackcloth from your waist and take off your sandals from your feet,” and he did so, walking '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Mic. 1:8
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '11'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Sam. 19:24
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: naked and barefoot.
   '3':
-  - type: text
-    content: 'Then the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' said, “As my servant Isaiah has walked naked and barefoot for three years '
-  - type: note
-    content: '[ch. 8:18]'
-  - type: text
-    content: as a sign and a portent against Egypt and Cush,
-  - type: note
-    content: Probably Nubia
-  - type: text
-    content: ' '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Then the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' said, “As my servant Isaiah has walked naked and barefoot for three years '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 8:18
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: as a sign and a portent against Egypt and Cush,
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '20:3 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Probably '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: Nubia
+      marker-yv: yv-n
+    - type: text
+      text: ' '
   '4':
-  - type: text
-    content: 'so shall the '
-  - type: note
-    content: ch. 19:4
-  - type: text
-    content: 'king of Assyria lead away the Egyptian captives and the Cushite exiles, both the young and the old, naked and barefoot, with buttocks uncovered, the nakedness of Egypt. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'so shall the '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 19:4
+      marker-yv: yv-n
+    - type: text
+      text: 'king of Assyria lead away the Egyptian captives and the Cushite exiles, both the young and the old, naked and barefoot, with buttocks uncovered, the nakedness of Egypt. '
   '5':
-  - type: note
-    content: ch. 30:3, 5; [ch. 37:9]
-  - type: text
-    content: 'Then they shall be dismayed and ashamed because of Cush their hope and of Egypt their boast. '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 30:3
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '5'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 37:9
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'Then they shall be dismayed and ashamed because of Cush their hope and of Egypt their boast. '
   '6':
-  - type: text
-    content: 'And the inhabitants of '
-  - type: note
-    content: Jer. 47:7; [ch. 14:29, 31]
-  - type: text
-    content: 'this coastland will say in that day, ‘Behold, this is what has happened to those in whom we hoped and '
-  - type: note
-    content: '[ch. 37:6]'
-  - type: text
-    content: to whom we fled for help to be delivered from the king of Assyria! And we, how shall we escape?’”
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'And the inhabitants of '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jer. 47:7
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: text
+        text: 14:29, 31
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'this coastland will say in that day, ‘Behold, this is what has happened to those in whom we hoped and '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 37:6
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: to whom we fled for help to be delivered from the king of Assyria! And we, how shall we escape?’”

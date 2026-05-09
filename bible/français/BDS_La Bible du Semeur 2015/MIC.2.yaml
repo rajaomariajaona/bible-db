@@ -2,179 +2,625 @@ document_id: MIC.2,21
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: Contre les accapareurs
-  - type: text
-    content: Malheur à ceux ╵qui méditent le mal
-  - type: text
-    content: et trament des méfaits ╵alors qu’ils sont couchés.
-  - type: text
-    content: Au point du jour, ╵ils vont les accomplir
-  - type: text
-    content: en profitant de leur pouvoir.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Contre les accapareurs
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: Malheur à ceux ╵qui méditent le mal
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et trament des méfaits ╵alors qu’ils sont couchés.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Au point du jour, ╵ils vont les accomplir
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: en profitant de leur pouvoir.
   '10':
-  - type: text
-    content: Debout ! Allez-vous-en !
-  - type: text
-    content: Car ce pays n’est plus ╵un lieu paisible
-  - type: text
-    content: parce qu’il est souillé,
-  - type: text
-    content: et il sera la cause
-  - type: text
-    content: d’une terrible destruction
-  - type: note
-    content: Voir Lv 18.25, 28.
-  - type: text
-    content: '  ;'
-  - type: text
-    content: la douleur en sera extrême.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Debout ! Allez-vous-en !
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Car ce pays n’est plus ╵un lieu paisible
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: parce qu’il est souillé,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et il sera la cause
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: d’une terrible destruction
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.10 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Voir '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Lv 18.25
+        - type: text
+          text: ', '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: '28'
+        - type: text
+          text: .
+      marker-yv: yv-n
+    - type: text
+      text: '  ;'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: la douleur en sera extrême.
   '11':
-  - type: text
-    content: Car si un homme vient ╵qui court après le vent,
-  - type: text
-    content: 'qui profère des mensonges et qui dit :'
-  - type: text
-    content: « Pour toi je vais débiter des paroles
-  - type: note
-    content: Voir 2.6 et note.
-  - type: text
-    content: ','
-  - type: text
-    content: distiller du bon vin
-  - type: note
-    content: 'Autre traduction : pour du bon vin. Soit les paroles agréables distillées par les faux prophètes sont comparées à du bon vin, soit les faux prophètes distillent de telles paroles pour être payés en retour par du bon vin de la part de leurs auditeurs.'
-  - type: text
-    content: ', ╵des boissons enivrantes »,'
-  - type: text
-    content: cet homme-là devient ╵le distillateur de paroles ╵pour tout ce peuple !
-  - type: heading
-    content: Le Dieu qui rassemble
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Car si un homme vient ╵qui court après le vent,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'qui profère des mensonges et qui dit :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: « Pour toi je vais débiter des paroles
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.11 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Voir '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: '2.6'
+        - type: text
+          text: ' et note.'
+      marker-yv: yv-n
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: distiller du bon vin
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.11 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Autre traduction : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'pour du bon vin. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: Soit les paroles agréables distillées par les faux prophètes sont comparées à du bon vin, soit les faux prophètes distillent de telles paroles pour être payés en retour par du bon vin de la part de leurs auditeurs.
+      marker-yv: yv-n
+    - type: text
+      text: ', ╵des boissons enivrantes »,'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: cet homme-là devient ╵le distillateur de paroles ╵pour tout ce peuple !
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Le Dieu qui rassemble
+    marker-yv: yv-h
   '12':
-  - type: text
-    content: Descendants de Jacob, ╵je vous rassemblerai, ╵oui, Jacob tout entier,
-  - type: text
-    content: et je vais réunir ╵les restes d’Israël,
-  - type: text
-    content: je les ferai venir ensemble ╵tels des moutons ╵dans un enclos
-  - type: note
-    content: 'dans un enclos. Sens obtenu en modifiant très légèrement le texte hébreu traditionnel qui porte : de Botsra.'
-  - type: text
-    content: .
-  - type: text
-    content: 'Et ils seront comme un troupeau ╵au milieu de son pâturage :'
-  - type: text
-    content: on entendra le bruit ╵d’une foule humaine en tumulte
-  - type: note
-    content: 'Voir v. 12-13 : c’est certainement à ce passage qui unit l’image du berger et de la porte que Jésus fait avant tout allusion en Jn 10 (voir Jn 10.1, 11).'
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Descendants de Jacob, ╵je vous rassemblerai, ╵oui, Jacob tout entier,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: et je vais réunir ╵les restes d’Israël,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: je les ferai venir ensemble ╵tels des moutons ╵dans un enclos
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.12 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'dans un enclos. '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Sens obtenu en modifiant très légèrement le texte hébreu traditionnel qui porte : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: de Botsra.
+      marker-yv: yv-n
+    - type: text
+      text: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Et ils seront comme un troupeau ╵au milieu de son pâturage :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: on entendra le bruit ╵d’une foule humaine en tumulte
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.12 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Voir v. 12-13 : c’est certainement à ce passage qui unit l’image du berger et de la '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'porte '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'que Jésus fait avant tout allusion en '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Jn 10
+        - type: text
+          text: ' (voir '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: Jn 10.1
+        - type: text
+          text: ', '
+        - type: usfm
+          marker: ref
+          children:
+          - type: text
+            text: '11'
+        - type: text
+          text: ).
+      marker-yv: yv-n
+    - type: text
+      text: .
   '13':
-  - type: text
-    content: Celui qui fait la brèche ╵marchera devant eux.
-  - type: text
-    content: Ils se presseront par la brèche,
-  - type: text
-    content: ils franchiront la porte ╵et sortiront par elle.
-  - type: text
-    content: Leur Roi marchera devant eux,
-  - type: text
-    content: l’Eternel sera à leur tête.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Celui qui fait la brèche ╵marchera devant eux.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Ils se presseront par la brèche,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ils franchiront la porte ╵et sortiront par elle.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Leur Roi marchera devant eux,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: l’Eternel sera à leur tête.
   '2':
-  - type: text
-    content: Ils convoitent des champs, ╵ils s’en emparent,
-  - type: text
-    content: des maisons, et ils s’en saisissent.
-  - type: text
-    content: Ils oppriment les gens,
-  - type: text
-    content: les dépouillant de leurs habitations ╵et de leurs terres.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Ils convoitent des champs, ╵ils s’en emparent,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: des maisons, et ils s’en saisissent.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Ils oppriment les gens,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: les dépouillant de leurs habitations ╵et de leurs terres.
   '3':
-  - type: text
-    content: 'C’est pourquoi l’Eternel déclare :'
-  - type: text
-    content: 'Contre cette nation ╵je projette un malheur :'
-  - type: text
-    content: il sera comme un joug ╵dont vous ne pourrez plus ╵vous dégager le cou.
-  - type: text
-    content: Vous ne marcherez plus ╵la tête haute,
-  - type: text
-    content: car ce temps qui arrive ╵est un temps de malheur.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'C’est pourquoi l’Eternel déclare :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Contre cette nation ╵je projette un malheur :'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: il sera comme un joug ╵dont vous ne pourrez plus ╵vous dégager le cou.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Vous ne marcherez plus ╵la tête haute,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: car ce temps qui arrive ╵est un temps de malheur.
   '4':
-  - type: text
-    content: En ce jour-là, ╵on vous citera en exemple ╵dans les proverbes.
-  - type: text
-    content: On chantera sur vous ╵une lamentation.
-  - type: text
-    content: 'On dira : « C’en est fait, ╵nous sommes dévastés, ╵totalement détruits ;'
-  - type: text
-    content: il fait passer à d’autres ╵la propriété de mon peuple.
-  - type: text
-    content: Hélas, il me l’enlève
-  - type: text
-    content: pour donner aux rebelles ╵nos terres en partage. »
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: En ce jour-là, ╵on vous citera en exemple ╵dans les proverbes.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: On chantera sur vous ╵une lamentation.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'On dira : « C’en est fait, ╵nous sommes dévastés, ╵totalement détruits ;'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: il fait passer à d’autres ╵la propriété de mon peuple.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Hélas, il me l’enlève
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: pour donner aux rebelles ╵nos terres en partage. »
   '5':
-  - type: text
-    content: Voilà pourquoi ╵vous n’aurez plus personne
-  - type: text
-    content: dans l’assemblée de l’Eternel
-  - type: text
-    content: pour vous distribuer ╵votre part du pays.
-  - type: heading
-    content: Contre les prophètes de la facilité
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Voilà pourquoi ╵vous n’aurez plus personne
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: dans l’assemblée de l’Eternel
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: pour vous distribuer ╵votre part du pays.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Contre les prophètes de la facilité
+    marker-yv: yv-h
   '6':
-  - type: text
-    content: 'Voilà quelles paroles ╵débitent tous ces faux prophètes : ╵« Cessez donc de débiter des paroles'
-  - type: note
-    content: Le verbe hébreu signifie couler, distiller, d’où le sens figuré de distiller ou débiter des paroles.
-  - type: text
-    content: '  ! »'
-  - type: text
-    content: Cela ne détournera pas ╵l’outrage pour autant
-  - type: note
-    content: 'Il s’agit de la réponse de Michée aux réactions indignées des faux prophètes à sa prédication. Autre traduction, en mettant la fin du v. 6 dans la bouche des faux prophètes : Cessez donc de débiter des paroles pour dire : « Certainement, l’outrage ne vous sera pas épargné. »'
-  - type: text
-    content: '  !'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Voilà quelles paroles ╵débitent tous ces faux prophètes : ╵« Cessez donc de débiter des paroles'
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.6 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Le verbe hébreu signifie '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'couler, distiller, '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'd’où le sens figuré de '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: distiller ou débiter des paroles.
+      marker-yv: yv-n
+    - type: text
+      text: '  ! »'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Cela ne détournera pas ╵l’outrage pour autant
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.6 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Il s’agit de la réponse de Michée aux réactions indignées des faux prophètes à sa prédication. Autre traduction, en mettant la fin du v. 6 dans la bouche des faux prophètes : Cessez donc de débiter des paroles pour dire : « Certainement, l’outrage ne vous sera pas épargné. »'
+      marker-yv: yv-n
+    - type: text
+      text: '  !'
   '7':
-  - type: text
-    content: Cependant, que dit-on
-  - type: text
-    content: parmi le peuple de Jacob ?
-  - type: text
-    content: « L’Eternel aurait-il ╵perdu patience,
-  - type: text
-    content: est-ce bien là ╵sa manière d’agir ? »
-  - type: text
-    content: Certes, pour ceux dont la conduite ╵est droite,
-  - type: text
-    content: mes paroles sont bienveillantes
-  - type: note
-    content: 'Il s’agit, ici et dans les versets qui suivent, de la réponse de l’Eternel. L’ancienne version grecque, suivie par plusieurs, ajoute : ses paroles et met ces mots dans la bouche du peuple de Jacob, d’où la traduction : est-ce bien là sa manière d’agir ? Ses paroles ne sont-elles pas bienveillantes pour ceux dont la conduite est pleine de droiture ?'
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Cependant, que dit-on
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: parmi le peuple de Jacob ?
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: « L’Eternel aurait-il ╵perdu patience,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: est-ce bien là ╵sa manière d’agir ? »
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Certes, pour ceux dont la conduite ╵est droite,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: mes paroles sont bienveillantes
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.7 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Il s’agit, ici et dans les versets qui suivent, de la réponse de l’Eternel. L’ancienne version grecque, suivie par plusieurs, ajoute : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'ses paroles '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'et met ces mots dans la bouche du peuple de Jacob, d’où la traduction : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: est-ce bien là sa manière d’agir ? Ses paroles ne sont-elles pas bienveillantes pour ceux dont la conduite est pleine de droiture ?
+      marker-yv: yv-n
+    - type: text
+      text: .
   '8':
-  - type: text
-    content: Mais hier encore, ╵on a traité mon peuple ╵en ennemi
-  - type: note
-    content: 'on a traité… en ennemi: texte peu clair. Autres traductions : Hier, mon peuple se dressait contre un ennemi (l’ennemi étant l’Eternel), ou, en modifiant légèrement le texte hébreu traditionnel : vous vous dressez en ennemi de mon peuple.'
-  - type: text
-    content: .
-  - type: text
-    content: Vous ôtez le manteau ╵de dessus la tunique
-  - type: text
-    content: à ceux qui, sans défiance, ╵passent auprès de vous
-  - type: text
-    content: au retour du combat.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Mais hier encore, ╵on a traité mon peuple ╵en ennemi
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.8 '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: 'on a traité… '
+      - type: usfm
+        marker: fq
+        children:
+        - type: text
+          text: en ennemi
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: ': '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'texte peu clair. Autres traductions : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: 'Hier, mon peuple se dressait contre un ennemi '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: '(l’ennemi étant l’Eternel), ou, en modifiant légèrement le texte hébreu traditionnel : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: vous vous dressez en ennemi de mon peuple.
+      marker-yv: yv-n
+    - type: text
+      text: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Vous ôtez le manteau ╵de dessus la tunique
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: à ceux qui, sans défiance, ╵passent auprès de vous
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: au retour du combat.
   '9':
-  - type: text
-    content: Vous expulsez ╵des maisons qu’elles aiment,
-  - type: text
-    content: les femmes de mon peuple ;
-  - type: text
-    content: à leurs enfants ╵vous ôtez pour toujours
-  - type: text
-    content: le glorieux patrimoine ╵que je leur ai donné
-  - type: note
-    content: 'Autre traduction : la gloire d’être à moi.'
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Vous expulsez ╵des maisons qu’elles aiment,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: les femmes de mon peuple ;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: à leurs enfants ╵vous ôtez pour toujours
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: le glorieux patrimoine ╵que je leur ai donné
+    - type: usfm
+      marker: f
+      children:
+      - type: usfm
+        marker: fr
+        children:
+        - type: text
+          text: '2.9 '
+      - type: usfm
+        marker: ft
+        children:
+        - type: text
+          text: 'Autre traduction : '
+      - type: usfm
+        marker: fqa
+        children:
+        - type: text
+          text: la gloire d’être à moi.
+      marker-yv: yv-n
+    - type: text
+      text: .

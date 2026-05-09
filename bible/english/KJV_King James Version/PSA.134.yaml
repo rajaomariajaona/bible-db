@@ -2,49 +2,94 @@ document_id: PSA.134,1
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: A Song of degrees.
-  - type: text
-    content: 'Behold, bless ye the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ','
-  - type: text
-    content: 'All '
-  - type: text
-    content: ye
-  - type: text
-    content: ' servants of the '
-  - type: text
-    content: LORD
-  - type: text
-    content: ','
-  - type: text
-    content: 'Which by night stand in the house of the '
-  - type: text
-    content: LORD
-  - type: text
-    content: .
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: A Song of degrees.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Behold, bless ye the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'All '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: ye
+    - type: text
+      text: ' servants of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ','
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Which by night stand in the house of the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: .
   '2':
-  - type: text
-    content: 'Lift up your hands '
-  - type: text
-    content: in
-  - type: text
-    content: ' the sanctuary,'
-  - type: text
-    content: 'And bless the '
-  - type: text
-    content: LORD
-  - type: text
-    content: .
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Lift up your hands '
+    - type: usfm
+      marker: add
+      children:
+      - type: text
+        text: in
+    - type: text
+      text: ' the sanctuary,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'And bless the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: .
   '3':
-  - type: text
-    content: 'The '
-  - type: text
-    content: LORD
-  - type: text
-    content: ' that made heaven and earth'
-  - type: text
-    content: Bless thee out of Zion.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: LORD
+    - type: text
+      text: ' that made heaven and earth'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Bless thee out of Zion.

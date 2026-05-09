@@ -2,167 +2,745 @@ document_id: PSA.95,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: Let Us Sing Songs of Praise
-  - type: text
-    content: 'Oh come, let us sing to the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ;
-  - type: text
-    content: 'let us '
-  - type: note
-    content: See Ps. 66:1
-  - type: text
-    content: 'make a joyful noise to '
-  - type: note
-    content: Ps. 89:26; [Ps. 94:22]
-  - type: text
-    content: the rock of our salvation!
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: Let Us Sing Songs of Praise
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Oh come, let us sing to the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'let us '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 66:1
+      marker-yv: yv-n
+    - type: text
+      text: 'make a joyful noise to '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 89:26
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 94:22
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: the rock of our salvation!
   '10':
-  - type: text
-    content: ' '
-  - type: note
-    content: Acts 7:36; 13:18; Heb. 3:17; [ Deut. 9:7 ]
-  - type: text
-    content: For forty years I loathed that generation
-  - type: text
-    content: and said, “They are a people who go astray in their heart,
-  - type: text
-    content: 'and they have not known '
-  - type: note
-    content: '[Ps. 81:13]'
-  - type: text
-    content: my ways.”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Acts 7:36
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 13:18
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Heb. 3:17
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Deut. 9:7
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: For forty years I loathed that generation
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and said, “They are a people who go astray in their heart,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and they have not known '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 81:13
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: my ways.”
   '11':
-  - type: text
-    content: 'Therefore I '
-  - type: note
-    content: Num. 14:23, 28, 30; Deut. 1:35; Cited Heb. 3:11; 4:3, 5
-  - type: text
-    content: swore in my wrath,
-  - type: text
-    content: '“They shall not enter '
-  - type: note
-    content: Deut. 12:9
-  - type: text
-    content: my rest.”
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Therefore I '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Num. 14:23
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '28'
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '30'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Deut. 1:35
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'Cited '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Heb. 3:11
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 4:3
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '5'
+      marker-yv: yv-n
+    - type: text
+      text: swore in my wrath,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: '“They shall not enter '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Deut. 12:9
+      marker-yv: yv-n
+    - type: text
+      text: my rest.”
   '2':
-  - type: text
-    content: 'Let us '
-  - type: note
-    content: Mic. 6:6
-  - type: text
-    content: come into his presence with thanksgiving;
-  - type: text
-    content: 'let us '
-  - type: note
-    content: '[See ver. 1 above]'
-  - type: text
-    content: make a joyful noise to him with songs of praise!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Let us '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Mic. 6:6
+      marker-yv: yv-n
+    - type: text
+      text: come into his presence with thanksgiving;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'let us '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[See ver. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '1'
+      - type: text
+        text: ' '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: above]
+      marker-yv: yv-n
+    - type: text
+      text: make a joyful noise to him with songs of praise!
   '3':
-  - type: text
-    content: 'For the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' is '
-  - type: note
-    content: Ps. 93:4; 135:5
-  - type: text
-    content: a great God,
-  - type: text
-    content: 'and a great King '
-  - type: note
-    content: Ps. 86:8; 96:4; 97:9; 2 Chr. 2:5
-  - type: text
-    content: above all gods.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'For the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' is '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 93:4
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 135:5
+      marker-yv: yv-n
+    - type: text
+      text: a great God,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and a great King '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 86:8
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 96:4
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 97:9
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Chr. 2:5
+      marker-yv: yv-n
+    - type: text
+      text: above all gods.
   '4':
-  - type: text
-    content: In his hand are the depths of the earth;
-  - type: text
-    content: the heights of the mountains are his also.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: In his hand are the depths of the earth;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: the heights of the mountains are his also.
   '5':
-  - type: text
-    content: 'The sea is his, for '
-  - type: note
-    content: Gen. 1:9, 10; Jonah 1:9
-  - type: text
-    content: he made it,
-  - type: text
-    content: 'and his hands formed '
-  - type: note
-    content: Gen. 1:9, 10; Jonah 1:9
-  - type: text
-    content: the dry land.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'The sea is his, for '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Gen. 1:9
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '10'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jonah 1:9
+      marker-yv: yv-n
+    - type: text
+      text: he made it,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and his hands formed '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Gen. 1:9
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '10'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jonah 1:9
+      marker-yv: yv-n
+    - type: text
+      text: the dry land.
   '6':
-  - type: text
-    content: Oh come, let us worship and bow down;
-  - type: text
-    content: 'let us '
-  - type: note
-    content: 2 Chr. 6:13; Dan. 6:10
-  - type: text
-    content: 'kneel before the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', our '
-  - type: note
-    content: Ps. 100:3; 149:2; Deut. 32:6, 15, 18
-  - type: text
-    content: Maker!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Oh come, let us worship and bow down;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'let us '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Chr. 6:13
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Dan. 6:10
+      marker-yv: yv-n
+    - type: text
+      text: 'kneel before the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', our '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 100:3
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 149:2
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Deut. 32:6
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '15'
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '18'
+      marker-yv: yv-n
+    - type: text
+      text: Maker!
   '7':
-  - type: text
-    content: 'For he is our '
-  - type: note
-    content: Ps. 48:14
-  - type: text
-    content: God,
-  - type: text
-    content: 'and we are the people of his '
-  - type: note
-    content: See Ps. 74:1
-  - type: text
-    content: pasture,
-  - type: text
-    content: and the sheep of his hand.
-  - type: note
-    content: Cited Heb. 3:7-11, 15; 4:7
-  - type: text
-    content: 'Today, if you '
-  - type: note
-    content: Num. 14:22
-  - type: text
-    content: hear his voice,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'For he is our '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 48:14
+      marker-yv: yv-n
+    - type: text
+      text: God,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and we are the people of his '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 74:1
+      marker-yv: yv-n
+    - type: text
+      text: pasture,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and the sheep of his hand.
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'Cited '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Heb. 3:7-11
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '15'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 4:7
+      marker-yv: yv-n
+    - type: text
+      text: 'Today, if you '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Num. 14:22
+      marker-yv: yv-n
+    - type: text
+      text: hear his voice,
   '8':
-  - type: text
-    content: ' '
-  - type: note
-    content: Ex. 9:34; 1 Sam. 6:6; 2 Chr. 36:13; Prov. 28:14
-  - type: text
-    content: 'do not harden your hearts, as at '
-  - type: note
-    content: Ex. 17:7; Num. 20:13
-  - type: text
-    content: Meribah,
-  - type: text
-    content: 'as on the day at '
-  - type: note
-    content: Ex. 17:7; Deut. 6:16
-  - type: text
-    content: Massah in the wilderness,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ex. 9:34
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Sam. 6:6
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 2 Chr. 36:13
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Prov. 28:14
+      marker-yv: yv-n
+    - type: text
+      text: 'do not harden your hearts, as at '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ex. 17:7
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Num. 20:13
+      marker-yv: yv-n
+    - type: text
+      text: Meribah,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'as on the day at '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ex. 17:7
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Deut. 6:16
+      marker-yv: yv-n
+    - type: text
+      text: Massah in the wilderness,
   '9':
-  - type: text
-    content: 'when your fathers put me to the '
-  - type: note
-    content: 1 Cor. 10:9; [Ps. 78:18, 41, 56]
-  - type: text
-    content: test
-  - type: text
-    content: 'and put me to the proof, though they had seen my '
-  - type: note
-    content: See Ps. 90:16; [Num. 14:22]
-  - type: text
-    content: work.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'when your fathers put me to the '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Cor. 10:9
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 78:18
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '41'
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '56'
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: test
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'and put me to the proof, though they had seen my '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps. 90:16
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Num. 14:22
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: work.

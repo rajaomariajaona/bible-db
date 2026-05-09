@@ -2,88 +2,189 @@ document_id: PSA.82,114
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: A Plea for Justice
-  - type: text
-    content: A Psalm of Asaph.
-  - type: text
-    content: 'God '
-  - type: note
-    content: (2 Chr. 19:6; Eccl. 5:8)
-  - type: text
-    content: stands in the congregation of the mighty;
-  - type: text
-    content: 'He judges among '
-  - type: note
-    content: Ps. 82:6
-  - type: text
-    content: the gods.
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: A Plea for Justice
+    marker-yv: yv-h
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: A Psalm of Asaph.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'God '
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: (2 Chr. 19:6; Eccl. 5:8)
+      marker-yv: yv-n
+    - type: text
+      text: stands in the congregation of the mighty;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'He judges among '
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: Ps. 82:6
+      marker-yv: yv-n
+    - type: text
+      text: the gods.
   '2':
-  - type: text
-    content: How long will you judge unjustly,
-  - type: text
-    content: 'And '
-  - type: note
-    content: (Deut. 1:17); Prov. 18:5
-  - type: text
-    content: show partiality to the wicked?
-  - type: text
-    content: Selah
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: How long will you judge unjustly,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'And '
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: (Deut. 1:17); Prov. 18:5
+      marker-yv: yv-n
+    - type: text
+      text: show partiality to the wicked?
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Selah
   '3':
-  - type: text
-    content: Defend the poor and fatherless;
-  - type: text
-    content: 'Do justice to the afflicted and '
-  - type: note
-    content: (Deut. 24:17; Is. 11:4; Jer. 22:16)
-  - type: text
-    content: needy.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Defend the poor and fatherless;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Do justice to the afflicted and '
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: (Deut. 24:17; Is. 11:4; Jer. 22:16)
+      marker-yv: yv-n
+    - type: text
+      text: needy.
   '4':
-  - type: text
-    content: Deliver the poor and needy;
-  - type: text
-    content: 'Free '
-  - type: text
-    content: them
-  - type: text
-    content: ' from the hand of the wicked.'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Deliver the poor and needy;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Free '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: them
+    - type: text
+      text: ' from the hand of the wicked.'
   '5':
-  - type: text
-    content: They do not know, nor do they understand;
-  - type: text
-    content: They walk about in darkness;
-  - type: text
-    content: 'All the '
-  - type: note
-    content: Ps. 11:3
-  - type: text
-    content: foundations of the earth are unstable.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: They do not know, nor do they understand;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: They walk about in darkness;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'All the '
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: Ps. 11:3
+      marker-yv: yv-n
+    - type: text
+      text: foundations of the earth are unstable.
   '6':
-  - type: text
-    content: 'I said, '
-  - type: note
-    content: John 10:34
-  - type: text
-    content: '“You '
-  - type: text
-    content: are
-  - type: text
-    content: ' gods,'
-  - type: text
-    content: 'And all of you '
-  - type: text
-    content: are
-  - type: text
-    content: ' children of the Most High.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I said, '
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: John 10:34
+      marker-yv: yv-n
+    - type: text
+      text: '“You '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: are
+    - type: text
+      text: ' gods,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'And all of you '
+    - type: usfm
+      marker: it
+      children:
+      - type: text
+        text: are
+    - type: text
+      text: ' children of the Most High.'
   '7':
-  - type: text
-    content: But you shall die like men,
-  - type: text
-    content: And fall like one of the princes.”
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: But you shall die like men,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: And fall like one of the princes.”
   '8':
-  - type: text
-    content: Arise, O God, judge the earth;
-  - type: note
-    content: Ps. 2:8; (Rev. 11:15)
-  - type: text
-    content: For You shall inherit all nations.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Arise, O God, judge the earth;
+  - type: usfm
+    marker: q2
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: Ps. 2:8; (Rev. 11:15)
+      marker-yv: yv-n
+    - type: text
+      text: For You shall inherit all nations.

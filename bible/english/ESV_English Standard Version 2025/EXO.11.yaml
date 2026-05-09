@@ -2,106 +2,423 @@ document_id: EXO.11,59
 type_code: eng
 verses:
   '1':
-  - type: heading
-    content: A Final Plague Threatened
-  - type: text
-    content: 'The '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' said to Moses, “Yet '
-  - type: note
-    content: '[ch. 4:23]'
-  - type: text
-    content: 'one plague more I will bring upon Pharaoh and upon Egypt. Afterward he will let you go from here. '
-  - type: note
-    content: ch. 12:31, 33, 39
-  - type: text
-    content: 'When he lets you go, he will drive you away completely. '
+  - type: usfm
+    marker: s1
+    children:
+    - type: text
+      text: A Final Plague Threatened
+    marker-yv: yv-h
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'The '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' said to Moses, “Yet '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 4:23
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'one plague more I will bring upon Pharaoh and upon Egypt. Afterward he will let you go from here. '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 12:31
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '33'
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '39'
+      marker-yv: yv-n
+    - type: text
+      text: 'When he lets you go, he will drive you away completely. '
   '10':
-  - type: text
-    content: 'Moses and Aaron did all these wonders before Pharaoh, and the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' '
-  - type: note
-    content: See ch. 4:21
-  - type: text
-    content: hardened Pharaoh’s heart, and he did not let the people of Israel go out of his land.
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Moses and Aaron did all these wonders before Pharaoh, and the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'See ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 4:21
+      marker-yv: yv-n
+    - type: text
+      text: hardened Pharaoh’s heart, and he did not let the people of Israel go out of his land.
   '2':
-  - type: text
-    content: 'Speak now in the hearing of the people, that '
-  - type: note
-    content: ch. 3:22; 12:35
-  - type: text
-    content: 'they ask, every man of his neighbor and every woman of her neighbor, for silver and gold jewelry.” '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Speak now in the hearing of the people, that '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 3:22
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 12:35
+      marker-yv: yv-n
+    - type: text
+      text: 'they ask, every man of his neighbor and every woman of her neighbor, for silver and gold jewelry.” '
   '3':
-  - type: note
-    content: ch. 3:21; 12:36
-  - type: text
-    content: 'And the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' gave the people favor in the sight of the Egyptians. Moreover, the man Moses was very great in the land of Egypt, in the sight of Pharaoh’s servants and in the sight of the people.'
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 3:21
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 12:36
+      marker-yv: yv-n
+    - type: text
+      text: 'And the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' gave the people favor in the sight of the Egyptians. Moreover, the man Moses was very great in the land of Egypt, in the sight of Pharaoh’s servants and in the sight of the people.'
   '4':
-  - type: text
-    content: 'So Moses said, “Thus says the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ': '
-  - type: note
-    content: ch. 12:29; [Job 34:20; Amos 4:10]
-  - type: text
-    content: '‘About midnight I will go out in the midst of Egypt, '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'So Moses said, “Thus says the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ': '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 12:29
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 34:20
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Amos 4:10
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: '‘About midnight I will go out in the midst of Egypt, '
   '5':
-  - type: text
-    content: 'and every firstborn in the land of Egypt shall die, from the firstborn of Pharaoh who sits on his throne, even to the firstborn of the slave girl who is '
-  - type: note
-    content: Matt. 24:41; Luke 17:35
-  - type: text
-    content: 'behind the handmill, and all the firstborn of the cattle. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'and every firstborn in the land of Egypt shall die, from the firstborn of Pharaoh who sits on his throne, even to the firstborn of the slave girl who is '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Matt. 24:41
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Luke 17:35
+      marker-yv: yv-n
+    - type: text
+      text: 'behind the handmill, and all the firstborn of the cattle. '
   '6':
-  - type: note
-    content: ch. 12:30; [Amos 5:16, 17]
-  - type: text
-    content: 'There shall be a great cry throughout all the land of Egypt, such as there has never been, nor ever will be again. '
+  - type: usfm
+    marker: p
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 12:30
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '['
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Amos 5:16
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '17'
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'There shall be a great cry throughout all the land of Egypt, such as there has never been, nor ever will be again. '
   '7':
-  - type: text
-    content: 'But not a dog shall growl '
-  - type: note
-    content: '[ch. 8:22; 9:4]'
-  - type: text
-    content: 'against any of the people of Israel, either man or beast, that you may know that the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' '
-  - type: note
-    content: ch. 9:4
-  - type: text
-    content: 'makes a distinction between Egypt and Israel.’ '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'But not a dog shall growl '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: '[ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 8:22
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 9:4
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: ']'
+      marker-yv: yv-n
+    - type: text
+      text: 'against any of the people of Israel, either man or beast, that you may know that the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 9:4
+      marker-yv: yv-n
+    - type: text
+      text: 'makes a distinction between Egypt and Israel.’ '
   '8':
-  - type: text
-    content: 'And '
-  - type: note
-    content: ch. 12:33
-  - type: text
-    content: 'all these your servants shall come down to me and bow down to me, saying, ‘Get out, you and all the people who follow you.’ And after that I will go out.” And he went out from Pharaoh in hot anger. '
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'And '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 12:33
+      marker-yv: yv-n
+    - type: text
+      text: 'all these your servants shall come down to me and bow down to me, saying, ‘Get out, you and all the people who follow you.’ And after that I will go out.” And he went out from Pharaoh in hot anger. '
   '9':
-  - type: text
-    content: 'Then the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' said to Moses, '
-  - type: note
-    content: ch. 3:19; 7:4; 10:1
-  - type: text
-    content: '“Pharaoh will not listen to you, that '
-  - type: note
-    content: ch. 7:3
-  - type: text
-    content: my wonders may be multiplied in the land of Egypt.”
+  - type: usfm
+    marker: p
+    children:
+    - type: text
+      text: 'Then the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' said to Moses, '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 3:19
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 7:4
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 10:1
+      marker-yv: yv-n
+    - type: text
+      text: '“Pharaoh will not listen to you, that '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: xta
+        children:
+        - type: text
+          text: 'ch. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 7:3
+      marker-yv: yv-n
+    - type: text
+      text: my wonders may be multiplied in the land of Egypt.”

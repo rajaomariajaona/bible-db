@@ -2,111 +2,234 @@ document_id: PSA.140,116
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: 'For the choir director: A psalm of David.'
-  - type: text
-    content: 'O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', rescue me from evil people.'
-  - type: text
-    content: Protect me from those who are violent,
+  - type: usfm
+    marker: d
+    children:
+    - type: text
+      text: 'For the choir director: A psalm of David.'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', rescue me from evil people.'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Protect me from those who are violent,
   '10':
-  - type: text
-    content: Let burning coals fall down on their heads.
-  - type: text
-    content: Let them be thrown into the fire
-  - type: text
-    content: or into watery pits from which they can’t escape.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Let burning coals fall down on their heads.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Let them be thrown into the fire
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: or into watery pits from which they can’t escape.
   '11':
-  - type: text
-    content: Don’t let liars prosper here in our land.
-  - type: text
-    content: Cause great disasters to fall on the violent.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Don’t let liars prosper here in our land.
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Cause great disasters to fall on the violent.
   '12':
-  - type: text
-    content: 'But I know the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ' will help those they persecute;'
-  - type: text
-    content: he will give justice to the poor.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'But I know the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ' will help those they persecute;'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: he will give justice to the poor.
   '13':
-  - type: text
-    content: Surely righteous people are praising your name;
-  - type: text
-    content: the godly will live in your presence.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Surely righteous people are praising your name;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: the godly will live in your presence.
   '2':
-  - type: text
-    content: those who plot evil in their hearts
-  - type: text
-    content: and stir up trouble all day long.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: those who plot evil in their hearts
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: and stir up trouble all day long.
   '3':
-  - type: text
-    content: Their tongues sting like a snake;
-  - type: text
-    content: 'the venom of a viper drips from their lips. '
-  - type: text
-    content: Interlude
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Their tongues sting like a snake;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'the venom of a viper drips from their lips. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Interlude
   '4':
-  - type: text
-    content: 'O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', keep me out of the hands of the wicked.'
-  - type: text
-    content: Protect me from those who are violent,
-  - type: text
-    content: for they are plotting against me.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', keep me out of the hands of the wicked.'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Protect me from those who are violent,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: for they are plotting against me.
   '5':
-  - type: text
-    content: The proud have set a trap to catch me;
-  - type: text
-    content: they have stretched out a net;
-  - type: text
-    content: 'they have placed traps all along the way. '
-  - type: text
-    content: Interlude
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: The proud have set a trap to catch me;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: they have stretched out a net;
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'they have placed traps all along the way. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Interlude
   '6':
-  - type: text
-    content: 'I said to the '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', “You are my God!”'
-  - type: text
-    content: 'Listen, O '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', to my cries for mercy!'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'I said to the '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', “You are my God!”'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'Listen, O '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', to my cries for mercy!'
   '7':
-  - type: text
-    content: 'O Sovereign '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', the strong one who rescued me,'
-  - type: text
-    content: you protected me on the day of battle.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'O Sovereign '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', the strong one who rescued me,'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: you protected me on the day of battle.
   '8':
-  - type: text
-    content: ' '
-  - type: text
-    content: Lord
-  - type: text
-    content: ', do not let evil people have their way.'
-  - type: text
-    content: Do not let their evil schemes succeed,
-  - type: text
-    content: 'or they will become proud. '
-  - type: text
-    content: Interlude
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: nd
+      children:
+      - type: text
+        text: Lord
+    - type: text
+      text: ', do not let evil people have their way.'
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: Do not let their evil schemes succeed,
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: 'or they will become proud. '
+    - type: usfm
+      marker: qs
+      children:
+      - type: text
+        text: Interlude
   '9':
-  - type: text
-    content: Let my enemies be destroyed
-  - type: text
-    content: by the very evil they have planned for me.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Let my enemies be destroyed
+  - type: usfm
+    marker: q2
+    children:
+    - type: text
+      text: by the very evil they have planned for me.

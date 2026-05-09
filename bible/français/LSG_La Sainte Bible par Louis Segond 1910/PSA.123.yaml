@@ -2,32 +2,78 @@ document_id: PSA.123,93
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: (Né 2:19, 20; 4:1-4.) Ps 120.
-  - type: text
-    content: Cantique des degrés,
-  - type: note
-    content: Ps 115:3.
-  - type: text
-    content: Je lève mes yeux vers toi,
-  - type: text
-    content: Qui sièges dans les cieux.
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: (Né 2:19, 20; 4:1-4.) Ps 120.
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Cantique des degrés,
+  - type: usfm
+    marker: q1
+    children:
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 115:3
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: Je lève mes yeux vers toi,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Qui sièges dans les cieux.
   '2':
-  - type: text
-    content: Voici, comme les yeux des serviteurs sont fixés sur la main de leurs maîtres,
-  - type: text
-    content: Et les yeux de la servante sur la main de sa maîtresse,
-  - type: text
-    content: Ainsi nos yeux se tournent vers l’Éternel, notre Dieu,
-  - type: text
-    content: Jusqu’à ce qu’il ait pitié de nous.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Voici, comme les yeux des serviteurs sont fixés sur la main de leurs maîtres,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et les yeux de la servante sur la main de sa maîtresse,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Ainsi nos yeux se tournent vers l’Éternel, notre Dieu,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Jusqu’à ce qu’il ait pitié de nous.
   '3':
-  - type: text
-    content: Aie pitié de nous, Éternel, aie pitié de nous!
-  - type: text
-    content: Car nous sommes assez rassasiés de mépris;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Aie pitié de nous, Éternel, aie pitié de nous!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Car nous sommes assez rassasiés de mépris;
   '4':
-  - type: text
-    content: Notre âme est assez rassasiée
-  - type: text
-    content: Des moqueries des orgueilleux, du mépris des hautains.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Notre âme est assez rassasiée
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Des moqueries des orgueilleux, du mépris des hautains.

@@ -2,23 +2,47 @@ document_id: GAL.INTRO1,111
 type_code: eng
 verses:
   '1':
-  - type: text
-    content: Intro
-  - type: text
-    content: 'Galatia was a Roman province in central Asia Minor. Paul traveled here on each of the three journeys he made to spread the message about Jesus. The Galatians received both Paul and his gospel announcement warmly. But later some people Paul calls '
-  - type: text
-    content: agitators
-  - type: text
-    content: ' came and challenged Paul’s leadership as well as the foundation of his teaching. So Paul wrote to answer the threat to his status as an apostle and to reaffirm the core message that faith in the Messiah is the basis of membership in God’s new community.'
-  - type: text
-    content: 'Paul doesn’t open his letter by appealing to the apostles in Jerusalem. Instead, he insists that '
-  - type: text
-    content: the gospel I preached is not of human origin … rather, I received it by revelation from Jesus Christ.
-  - type: text
-    content: ' Paul is compelled to share this revelation, and he notes that the other apostles support him.'
-  - type: text
-    content: Paul then proceeds to his main argument, which is that Gentiles who have become followers of Jesus do not need to be circumcised. The new worldwide family which had been promised to Abraham is created by faith in Messiah Jesus, not by keeping the Jewish law (Torah). The biblical story had been pointing to this all along.
-  - type: text
-    content: 'But if following Torah is not the basis of the gospel, won’t there be anarchy? Paul answers by describing what Spirit-empowered life looks like in the community of Messiah-followers. Paul closes by emphasizing the main theme of his letter once more: '
-  - type: text
-    content: Neither circumcision nor uncircumcision means anything; what counts is the new creation.
+  - type: usfm
+    marker: imt1
+    children:
+    - type: text
+      text: Intro
+  - type: usfm
+    marker: im
+    children:
+    - type: text
+      text: 'Galatia was a Roman province in central Asia Minor. Paul traveled here on each of the three journeys he made to spread the message about Jesus. The Galatians received both Paul and his gospel announcement warmly. But later some people Paul calls '
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: agitators
+    - type: text
+      text: ' came and challenged Paul’s leadership as well as the foundation of his teaching. So Paul wrote to answer the threat to his status as an apostle and to reaffirm the core message that faith in the Messiah is the basis of membership in God’s new community.'
+  - type: usfm
+    marker: ip
+    children:
+    - type: text
+      text: 'Paul doesn’t open his letter by appealing to the apostles in Jerusalem. Instead, he insists that '
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: the gospel I preached is not of human origin … rather, I received it by revelation from Jesus Christ.
+    - type: text
+      text: ' Paul is compelled to share this revelation, and he notes that the other apostles support him.'
+  - type: usfm
+    marker: ip
+    children:
+    - type: text
+      text: Paul then proceeds to his main argument, which is that Gentiles who have become followers of Jesus do not need to be circumcised. The new worldwide family which had been promised to Abraham is created by faith in Messiah Jesus, not by keeping the Jewish law (Torah). The biblical story had been pointing to this all along.
+  - type: usfm
+    marker: ip
+    children:
+    - type: text
+      text: 'But if following Torah is not the basis of the gospel, won’t there be anarchy? Paul answers by describing what Spirit-empowered life looks like in the community of Messiah-followers. Paul closes by emphasizing the main theme of his letter once more: '
+    - type: usfm
+      marker: qt
+      children:
+      - type: text
+        text: Neither circumcision nor uncircumcision means anything; what counts is the new creation.

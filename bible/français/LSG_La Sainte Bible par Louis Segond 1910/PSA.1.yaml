@@ -2,60 +2,232 @@ document_id: PSA.1,93
 type_code: fra
 verses:
   '1':
-  - type: heading
-    content: LIVRE PREMIER
-  - type: heading
-    content: (2 S 23:1, 2.)
-  - type: heading
-    content: (Ps 112; 128. Jé 17:7, 8. 1 Ti 4:8, 9.) (Pr 14:32. Mt 7:21-27; 13:40-43.) És 42:21; 3:10, 11. Ja 1:25.
-  - type: text
-    content: Heureux l’homme qui ne marche pas selon le conseil des méchants,
-  - type: text
-    content: Qui ne s’arrête pas sur la voie des pécheurs,
-  - type: text
-    content: 'Et '
-  - type: note
-    content: Ps 26:4. Pr 1:10, 15; 4:14, 15. 1 Co 15:33. Ép 5:11.
-  - type: text
-    content: qui ne s’assied pas en compagnie des moqueurs,
+  - type: usfm
+    marker: ms1
+    children:
+    - type: text
+      text: LIVRE PREMIER
+    marker-yv: yv-h
+  - type: usfm
+    marker: mr
+    children:
+    - type: text
+      text: (2 S 23:1, 2.)
+    marker-yv: yv-h
+  - type: usfm
+    marker: r
+    children:
+    - type: text
+      text: (Ps 112; 128. Jé 17:7, 8. 1 Ti 4:8, 9.) (Pr 14:32. Mt 7:21-27; 13:40-43.) És 42:21; 3:10, 11. Ja 1:25.
+    marker-yv: yv-h
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Heureux l’homme qui ne marche pas selon le conseil des méchants,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Qui ne s’arrête pas sur la voie des pécheurs,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Et '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 26:4
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Pr 1:10
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '15'
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 4:14
+      - type: text
+        text: ', '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: '15'
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 1 Co 15:33
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ép 5:11
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: qui ne s’assied pas en compagnie des moqueurs,
   '2':
-  - type: text
-    content: ' '
-  - type: note
-    content: De 6:6, etc.; 17:19. Jos 1:8. Ps 119:1, etc.
-  - type: text
-    content: Mais qui trouve son plaisir dans la loi de l’Éternel,
-  - type: text
-    content: Et qui la médite jour et nuit!
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: ' '
+    - type: usfm
+      marker: x
+      children:
+      - type: text
+        text: 'De 6:6, etc.; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 17:19
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jos 1:8
+      - type: text
+        text: . Ps 119:1, etc.
+      marker-yv: yv-n
+    - type: text
+      text: Mais qui trouve son plaisir dans la loi de l’Éternel,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et qui la médite jour et nuit!
   '3':
-  - type: text
-    content: 'Il est comme un '
-  - type: note
-    content: Jé 17:8.
-  - type: text
-    content: arbre planté près d’un courant d’eau,
-  - type: text
-    content: Qui donne son fruit en sa saison,
-  - type: text
-    content: 'Et dont le feuillage ne se flétrit point:'
-  - type: text
-    content: Tout ce qu’il fait lui réussit.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Il est comme un '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Jé 17:8
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: arbre planté près d’un courant d’eau,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Qui donne son fruit en sa saison,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Et dont le feuillage ne se flétrit point:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Tout ce qu’il fait lui réussit.
   '4':
-  - type: text
-    content: 'Il n’en est pas ainsi des méchants:'
-  - type: text
-    content: 'Ils sont comme '
-  - type: note
-    content: Job 21:18. Ps 35:5. És 17:13; 29:5. Os 13:3.
-  - type: text
-    content: la paille que le vent dissipe.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Il n’en est pas ainsi des méchants:'
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: 'Ils sont comme '
+    - type: usfm
+      marker: x
+      children:
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Job 21:18
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Ps 35:5
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: És 17:13
+      - type: text
+        text: '; '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: 29:5
+      - type: text
+        text: '. '
+      - type: usfm
+        marker: ref
+        children:
+        - type: text
+          text: Os 13:3
+      - type: text
+        text: .
+      marker-yv: yv-n
+    - type: text
+      text: la paille que le vent dissipe.
   '5':
-  - type: text
-    content: C’est pourquoi les méchants ne résistent pas au jour du jugement,
-  - type: text
-    content: Ni les pécheurs dans l’assemblée des justes;
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: C’est pourquoi les méchants ne résistent pas au jour du jugement,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Ni les pécheurs dans l’assemblée des justes;
   '6':
-  - type: text
-    content: Car l’Éternel connaît la voie des justes,
-  - type: text
-    content: Et la voie des pécheurs mène à la ruine.
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Car l’Éternel connaît la voie des justes,
+  - type: usfm
+    marker: q1
+    children:
+    - type: text
+      text: Et la voie des pécheurs mène à la ruine.
