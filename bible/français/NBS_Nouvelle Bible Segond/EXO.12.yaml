@@ -11,6 +11,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -24,6 +28,10 @@ segments:
       text: Seigneur
   - type: text
     text: ' dit à Moïse et à Aaron, en Egypte : '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '2'
   - type: usfm
     marker: vlbl
     children:
@@ -115,6 +123,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Ce mois-ci sera pour vous le premier des mois ; il sera pour vous le premier des mois de l''année. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:
@@ -213,6 +225,10 @@ segments:
   - type: text
     text: 'Dites à toute la communauté d''Israël : Le dixième jour de ce mois, on prendra un mouton ou une chèvre pour chaque famille, une bête par maison. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '4'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -275,6 +291,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Si la famille est trop peu nombreuse pour une bête, elle la prendra avec le voisin le plus proche de la maison, selon le nombre de personnes à nourrir ; vous répartirez cette bête d''après ce que chacun peut manger. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '5'
   - type: usfm
     marker: vlbl
     children:
@@ -372,6 +392,10 @@ segments:
   - type: text
     text: 'Ce sera une bête sans défaut, un mâle d''un an ; vous pourrez prendre un agneau ou un chevreau. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '6'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -430,6 +454,10 @@ segments:
   - type: text
     text: 'Vous le tiendrez en réserve jusqu''au quatorzième jour de ce mois ; toute l''assemblée de la communauté d''Israël l''immolera à la tombée du soir. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '7'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -460,6 +488,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'On prendra de son sang et on en mettra sur les deux montants et sur le linteau de la porte des maisons où on le mangera. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '8'
   - type: usfm
     marker: vlbl
     children:
@@ -531,6 +563,10 @@ segments:
   - type: text
     text: 'Cette même nuit, on mangera la viande ; on la mangera rôtie au feu, avec des pains sans levain et des herbes amères. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '9'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -562,6 +598,10 @@ segments:
   - type: text
     text: 'Vous n''en mangerez pas à demi-cuit, ni bouilli dans l''eau ; il sera rôti au feu, avec la tête, les pattes et les entrailles. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '10'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -582,6 +622,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Vous n''en laisserez rien jusqu''au matin ; s''il en reste quelque chose le matin, vous le jetterez au feu. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '11'
   - type: usfm
     marker: vlbl
     children:
@@ -741,6 +785,10 @@ segments:
   - type: text
     text: '. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '12'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -833,6 +881,10 @@ segments:
   - type: text
     text: ' (YHWH). '
   - type: usfm
+    marker: v
+    metadata:
+      v: '13'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -898,6 +950,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '14'
   - type: usfm
     marker: vlbl
     children:
@@ -1013,6 +1069,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '15'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1073,6 +1133,10 @@ segments:
   - type: text
     text: 'Pendant sept jours, vous mangerez des pains sans levain. Dès le premier jour, vous supprimerez le levain de vos maisons ; quiconque mangera quelque chose de levé, du premier jour au septième jour, sera retranché d''Israël. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '16'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1117,6 +1181,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Le premier jour, il y aura convocation sacrée ; le septième jour, il y aura pour vous convocation sacrée. On ne fera aucun travail ces jours-là – si ce n''est de préparer la nourriture pour chacun. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '17'
   - type: usfm
     marker: vlbl
     children:
@@ -1188,12 +1256,20 @@ segments:
   - type: text
     text: 'Vous observerez la fête des Pains sans levain, car c''est en ce jour même que j''ai fait sortir vos armées d''Egypte ; vous observerez ce jour comme une prescription perpétuelle, pour toutes vos générations. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '18'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '18'
   - type: text
     text: 'Le quatorzième jour du premier mois, au soir, vous mangerez des pains sans levain ; vous en mangerez jusqu''au soir du vingt et unième jour. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '19'
   - type: usfm
     marker: vlbl
     children:
@@ -1235,6 +1311,10 @@ segments:
   - type: text
     text: 'Pendant sept jours, on ne devra pas trouver de levain chez vous ; quiconque mangera quelque chose de levé sera retranché de la communauté d''Israël, que ce soit un immigré ou un autochtone du pays. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '20'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1250,6 +1330,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '21'
   - type: usfm
     marker: vlbl
     children:
@@ -1324,6 +1408,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Moïse appela tous les anciens d''Israël et leur dit : Allez prendre du petit bétail pour vos clans, et immolez la Pâque. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '22'
   - type: usfm
     marker: vlbl
     children:
@@ -1460,6 +1548,10 @@ segments:
   - type: text
     text: 'Vous prendrez ensuite un bouquet d''hysope, vous le tremperez dans le sang qui est dans le bassin, et vous en mettrez sur le linteau et les deux montants de la porte. Aucun de vous ne sortira de sa maison jusqu''au matin. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '23'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1575,6 +1667,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '24'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1619,6 +1715,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Vous observerez cela comme une prescription pour toi et pour tes fils, perpétuellement. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '25'
   - type: usfm
     marker: vlbl
     children:
@@ -1677,6 +1777,10 @@ segments:
   - type: text
     text: ' vous donnera, selon sa parole, vous observerez ce rite. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '26'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1697,6 +1801,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Lorsque vos fils vous demanderont : « Que signifie pour vous ce rite ? », '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '27'
   - type: usfm
     marker: vlbl
     children:
@@ -1781,6 +1889,10 @@ segments:
   - type: text
     text: 'Le peuple s''inclina et se prosterna. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '28'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1803,6 +1915,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '29'
   - type: usfm
     marker: vlbl
     children:
@@ -1879,6 +1995,10 @@ segments:
   - type: text
     text: ' frappa tout premier-né en Egypte, depuis le premier-né du pharaon qui était assis sur son trône jusqu''au premier-né du captif dans son cachot, ainsi que tous les premiers-nés des bêtes. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '30'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1888,6 +2008,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '31'
   - type: usfm
     marker: vlbl
     children:
@@ -1934,6 +2058,10 @@ segments:
   - type: text
     text: ', comme vous l''avez dit. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '32'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1971,6 +2099,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Prenez aussi votre petit bétail et votre gros bétail, comme vous l''avez dit ; allez, et bénissez-moi ! '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '33'
   - type: usfm
     marker: vlbl
     children:
@@ -2048,12 +2180,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '34'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '34'
   - type: text
     text: 'Le peuple emporta sa pâte avant qu''elle soit levée. Leurs pétrins étaient enveloppés dans leurs vêtements, sur leurs épaules. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '35'
   - type: usfm
     marker: vlbl
     children:
@@ -2085,6 +2225,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Les Israélites firent ce que Moïse avait dit : ils demandèrent aux Egyptiens des objets d''argent, des objets d''or et des vêtements. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '36'
   - type: usfm
     marker: vlbl
     children:
@@ -2153,6 +2297,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '37'
   - type: usfm
     marker: vlbl
     children:
@@ -2354,6 +2502,10 @@ segments:
   - type: text
     text: 'Les Israélites partirent de Ramsès pour Soukkoth, une infanterie d''environ six cent mille hommes, sans compter les familles. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '38'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -2387,6 +2539,10 @@ segments:
   - type: text
     text: 'Une importante population mêlée monta aussi avec eux, avec des troupeaux considérables de petit bétail et de gros bétail. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '39'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -2407,6 +2563,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Ils firent des galettes cuites sans levain avec la pâte qu''ils avaient emportée d''Egypte et qui n''était pas levée ; car ils avaient été chassés d''Egypte sans pouvoir s''attarder pour se faire des provisions. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '40'
   - type: usfm
     marker: vlbl
     children:
@@ -2461,6 +2621,10 @@ segments:
   - type: text
     text: 'Les Israélites avaient habité quatre cent trente ans en Egypte. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '41'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -2513,6 +2677,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '42'
   - type: usfm
     marker: vlbl
     children:
@@ -2617,6 +2785,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '43'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -2686,6 +2858,10 @@ segments:
   - type: text
     text: ' dit à Moïse et à Aaron : Voici la prescription au sujet de la Pâque : Aucun étranger n''en mangera. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '44'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -2716,6 +2892,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Tu circonciras tout esclave acheté à prix d''argent ; alors il en mangera. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '45'
   - type: usfm
     marker: vlbl
     children:
@@ -2760,6 +2940,10 @@ segments:
   - type: text
     text: 'Le résident temporaire et le salarié n''en mangeront pas. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '46'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -2795,6 +2979,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'On la mangera dans la maison même ; vous n''emporterez pas de viande hors de la maison, et vous n''en briserez aucun os. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '47'
   - type: usfm
     marker: vlbl
     children:
@@ -2855,6 +3043,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Toute la communauté d''Israël la célébrera. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '48'
   - type: usfm
     marker: vlbl
     children:
@@ -2948,6 +3140,10 @@ segments:
   - type: text
     text: ', tout mâle chez lui devra être circoncis ; alors il se présentera pour la célébrer et il sera comme l''autochtone ; mais aucun incirconcis n''en mangera. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '49'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -2957,6 +3153,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '50'
   - type: usfm
     marker: vlbl
     children:
@@ -2971,6 +3171,10 @@ segments:
       text: Seigneur
   - type: text
     text: ' avait ordonné à Moïse et à Aaron. Ainsi firent-ils. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '51'
   - type: usfm
     marker: vlbl
     children:

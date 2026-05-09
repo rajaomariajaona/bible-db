@@ -5,6 +5,10 @@ segments:
   marker: q1
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -51,6 +55,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '2'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -65,12 +73,20 @@ segments:
   - type: text
     text: ' will be beautiful and glorious, and the fruit of the land will be the pride and glory of the survivors in Israel. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '3'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '3'
   - type: text
     text: 'Those who are left in Zion, who remain in Jerusalem, will be called holy, all who are recorded among the living in Jerusalem. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '4'
   - type: usfm
     marker: vlbl
     children:
@@ -121,6 +137,10 @@ segments:
   - type: text
     text: ' of fire. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '5'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -155,6 +175,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: ' will be a canopy. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '6'
   - type: usfm
     marker: vlbl
     children:

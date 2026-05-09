@@ -11,6 +11,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -85,6 +89,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '2'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -98,6 +106,10 @@ segments:
       text: shekels
   - type: text
     text: ' of silver, and one and one-half homers of barley. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:
@@ -130,6 +142,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '4'
   - type: usfm
     marker: vlbl
     children:
@@ -168,6 +184,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'teraphim. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '5'
   - type: usfm
     marker: vlbl
     children:

@@ -11,6 +11,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -21,6 +25,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '2'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -28,12 +36,20 @@ segments:
   - type: text
     text: 'Izay mandeha tsy misy tsiny ary manao izay mahitsy, sady misaintsaina ny marina ny fony; '
   - type: usfm
+    marker: v
+    metadata:
+      v: '3'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '3'
   - type: text
     text: 'Tsy manendrikendrika amin''ny lelany, sady tsy manisy ratsy ny sakaizany, ary tsy manao izay hahafa-baraka ny namany, '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '4'
   - type: usfm
     marker: vlbl
     children:
@@ -49,6 +65,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: ', fa manome voninahitra ny matahotra an''i Jehovah; tsy mivadika amin''ny fianianany, na dia maningotra ny tenany aza, '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '5'
   - type: usfm
     marker: vlbl
     children:

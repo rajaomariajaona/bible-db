@@ -11,6 +11,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -32,6 +36,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'the islands of the sea. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '2'
   - type: usfm
     marker: vlbl
     children:
@@ -62,6 +70,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'chronicles of the kings of Media and Persia? '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:

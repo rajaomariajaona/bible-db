@@ -5,6 +5,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -46,12 +50,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '2'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '2'
   - type: text
     text: 'En ce jour-là, ce que fera germer l’Eternel sera splendide et glorieux et le fruit du pays sera un magnifique sujet de fierté pour les survivants d’Israël. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:
@@ -60,12 +72,20 @@ segments:
   - type: text
     text: 'Alors ceux qui subsisteront, ceux qui resteront à Sion seront appelés saints, tous ceux qui, à Jérusalem, seront inscrits afin d’avoir la vie. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '4'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '4'
   - type: text
     text: 'Quand l’Eternel aura lavé la souillure des filles de Sion et purifié Jérusalem du sang qu’on y a répandu, par le souffle du jugement, par le souffle de l’incendie, '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '5'
   - type: usfm
     marker: vlbl
     children:
@@ -89,6 +109,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: '. Et au-dessus de toutes choses sa gloire sera comme un dais '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '6'
   - type: usfm
     marker: vlbl
     children:

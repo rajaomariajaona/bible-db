@@ -11,6 +11,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -18,12 +22,20 @@ segments:
   - type: text
     text: 'Le roi Assuérus soumit à la corvée aussi bien la partie continentale du pays que les îles. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '2'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '2'
   - type: text
     text: 'Tout ce qu''il a accompli par sa puissance et sa force, ainsi que les détails sur le rôle important qu''il a accordé à Mardochée, cela est décrit dans les annales des rois des Mèdes et des Perses. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:

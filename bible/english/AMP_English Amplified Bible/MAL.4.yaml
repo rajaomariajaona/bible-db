@@ -14,6 +14,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -28,12 +32,20 @@ segments:
   - type: text
     text: ' of hosts, “so that it will leave them neither root nor branch. [Is 5:21-25; Matt 3:12] '
   - type: usfm
+    marker: v
+    metadata:
+      v: '2'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '2'
   - type: text
     text: 'But for you who fear My name [with awe-filled reverence] the sun of righteousness will rise with healing in its wings. And you will go forward and leap [joyfully] like calves [released] from the stall. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:
@@ -52,6 +64,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '4'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -61,6 +77,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '5'
   - type: usfm
     marker: vlbl
     children:
@@ -75,6 +95,10 @@ segments:
       text: ord
   - type: text
     text: '. [Matt 11:14; 17:10-13] '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '6'
   - type: usfm
     marker: vlbl
     children:

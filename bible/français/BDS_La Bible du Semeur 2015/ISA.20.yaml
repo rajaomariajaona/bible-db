@@ -11,6 +11,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -89,6 +93,10 @@ segments:
   - type: text
     text: ', et s’en empara, '
   - type: usfm
+    marker: v
+    metadata:
+      v: '2'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -101,12 +109,20 @@ segments:
   - type: text
     text: 'Le prophète obéit et se promena nu et déchaussé. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '3'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '3'
   - type: text
     text: 'L’Eternel dit alors : Mon serviteur Esaïe a marché nu et déchaussé pendant trois ans pour servir de signe et de présage au sujet de l’Egypte et de l’Ethiopie. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '4'
   - type: usfm
     marker: vlbl
     children:
@@ -115,12 +131,20 @@ segments:
   - type: text
     text: 'Ainsi le roi d’Assyrie emmènera en déportation des captifs égyptiens et éthiopiens, des jeunes et des vieillards, nus et déchaussés et les reins découverts, à la honte de l’Egypte. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '5'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '5'
   - type: text
     text: 'Et tous ceux qui avaient mis leur confiance en l’Ethiopie et se faisaient une fierté de l’Egypte, seront terrifiés et couverts de honte. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '6'
   - type: usfm
     marker: vlbl
     children:

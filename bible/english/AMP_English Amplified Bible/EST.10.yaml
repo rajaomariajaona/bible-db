@@ -14,6 +14,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -21,12 +25,20 @@ segments:
   - type: text
     text: 'King Ahasuerus (Xerxes) imposed a tax on the land and on the coastlands of the sea. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '2'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '2'
   - type: text
     text: 'And all the accomplishments of his authority and strength, and the full account of the greatness of Mordecai to which the king had raised him, are they not written in the Book of the Chronicles of the Kings of Media and Persia? '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:

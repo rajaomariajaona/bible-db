@@ -11,6 +11,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -26,12 +30,20 @@ segments:
   - type: text
     text: '. Nataon''i Davida. Jehovah ô, tsy nirehareha ny foko, ary tsy niandranandrana ny masoko: Ary tsy nisaintsaina izay zavatra ambony loatra aho, Na izay saro-pantarina tsy takatro. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '2'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '2'
   - type: text
     text: 'Fa nampionona sy nampangina ny fanahiko aho; Tahaka ny zaza efa maoty eo amin-dreniny. Dia tahaka Izany ny fanahiko ato anatiko. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:

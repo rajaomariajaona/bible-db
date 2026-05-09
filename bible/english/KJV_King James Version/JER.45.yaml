@@ -11,12 +11,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '1'
   - type: text
     text: 'The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying, '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '2'
   - type: usfm
     marker: vlbl
     children:
@@ -32,6 +40,10 @@ segments:
   - type: text
     text: ', the God of Israel, unto thee, O Baruch; '
   - type: usfm
+    marker: v
+    metadata:
+      v: '3'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -45,6 +57,10 @@ segments:
       text: LORD
   - type: text
     text: ' hath added grief to my sorrow; I fainted in my sighing, and I find no rest. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '4'
   - type: usfm
     marker: vlbl
     children:
@@ -66,6 +82,10 @@ segments:
       text: that
   - type: text
     text: ' which I have built will I break down, and that which I have planted I will pluck up, even this whole land. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '5'
   - type: usfm
     marker: vlbl
     children:

@@ -11,6 +11,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -24,6 +28,10 @@ segments:
       text: Seigneur
   - type: text
     text: ' dit à Moïse et à Aaron : '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '2'
   - type: usfm
     marker: vlbl
     children:
@@ -160,6 +168,10 @@ segments:
   - type: text
     text: 'Lorsque quelqu''un a sur la peau une tumeur, une dartre ou une tache luisante qui devient un cas de « lèpre », on l''amènera à Aaron, le prêtre, ou à l''un de ses fils. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '3'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -222,6 +234,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Le prêtre examinera la lésion qui est sur la peau. Si le poil y est devenu blanc, et que la lésion paraisse plus profonde que la peau, c''est un cas de « lèpre » : le prêtre l''examinera et le déclarera impur. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '4'
   - type: usfm
     marker: vlbl
     children:
@@ -296,12 +312,20 @@ segments:
   - type: text
     text: 'S''il y a sur la peau une tache luisante blanche qui ne paraît pas plus profonde que la peau, et que le poil ne soit pas devenu blanc, le prêtre isolera le mal pendant sept jours. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '5'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '5'
   - type: text
     text: 'Le prêtre l''examinera le septième jour. Si la lésion lui paraît s''être stabilisée et ne pas s''être étendue sur la peau, le prêtre l''isolera une seconde fois pendant sept jours. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '6'
   - type: usfm
     marker: vlbl
     children:
@@ -310,12 +334,20 @@ segments:
   - type: text
     text: 'Le prêtre l''examinera une seconde fois le septième jour. Si la lésion est devenue pâle et ne s''est pas étendue sur la peau, le prêtre le déclarera pur : c''est une dartre ; il lavera ses vêtements, et il sera pur. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '7'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '7'
   - type: text
     text: 'Mais si la dartre s''étend sur la peau après qu''il s''est montré au prêtre pour être déclaré pur, il se montrera une seconde fois au prêtre. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '8'
   - type: usfm
     marker: vlbl
     children:
@@ -324,12 +356,20 @@ segments:
   - type: text
     text: 'Le prêtre l''examinera : si la dartre s''est étendue sur la peau, le prêtre le déclarera impur ; c''est la « lèpre ». '
   - type: usfm
+    marker: v
+    metadata:
+      v: '9'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '9'
   - type: text
     text: 'Lorsque quelqu''un présente un cas de « lèpre », on l''amènera au prêtre. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '10'
   - type: usfm
     marker: vlbl
     children:
@@ -387,6 +427,10 @@ segments:
   - type: text
     text: 'Le prêtre l''examinera : s''il y a sur la peau une tumeur blanche, si cette tumeur a fait blanchir le poil, et qu''il y ait un bourgeonnement de chair vive dans la tumeur, '
   - type: usfm
+    marker: v
+    metadata:
+      v: '11'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -394,12 +438,20 @@ segments:
   - type: text
     text: 'c''est une « lèpre » invétérée dans sa peau ; le prêtre le déclarera impur ; il ne l''isolera pas : il est impur. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '12'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '12'
   - type: text
     text: 'Si la « lèpre » fait une éruption sur la peau et que le mal couvre toute la peau, depuis la tête jusqu''aux pieds, partout où le prêtre regarde, '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '13'
   - type: usfm
     marker: vlbl
     children:
@@ -439,12 +491,20 @@ segments:
   - type: text
     text: 'le prêtre l''examinera : si la « lèpre » couvre tout le corps, il déclarera pur le mal : comme il est devenu entièrement blanc, il est pur. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '14'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '14'
   - type: text
     text: 'Mais le jour où l''on apercevra en lui de la chair vive, il sera impur ; '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '15'
   - type: usfm
     marker: vlbl
     children:
@@ -453,6 +513,10 @@ segments:
   - type: text
     text: 'quand le prêtre aura vu la chair vive, il le déclarera impur : la chair vive est impure, c''est la « lèpre ». '
   - type: usfm
+    marker: v
+    metadata:
+      v: '16'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -460,12 +524,20 @@ segments:
   - type: text
     text: 'Si la chair vive change et redevient blanche, il ira vers le prêtre. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '17'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '17'
   - type: text
     text: 'Le prêtre l''examinera ; si la lésion est redevenue blanche, le prêtre déclarera pur le mal : il est pur. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '18'
   - type: usfm
     marker: vlbl
     children:
@@ -493,12 +565,20 @@ segments:
   - type: text
     text: 'Lorsque quelqu''un a eu sur la peau un ulcère qui s''est guéri, '
   - type: usfm
+    marker: v
+    metadata:
+      v: '19'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '19'
   - type: text
     text: 'et qu''il apparaît, à la place où était l''ulcère, une tumeur blanche ou une tache luisante d''un blanc rougeâtre, il se montrera au prêtre. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '20'
   - type: usfm
     marker: vlbl
     children:
@@ -507,12 +587,20 @@ segments:
   - type: text
     text: 'Le prêtre l''examinera : si la tache paraît plus enfoncée que la peau, et que le poil soit devenu blanc, le prêtre le déclarera impur ; c''est un cas de « lèpre » qui a fait éruption dans l''ulcère. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '21'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '21'
   - type: text
     text: 'Si le prêtre voit qu''il n''y a pas de poil blanc dans la tache, qu''elle n''est pas plus enfoncée que la peau, et qu''elle est devenue pâle, il l''isolera pendant sept jours. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '22'
   - type: usfm
     marker: vlbl
     children:
@@ -574,6 +662,10 @@ segments:
   - type: text
     text: 'Si la tache s''est étendue sur la peau, le prêtre le déclarera impur : c''est un cas de « lèpre ». '
   - type: usfm
+    marker: v
+    metadata:
+      v: '23'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -584,12 +676,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '24'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '24'
   - type: text
     text: 'Lorsque quelqu''un a eu sur la peau une brûlure par le feu, que le bourgeonnement de la brûlure forme une tache luisante blanche ou d''un blanc rougeâtre, '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '25'
   - type: usfm
     marker: vlbl
     children:
@@ -598,6 +698,10 @@ segments:
   - type: text
     text: 'le prêtre l''examinera : si le poil est devenu blanc dans la tache luisante, et que celle-ci paraisse plus profonde que la peau, c''est la « lèpre » qui a fait éruption dans la brûlure ; le prêtre le déclarera impur : c''est un cas de « lèpre ». '
   - type: usfm
+    marker: v
+    metadata:
+      v: '26'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -605,12 +709,20 @@ segments:
   - type: text
     text: 'Si le prêtre voit qu''il n''y a pas de poil blanc dans la tache luisante, qu''elle n''est pas plus enfoncée que la peau et qu''elle est devenue pâle, le prêtre l''isolera pendant sept jours. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '27'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '27'
   - type: text
     text: 'Le prêtre l''examinera le septième jour. Si la tache s''est étendue sur la peau, le prêtre le déclarera impur : c''est un cas de « lèpre ». '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '28'
   - type: usfm
     marker: vlbl
     children:
@@ -621,6 +733,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '29'
   - type: usfm
     marker: vlbl
     children:
@@ -660,12 +776,20 @@ segments:
   - type: text
     text: 'Lorsqu''un homme ou une femme a une lésion à la tête ou au menton, '
   - type: usfm
+    marker: v
+    metadata:
+      v: '30'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '30'
   - type: text
     text: 'le prêtre examinera la lésion. Si elle paraît plus profonde que la peau, et qu''il y ait du poil jaunâtre et mince, le prêtre le déclarera impur : c''est la teigne, c''est la « lèpre » de la tête ou du menton. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '31'
   - type: usfm
     marker: vlbl
     children:
@@ -674,12 +798,20 @@ segments:
   - type: text
     text: 'Si le prêtre voit que la lésion de la teigne ne paraît pas plus profonde que la peau, et qu''il n''y a pas de poil noir, le prêtre isolera le cas de teigne pendant sept jours. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '32'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '32'
   - type: text
     text: 'Le prêtre examinera la lésion le septième jour. Si la teigne ne s''est pas étendue, s''il n''y a pas de poil jaunâtre, et si elle ne paraît pas plus profonde que la peau, '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '33'
   - type: usfm
     marker: vlbl
     children:
@@ -734,12 +866,20 @@ segments:
   - type: text
     text: 'il se rasera, mais il ne rasera pas l''endroit où est la teigne ; le prêtre l''isolera une seconde fois pendant sept jours. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '34'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '34'
   - type: text
     text: 'Le prêtre examinera la teigne le septième jour. Si la teigne ne s''est pas étendue sur la peau, et si elle ne paraît pas plus profonde que la peau, le prêtre le déclarera pur ; il lavera ses vêtements, et il sera pur. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '35'
   - type: usfm
     marker: vlbl
     children:
@@ -748,12 +888,20 @@ segments:
   - type: text
     text: 'Mais si la teigne s''étend sur la peau après qu''il a été déclaré pur, '
   - type: usfm
+    marker: v
+    metadata:
+      v: '36'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '36'
   - type: text
     text: 'le prêtre l''examinera ; si la teigne s''est étendue sur la peau, le prêtre n''aura pas à rechercher s''il y a du poil jaunâtre : il est impur. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '37'
   - type: usfm
     marker: vlbl
     children:
@@ -765,12 +913,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '38'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '38'
   - type: text
     text: 'Lorsqu''un homme ou une femme a sur la peau des taches luisantes, des taches blanches, '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '39'
   - type: usfm
     marker: vlbl
     children:
@@ -801,12 +957,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '40'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '40'
   - type: text
     text: 'Lorsqu''un homme perd ses cheveux, c''est un chauve : il est pur. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '41'
   - type: usfm
     marker: vlbl
     children:
@@ -841,12 +1005,20 @@ segments:
   - type: text
     text: 'S''il perd ses cheveux sur le devant, c''est un chauve du front : il est pur. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '42'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '42'
   - type: text
     text: 'Mais s''il y a dans la partie chauve de derrière ou de devant une lésion d''un blanc rougeâtre, c''est la « lèpre » qui a fait éruption dans la partie chauve de derrière ou de devant. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '43'
   - type: usfm
     marker: vlbl
     children:
@@ -900,6 +1072,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Le prêtre l''examinera : si le mal est une tumeur d''un blanc rougeâtre dans la partie chauve de derrière ou de devant, du même aspect que la « lèpre » de la peau, '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '44'
   - type: usfm
     marker: vlbl
     children:
@@ -956,6 +1132,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '45'
   - type: usfm
     marker: vlbl
     children:
@@ -1022,6 +1202,10 @@ segments:
   - type: text
     text: 'Le « lépreux » atteint par le mal aura les vêtements déchirés et les cheveux défaits ; il se couvrira la moustache et criera : Impur ! Impur ! '
   - type: usfm
+    marker: v
+    metadata:
+      v: '46'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1052,6 +1236,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '47'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1081,6 +1269,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Lorsqu''il y a une tache de « lèpre » sur un vêtement – sur un vêtement de laine ou sur un vêtement de lin, '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '48'
   - type: usfm
     marker: vlbl
     children:
@@ -1118,6 +1310,10 @@ segments:
   - type: text
     text: 'sur une chaîne ou sur une trame de lin ou de laine, sur une peau ou sur un ouvrage de peau quelconque – '
   - type: usfm
+    marker: v
+    metadata:
+      v: '49'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1151,12 +1347,20 @@ segments:
   - type: text
     text: 'et que la tache est verdâtre ou rougeâtre sur le vêtement ou sur la peau, sur la chaîne ou sur la trame, ou sur un objet de peau quelconque, c''est un cas de « lèpre » ; on le montrera au prêtre. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '50'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '50'
   - type: text
     text: 'Le prêtre examinera la tache et l''isolera pendant sept jours. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '51'
   - type: usfm
     marker: vlbl
     children:
@@ -1201,6 +1405,10 @@ segments:
   - type: text
     text: 'Il examinera la tache le septième jour. Si la tache s''est étendue sur le vêtement, sur la chaîne ou sur la trame, sur la peau ou sur l''ouvrage fait de peau, quel qu''il soit, c''est un cas de « lèpre » pernicieuse : il est impur. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '52'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1237,6 +1445,10 @@ segments:
   - type: text
     text: 'Il brûlera le vêtement, la chaîne ou la trame de laine ou de lin, l''objet de peau quelconque sur lequel se trouve la tache : c''est une « lèpre » pernicieuse ; l''objet sera jeté au feu. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '53'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1244,12 +1456,20 @@ segments:
   - type: text
     text: 'Mais si le prêtre voit que la tache ne s''est pas étendue sur le vêtement, sur la chaîne ou sur la trame, sur l''objet de peau quelconque, '
   - type: usfm
+    marker: v
+    metadata:
+      v: '54'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '54'
   - type: text
     text: 'le prêtre ordonnera qu''on le lave, et il l''isolera une seconde fois pendant sept jours. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '55'
   - type: usfm
     marker: vlbl
     children:
@@ -1297,6 +1517,10 @@ segments:
   - type: text
     text: 'Le prêtre examinera la tache après qu''elle aura été lavée. Si la tache n''a pas changé d''aspect et ne s''est pas étendue, il est impur ; il sera jeté au feu ; c''est une partie de l''endroit ou de l''envers qui a été rongée. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '56'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1330,12 +1554,20 @@ segments:
   - type: text
     text: 'Si le prêtre voit que la tache est devenue pâle après avoir été lavée, il l''arrachera du vêtement ou de la peau, de la chaîne ou de la trame. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '57'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '57'
   - type: text
     text: 'Si elle paraît encore sur le vêtement, sur la chaîne ou sur la trame, ou sur l''objet de peau quelconque, c''est une éruption de « lèpre » : l''objet sera jeté au feu. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '58'
   - type: usfm
     marker: vlbl
     children:
@@ -1370,6 +1602,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '59'
   - type: usfm
     marker: vlbl
     children:

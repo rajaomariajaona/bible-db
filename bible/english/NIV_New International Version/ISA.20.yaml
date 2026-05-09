@@ -11,12 +11,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '1'
   - type: text
     text: 'In the year that the supreme commander, sent by Sargon king of Assyria, came to Ashdod and attacked and captured it— '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '2'
   - type: usfm
     marker: vlbl
     children:
@@ -34,6 +42,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:
@@ -65,6 +77,10 @@ segments:
   - type: text
     text: ' '
   - type: usfm
+    marker: v
+    metadata:
+      v: '4'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -72,12 +88,20 @@ segments:
   - type: text
     text: 'so the king of Assyria will lead away stripped and barefoot the Egyptian captives and Cushite exiles, young and old, with buttocks bared—to Egypt’s shame. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '5'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '5'
   - type: text
     text: 'Those who trusted in Cush and boasted in Egypt will be dismayed and put to shame. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '6'
   - type: usfm
     marker: vlbl
     children:

@@ -11,12 +11,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '1'
   - type: text
     text: 'L''Eternel dit à Moïse: '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '2'
   - type: usfm
     marker: vlbl
     children:
@@ -25,12 +33,20 @@ segments:
   - type: text
     text: '«Transmets ces instructions aux Israélites: Lorsqu''on consacrera une personne à l''Eternel par un vœu, on le fera d''après ton estimation. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '3'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '3'
   - type: text
     text: 'Pour un homme de 20 à 60 ans, ton estimation sera de 50 pièces d''argent, d''après la valeur étalon du sanctuaire; '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '4'
   - type: usfm
     marker: vlbl
     children:
@@ -39,12 +55,20 @@ segments:
   - type: text
     text: 'si c''est une femme, ton estimation sera de 30 pièces. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '5'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '5'
   - type: text
     text: 'Pour une personne de 5 à 20 ans, ton estimation sera de 20 pièces pour un garçon, et de 10 pièces pour une fille. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '6'
   - type: usfm
     marker: vlbl
     children:
@@ -53,12 +77,20 @@ segments:
   - type: text
     text: 'D''un mois à 5 ans, ton estimation sera de 5 pièces d''argent pour un garçon, et de 3 pièces d''argent pour une fille. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '7'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '7'
   - type: text
     text: 'Pour une personne de 60 ans et plus, ton estimation sera de 15 pièces pour un homme, et de 10 pièces pour une femme. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '8'
   - type: usfm
     marker: vlbl
     children:
@@ -70,12 +102,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '9'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '9'
   - type: text
     text: '»S''il s''agit d''animaux qui peuvent être offerts en sacrifice à l''Eternel, tout animal qu''on donnera à l''Eternel sera saint. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '10'
   - type: usfm
     marker: vlbl
     children:
@@ -84,6 +124,10 @@ segments:
   - type: text
     text: 'On ne l''échangera pas, on n''en mettra pas un mauvais à la place d''un bon ni un bon à la place d''un mauvais; si l''on remplace un animal par un autre, ils seront tous les deux saints. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '11'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -91,12 +135,20 @@ segments:
   - type: text
     text: 'S''il s''agit d''animaux impurs qui ne peuvent être offerts en sacrifice à l''Eternel, on présentera l''animal au prêtre, '
   - type: usfm
+    marker: v
+    metadata:
+      v: '12'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '12'
   - type: text
     text: 'qui en fera l''estimation en fonction de ses qualités et défauts, et l''on se conformera à l''estimation du prêtre. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '13'
   - type: usfm
     marker: vlbl
     children:
@@ -108,12 +160,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '14'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '14'
   - type: text
     text: '»Si quelqu''un consacre sa maison comme une chose sainte pour l''Eternel, le prêtre en fera l''estimation en fonction de son état, bon ou mauvais, et l''on s''en tiendra à l''estimation du prêtre. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '15'
   - type: usfm
     marker: vlbl
     children:
@@ -125,12 +185,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '16'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '16'
   - type: text
     text: '»Si quelqu''un consacre à l''Eternel un champ de sa propriété, ton estimation sera en rapport avec la quantité de semence, 50 pièces d''argent pour 220 litres d''orge. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '17'
   - type: usfm
     marker: vlbl
     children:
@@ -139,12 +207,20 @@ segments:
   - type: text
     text: 'Si c''est dès l''année du jubilé qu''il consacre son champ, on s''en tiendra à ton estimation; '
   - type: usfm
+    marker: v
+    metadata:
+      v: '18'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '18'
   - type: text
     text: 'si c''est après le jubilé qu''il consacre son champ, le prêtre en évaluera le prix en fonction du nombre d''années qui restent jusqu''au jubilé et on fera une réduction sur ton estimation. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '19'
   - type: usfm
     marker: vlbl
     children:
@@ -153,12 +229,20 @@ segments:
   - type: text
     text: 'Si celui qui a consacré son champ veut le racheter, il ajoutera un cinquième au prix de ton estimation et le champ lui restera. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '20'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '20'
   - type: text
     text: 'S''il ne rachète pas le champ et qu''on le vende à un autre homme, il ne pourra plus être racheté. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '21'
   - type: usfm
     marker: vlbl
     children:
@@ -170,6 +254,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '22'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -177,12 +265,20 @@ segments:
   - type: text
     text: '»Si quelqu''un consacre à l''Eternel un champ qu''il a acquis et qui ne fait pas partie de sa propriété, '
   - type: usfm
+    marker: v
+    metadata:
+      v: '23'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '23'
   - type: text
     text: 'le prêtre en évaluera le prix d''après ton estimation jusqu''à l''année du jubilé et cet homme paiera le jour même le prix fixé comme étant consacré à l''Eternel. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '24'
   - type: usfm
     marker: vlbl
     children:
@@ -194,6 +290,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '25'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -204,12 +304,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '26'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '26'
   - type: text
     text: '»Personne ne pourra consacrer le premier-né de son bétail, car il appartient déjà à l''Eternel en tant que premier-né; qu''il s''agisse d''un veau ou d''un agneau, il appartient à l''Eternel. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '27'
   - type: usfm
     marker: vlbl
     children:
@@ -221,12 +329,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '28'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '28'
   - type: text
     text: '»Aucun des biens qu''un homme vouera de manière définitive à l''Eternel ne pourra être vendu ni racheté, qu''il s''agisse d''une personne, d''un animal ou d''un champ de sa propriété; tout ce qui lui sera voué de manière définitive sera très saint, propriété de l''Eternel. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '29'
   - type: usfm
     marker: vlbl
     children:
@@ -238,12 +354,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '30'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '30'
   - type: text
     text: '»Toute dîme de la terre, soit des récoltes de la terre, soit du fruit des arbres, appartient à l''Eternel; c''est une chose consacrée à l''Eternel. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '31'
   - type: usfm
     marker: vlbl
     children:
@@ -252,12 +376,20 @@ segments:
   - type: text
     text: 'Si quelqu''un veut racheter quelque chose de sa dîme, il y ajoutera un cinquième. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '32'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '32'
   - type: text
     text: 'Toute dîme de gros et de petit bétail, une bête sur dix de tout ce qui passe sous un bâton de berger, sera consacrée à l''Eternel. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '33'
   - type: usfm
     marker: vlbl
     children:
@@ -268,6 +400,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '34'
   - type: usfm
     marker: vlbl
     children:

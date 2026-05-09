@@ -11,6 +11,10 @@ segments:
   marker: m
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -21,6 +25,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '8'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -30,6 +38,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '14'
   - type: usfm
     marker: vlbl
     children:

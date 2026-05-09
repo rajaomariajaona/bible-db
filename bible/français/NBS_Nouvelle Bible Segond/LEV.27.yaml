@@ -11,6 +11,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -24,6 +28,10 @@ segments:
       text: Seigneur
   - type: text
     text: ' dit à Moïse : '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '2'
   - type: usfm
     marker: vlbl
     children:
@@ -111,6 +119,10 @@ segments:
   - type: text
     text: '. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '3'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -174,6 +186,10 @@ segments:
   - type: text
     text: 'Pour un homme de vingt à soixante ans, la valeur fixée est de cinquante sicles d''argent, selon le sicle du sanctuaire ; '
   - type: usfm
+    marker: v
+    metadata:
+      v: '4'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -220,12 +236,20 @@ segments:
   - type: text
     text: 'si c''est une femme, la valeur fixée est de trente sicles. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '5'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '5'
   - type: text
     text: 'De cinq à vingt ans, la valeur fixée est de vingt sicles pour un garçon et de dix sicles pour une fille. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '6'
   - type: usfm
     marker: vlbl
     children:
@@ -234,12 +258,20 @@ segments:
   - type: text
     text: 'D''un mois à cinq ans, la valeur fixée est de cinq sicles d''argent pour un garçon et de trois sicles d''argent pour une fille. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '7'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '7'
   - type: text
     text: 'Depuis l''âge de soixante ans et au-dessus, la valeur fixée est de quinze sicles pour un homme et de dix sicles pour une femme. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '8'
   - type: usfm
     marker: vlbl
     children:
@@ -281,6 +313,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '9'
   - type: usfm
     marker: vlbl
     children:
@@ -339,6 +375,10 @@ segments:
   - type: text
     text: ' sera consacré. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '10'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -359,6 +399,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'On ne la changera pas, on ne remplacera pas une bonne par une mauvaise ni une mauvaise par une bonne ; si l''on remplace une bête par une autre, l''une et l''autre seront consacrées. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '11'
   - type: usfm
     marker: vlbl
     children:
@@ -400,12 +444,20 @@ segments:
   - type: text
     text: ', quelle qu''elle soit, on placera la bête devant le prêtre, '
   - type: usfm
+    marker: v
+    metadata:
+      v: '12'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '12'
   - type: text
     text: 'le prêtre en fixera la valeur selon qu''elle est bonne ou mauvaise ; on s''en rapportera à la valeur fixée par le prêtre. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '13'
   - type: usfm
     marker: vlbl
     children:
@@ -458,6 +510,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '14'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -471,6 +527,10 @@ segments:
       text: Seigneur
   - type: text
     text: ', le prêtre en fixera la valeur selon qu''elle est bonne ou mauvaise ; on s''en tiendra à la valeur que fixera le prêtre. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '15'
   - type: usfm
     marker: vlbl
     children:
@@ -521,6 +581,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '16'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -535,12 +599,20 @@ segments:
   - type: text
     text: ' un champ de sa propriété, la valeur fixée sera en rapport avec la quantité de semence, cinquante sicles d''argent pour un homer de semence d''orge. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '17'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '17'
   - type: text
     text: 'Si c''est dès l''année du jubilé qu''il consacre son champ, on s''en tiendra à la valeur fixée ; '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '18'
   - type: usfm
     marker: vlbl
     children:
@@ -578,6 +650,10 @@ segments:
   - type: text
     text: 'si c''est après le jubilé qu''il consacre son champ, le prêtre en calculera le prix à raison du nombre d''années qui restent jusqu''à l''année du jubilé, et on fera une déduction sur la valeur fixée. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '19'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -585,12 +661,20 @@ segments:
   - type: text
     text: 'Si celui qui a consacré son champ veut le reprendre, il ajoutera un cinquième au prix fixé, et le champ lui restera. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '20'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '20'
   - type: text
     text: 'S''il ne reprend pas le champ et qu''on le vende à quelqu''un d''autre, on ne pourra plus le reprendre. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '21'
   - type: usfm
     marker: vlbl
     children:
@@ -652,6 +736,10 @@ segments:
   - type: text
     text: ' comme un champ qui a été frappé d''anathème : il deviendra la propriété du prêtre. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '22'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -665,6 +753,10 @@ segments:
       text: Seigneur
   - type: text
     text: ' un champ qu''il a acheté et qui ne fait pas partie des champs de sa propriété, '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '23'
   - type: usfm
     marker: vlbl
     children:
@@ -704,6 +796,10 @@ segments:
   - type: text
     text: '. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '24'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -724,6 +820,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'L''année du jubilé, le champ reviendra à celui à qui il avait été acheté et qui avait la propriété du terrain. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '25'
   - type: usfm
     marker: vlbl
     children:
@@ -748,6 +848,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '26'
   - type: usfm
     marker: vlbl
     children:
@@ -823,6 +927,10 @@ segments:
   - type: text
     text: '. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '27'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -856,6 +964,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '28'
   - type: usfm
     marker: vlbl
     children:
@@ -942,6 +1054,10 @@ segments:
   - type: text
     text: '. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '29'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -951,6 +1067,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '30'
   - type: usfm
     marker: vlbl
     children:
@@ -994,12 +1114,20 @@ segments:
   - type: text
     text: '. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '31'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '31'
   - type: text
     text: 'Si quelqu''un veut reprendre quelque chose de sa dîme, il y ajoutera un cinquième ; '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '32'
   - type: usfm
     marker: vlbl
     children:
@@ -1041,6 +1169,10 @@ segments:
   - type: text
     text: '. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '33'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1074,6 +1206,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '34'
   - type: usfm
     marker: vlbl
     children:

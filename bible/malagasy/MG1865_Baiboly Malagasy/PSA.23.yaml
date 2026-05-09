@@ -11,6 +11,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -18,12 +22,20 @@ segments:
   - type: text
     text: 'Salamo nataon''i Davida. Jehovah no Mpiandry ahy, tsy hanan-java-mahory aho, '
   - type: usfm
+    marker: v
+    metadata:
+      v: '2'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '2'
   - type: text
     text: 'Mampandry ahy amin''ny ahi-maitso Izy; mitondra ahy eo amoron''ny rano fialan-tsasatra Izy. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:
@@ -35,12 +47,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '4'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '4'
   - type: text
     text: 'Eny, na dia mandeha mamaky ny lohasaha aloky ny fahafatesana aza aho, dia tsy hatahotra ny loza aho, fa Hianao no amiko; ny tsorakazonao sy ny tehinao, ireo no mahafa-tahotra ahy. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '5'
   - type: usfm
     marker: vlbl
     children:
@@ -51,6 +71,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '6'
   - type: usfm
     marker: vlbl
     children:

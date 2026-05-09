@@ -18,6 +18,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -42,12 +46,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '2'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '2'
   - type: text
     text: 'Ary hitako nisy toa ranomasina fitaratra miharo afo; ka izay olona naharesy an’ilay biby sy ny sariny ary ny isa mifandraika amin’ny anarany dia nijoro teo amoron’io ranomasina fitaratra io sady nitana ny lokanga nomen’Andriamanitra azy. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:
@@ -78,6 +90,10 @@ segments:
 - type: usfm
   marker: q1
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '4'
   - type: usfm
     marker: vlbl
     children:
@@ -170,6 +186,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '5'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -200,6 +220,10 @@ segments:
   - type: text
     text: '; '
   - type: usfm
+    marker: v
+    metadata:
+      v: '6'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -207,12 +231,20 @@ segments:
   - type: text
     text: 'ary ny anjely fito izay nitana ny loza fito dia nivoaka avy tao amin’ny tempoly; akanjo madio mangatsakatsaka natao tamin’ny kiran-drongony no niakanjoany ary fehikibo volamena no nietrany. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '7'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '7'
   - type: text
     text: 'Dia nomen’ny anankiray tamin’ny zava-miaina efatra an’ireo anjely fito ny lovia volamena fito, feno ny haviniran’ilay Andriamanitra velona mandrakizay mandrakizay. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '8'
   - type: usfm
     marker: vlbl
     children:

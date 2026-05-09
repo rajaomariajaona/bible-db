@@ -11,6 +11,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -18,12 +22,20 @@ segments:
   - type: text
     text: 'Salamo ho fiderana. Mihobia ho an''i Jehovah, ry tany rehetra. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '2'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '2'
   - type: text
     text: 'Manompoa an''i Jehovah amin''ny fifaliana; Mankanesa eo anatrehany amin''ny fihobiana. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:
@@ -40,12 +52,20 @@ segments:
   - type: text
     text: ', Dia olony sy ondry fiandriny. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '4'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '4'
   - type: text
     text: 'Midira eo amin''ny vavahadiny amin''ny fisaorana, Ary eo an-kianjany amin''ny fiderana; Misaora Azy, mankalazà ny anarany, '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '5'
   - type: usfm
     marker: vlbl
     children:

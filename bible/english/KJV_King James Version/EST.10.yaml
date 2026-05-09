@@ -5,6 +5,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -19,6 +23,10 @@ segments:
   - type: text
     text: ' the isles of the sea. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '2'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -32,6 +40,10 @@ segments:
       text: are
   - type: text
     text: ' they not written in the book of the chronicles of the kings of Media and Persia? '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:

@@ -11,6 +11,10 @@ segments:
   marker: m
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -27,6 +31,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '2'
   - type: usfm
     marker: vlbl
     children:
@@ -51,6 +59,10 @@ segments:
   marker: m
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '4'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -67,6 +79,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '5'
   - type: usfm
     marker: vlbl
     children:
@@ -92,6 +108,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '10'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -108,6 +128,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '20'
   - type: usfm
     marker: vlbl
     children:
@@ -140,6 +164,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '27'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -169,6 +197,10 @@ segments:
 - type: usfm
   marker: m
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '30'
   - type: usfm
     marker: vlbl
     children:

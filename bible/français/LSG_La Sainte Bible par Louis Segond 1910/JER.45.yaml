@@ -17,12 +17,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '1'
   - type: text
     text: 'La parole que Jérémie, le prophète, adressa à Baruc, fils de Nérija, lorsqu’il écrivit dans un livre ces paroles, sous la dictée de Jérémie, la quatrième année de Jojakim, fils de Josias, roi de Juda. Il dit: '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '2'
   - type: usfm
     marker: vlbl
     children:
@@ -31,6 +39,10 @@ segments:
   - type: text
     text: 'Ainsi parle l’Éternel, le Dieu d’Israël, sur toi, Baruc: '
   - type: usfm
+    marker: v
+    metadata:
+      v: '3'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -38,12 +50,20 @@ segments:
   - type: text
     text: 'Tu dis: Malheur à moi! Car l’Éternel ajoute le chagrin à ma douleur; je m’épuise en soupirant, et je ne trouve point de repos. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '4'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '4'
   - type: text
     text: 'Dis-lui: Ainsi parle l’Éternel: Voici, ce que j’ai bâti, je le détruirai; ce que j’ai planté, je l’arracherai, savoir tout ce pays. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '5'
   - type: usfm
     marker: vlbl
     children:

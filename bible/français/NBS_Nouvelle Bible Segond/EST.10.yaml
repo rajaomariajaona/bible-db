@@ -11,6 +11,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -70,6 +74,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Le roi Xerxès frappa d''un impôt le pays et les îles de la mer. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '2'
   - type: usfm
     marker: vlbl
     children:
@@ -180,6 +188,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Tout le récit de sa puissance et de sa vaillance, ainsi que le détail de l''élévation de Mardochée par le roi, tout cela est écrit dans le livre des chroniques des rois de Médie et de Perse. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:

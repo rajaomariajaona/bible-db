@@ -11,6 +11,10 @@ segments:
   marker: d
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -21,12 +25,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '2'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '2'
   - type: text
     text: 'Voici ce que dit l''Eternel, le Dieu d''Israël, à ton sujet, Baruc: '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:
@@ -35,12 +47,20 @@ segments:
   - type: text
     text: '«Tu dis: ‘Quel malheur! L''Eternel ajoute le chagrin à ma souffrance. Je suis fatigué de gémir sans trouver de repos.’ '
   - type: usfm
+    marker: v
+    metadata:
+      v: '4'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '4'
   - type: text
     text: 'Tu lui annonceras: ‘Voici ce que dit l''Eternel: Je suis moi-même en train de détruire ce que j''ai construit, je suis moi-même en train d''arracher ce que j''ai planté, partout dans ce pays. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '5'
   - type: usfm
     marker: vlbl
     children:

@@ -11,6 +11,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -24,6 +28,10 @@ segments:
       text: Seigneur
   - type: text
     text: ' dit à Moïse : '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '2'
   - type: usfm
     marker: vlbl
     children:
@@ -72,6 +80,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Voici quelle sera la loi concernant le « lépreux », le jour de sa purification. On l''amènera au prêtre. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:
@@ -132,6 +144,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Le prêtre sortira du camp. Si le prêtre voit que le « lépreux » est guéri du fléau de la « lèpre », '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '4'
   - type: usfm
     marker: vlbl
     children:
@@ -244,6 +260,10 @@ segments:
   - type: text
     text: 'le prêtre ordonnera qu''on prenne, pour celui qui doit être purifié, deux oiseaux purs vivants, du bois de cèdre, de l''écarlate et de l''hysope. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '5'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -269,6 +289,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Le prêtre ordonnera qu''on immole le premier oiseau sur un récipient de terre, au-dessus d''une eau vive. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '6'
   - type: usfm
     marker: vlbl
     children:
@@ -296,6 +320,10 @@ segments:
   - type: text
     text: 'Quant à l''oiseau vivant, il le prendra, avec le bois de cèdre, l''écarlate et l''hysope ; il les trempera, avec l''oiseau vivant, dans le sang de l''oiseau immolé au-dessus de l''eau vive. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '7'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -305,6 +333,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '8'
   - type: usfm
     marker: vlbl
     children:
@@ -374,6 +406,10 @@ segments:
   - type: text
     text: 'Celui qui se purifie lavera ses vêtements, rasera tout son poil et se lavera avec de l''eau, après quoi il sera pur. Ensuite il pourra rentrer dans le camp, mais il restera sept jours hors de sa tente. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '9'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -411,6 +447,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Le septième jour, il rasera tout son poil, sa tête, sa barbe, ses sourcils, il rasera tout son poil ; il lavera ses vêtements et lavera son corps avec de l''eau, après quoi il sera pur. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '10'
   - type: usfm
     marker: vlbl
     children:
@@ -508,6 +548,10 @@ segments:
   - type: text
     text: 'Le huitième jour, il prendra deux moutons sans défaut et une agnelle d''un an sans défaut, trois dixièmes de fleur de farine pétrie à l''huile, en offrande végétale, et un log d''huile. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '11'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -521,6 +565,10 @@ segments:
       text: Seigneur
   - type: text
     text: ', à l''entrée de la tente de la Rencontre. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '12'
   - type: usfm
     marker: vlbl
     children:
@@ -573,6 +621,10 @@ segments:
       text: Seigneur
   - type: text
     text: '. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '13'
   - type: usfm
     marker: vlbl
     children:
@@ -644,6 +696,10 @@ segments:
   - type: text
     text: 'Il immolera le mouton dans le lieu où on immole le sacrifice pour le péché et l''holocauste, dans le lieu sacré : le sacrifice de réparation, comme le sacrifice pour le péché, appartient au prêtre : c''est une chose très sacrée. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '14'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -664,6 +720,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Le prêtre prendra du sang du sacrifice de réparation ; le prêtre en mettra sur le lobe de l''oreille droite de celui qui se purifie, sur le pouce de sa main droite et sur le pouce de son pied droit. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '15'
   - type: usfm
     marker: vlbl
     children:
@@ -701,6 +761,10 @@ segments:
   - type: text
     text: 'Le prêtre prendra du log d''huile et il en versera dans le creux de sa main gauche. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '16'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -729,12 +793,20 @@ segments:
   - type: text
     text: '. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '17'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '17'
   - type: text
     text: 'Le prêtre mettra de l''huile qui lui reste dans la main sur le lobe de l''oreille droite de celui qui se purifie, sur le pouce de sa main droite et sur le pouce de son pied droit, par-dessus le sang du sacrifice de réparation. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '18'
   - type: usfm
     marker: vlbl
     children:
@@ -773,6 +845,10 @@ segments:
       text: Seigneur
   - type: text
     text: '. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '19'
   - type: usfm
     marker: vlbl
     children:
@@ -858,6 +934,10 @@ segments:
   - type: text
     text: 'Puis le prêtre offrira le sacrifice pour le péché ; il fera sur celui qui se purifie l''expiation de son impureté. Ensuite il immolera l''holocauste. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '20'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -917,6 +997,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '21'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -972,12 +1056,20 @@ segments:
   - type: text
     text: 'S''il est pauvre et que ses ressources soient insuffisantes, il prendra un seul mouton en sacrifice de réparation, pour le dédier rituellement afin de faire l''expiation sur lui. Il prendra un dixième de fleur de farine pétrie à l''huile, pour l''offrande végétale, un log d''huile '
   - type: usfm
+    marker: v
+    metadata:
+      v: '22'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '22'
   - type: text
     text: 'et deux tourterelles ou deux colombes, selon les ressources dont il dispose, l''une en sacrifice pour le péché, et l''autre en holocauste. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '23'
   - type: usfm
     marker: vlbl
     children:
@@ -1017,6 +1109,10 @@ segments:
   - type: text
     text: '. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '24'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1030,6 +1126,10 @@ segments:
       text: Seigneur
   - type: text
     text: '. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '25'
   - type: usfm
     marker: vlbl
     children:
@@ -1062,6 +1162,10 @@ segments:
   - type: text
     text: 'Il immolera le mouton du sacrifice de réparation. Le prêtre prendra du sang du sacrifice de réparation ; il en mettra sur le lobe de l''oreille droite de celui qui se purifie, sur le pouce de sa main droite et sur le pouce de son pied droit. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '26'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1090,6 +1194,10 @@ segments:
   - type: text
     text: 'Le prêtre versera de l''huile dans le creux de sa main gauche. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '27'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1104,12 +1212,20 @@ segments:
   - type: text
     text: '. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '28'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '28'
   - type: text
     text: 'Le prêtre mettra de l''huile qui est dans sa main sur le lobe de l''oreille droite de celui qui se purifie, sur le pouce de sa main droite et sur le pouce de son pied droit, à la place où il a mis du sang du sacrifice de réparation. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '29'
   - type: usfm
     marker: vlbl
     children:
@@ -1125,12 +1241,20 @@ segments:
   - type: text
     text: '. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '30'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '30'
   - type: text
     text: 'Puis il offrira la première tourterelle ou la première colombe, selon ce qu''il aura pu se procurer ; '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '31'
   - type: usfm
     marker: vlbl
     children:
@@ -1182,6 +1306,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '32'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1198,6 +1326,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '33'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1211,6 +1343,10 @@ segments:
       text: Seigneur
   - type: text
     text: ' dit à Moïse et à Aaron : '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '34'
   - type: usfm
     marker: vlbl
     children:
@@ -1272,6 +1408,10 @@ segments:
   - type: text
     text: 'Lorsque vous serez arrivés en Canaan, le pays que je vous donne comme propriété, si je mets une tache de « lèpre » sur une maison du pays qui est votre propriété, '
   - type: usfm
+    marker: v
+    metadata:
+      v: '35'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1303,6 +1443,10 @@ segments:
   - type: text
     text: 'celui à qui appartient la maison ira le déclarer au prêtre en disant : « Une sorte de tache est apparue dans ma maison. » '
   - type: usfm
+    marker: v
+    metadata:
+      v: '36'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1313,12 +1457,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '37'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '37'
   - type: text
     text: 'Il examinera la tache. S''il voit que la tache sur les murs de la maison présente des cavités verdâtres ou rougeâtres qui paraissent plus enfoncées que le mur, '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '38'
   - type: usfm
     marker: vlbl
     children:
@@ -1353,12 +1505,20 @@ segments:
   - type: text
     text: 'le prêtre sortira de la maison ; quand il sera à l''entrée de la maison, il fera fermer la maison pour sept jours. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '39'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '39'
   - type: text
     text: 'Le prêtre y retournera le septième jour. S''il voit que la tache s''est étendue sur les murs de la maison, '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '40'
   - type: usfm
     marker: vlbl
     children:
@@ -1386,12 +1546,20 @@ segments:
   - type: text
     text: 'le prêtre ordonnera qu''on ôte les pierres où se trouve la tache, et qu''on les jette hors de la ville, dans un lieu impur. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '41'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '41'
   - type: text
     text: 'Il fera racler tout l''intérieur de la maison ; on répandra hors de la ville, dans un lieu impur, la poussière qu''on aura raclée. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '42'
   - type: usfm
     marker: vlbl
     children:
@@ -1492,6 +1660,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '43'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1499,12 +1671,20 @@ segments:
   - type: text
     text: 'Si la tache revient et fait éruption dans la maison après qu''on a ôté les pierres, raclé et recrépi la maison, '
   - type: usfm
+    marker: v
+    metadata:
+      v: '44'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '44'
   - type: text
     text: 'le prêtre y retournera. S''il voit que la tache s''est étendue dans la maison, c''est une « lèpre » pernicieuse dans la maison : celle-ci est impure. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '45'
   - type: usfm
     marker: vlbl
     children:
@@ -1536,6 +1716,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'On démolira la maison ; ses pierres, sa charpente, et toute la poussière de la maison, on les emportera hors de la ville, dans un lieu impur. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '46'
   - type: usfm
     marker: vlbl
     children:
@@ -1570,6 +1754,10 @@ segments:
   - type: text
     text: 'Celui qui entrera dans la maison pendant tout le temps qu''elle est fermée sera impur jusqu''au soir. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '47'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1580,12 +1768,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '48'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '48'
   - type: text
     text: 'Si le prêtre, en retournant dans la maison, voit que la tache ne s''est pas étendue après que la maison a été recrépie, le prêtre déclarera la maison pure ; le mal est guéri. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '49'
   - type: usfm
     marker: vlbl
     children:
@@ -1618,12 +1814,20 @@ segments:
   - type: text
     text: 'Il prendra, pour ôter le péché de la maison, deux oiseaux, du bois de cèdre, de l''écarlate et de l''hysope. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '50'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '50'
   - type: text
     text: 'Il immolera le premier oiseau sur un récipient de terre, au-dessus de l''eau vive. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '51'
   - type: usfm
     marker: vlbl
     children:
@@ -1632,12 +1836,20 @@ segments:
   - type: text
     text: 'Il prendra le bois de cèdre, l''hysope, l''écarlate et l''oiseau vivant ; il les trempera dans le sang de l''oiseau immolé et dans l''eau vive, et il en fera sept fois l''aspersion sur la maison. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '52'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '52'
   - type: text
     text: 'Il ôtera le péché de la maison avec le sang de l''oiseau, de l''eau vive, l''oiseau vivant, avec le bois de cèdre, l''hysope et l''écarlate. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '53'
   - type: usfm
     marker: vlbl
     children:
@@ -1673,12 +1885,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '54'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '54'
   - type: text
     text: 'Telle est la loi relative à tout cas de « lèpre » et à la teigne, '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '55'
   - type: usfm
     marker: vlbl
     children:
@@ -1687,12 +1907,20 @@ segments:
   - type: text
     text: 'à la « lèpre » des vêtements et des maisons, '
   - type: usfm
+    marker: v
+    metadata:
+      v: '56'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '56'
   - type: text
     text: 'aux tumeurs, aux dartres et aux taches luisantes, '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '57'
   - type: usfm
     marker: vlbl
     children:

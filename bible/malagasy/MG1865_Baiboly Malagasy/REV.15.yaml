@@ -11,6 +11,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -20,6 +24,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '2'
   - type: usfm
     marker: vlbl
     children:
@@ -36,6 +44,10 @@ segments:
   - type: text
     text: '''ny ranomasina fitaratra, nitana lokangan''Andriamanitra. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '3'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -43,12 +55,20 @@ segments:
   - type: text
     text: 'Ary mihira ny fihiran''i Mosesy, mpanompon''Andriamanitra, sy ny fihiran''ny Zanak''ondry izy manao hoe: Lehibe sy mahatalanjona ny asanao, Tompo Ô, Andriamanitra Tsitoha; Mahitsy sy marina ny lalanao, Ry Mpanjaka mandrakizay. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '4'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '4'
   - type: text
     text: 'Iza no tsy hatahotra? Ary iza no tsy hankalaza ny anaranao, Tompo ô? Fa Hianao ihany no masina, ary ny firenena rehetra ho avy hiankohoka eo anatrehanao; Fa efa naharihary ny fitsarana marina nataonao. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '5'
   - type: usfm
     marker: vlbl
     children:
@@ -73,6 +93,10 @@ segments:
   - type: text
     text: ' tany an-danitra; '
   - type: usfm
+    marker: v
+    metadata:
+      v: '6'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -88,12 +112,20 @@ segments:
   - type: text
     text: ' izy sady nisikina fisikinam-bolamena teo amin''ny tratrany. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '7'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '7'
   - type: text
     text: 'Ary ny anankiray tamin''ny zava-manan''aina efatra nanome ny anjely fito lovia volamena fito, feno ny fahatezeran''Andriamanitra, Izay velona mandrakizay mandrakizay. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '8'
   - type: usfm
     marker: vlbl
     children:

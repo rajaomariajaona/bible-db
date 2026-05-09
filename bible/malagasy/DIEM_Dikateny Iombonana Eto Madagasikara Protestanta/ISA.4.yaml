@@ -5,6 +5,10 @@ segments:
   marker: q1
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -41,12 +45,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '2'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '2'
   - type: text
     text: 'Amin’izany andro izany, izay ampanirin’ny TOMPO eo amin’ny tany dia ho tabiha sy ho voninahitra ho an’izay sisa velona teo amin’i Israely, ka izay vokatry ny tany no ho mariky ny fiandrianany sy reharehany. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:
@@ -62,12 +74,20 @@ segments:
   - type: text
     text: ' dia hantsoina hoe «voatokana ho an’ny Tompo»: ireo rehetra ireo no voasoratry ny Tompo mba ho velona ao Jerosalema. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '4'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '4'
   - type: text
     text: 'Hisy Fanahy fahamarinana sy fanadiovana hitsoka; koa rehefa voadion’ny Tompo ho afaka amin’ny lotony ireo andriambavilanitr’i Tsiôna, ary voasasan’ny Tompo ho afaka amin’ny ra nalatsaka tao aminy i Jerosalema, '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '5'
   - type: usfm
     marker: vlbl
     children:
@@ -96,6 +116,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: ' ho tonga eo ambonin’ny tendrombohitr’i Tsiôna manontolo sy amin’ny olona vory ao. Eny ambonin’ireo rehetra ireo kosa ny voninahitry ny TOMPO mba ho fiarovana, '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '6'
   - type: usfm
     marker: vlbl
     children:

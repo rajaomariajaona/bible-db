@@ -11,6 +11,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -29,6 +33,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '2'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -36,12 +44,20 @@ segments:
   - type: text
     text: 'Indro, toy ny fijerin''ny ankizilahy Ny tanan''ny tompolahiny, Ary toy ny fijerin''ny ankizivavy Ny tanan''ny tompovaviny, No fijerintsika an''i Jehovah Andriamanitsika, Mandra-pamindra fony amintsika. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '3'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '3'
   - type: text
     text: 'Mamindrà fo aminay, Jehovah ô, mamindrà fo aminay; Fa tototry ny fanamavoana loatra izahay; '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '4'
   - type: usfm
     marker: vlbl
     children:

@@ -17,12 +17,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '1'
   - type: text
     text: 'Jotam avait vingt-cinq ans lorsqu''il devint roi ; il régna seize ans à Jérusalem. Le nom de sa mère était Yerousha, fille de Tsadoq. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '2'
   - type: usfm
     marker: vlbl
     children:
@@ -105,6 +113,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:
@@ -204,12 +216,20 @@ segments:
   - type: text
     text: '  ; il bâtit beaucoup sur la muraille de l''Ophel. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '4'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '4'
   - type: text
     text: 'Il bâtit des villes dans la région montagneuse de Juda, ainsi que des citadelles et des tours dans les bois. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '5'
   - type: usfm
     marker: vlbl
     children:
@@ -278,6 +298,10 @@ segments:
   - type: text
     text: 'Il fut en guerre avec le roi des Ammonites et il l''emporta sur eux. Les Ammonites lui donnèrent cette année-là cent talents d''argent, dix mille kors de froment et dix mille d''orge ; voilà ce que lui payèrent les Ammonites, ainsi que la deuxième année et la troisième. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '6'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -320,6 +344,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '7'
   - type: usfm
     marker: vlbl
     children:
@@ -401,6 +429,10 @@ segments:
   - type: text
     text: 'Le reste de l''histoire de Jotam, toutes ses guerres et toutes ses entreprises, cela est écrit dans le livre des rois d''Israël et de Juda. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '8'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -435,6 +467,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Il avait vingt-cinq ans lorsqu''il devint roi ; il régna seize ans à Jérusalem. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '9'
   - type: usfm
     marker: vlbl
     children:

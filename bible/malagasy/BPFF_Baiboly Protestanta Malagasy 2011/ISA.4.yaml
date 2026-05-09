@@ -5,6 +5,10 @@ segments:
   marker: q1
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -46,12 +50,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '2'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '2'
   - type: text
     text: 'Amin’izany andro izany dia ho tonga fahatsaran-tarehy sy voninahitra ny solofon’NY TOMPO, ary ny vokatry ny tany dia ho rehareha sy firavaka ho an’izay nieren-doza tamin’ny Israely. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:
@@ -67,6 +79,10 @@ segments:
   - type: text
     text: ' sy izay mbola mitoetra any Jerosalema dia hatao hoe masina, dia izay rehetra voasoratra ho isan’ny velona any Jerosalema. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '4'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -74,12 +90,20 @@ segments:
   - type: text
     text: 'Rehefa voasasan’ny Tompo ho afaka amin’ny fahalotoany ireo zanakavavin’i Ziona, ary voadion’ny fanahin’ny fitsarana sy ny fanahin’ny fandringanana ho afaka amin’ny ran’olona nalatsany i Jerosalema, '
   - type: usfm
+    marker: v
+    metadata:
+      v: '5'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '5'
   - type: text
     text: 'dia hamorona rahona sy setroka NY TOMPO amin’ny antoandro ary fahazavan’ny afo midedadeda amin’ny alina. Ho eny ambonin’ny toerana rehetra any an-tendrombohitra Ziona izany sady ho eny ambonin’ny fivoriany rehetra; satria ho fiarovana eo ambonin’ny zavatra rehetra ny voninahiny. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '6'
   - type: usfm
     marker: vlbl
     children:

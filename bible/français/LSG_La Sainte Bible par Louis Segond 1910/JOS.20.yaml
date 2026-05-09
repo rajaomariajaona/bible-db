@@ -17,12 +17,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '1'
   - type: text
     text: 'L’Éternel parla à Josué, et dit: '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '2'
   - type: usfm
     marker: vlbl
     children:
@@ -73,12 +81,20 @@ segments:
   - type: text
     text: 'comme je vous l’ai ordonné par Moïse, des villes de refuge, '
   - type: usfm
+    marker: v
+    metadata:
+      v: '3'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '3'
   - type: text
     text: 'où pourra s’enfuir le meurtrier qui aura tué quelqu’un involontairement, sans intention; elles vous serviront de refuge contre le vengeur du sang. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '4'
   - type: usfm
     marker: vlbl
     children:
@@ -127,12 +143,20 @@ segments:
   - type: text
     text: 'Le meurtrier s’enfuira vers l’une de ces villes, s’arrêtera à l’entrée de la porte de la ville, et exposera son cas aux anciens de cette ville; ils le recueilleront auprès d’eux dans la ville, et lui donneront une demeure, afin qu’il habite avec eux. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '5'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '5'
   - type: text
     text: 'Si le vengeur du sang le poursuit, ils ne livreront point le meurtrier entre ses mains; car c’est sans le vouloir qu’il a tué son prochain, et sans avoir été auparavant son ennemi. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '6'
   - type: usfm
     marker: vlbl
     children:
@@ -141,12 +165,20 @@ segments:
   - type: text
     text: 'Il restera dans cette ville jusqu’à ce qu’il ait comparu devant l’assemblée pour être jugé, jusqu’à la mort du souverain sacrificateur alors en fonctions. A cette époque, le meurtrier s’en retournera et rentrera dans sa ville et dans sa maison, dans la ville d’où il s’était enfui. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '7'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '7'
   - type: text
     text: 'Ils consacrèrent Kédesch, en Galilée, dans la montagne de Nephthali; Sichem, dans la montagne d’Éphraïm; et Kirjath-Arba, qui est Hébron, dans la montagne de Juda. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '8'
   - type: usfm
     marker: vlbl
     children:
@@ -169,6 +201,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Betser, dans le désert, dans la plaine, dans la tribu de Ruben; Ramoth, en Galaad, dans la tribu de Gad; et Golan, en Basan, dans la tribu de Manassé. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '9'
   - type: usfm
     marker: vlbl
     children:

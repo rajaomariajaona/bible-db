@@ -17,6 +17,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -24,12 +28,20 @@ segments:
   - type: text
     text: 'Le roi Assuérus imposa un tribut au pays et aux îles de la mer. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '2'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '2'
   - type: text
     text: 'Tous les faits concernant sa puissance et ses exploits, et les détails sur la grandeur à laquelle le roi éleva Mardochée, ne sont-ils pas écrits dans le livre des Chroniques des rois des Mèdes et des Perses? '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:

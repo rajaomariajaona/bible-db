@@ -11,6 +11,10 @@ segments:
   marker: m
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -39,6 +43,10 @@ segments:
   - type: text
     text: ' after Baruch had written down everything Jeremiah had dictated to him. He said, '
   - type: usfm
+    marker: v
+    metadata:
+      v: '2'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -52,6 +60,10 @@ segments:
       text: Lord
   - type: text
     text: ', the God of Israel, says to you, Baruch: '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:
@@ -70,6 +82,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '4'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -83,6 +99,10 @@ segments:
       text: Lord
   - type: text
     text: ' says: ‘I will destroy this nation that I built. I will uproot what I planted. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '5'
   - type: usfm
     marker: vlbl
     children:

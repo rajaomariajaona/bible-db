@@ -11,6 +11,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -39,12 +43,20 @@ segments:
   - type: text
     text: ' mijangajanga, dia tahaka ny fitiavan’i Jehovah ny Zanak’Isiraely, nefa ireo kosa dia mihodina ho amin’izay andriamani-kafa sady tia ampempam-boaloboka. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '2'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '2'
   - type: text
     text: 'Ka dia novidiko sekely volafotsy dimy ambin’ny folo sy vary hordea homera iray sy tapany izy. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:
@@ -56,12 +68,20 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '4'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '4'
   - type: text
     text: 'Fa andro maro no hitoeran’ny Zanak’Isiraely tsy hanana mpanjaka, na mpanapaka, na fanatitra, na tsangam-bato, na efoda, na terafima. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '5'
   - type: usfm
     marker: vlbl
     children:

@@ -11,6 +11,10 @@ segments:
   marker: m
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -39,6 +43,10 @@ segments:
   - type: text
     text: ' '
   - type: usfm
+    marker: v
+    metadata:
+      v: '2'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -55,6 +63,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:
@@ -96,6 +108,10 @@ segments:
   - type: text
     text: ' '
   - type: usfm
+    marker: v
+    metadata:
+      v: '4'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -124,12 +140,20 @@ segments:
   - type: text
     text: ' as prisoners. He will make them walk naked and barefoot, both young and old, their buttocks bared, to the shame of Egypt. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '5'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '5'
   - type: text
     text: 'Then the Philistines will be thrown into panic, for they counted on the power of Ethiopia and boasted of their allies in Egypt! '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '6'
   - type: usfm
     marker: vlbl
     children:

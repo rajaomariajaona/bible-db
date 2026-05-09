@@ -11,6 +11,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -18,12 +22,20 @@ segments:
   - type: text
     text: 'Nampandoa hetra ny tany sy ny nosin-dranomasina i Ahasoerosy mpanjaka. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '2'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '2'
   - type: text
     text: 'Ary izay rehetra nataony araka ny fahefany sy ny heriny mbamin’ny filazana ny fahalehibiazan’i Mordekay, araka izay nanandratan’ny mpanjaka azy, tsy voasoratra ao amin’ny bokin’ny tantaran’ny mpanjakan’i Media sy i Persia va izany? '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:

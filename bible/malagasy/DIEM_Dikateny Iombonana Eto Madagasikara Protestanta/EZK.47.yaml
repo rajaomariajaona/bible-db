@@ -11,6 +11,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -32,12 +36,20 @@ segments:
   - type: text
     text: '. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '2'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '2'
   - type: text
     text: 'Dia nitondra ahy nivoaka ny tempoly tamin’ny vavahady avaratra izy ka nampandeha ahy nanodidina tany ivelany hipaka amin’ny vavahady atsinanana. Ary indro avy teo ankavanan’ity vavahady ity no nikoriana ny rano. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:
@@ -46,12 +58,20 @@ segments:
   - type: text
     text: 'Nandroso niantsinanana ralehilahy, nitana tady izay nandrefesany dimanjato metatra niantsinanana. Avy eo dia nampita ahy ny rano izy ka hatreny an-kitrokeliko izany. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '4'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '4'
   - type: text
     text: 'Dia nandrefy dimanjato metatra indray izy, ary nampita ahy ny rano ka hatreny an-dohaliko izany. Nony afaka dimanjato metatra manaraka dia nampita ahy ny rano indray izy, ka hatreny andilako ny rano. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '5'
   - type: usfm
     marker: vlbl
     children:
@@ -60,6 +80,10 @@ segments:
   - type: text
     text: 'Nandrefy dimanjato metatra indray izy, ka ony tsy azoko niampitana intsony ny rano fa efa nihalalina. Eny, ony tsy azo iampitana intsony izy raha tsy amin’ny lomano. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '6'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -67,12 +91,20 @@ segments:
   - type: text
     text: 'Ary hoy ralehilahy tamiko: «Hitanao tsara ve izany, ry ilay taranak’olombelona?» Dia nentiny nihataka kely aho, vao naveriny indray hankeo amoron’ny ony. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '7'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '7'
   - type: text
     text: 'Rehefa tafaverina teo aho, dia hitako fa nisy hazo marobe teny amoron’ny ony an-daniny roa. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '8'
   - type: usfm
     marker: vlbl
     children:
@@ -107,12 +139,20 @@ segments:
   - type: text
     text: '. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '9'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '9'
   - type: text
     text: 'Hifanaretsaka ny zava-miaina isan-karazany ary hitombo marobe ny trondro, na aiza na aiza hivarinan’ilay ony. Fa hanadio ny ranomasina izany; ka any amin’izay hivarinany dia hitondrany aina. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '10'
   - type: usfm
     marker: vlbl
     children:
@@ -121,12 +161,20 @@ segments:
   - type: text
     text: 'Ary manomboka eo Haîna-Gedỳ ka hatrany Haîna-Heglaima, dia hisy mpanarato hanahy ny haratony eny amoron’io ranomasina io. Fa hahitana trondro marobe isan-karazany ao tahaka ny any amin’ny Ranomasina Mediteranea. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '11'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '11'
   - type: text
     text: 'Nefa kosa ireo heniheny sy honahona eo amoron-tsiraka dia tsy hodiovina fa havela ho fakana sira. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '12'
   - type: usfm
     marker: vlbl
     children:
@@ -143,6 +191,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '13'
   - type: usfm
     marker: vlbl
     children:
@@ -177,12 +229,20 @@ segments:
   - type: text
     text: '. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '14'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '14'
   - type: text
     text: 'Samy hanana anjara faritany mitovy ny foko tsirairay. Efa nianiana manko Aho fa homeko ny razanareo ity tany ity, ka ho azonareo ho fanananareo. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '15'
   - type: usfm
     marker: vlbl
     children:
@@ -191,6 +251,10 @@ segments:
   - type: text
     text: 'Toy izao no faritry ny tany: Ny sisin-tany avaratra dia hiainga eo amin’ny Ranomasina Mediteranea, ka hanaraka ny lalana mankany Hetlôna sy Lebô-Hamata ary Tsedada; '
   - type: usfm
+    marker: v
+    metadata:
+      v: '16'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -198,12 +262,20 @@ segments:
   - type: text
     text: 'avy eo dia mandalo ny tanàna Berôtà sy Sibraîma anelanelan’ny fanjakan’i Damasy sy fanjakan’i Hamata ary mandalo ny tanàna Hatsara-Henôna ao akaikin’ny sisin-tanin’i Haoràna. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '17'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '17'
   - type: text
     text: 'Izany sisin-tany izany dia miainga eo amin’ny Ranomasina Mediteranea ka hatrany Hatsara-Henôna any atsinanana. Any avaratra izy dia voafefin’ny fanjakan’i Damasy sy i Hamata. Izay no sisin-tany avaratra. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '18'
   - type: usfm
     marker: vlbl
     children:
@@ -253,6 +325,10 @@ segments:
   - type: text
     text: 'eo amoron’ny Ranomasina Maty. Izay no sisin-tany atsinanana. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '19'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -281,6 +357,10 @@ segments:
   - type: text
     text: ' ka hipaka eo amin’ny Ranomasina Mediteranea. Izay no sisin-tany atsimo. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '20'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -291,6 +371,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '21'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -298,12 +382,20 @@ segments:
   - type: text
     text: '«Hifampizarànareo foko israelita io tany io. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '22'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '22'
   - type: text
     text: 'Antsapaka no hizarànareo azy ho anareo ary koa ho an’ny vahiny mipetraka sy efa miteraka eo aminareo. Ireny koa dia tokony hoentinareo tahaka ny Israelita ka ho valovotaka hahazo zaratany antsapaka eo anivon’ny fokon’i Israely. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '23'
   - type: usfm
     marker: vlbl
     children:

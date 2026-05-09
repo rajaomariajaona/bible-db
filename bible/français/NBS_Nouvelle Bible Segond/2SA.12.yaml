@@ -11,6 +11,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '1'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -119,6 +123,10 @@ segments:
   marker: q1
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '2'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -128,6 +136,10 @@ segments:
 - type: usfm
   marker: q1
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '3'
   - type: usfm
     marker: vlbl
     children:
@@ -180,6 +192,10 @@ segments:
   marker: q1
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '4'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -225,6 +241,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '5'
   - type: usfm
     marker: vlbl
     children:
@@ -312,6 +332,10 @@ segments:
   - type: text
     text: ', l''homme qui a fait cela mérite la mort ! '
   - type: usfm
+    marker: v
+    metadata:
+      v: '6'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -352,6 +376,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '7'
   - type: usfm
     marker: vlbl
     children:
@@ -432,6 +460,10 @@ segments:
   - type: text
     text: ', le Dieu d''Israël : C''est moi qui t''ai conféré l''onction pour que tu sois roi sur Israël, et c''est moi qui t''ai délivré de la main de Saül ; '
   - type: usfm
+    marker: v
+    metadata:
+      v: '8'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -489,6 +521,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'je t''ai donné la maison de ton seigneur, j''ai placé sur ton sein les femmes de ton seigneur et je t''ai donné la maison d''Israël et de Juda. Et si cela ne suffisait pas, j''y ajouterais encore ! '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '9'
   - type: usfm
     marker: vlbl
     children:
@@ -590,6 +626,10 @@ segments:
   - type: text
     text: ', en faisant ce qui lui déplaisait ? Tu as abattu par l''épée Urie, le Hittite ; tu as pris sa femme pour en faire ta femme, et lui, tu l''as tué par l''épée des Ammonites. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '10'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -646,6 +686,10 @@ segments:
   - type: text
     text: 'Maintenant, l''épée ne s''écartera jamais de ta maison, parce que tu m''as méprisé et parce que tu as pris la femme d''Urie, le Hittite, pour en faire ta femme. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '11'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -673,6 +717,10 @@ segments:
       text: Seigneur
   - type: text
     text: '  : Je suscite un malheur contre toi du sein de ta maison ; je prendrai tes propres femmes sous tes yeux pour les donner à l''un de tes proches, et il couchera avec tes femmes sous les yeux de ce soleil. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '12'
   - type: usfm
     marker: vlbl
     children:
@@ -702,6 +750,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '13'
   - type: usfm
     marker: vlbl
     children:
@@ -783,6 +835,10 @@ segments:
       text: Seigneur
   - type: text
     text: ' laisse passer ton péché ; tu ne mourras pas. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '14'
   - type: usfm
     marker: vlbl
     children:
@@ -878,6 +934,10 @@ segments:
   - type: text
     text: ' en cette affaire, le fils qui t''est né mourra. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '15'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -953,6 +1013,10 @@ segments:
   - type: text
     text: ' frappa l''enfant que la femme d''Urie avait donné à David : il tomba malade. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '16'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1016,6 +1080,10 @@ segments:
   - type: text
     text: 'David rechercha Dieu pour le garçon et il se mit à jeûner. Rentré chez lui, il passait la nuit couché par terre. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '17'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1058,6 +1126,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Les anciens de sa maison insistèrent auprès de lui pour qu''il se relève de terre ; mais il ne voulut pas et il refusa de manger quoi que ce soit avec eux. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '18'
   - type: usfm
     marker: vlbl
     children:
@@ -1110,12 +1182,20 @@ segments:
   - type: text
     text: 'Le septième jour, l''enfant mourut. Les gens de la cour de David avaient peur de lui annoncer que l''enfant était mort. Ils disaient : Lorsque l''enfant était encore en vie, nous lui avons parlé, et il ne nous a pas écoutés ; comment pourrions-nous lui dire : « L''enfant est mort ! » Il va très mal réagir. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '19'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '19'
   - type: text
     text: 'David s''aperçut que ses gens chuchotaient entre eux et il comprit que l''enfant était mort. Il leur demanda : L''enfant est-il mort ? Ils répondirent : Il est mort. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '20'
   - type: usfm
     marker: vlbl
     children:
@@ -1145,12 +1225,20 @@ segments:
   - type: text
     text: ' et se prosterna. Il rentra ensuite chez lui et demanda qu''on lui serve un repas ; il mangea. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '21'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '21'
   - type: text
     text: 'Les gens de sa cour lui dirent : Que fais-tu là ? Quand l''enfant était vivant, tu jeûnais et tu pleurais pour lui ; et maintenant que l''enfant est mort, tu te lèves et tu manges ! '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '22'
   - type: usfm
     marker: vlbl
     children:
@@ -1189,6 +1277,10 @@ segments:
       text: Seigneur
   - type: text
     text: ' ne me fera pas grâce et si l''enfant ne vivra pas ? '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '23'
   - type: usfm
     marker: vlbl
     children:
@@ -1234,6 +1326,10 @@ segments:
 - type: usfm
   marker: p
   children:
+  - type: usfm
+    marker: v
+    metadata:
+      v: '24'
   - type: usfm
     marker: vlbl
     children:
@@ -1363,6 +1459,10 @@ segments:
       text: Seigneur
   - type: text
     text: '. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '25'
   - type: usfm
     marker: vlbl
     children:
@@ -1525,6 +1625,10 @@ segments:
   marker: p
   children:
   - type: usfm
+    marker: v
+    metadata:
+      v: '26'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1648,6 +1752,10 @@ segments:
   - type: text
     text: 'Joab attaqua Rabba-des-Ammonites et prit la cité royale. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '27'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
@@ -1690,6 +1798,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Il envoya des messagers à David, pour lui dire : J''ai attaqué Rabba et j''ai déjà pris la Ville des Eaux ; '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '28'
   - type: usfm
     marker: vlbl
     children:
@@ -1788,12 +1900,20 @@ segments:
   - type: text
     text: 'rassemble maintenant le reste des troupes, dresse ton camp contre la ville et prends-la, de peur que je ne la prenne moi-même et que mon nom ne soit prononcé sur elle. '
   - type: usfm
+    marker: v
+    metadata:
+      v: '29'
+  - type: usfm
     marker: vlbl
     children:
     - type: text
       text: '29'
   - type: text
     text: 'David rassembla toutes les troupes et marcha sur Rabba ; il l''attaqua et la prit. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '30'
   - type: usfm
     marker: vlbl
     children:
@@ -1901,6 +2021,10 @@ segments:
     marker-yv: yv-n
   - type: text
     text: 'Il prit la couronne de la tête de son roi ; son poids était d''un talent – un talent d''or – et elle était garnie d''une pierre précieuse. Elle fut dès lors sur la tête de David. Il emporta de la ville un très grand butin. '
+  - type: usfm
+    marker: v
+    metadata:
+      v: '31'
   - type: usfm
     marker: vlbl
     children:
