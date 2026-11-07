@@ -1,0 +1,28 @@
+languages:
+- language: english
+  translation: bible/english/lang.yaml
+  bibles:
+  - version_id: KJV
+    bible_id: 1
+    version_name: King James Version
+    version_commit: 6f14f4a60d85e3d876a080a567f02f1c833f1b80
+    path: dist/english/KJV.zst
+    file_size: 2638891
+- language: français
+  translation: bible/français/lang.yaml
+  bibles:
+  - version_id: LSG
+    bible_id: 93
+    version_name: La Sainte Bible par Louis Segond 1910
+    version_commit: 29155f23326dd1284b4c3e175a8956d6c5c5f590
+    path: dist/français/LSG.zst
+    file_size: 3192637
+- language: malagasy
+  translation: bible/malagasy/lang.yaml
+  bibles:
+  - version_id: MG1865
+    bible_id: 96
+    version_name: Malagasy Bible
+    version_commit: a66d728240ebcb218c48894a2d29443239e3249b
+    path: dist/malagasy/MG1865.zst
+    file_size: 2265068
