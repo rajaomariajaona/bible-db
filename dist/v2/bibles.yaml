@@ -1,0 +1,33 @@
+languages:
+- language: english
+  translation: bible/english/lang.yaml
+  bibles:
+  - version_id: KJV
+    bible_id: 1
+    version_name: King James Version
+    version_commit: 325b9bc0b65fc1fee629c2b726000e93d44f44ac
+    path: dist/v2/english/KJV.zst
+    file_size: 2227317
+- language: français
+  translation: bible/français/lang.yaml
+  bibles:
+  - version_id: LSG
+    bible_id: 93
+    version_name: La Sainte Bible par Louis Segond 1910
+    version_commit: a136f2ef94166f98e794653a985d720144bc43ae
+    path: dist/v2/français/LSG.zst
+    file_size: 2679568
+- language: malagasy
+  translation: bible/malagasy/lang.yaml
+  bibles:
+  - version_id: MG1865
+    bible_id: 96
+    version_name: Malagasy Bible
+    version_commit: d85a6bd13f8b6ea3963d0c2fb13282ce3f50f52d
+    path: dist/v2/malagasy/MG1865.zst
+    file_size: 1802922
+daily_verses:
+- year: 2026
+  hash: 84e6c9364653cc9fb7ae3726e53bf4cbe6a2f769
+  path: dist/v2/daily-verse/2026.zst
+  file_size: 1136
